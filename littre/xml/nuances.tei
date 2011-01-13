@@ -320,7 +320,7 @@
                 <orth type="N"><m>CHARME</m>S</orth>
               </form>
               <dictScrap>Ces trois <ref cRef="mot">mots</ref>
-                <ref cRef="exprimer">expriment</ref> les beautés qui dans une femme saisissent les yeux et les captivent. Les <oVar>attraits</oVar>,
+                <ref cRef="exprimer">expriment</ref> les <gloss>beautés qui dans une femme saisissent les yeux et les captivent</gloss>. Les <oVar>attraits</oVar>,
                 c’est ce <gloss>qui <oVar type="der">attire</oVar></gloss> ; les <oVar>appas</oVar>, c’est ce <gloss>qui amorce</gloss> ; les
                   <oVar>charmes</oVar>, c’est ce <gloss>qui exerce une sorte d’<ref cRef="enchantement">enchantement</ref></gloss>. <cit>
                   <quote>[<persName>Hypsipyle</persName> à <persName>Médée</persName>] Je n’ai que des <oVar>attraits</oVar>, et vous avez des
@@ -1005,8 +1005,10 @@
                 <orth type="V">APAISER</orth>
                 <orth type="V">CALMER</orth>
               </form>
-              <dictScrap><oVar>Apaiser</oVar>, c’est rendre la <oVar type="der">paix</oVar> ; <oVar>calmer</oVar>, c’est rendre le <oVar>calme</oVar>.
-                Comme <oVar>calme</oVar> est d’une signification <term key="général" type="figure">plus étendue</term> que paix, <oVar>calmer</oVar>
+              <dictScrap><oVar>Apaiser</oVar>, c’est <gloss>rendre la <oVar type="der">paix</oVar></gloss> ; <oVar>calmer</oVar>, c’est 
+                <gloss>rendre le <oVar type="der">calme</oVar></gloss>.
+                Comme <oVar type="der">calme</oVar> est d’une signification <term key="général" type="figure">plus étendue</term> que <oVar type="der">paix</oVar>,
+                <oVar>calmer</oVar>
                 est <term key="général" type="figure">plus compréhensif</term> que <oVar>apaiser</oVar>. <q>On <oVar>apaise</oVar> un homme</q>, quand
                 on fait disparaître sa <ref cRef="colère">colère</ref> ; <q>on le <oVar>calme</oVar></q> non seulement dans ce cas, mais aussi quand
                 il est livré à la <ref cRef="peur">peur</ref>, à l’inquiétude, à l’impatience, à la curiosité. Cette distinction indique la
@@ -10102,8 +10104,8 @@
                 <orth type="Q">COURT</orth>
               </form>
               <dictScrap><oVar>Bref</oVar> a rapport à la <ref cRef="durée">durée</ref> ; <oVar>court</oVar>, à l’<ref cRef="étendue">étendue</ref>.
-                C’est là ce qui distingue ces deux <ref cRef="mot">mots</ref>. <q>Soyez <oVar>bref</oVar></q>, se dit <gloss>à quelqu’un qui
-                  parle</gloss> ; <q>soyez <oVar>court</oVar></q>, se dit <gloss>à quelqu’un qui va écrire</gloss> ou composer. En effet, être
+                C’est là ce qui distingue ces deux <ref cRef="mot">mots</ref>. <q>Soyez <oVar>bref</oVar></q>, se dit à quelqu’un qui
+                  parle ; <q>soyez <oVar>court</oVar></q>, se dit à quelqu’un qui va écrire ou composer. En effet, être
                   <oVar>bref</oVar> c’est prendre peu de <ref cRef="temps">temps</ref> pour s’<ref cRef="expliquer">expliquer</ref> ; être
                   <oVar>court</oVar>, c’est tenir peu d’<ref cRef="espace">espace</ref> sur le papier. Si l’on dit : la vie est si
                 <oVar>courte</oVar>, nos jours sont si <oVar>brefs</oVar>, on se représente, dans le premier cas, la vie comme une <ref cRef="étendue"
@@ -10314,7 +10316,7 @@
               <dictScrap><oVar>Devancer</oVar> vient de <oVar type="der">devant</oVar>, et <oVar>précéder</oVar> a en composition la préposition
                   <lang>latine</lang>
                 <etym xml:lang="la">prae</etym> qui veut dire <gloss>en <oVar type="der">avant</oVar></gloss>. De là vient que <q>celui qui
-                    <oVar>devance</oVar></q><gloss>arrive le premier</gloss>, et que <q>celui qui <oVar>précède</oVar></q>
+                    <oVar>devance</oVar></q> <gloss>arrive le premier</gloss>, et que <q>celui qui <oVar>précède</oVar></q>
                 <gloss><ref cRef="marche">marche</ref> en <oVar type="der">avant</oVar>, en tête, le premier</gloss>. Cette <ref cRef="différence"
                   >différence</ref> est purement étymologique et grammaticale, et, dans l’usage, les deux <ref cRef="mot">mots</ref> se prennent <ref
                   cRef="fréquemment">fréquemment</ref> l’un pour l’autre.</dictScrap>
@@ -12075,7 +12077,7 @@
                 <orth type="V">DÉCOUVRIR</orth>
                 <orth type="V">TROUVER</orth>
               </form>
-              <dictScrap>On dira également : <q><persName>Newton</persName><oVar>découvrit</oVar> ou <oVar>trouva</oVar> la <ref cRef="loi">loi</ref>
+              <dictScrap>On dira également : <q><persName>Newton</persName> <oVar>découvrit</oVar> ou <oVar>trouva</oVar> la <ref cRef="loi">loi</ref>
                   de la gravitation <ref cRef="universel">universelle</ref></q>. Mais il y a cette <ref cRef="différence">différence</ref> indiquée
                 par l’étymologie, que <oVar>découvrir</oVar> signifie <gloss>ôter ce qui <oVar type="der">couvrait</oVar></gloss> ; par <ref
                   cRef="conséquent">conséquent</ref> il implique toujours qu’il a fallu faire un effort. <oVar>Trouver</oVar> n’implique rien de
@@ -17987,8 +17989,10 @@
                 <orth type="N">ADHÉRENCE</orth>
                 <orth type="N">ADHÉSION</orth>
               </form>
-              <dictScrap><gloss>Union, jonction d’une chose qui tient à une autre.</gloss> L’<oVar>adhérence</oVar> est l’état d’une chose qui <oVar
-                  type="der">adhère</oVar> ; l’<oVar>adhésion</oVar> est l’action même d’<oVar type="der">adhérer</oVar>. De là découle, quand il y a
+              <dictScrap><gloss>Union, jonction d’une chose qui tient à une autre.</gloss> L’<oVar>adhérence</oVar> est 
+                l’<gloss><term key="état" type="construction">état</term> d’une chose qui <oVar
+                  type="der">adhère</oVar></gloss> ; l’<oVar>adhésion</oVar> est 
+                l’<gloss><term key="action" type="construction">action</term> même d’<oVar type="der">adhérer</oVar></gloss>. De là découle, quand il y a
                 lieu de distinguer, la <ref cRef="différence">différence</ref> dans l’emploi des deux <ref cRef="mot">mots</ref>.
                   L’<oVar>adhérence</oVar>, étant un <term key="état" type="construction">état</term>, est involontaire ; l’<oVar>adhésion</oVar>,
                 étant une <term key="action" type="construction">action</term>, est volontaire.</dictScrap>
