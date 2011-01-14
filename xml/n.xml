@@ -11,10 +11,11 @@
 <publisher>http://javacrim.sourceforge.net/</publisher>
 <availability status="restricted">
 <p> Licence Creative Commons : <ref target="http://creativecommons.org/licenses/by-sa/2.0/fr/">Paternité – Partage des Conditions Initiales à l'Identique – 2.0 France</ref></p>
-<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.               </p>
+<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.</p>
 </availability>
 </publicationStmt>
 <sourceDesc>
+<bibl><ref target="http://francois.gannaz.free.fr/Littre/">XMLittré v1.3</ref></bibl>
 <bibl>Littré, Dictionnaire de la Langue Française</bibl>
 </sourceDesc>
 </fileDesc>
@@ -438,7 +439,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Nom, en Normandie, chez les bouchers, de la fesse du boeuf, à Paris la tranche au petit os.</dictScrap>
+<dictScrap>Nom, en Normandie, chez les bouchers, de la fesse du bœuf, à Paris la tranche au petit os.</dictScrap>
 </sense>
 <etym>Nache est, dans l'ancien français, le nom de la fesse, et vient du bas-lat. natica, dérivé du latin nates.</etym>
 </entry>
@@ -459,7 +460,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Matière blanche et brillante qui forme l'intérieur de plusieurs coquilles et qui a la propriété de réfracter la lumière d'une manière variée et agréable à l'oeil ; elle est produite par une sécrétion du mollusque nommé avicule. Un étui de nacre.</dictScrap>
+<dictScrap>Matière blanche et brillante qui forme l'intérieur de plusieurs coquilles et qui a la propriété de réfracter la lumière d'une manière variée et agréable à l'œil ; elle est produite par une sécrétion du mollusque nommé avicule. Un étui de nacre.</dictScrap>
 <cit>
 <quote>Sur cet amas brillant de nacre et de coral</quote>
 <bibl>
@@ -1006,7 +1007,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les nageoires, qui sont les ailes des poissons, ne sont pas moins propres à manoeuvrer dans l'eau, que les ailes des oiseaux à manoeuvrer dans l'air</quote>
+<quote>Les nageoires, qui sont les ailes des poissons, ne sont pas moins propres à manœuvrer dans l'eau, que les ailes des oiseaux à manœuvrer dans l'air</quote>
 <bibl>
 <author>BONNET</author>
 <biblScope>Contempl. nat. XII, 27</biblScope>
@@ -1223,7 +1224,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Son coeur nage dans la mollesse</quote>
+<quote>Son cœur nage dans la mollesse</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Esth. II, 9</biblScope>
@@ -1331,7 +1332,7 @@
 </sense>
 </sense>
 <sense n="8">
-<dictScrap>Il se dit de l'oeil, du regard qui devient vague et comme noyé.</dictScrap>
+<dictScrap>Il se dit de l'œil, du regard qui devient vague et comme noyé.</dictScrap>
 <cit>
 <quote>....Elle fait un effort, Étend les bras, me cherche, ouvre avec peine Des yeux nageant dans l'ombre de la mort</quote>
 <bibl>
@@ -1631,7 +1632,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>L'ombre avec la lumière y peut tracer souvent [dans une lunette astronomique] Un homme, un boeuf, un éléphant : Naguère l'Angleterre y vit chose pareille</quote>
+<quote>L'ombre avec la lumière y peut tracer souvent [dans une lunette astronomique] Un homme, un bœuf, un éléphant : Naguère l'Angleterre y vit chose pareille</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Fabl. VII, 18</biblScope>
@@ -1843,7 +1844,7 @@
 <quote>Jacques Amyot, plus connu par sa naïve traduction de Plutarque que par cette ambassade</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 172</biblScope>
+<biblScope>Mœurs, 172</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -1864,7 +1865,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>J'estime ta valeur Et de ton coeur ouvert la naïve candeur</quote>
+<quote>J'estime ta valeur Et de ton cœur ouvert la naïve candeur</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Scythes, II, 2</biblScope>
@@ -2200,7 +2201,7 @@
 <dictScrap>On le dit, dans le même sens, des animaux. Cheval nain.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Oeuf nain, oeuf de poule qui ne contient point de jaune.</dictScrap>
+<dictScrap>Oeuf nain, œuf de poule qui ne contient point de jaune.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -2341,7 +2342,7 @@
 <quote>Le nombre des naissances [en une année commune], multiplié par 34, donne toujours à peu près la somme des habitants</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 185</biblScope>
+<biblScope>Mœurs, 185</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2389,7 +2390,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Naissance se dit, en physiologie, d'une manière générale pour indiquer l'apparition d'un corps organisé qui n'existait pas. La naissance des rudiments du poulet dans l'oeuf fécondé. La naissance du tubercule dans le poumon.</dictScrap>
+<dictScrap>Naissance se dit, en physiologie, d'une manière générale pour indiquer l'apparition d'un corps organisé qui n'existait pas. La naissance des rudiments du poulet dans l'œuf fécondé. La naissance du tubercule dans le poumon.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Origine par le sang, par la famille.</dictScrap>
@@ -2443,7 +2444,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Issue de cette race, fille de Henri le Grand et de tant de rois, son grand coeur a surpassé sa naissance</quote>
+<quote>Issue de cette race, fille de Henri le Grand et de tant de rois, son grand cœur a surpassé sa naissance</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Reine d'Anglet.</biblScope>
@@ -2471,7 +2472,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>N'allait-elle pas gagner tous les coeurs, c'est-à-dire la seule chose qu'ont à gagner ceux à qui la naissance et la fortune semblent tout donner ?</quote>
+<quote>N'allait-elle pas gagner tous les cœurs, c'est-à-dire la seule chose qu'ont à gagner ceux à qui la naissance et la fortune semblent tout donner ?</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Duch. d'Orl.</biblScope>
@@ -2753,7 +2754,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Terme d'anatomie. La naissance d'une artère, le point d'où elle se détache du coeur ou d'une autre artère.</dictScrap>
+<dictScrap>Terme d'anatomie. La naissance d'une artère, le point d'où elle se détache du cœur ou d'une autre artère.</dictScrap>
 </sense>
 </sense>
 <sense n="9">
@@ -2778,7 +2779,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>On ne tombe pas dans les vices qu'il [le peuple romain] fit éclater sous ses maîtres, sans quelque défaut de naissance dans le coeur</quote>
+<quote>On ne tombe pas dans les vices qu'il [le peuple romain] fit éclater sous ses maîtres, sans quelque défaut de naissance dans le cœur</quote>
 <bibl>
 <author>CHATEAUBR.</author>
 <biblScope>Génie, IV, VI, 13</biblScope>
@@ -2916,7 +2917,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Soit que son coeur, jaloux d'une austère fierté, Enviât à nos yeux sa naissante beauté</quote>
+<quote>Soit que son cœur, jaloux d'une austère fierté, Enviât à nos yeux sa naissante beauté</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Brit. II, 2</biblScope>
@@ -2968,7 +2969,7 @@
 <quote>Il y avait encore dans l'Asie Mineure un grand nombre de manichéens qui vivaient paisibles, parce que la fureur d'enthousiasme qui n'est guère que dans les sectes naissantes était passée</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 29</biblScope>
+<biblScope>Mœurs, 29</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3235,7 +3236,7 @@
 <dictScrap>Naître se dit, en théologie, du Fils de Dieu. Le Verbe naît éternellement du Père d'une manière ineffable.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Naître se dit aussi des animaux, des végétaux. Un agneau qui vient de naître. Un oiseau, un serpent, une tortue naissent d'un oeuf.</dictScrap>
+<dictScrap>Naître se dit aussi des animaux, des végétaux. Un agneau qui vient de naître. Un oiseau, un serpent, une tortue naissent d'un œuf.</dictScrap>
 <cit>
 <quote>Je connais un vieillard dont les secrets divers Ont fait naître des fleurs au milieu des hivers</quote>
 <bibl>
@@ -3346,7 +3347,7 @@
 <quote>L'histoire ne célèbre pas de plus grand homme de guerre [qu'Alexandre Farnèse] ; mais il ne put empêcher ni la fondation des sept Provinces-unies, ni les progrès de cette république qui naquit sous ses yeux</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 164</biblScope>
+<biblScope>Mœurs, 164</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3468,7 +3469,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ces flammes dans nos coeurs sans votre ordre étaient nées</quote>
+<quote>Ces flammes dans nos cœurs sans votre ordre étaient nées</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Cinna, V, 2</biblScope>
@@ -3906,7 +3907,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>J'ai voulu vous parler à coeur ouvert, je l'ai fait, je suis contente ; il semble que vous aimez assez ma naïveté</quote>
+<quote>J'ai voulu vous parler à cœur ouvert, je l'ai fait, je suis contente ; il semble que vous aimez assez ma naïveté</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>à Guitaut, 7 oct. 1679</biblScope>
@@ -3923,7 +3924,7 @@
 <quote>Ne voit-on pas des gens dont la naïveté et la candeur empêchent qu'on ne rende justice à leur esprit ? cependant la naïveté n'est que l'expression la plus simple et la plus naturelle d'une idée dont le fonds peut être fin et délicat</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid, moeurs, ch. 13</biblScope>
+<biblScope>Consid, mœurs, ch. 13</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -4008,7 +4009,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Vous savez bien que je ne vous dis oncques ny ne diray que verité, et vous congnoissez la neifveté de mon coeur et de mon affection</quote>
+<quote>Vous savez bien que je ne vous dis oncques ny ne diray que verité, et vous congnoissez la neifveté de mon cœur et de mon affection</quote>
 <bibl>
 <author>MARG.</author>
 <biblScope>Lett. CVIII</biblScope>
@@ -4867,7 +4868,8 @@
 </cit>
 </sense>
 <sense n="11">
-<dictScrap>Nom que, dans la filature du coton par mécanique, on donne au coton sortant de la première carde. <re type="proverbe"><form>Celui qui met la nappe est toujours le plus foulé</form>, c'est-à-dire celui qui donne à manger est celui qui a le plus de frais et le plus de peine. </re></dictScrap>
+<dictScrap>Nom que, dans la filature du coton par mécanique, on donne au coton sortant de la première carde. </dictScrap>
+<re type="proverbe"><form>Celui qui met la nappe est toujours le plus foulé</form>, c'est-à-dire celui qui donne à manger est celui qui a le plus de frais et le plus de peine. </re>
 </sense>
 <note type="historique">
 <p>
@@ -5116,7 +5118,7 @@
 <sense n="1">
 <dictScrap>Genre de plantes de la famille des amaryllidées, qui contient entre autres :</dictScrap>
 <sense>
-<dictScrap>L'espèce dite vulgairement narcisse et appelée narcisse des poëtes ou narcisse poétique, parce que c'est elle, suppose-t-on, dont il est question dans la Fable, narcissus poeticus, L. ; on la nomme aussi oeillet de Pâques, jeannette, claudinette, herbe à la Vierge.</dictScrap>
+<dictScrap>L'espèce dite vulgairement narcisse et appelée narcisse des poëtes ou narcisse poétique, parce que c'est elle, suppose-t-on, dont il est question dans la Fable, narcissus poeticus, L. ; on la nomme aussi œillet de Pâques, jeannette, claudinette, herbe à la Vierge.</dictScrap>
 <cit>
 <quote>Mais la Suze, la Sablière Ont cueilli les plus belles fleurs, Et n'ont laissé dans leur carrière Que des narcisses sans couleurs</quote>
 <bibl>
@@ -6144,7 +6146,7 @@
 <sense n="1">
 <dictScrap>Terme d'anatomie. Qui a rapport au nez. Le mucus nasal.</dictScrap>
 <cit>
-<quote>Une autre [mouche], plus hardie encore, enfile les conduits nasaux du cerf, descend dans son palais, et dépose ses oeufs dans deux bourses charnues placées à la racine de la langue</quote>
+<quote>Une autre [mouche], plus hardie encore, enfile les conduits nasaux du cerf, descend dans son palais, et dépose ses œufs dans deux bourses charnues placées à la racine de la langue</quote>
 <bibl>
 <author>BONNET</author>
 <biblScope>Contempl. nat. XI, 5</biblScope>
@@ -6636,7 +6638,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Espèce de pince pour guider les boeufs par le nez.</dictScrap>
+<dictScrap>Espèce de pince pour guider les bœufs par le nez.</dictScrap>
 </sense>
 <etym>Lat. nasus, nez.</etym>
 </entry>
@@ -7167,7 +7169,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Maison natale, se disait, chez quelques religieux, de la maison dans laquelle ils avaient fait leurs voeux.</dictScrap>
+<dictScrap>Maison natale, se disait, chez quelques religieux, de la maison dans laquelle ils avaient fait leurs vœux.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig.</dictScrap>
@@ -7463,7 +7465,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Alger, tu disais dans ton coeur avare : les nations sont ma proie</quote>
+<quote>Alger, tu disais dans ton cœur avare : les nations sont ma proie</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>ib.</biblScope>
@@ -7556,7 +7558,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Depuis dix ans, leurs routes [des départements de l'Est] étaient couvertes de voyageurs de tous les pays, qui venaient admirer la grande nation, sa capitale chaque jour embellie, les chefs-d'oeuvre de tous les arts et de tous les siècles que la victoire y avait rassemblés</quote>
+<quote>Depuis dix ans, leurs routes [des départements de l'Est] étaient couvertes de voyageurs de tous les pays, qui venaient admirer la grande nation, sa capitale chaque jour embellie, les chefs-d'œuvre de tous les arts et de tous les siècles que la victoire y avait rassemblés</quote>
 <bibl>
 <author>SÉGUR</author>
 <biblScope>Hist. de Nap. III, 1</biblScope>
@@ -7773,7 +7775,7 @@
 <dictScrap>Néologisme. Rendre national ; faire adopter par une nation.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Se nationaliser, v. réfl. Prendre les moeurs d'une nation.</dictScrap>
+<dictScrap>Se nationaliser, v. réfl. Prendre les mœurs d'une nation.</dictScrap>
 <sense>
 <dictScrap>En parlant des choses, passer dans les usages d'un peuple.</dictScrap>
 </sense>
@@ -8361,7 +8363,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Tant il est vrai que, la lumière de Dieu étant une fois éteinte...., tous les crimes l'un après l'autre se naturalisent, pour ainsi parler, dans notre coeur !</quote>
+<quote>Tant il est vrai que, la lumière de Dieu étant une fois éteinte...., tous les crimes l'un après l'autre se naturalisent, pour ainsi parler, dans notre cœur !</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>3e sermon, Circoncision, 2</biblScope>
@@ -8630,7 +8632,7 @@
 </cit>
 </sense>
 <re type="supplement">
-<re>NATURANT. Ajoutez : - REM. Ce terme philosophique n'appartient pas, non plus que son opposé naturé, à Spinosa ; ils lui sont bien antérieurs. Nature naturante, qui est Dieu ; nature naturée, qui est l'universalité des choses naturelles, le Quer [coeur] vray, ou la semaine de D. D. C. C. G. Troyes, 1620, et se vend à Paris, 1621, in-8°, à la table contenant l'interprétation des dictions, au mot nature, cité dans le Bulletin du bibliophile, 43e année, p. 462. </re>
+<re>NATURANT. Ajoutez : - REM. Ce terme philosophique n'appartient pas, non plus que son opposé naturé, à Spinosa ; ils lui sont bien antérieurs. Nature naturante, qui est Dieu ; nature naturée, qui est l'universalité des choses naturelles, le Quer [cœur] vray, ou la semaine de D. D. C. C. G. Troyes, 1620, et se vend à Paris, 1621, in-8°, à la table contenant l'interprétation des dictions, au mot nature, cité dans le Bulletin du bibliophile, 43e année, p. 462. </re>
 </re>
 </entry>
 <entry xml:id="nature">
@@ -8667,8 +8669,8 @@
 <item n="24">État matériel de certaines choses par opposition à l'argent qu'elles peuvent valoir </item>
 <item n="25">En métallurgie, prendre nature. </item>
 <item n="26">En musique, chanter par nature. </item>
-<item n="27">Boeufs de nature. </item>
-<item n="28">En cuisine, boeuf, côtelette nature. </item>
+<item n="27">Bœufs de nature. </item>
+<item n="28">En cuisine, bœuf, côtelette nature. </item>
 <item n="29">Contre nature. </item>
 </list>
 </note>
@@ -8766,7 +8768,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ah ! c'est là qu'entouré d'un rempart de verdure, D'un horizon borné qui suffit à mes voeux, J'aime à fixer mes pas, et, seul dans la nature, à n'entendre que l'onde, à ne voir que les cieux</quote>
+<quote>Ah ! c'est là qu'entouré d'un rempart de verdure, D'un horizon borné qui suffit à mes vœux, J'aime à fixer mes pas, et, seul dans la nature, à n'entendre que l'onde, à ne voir que les cieux</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Méd. I, 6</biblScope>
@@ -8874,7 +8876,7 @@
 <sense n="3">
 <dictScrap>Sorte de personnification de l'ensemble des lois naturelles, puissance des choses naturelles, force active qui établit et conserve l'ordre naturel.</dictScrap>
 <cit>
-<quote>C'est une oeuvre où nature a fait tous ses efforts</quote>
+<quote>C'est une œuvre où nature a fait tous ses efforts</quote>
 <bibl>
 <author>MALH.</author>
 <biblScope>V, 2</biblScope>
@@ -9589,7 +9591,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Malgré les frémissements secrets de votre nature, accoutumez votre délicatesse à ces oeuvres de religion</quote>
+<quote>Malgré les frémissements secrets de votre nature, accoutumez votre délicatesse à ces œuvres de religion</quote>
 <bibl>
 <author>ID.</author>
 <biblScope>Panégyr. Ste Magdeleine</biblScope>
@@ -9664,7 +9666,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La nature en mon coeur est toujours entendue</quote>
+<quote>La nature en mon cœur est toujours entendue</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Oreste, I, 3</biblScope>
@@ -9804,7 +9806,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Belle nature, en termes d'art et de poésie, la nature imitée seulement dans les objets agréables à l'oeil, à l'imagination, à l'oreille.</dictScrap>
+<dictScrap>Belle nature, en termes d'art et de poésie, la nature imitée seulement dans les objets agréables à l'œil, à l'imagination, à l'oreille.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Nature idéale, celle dont le modèle absolument parfait n'existe que dans l'imagination de l'artiste.</dictScrap>
@@ -9861,13 +9863,13 @@
 <dictScrap>Terme de musique. Chanter par nature, se disait pour passer de bémol en bécarre, parce que l'on quitte le bémol pour la note naturelle.</dictScrap>
 </sense>
 <sense n="27">
-<dictScrap>Boeufs de nature, expression impropre dont on se sert pour caractériser les animaux de l'espèce bovine plus aptes à être soumis à l'engraissement qu'au travail.</dictScrap>
+<dictScrap>Bœufs de nature, expression impropre dont on se sert pour caractériser les animaux de l'espèce bovine plus aptes à être soumis à l'engraissement qu'au travail.</dictScrap>
 <sense>
 <dictScrap>Diamant de nature, voy. <ref target="diamant">DIAMANT</ref>.</dictScrap>
 </sense>
 </sense>
 <sense n="28">
-<dictScrap>En cuisine, boeuf nature, côtelettes nature, c'est-à-dire sans sauce, sans apprêt.</dictScrap>
+<dictScrap>En cuisine, bœuf nature, côtelettes nature, c'est-à-dire sans sauce, sans apprêt.</dictScrap>
 </sense>
 <sense n="29">
 <dictScrap>Contre nature, loc. adv. D'une manière contraire à l'ordre moral, aux sentiments. Il est contre nature qu'un père persécute ses enfants.</dictScrap>
@@ -9875,16 +9877,14 @@
 <dictScrap>Vice contre nature, la pédérastie.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe">L'habitude est une seconde nature. </re>
 <re type="proverbe">L'accoutumance est une autre nature. </re>
 <re type="proverbe"><form>Nature passe nourriture, ou, inversement, nourriture passe nature</form>, c'est-à-dire que tantôt la nature prévaut sur l'éducation, tantôt l'éducation sur la nature. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
 <cit>
-<quote>N'i [en une belle femme] perdi pas nature ses uevres [oeuvres] ne son tans</quote>
+<quote>N'i [en une belle femme] perdi pas nature ses uevres [œuvres] ne son tans</quote>
 <bibl>
 <biblScope>Sax. V</biblScope>
 </bibl>
@@ -9989,7 +9989,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Mais c'est l'erreur des oeuvres de nature : Longtemps le beau sur la terre ne dure</quote>
+<quote>Mais c'est l'erreur des œuvres de nature : Longtemps le beau sur la terre ne dure</quote>
 <bibl>
 <author>DESPORTES</author>
 <biblScope>Épitaphes, Diane, Complainte.</biblScope>
@@ -10176,7 +10176,7 @@
 <sense n="4">
 <dictScrap>Qui vient de la nature seule, par opposition à acquis. Des qualités naturelles. Il a de l'esprit naturel. Il a une éloquence naturelle. Une gaieté naturelle et qui n'a rien de forcé.</dictScrap>
 <cit>
-<quote>Je l'aime et l'embrasse de tout mon coeur [Pauline, fille de Mme de Grignan] ; rejouissez-vous de son joli esprit naturel</quote>
+<quote>Je l'aime et l'embrasse de tout mon cœur [Pauline, fille de Mme de Grignan] ; rejouissez-vous de son joli esprit naturel</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>12 janv. 1680</biblScope>
@@ -10369,7 +10369,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je suis tout naturel et j'aime la franchise ; Ma bouche ne dit rien que mon coeur n'autorise</quote>
+<quote>Je suis tout naturel et j'aime la franchise ; Ma bouche ne dit rien que mon cœur n'autorise</quote>
 <bibl>
 <author>REGNARD</author>
 <biblScope>le Joueur, II, 4</biblScope>
@@ -10702,7 +10702,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La princesse palatine trouvait dans la duchesse sa chère fille un naturel tel qu'il le fallait à un coeur comme le sien</quote>
+<quote>La princesse palatine trouvait dans la duchesse sa chère fille un naturel tel qu'il le fallait à un cœur comme le sien</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Anne de Gonz.</biblScope>
@@ -10904,9 +10904,9 @@
 </cit>
 </sense>
 <sense n="26">
-<dictScrap>Au naturel, de la manière la plus simple, en parlant de l'apprêt de certaines viandes. Du boeuf au naturel.</dictScrap>
+<dictScrap>Au naturel, de la manière la plus simple, en parlant de l'apprêt de certaines viandes. Du bœuf au naturel.</dictScrap>
 <sense>
-<dictScrap>On dit aussi du boeuf naturel.</dictScrap>
+<dictScrap>On dit aussi du bœuf naturel.</dictScrap>
 </sense>
 </sense>
 <note type="remarque">
@@ -10976,7 +10976,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Afin que, durant le procès, ledit de Coetigny ayt mieux de quoy vivre et entretenir honorablement l'estat de luy et de nostre dicte soeur naturelle [Marie de Valois, fille d'Agnès Sorel]</quote>
+<quote>Afin que, durant le procès, ledit de Coetigny ayt mieux de quoy vivre et entretenir honorablement l'estat de luy et de nostre dicte sœur naturelle [Marie de Valois, fille d'Agnès Sorel]</quote>
 <bibl>
 <biblScope>Lett. pat. de Louis XI, Bibl. des ch. 4e série, t. I, p. 7</biblScope>
 </bibl>
@@ -10992,7 +10992,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Nous autres nous n'avons que la loy naturelle Escrite dans nos coeurs par une encre eternelle</quote>
+<quote>Nous autres nous n'avons que la loy naturelle Escrite dans nos cœurs par une encre eternelle</quote>
 <bibl>
 <author>RONS.</author>
 <biblScope>675</biblScope>
@@ -11062,7 +11062,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mes moeurs sont naturelles</quote>
+<quote>Mes mœurs sont naturelles</quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>II, 294</biblScope>
@@ -11477,7 +11477,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Lorsque le juge veut s'agrandir et qu'il change en une souplesse de coeur le rigide et inexorable ministère de la justice, il fait naufrage contre ces écueils [déchirer la loi]</quote>
+<quote>Lorsque le juge veut s'agrandir et qu'il change en une souplesse de cœur le rigide et inexorable ministère de la justice, il fait naufrage contre ces écueils [déchirer la loi]</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>le Tellier.</biblScope>
@@ -11505,7 +11505,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Leur coeur était corrompu, avant que leur foi fît naufrage</quote>
+<quote>Leur cœur était corrompu, avant que leur foi fît naufrage</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Avenir.</biblScope>
@@ -11618,7 +11618,7 @@
 <quote>Qu'auraient dit de nous les Chinois, s'ils eussent fait naufrage sur nos côtes maritimes dans le temps où les lois des nations de l'Europe confisquaient les effets naufragés, et que la coutume permettait qu'on égorgeât les propriétaires ?</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 1</biblScope>
+<biblScope>Mœurs, 1</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -12125,7 +12125,7 @@
 <sense>
 <dictScrap>Engin de perspective qui représente une vue de mer.</dictScrap>
 <cit>
-<quote>Afin de subvenir à l'imperfection de ses procédés spéciaux, il recourt à des engins de perspective, à des lumières projetées, à des illusions d'optique, à toutes ces inventions qui font des panoramas, des dioramas, des navaloramas, des chefs-d'oeuvre sans pareils au point de vue de la représentation fidèle, exacte, parfaite du vrai réel et visible</quote>
+<quote>Afin de subvenir à l'imperfection de ses procédés spéciaux, il recourt à des engins de perspective, à des lumières projetées, à des illusions d'optique, à toutes ces inventions qui font des panoramas, des dioramas, des navaloramas, des chefs-d'œuvre sans pareils au point de vue de la représentation fidèle, exacte, parfaite du vrai réel et visible</quote>
 <bibl>
 <author>TÖPFFER</author>
 <biblScope>Menus propos, VII, 25</biblScope>
@@ -12398,7 +12398,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Il s'est dit autrefois de petits instruments d'or, de laque, d'écaille, dont les femmes élégantes se servaient pour faire des noeuds ou du filet.</dictScrap>
+<dictScrap>Il s'est dit autrefois de petits instruments d'or, de laque, d'écaille, dont les femmes élégantes se servaient pour faire des nœuds ou du filet.</dictScrap>
 </sense>
 <sense n="5">
 <dictScrap>Terme de marine. Poulie allongée, dont le corps n'est pas entièrement estropié.</dictScrap>
@@ -12599,7 +12599,7 @@
 <sense n="1">
 <dictScrap>Celui qui navigue, qui fait des voyages de long cours sur mer.</dictScrap>
 <cit>
-<quote>Les plus fameux navigateurs, au nombre desquels on peut hardiment mettre M. Halley, même dans ce qui regarde purement l'art et la manoeuvre de la navigation</quote>
+<quote>Les plus fameux navigateurs, au nombre desquels on peut hardiment mettre M. Halley, même dans ce qui regarde purement l'art et la manœuvre de la navigation</quote>
 <bibl>
 <author>MAIRAN</author>
 <biblScope>Éloges, Halley.</biblScope>
@@ -12704,7 +12704,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>L'art de la navigation consiste en deux parties : le pilotage qui regarde principalement l'usage de la boussole, et la manoeuvre qui regarde la disposition des voiles, du gouvernail et du vaisseau par rapport à la route qu'on veut faire et aux avantages qu'on peut tirer du vent</quote>
+<quote>L'art de la navigation consiste en deux parties : le pilotage qui regarde principalement l'usage de la boussole, et la manœuvre qui regarde la disposition des voiles, du gouvernail et du vaisseau par rapport à la route qu'on veut faire et aux avantages qu'on peut tirer du vent</quote>
 <bibl>
 <author>FONTEN.</author>
 <biblScope>Renau.</biblScope>
@@ -12953,7 +12953,7 @@
 <sense>
 <dictScrap>Nom que nous donnons en français aux canaux d'irrigation de la Lombardie.</dictScrap>
 </sense>
-<etym>Ital. naviglio, flotte et aussi canal pour bateaux, de nave, nef, navire (voy. <ref target="nef">NEF</ref>).  <cit><quote>Naville dans l'ancien français signifiait flotte : Tut son naville il a fait aprester</quote><bibl><biblScope>Ch. de Rol. CLXXXV</biblScope></bibl></cit> <cit><quote>Du temps de Saint-Simon, on ne francisait pas le mot italien : Le prince d'Elboeuf, posté avec cinq cents chevaux derrière un naviglio, avec défense de le passer</quote><bibl><author>SAINT-SIMON</author><biblScope>149, 177</biblScope></bibl></cit></etym>
+<etym>Ital. naviglio, flotte et aussi canal pour bateaux, de nave, nef, navire (voy. <ref target="nef">NEF</ref>).  <cit><quote>Naville dans l'ancien français signifiait flotte : Tut son naville il a fait aprester</quote><bibl><biblScope>Ch. de Rol. CLXXXV</biblScope></bibl></cit> <cit><quote>Du temps de Saint-Simon, on ne francisait pas le mot italien : Le prince d'Elbœuf, posté avec cinq cents chevaux derrière un naviglio, avec défense de le passer</quote><bibl><author>SAINT-SIMON</author><biblScope>149, 177</biblScope></bibl></cit></etym>
 </entry>
 <entry xml:id="navire">
 <form>
@@ -13162,7 +13162,7 @@
 <sense n="1">
 <dictScrap>Blessé.</dictScrap>
 <cit>
-<quote>Je suis résolu de vous écrire des lettres toutes pures d'amour, pleines de feux, de flèches et de coeurs navrés</quote>
+<quote>Je suis résolu de vous écrire des lettres toutes pures d'amour, pleines de feux, de flèches et de cœurs navrés</quote>
 <bibl>
 <author>VOIT.</author>
 <biblScope>Lett. 28</biblScope>
@@ -13188,7 +13188,7 @@
 <sense>
 <dictScrap>Absolument. Très affligé.</dictScrap>
 <cit>
-<quote>On passe sa vie à espérer, et on meurt en espérant ; adieu, monsieur, vous m'avez instruit, mais j'ai le coeur navré</quote>
+<quote>On passe sa vie à espérer, et on meurt en espérant ; adieu, monsieur, vous m'avez instruit, mais j'ai le cœur navré</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>l'H. aux 40 écus, Entretien avec un géomètre</biblScope>
@@ -13233,7 +13233,7 @@
 <sense n="3">
 <dictScrap>Fig. Causer une souffrance morale comparée à une blessure.</dictScrap>
 <cit>
-<quote>Les lumières.... Qui, me navrant le coeur, me promettaient la paix</quote>
+<quote>Les lumières.... Qui, me navrant le cœur, me promettaient la paix</quote>
 <bibl>
 <author>RÉGNIER</author>
 <biblScope>Élég. II</biblScope>
@@ -13345,12 +13345,12 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Hébreu qui faisait voeu de se laisser croître les cheveux et de ne point boire de vin. (Fl. Josèphe).</dictScrap>
+<dictScrap>Hébreu qui faisait vœu de se laisser croître les cheveux et de ne point boire de vin. (Fl. Josèphe).</dictScrap>
 </sense>
 <etym>Hébreu, nazir, séparé, parce que ces hommes se séparaient de la vie commune.</etym>
 <re type="supplement">
 <form> NAZIRÉEN. Ajoutez : - REM. 1. </form>
-<re>Il vaudrait mieux définir les naziréens comme fait l'historien Josèphe : Hommes qui faisaient voeu de laisser croître leurs cheveux et de ne point boire de vin ; car le naziréat n'était point un sacerdoce. </re>
+<re>Il vaudrait mieux définir les naziréens comme fait l'historien Josèphe : Hommes qui faisaient vœu de laisser croître leurs cheveux et de ne point boire de vin ; car le naziréat n'était point un sacerdoce. </re>
 <re>2. On a dit aussi nazarien ou nazaréen. Arnauld d'Andilly (Traduction de l'Histoire des Juifs de Josèphe, IV, 4), Dom Calmet, M. de Genoude emploient cette dernière forme, qui a l'inconvénient de signifier aussi un habitant de Nazareth. </re>
 </re>
 </entry>
@@ -13425,7 +13425,7 @@
 <sense>
 <dictScrap>Cela se fait encore quelquefois à l'impératif, dans la poésie élevée.</dictScrap>
 <cit>
-<quote>Henri.... Ne refuse à mes voeux un favorable appui</quote>
+<quote>Henri.... Ne refuse à mes vœux un favorable appui</quote>
 <bibl>
 <author>MALH.</author>
 <biblScope>I, 4</biblScope>
@@ -13436,7 +13436,7 @@
 <sense n="2">
 <dictScrap>Dans des phrases négatives ou interrogatives, ne se dit seul au second membre, quand ce second membre est négatif. Y a-t-il un homme dont elle ne médise ? Avez-vous un ami qui ne soit des miens ? Je ne vois personne qui ne vous loue.</dictScrap>
 <cit>
-<quote>Don Rodrigue, surtout, n'a trait en son visage Qui d'un homme de coeur ne soit la haute image</quote>
+<quote>Don Rodrigue, surtout, n'a trait en son visage Qui d'un homme de cœur ne soit la haute image</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Cid, I, 1</biblScope>
@@ -13504,7 +13504,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Confessez-le, ma soeur, vous sauriez vous en taire, N'était le testament du feu roi notre père</quote>
+<quote>Confessez-le, ma sœur, vous sauriez vous en taire, N'était le testament du feu roi notre père</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Pomp. I, 3</biblScope>
@@ -13715,7 +13715,7 @@
 <sense>
 <dictScrap>Avec autre, autrement, on met le ne explétif.</dictScrap>
 <cit>
-<quote>On se voit d'un autre oeil qu'on ne voit son prochain</quote>
+<quote>On se voit d'un autre œil qu'on ne voit son prochain</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Fabl. I, 7</biblScope>
@@ -13776,7 +13776,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>T'ai-je pas là-dessus ouvert cent fois mon coeur ? Et sais-tu pas pour lui jusqu'où va mon ardeur ?</quote>
+<quote>T'ai-je pas là-dessus ouvert cent fois mon cœur ? Et sais-tu pas pour lui jusqu'où va mon ardeur ?</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Tart. II, 3</biblScope>
@@ -14047,7 +14047,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Nous ne reprouvons point le voeu de s'abstenir de mariage, que [si ce n'est] pour ces deux causes</quote>
+<quote>Nous ne reprouvons point le vœu de s'abstenir de mariage, que [si ce n'est] pour ces deux causes</quote>
 <bibl>
 <author>CALV.</author>
 <biblScope>Inst. 1024</biblScope>
@@ -14159,7 +14159,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il n'est vol que de pigeon, quand il ha oeufz ou petitz</quote>
+<quote>Il n'est vol que de pigeon, quand il ha œufz ou petitz</quote>
 <bibl>
 <author>RAB.</author>
 <biblScope>ib. IV, 3</biblScope>
@@ -14194,14 +14194,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Sitost le gouvernal ne tourne la navire Errante au gré du vent, que le peuple se vire Vers les moeurs de son prince</quote>
+<quote>Sitost le gouvernal ne tourne la navire Errante au gré du vent, que le peuple se vire Vers les mœurs de son prince</quote>
 <bibl>
 <author>RONS.</author>
 <biblScope>662</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les deux n'avoient qu'un coeur....</quote>
+<quote>Les deux n'avoient qu'un cœur....</quote>
 <bibl>
 <author>RONS.</author>
 <biblScope>191</biblScope>
@@ -14267,7 +14267,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je ne puis jeter l'oeil sur ce que je suis née, Sans voir que de périls suivront cet hyménée</quote>
+<quote>Je ne puis jeter l'œil sur ce que je suis née, Sans voir que de périls suivront cet hyménée</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Tite et Bér. IV, 1</biblScope>
@@ -14412,7 +14412,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Cette princesse, née sur le trône, avait l'esprit et le coeur plus haut que sa naissance</quote>
+<quote>Cette princesse, née sur le trône, avait l'esprit et le cœur plus haut que sa naissance</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Duch. d'Orl.</biblScope>
@@ -14458,7 +14458,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>À tous les coeurs bien nés que la patrie est chère !</quote>
+<quote>À tous les cœurs bien nés que la patrie est chère !</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Tancr. III, 1</biblScope>
@@ -14485,7 +14485,7 @@
 <sense n="6">
 <dictScrap>Fig. Produit, en parlant des choses.</dictScrap>
 <cit>
-<quote>Née [la comédie] vers la cinquantième olympiade, dans les bourgs de l'Attique, assortie aux moeurs grossières des habitants de la campagne, elle n'osait approcher de la capitale</quote>
+<quote>Née [la comédie] vers la cinquantième olympiade, dans les bourgs de l'Attique, assortie aux mœurs grossières des habitants de la campagne, elle n'osait approcher de la capitale</quote>
 <bibl>
 <author>BARTHÉL.</author>
 <biblScope>Anach. ch. 69</biblScope>
@@ -15051,7 +15051,7 @@
 <sense n="5">
 <dictScrap>Néant se dit aussi de l'état d'une âme vide de sentiments et d'affections.</dictScrap>
 <cit>
-<quote>Si l'état le pire Est le néant, je ne sais point De néant plus complet qu'un coeur froid à ce point</quote>
+<quote>Si l'état le pire Est le néant, je ne sais point De néant plus complet qu'un cœur froid à ce point</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Filles de Minée.</biblScope>
@@ -15594,7 +15594,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Dors, ô fils d'Apollon ; ses lauriers te couronnent ; Dors en paix : les neuf soeurs t'adorent comme un roi ; De leurs choeurs nébuleux les songes t'environnent, La lyre chante auprès de toi</quote>
+<quote>Dors, ô fils d'Apollon ; ses lauriers te couronnent ; Dors en paix : les neuf sœurs t'adorent comme un roi ; De leurs chœurs nébuleux les songes t'environnent, La lyre chante auprès de toi</quote>
 <bibl>
 <author>V. HUGO</author>
 <biblScope>Odes, IV, 2</biblScope>
@@ -15680,7 +15680,7 @@
 <sense n="1">
 <dictScrap>Ajoutez : Si, en quelque jour un peu moins nébuleux qu'il n'en fait en ce temps-ci, vous vouliez me donner deux heures de votre temps pour aller achever l'habit de votre portrait, Nanteuil à Mlle de Scudéry, dans Mlle de Scudéry, p. 502, par Rathery et Boutron, Paris, 1873.</dictScrap>
 </sense>
-<note type="remarque">À propos de la phrase de Lesage : Je te trouve l'air nébuleux (voy. le n° 1 au Dictionnaire), François de Neufchâteau avait dit que c'était une expression recherchée et convenable à un petit-maître, et que Dancourt l'avait signalée en faisant dire à une greffière : Cette journée-ci sera malheureuse pour moi ; j'ai éternué trois fois à jeun ; j'ai le teint brouillé, l'oeil nébuleux ; et je n'ai jamais pu donner ce matin un bon tour à mon crochet gauche, Bourgeoises de qualité, I, 3. Fr. de Neufchâteau est trop sévère. En tout cas, il se trompe en déclarant cette expression nouvelle en 1700, époque où Dancourt fit représenter sa pièce ; nébuleux en ce sens se trouve dans Scarron. </note>
+<note type="remarque">À propos de la phrase de Lesage : Je te trouve l'air nébuleux (voy. le n° 1 au Dictionnaire), François de Neufchâteau avait dit que c'était une expression recherchée et convenable à un petit-maître, et que Dancourt l'avait signalée en faisant dire à une greffière : Cette journée-ci sera malheureuse pour moi ; j'ai éternué trois fois à jeun ; j'ai le teint brouillé, l'œil nébuleux ; et je n'ai jamais pu donner ce matin un bon tour à mon crochet gauche, Bourgeoises de qualité, I, 3. Fr. de Neufchâteau est trop sévère. En tout cas, il se trompe en déclarant cette expression nouvelle en 1700, époque où Dancourt fit représenter sa pièce ; nébuleux en ce sens se trouve dans Scarron. </note>
 </re>
 </entry>
 <entry xml:id="nébulosité">
@@ -15891,7 +15891,7 @@
 <quote>Richelieu, malade à Tarascon, avait perdu toute sa faveur, et ne conservait que l'avantage d'être nécessaire</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 176</biblScope>
+<biblScope>Mœurs, 176</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -15987,7 +15987,7 @@
 <quote>Philippe le Bon, nouveau duc de Bourgogne, successeur de son père [Jean assassiné à Montereau], devint un ennemi nécessaire du Dauphin par devoir et par politique</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 79</biblScope>
+<biblScope>Mœurs, 79</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -16062,7 +16062,7 @@
 <quote>La veuve de Henri le Grand, la mère d'un roi de France, la belle-mère de trois souverains, manqua quelquefois du nécessaire</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 176</biblScope>
+<biblScope>Mœurs, 176</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -16595,7 +16595,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>C'est lui [un ministre] qui reçoit les voeux, qui écoute les plaintes, qui examine les nécessités, qui pèse les services....</quote>
+<quote>C'est lui [un ministre] qui reçoit les vœux, qui écoute les plaintes, qui examine les nécessités, qui pèse les services....</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Mme d'Aiguillon.</biblScope>
@@ -16767,7 +16767,8 @@
 </cit>
 </sense>
 <sense n="13">
-<dictScrap>Par nécessité, loc. adv. À cause d'un besoin pressant. Il vend sa bibliothèque par nécessité. <re type="proverbe"><form>Nécessité n'a point de loi</form>, c'est-à-dire un extrême péril, un extrême besoin, peuvent rendre excusables des actions blâmables en elles-mêmes. </re></dictScrap>
+<dictScrap>Par nécessité, loc. adv. À cause d'un besoin pressant. Il vend sa bibliothèque par nécessité. </dictScrap>
+<re type="proverbe"><form>Nécessité n'a point de loi</form>, c'est-à-dire un extrême péril, un extrême besoin, peuvent rendre excusables des actions blâmables en elles-mêmes. </re>
 </sense>
 <note type="historique">
 <p>
@@ -17458,7 +17459,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Genre d'insectes coléoptères pentamères, qui ont la singulière habitude d'enterrer les cadavres des petits animaux, taupes, souris, etc. pour y déposer leurs oeufs.</dictScrap>
+<dictScrap>Genre d'insectes coléoptères pentamères, qui ont la singulière habitude d'enterrer les cadavres des petits animaux, taupes, souris, etc. pour y déposer leurs œufs.</dictScrap>
 </sense>
 <etym>Le grec signifie, qui porte les morts, du grec, mort, et, porter.</etym>
 </entry>
@@ -17613,7 +17614,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Fig. Ce qui flatte l'esprit et le coeur, comme le nectar flatte le palais.</dictScrap>
+<dictScrap>Fig. Ce qui flatte l'esprit et le cœur, comme le nectar flatte le palais.</dictScrap>
 <cit>
 <quote>Ce breuvage vanté par le peuple rimeur, Le nectar, que l'on sert au maître du tonnerre, Et dont nous enivrons tous les dieux de la terre ; C'est la louange....</quote>
 <bibl>
@@ -17760,7 +17761,7 @@
 <sense n="1">
 <dictScrap>Synonyme poétique de navire.</dictScrap>
 <cit>
-<quote>Il devait mieux remplir nos voeux et notre attente, Faire voir sur ses nefs la victoire flottante</quote>
+<quote>Il devait mieux remplir nos vœux et notre attente, Faire voir sur ses nefs la victoire flottante</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Pomp. I, 1</biblScope>
@@ -17816,7 +17817,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>La partie d'une église qui est depuis le portail jusqu'au choeur et entre les deux rangées de piliers qui soutiennent la voûte ; ainsi dite par assimilation de forme avec un navire.</dictScrap>
+<dictScrap>La partie d'une église qui est depuis le portail jusqu'au chœur et entre les deux rangées de piliers qui soutiennent la voûte ; ainsi dite par assimilation de forme avec un navire.</dictScrap>
 <cit>
 <quote>Ils passent de la nef la vaste solitude</quote>
 <bibl>
@@ -18046,7 +18047,7 @@
 <sense>
 <dictScrap>Arbre de la famille des rosacées qui porte les nèfles (mespilus germanica, L.).</dictScrap>
 <sense>
-<dictScrap>Voltaire a employé une des formes archaïques. Les bourgeois des villes de Flandre jouissaient du droit de prouver leurs prétentions avec la massue de mesplier, Moeurs, 100.</dictScrap>
+<dictScrap>Voltaire a employé une des formes archaïques. Les bourgeois des villes de Flandre jouissaient du droit de prouver leurs prétentions avec la massue de mesplier, Mœurs, 100.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Néflier buisson-ardent, néflier parasol, arbres d'ornement.</dictScrap>
@@ -18115,7 +18116,7 @@
 <sense>
 <dictScrap>Qui nie habituellement. Esprit négateur.</dictScrap>
 <cit>
-<quote>En disant que la loi était athée, on ne voulait pas dire que la loi fût l'oeuvre de philosophes négateurs d'un être suprême....</quote>
+<quote>En disant que la loi était athée, on ne voulait pas dire que la loi fût l'œuvre de philosophes négateurs d'un être suprême....</quote>
 <bibl>
 <author>CARREL</author>
 <biblScope>Oeuv. t. IV, p. 331</biblScope>
@@ -18327,7 +18328,7 @@
 <sense n="10">
 <dictScrap>Refus.</dictScrap>
 <cit>
-<quote>Cette humeur aduste imprime sur leur front une négative perpétuelle, avec laquelle ils vont étouffer les prières jusque dans le coeur des suppliants</quote>
+<quote>Cette humeur aduste imprime sur leur front une négative perpétuelle, avec laquelle ils vont étouffer les prières jusque dans le cœur des suppliants</quote>
 <bibl>
 <author>BALZ.</author>
 <biblScope>De la cour, 6e disc. Et là néanmoins ils rencontreront quelque esprit de fer.... qui.</biblScope>
@@ -18747,7 +18748,7 @@
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Terme de beaux-arts. Négligence aimable qui plaît à l'oeil. Un beau négligé est souvent un artifice du peintre.</dictScrap>
+<dictScrap>Terme de beaux-arts. Négligence aimable qui plaît à l'œil. Un beau négligé est souvent un artifice du peintre.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="négligeable">
@@ -19040,7 +19041,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mais le dédain, la tiède négligence, Et d'un coeur froid le calme injurieux</quote>
+<quote>Mais le dédain, la tiède négligence, Et d'un cœur froid le calme injurieux</quote>
 <bibl>
 <author>DELILLE</author>
 <biblScope>Convers. ch. III</biblScope>
@@ -19248,7 +19249,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>L'histoire des moeurs et de l'esprit humain a toujours été négligée</quote>
+<quote>L'histoire des mœurs et de l'esprit humain a toujours été négligée</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Formont, 13 juin 1756</biblScope>
@@ -19305,7 +19306,7 @@
 <quote>Le duc d'Épernon s'était presque ruiné pour secourir la reine mère, et se plaignait d'avoir été négligé par elle, après l'avoir si bien servie</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 176</biblScope>
+<biblScope>Mœurs, 176</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -19387,7 +19388,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mon coeur a tout à craindre, et rien à négliger</quote>
+<quote>Mon cœur a tout à craindre, et rien à négliger</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Mér. II, 1</biblScope>
@@ -19692,7 +19693,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le négociant, ayant l'oeil sur toutes les nations de la terre, porte à l'une ce qu'il tient de l'autre</quote>
+<quote>Le négociant, ayant l'œil sur toutes les nations de la terre, porte à l'une ce qu'il tient de l'autre</quote>
 <bibl>
 <author>MONTESQ.</author>
 <biblScope>Esp. XX, 4</biblScope>
@@ -20624,7 +20625,7 @@
 <sense>
 <dictScrap>Par exagération et par plaisanterie. Tout ce qui est froid au moral.</dictScrap>
 <cit>
-<quote>Ninon l'a quitté [Ch. de Sévigné]... elle n'en parle pas avec beaucoup d'estime : c'est une âme de bouillie, dit-elle, c'est un corps de papier mouillé, c'est un coeur de citrouille fricassé dans de la neige</quote>
+<quote>Ninon l'a quitté [Ch. de Sévigné]... elle n'en parle pas avec beaucoup d'estime : c'est une âme de bouillie, dit-elle, c'est un corps de papier mouillé, c'est un cœur de citrouille fricassé dans de la neige</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>44</biblScope>
@@ -20690,7 +20691,7 @@
 </cit>
 </sense>
 <sense n="5">
-<dictScrap>Oeufs à la neige, plat sucré composé de blancs d'oeufs battus en neige ferme et jetés quelques minutes dans du lait bouillant. Avec le reste du lait, les jaunes d'oeufs, quelques aromates, on fait une crème qui se sert autour des blancs en neige.</dictScrap>
+<dictScrap>Oeufs à la neige, plat sucré composé de blancs d'œufs battus en neige ferme et jetés quelques minutes dans du lait bouillant. Avec le reste du lait, les jaunes d'œufs, quelques aromates, on fait une crème qui se sert autour des blancs en neige.</dictScrap>
 </sense>
 <sense n="6">
 <dictScrap>Dentelle de peu de valeur.</dictScrap>
@@ -20738,13 +20739,11 @@
 </bibl>
 </cit>
 </sense>
-<re type="proverbes">
 <re type="proverbe">Des neiges et un bon hiver mettent bien des biens à couvert. </re>
 <re type="proverbe">La neige qui tombe engraisse la terre. </re>
 <re type="proverbe">Neige au blé est tel bénéfice Comme au vieillard la bonne pelisse. </re>
 <re type="proverbe">On ne voit cygne noir ni nulle neige noire. </re>
 <re type="proverbe"><form>Il en faut autant qu'il faut de pelotes de neige à chauffer un four</form>, se dit d'une chose qui ne sert aucunement à ce qu'on veut faire. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIe s.</label>
@@ -20914,9 +20913,7 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-<dictScrap>
 <re type="proverbe"> Quand il neige sur la montagne, il fait bien froid aux vallées. </re>
-</dictScrap>
 </sense>
 <note type="remarque">Chateaubriand a fait un verbe actif de neiger : La lune neige sa lumière, CHATEAUBR. Mémoires, vol. XI, p. 37. </note>
 <note type="historique">
@@ -21133,7 +21130,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Et des choeurs sur ta tombe, en une sainte ivresse, Chanteraient Némésis, la tardive déesse, Qui frappe le méchant sur son trône endormi</quote>
+<quote>Et des chœurs sur ta tombe, en une sainte ivresse, Chanteraient Némésis, la tardive déesse, Qui frappe le méchant sur son trône endormi</quote>
 <bibl>
 <author>A. CHÉN.</author>
 <biblScope>à Charlotte Corday.</biblScope>
@@ -21199,7 +21196,7 @@
 </sense>
 <etym>Lat. nemoralis, de nemus, forêt.</etym>
 </entry>
-<entry xml:id="ne">
+<entry xml:id="ne_m_oubliez_pas">
 <form>
 <orth>NE M'OUBLIEZ PAS</orth>
 <pron>ne-mou-bli-é-pâ</pron>
@@ -21792,7 +21789,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de physiologie. L'ensemble des actes accomplis par les êtres produisant des oeufs ou des germes, actes qui ont pour résultat d'amener les jeunes à pouvoir se reproduire eux-mêmes.</dictScrap>
+<dictScrap>Terme de physiologie. L'ensemble des actes accomplis par les êtres produisant des œufs ou des germes, actes qui ont pour résultat d'amener les jeunes à pouvoir se reproduire eux-mêmes.</dictScrap>
 </sense>
 <etym>Termes grecs signifiant le jeune, le petit, et avoir soin.</etym>
 </entry>
@@ -22649,7 +22646,7 @@
 <cit>
 <quote>Le Dieu de Paphos et de Gnide Anime seul tout l'univers ; Au haut des airs Il atteint l'oiseau rapide ; Il embrase la Néréide Jusque dans le sein des mers</quote>
 <bibl>
-<biblScope>Choeur dans l'opéra d'Écho et Narcisse</biblScope>
+<biblScope>Chœur dans l'opéra d'Écho et Narcisse</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -22678,7 +22675,7 @@
 <entry xml:id="nerf">
 <form>
 <orth>NERF</orth>
-<pron>nèrf, d'après l'Académie, qui dit qu'au singulier l'f se fait sentir ; cependant plusieurs disent nêr sans f ; et dans tous les cas l'f est toujours muette dans nerf de boeuf ; au pluriel, l'f ne se fait jamais sentir : des nêr ; l's ne se lie pas : des nêr affaiblis ; cependant quelques-uns lient l's : des nêr-z affaiblis</pron>
+<pron>nèrf, d'après l'Académie, qui dit qu'au singulier l'f se fait sentir ; cependant plusieurs disent nêr sans f ; et dans tous les cas l'f est toujours muette dans nerf de bœuf ; au pluriel, l'f ne se fait jamais sentir : des nêr ; l's ne se lie pas : des nêr affaiblis ; cependant quelques-uns lient l's : des nêr-z affaiblis</pron>
 <gram>s. m.</gram>
 </form>
 <sense n="1">
@@ -22762,25 +22759,25 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Nerf de boeuf, nom vulgaire de la partie épaisse du bord supérieur libre du ligament jaune élastique cervical postérieur du boeuf ou du cheval, desséchée et disposée artificiellement en forme de cylindre ; c'est par suite d'une erreur populaire que cette partie est prise pour le membre génital du boeuf, arraché et desséché. Soutenir avec des nerfs de boeuf les panneaux d'une porte.</dictScrap>
+<dictScrap>Nerf de bœuf, nom vulgaire de la partie épaisse du bord supérieur libre du ligament jaune élastique cervical postérieur du bœuf ou du cheval, desséchée et disposée artificiellement en forme de cylindre ; c'est par suite d'une erreur populaire que cette partie est prise pour le membre génital du bœuf, arraché et desséché. Soutenir avec des nerfs de bœuf les panneaux d'une porte.</dictScrap>
 <cit>
-<quote>Je vais appeler quelqu'un, demander un nerf de boeuf, te faire tenir par trois ou quatre, et te rouer de mille coups</quote>
+<quote>Je vais appeler quelqu'un, demander un nerf de bœuf, te faire tenir par trois ou quatre, et te rouer de mille coups</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>D. Juan, IV, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Et, si dans la province Il se donnait en tout vingt coups de nerf de boeuf, Mon père pour sa part en emboursait dix-neuf</quote>
+<quote>Et, si dans la province Il se donnait en tout vingt coups de nerf de bœuf, Mon père pour sa part en emboursait dix-neuf</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Plaid. I, 5</biblScope>
 </bibl>
 </cit>
 <sense>
-<dictScrap>Nerf de boeuf, instrument de supplice dont étaient armés les surveillants de la chiourme dans les galères. Tout nu, las ! en chemise Me faut ramer Nuit et jour sans feintise Sur cette mer ; Du nerf de boeuf sans cesse Battu je suis ; Je n'ai plus de caresse De mes amis, Chanson de 1621, dans JAL.</dictScrap>
+<dictScrap>Nerf de bœuf, instrument de supplice dont étaient armés les surveillants de la chiourme dans les galères. Tout nu, las ! en chemise Me faut ramer Nuit et jour sans feintise Sur cette mer ; Du nerf de bœuf sans cesse Battu je suis ; Je n'ai plus de caresse De mes amis, Chanson de 1621, dans JAL.</dictScrap>
 <cit>
-<quote>Il ramera sous le nerf de boeuf dans les galères d'Alger</quote>
+<quote>Il ramera sous le nerf de bœuf dans les galères d'Alger</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Em. IV</biblScope>
@@ -23198,7 +23195,7 @@
 <sense n="1">
 <dictScrap>Couvrir du bois avec des nerfs qu'on colle dessus.</dictScrap>
 <sense>
-<dictScrap>Nerver les panneaux, soutenir en dessous par des barres, de la filasse ou de grands nerfs de boeuf, les panneaux très larges des grandes portes.</dictScrap>
+<dictScrap>Nerver les panneaux, soutenir en dessous par des barres, de la filasse ou de grands nerfs de bœuf, les panneaux très larges des grandes portes.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -23893,9 +23890,9 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Il a voulu en avoir le coeur net, il a voulu s'éclaircir d'une chose qui le préoccupait.</dictScrap>
+<dictScrap>Il a voulu en avoir le cœur net, il a voulu s'éclaircir d'une chose qui le préoccupait.</dictScrap>
 <cit>
-<quote>Elle fit voeu d'en avoir le coeur net à la première occasion</quote>
+<quote>Elle fit vœu d'en avoir le cœur net à la première occasion</quote>
 <bibl>
 <author>HAMILT.</author>
 <biblScope>Gramm. 10</biblScope>
@@ -23958,7 +23955,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Préparez au Fils de Dieu un coeur net, par un détachement général, et il le remplira de lui-même par ses chastes embrassements</quote>
+<quote>Préparez au Fils de Dieu un cœur net, par un détachement général, et il le remplira de lui-même par ses chastes embrassements</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Sermon pour une profession, Virginité, I</biblScope>
@@ -24433,7 +24430,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Li nat de cuer [coeur]</quote>
+<quote>Li nat de cuer [cœur]</quote>
 <bibl>
 <author>DU CANGE</author>
 <biblScope>Gloss. français.</biblScope>
@@ -25214,7 +25211,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Et qui s'est nettoyé de vices Ne lui fait point de voeux qui ne soient exaucés</quote>
+<quote>Et qui s'est nettoyé de vices Ne lui fait point de vœux qui ne soient exaucés</quote>
 <bibl>
 <author>MALH.</author>
 <biblScope>VI, 16</biblScope>
@@ -25473,7 +25470,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Au jeu de cartes, un neuf de coeur, un neuf de carreau, etc. une carte qui est marquée de neuf points de carreau, de coeur, etc.</dictScrap>
+<dictScrap>Au jeu de cartes, un neuf de cœur, un neuf de carreau, etc. une carte qui est marquée de neuf points de carreau, de cœur, etc.</dictScrap>
 <sense>
 <dictScrap>Il a un pluriel, et il n'y prend pas l's. J'ai tous les neuf dans mon jeu.</dictScrap>
 </sense>
@@ -25603,7 +25600,7 @@
 <sense n="7">
 <dictScrap>En parlant des personnes, qui n'a point encore d'expérience en quelque chose. Il est neuf aux affaires, Il est tout neuf dans ce métier-là.</dictScrap>
 <cit>
-<quote>[Un oeuf] Frais et nouveau pondu : gardez bien de le dire, On m'appellerait poule.... La femme neuve sur ce cas, Ainsi que sur mainte autre affaire, Crut la chose...</quote>
+<quote>[Un œuf] Frais et nouveau pondu : gardez bien de le dire, On m'appellerait poule.... La femme neuve sur ce cas, Ainsi que sur mainte autre affaire, Crut la chose...</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Fabl. VIII, 6</biblScope>
@@ -25667,7 +25664,7 @@
 </cit>
 </sense>
 <sense n="8">
-<dictScrap>Qui n'a pas été encore agité par les passions. Avoir un coeur tout neuf.</dictScrap>
+<dictScrap>Qui n'a pas été encore agité par les passions. Avoir un cœur tout neuf.</dictScrap>
 <cit>
 <quote>Une âme neuve, ingénue et sensible</quote>
 <bibl>
@@ -25683,7 +25680,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Il se dit d'une jeune fille dont le coeur n'a pas encore connu l'amour.</dictScrap>
+<dictScrap>Il se dit d'une jeune fille dont le cœur n'a pas encore connu l'amour.</dictScrap>
 <cit>
 <quote>Elle était fraîche [Mlle Wels] et paraissait neuve</quote>
 <bibl>
@@ -26329,7 +26326,7 @@
 <quote>Quand il s'agit d'attaquer la France, rarement les Anglais ont été neutres</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 101</biblScope>
+<biblScope>Mœurs, 101</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -26486,7 +26483,7 @@
 <sense n="1">
 <dictScrap>L'espace de neuf jours consécutifs, pendant lesquels on fait quelque acte de dévotion.</dictScrap>
 <cit>
-<quote>S'il nous arrive quelque maladie ou quelque affaire fâcheuse, c'est alors que nous commençons à faire des neuvaines à tous les autels, et à fatiguer véritablement le ciel par nos voeux</quote>
+<quote>S'il nous arrive quelque maladie ou quelque affaire fâcheuse, c'est alors que nous commençons à faire des neuvaines à tous les autels, et à fatiguer véritablement le ciel par nos vœux</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Sermons, Culte dû à Dieu, 2</biblScope>
@@ -26525,7 +26522,7 @@
 </cit>
 </p>
 </note>
-<etym>Provenç. esp. et ital. novena ; du lat. novenus, dérivé de novem, neuf (voy. <ref target="neuf1">NEUF 1</ref>).</etym>
+<etym>Provenç. esp. et ital. novena ; du lat. novenus, dérivé de novem, neuf (voy. <ref target="neuf.1">NEUF 1</ref>).</etym>
 </entry>
 <entry xml:id="neuvième">
 <form>
@@ -26715,7 +26712,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Et qu'enfin votre livre aille au gré de vos voeux Faire siffler Cotin chez nos derniers neveux</quote>
+<quote>Et qu'enfin votre livre aille au gré de vos vœux Faire siffler Cotin chez nos derniers neveux</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Sat. IX.</biblScope>
@@ -26738,7 +26735,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Fils du frère ou de la soeur.</dictScrap>
+<dictScrap>Fils du frère ou de la sœur.</dictScrap>
 <cit>
 <quote>Je vieillis, et ne puis regarder sans effroi Les neveux affamés dont l'importun visage De mes biens à mes yeux fait déjà le partage</quote>
 <bibl>
@@ -26781,7 +26778,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Neveu à la mode du Marais, bâtard ; locution qui vient d'un fils naturel que M. de Tresmes avait eu d'une soeur de Scarron, logée au Marais, à Paris.</dictScrap>
+<dictScrap>Neveu à la mode du Marais, bâtard ; locution qui vient d'un fils naturel que M. de Tresmes avait eu d'une sœur de Scarron, logée au Marais, à Paris.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Cardinal neveu, cardinal qui est le neveu d'un pape vivant.</dictScrap>
@@ -27356,7 +27353,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Un jeune libertin se promène au Palais-Royal ; il voit là un petit nez retroussé, des lèvres riantes, un oeil éveillé, une démarche délibérée, et il s'écrie : oh ! qu'elle est charmante !</quote>
+<quote>Un jeune libertin se promène au Palais-Royal ; il voit là un petit nez retroussé, des lèvres riantes, un œil éveillé, une démarche délibérée, et il s'écrie : oh ! qu'elle est charmante !</quote>
 <bibl>
 <author>DIDER.</author>
 <biblScope>Mém. t. II, p. 169, dans POUGENS</biblScope>
@@ -27674,7 +27671,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. Il lui en pend autant au nez, il est menacé de pareille déconvenue. On dit plus souvent : autant lui en pend à l'oeil, voy. <ref target="pendre">PENDRE</ref>, v. n.</dictScrap>
+<dictScrap>Fig. Il lui en pend autant au nez, il est menacé de pareille déconvenue. On dit plus souvent : autant lui en pend à l'œil, voy. <ref target="pendre">PENDRE</ref>, v. n.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig. Se couper, s'arracher le nez pour faire dépit à son visage, faire par dépit contre quelqu'un une chose dont on souffre le premier.</dictScrap>
@@ -28258,7 +28255,7 @@
 <sense n="7">
 <dictScrap>Bout du nez, portion de la lèvre supérieure du cheval, située entre les deux naseaux, et servant d'organe de toucher aux solipèdes, en raison de la grande sensibilité que développent dans cette partie les cordons nerveux considérables qui viennent y aboutir.</dictScrap>
 <sense>
-<dictScrap>Dans le boeuf, le bout du nez est formé par le mufle ; dans le porc, il porte le nom de groin ou boutoir.</dictScrap>
+<dictScrap>Dans le bœuf, le bout du nez est formé par le mufle ; dans le porc, il porte le nom de groin ou boutoir.</dictScrap>
 </sense>
 </sense>
 <sense n="8">
@@ -28304,14 +28301,12 @@
 <sense n="17">
 <dictScrap>Nez, au sens de cap. Cap Gris-nez près Calais. Le cap d'Antifer, près du Havre, a pour vrai nom de sa partie essentielle le Nez d'Antifer : ainsi l'on a la Courtine d'Antifer, le Fourquet d'Antifer et le Nez d'Antifer (l'étymologie directe est le norrois naes, angl. ness, cap, qui se rapportent aussi sans doute au nez du visage).</dictScrap>
 </sense>
-<re type="proverbes">
 <re type="proverbe">Un grand nez ne gâta jamais beau visage.  <cit><quote>Sur tous les autres nez son nez a l'avantage, Et jamais un grand nez n'orna mieux un visage</quote><bibl><author>Mme DESHOULIÈRES</author><biblScope>Portr. de Linières.</biblScope></bibl></cit> </re>
 <re type="proverbe"><form>Il vaut mieux laisser son enfant morveux que de lui arracher le nez</form>, c'est-à-dire il est de la sagesse de tolérer un petit mal, lorsqu'on risque, en voulant y remédier, d'en causer un plus grand. </re>
 <re type="proverbe"><form>Si on lui tordait le nez, il en sortirait du lait</form>, voy. <ref target="tordre">TORDRE</ref>. </re>
 <re type="proverbe"><form>Cela paraît comme le nez au milieu du visage</form>, se dit d'une chose très apparente. </re>
 <re type="proverbe">On dit dans le même sens par ironie : Cela ne paraît pas plus que le nez au milieu du visage. </re>
-</re>
-<note type="remarque">Béranger a, pour la rime, écrit né : Turpin d'abord trouve lui-même Coeur de vingt ans non profané ; Mais un bon moine de Thélème Le croque à l'instant sous son né, Mort de Charlemagne Laharpe avait fait la même chose dans son poëme de Tangu et Félime, ch. IV : L'infortuné Ouvre une figue et l'avale ; son né Grandit d'un pied. </note>
+<note type="remarque">Béranger a, pour la rime, écrit né : Turpin d'abord trouve lui-même Cœur de vingt ans non profané ; Mais un bon moine de Thélème Le croque à l'instant sous son né, Mort de Charlemagne Laharpe avait fait la même chose dans son poëme de Tangu et Félime, ch. IV : L'infortuné Ouvre une figue et l'avale ; son né Grandit d'un pied. </note>
 <note type="historique">
 <p>
 <label>XIe s.</label>
@@ -28397,7 +28392,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il avoit l'oeil louche, le nez troussé, les nazeaux ouverts</quote>
+<quote>Il avoit l'œil louche, le nez troussé, les nazeaux ouverts</quote>
 <bibl>
 <author>D'AUB.</author>
 <biblScope>ib. II, 420</biblScope>
@@ -29059,7 +29054,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il ne recognoist ni advoue pour son oeuvre les hommes vicieus et abastardis</quote>
+<quote>Il ne recognoist ni advoue pour son œuvre les hommes vicieus et abastardis</quote>
 <bibl>
 <author>CALV.</author>
 <biblScope>ib. 49</biblScope>
@@ -29143,7 +29138,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mon appuy, mon Odet, que j'aime Mille fois plus ny que moy-mesme, Ny que mon coeur, ny que mes yeux</quote>
+<quote>Mon appuy, mon Odet, que j'aime Mille fois plus ny que moy-mesme, Ny que mon cœur, ny que mes yeux</quote>
 <bibl>
 <author>RONS.</author>
 <biblScope>472</biblScope>
@@ -29155,7 +29150,7 @@
 <re type="supplement">
 <form> NI. - REM. Ajoutez : </form>
 <re>3.  <cit><quote>Saint-Simon a dit : Le prince de Conti me conta qu'il n'avait jamais été si embarrassé, ni tant souffert de sa vie</quote><bibl><author>SAINT-SIMON</author><biblScope>78, 16</biblScope></bibl></cit> On rendrait cette phrase plus usuelle en mettant : et n'avait tant souffert de sa vie. L'ellipse préférée par Saint-Simon est dure, mais non incorrecte. </re>
-<re>4. Remarquez cette tournure de Bossuet, très bonne d'ailleurs : <cit><quote>Il [Jurieu] ne connaît guère ce que c'est ni que l'esprit ni que le coeur</quote><bibl><author>BOSSUET</author><biblScope>2e avert. 16</biblScope></bibl></cit> </re>
+<re>4. Remarquez cette tournure de Bossuet, très bonne d'ailleurs : <cit><quote>Il [Jurieu] ne connaît guère ce que c'est ni que l'esprit ni que le cœur</quote><bibl><author>BOSSUET</author><biblScope>2e avert. 16</biblScope></bibl></cit> </re>
 <re>5. Ni suivi immédiatement de pas ou point.  <cit><quote>Qu'il soit le premier de sa race, et n'ait pas le liard en sa bourse, ni pas un valet après lui</quote><bibl><author>MALH.</author><biblScope>Lexique, éd. L. Lalanne.</biblScope></bibl></cit> <cit><quote>Il faut qu'il n'y ait point de bien que la vertu, ni point de mal que le vice</quote><bibl><author>MALH.</author><biblScope>ib.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -29441,7 +29436,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Préférer l'oeuvre de Dieu, cet ouvrage si grand, si sublime, si honorable, aux niaiseries et aux inutilités des enfants du siècle</quote>
+<quote>Préférer l'œuvre de Dieu, cet ouvrage si grand, si sublime, si honorable, aux niaiseries et aux inutilités des enfants du siècle</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Confér. Fuite du monde.</biblScope>
@@ -29686,7 +29681,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Enfoncement pratiqué dans l'épaisseur de quelque corps solide, pour y placer quelque chose, une statue, un vase, etc. Mettre une statue dans une niche. Le choeur de cette église est orné de saints placés dans des niches. Une niche de poêle.</dictScrap>
+<dictScrap>Enfoncement pratiqué dans l'épaisseur de quelque corps solide, pour y placer quelque chose, une statue, un vase, etc. Mettre une statue dans une niche. Le chœur de cette église est orné de saints placés dans des niches. Une niche de poêle.</dictScrap>
 <sense>
 <dictScrap>Terme d'architecture. Niche à cru, niche qui prend naissance au rez-de-chaussée et ne s'élève sur aucun socle massif.</dictScrap>
 </sense>
@@ -29844,7 +29839,7 @@
 <sense>
 <dictScrap>Par extension.</dictScrap>
 <cit>
-<quote>Lors je lui dis : te voilà mal niché, Petit larron ; cherche une autre retraite : Celle du coeur sera bien plus secrète</quote>
+<quote>Lors je lui dis : te voilà mal niché, Petit larron ; cherche une autre retraite : Celle du cœur sera bien plus secrète</quote>
 <bibl>
 <author>J. B. ROUSS.</author>
 <biblScope>Épigr. I, 2</biblScope>
@@ -29986,7 +29981,7 @@
 <sense>
 <dictScrap>Il se dit aussi de certains quadrupèdes.</dictScrap>
 <cit>
-<quote>À la Louisiane et en Canada, où les ours noirs sont très communs, et où ils ne nichent pas dans les cavernes, mais dans de vieux arbres morts sur pied et dont le coeur est pourri</quote>
+<quote>À la Louisiane et en Canada, où les ours noirs sont très communs, et où ils ne nichent pas dans les cavernes, mais dans de vieux arbres morts sur pied et dont le cœur est pourri</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Quadrup. t. III, p. 33</biblScope>
@@ -30044,7 +30039,7 @@
 <dictScrap>Cet homme s'est niché dans une bonne maison, il a trouvé une bonne retraite, un bon établissement.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Il se dit aussi des sentiments, des passions, des idées, etc. qui prennent pied dans l'esprit, dans le coeur.</dictScrap>
+<dictScrap>Il se dit aussi des sentiments, des passions, des idées, etc. qui prennent pied dans l'esprit, dans le cœur.</dictScrap>
 <cit>
 <quote>Le pauvre court après lui [Molière qui lui avait fait l'aumône], et lui dit : Monsieur, vous n'aviez peut-être pas dessein de me donner un louis d'or, je viens vous le rendre. - Tiens, mon ami, dit Molière, en voilà un autre, et il s'écria : où la vertu va-t-elle se nicher !</quote>
 <bibl>
@@ -30481,7 +30476,7 @@
 <sense n="1">
 <dictScrap>Petit logement que se fait l'oiseau pour pondre, faire éclore ses petits et les élever.</dictScrap>
 <cit>
-<quote>Si, marchant dans un chemin, vous trouvez sur un arbre ou à terre le nid d'un oiseau, et la mère qui est sur ses petits ou sur ses oeufs, vous ne retiendrez point la mère avec ses petits</quote>
+<quote>Si, marchant dans un chemin, vous trouvez sur un arbre ou à terre le nid d'un oiseau, et la mère qui est sur ses petits ou sur ses œufs, vous ne retiendrez point la mère avec ses petits</quote>
 <bibl>
 <author>SACI</author>
 <biblScope>Bible, Deutéron. XXII, 6</biblScope>
@@ -30581,7 +30576,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Aller prendre la mère au nid, marcher à pas de loup pour surprendre quelqu'un ; locution prise des oiseleurs qui se glissent furtivement pour saisir une mère sur ses oeufs.</dictScrap>
+<dictScrap>Aller prendre la mère au nid, marcher à pas de loup pour surprendre quelqu'un ; locution prise des oiseleurs qui se glissent furtivement pour saisir une mère sur ses œufs.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Pondre au nid d'autrui, avoir un commerce illicite avec la femme d'autrui.</dictScrap>
@@ -30646,7 +30641,7 @@
 <sense n="5">
 <dictScrap>Fig. Origine, source de choses morales.</dictScrap>
 <cit>
-<quote>Mais aucun de ces maux n'égale les rigueurs Que la mauvaise honte exerça dans les coeurs ; De ce nid à l'instant sortirent tous les vices</quote>
+<quote>Mais aucun de ces maux n'égale les rigueurs Que la mauvaise honte exerça dans les cœurs ; De ce nid à l'instant sortirent tous les vices</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Ép. III</biblScope>
@@ -30682,15 +30677,13 @@
 </sense>
 </sense>
 <sense n="11">
-<dictScrap>Terme d'alchimie. Nid, l'oeuf philosophal.</dictScrap>
+<dictScrap>Terme d'alchimie. Nid, l'œuf philosophal.</dictScrap>
 <sense>
-<dictScrap>Nid du poulet, l'oeuf où le mercure est enfermé.</dictScrap>
+<dictScrap>Nid du poulet, l'œuf où le mercure est enfermé.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Petit à petit l'oiseau fait son nid</form>, c'est-à-dire on fait peu à peu sa fortune, sa maison. </re>
 <re type="proverbe"><form>À chaque oiseau son nid est beau</form>, c'est-à-dire chacun trouve sa maison, sa propriété belle. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
@@ -30817,7 +30810,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'anatomie. Masses nidiformes, substances homogènes qui, comme le frai, enveloppent certains oeufs.</dictScrap>
+<dictScrap>Terme d'anatomie. Masses nidiformes, substances homogènes qui, comme le frai, enveloppent certains œufs.</dictScrap>
 </sense>
 <etym>Lat. nidus, nid, et forme.</etym>
 </entry>
@@ -30828,7 +30821,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de médecine. Qui a une odeur et un goût de pourri, de brûlé, d'oeufs couvés. Des rapports nidoreux.</dictScrap>
+<dictScrap>Terme de médecine. Qui a une odeur et un goût de pourri, de brûlé, d'œufs couvés. Des rapports nidoreux.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -30853,7 +30846,7 @@
 <sense>
 <dictScrap>Terme de zoologie. Qui construit des nids.</dictScrap>
 <sense>
-<dictScrap>Terme d'anatomie. Membranes nidulantes, membranes vésiculeuses dans lesquelles certains animaux, tels que les crapauds, renferment leurs oeufs.</dictScrap>
+<dictScrap>Terme d'anatomie. Membranes nidulantes, membranes vésiculeuses dans lesquelles certains animaux, tels que les crapauds, renferment leurs œufs.</dictScrap>
 </sense>
 </sense>
 <etym>Lat. nidulus, diminutif de nidus, nid.</etym>
@@ -30886,7 +30879,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Fille du frère ou de la soeur.</dictScrap>
+<dictScrap>Fille du frère ou de la sœur.</dictScrap>
 <cit>
 <quote>Je sais qu'une favorite ou nièce d'abbesse est la plus mauvaise de toutes les éducations</quote>
 <bibl>
@@ -31889,7 +31882,7 @@
 <sense>
 <dictScrap>Poisson du genre des spares.</dictScrap>
 </sense>
-<etym>Nigri-, et oeil.</etym>
+<etym>Nigri-, et œil.</etym>
 </entry>
 <entry xml:id="niguedouille">
 <form>
@@ -31997,7 +31990,7 @@
 <dictScrap>Espèce d'antilope, antilops picta, Gmelin.</dictScrap>
 </sense>
 <re type="supplement">
-<re>NILGAUT. Ajoutez : - ÉTYM. Persan, nîl-guiâv, boeuf bleu, de nîl, bleu, et guiâv, boeuf. </re>
+<re>NILGAUT. Ajoutez : - ÉTYM. Persan, nîl-guiâv, bœuf bleu, de nîl, bleu, et guiâv, bœuf. </re>
 </re>
 </entry>
 <entry xml:id="nille">
@@ -32278,7 +32271,7 @@
 <dictScrap>Nippe s'est dit anciennement pour chose bonne à manger. Il tira de la poche quelques reliquats de la noce, dont je lui arrachai goulûment de bonnes nippes, et les allant manger auprès de la fenêtre.... Francion, liv. VII, p. 267.</dictScrap>
 </sense>
 <re type="nuance">HARDES, NIPPES. Hardes comprend tout, et spécialement les habits principaux et de première nécessité, les gros vêtements ; au lieu que nippes exclut les habits et ne désigne que le linge, surtout celui qui n'est destiné qu'à l'ajustement.... Les nippes, n'étant pas de première nécessité, supposent une certaine aisance, une sorte de luxe ; ce que ne fait pas entendre le mot hardes.... Une autre différence très remarquable consiste en ce que les nippes se considèrent par rapport à leur valeur, comme plus ou moins précieuses, comme constituant une plus ou moins grande valeur mobilière, comme faisant qu'on est plus ou moins bien nippé.... La seule nuance propre à hardes est celle de former un paquet ou un fardeau qu'on porte.... Enfin les hardes se prennent plutôt collectivement en gros, et les nippes distributivement en détail, LAFAYE. </re>
-<etym>Frisch le rattache au hollandais nijpen, pincer, parce que les petits colifichets de parure s'attachent avec des agrafes. À quoi Scheler objecte que les nippes ne comprennent pas seulement les petits ornements d'ajustement ; il y voit un synonyme de hardes, qui a, comme hardes, le sens de faisceau, de noeud ; et ce sens, il le trouve dans le vieux scandinave hneppa, d'où procède l'islandais hneppe, hardes, trousseau, nippes.</etym>
+<etym>Frisch le rattache au hollandais nijpen, pincer, parce que les petits colifichets de parure s'attachent avec des agrafes. À quoi Scheler objecte que les nippes ne comprennent pas seulement les petits ornements d'ajustement ; il y voit un synonyme de hardes, qui a, comme hardes, le sens de faisceau, de nœud ; et ce sens, il le trouve dans le vieux scandinave hneppa, d'où procède l'islandais hneppe, hardes, trousseau, nippes.</etym>
 </entry>
 <entry xml:id="nippé">
 <form>
@@ -32366,7 +32359,8 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>La mère Nique, sorte de démon, d'après une superstition populaire (Normandie, Laigle). <re type="proverbe"> Les mots terminés en ique (paralytique, hydropique etc.) font aux médecins la nique. </re></dictScrap>
+<dictScrap>La mère Nique, sorte de démon, d'après une superstition populaire (Normandie, Laigle). </dictScrap>
+<re type="proverbe"> Les mots terminés en ique (paralytique, hydropique etc.) font aux médecins la nique. </re>
 </sense>
 <note type="historique">
 <p>
@@ -33966,7 +33960,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Un coeur noble ne peut soupçonner en autrui La bassesse et la malice Qu'il ne sent point en lui</quote>
+<quote>Un cœur noble ne peut soupçonner en autrui La bassesse et la malice Qu'il ne sent point en lui</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Esth. III, 9</biblScope>
@@ -34083,7 +34077,7 @@
 </sense>
 </sense>
 <sense n="8">
-<dictScrap>En physiologie, les parties nobles, le coeur, le foie, le cerveau, etc.</dictScrap>
+<dictScrap>En physiologie, les parties nobles, le cœur, le foie, le cerveau, etc.</dictScrap>
 <cit>
 <quote>Je ne m'étonne pas, ma chère fille, si vos parties nobles ont été si culbutées</quote>
 <bibl>
@@ -34188,7 +34182,8 @@
 </cit>
 </sense>
 <sense n="13">
-<dictScrap>Noble épine, aubépine, et quelquefois épine-vinette. <re type="proverbe"> Un noble, s'il n'est à la rose, Vaut parfois bien peu de chose, dicton tiré du noble à la rose, et qui signifie que la noblesse sans la richesse a peu de valeur. </re></dictScrap>
+<dictScrap>Noble épine, aubépine, et quelquefois épine-vinette. </dictScrap>
+<re type="proverbe"> Un noble, s'il n'est à la rose, Vaut parfois bien peu de chose, dicton tiré du noble à la rose, et qui signifie que la noblesse sans la richesse a peu de valeur. </re>
 </sense>
 <note type="historique">
 <p>
@@ -34286,7 +34281,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Nobles chairs, c'est à sçavoir cerfs, biches, dains, sangliers, porcs et autre venayson [donnée aux gentilhommes, dames et damoiselles, par opposition aux boeufs et moutons donnés à tout le monde]</quote>
+<quote>Nobles chairs, c'est à sçavoir cerfs, biches, dains, sangliers, porcs et autre venayson [donnée aux gentilhommes, dames et damoiselles, par opposition aux bœufs et moutons donnés à tout le monde]</quote>
 <bibl>
 <biblScope>Perceforest, t. I, f° 118</biblScope>
 </bibl>
@@ -34316,7 +34311,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Neocles le pria, les larmes aux yeux, de vouloir pardonner à un si noble chef-d'oeuvre</quote>
+<quote>Neocles le pria, les larmes aux yeux, de vouloir pardonner à un si noble chef-d'œuvre</quote>
 <bibl>
 <author>AMYOT</author>
 <biblScope>Arat. 15</biblScope>
@@ -34373,7 +34368,7 @@
 <quote>Le parlement jugea que les enfants de Jean le Maître devaient partager noblement</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 58</biblScope>
+<biblScope>Mœurs, 58</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -34576,7 +34571,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La noblesse n'est souvent qu'une pauvreté vaine, ignorante et grossière ; oisive, qui se pique de mépriser tout ce qui lui manque ; est-ce là de quoi avoir le coeur si enflé ?</quote>
+<quote>La noblesse n'est souvent qu'une pauvreté vaine, ignorante et grossière ; oisive, qui se pique de mépriser tout ce qui lui manque ; est-ce là de quoi avoir le cœur si enflé ?</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Oblig. de l'état relig. 3</biblScope>
@@ -34618,7 +34613,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Cette disposition de coeur et d'esprit qui passe des aïeux par les pères dans leurs descendants, est cette bravoure si familière aux personnes nobles, et peut-être la noblesse même</quote>
+<quote>Cette disposition de cœur et d'esprit qui passe des aïeux par les pères dans leurs descendants, est cette bravoure si familière aux personnes nobles, et peut-être la noblesse même</quote>
 <bibl>
 <author>LA BRUY.</author>
 <biblScope>IX.</biblScope>
@@ -34635,7 +34630,7 @@
 <quote>Le roi Jean anoblit son chancelier Guillaume de Dormant ; car alors aucun office de clerc, d'homme de loi, d'homme de robe longue, ne donnait rang parmi la noblesse, malgré le titre de chevalier ès lois et de bachelier ès lois que prenaient les clercs</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 98</biblScope>
+<biblScope>Mœurs, 98</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -34660,7 +34655,7 @@
 <quote>L'édit de 1644 a prévalu : les cours de judicature ont joui des priviléges de la noblesse, et la nation ne les a pas contestés à ceux qui jugent la nation</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 98</biblScope>
+<biblScope>Mœurs, 98</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -34865,7 +34860,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Qu'il y a une pureté de moeurs plus estimable que celle du sang, et une noblesse spirituelle qui consiste à être conforme à l'image de Jésus-Christ</quote>
+<quote>Qu'il y a une pureté de mœurs plus estimable que celle du sang, et une noblesse spirituelle qui consiste à être conforme à l'image de Jésus-Christ</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Aiguillon.</biblScope>
@@ -34913,10 +34908,8 @@
 <dictScrap>En peinture et en sculpture, le caractère élevé de la composition.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Noblesse vient de vertu</form>, c'est-à-dire un homme n'est proprement au-dessus d'un autre que par la vertu et par le mérite.  <cit><quote>On dit que la noblesse a la vertu pour mère ; S'il est vrai, ses enfants ne lui ressemblent guère</quote><bibl><author>BOURSAULT</author><biblScope>Ésope à la cour, IV, 4</biblScope></bibl></cit> </re>
 <re type="proverbe"><form>Noblesse oblige</form>, c'est-à-dire quiconque prétend être noble, doit se bien conduire. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIIe s.</label>
@@ -34949,7 +34942,7 @@
 <p>
 <label>XIVe s.</label>
 <cit>
-<quote>Les uns [membres] sont principaus en noblece, si cum le cuer [coeur]</quote>
+<quote>Les uns [membres] sont principaus en noblece, si cum le cuer [cœur]</quote>
 <bibl>
 <author>H. DE MONDEVILLE</author>
 <biblScope>f° 36</biblScope>
@@ -35081,7 +35074,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ma soeur est-elle mariée ? Avez-vous vu de nos garçons La foule aux noces conviée La célébrer dans leurs chansons ?</quote>
+<quote>Ma sœur est-elle mariée ? Avez-vous vu de nos garçons La foule aux noces conviée La célébrer dans leurs chansons ?</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Hirondelles.</biblScope>
@@ -35214,12 +35207,10 @@
 <sense n="5">
 <dictScrap>Terme d'antiquité. Noces aldobrandines, ainsi dites parce qu'elles étaient à Rome dans le palais Abdobrandini sur le Quirinal ; ces célèbres fresques, datant vraisemblablement d'Auguste, ont été trouvées dans les Thermes de Titus, et sont maintenant placées au Vatican.</dictScrap>
 </sense>
-<re type="proverbes">
 <re type="proverbe">Voyage de maître, noces de valets, c'est quand les maîtres sont absents que les domestiques s'amusent. </re>
 <re type="proverbe">Il est arrivé comme Tabourin à noces, il est arrivé fort à propos. </re>
 <re type="proverbe">Jamais noce sans réveillon. </re>
 <re type="proverbe">Allez-vous-en, gens de la noce, refrain d'une vieille chanson qui se dit aux gens quand on n'a plus besoin d'eux et qu'il est temps qu'ils partent. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
@@ -35368,7 +35359,7 @@
 <sense n="2">
 <dictScrap>Dans le langage poétique ou élevé, synonyme de pilote.</dictScrap>
 <cit>
-<quote>Nocher, ployez la voile, et redoublez vos voeux</quote>
+<quote>Nocher, ployez la voile, et redoublez vos vœux</quote>
 <bibl>
 <author>DELILLE.</author>
 <biblScope>Géorg. I</biblScope>
@@ -35399,7 +35390,7 @@
 </cit>
 </sense>
 </sense>
-<re type="nuance">NOCHER, NAUTONIER. Ces deux mots, qui sont tous deux du style poétique ou relevé, ont cette différence que le nocher conduit, dirige le vaisseau, tandis que le nautonier travaille à la manoeuvre. </re>
+<re type="nuance">NOCHER, NAUTONIER. Ces deux mots, qui sont tous deux du style poétique ou relevé, ont cette différence que le nocher conduit, dirige le vaisseau, tandis que le nautonier travaille à la manœuvre. </re>
 <note type="historique">
 <p>
 <label>XVIe s.</label>
@@ -35836,12 +35827,12 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de physique. Qui a rapport aux noeuds d'une surface vibrante. Figures nodales.</dictScrap>
+<dictScrap>Terme de physique. Qui a rapport aux nœuds d'une surface vibrante. Figures nodales.</dictScrap>
 <sense>
 <dictScrap>Lignes nodales, ou, substantivement, les nodales, lignes qui se forment sur une plaque recouverte de sable qu'on fait vibrer.</dictScrap>
 </sense>
 </sense>
-<etym>Lat. nodus, noeud.</etym>
+<etym>Lat. nodus, nœud.</etym>
 <re type="supplement">
 <form> NODAL. Ajoutez : </form>
 <sense n="2">
@@ -35859,9 +35850,9 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui habite les noeuds des végétaux. La forme nodicole du phylloxéra, Acad. des sc. Comptes rend. t. LXXXII, p. 1379.</dictScrap>
+<dictScrap>Qui habite les nœuds des végétaux. La forme nodicole du phylloxéra, Acad. des sc. Comptes rend. t. LXXXII, p. 1379.</dictScrap>
 </sense>
-<etym>Lat. nodus, noeud, et colere, habiter.</etym>
+<etym>Lat. nodus, nœud, et colere, habiter.</etym>
 </entry>
 <entry xml:id="nodicorne">
 <form>
@@ -35872,7 +35863,7 @@
 <sense>
 <dictScrap>Terme de zoologie. Qui a les antennes noueuses.</dictScrap>
 </sense>
-<etym>Lat. nodus, noeud, et corne.</etym>
+<etym>Lat. nodus, nœud, et corne.</etym>
 </entry>
 <entry xml:id="nodiflore">
 <form>
@@ -35881,9 +35872,9 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Dont les fleurs naissent aux noeuds ou articulations.</dictScrap>
+<dictScrap>Terme de botanique. Dont les fleurs naissent aux nœuds ou articulations.</dictScrap>
 </sense>
-<etym>Lat. nodus, noeud, et fleur.</etym>
+<etym>Lat. nodus, nœud, et fleur.</etym>
 </entry>
 <entry xml:id="nodosité">
 <form>
@@ -35892,9 +35883,9 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de botanique. Etat de ce qui a des noeuds. La nodosité d'un végétal.</dictScrap>
+<dictScrap>Terme de botanique. Etat de ce qui a des nœuds. La nodosité d'un végétal.</dictScrap>
 <sense>
-<dictScrap>Les noeuds mêmes.</dictScrap>
+<dictScrap>Les nœuds mêmes.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -35937,7 +35928,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme didactique. Petit noeud ; nouet.</dictScrap>
+<dictScrap>Terme didactique. Petit nœud ; nouet.</dictScrap>
 <sense>
 <dictScrap>Terme de minéralogie. Petit noyau formé de quelque substance minérale. Des nodules de phosphate de chaux.</dictScrap>
 </sense>
@@ -35948,7 +35939,7 @@
 <dictScrap>Terme d'arboriculture. Noyau de substance ligneuse développé dans l'épaisseur de l'écorce.</dictScrap>
 </sense>
 </sense>
-<etym>Diminutif du lat. nodus, noeud.</etym>
+<etym>Diminutif du lat. nodus, nœud.</etym>
 </entry>
 <entry xml:id="noduleux">
 <form>
@@ -35987,7 +35978,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Nodus est tumeur ronde, dure et immobile, ainsi dite par similitude qu'il a d'un noeud de corde</quote>
+<quote>Nodus est tumeur ronde, dure et immobile, ainsi dite par similitude qu'il a d'un nœud de corde</quote>
 <bibl>
 <author>PARÉ</author>
 <biblScope>V, 17</biblScope>
@@ -35995,7 +35986,7 @@
 </cit>
 </p>
 </note>
-<etym>Lat. nodus, noeud.</etym>
+<etym>Lat. nodus, nœud.</etym>
 </entry>
 <entry xml:id="noe">
 <form>
@@ -36100,7 +36091,7 @@
 <p>
 <label>XIIIe s.</label>
 <cit>
-<quote>Se on tressaloit [passait] le byssexte, après mult d'ans noeus eskarroit [arriverait] entor le [la] feste St Jehan, et le [la] feste St Jehan entor le noel</quote>
+<quote>Se on tressaloit [passait] le byssexte, après mult d'ans nœus eskarroit [arriverait] entor le [la] feste St Jehan, et le [la] feste St Jehan entor le noel</quote>
 <bibl>
 <biblScope>Comput, f° 7</biblScope>
 </bibl>
@@ -36167,9 +36158,7 @@
 <etym>Wallon, noié ; Hainaut, noé ; bourg. noei ; Bresse, noyé ; picard, noué ; Berry, nau, nô ; provenç. nadal, nadau ; esp. et port. natal ; ital. natale ; du lat. natalis, de naissance (voy. <ref target="natal">NATAL</ref>).</etym>
 <re type="supplement">
 <form> NOËL. </form>
-</re>
-<re type="proverbes">
-<re type="proverbe">Ajoutez : </re>
+<dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe"><form>Noël gelé promet Pâques fleuries</form>, c'est-à-dire s'il gèle à Noël, il y aura des fleurs à Pâques. </re>
 </re>
 </entry>
@@ -36204,7 +36193,7 @@
 <sense>
 <dictScrap>Terme de philosophie. Activité de l'intelligence.</dictScrap>
 </sense>
-<etym>Termes grecs signifiant intelligence et oeuvre.</etym>
+<etym>Termes grecs signifiant intelligence et œuvre.</etym>
 </entry>
 <entry xml:id="noétien">
 <form>
@@ -36223,19 +36212,19 @@
 </cit>
 </sense>
 </entry>
-<entry xml:id="noeud">
+<entry xml:id="nœud">
 <form>
-<orth>NOEUD</orth>
+<orth>NŒUD</orth>
 <pron>neu ; le d ne se prononce et ne se lie jamais : un neu indissoluble ; au pluriel, l's se lie des neû-z indissolubles</pron>
 <gram>s. m.</gram>
 </form>
 <note type="plan">
 <list>
 <item n="1">Enlacement d'une corde. </item>
-<item n="2">Il se dit des noeuds de la ligne du loch. </item>
+<item n="2">Il se dit des nœuds de la ligne du loch. </item>
 <item n="3">Entrelacement de cordes avec lequel on fermait les portes. </item>
 <item n="4">Divisions des charnières. </item>
-<item n="5">Ornement qui représente un noeud. </item>
+<item n="5">Ornement qui représente un nœud. </item>
 <item n="6">Liens qui attachent les membres de quelqu'un. </item>
 <item n="7">Enlacement d'un serpent. </item>
 <item n="8">Fig. Le point essentiel d'une affaire, d'une question. </item>
@@ -36246,37 +36235,37 @@
 <item n="13">Point fixe où une corde vibrante reste immobile et se divise en parties aliquotes. </item>
 <item n="14">Assemblage de quatre notes d'agrément. </item>
 <item n="15">Point où des chaînes de montagnes se réunissent en un système. </item>
-<item n="16">En botanique et en anatomie, noeud vital. </item>
-<item n="17">Noeud de l'anthère ; le fruit au moment où il noue. </item>
+<item n="16">En botanique et en anatomie, nœud vital. </item>
+<item n="17">Nœud de l'anthère ; le fruit au moment où il noue. </item>
 <item n="18">Protubérance plus ou moins saillante produite à l'extérieur d'un végétal. </item>
 <item n="19">Jointures des doigts. </item>
-<item n="20">Le noeud de la gorge. </item>
-<item n="21">Noeud de l'encéphale. </item>
+<item n="20">Le nœud de la gorge. </item>
+<item n="21">Nœud de l'encéphale. </item>
 <item n="22">Partie dure dans la substance du bois, du marbre, de la pierre qu'on travaille. </item>
 <item n="23">Morceaux de chair qui se lèvent aux quatre flancs du cerf. </item>
 <item n="24">Terme de construction. </item>
-<item n="25">Noeud de soudure. </item>
+<item n="25">Nœud de soudure. </item>
 <item n="26">Ancien terme de verrerie. </item>
 </list>
 </note>
 <sense n="1">
-<dictScrap>Enlacement d'une corde ou de quelque chose de semblable, dont on passe les bouts l'un dans l'autre en les serrant. Noeud de ruban. Corde à noeuds. Faire, défaire un noeud.</dictScrap>
+<dictScrap>Enlacement d'une corde ou de quelque chose de semblable, dont on passe les bouts l'un dans l'autre en les serrant. Nœud de ruban. Corde à nœuds. Faire, défaire un nœud.</dictScrap>
 <cit>
-<quote>Quelle importune main, en formant tous ces noeuds, A pris soin sur mon front d'assembler mes cheveux ?</quote>
+<quote>Quelle importune main, en formant tous ces nœuds, A pris soin sur mon front d'assembler mes cheveux ?</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Phèd. I, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les Péruviens transmettaient les principaux faits à la postérité par des noeuds qu'ils faisaient à des cordes</quote>
+<quote>Les Péruviens transmettaient les principaux faits à la postérité par des nœuds qu'ils faisaient à des cordes</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 148</biblScope>
+<biblScope>Mœurs, 148</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>En refaisant des noeuds à ses lanières, Il [Grippeminaud] me poursuit encor d'un oeil sournois</quote>
+<quote>En refaisant des nœuds à ses lanières, Il [Grippeminaud] me poursuit encor d'un œil sournois</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Gohier.</biblScope>
@@ -36285,7 +36274,7 @@
 <sense>
 <dictScrap>Corde nouée de manière à étrangler.</dictScrap>
 <cit>
-<quote>Son amante en furie Avait au noeud fatal abandonné sa vie [de Bajazet]</quote>
+<quote>Son amante en furie Avait au nœud fatal abandonné sa vie [de Bajazet]</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Baj. V, 11</biblScope>
@@ -36293,16 +36282,16 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Avoir un noeud à la gorge, avoir une corde autour du cou pour la pendaison ; et fig. avoir quelque chose qui déplaît, qu'on ne peut avaler.</dictScrap>
+<dictScrap>Avoir un nœud à la gorge, avoir une corde autour du cou pour la pendaison ; et fig. avoir quelque chose qui déplaît, qu'on ne peut avaler.</dictScrap>
 <cit>
-<quote>Mais que faire, quand on a un noeud à la gorge ?</quote>
+<quote>Mais que faire, quand on a un nœud à la gorge ?</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>144</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il me semble que la mort du roi d'Angleterre [Charles II] devient plus philosophe et anglaise que chrétienne et catholique : " adieu, roi, " me fait quasi un noeud à la gorge</quote>
+<quote>Il me semble que la mort du roi d'Angleterre [Charles II] devient plus philosophe et anglaise que chrétienne et catholique : " adieu, roi, " me fait quasi un nœud à la gorge</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>7 mars 1685</biblScope>
@@ -36310,12 +36299,12 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Noeud coulant, noeud qui glisse et serre d'autant plus qu'on tire davantage.</dictScrap>
+<dictScrap>Nœud coulant, nœud qui glisse et serre d'autant plus qu'on tire davantage.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud gordien, noeud qui attachait le joug du char de Gordius, roi de Phrygie, consacré par Midas son fils dans le temple de Jupiter à Gordium ; l'oracle avait promis l'empire de l'Asie à celui qui déferait ce noeud ; Alexandre, n'en pouvant venir à bout, le trancha avec son épée.</dictScrap>
+<dictScrap>Nœud gordien, nœud qui attachait le joug du char de Gordius, roi de Phrygie, consacré par Midas son fils dans le temple de Jupiter à Gordium ; l'oracle avait promis l'empire de l'Asie à celui qui déferait ce nœud ; Alexandre, n'en pouvant venir à bout, le trancha avec son épée.</dictScrap>
 <cit>
-<quote>Ayant pris sa ville, il [Alexandre] eut envie de voir le fameux chariot où était attaché le noeud gordien ; ce noeud, qui attachait le joug au timon, était fait si adroitement, et le lien faisait tant de tours et de détours, qu'on ne pouvait découvrir ni où il commençait, ni où il finissait</quote>
+<quote>Ayant pris sa ville, il [Alexandre] eut envie de voir le fameux chariot où était attaché le nœud gordien ; ce nœud, qui attachait le joug au timon, était fait si adroitement, et le lien faisait tant de tours et de détours, qu'on ne pouvait découvrir ni où il commençait, ni où il finissait</quote>
 <bibl>
 <author>ROLLIN</author>
 <biblScope>Hist. anc. Oeuv. t. VI, p. 213, dans POUGENS</biblScope>
@@ -36323,9 +36312,9 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. Noeud gordien, difficulté qu'on ne peut résoudre.</dictScrap>
+<dictScrap>Fig. Nœud gordien, difficulté qu'on ne peut résoudre.</dictScrap>
 <cit>
-<quote>Faire ce qui est bon et honnête, ne s'accabler pas de noeuds gordiens de prévoyance et de prudence indissolubles par leur nature, laisser dire, faire et agir en s'abandonnant à la Providence, c'est un axiome qui m'a toujours paru d'un grand usage à la cour</quote>
+<quote>Faire ce qui est bon et honnête, ne s'accabler pas de nœuds gordiens de prévoyance et de prudence indissolubles par leur nature, laisser dire, faire et agir en s'abandonnant à la Providence, c'est un axiome qui m'a toujours paru d'un grand usage à la cour</quote>
 <bibl>
 <author>SAINT-SIMON</author>
 <biblScope>254, 165</biblScope>
@@ -36333,31 +36322,31 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Couper le noeud gordien, trancher une difficulté, non pas la résoudre.</dictScrap>
+<dictScrap>Couper le nœud gordien, trancher une difficulté, non pas la résoudre.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud de chirurgien, ou du chirurgien, noeud fait en passant deux fois le bout du fil ou de la ligature dans la même anse. Ce noeud ayant l'inconvénient de ne pas serrer suffisamment ou de se relâcher, on y a renoncé.</dictScrap>
+<dictScrap>Nœud de chirurgien, ou du chirurgien, nœud fait en passant deux fois le bout du fil ou de la ligature dans la même anse. Ce nœud ayant l'inconvénient de ne pas serrer suffisamment ou de se relâcher, on y a renoncé.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud d'emballeur, nom donné à un bandage dont on se sert principalement pour comprimer l'artère temporale après l'artériotomie.</dictScrap>
+<dictScrap>Nœud d'emballeur, nom donné à un bandage dont on se sert principalement pour comprimer l'artère temporale après l'artériotomie.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud de tisserand, le plus solide des noeuds ; c'est un noeud qui ne peut lâcher.</dictScrap>
+<dictScrap>Nœud de tisserand, le plus solide des nœuds ; c'est un nœud qui ne peut lâcher.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud de charrue, espèce de noeud coulant à plusieurs circonvolutions, que l'on fait autour d'une pièce de bois pour la tirer ou la soulever.</dictScrap>
+<dictScrap>Nœud de charrue, espèce de nœud coulant à plusieurs circonvolutions, que l'on fait autour d'une pièce de bois pour la tirer ou la soulever.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Les noeuds ou les côtés des noeuds, se dit, à la paume, du revers de la raquette.</dictScrap>
+<dictScrap>Les nœuds ou les côtés des nœuds, se dit, à la paume, du revers de la raquette.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud d'artificier, suite de trois ou quatre boucles de ficelles croisées lâche, pour fixer la ficelle principale, pendant qu'on lie les bouts de celle-ci.</dictScrap>
+<dictScrap>Nœud d'artificier, suite de trois ou quatre boucles de ficelles croisées lâche, pour fixer la ficelle principale, pendant qu'on lie les bouts de celle-ci.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Terme de marine. Se dit des noeuds de la ligne du loch, par le moyen desquels on estime la marche du bâtiment. Le noeud est en longueur la 120e partie du mille nautique (soit 15 mètres environ), et en temps la 102e partie de l'heure, c'est-à-dire 30 secondes ; de là autant de noeuds filés en 30 secondes, autant de milles parcourus en une heure ; c'est pour cela que les marins disent : nous filions six noeuds à l'heure, au lieu de dire nous filions six milles.</dictScrap>
+<dictScrap>Terme de marine. Se dit des nœuds de la ligne du loch, par le moyen desquels on estime la marche du bâtiment. Le nœud est en longueur la 120e partie du mille nautique (soit 15 mètres environ), et en temps la 102e partie de l'heure, c'est-à-dire 30 secondes ; de là autant de nœuds filés en 30 secondes, autant de milles parcourus en une heure ; c'est pour cela que les marins disent : nous filions six nœuds à l'heure, au lieu de dire nous filions six milles.</dictScrap>
 <sense>
-<dictScrap>Fig. et populairement. Filer son noeud, partir. Viens-tu ? ou je file mon noeud.</dictScrap>
+<dictScrap>Fig. et populairement. Filer son nœud, partir. Viens-tu ? ou je file mon nœud.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -36367,46 +36356,46 @@
 <dictScrap>Se dit, chez les ouvriers en métal, de diverses divisions qui se font dans les charnières des compas, fiches ou couples des portes ou fenêtres par où passe le clou de la rivure.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Ornement qui représente un noeud. Un noeud de diamants.</dictScrap>
+<dictScrap>Ornement qui représente un nœud. Un nœud de diamants.</dictScrap>
 <cit>
-<quote>Elle aime à dépenser en habits, linge et noeuds</quote>
+<quote>Elle aime à dépenser en habits, linge et nœuds</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Éc. des maris, I, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Cinq fort gros diamants en noeud proprement mis, Dont le chef se parait comme d'un rare ouvrage</quote>
+<quote>Cinq fort gros diamants en nœud proprement mis, Dont le chef se parait comme d'un rare ouvrage</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Amphit. I, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Son noeud d'épaule et son parement d'or ne le font plus respecter</quote>
+<quote>Son nœud d'épaule et son parement d'or ne le font plus respecter</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Ém. II</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Faire ses noeuds de manche, son fichu....</quote>
+<quote>Faire ses nœuds de manche, son fichu....</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>ib. v.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>L'or autour de tes bras n'a point serré de noeuds</quote>
+<quote>L'or autour de tes bras n'a point serré de nœuds</quote>
 <bibl>
 <author>A. CHÉN.</author>
 <biblScope>Élég. la jeune Tarentine.</biblScope>
 </bibl>
 </cit>
 <sense>
-<dictScrap>Faire des noeuds, former au moyen d'une navette, sur un cordon de fil ou de soie, des noeuds serrés les uns contre les autres.</dictScrap>
+<dictScrap>Faire des nœuds, former au moyen d'une navette, sur un cordon de fil ou de soie, des nœuds serrés les uns contre les autres.</dictScrap>
 <cit>
-<quote>Faire des noeuds c'est ne rien faire, et il faut tout autant de soin pour amuser une femme qui fait des noeuds que celle qui tient les bras croisés</quote>
+<quote>Faire des nœuds c'est ne rien faire, et il faut tout autant de soin pour amuser une femme qui fait des nœuds que celle qui tient les bras croisés</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Confess. V</biblScope>
@@ -36414,19 +36403,19 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Noeud d'épée, rosette de ruban dont on orne la poignée d'une épée.</dictScrap>
+<dictScrap>Nœud d'épée, rosette de ruban dont on orne la poignée d'une épée.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Ornement qu'on voit entre le corps et le pied d'une aiguière ou autre ouvrage de cette nature.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Chez les charcutiers, noeud d'épée, petit paquet de couennes de lard qu'ils vendent cru ou grillé.</dictScrap>
+<dictScrap>Chez les charcutiers, nœud d'épée, petit paquet de couennes de lard qu'ils vendent cru ou grillé.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
 <dictScrap>Liens qui attachent les membres de quelqu'un.</dictScrap>
 <cit>
-<quote>Il détacha vos noeuds, vous remit en mes mains</quote>
+<quote>Il détacha vos nœuds, vous remit en mes mains</quote>
 <bibl>
 <author>M. J. CHÉN.</author>
 <biblScope>Oedipe roi, IV, 3</biblScope>
@@ -36435,7 +36424,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>M. Jurieu fait un dernier effort pour se tirer de cet embarras [la nouveauté de l'Église réformée] ; mais vous avez vu que tous ses efforts ne servent qu'à l'embarrasser et à serrer de plus près le noeud où il est pris</quote>
+<quote>M. Jurieu fait un dernier effort pour se tirer de cet embarras [la nouveauté de l'Église réformée] ; mais vous avez vu que tous ses efforts ne servent qu'à l'embarrasser et à serrer de plus près le nœud où il est pris</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>3e avert. 32</biblScope>
@@ -36445,7 +36434,7 @@
 <sense>
 <dictScrap>Fig. Piége.</dictScrap>
 <cit>
-<quote>[Cela ne saurait être] Que quelque invention du valet que je di, Que quelque noeud subtil qu'il doit avoir ourdi</quote>
+<quote>[Cela ne saurait être] Que quelque invention du valet que je di, Que quelque nœud subtil qu'il doit avoir ourdi</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>l'Et. V, 6</biblScope>
@@ -36456,14 +36445,14 @@
 <sense n="7">
 <dictScrap>Enlacement d'un serpent.</dictScrap>
 <cit>
-<quote>Aussitôt d'un serpent il revêt la figure, Il siffle, il s'enfle, il roule, il déroule ses noeuds, Et de ses vastes plis bat ses bords sablonneux</quote>
+<quote>Aussitôt d'un serpent il revêt la figure, Il siffle, il s'enfle, il roule, il déroule ses nœuds, Et de ses vastes plis bat ses bords sablonneux</quote>
 <bibl>
 <author>DELILLE</author>
 <biblScope>Hom. des ch. II</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Si nul reptile impur, sur vos chastes guirlandes, N'eût traîné ses noeuds flétrissants</quote>
+<quote>Si nul reptile impur, sur vos chastes guirlandes, N'eût traîné ses nœuds flétrissants</quote>
 <bibl>
 <author>V. HUGO</author>
 <biblScope>Odes, II, 1</biblScope>
@@ -36473,56 +36462,56 @@
 <sense n="8">
 <dictScrap>Fig. Le point essentiel d'une affaire, d'une question.</dictScrap>
 <cit>
-<quote>Ayant succinctement accordé les choses qu'il a jugées être suffisamment démontrées, il est venu au noeud de la difficulté, qui est de savoir ce qu'il faut ici entendre par le nom d'idée</quote>
+<quote>Ayant succinctement accordé les choses qu'il a jugées être suffisamment démontrées, il est venu au nœud de la difficulté, qui est de savoir ce qu'il faut ici entendre par le nom d'idée</quote>
 <bibl>
 <author>DESCARTES</author>
 <biblScope>Rép. aux 1res obj. 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Dieu, pour se réserver à lui seul le droit de nous instruire, et pour nous rendre la difficulté de notre être inintelligible, nous en a caché le noeud si haut....</quote>
+<quote>Dieu, pour se réserver à lui seul le droit de nous instruire, et pour nous rendre la difficulté de notre être inintelligible, nous en a caché le nœud si haut....</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Pens. XXIV, 15 ter, éd. HAVET.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le noeud de notre condition prend ses replis et ses tours dans cet abîme [le péché originel]</quote>
+<quote>Le nœud de notre condition prend ses replis et ses tours dans cet abîme [le péché originel]</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>ib. VIII, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Bien glorieux de savoir le noeud de l'affaire</quote>
+<quote>Bien glorieux de savoir le nœud de l'affaire</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Prov. I</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Qu'on démêle ce noeud [de la grâce], et qu'on cesse d'excuser les luthériens [du semi-pélagianisme]</quote>
+<quote>Qu'on démêle ce nœud [de la grâce], et qu'on cesse d'excuser les luthériens [du semi-pélagianisme]</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>2e avert. 12</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>De là dépend le noeud de leur salut éternel</quote>
+<quote>De là dépend le nœud de leur salut éternel</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Voc.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Voici le noeud secret de cet événement</quote>
+<quote>Voici le nœud secret de cet événement</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Charles XII, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ne puis-je pas m'appliquer ce que disait Cicéron, ayant proposé aux antiquaires de son temps quelque noeud qu'ils ne pouvaient résoudre ?</quote>
+<quote>Ne puis-je pas m'appliquer ce que disait Cicéron, ayant proposé aux antiquaires de son temps quelque nœud qu'ils ne pouvaient résoudre ?</quote>
 <bibl>
 <author>P. L. COUR.</author>
 <biblScope>Lett. I, 34</biblScope>
@@ -36532,112 +36521,112 @@
 <sense n="9">
 <dictScrap>Fig. Lien moral entre des personnes.</dictScrap>
 <cit>
-<quote>Serre d'une étreinte si ferme Le noeud de leurs chastes amours, Que la seule mort soit le terme Qui puisse en arrêter le cours</quote>
+<quote>Serre d'une étreinte si ferme Le nœud de leurs chastes amours, Que la seule mort soit le terme Qui puisse en arrêter le cours</quote>
 <bibl>
 <author>MALH.</author>
 <biblScope>II, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Moi, sans considérer aucun noeud domestique, J'ai fait ce choix comme eux, mais dans la république</quote>
+<quote>Moi, sans considérer aucun nœud domestique, J'ai fait ce choix comme eux, mais dans la république</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Othon, III, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>L'argent seul aujourd'hui forme les plus beaux noeuds</quote>
+<quote>L'argent seul aujourd'hui forme les plus beaux nœuds</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Contr.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Et que, si vous voulez satisfaire mes voeux, Un saint noeud dès demain nous unira tous deux</quote>
+<quote>Et que, si vous voulez satisfaire mes vœux, Un saint nœud dès demain nous unira tous deux</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Éc. des mar. III, 9</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vous me paraissez accablée de vos madames de Montélimar.... ce sont des noeuds mal assortis que ceux d'une telle société</quote>
+<quote>Vous me paraissez accablée de vos madames de Montélimar.... ce sont des nœuds mal assortis que ceux d'une telle société</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>15, août 1677</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [Jésus sur la croix] lui donne [à la sainte Vierge] un autre fils, comme si désormais il cessait de l'être, et comme s'il rompait le noeud d'une si sainte alliance</quote>
+<quote>Il [Jésus sur la croix] lui donne [à la sainte Vierge] un autre fils, comme si désormais il cessait de l'être, et comme s'il rompait le nœud d'une si sainte alliance</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>1er sermon, Assompt. 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Déjà se formaient dans le ciel ces noeuds sacrés qui devaient unir éternellement son coeur [de M. de Montausier] à celui de l'incomparable Julie d'Angennes</quote>
+<quote>Déjà se formaient dans le ciel ces nœuds sacrés qui devaient unir éternellement son cœur [de M. de Montausier] à celui de l'incomparable Julie d'Angennes</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Mme de Mont.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mme la Dauphine ménagea ce qui lui restait de moments précieux pour délier les noeuds qui l'attachaient encore au monde</quote>
+<quote>Mme la Dauphine ménagea ce qui lui restait de moments précieux pour délier les nœuds qui l'attachaient encore au monde</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Dauphine.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>[Agrippine] Atteste les saints droits d'un noeud [mariage] qu'elle a formé</quote>
+<quote>[Agrippine] Atteste les saints droits d'un nœud [mariage] qu'elle a formé</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Brit. II, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>L'amour serra les noeuds par le sang commencés</quote>
+<quote>L'amour serra les nœuds par le sang commencés</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Bajaz. I, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Et je romps tous les noeuds qui m'attachent à vous</quote>
+<quote>Et je romps tous les nœuds qui m'attachent à vous</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Iphig. IV, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Rendez grâce au seul noeud qui retient ma colère</quote>
+<quote>Rendez grâce au seul nœud qui retient ma colère</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Des hommes auxquels aucun noeud commun de culte ou d'espérance ne nous lie</quote>
+<quote>Des hommes auxquels aucun nœud commun de culte ou d'espérance ne nous lie</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Avenir.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Par les noeuds des serments as-tu lié son coeur ?</quote>
+<quote>Par les nœuds des serments as-tu lié son cœur ?</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Fanat. III, 5</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Notre liaison s'est fortifiée, et la disgrâce en a resserré les noeuds</quote>
+<quote>Notre liaison s'est fortifiée, et la disgrâce en a resserré les nœuds</quote>
 <bibl>
 <author>DUCLOS</author>
 <biblScope>Oeuv. t. X, p. 53</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Que de goguettes ! Que d'amourettes ! Jamais de dettes : Point de noeuds constants</quote>
+<quote>Que de goguettes ! Que d'amourettes ! Jamais de dettes : Point de nœuds constants</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Cocag.</biblScope>
@@ -36647,42 +36636,42 @@
 <sense n="10">
 <dictScrap>Fig. Ce qui unit, rapproche.</dictScrap>
 <cit>
-<quote>C'est celui [le fils de Dieu] qui réconcilie toutes choses en sa personne, il est le noeud des affections du ciel et de la terre</quote>
+<quote>C'est celui [le fils de Dieu] qui réconcilie toutes choses en sa personne, il est le nœud des affections du ciel et de la terre</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>2e serm. Compass. de la Ste Vierge, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le caractère particulier de la princesse Anne était de concilier les intérêts opposés, et, en s'élevant au-dessus, de trouver le secret endroit et comme le noeud par où on les peut réunir</quote>
+<quote>Le caractère particulier de la princesse Anne était de concilier les intérêts opposés, et, en s'élevant au-dessus, de trouver le secret endroit et comme le nœud par où on les peut réunir</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Anne de Gonz.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Cet esprit de paix sera le noeud de votre concorde</quote>
+<quote>Cet esprit de paix sera le nœud de votre concorde</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>2e serm. Pentec. 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Tel est le noeud de presque toutes les alliances ; c'est l'argent qui les forme</quote>
+<quote>Tel est le nœud de presque toutes les alliances ; c'est l'argent qui les forme</quote>
 <bibl>
 <author>BOURDAL.</author>
 <biblScope>2e dim. après l'Épiphan. Dominic. t. I, p. 68</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Votre hymen est le noeud qui joindra les deux mondes</quote>
+<quote>Votre hymen est le nœud qui joindra les deux mondes</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Alzire, I, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>La cour pensa que la crainte serait le seul noeud qui le retiendrait [le duc de Savoie]</quote>
+<quote>La cour pensa que la crainte serait le seul nœud qui le retiendrait [le duc de Savoie]</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Louis XIV, 18</biblScope>
@@ -36692,27 +36681,27 @@
 <sense n="11">
 <dictScrap>Fig. Terme de littérature. Ce qui forme l'intrigue d'une pièce de théâtre, d'un roman, etc.</dictScrap>
 <cit>
-<quote>J'ai rendu la réponse de Laïus évoqué par Tirésie assez obscure dans sa clarté pour faire un nouveau noeud, et qui peut-être n'est pas moins beau que celui de nos anciens</quote>
+<quote>J'ai rendu la réponse de Laïus évoqué par Tirésie assez obscure dans sa clarté pour faire un nouveau nœud, et qui peut-être n'est pas moins beau que celui de nos anciens</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Oedipe, Préf.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le noeud des pièces de théâtre étant un accident inopiné qui arrête le cours de l'action représentée, et le dénoûment un autre accident imprévu qui en facilite l'accomplissement, nous trouvons que ces deux parties du poëme dramatique sont manifestes en celui du Cid</quote>
+<quote>Le nœud des pièces de théâtre étant un accident inopiné qui arrête le cours de l'action représentée, et le dénoûment un autre accident imprévu qui en facilite l'accomplissement, nous trouvons que ces deux parties du poëme dramatique sont manifestes en celui du Cid</quote>
 <bibl>
 <biblScope>Acad. Sentim. Cid</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il faut que ses acteurs [de la comédie]' badinent noblement, Que son noeud bien formé se dénoue aisément</quote>
+<quote>Il faut que ses acteurs [de la comédie]' badinent noblement, Que son nœud bien formé se dénoue aisément</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Art p. III</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il n'y a qu'un seul noeud dans le Dépit amoureux</quote>
+<quote>Il n'y a qu'un seul nœud dans le Dépit amoureux</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Vie de Molière.</biblScope>
@@ -36722,16 +36711,16 @@
 <sense n="12">
 <dictScrap>Terme de géométrie. Se dit du point où une courbe revient sur elle-même et se coupe en formant une espèce de boucle.</dictScrap>
 <sense>
-<dictScrap>Terme d'astronomie. Les points opposés où le plan de l'écliptique est coupé par l'orbite d'un corps céleste. Il [M. Halley] nous met sous les yeux, dans une table d'une seule page, les noeuds, les périhélies, les distances et les mouvements de vingt-quatre comètes des plus considérables MAIRAN, Éloge de Halley.</dictScrap>
+<dictScrap>Terme d'astronomie. Les points opposés où le plan de l'écliptique est coupé par l'orbite d'un corps céleste. Il [M. Halley] nous met sous les yeux, dans une table d'une seule page, les nœuds, les périhélies, les distances et les mouvements de vingt-quatre comètes des plus considérables MAIRAN, Éloge de Halley.</dictScrap>
 <cit>
-<quote>Elle [la lune] a ses noeuds, c'est-à-dire les points où l'orbite qu'elle parcourt rencontre précisément l'orbite de la terre</quote>
+<quote>Elle [la lune] a ses nœuds, c'est-à-dire les points où l'orbite qu'elle parcourt rencontre précisément l'orbite de la terre</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Phil. Newt. III, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Hipparque vérifia ce qu'Eudoxe avait avancé, savoir que les noeuds sont mobiles et répondent successivement à différents points de l'écliptique</quote>
+<quote>Hipparque vérifia ce qu'Eudoxe avait avancé, savoir que les nœuds sont mobiles et répondent successivement à différents points de l'écliptique</quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astron. mod. t. I, p. 94</biblScope>
@@ -36739,7 +36728,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Noeud ascendant ou boréal, le point où le plan de l'écliptique est rencontré par l'orbite d'une planète dans son passage du sud au nord ; noeud descendant ou austral, le point où l'orbite de cette même planète rencontre le plan de l'écliptique, en allant du nord au sud.</dictScrap>
+<dictScrap>Nœud ascendant ou boréal, le point où le plan de l'écliptique est rencontré par l'orbite d'une planète dans son passage du sud au nord ; nœud descendant ou austral, le point où l'orbite de cette même planète rencontre le plan de l'écliptique, en allant du nord au sud.</dictScrap>
 </sense>
 </sense>
 <sense n="13">
@@ -36751,7 +36740,7 @@
 <sense n="15">
 <dictScrap>Terme de géologie. Point où des chaînes de montagnes se réunissent en un système, où des cours d'eau prennent des directions différentes.</dictScrap>
 <cit>
-<quote>L'étroit intervalle que laissent entre eux ces deux fleuves [la Düna et le Borysthène], avant de prendre une direction si opposée, semble être l'entrée et comme la porte de la Moscovie ; c'est le noeud des routes qui conduisent aux deux capitales de cet empire</quote>
+<quote>L'étroit intervalle que laissent entre eux ces deux fleuves [la Düna et le Borysthène], avant de prendre une direction si opposée, semble être l'entrée et comme la porte de la Moscovie ; c'est le nœud des routes qui conduisent aux deux capitales de cet empire</quote>
 <bibl>
 <author>SÉGUR</author>
 <biblScope>Hist. de Nap. IV, 6</biblScope>
@@ -36759,17 +36748,17 @@
 </cit>
 </sense>
 <sense n="16">
-<dictScrap>Terme de botanique. Noeud vital, la ligne médiane qui se trouve au collet de la plante entre la racine et la tige.</dictScrap>
+<dictScrap>Terme de botanique. Nœud vital, la ligne médiane qui se trouve au collet de la plante entre la racine et la tige.</dictScrap>
 <sense>
-<dictScrap>Terme d'anatomie. Noeud vital, point qui gouverne tous les mouvements respiratoires et dont la simple division les anéantit tous.</dictScrap>
+<dictScrap>Terme d'anatomie. Nœud vital, point qui gouverne tous les mouvements respiratoires et dont la simple division les anéantit tous.</dictScrap>
 </sense>
 </sense>
 <sense n="17">
-<dictScrap>Terme de botanique. Le connectif est appelé par Mirbel noeud de l'anthère.</dictScrap>
+<dictScrap>Terme de botanique. Le connectif est appelé par Mirbel nœud de l'anthère.</dictScrap>
 <sense>
 <dictScrap>Le fruit au moment où il noue.</dictScrap>
 <cit>
-<quote>Dieu voit le fruit commencé dans le noeud, et la prière dans l'intention de prier</quote>
+<quote>Dieu voit le fruit commencé dans le nœud, et la prière dans l'intention de prier</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Ét. d'orais. V, 24</biblScope>
@@ -36777,30 +36766,30 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Renflement d'une tige d'où naît une feuille. Il faut tailler la vigne au second noeud, au troisième noeud.</dictScrap>
+<dictScrap>Renflement d'une tige d'où naît une feuille. Il faut tailler la vigne au second nœud, au troisième nœud.</dictScrap>
 </sense>
 <sense>
-<dictScrap>L'intervalle compris entre deux noeuds est appelé entre-noeud.</dictScrap>
+<dictScrap>L'intervalle compris entre deux nœuds est appelé entre-nœud.</dictScrap>
 </sense>
 </sense>
 <sense n="18">
-<dictScrap>Nom donné aux protubérances plus ou moins saillantes, produites à l'extérieur et à l'intérieur d'un végétal par l'entre-croisement des fibres et la tuméfaction du tissu cellulaire ; ce qui rend les noeuds plus solides que le reste de la tige.</dictScrap>
+<dictScrap>Nom donné aux protubérances plus ou moins saillantes, produites à l'extérieur et à l'intérieur d'un végétal par l'entre-croisement des fibres et la tuméfaction du tissu cellulaire ; ce qui rend les nœuds plus solides que le reste de la tige.</dictScrap>
 <cit>
-<quote>On sait qu'un noeud est une espèce de cheville adhérente à l'intérieur du bois ; on peut même connaître à peu près, par le nombre des cercles annuels qu'il contient, la profondeur à laquelle il pénètre</quote>
+<quote>On sait qu'un nœud est une espèce de cheville adhérente à l'intérieur du bois ; on peut même connaître à peu près, par le nombre des cercles annuels qu'il contient, la profondeur à laquelle il pénètre</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Hist. nat. part. exp. Oeuvr. t. VIII, p. 182, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>J'ai reconnu par là combien les noeuds ôtent de force au bois, ce qui est beaucoup au delà de ce qu'on pourrait imaginer</quote>
+<quote>J'ai reconnu par là combien les nœuds ôtent de force au bois, ce qui est beaucoup au delà de ce qu'on pourrait imaginer</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Son sommet revêtu d'un plus rare feuillage, Et sa mousse et ses noeuds décèlent son grand âge</quote>
+<quote>Son sommet revêtu d'un plus rare feuillage, Et sa mousse et ses nœuds décèlent son grand âge</quote>
 <bibl>
 <author>DELILLE</author>
 <biblScope>Imagin. III</biblScope>
@@ -36808,17 +36797,17 @@
 </cit>
 </sense>
 <sense n="19">
-<dictScrap>Jointures des doigts de la main. Le noeud du petit doigt, du doigt du milieu.</dictScrap>
+<dictScrap>Jointures des doigts de la main. Le nœud du petit doigt, du doigt du milieu.</dictScrap>
 <sense>
-<dictScrap>Os de la queue du cheval, du chien, du chat, etc. On a coupé à ce cheval deux noeuds de la queue.</dictScrap>
+<dictScrap>Os de la queue du cheval, du chien, du chat, etc. On a coupé à ce cheval deux nœuds de la queue.</dictScrap>
 </sense>
 </sense>
 <sense n="20">
-<dictScrap>Le noeud de la gorge, la partie de la gorge qui fait saillie à la partie antérieure du cou.</dictScrap>
+<dictScrap>Le nœud de la gorge, la partie de la gorge qui fait saillie à la partie antérieure du cou.</dictScrap>
 <sense>
-<dictScrap>C'est un rire qui ne passe pas le noeud de la gorge, se dit d'un rire forcé.</dictScrap>
+<dictScrap>C'est un rire qui ne passe pas le nœud de la gorge, se dit d'un rire forcé.</dictScrap>
 <cit>
-<quote>Je ne me réjouis pas bien sans vous ; et si je ris, cela ne passe pas le noeud de la gorge</quote>
+<quote>Je ne me réjouis pas bien sans vous ; et si je ris, cela ne passe pas le nœud de la gorge</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>à Bussy, 19 déc. 1670</biblScope>
@@ -36827,7 +36816,7 @@
 </sense>
 </sense>
 <sense n="21">
-<dictScrap>Terme d'anatomie. Noeud de l'encéphale, nom donné par quelques anatomistes au pont de Varole, en raison de sa forme.</dictScrap>
+<dictScrap>Terme d'anatomie. Nœud de l'encéphale, nom donné par quelques anatomistes au pont de Varole, en raison de sa forme.</dictScrap>
 <sense>
 <dictScrap>Terme de chirurgie. Tumeur dure qu'on nomme aussi nodosité, nodus.</dictScrap>
 </sense>
@@ -36835,7 +36824,7 @@
 <sense n="22">
 <dictScrap>Il se dit des parties dures dans la substance du bois, du marbre, de la pierre, que l'on travaille ; on dit aussi clou.</dictScrap>
 <cit>
-<quote>J'ai vu, dans plusieurs blocs d'un grès très blanc, de ces petits noeuds ou clous ferrugineux, qui sont d'une si grande dureté qu'ils résistaient à la lime</quote>
+<quote>J'ai vu, dans plusieurs blocs d'un grès très blanc, de ces petits nœuds ou clous ferrugineux, qui sont d'une si grande dureté qu'ils résistaient à la lime</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Min. t. I, p. 211</biblScope>
@@ -36844,7 +36833,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>J'ai ici à ma disposition une bonne bibliothèque, et ce m'est un grand secours pour la petite bagatelle que je vous destine ; cependant il me manque encore des outils pour enlever certains noeuds</quote>
+<quote>J'ai ici à ma disposition une bonne bibliothèque, et ce m'est un grand secours pour la petite bagatelle que je vous destine ; cependant il me manque encore des outils pour enlever certains nœuds</quote>
 <bibl>
 <author>P. L. COUR.</author>
 <biblScope>Lettre à M. de Sainte-Croix, 27 nov. 1807</biblScope>
@@ -36856,18 +36845,18 @@
 <dictScrap>Terme de chasse. Se dit de certains morceaux de chair qui se lèvent aux quatre flancs du cerf.</dictScrap>
 </sense>
 <sense n="24">
-<dictScrap>Terme de construction. Se dit des parties saillantes entre lesquelles passe la branche ou l'axe de l'espèce de charnière qui porte le nom de fiche à noeuds.</dictScrap>
+<dictScrap>Terme de construction. Se dit des parties saillantes entre lesquelles passe la branche ou l'axe de l'espèce de charnière qui porte le nom de fiche à nœuds.</dictScrap>
 </sense>
 <sense n="25">
-<dictScrap>Noeud de soudure, renflement que forme la soudure employée à réunir deux tuyaux de métal.</dictScrap>
+<dictScrap>Nœud de soudure, renflement que forme la soudure employée à réunir deux tuyaux de métal.</dictScrap>
 <sense>
 <dictScrap>Se dit des endroits où les branches d'une trompette sont soudées.</dictScrap>
 </sense>
 </sense>
 <sense n="26">
-<dictScrap>Dans l'ancienne verrerie, gros bouton qui demeurait au milieu des plats de verre soufflé ; dit aussi nombril, boudine ou oeil-de-boeuf.</dictScrap>
+<dictScrap>Dans l'ancienne verrerie, gros bouton qui demeurait au milieu des plats de verre soufflé ; dit aussi nombril, boudine ou œil-de-bœuf.</dictScrap>
 </sense>
-<re type="nuance">NOEUD, ARTICULATION (en parlant des végétaux). Dans l'articulation, il y a naturellement une solution de continuité, une séparation des fibres qui ne sont qu'apposées ; dans le noeud, les éléments organiques sont confondus et se font continuité. </re>
+<re type="nuance">NŒUD, ARTICULATION (en parlant des végétaux). Dans l'articulation, il y a naturellement une solution de continuité, une séparation des fibres qui ne sont qu'apposées ; dans le nœud, les éléments organiques sont confondus et se font continuité. </re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
@@ -36916,7 +36905,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Lorsque les noeuds ou nodosités sont aux jointures, ils ne se peuvent parfaitement curer</quote>
+<quote>Lorsque les nœuds ou nodosités sont aux jointures, ils ne se peuvent parfaitement curer</quote>
 <bibl>
 <author>PARÉ</author>
 <biblScope>XXI, 12</biblScope>
@@ -36951,7 +36940,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>.... Frizant en autant de noeux Ses cheveux</quote>
+<quote>.... Frizant en autant de nœux Ses cheveux</quote>
 <bibl>
 <author>RONS.</author>
 <biblScope>188</biblScope>
@@ -36968,29 +36957,29 @@
 </note>
 <etym>Berry, noud ; picard, nou ; wallon, nouk ; namur. nuk ; prov. not, no ; cat. nu ; esp. nudo ; port. no, nodo ; ital. nodo et nocchio ; du lat. nodus pour gnodus, comme le montrent les formes germaniques : angl. knot ; all. Knoten ; anc. haut all. chnodo. Noiel, qui se trouve dans d'anciens textes, vient de nodellus, diminutif de nodus.</etym>
 <re type="supplement">
-<form> NOEUD. Ajoutez : </form>
+<form> NŒUD. Ajoutez : </form>
 <sense n="27">
-<dictScrap>Énumération des différentes espèces de noeuds. Noeud simple. noeud résultant d'une boucle dans laquelle on a fait entrer le brin qui passe sur l'autre, en le faisant tourner sous ce même brin.</dictScrap>
+<dictScrap>Énumération des différentes espèces de nœuds. Nœud simple. nœud résultant d'une boucle dans laquelle on a fait entrer le brin qui passe sur l'autre, en le faisant tourner sous ce même brin.</dictScrap>
 <sense>
-<dictScrap>Noeud droit : faire successivement, avec les mêmes brins, deux noeuds simples l'un sur l'autre, en faisant en sorte que les brins du même côté soient tous deux en dessus, ou tous deux en dessous du brin qui les croise.</dictScrap>
+<dictScrap>Nœud droit : faire successivement, avec les mêmes brins, deux nœuds simples l'un sur l'autre, en faisant en sorte que les brins du même côté soient tous deux en dessus, ou tous deux en dessous du brin qui les croise.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud allemand : faites une boucle, faites tourner en entier autour d'un des brins celui qui le croise, en le faisant croiser sur lui-même, et passez-le dans la boucle.</dictScrap>
+<dictScrap>Nœud allemand : faites une boucle, faites tourner en entier autour d'un des brins celui qui le croise, en le faisant croiser sur lui-même, et passez-le dans la boucle.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud d'artificier : faire deux boucles l'une près de l'autre, mais en sens contraire, mettre ces boucles l'une sur l'autre, de façon que les brins soient placés intérieurement ; introduire dans les boucles l'objet que l'on veut serrer.</dictScrap>
+<dictScrap>Nœud d'artificier : faire deux boucles l'une près de l'autre, mais en sens contraire, mettre ces boucles l'une sur l'autre, de façon que les brins soient placés intérieurement ; introduire dans les boucles l'objet que l'on veut serrer.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud simple gansé : comme le noeud simple, seulement on fait une ganse avec le brin avant de le faire entrer dans la boucle.</dictScrap>
+<dictScrap>Nœud simple gansé : comme le nœud simple, seulement on fait une ganse avec le brin avant de le faire entrer dans la boucle.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud droit gansé : comme le noeud droit ; mais on forme une ganse avec le brin qui doit passer dans la première ganse.</dictScrap>
+<dictScrap>Nœud droit gansé : comme le nœud droit ; mais on forme une ganse avec le brin qui doit passer dans la première ganse.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud coulant ; il est de deux espèces : un petit noeud au bout de la ficelle, ensuite, tout près, le même noeud, c'est-à-dire les brins passés de façon à faire un O avant d'être serrés ; dans cet O se passe le second bout, on serre l'O, le noeud coulant se fait et ne se défait qu'avec efforts ; ou bien on fait une bouclette que l'on assujettit en faisant un noeud avec les deux extrémités de la bouclette, puis le second brin se passe dans la bouclette et serre l'objet, mais il se desserre si on ne l'assujettit pas par un autre noeud.</dictScrap>
+<dictScrap>Nœud coulant ; il est de deux espèces : un petit nœud au bout de la ficelle, ensuite, tout près, le même nœud, c'est-à-dire les brins passés de façon à faire un O avant d'être serrés ; dans cet O se passe le second bout, on serre l'O, le nœud coulant se fait et ne se défait qu'avec efforts ; ou bien on fait une bouclette que l'on assujettit en faisant un nœud avec les deux extrémités de la bouclette, puis le second brin se passe dans la bouclette et serre l'objet, mais il se desserre si on ne l'assujettit pas par un autre nœud.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Noeud de la chaise, noeud employé dans la marine seulement et l'un des plus solides qui existent.</dictScrap>
+<dictScrap>Nœud de la chaise, nœud employé dans la marine seulement et l'un des plus solides qui existent.</dictScrap>
 </sense>
 </sense>
 </re>
@@ -37162,9 +37151,9 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Livide, meurtri. Il a l'oeil tout noir d'un coup qu'il a reçu.</dictScrap>
+<dictScrap>Livide, meurtri. Il a l'œil tout noir d'un coup qu'il a reçu.</dictScrap>
 <sense>
-<dictScrap>Yeux pochés au beurre noir, yeux meurtris (c'est un calembour équivoquant avec oeufs pochés).</dictScrap>
+<dictScrap>Yeux pochés au beurre noir, yeux meurtris (c'est un calembour équivoquant avec œufs pochés).</dictScrap>
 </sense>
 </sense>
 <sense n="4">
@@ -37370,9 +37359,9 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Oeil noir, regard noir, oeil, regard où se peint la colère, le soupçon, etc.</dictScrap>
+<dictScrap>Oeil noir, regard noir, œil, regard où se peint la colère, le soupçon, etc.</dictScrap>
 <cit>
-<quote>Que vous me divertissez tous deux ! vous vous taisez, vous me regardez d'un oeil noir</quote>
+<quote>Que vous me divertissez tous deux ! vous vous taisez, vous me regardez d'un œil noir</quote>
 <bibl>
 <author>MARIVAUX</author>
 <biblScope>Serm. indiscr. V, 6</biblScope>
@@ -37433,7 +37422,7 @@
 <biblScope>Fabl. VII, 1</biblScope>
 </bibl>
 </cit>
-<dictScrap>Il se dit, dans le même sens, de l'âme, du coeur.</dictScrap>
+<dictScrap>Il se dit, dans le même sens, de l'âme, du cœur.</dictScrap>
 <cit>
 <quote>Le chevalier de la Valette, esprit noir mais déterminé, et d'une valeur propre à entreprendre, avait formé le dessein de nous tuer, M. de Beaufort et moi, sur les degrés du palais</quote>
 <bibl>
@@ -37449,7 +37438,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La maligne aux yeux faux, au coeur noir</quote>
+<quote>La maligne aux yeux faux, au cœur noir</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Sat. X.</biblScope>
@@ -37470,7 +37459,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il [Dieu] a horreur d'un coeur noir à qui ses bienfaits sont à charge</quote>
+<quote>Il [Dieu] a horreur d'un cœur noir à qui ses bienfaits sont à charge</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Pâques</biblScope>
@@ -37586,7 +37575,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Son coeur n'enferme point une malice noire</quote>
+<quote>Son cœur n'enferme point une malice noire</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Brit. V, 3</biblScope>
@@ -37738,7 +37727,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Si je pouvais trouver d'assez noires couleurs, Que j'aimerais à faire une fidèle image Du fond de leurs perfides coeurs !</quote>
+<quote>Si je pouvais trouver d'assez noires couleurs, Que j'aimerais à faire une fidèle image Du fond de leurs perfides cœurs !</quote>
 <bibl>
 <author>DESHOULIÈRES</author>
 <biblScope>Épître chagrine au T. R. P. de la Chaise.</biblScope>
@@ -37794,7 +37783,7 @@
 </sense>
 </sense>
 <sense n="12">
-<dictScrap>Bande noire, voy. <ref target="bande2">BANDE 2</ref>.</dictScrap>
+<dictScrap>Bande noire, voy. <ref target="bande.2">BANDE 2</ref>.</dictScrap>
 </sense>
 <sense n="13">
 <dictScrap>S. m. Le noir, la couleur noire. Un beau noir. Noir de jais.</dictScrap>
@@ -38108,7 +38097,7 @@
 <dictScrap>Il voit noir, il voit bien noir, il est sujet à prévoir des événements tristes et funestes.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Regarder noir, regarder d'un oeil irrité.</dictScrap>
+<dictScrap>Regarder noir, regarder d'un œil irrité.</dictScrap>
 <cit>
 <quote>Harlay qui regardait noir le duc de Coislin</quote>
 <bibl>
@@ -38163,19 +38152,19 @@
 </bibl>
 </cit>
 <cit>
-<quote>Delez lui Blanchefleurs, qui cuer [coeur] ot triste et noir</quote>
+<quote>Delez lui Blanchefleurs, qui cuer [cœur] ot triste et noir</quote>
 <bibl>
 <biblScope>ib. LXV</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Nus ne puet [nul ne peut] à Paris metre en oeuvre laine ne fil taint en noir de chaudiere, se il n'i a autre coleur desus</quote>
+<quote>Nus ne puet [nul ne peut] à Paris metre en œuvre laine ne fil taint en noir de chaudiere, se il n'i a autre coleur desus</quote>
 <bibl>
 <biblScope>Liv. des mét. 120</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [Dieu] fait pondre un blanc oeuf une geline noire, Chantepleure</quote>
+<quote>Il [Dieu] fait pondre un blanc œuf une geline noire, Chantepleure</quote>
 <bibl>
 <biblScope>ms de St-Germ. f° 104, dans LACURNE</biblScope>
 </bibl>
@@ -38401,7 +38390,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il m'est doux de penser à vous ; mais l'absence jette une certaine amertume qui serre le coeur ; ce sera pour ce soir la noirceur des pensées</quote>
+<quote>Il m'est doux de penser à vous ; mais l'absence jette une certaine amertume qui serre le cœur ; ce sera pour ce soir la noirceur des pensées</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>21 août 1675</biblScope>
@@ -38442,7 +38431,7 @@
 <sense n="5">
 <dictScrap>Fig. Caractère méchant et perfide d'une action, d'une personne.</dictScrap>
 <cit>
-<quote>Un retour de tendresse de coeur Qui de son action efface la noirceur</quote>
+<quote>Un retour de tendresse de cœur Qui de son action efface la noirceur</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Ec. des f. V, 4</biblScope>
@@ -38539,7 +38528,7 @@
 <quote>Le manége, l'intrigue, les piéges et ce qu'on appelle la noirceur, ne s'emploient qu'entre les rivaux d'ambition</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid. moeurs, ch. 11</biblScope>
+<biblScope>Consid. mœurs, ch. 11</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -38619,7 +38608,7 @@
 <sense n="1">
 <dictScrap>Rendu noir.</dictScrap>
 <cit>
-<quote>Là les blessés expirent, ou étouffés par la fumée, ou dévorés par des charbons ardents ; bientôt leurs squelettes, noircis et calcinés, sont d'un aspect hideux, quand l'oeil y démêle un reste de forme humaine</quote>
+<quote>Là les blessés expirent, ou étouffés par la fumée, ou dévorés par des charbons ardents ; bientôt leurs squelettes, noircis et calcinés, sont d'un aspect hideux, quand l'œil y démêle un reste de forme humaine</quote>
 <bibl>
 <author>SÉGUR</author>
 <biblScope>Hist. de Nap. IX, 2</biblScope>
@@ -38687,7 +38676,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>En serrurerie, faire chauffer des pièces d'ouvrage et les frotter avec de la corne de boeuf pour les garantir de la rouille.</dictScrap>
+<dictScrap>En serrurerie, faire chauffer des pièces d'ouvrage et les frotter avec de la corne de bœuf pour les garantir de la rouille.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -38865,7 +38854,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Après l'indigne amour dont son coeur s'est noirci ! Je cherche à m'en venger, c'est tout ce que j'espère</quote>
+<quote>Après l'indigne amour dont son cœur s'est noirci ! Je cherche à m'en venger, c'est tout ce que j'espère</quote>
 <bibl>
 <author>QUIN.</author>
 <biblScope>Mère coq. IV, 7</biblScope>
@@ -38889,7 +38878,7 @@
 </cit>
 </sense>
 </sense>
-<re type="nuance">NOIRCIR, DÉNIGRER. Quoique ces deux mots aient le même radical (niger, noir), cependant le sens en est différent : noircir, c'est imputer des actions noires ; dénigrer, c'est détracter. De là résulte que noircir ne peut se dire que des personnes ou de leurs actes, tandis que dénigrer se dit et des personnes et des choses : on dénigre un homme, mais aussi on dénigre un tableau, une oeuvre, etc. Noircir se dit surtout des actions ou des sentiments que l'on attribue à quelqu'un ; et dénigrer, du jugement qu'on en porte : je dénigre un tel, en disant que j'en ai mauvaise opinion, ce qui est mon jugement ; je le noircis, en lui attribuant des actes ou des pensées cruelles, envieuses, etc. </re>
+<re type="nuance">NOIRCIR, DÉNIGRER. Quoique ces deux mots aient le même radical (niger, noir), cependant le sens en est différent : noircir, c'est imputer des actions noires ; dénigrer, c'est détracter. De là résulte que noircir ne peut se dire que des personnes ou de leurs actes, tandis que dénigrer se dit et des personnes et des choses : on dénigre un homme, mais aussi on dénigre un tableau, une œuvre, etc. Noircir se dit surtout des actions ou des sentiments que l'on attribue à quelqu'un ; et dénigrer, du jugement qu'on en porte : je dénigre un tel, en disant que j'en ai mauvaise opinion, ce qui est mon jugement ; je le noircis, en lui attribuant des actes ou des pensées cruelles, envieuses, etc. </re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
@@ -39549,7 +39538,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Noix de galle, voy. <ref target="galle1">GALLE 1</ref>.</dictScrap>
+<dictScrap>Noix de galle, voy. <ref target="galle.1">GALLE 1</ref>.</dictScrap>
 <sense>
 <dictScrap>Noix de frêne, espèce de bolet.</dictScrap>
 </sense>
@@ -39560,14 +39549,14 @@
 <dictScrap>Noix d'un gigot, morceau constitué par les ganglions lymphatiques poplités, situés dans le creux du jarret.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Ce creux du jarret est appelé gîte à la noix, ou mieux gîte de la noix, quand il appartient au boeuf.</dictScrap>
+<dictScrap>Ce creux du jarret est appelé gîte à la noix, ou mieux gîte de la noix, quand il appartient au bœuf.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Noix de cerf, morceau levé de l'épaule.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Noix, noeud ou partie centrale d'un oeilleton d'artichaut.</dictScrap>
+<dictScrap>Noix, nœud ou partie centrale d'un œilleton d'artichaut.</dictScrap>
 </sense>
 <sense n="7">
 <dictScrap>Terme de relieur. Noix, nom donné aux bosses que, par maladresse, le batteur laisse sur les cahiers en battant le volume.</dictScrap>
@@ -39616,7 +39605,8 @@
 </sense>
 </sense>
 <sense n="14">
-<dictScrap>Noix de mer, le pétoncle velu. <re type="proverbe"><form>Vous avez rangé tout cela comme des noix sur un bâton</form>, se dit d'un plan, d'une combinaison inexécutable. </re></dictScrap>
+<dictScrap>Noix de mer, le pétoncle velu. </dictScrap>
+<re type="proverbe"><form>Vous avez rangé tout cela comme des noix sur un bâton</form>, se dit d'un plan, d'une combinaison inexécutable. </re>
 </sense>
 <note type="historique">
 <p>
@@ -40304,7 +40294,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Les Romains avaient trois noms, le prénom (praenomen), qui désignait l'individu, le nom (nomen), qui distinguait la gens (voy. <ref target="gens2">GENS 2</ref>), et le troisième nom (cognomen), qui marquait la branche, la famille, par exemple : Caïus Julius Caesar ; et quelquefois quatre, le quatrième (agnomen) étant un surnom, par exemple : Publius Cornelius Scipio Africanus.</dictScrap>
+<dictScrap>Les Romains avaient trois noms, le prénom (praenomen), qui désignait l'individu, le nom (nomen), qui distinguait la gens (voy. <ref target="gens.2">GENS 2</ref>), et le troisième nom (cognomen), qui marquait la branche, la famille, par exemple : Caïus Julius Caesar ; et quelquefois quatre, le quatrième (agnomen) étant un surnom, par exemple : Publius Cornelius Scipio Africanus.</dictScrap>
 <sense>
 <dictScrap>Dans le monde moderne, l'origine des noms de famille remonte à l'établissement de la féodalité et aux croisades.</dictScrap>
 <cit>
@@ -40354,7 +40344,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ce doux repos du coeur qui suit un saint soupir, Ces troubles que d'un mot ton nom vient assoupir, Mon Dieu, donnent à l'âme ignorante et docile Plus de foi dans un jour qu'il n'est besoin pour mille</quote>
+<quote>Ce doux repos du cœur qui suit un saint soupir, Ces troubles que d'un mot ton nom vient assoupir, Mon Dieu, donnent à l'âme ignorante et docile Plus de foi dans un jour qu'il n'est besoin pour mille</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Harm. I, 5</biblScope>
@@ -40457,7 +40447,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Pourquoi le prononcer ce nom de la patrie ? Dans son brillant exil mon coeur en a frémi</quote>
+<quote>Pourquoi le prononcer ce nom de la patrie ? Dans son brillant exil mon cœur en a frémi</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Harm. III, 2</biblScope>
@@ -40862,7 +40852,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La première [de ses bonnes oeuvres] fut d'acquitter ce qu'elle devait avec une scrupuleuse régularité, sans se permettre ces compositions si adroitement colorées qui souvent ne sont qu'une injustice couverte d'un nom spécieux</quote>
+<quote>La première [de ses bonnes œuvres] fut d'acquitter ce qu'elle devait avec une scrupuleuse régularité, sans se permettre ces compositions si adroitement colorées qui souvent ne sont qu'une injustice couverte d'un nom spécieux</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Anne de Gonz.</biblScope>
@@ -41169,18 +41159,16 @@
 <quote>La France était expirante sous le règne de Charles le Simple, roi de nom, et dont la monarchie était encore plus démembrée par les ducs, par les comtes et les barons ses sujets que par les Normands</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 25</biblScope>
+<biblScope>Mœurs, 25</biblScope>
 </bibl>
 </cit>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Je ne lui ai jamais dit pis que son nom</form>, c'est-à-dire je ne lui ai jamais rien dit d'injurieux. </re>
 <re type="proverbe"><form>On ne saurait lui dire pis que son nom</form>, se dit de quelqu'un qui est connu comme un malhonnête homme, comme un scélérat. </re>
 <re type="proverbe"><form>C'est un homme à qui il ne faut pas dire plus haut que son nom</form>, c'est-à-dire c'est un homme qui s'offense aisément. </re>
 <re type="proverbe"><form>On ne lui a pas dit plus haut que son nom</form>, c'est-à-dire on ne lui a fait ni observation ni reproche.  <cit><quote>Notez que le dit Caveirac est l'auteur de l'apologie de la Saint-Barthélemy, pour laquelle on ne lui a pas dit plus haut que son nom</quote><bibl><author>D'ALEMB.</author><biblScope>Lett. à Voltaire, 12 janv. 1763</biblScope></bibl></cit> </re>
 <re type="proverbe">Cette expression a aussi un sens tout différent : Vous ne lui direz pas plus haut que son nom, signifie que ce nom est si illustre qu'on n'en peut pas trouver de plus élevé. </re>
-</re>
 <note type="remarque">
 <p>1. Le nom propre, étant destiné à distinguer une personne d'une autre, n'est susceptible ni de l'idée ni de la marque du pluriel. Mais il y a quatre exceptions à cette règle :</p> 
 <p>1° on le considère comme le nom propre de toute une classe d'hommes et non plus seulement comme le nom propre d'un individu ; dans ce cas on dit au pluriel et avec l's : les Henris, les Bourbons, les Stuarts, les douze Césars, etc. <cit xmlns="http://www.tei-c.org/ns/1.0"><quote>La Seine a des Bourbons, le Tibre a des Césars</quote><bibl><author>BOILEAU</author><biblScope>Ép. I</biblScope></bibl></cit> </p> 
@@ -41437,11 +41425,11 @@
 <quote>Il [Abraham] est représenté au sortir de l'Égypte comme un pasteur nomade, errant entre le mont Carmel et le lac Asphaltide</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, introd.</biblScope>
+<biblScope>Mœurs, introd.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>De grandes conquêtes, de grands renversements, voilà les oeuvres des hommes nomades ; de grands établissements, des travaux consacrés à l'immortalité, voilà les oeuvres des hommes policés</quote>
+<quote>De grandes conquêtes, de grands renversements, voilà les œuvres des hommes nomades ; de grands établissements, des travaux consacrés à l'immortalité, voilà les œuvres des hommes policés</quote>
 <bibl>
 <author>LÉVESQUE</author>
 <biblScope>Instit. Mém. sc. mor. et pol. t. I, p. 246</biblScope>
@@ -41523,7 +41511,7 @@
 <sense>
 <dictScrap>Terme de vénerie. Se dit des deux muscles de l'intérieur des cuisses du cerf.</dictScrap>
 <sense>
-<dictScrap>On le dit aussi des boeufs et des vaches.</dictScrap>
+<dictScrap>On le dit aussi des bœufs et des vaches.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -42670,7 +42658,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Cavité qu'on aperçoit à la partie des fruits qui est opposée à la queue, et à laquelle les jardiniers donnent le nom d'oeil.</dictScrap>
+<dictScrap>Cavité qu'on aperçoit à la partie des fruits qui est opposée à la queue, et à laquelle les jardiniers donnent le nom d'œil.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Enfoncement au milieu de la base d'une coquille.</dictScrap>
@@ -43310,7 +43298,7 @@
 <quote>Peu d'années après, Luther épousa une religieuse nommée Catherine Bore</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 128</biblScope>
+<biblScope>Mœurs, 128</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -43503,7 +43491,7 @@
 <sense n="1">
 <dictScrap>Distinguer par un nom une personne ou une chose. La chimie a nommé de noms systématiques toutes les substances composées. La famille des malpighiacées a été nommée d'après Malpighi, célèbre naturaliste italien.</dictScrap>
 <cit>
-<quote>Puisse cette grandeur qui vous est destinée, Qu'on nomme si souvent du faux nom de bonheur, Ne point laisser de trouble au fond de votre coeur !</quote>
+<quote>Puisse cette grandeur qui vous est destinée, Qu'on nomme si souvent du faux nom de bonheur, Ne point laisser de trouble au fond de votre cœur !</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Zaïre, I, 1</biblScope>
@@ -44193,7 +44181,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Et mon coeur, qui sans cesse en sa faveur se flatte, Cherche qui le soutienne et non pas qui l'abatte</quote>
+<quote>Et mon cœur, qui sans cesse en sa faveur se flatte, Cherche qui le soutienne et non pas qui l'abatte</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Héracl. V, 2</biblScope>
@@ -44367,7 +44355,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ah ! si non plus que vous je n'ai point le coeur bas</quote>
+<quote>Ah ! si non plus que vous je n'ai point le cœur bas</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Attila, III, 4</biblScope>
@@ -44692,7 +44680,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je voudroi bien que tous rois defendissent à leurs subjects, de non mettre en lumiere oeuvre aucun, si premierement il n'avoit enduré la lime de quelque sçavant homme</quote>
+<quote>Je voudroi bien que tous rois defendissent à leurs subjects, de non mettre en lumiere œuvre aucun, si premierement il n'avoit enduré la lime de quelque sçavant homme</quote>
 <bibl>
 <author>DU BELLAY</author>
 <biblScope>I, 35, verso.</biblScope>
@@ -44942,7 +44930,7 @@
 </p>
 </note>
 </entry>
-<entry xml:id="non">
+<entry xml:id="non_bis_in_idem">
 <form><orth>NON BIS IN IDEM</orth><pron>non'-bis'-in'-i-dèm'</pron>, locution latine que l'on cite souvent comme maxime de droit, pour rappeler qu'un individu, jugé sur un fait dont il était accusé, ne peut plus être poursuivi en raison du même fait. </form>
 <sense>
 <dictScrap>ÉTYM. Lat. non, non, bis, deux fois, in, pour, idem, la même chose.</dictScrap>
@@ -45043,7 +45031,7 @@
 <sense n="1">
 <dictScrap>Disposition de celui qui ne se soucie de rien ; manque de soin.</dictScrap>
 <cit>
-<quote>Contre ceux qui, sur la confiance de la miséricorde de Dieu, demeurent dans la nonchalance sans faire de bonnes oeuvres</quote>
+<quote>Contre ceux qui, sur la confiance de la miséricorde de Dieu, demeurent dans la nonchalance sans faire de bonnes œuvres</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Pens. XXIV, 32, note 1, éd. HAVET.</biblScope>
@@ -45393,7 +45381,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Quoiqu'il fût attaché à l'Église anglicane, il n'eût pas persécuté les non-conformistes pour les y ramener ; il jugeait les hommes par les moeurs, et les vrais non-conformistes étaient pour lui les vicieux et les méchants</quote>
+<quote>Quoiqu'il fût attaché à l'Église anglicane, il n'eût pas persécuté les non-conformistes pour les y ramener ; il jugeait les hommes par les mœurs, et les vrais non-conformistes étaient pour lui les vicieux et les méchants</quote>
 <bibl>
 <author>FONTEN.</author>
 <biblScope>Newton.</biblScope>
@@ -45736,7 +45724,7 @@
 <dictScrap>Terme de jurisprudence. Déclaration d'un tribunal pour constater qu'il n'y a pas matière suffisante pour poursuivre. Ordonnance de non-lieu.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="non">
+<entry xml:id="non_liquet">
 <form>
 <orth>NON LIQUET</orth>
 <pron>non'-li-kuèt'</pron>
@@ -45848,10 +45836,10 @@
 </bibl>
 </cit>
 <cit>
-<quote>Aux bons coeurs, ajoute la nonne, Quand mes prières s'adressaient, Du riche je portais l'aumône Aux pauvres qui me bénissaient</quote>
+<quote>Aux bons cœurs, ajoute la nonne, Quand mes prières s'adressaient, Du riche je portais l'aumône Aux pauvres qui me bénissaient</quote>
 <bibl>
 <author>BÉRANG.</author>
-<biblScope>Deux soeurs de char.</biblScope>
+<biblScope>Deux sœurs de char.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -46260,7 +46248,7 @@
 <sense n="2">
 <dictScrap>S. m. Le nonpareil, oiseau ; voy. <ref target="nonpareille">NONPAREILLE</ref>.</dictScrap>
 <sense>
-<dictScrap>Nonpareil royal, variété d'oeillet.</dictScrap>
+<dictScrap>Nonpareil royal, variété d'œillet.</dictScrap>
 </sense>
 </sense>
 <note type="remarque">On écrivait dans le XVIIe siècle nompareil, par attraction du p pour l'm. </note>
@@ -46341,7 +46329,7 @@
 <dictScrap>Nonpareille des Florides, sorte d'oiseau (imberize ciris, de Lathan) (granivores), dite aussi le pape, le nonpareil, le gros-bec nonpareil, la passerine nonpareille.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>Nonpareille de Compiègne, nonpareille de Rhodes, deux variétés d'oeillets.</dictScrap>
+<dictScrap>Nonpareille de Compiègne, nonpareille de Rhodes, deux variétés d'œillets.</dictScrap>
 </sense>
 <sense n="5">
 <dictScrap>Pomme d'automne.</dictScrap>
@@ -46570,7 +46558,7 @@
 <dictScrap>Absence de toute qualité toxique. M. Galippe maintient énergiquement les conclusions de son premier travail sur la non-toxicité des sels de cuivre, le Télégraphe, 28 fév. 1877.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="non">
+<entry xml:id="non_troppo">
 <form>
 <orth>NON TROPPO</orth>
 <pron>non'-tro-ppo</pron>
@@ -46782,9 +46770,9 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Noeud qu'on enlève du drap, lorsqu'il vient d'être fabriqué.</dictScrap>
+<dictScrap>Nœud qu'on enlève du drap, lorsqu'il vient d'être fabriqué.</dictScrap>
 </sense>
-<etym>Vieux flamand, noppe, noeud ; holl. nop, qui est une variété de l'all. Knopf, noeud, bouton.</etym>
+<etym>Vieux flamand, noppe, nœud ; holl. nop, qui est une variété de l'all. Knopf, nœud, bouton.</etym>
 </entry>
 <entry xml:id="noper">
 <form>
@@ -46917,7 +46905,7 @@
 <quote>Tout le nord de leur empire [des Moscovites] consistait dans de vastes déserts et dans quelques habitations de sauvages ; ils ignoraient même que la vaste Sibérie existât</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 119</biblScope>
+<biblScope>Mœurs, 119</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -47001,7 +46989,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de géographie. Race nordaltaïque, race comprenant les populations soeurs qui sont sorties de l'Altaï, notamment les Finnois, les Samoyèdes, les Turcs et les Mongols, moins proprement dite touranienne ; race unie par la langue, mais non par les caractères anthropologiques.</dictScrap>
+<dictScrap>Terme de géographie. Race nordaltaïque, race comprenant les populations sœurs qui sont sorties de l'Altaï, notamment les Finnois, les Samoyèdes, les Turcs et les Mongols, moins proprement dite touranienne ; race unie par la langue, mais non par les caractères anthropologiques.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="nordcaper">
@@ -48280,7 +48268,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je prétends que l'hymen soit le but de l'affaire. Et ne donne mon coeur que par-devant notaire</quote>
+<quote>Je prétends que l'hymen soit le but de l'affaire. Et ne donne mon cœur que par-devant notaire</quote>
 <bibl>
 <author>REGNARD</author>
 <biblScope>le Joueur, IV, 9</biblScope>
@@ -48290,7 +48278,7 @@
 <quote>Henri VII protesta par-devant notaire que le serment par lui prêté n'était point serment de fidélité</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 68</biblScope>
+<biblScope>Mœurs, 68</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -48348,7 +48336,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mesme força son coeur, et ses yeux fit estre notaires de plusieurs et maintes entretenances, à son très grand et mortel prejudice</quote>
+<quote>Mesme força son cœur, et ses yeux fit estre notaires de plusieurs et maintes entretenances, à son très grand et mortel prejudice</quote>
 <bibl>
 <author>LOUIS XI</author>
 <biblScope>Nouv. XXVI</biblScope>
@@ -48747,7 +48735,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>La nature a deux chants, de bonheur, de tristesse, Qu'elle rend tour à tour ainsi que notre coeur ; De l'une à l'autre note elle passe sans cesse ; Homme, l'une est ta joie, et l'autre ta douleur</quote>
+<quote>La nature a deux chants, de bonheur, de tristesse, Qu'elle rend tour à tour ainsi que notre cœur ; De l'une à l'autre note elle passe sans cesse ; Homme, l'une est ta joie, et l'autre ta douleur</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Harm. II, 6</biblScope>
@@ -48755,7 +48743,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Note fausse, fausse note, voy. <ref target="faux1">FAUX 1</ref>.</dictScrap>
+<dictScrap>Note fausse, fausse note, voy. <ref target="faux.1">FAUX 1</ref>.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Note tonique, la note principale ou fondamentale d'un ton ou d'un mode.</dictScrap>
@@ -48791,7 +48779,7 @@
 <sense>
 <dictScrap>Fig. Apprendre une note, apprendre une chose que l'on ignorait.</dictScrap>
 <cit>
-<quote>À soeur Agnès.... Il fit apprendre une semblable note</quote>
+<quote>À sœur Agnès.... Il fit apprendre une semblable note</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Mazet.</biblScope>
@@ -49137,7 +49125,7 @@
 <sense>
 <dictScrap>Noter d'infamie, couvrir de honte.</dictScrap>
 <cit>
-<quote>Parmi les soeurs.... on ne recevra aucune fille dont la race soit notée d'infamie</quote>
+<quote>Parmi les sœurs.... on ne recevra aucune fille dont la race soit notée d'infamie</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Règl. filles propag. foi, I, 7</biblScope>
@@ -49383,7 +49371,7 @@
 <sense>
 <dictScrap>Terme de pêche. Mousse qui détache les noues ou les nauts de la grosse arête dans la préparation des morues.</dictScrap>
 </sense>
-<etym>Naut ou noue (voy. <ref target="noue2">NOUE 2</ref>). C'est le même que nautier, couteau à noues.</etym>
+<etym>Naut ou noue (voy. <ref target="noue.2">NOUE 2</ref>). C'est le même que nautier, couteau à noues.</etym>
 </entry>
 <entry xml:id="notificatif">
 <form>
@@ -50327,7 +50315,7 @@
 <dictScrap>Église consacrée à la sainte Vierge. Aller à Notre-Dame. Entendre la messe à Notre-Dame. L'église Notre-Dame.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Notre-Dame désigne un grand nombre de corporations religieuses. Les Soeurs de Notre-Dame. Notre-Dame de la Charité. Notre-Dame de la Miséricorde, etc.</dictScrap>
+<dictScrap>Notre-Dame désigne un grand nombre de corporations religieuses. Les Sœurs de Notre-Dame. Notre-Dame de la Charité. Notre-Dame de la Miséricorde, etc.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -50471,7 +50459,7 @@
 <dictScrap>On dit aussi noves (voy. ce mot).</dictScrap>
 </sense>
 </sense>
-<etym>Sans doute l'ancien français noue, nage (voy. <ref target="noue1">NOUE 1</ref>).</etym>
+<etym>Sans doute l'ancien français noue, nage (voy. <ref target="noue.1">NOUE 1</ref>).</etym>
 </entry>
 <entry xml:id="noué">
 <form>
@@ -50480,7 +50468,7 @@
 <gram>part. passé de nouer</gram>
 </form>
 <sense n="1">
-<dictScrap>À quoi on a fait un noeud. Une corde nouée.</dictScrap>
+<dictScrap>À quoi on a fait un nœud. Une corde nouée.</dictScrap>
 <cit>
 <quote>Ne pouvant voir son visage, il regardait ses beaux cheveux noués, ses habits flottants et sa noble démarche</quote>
 <bibl>
@@ -50492,11 +50480,11 @@
 <dictScrap>Dans la fabrication du velours, point noué, voy. <ref target="point">POINT</ref>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de blason. Se dit d'un objet qui est entouré d'un noeud d'un autre émail. Se dit aussi de la queue du lion, quand elle est terminée par une houppe.</dictScrap>
+<dictScrap>Terme de blason. Se dit d'un objet qui est entouré d'un nœud d'un autre émail. Se dit aussi de la queue du lion, quand elle est terminée par une houppe.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Fig. Uni par une sorte de noeud. Une amitié nouée entre deux jeunes gens.</dictScrap>
+<dictScrap>Fig. Uni par une sorte de nœud. Une amitié nouée entre deux jeunes gens.</dictScrap>
 <sense>
 <dictScrap>Une pièce bien nouée, mal nouée, pièce de théâtre dont l'intrigue est bien faite, mal faite.</dictScrap>
 </sense>
@@ -50575,7 +50563,7 @@
 <gram>v. a.</gram>
 </form>
 <sense n="1">
-<dictScrap>Faire un noeud à quelque chose. Nouer une ficelle.</dictScrap>
+<dictScrap>Faire un nœud à quelque chose. Nouer une ficelle.</dictScrap>
 <cit>
 <quote>La Parque sur un fuseau d'or Noua le beau fil de sa vie</quote>
 <bibl>
@@ -50594,7 +50582,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Fig. Engager, commencer comme par un noeud. Nouer une partie. Nouer amitié.</dictScrap>
+<dictScrap>Fig. Engager, commencer comme par un nœud. Nouer une partie. Nouer amitié.</dictScrap>
 <cit>
 <quote>La partie entre eux deux serait bientôt nouée</quote>
 <bibl>
@@ -50611,7 +50599,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>En parlant des pièces de théâtre, former le noeud, l'obstacle qui donne lieu à l'intrigue. Il a noué fortement l'action de sa pièce.</dictScrap>
+<dictScrap>En parlant des pièces de théâtre, former le nœud, l'obstacle qui donne lieu à l'intrigue. Il a noué fortement l'action de sa pièce.</dictScrap>
 <cit>
 <quote>S'il [Voltaire] n'avait pas, disait-il, une action dramatique à nouer et à dénouer, il avait dans le czar un très grand caractère à peindre</quote>
 <bibl>
@@ -50626,9 +50614,9 @@
 <sense n="4">
 <dictScrap>Rejoindre les fils de la chaîne ou de la trame quand ils se cassent.</dictScrap>
 <sense>
-<dictScrap>Fig. Nouer des choeurs, unir l'un à l'autre des choeurs de danse.</dictScrap>
+<dictScrap>Fig. Nouer des chœurs, unir l'un à l'autre des chœurs de danse.</dictScrap>
 <cit>
-<quote>[Et vous, étoiles] Qui, cadençant vos pas à la lyre des cieux, Nouez et dénouez vos choeurs harmonieux</quote>
+<quote>[Et vous, étoiles] Qui, cadençant vos pas à la lyre des cieux, Nouez et dénouez vos chœurs harmonieux</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Méd. II, 8</biblScope>
@@ -50637,7 +50625,7 @@
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Envelopper quelque chose en faisant un noeud. Nouer une pièce de monnaie dans le coin d'un mouchoir.</dictScrap>
+<dictScrap>Envelopper quelque chose en faisant un nœud. Nouer une pièce de monnaie dans le coin d'un mouchoir.</dictScrap>
 </sense>
 <sense n="6">
 <dictScrap>On dit qu'un arbre noue son fruit, lorsque, l'ovaire ayant été fécondé, le fruit commence à grossir.</dictScrap>
@@ -50797,7 +50785,7 @@
 </cit>
 </p>
 </note>
-<etym>Picard, neuer ; wallon, noki, noukî ; namur. nuker ; provenç. nozar, nosar, noar ; cat. nuar ; du lat. nodare, qui vient de nodus, noeud.</etym>
+<etym>Picard, neuer ; wallon, noki, noukî ; namur. nuker ; provenç. nozar, nosar, noar ; cat. nuar ; du lat. nodare, qui vient de nodus, nœud.</etym>
 </entry>
 <entry xml:id="nouet">
 <form>
@@ -50832,7 +50820,7 @@
 </cit>
 </p>
 </note>
-<etym>Diminutif de nou, noeud ; ital. nodetto.</etym>
+<etym>Diminutif de nou, nœud ; ital. nodetto.</etym>
 </entry>
 <entry xml:id="nouette">
 <form>
@@ -50881,7 +50869,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui a beaucoup de noeuds.</dictScrap>
+<dictScrap>Qui a beaucoup de nœuds.</dictScrap>
 <cit>
 <quote>Une pesante et noueuse massue</quote>
 <bibl>
@@ -50912,7 +50900,7 @@
 </cit>
 </p>
 </note>
-<etym>Wallon, noukieûs ; namur. nukieûs ; Hainaut, noeuquieux ; provenç. nodos ; port. et ital. nodoso ; du lat. nodosus, de nodus, noeud. On disait, dans l'ancienne langue, noailleux ; le Berry dit nouailleux ; mais cet adjectif vient non de noeud, mais de l'ancien substantif noial, qui est équivalent à noyau.</etym>
+<etym>Wallon, noukieûs ; namur. nukieûs ; Hainaut, nœuquieux ; provenç. nodos ; port. et ital. nodoso ; du lat. nodosus, de nodus, nœud. On disait, dans l'ancienne langue, noailleux ; le Berry dit nouailleux ; mais cet adjectif vient non de nœud, mais de l'ancien substantif noial, qui est équivalent à noyau.</etym>
 </entry>
 <entry xml:id="nougat">
 <form>
@@ -50935,7 +50923,7 @@
 <gram>s. f. pl.</gram>
 </form>
 <sense>
-<dictScrap>Espèce de pâte d'Allemagne faite avec de la farine et des oeufs, et qui, par la manière dont elle est coupée, ressemble au vermicelle ; mais le goût est fort différent ainsi que l'accommodement ; les nouilles se mangent frites, et non pas, comme le vermicelle, en potage.</dictScrap>
+<dictScrap>Espèce de pâte d'Allemagne faite avec de la farine et des œufs, et qui, par la manière dont elle est coupée, ressemble au vermicelle ; mais le goût est fort différent ainsi que l'accommodement ; les nouilles se mangent frites, et non pas, comme le vermicelle, en potage.</dictScrap>
 <sense>
 <dictScrap>Dans les livres de cuisine on écrit ordinairement noules.</dictScrap>
 </sense>
@@ -51163,7 +51151,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Son coeur toujours nourri dans la dévotion</quote>
+<quote>Son cœur toujours nourri dans la dévotion</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Sat. X.</biblScope>
@@ -51187,7 +51175,7 @@
 <quote>Des hommes nourris dans la lumière du plus grand monde</quote>
 <bibl>
 <author>FLEURY</author>
-<biblScope>Moeurs des Israél. tit. XXII, 2e part. p. 287, dans POUGENS.</biblScope>
+<biblScope>Mœurs des Israél. tit. XXII, 2e part. p. 287, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -51211,14 +51199,14 @@
 <sense>
 <dictScrap>Fig. Il se dit des personnes chez qui certains sentiments sont entretenus.</dictScrap>
 <cit>
-<quote>Un coeur toujours nourri d'amertume et de pleurs</quote>
+<quote>Un cœur toujours nourri d'amertume et de pleurs</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Phèdre, Il, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Crains des coeurs ulcérés, nourris de désespoir</quote>
+<quote>Crains des cœurs ulcérés, nourris de désespoir</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>M. de César, I, 4</biblScope>
@@ -51329,7 +51317,7 @@
 <quote>Je ne vois que trois nourrices dont il soit parlé dans l'Écriture, celle de Rébecca, celle de Niphiboset, et celle de Joas, roi de Juda</quote>
 <bibl>
 <author>FLEURY</author>
-<biblScope>Moeurs des Israél. tit. XIV, 2e part. p. 168, dans POUGENS.</biblScope>
+<biblScope>Mœurs des Israél. tit. XIV, 2e part. p. 168, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -51451,7 +51439,7 @@
 <sense n="6">
 <dictScrap>Jument qui allaite.</dictScrap>
 <sense>
-<dictScrap>Se dit des abeilles qui ont pour emploi de soigner les oeufs et les larves.</dictScrap>
+<dictScrap>Se dit des abeilles qui ont pour emploi de soigner les œufs et les larves.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -51625,7 +51613,7 @@
 <sense>
 <dictScrap>Terme de physiologie. Qui opère la nutrition, qui sert à la nutrition. Suc nourricier.</dictScrap>
 <cit>
-<quote>Des injections colorées m'ont mis à portée de suivre à l'oeil la marche du fluide nourricier dans une assez grande partie de son cours</quote>
+<quote>Des injections colorées m'ont mis à portée de suivre à l'œil la marche du fluide nourricier dans une assez grande partie de son cours</quote>
 <bibl>
 <author>BONNET</author>
 <biblScope>Rech. us. feuill. plantes, Oeuvr. t. IV p. 14, dans POUGENS.</biblScope>
@@ -51925,7 +51913,7 @@
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Élever des bestiaux, en trafiquer. Nourrir des moutons, des boeufs, des chevaux.</dictScrap>
+<dictScrap>Élever des bestiaux, en trafiquer. Nourrir des moutons, des bœufs, des chevaux.</dictScrap>
 <sense>
 <dictScrap>Nourrir des vers à soie, les élever jusqu'à ce qu'ils soient en cocons et en soie.</dictScrap>
 </sense>
@@ -52073,14 +52061,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Tu nourrissais dans ton coeur une secrète estime de toi-même</quote>
+<quote>Tu nourrissais dans ton cœur une secrète estime de toi-même</quote>
 <bibl>
 <author>BOURD.</author>
 <biblScope>Serm. 24, Dim. après la Pentecôte, Domin. t. IV, p. 429</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Cette vive et constante tendresse qu'elle nourrissait pour lui [le roi] dans son coeur</quote>
+<quote>Cette vive et constante tendresse qu'elle nourrissait pour lui [le roi] dans son cœur</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Mar.-Thér.</biblScope>
@@ -52115,7 +52103,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La haine qu'il avait nourrie dans son coeur contre Ulysse</quote>
+<quote>La haine qu'il avait nourrie dans son cœur contre Ulysse</quote>
 <bibl>
 <author>FÉN.</author>
 <biblScope>Tél. XV</biblScope>
@@ -52143,7 +52131,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je nourris dans mon coeur le mépris des richesses</quote>
+<quote>Je nourris dans mon cœur le mépris des richesses</quote>
 <bibl>
 <author>ST-LAMB.</author>
 <biblScope>Sais. II</biblScope>
@@ -52360,10 +52348,8 @@
 <sense n="18">
 <dictScrap>Terme de marine. Se nourrir, se dit de l'état du ciel qui annonce quelque tempête. Le ciel commence à se nourrir.</dictScrap>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Il n'y a point de petit métier, il n'y a si petit métier qui ne nourrisse son maître</form>, c'est-à-dire le travail, quelque peu lucratif qu'il soit, donne de quoi vivre. </re>
 <re type="proverbe">Une besace bien promenée nourrit son maître. </re>
-</re>
 <re type="nuance">NOURRIR, ALIMENTER. Nourrir, c'est proprement fournir l'aliment à l'enfant, au petit qui vient de naître. Alimenter est plus général ; il se dit de toute espèce de choses qui entretiennent la vie. Mais, quand nourrir passe à son sens plus général, il devient alors tout à fait synonyme d'alimenter ; seulement, alimenter en ce sens a toujours quelque chose de technique. </re>
 <note type="historique">
 <p>
@@ -52915,7 +52901,7 @@
 <dictScrap>Temps durant lequel une femme allaite un enfant. Quand sa nourriture sera finie.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Terme de sériciculture. La quantité de vers à nourrir. Avez-vous une forte nourriture ? Je n'en fais que deux onces, c'est-à-dire je ne fais éclore que deux onces d'oeufs de vers à soie.</dictScrap>
+<dictScrap>Terme de sériciculture. La quantité de vers à nourrir. Avez-vous une forte nourriture ? Je n'en fais que deux onces, c'est-à-dire je ne fais éclore que deux onces d'œufs de vers à soie.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>Celui qu'on a nourri, élève, enfant (vieilli en ce sens).</dictScrap>
@@ -53219,7 +53205,8 @@
 <dictScrap>Terme de marine. Se dit, parmi les matelots, des grains ou nuages orageux qui couvrent le ciel.</dictScrap>
 </sense>
 <sense n="13">
-<dictScrap>Terme d'alchimie. Nourriture de la pierre, continuation du feu. <re type="proverbe"><form>Nourriture passe nature</form>, c'est-à-dire une bonne éducation peut corriger les mauvaises inclinations naturelles. </re></dictScrap>
+<dictScrap>Terme d'alchimie. Nourriture de la pierre, continuation du feu. </dictScrap>
+<re type="proverbe"><form>Nourriture passe nature</form>, c'est-à-dire une bonne éducation peut corriger les mauvaises inclinations naturelles. </re>
 </sense>
 <note type="historique">
 <p>
@@ -53509,7 +53496,7 @@
 <sense n="12">
 <dictScrap>Familièrement. Ce que c'est que de nous ! c'est-à-dire voyez quelle est la chétive condition de l'humanité.</dictScrap>
 <cit>
-<quote>Il [un cheval] s'est jeté comme un furieux par-dessus les barres, et s'est crevé le coeur ; j'ai dit en le voyant mort, comme M. de Montbazon : voyez ce que c'est de nous</quote>
+<quote>Il [un cheval] s'est jeté comme un furieux par-dessus les barres, et s'est crevé le cœur ; j'ai dit en le voyant mort, comme M. de Montbazon : voyez ce que c'est de nous</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>460</biblScope>
@@ -53545,7 +53532,7 @@
 <sense>
 <dictScrap>Il se dit aussi pour je ou moi par une sorte d'emphase, et sans qu'il s'y attache aucune idée d'autorité.</dictScrap>
 <cit>
-<quote>De notre grandeur seule ayons des coeurs jaloux, Ne vivons que pour nous, et ne pensons qu'à nous</quote>
+<quote>De notre grandeur seule ayons des cœurs jaloux, Ne vivons que pour nous, et ne pensons qu'à nous</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Oth. II, 4</biblScope>
@@ -53784,7 +53771,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Cette offense en son coeur sera longtemps nouvelle</quote>
+<quote>Cette offense en son cœur sera longtemps nouvelle</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>ib. IV, 4</biblScope>
@@ -53805,7 +53792,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ces nouveaux objets, ces moeurs nouvelles auraient amusé Formosante, si elle avait pu être occupée d'autre chose que d'Amazan</quote>
+<quote>Ces nouveaux objets, ces mœurs nouvelles auraient amusé Formosante, si elle avait pu être occupée d'autre chose que d'Amazan</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Princ. de Babyl. 5</biblScope>
@@ -54076,7 +54063,7 @@
 <sense>
 <dictScrap>Il se dit des choses dans le même sens.</dictScrap>
 <cit>
-<quote>Ce langage nouveau que produit ordinairement le coeur nouveau</quote>
+<quote>Ce langage nouveau que produit ordinairement le cœur nouveau</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Lett. à Mlle de Roannez, 3</biblScope>
@@ -54130,7 +54117,7 @@
 <quote>Florence était alors une nouvelle Athènes, et, parmi les orateurs qui vinrent de la part des villes d'Italie haranguer Boniface VIII sur son exaltation, on compte dix-huit Florentins</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 82</biblScope>
+<biblScope>Mœurs, 82</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -54272,10 +54259,8 @@
 <dictScrap>Terme de banque et de commerce. À nouveau, sur un nouveau compte.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe">Tout ce qui est nouveau paraît beau, ou, plus brièvement, tout nouveau tout beau. </re>
 <re type="proverbe">À nouvelles affaires, nouveaux conseils. </re>
-</re>
 <note type="remarque">Nouveau mis immédiatement devant un substantif commençant par une voyelle, ou par une h muette, se change en nouvel : un nouvel hôte ; mais, quand le substantif ne suit pas tout près, on n'y change rien : un nouveau et rare moyen. </note>
 <note type="historique">
 <p>
@@ -54462,7 +54447,7 @@
 </cit>
 </p>
 </note>
-<etym>Picard, nouviau ; bourguig. nôveà ; provenç. novell, novelh, noel ; catal. novell ; espagn. et portug. novel ; ital. novello ; du lat. novellus, diminutif de novus, neuf (voy. <ref target="neuf2">NEUF 2</ref>).</etym>
+<etym>Picard, nouviau ; bourguig. nôveà ; provenç. novell, novelh, noel ; catal. novell ; espagn. et portug. novel ; ital. novello ; du lat. novellus, diminutif de novus, neuf (voy. <ref target="neuf.2">NEUF 2</ref>).</etym>
 </entry>
 <entry xml:id="nouveauté">
 <form>
@@ -54897,7 +54882,7 @@
 <sense n="1">
 <dictScrap>Le premier avis qu'on reçoit d'une chose, renseignement sur quelque chose de lointain, de caché, d'ignoré.</dictScrap>
 <cit>
-<quote>Ma soeur, que je vous die une bonne nouvelle</quote>
+<quote>Ma sœur, que je vous die une bonne nouvelle</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Hor. III, 8</biblScope>
@@ -55368,18 +55353,16 @@
 <quote>Vous avez conçu le plan d'un roman héroïque, cela est fâcheux, vos méditations sont perdues ; ceci ne formera qu'une nouvelle dans laquelle nos rôles ne seront pas fort brillants</quote>
 <bibl>
 <author>GENLIS</author>
-<biblScope>Voeux téméraires, t. I, p. 117, dans POUGENS</biblScope>
+<biblScope>Vœux téméraires, t. I, p. 117, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
 <dictScrap>Les Cent nouvelles nouvelles, titre d'un recueil de contes fort libres qu'on dit (mais cela est contesté) avoir été composés par Louis XI, lorsqu'il était encore Dauphin, et par quelques seigneurs de son intimité.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Personne n'en est revenu dire des nouvelles</form>, se dit de l'autre monde, de l'autre côté du tombeau. </re>
 <re type="proverbe">Point de nouvelles, bonnes nouvelles, quand on ne reçoit point de nouvelles d'une personne, on doit présumer qu'il ne lui est point arrivé de mal. </re>
 <re type="proverbe"><form>Il ne faut pas dire les nouvelles de l'école</form>, c'est-à-dire il ne faut pas divulguer ce qui se passe de particulier dans une société dont on est. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIe s.</label>
@@ -55642,7 +55625,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je dy donc que tout cet oeuvre est à moy, et n'en puis estre fraudé, comme attentant nouvelleté, puisque j'ay basti en mon propre fond, et que l'edifice et les materiaux m'appartiennent</quote>
+<quote>Je dy donc que tout cet œuvre est à moy, et n'en puis estre fraudé, comme attentant nouvelleté, puisque j'ay basti en mon propre fond, et que l'edifice et les materiaux m'appartiennent</quote>
 <bibl>
 <author>PARÉ</author>
 <biblScope>Au lecteur.</biblScope>
@@ -56143,7 +56126,7 @@
 <sense>
 <dictScrap>Substantivement.</dictScrap>
 <cit>
-<quote>Il [Louis XIV] croyait toujours apprendre quelque chose à ceux qui, en ces genres-là [construction, armement, etc.] savaient le plus, et qui, de sa part, recevaient en novices des leçons qu'ils savaient par coeur il y avait longtemps</quote>
+<quote>Il [Louis XIV] croyait toujours apprendre quelque chose à ceux qui, en ces genres-là [construction, armement, etc.] savaient le plus, et qui, de sa part, recevaient en novices des leçons qu'ils savaient par cœur il y avait longtemps</quote>
 <bibl>
 <author>SAINT-SIMON</author>
 <biblScope>406, 7</biblScope>
@@ -56160,7 +56143,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>....Ton coeur, novice à l'infidélité, Par le commerce humain n'est pas encor gâté</quote>
+<quote>....Ton cœur, novice à l'infidélité, Par le commerce humain n'est pas encor gâté</quote>
 <bibl>
 <author>REGNARD</author>
 <biblScope>Démocrite, I, 5</biblScope>
@@ -56208,7 +56191,7 @@
 <sense>
 <dictScrap>Par extension, en parlant des choses. Plume novice.</dictScrap>
 <cit>
-<quote>Guillaume, enfant de choeur, prête sa main novice</quote>
+<quote>Guillaume, enfant de chœur, prête sa main novice</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Lutr. I</biblScope>
@@ -56276,7 +56259,7 @@
 <sense n="1">
 <dictScrap>État des novices avant leur profession.</dictScrap>
 <cit>
-<quote>Mais nous n'avons, hélas ! que trop d'expérience, Qu'ayant traîné vingt ans l'habit de pénitence, Souvent ce lâche coeur a moins de pureté Qu'à son noviciat il n'avait apporté</quote>
+<quote>Mais nous n'avons, hélas ! que trop d'expérience, Qu'ayant traîné vingt ans l'habit de pénitence, Souvent ce lâche cœur a moins de pureté Qu'à son noviciat il n'avait apporté</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Imit. I, 11</biblScope>
@@ -56325,7 +56308,7 @@
 <dictScrap>Terme familier. Tout nouvellement, depuis très peu de temps. Cela est arrivé novissimé, tout novissimé.</dictScrap>
 </sense>
 <note type="remarque">L'Académie écrit novissimé avec un accent aigu, et optimè avec un accent grave ; il n'y a pas de raison pour que l'accent soit différent entre ces deux mots ; voy. donc la remarque à OPTIMÈ. </note>
-<etym>Lat. novissime, adverbe qui est au superlatif, et qui vient de novus, nouveau (voy. <ref target="neuf2">NEUF 2</ref>).</etym>
+<etym>Lat. novissime, adverbe qui est au superlatif, et qui vient de novus, nouveau (voy. <ref target="neuf.2">NEUF 2</ref>).</etym>
 </entry>
 <entry xml:id="noxal">
 <form>
@@ -56532,7 +56515,8 @@
 <dictScrap>Terme de gravure. Sorte de bouterolle concave.</dictScrap>
 </sense>
 <sense n="15">
-<dictScrap>Noyau d'olive, volute rustique, sorte de coquille. <re type="proverbe"><form>Il faut casser le noyau pour en avoir l'amande</form>, c'est-à-dire il faut prendre de la peine avant de retirer de l'utilité de quelque chose. </re></dictScrap>
+<dictScrap>Noyau d'olive, volute rustique, sorte de coquille. </dictScrap>
+<re type="proverbe"><form>Il faut casser le noyau pour en avoir l'amande</form>, c'est-à-dire il faut prendre de la peine avant de retirer de l'utilité de quelque chose. </re>
 </sense>
 <note type="historique">
 <p>
@@ -56580,7 +56564,7 @@
 </cit>
 </p>
 </note>
-<etym>Berry, nyau ; provenç. nogalh, nogaill ; du lat. nucalis, amande, datte, dérivé de nux, nucis, noix. Il y avait aussi, dans l'ancienne langue, un noiel, noiau tout différent, qui signifiait un noeud, et venait du latin nodellus, diminutif de nodus, noeud.</etym>
+<etym>Berry, nyau ; provenç. nogalh, nogaill ; du lat. nucalis, amande, datte, dérivé de nux, nucis, noix. Il y avait aussi, dans l'ancienne langue, un noiel, noiau tout différent, qui signifiait un nœud, et venait du latin nodellus, diminutif de nodus, nœud.</etym>
 </entry>
 <entry xml:id="noyé">
 <form>
@@ -56786,12 +56770,10 @@
 <sense>
 <dictScrap>Être noyé, se dit du pilote qui, voulant prendre hauteur, ne découvre point assez d'horizon.</dictScrap>
 </sense>
-<dictScrap>
 <re type="proverbe"><form>De cent noyés, pas un de sauvé ; de cent pendus, pas un de perdu</form>, qui veut dire que sur cent pendus il n'y en a pas un à regretter, tandis que les noyés sont une vraie perte. </re>
-</dictScrap>
 </sense>
 </entry>
-<entry xml:id="noyé-d-eau">
+<entry xml:id="noyé-d_eau">
 <form>
 <orth>NOYÉ-D'EAU</orth>
 <pron>no-yé-do ; plusieurs prononcent noi-ié-do</pron>
@@ -57264,7 +57246,7 @@
 <sense n="16">
 <dictScrap>Fig. Se plonger, être plongé dans certaines jouissances ou dans certaines souffrances.</dictScrap>
 <cit>
-<quote>Ô vous, tristes plaisirs, où leur âme se noie, Vains et derniers efforts d'une imparfaite joie, Moments pour qui le sort rend leurs voeux superflus, Délicieux moments, vous ne reviendrez plus</quote>
+<quote>Ô vous, tristes plaisirs, où leur âme se noie, Vains et derniers efforts d'une imparfaite joie, Moments pour qui le sort rend leurs vœux superflus, Délicieux moments, vous ne reviendrez plus</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Adonis.</biblScope>
@@ -57296,7 +57278,8 @@
 </sense>
 </sense>
 <sense n="17">
-<dictScrap>Se noyer, au jeu de boules, pousser sa boule plus loin que la ligne qui est marquée au delà du but. <re type="proverbe"><form>Qui veut noyer son chien l'accuse de la rage, ou dit qu'il a la gale</form>, c'est-à-dire on ne manque pas de prétexte pour perdre les gens. </re></dictScrap>
+<dictScrap>Se noyer, au jeu de boules, pousser sa boule plus loin que la ligne qui est marquée au delà du but. </dictScrap>
+<re type="proverbe"><form>Qui veut noyer son chien l'accuse de la rage, ou dit qu'il a la gale</form>, c'est-à-dire on ne manque pas de prétexte pour perdre les gens. </re>
 </sense>
 <note type="historique">
 <p>
@@ -57572,7 +57555,7 @@
 <quote>Les auteurs arabes prétendent que Tamerlan se faisait verser à boire par l'épouse de Bajazet à demi nue ; et c'est ce qui a donné lieu à la fable reçue, que les sultans turcs ne se marièrent plus depuis cet outrage fait à une de leurs femmes</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 88</biblScope>
+<biblScope>Mœurs, 88</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -57609,7 +57592,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Éveillés à minuit au coeur de l'hiver par l'ennemi dans leur ville, les Génevois trouvèrent plutôt leurs fusils que leurs souliers ; si nul d'eux n'avait su marcher nu-pieds, qui sait si Genève n'eût point été prise ?</quote>
+<quote>Éveillés à minuit au cœur de l'hiver par l'ennemi dans leur ville, les Génevois trouvèrent plutôt leurs fusils que leurs souliers ; si nul d'eux n'avait su marcher nu-pieds, qui sait si Genève n'eût point été prise ?</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Ém. II</biblScope>
@@ -57753,7 +57736,7 @@
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Terme d'astronomie ou de physique. Oeil nu, oeil qui n'est pas armé de verres grossissants. Observer à l'oeil nu.</dictScrap>
+<dictScrap>Terme d'astronomie ou de physique. Oeil nu, œil qui n'est pas armé de verres grossissants. Observer à l'œil nu.</dictScrap>
 </sense>
 <sense n="7">
 <dictScrap>Terme de chimie. Feu nu, celui dont l'action se dirige immédiatement sur une substance.</dictScrap>
@@ -58165,7 +58148,8 @@
 </note>
 <etym>Wallon, nou, nowe au féminin ; namur. nu, neuve au féminin ; provenç. nud, nut ; catal. nu ; anc. espagn. nudo ; portug. nu ; ital. nudo ; du lat. nudus ; comparez le sanscrit nagda, nu ; anglo-saxon, nacod ; angl. naked ; le latin serait pour nugdus (1er u accent bref), a affaibli en u (accent bref).</etym>
 <re type="supplement">
-<form> 1. NU. Ajoutez : </form>
+<form> 1. NU. </form>
+<dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe"><cit><quote>Cordonnier, va-nu-pieds</quote><bibl><biblScope>Journ. offic. 10 juillet 1877, p. 5132, 2e col.</biblScope></bibl></cit> (c'est un proverbe à mettre à côté de celui qui dit que les cordonniers sont les plus mal chaussés). </re>
 </re>
 </entry>
@@ -58433,7 +58417,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ah ! que je crains, mes soeurs, les funestes nuages Qui de ce prince obscurcissent les yeux ! Comme il est aveuglé du culte de ses dieux !</quote>
+<quote>Ah ! que je crains, mes sœurs, les funestes nuages Qui de ce prince obscurcissent les yeux ! Comme il est aveuglé du culte de ses dieux !</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Esth. II, 9</biblScope>
@@ -58468,7 +58452,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les pratiques extérieures.... forment une espèce de nuage sur l'âme ; on se pardonne plus facilement des fragilités et des choses qui paraissent compensées par des oeuvres saintes</quote>
+<quote>Les pratiques extérieures.... forment une espèce de nuage sur l'âme ; on se pardonne plus facilement des fragilités et des choses qui paraissent compensées par des œuvres saintes</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Culte.</biblScope>
@@ -58806,7 +58790,7 @@
 <sense n="1">
 <dictScrap>Degré d'augmentation ou de diminution que présente une même couleur ; différence ou changement des couleurs, surtout dans leur passage d'un ton à un autre.</dictScrap>
 <cit>
-<quote>L'opale et l'incarnat qui parent le matin, Les couleurs d'un beau soir où son oeil incertain Cherche, sans la trouver, la première nuance Du pourpre qui finit, de l'azur qui commence</quote>
+<quote>L'opale et l'incarnat qui parent le matin, Les couleurs d'un beau soir où son œil incertain Cherche, sans la trouver, la première nuance Du pourpre qui finit, de l'azur qui commence</quote>
 <bibl>
 <author>ST-LAMB.</author>
 <biblScope>Sais. III</biblScope>
@@ -60076,7 +60060,7 @@
 <sense>
 <dictScrap>Les Nuées, titre d'une comédie d'Aristophane, dans laquelle Socrate est tourné en ridicule.</dictScrap>
 <cit>
-<quote>On vit par le public un poëte avoué [Aristophane] S'enrichir aux dépens du mérite joué, Et Socrate par lui, dans un choeur de nuées, D'un vil amas de peuple attirer les huées</quote>
+<quote>On vit par le public un poëte avoué [Aristophane] S'enrichir aux dépens du mérite joué, Et Socrate par lui, dans un chœur de nuées, D'un vil amas de peuple attirer les huées</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Art p. III</biblScope>
@@ -60382,7 +60366,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>L'on désirerait de ceux qui ont un bon coeur, qu'ils fussent toujours pliants, faciles, complaisants, et qu'il fût moins vrai quelquefois que ce sont les méchants qui nuisent, et les bons qui font souffrir</quote>
+<quote>L'on désirerait de ceux qui ont un bon cœur, qu'ils fussent toujours pliants, faciles, complaisants, et qu'il fût moins vrai quelquefois que ce sont les méchants qui nuisent, et les bons qui font souffrir</quote>
 <bibl>
 <author>LA BRUY.</author>
 <biblScope>XI</biblScope>
@@ -60399,7 +60383,7 @@
 <quote>Il ne suffit pas de nuire, il faut surtout amuser ; sans quoi, le discours le plus méchant retombe plus sur son auteur que sur celui qui en est le sujet</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid. moeurs, ch. 8</biblScope>
+<biblScope>Consid. mœurs, ch. 8</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -60476,13 +60460,11 @@
 </bibl>
 </cit>
 </sense>
-<re type="proverbes">
 <re type="proverbe">Abondance de bien ou de biens ne nuit pas. </re>
 <re type="proverbe">Surabondance de droit ne nuit pas. </re>
 <re type="proverbe">Ce qui nuit à l'un, nuit à l'autre. </re>
 <re type="proverbe">Tel nuit qui ne peut aider. </re>
 <re type="proverbe">Trop gratter cuit, trop parler nuit. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
@@ -60925,7 +60907,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>On jouait [chez la duchesse du Maine] des comédies, ou l'on en répétait tous les jours : on songea aussi à mettre les nuits en oeuvre par des divertissements qui leur fussent appropriés ; c'est ce qu'on appela les grandes nuits</quote>
+<quote>On jouait [chez la duchesse du Maine] des comédies, ou l'on en répétait tous les jours : on songea aussi à mettre les nuits en œuvre par des divertissements qui leur fussent appropriés ; c'est ce qu'on appela les grandes nuits</quote>
 <bibl>
 <author>STAAL</author>
 <biblScope>Mém. t. I, p. 264</biblScope>
@@ -60942,7 +60924,7 @@
 <quote>On comptait encore par nuits, et de là vient qu'en Angleterre on dit encore sept nuits pour signifier une semaine, et quatorze nuits pour deux semaines</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 19</biblScope>
+<biblScope>Mœurs, 19</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -61196,7 +61178,7 @@
 <sense n="3">
 <dictScrap>Bonnet de nuit, coiffure de nuit, bonnet, linge dont on se couvre la tête pour dormir.</dictScrap>
 <cit>
-<quote>Chez certaines femmes, les moeurs de parade et les moeurs négligées sont aussi différentes que la coiffure de jour et la coiffure de nuit</quote>
+<quote>Chez certaines femmes, les mœurs de parade et les mœurs négligées sont aussi différentes que la coiffure de jour et la coiffure de nuit</quote>
 <bibl>
 <author>DUFRESNY</author>
 <biblScope>Double veuvage, I, 10</biblScope>
@@ -61397,7 +61379,7 @@
 </cit>
 </sense>
 <sense n="11">
-<dictScrap>Fig. Ténèbres de l'esprit ou du coeur.</dictScrap>
+<dictScrap>Fig. Ténèbres de l'esprit ou du cœur.</dictScrap>
 <cit>
 <quote>Mes beaux jours sont voilés d'une effroyable nuit</quote>
 <bibl>
@@ -61484,10 +61466,8 @@
 </cit>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>La nuit tous les chats sont gris</form>, c'est-à-dire il est aisé de se méprendre, de ne pas reconnaître ceux à qui l'on parle ; et aussi on ne connaît, pendant la nuit, si une personne est belle ou laide. </re>
 <re type="proverbe"><form>La nuit porte conseil</form>, c'est-à-dire il est prudent de se donner le temps de réfléchir.  <cit><quote>Il sera demain jour, et la nuit porte avis</quote><bibl><author>CORN.</author><biblScope>Ment. III, 8</biblScope></bibl></cit> </re>
-</re>
 <note type="historique">
 <p>
 <label>XIe s.</label>
@@ -62199,7 +62179,7 @@
 <p>
 <label>XVe s.</label>
 <cit>
-<quote>Les Florentins vouloient, tout avant oeuvre, que le mareschal consentist, jurast et agreast cet accord, ou autrement marché nul</quote>
+<quote>Les Florentins vouloient, tout avant œuvre, que le mareschal consentist, jurast et agreast cet accord, ou autrement marché nul</quote>
 <bibl>
 <biblScope>Boucic. III, 9</biblScope>
 </bibl>
@@ -62702,7 +62682,7 @@
 <quote>800 livres, ce qui revenait à près de 146 000 livres numéraires de nos jours</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 58</biblScope>
+<biblScope>Mœurs, 58</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -64233,7 +64213,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Les nymphes des fourmis sont ce qu'on appelle vulgairement oeufs de fourmis.</dictScrap>
+<dictScrap>Les nymphes des fourmis sont ce qu'on appelle vulgairement œufs de fourmis.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Genre d'insectes voisins des hémérobes.</dictScrap>
@@ -64245,7 +64225,7 @@
 <quote>Les Arabes circoncirent leurs filles, en coupant une très légère partie des nymphes</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, circoncision.</biblScope>
+<biblScope>Mœurs, circoncision.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -64374,7 +64354,7 @@
 </sense>
 <etym>Terme dérivé d'un verbe grec qui signifie avoir envie de dormir.</etym>
 </entry>
-<entry xml:id="n-y">
+<entry xml:id="n_y_touche">
 <form>
 <orth>N'Y TOUCHE</orth>
 </form>

@@ -11,10 +11,11 @@
 <publisher>http://javacrim.sourceforge.net/</publisher>
 <availability status="restricted">
 <p> Licence Creative Commons : <ref target="http://creativecommons.org/licenses/by-sa/2.0/fr/">Paternité – Partage des Conditions Initiales à l'Identique – 2.0 France</ref></p>
-<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.               </p>
+<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.</p>
 </availability>
 </publicationStmt>
 <sourceDesc>
+<bibl><ref target="http://francois.gannaz.free.fr/Littre/">XMLittré v1.3</ref></bibl>
 <bibl>Littré, Dictionnaire de la Langue Française</bibl>
 </sourceDesc>
 </fileDesc>
@@ -131,7 +132,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Jà [elle] avoit en son cuer [coeur] le conseil [de] l'aversier [du diable]</quote>
+<quote>Jà [elle] avoit en son cuer [cœur] le conseil [de] l'aversier [du diable]</quote>
 <bibl>
 <biblScope>Berte, XI</biblScope>
 </bibl>
@@ -381,7 +382,7 @@
 <sense n="2">
 <dictScrap>V. a. J'ai ouï jaboter quelque chose de cela.</dictScrap>
 </sense>
-<re type="nuance">JABOTER, JASER, CAQUETER. Jaboter, c'est parler ensemble d'une voix peu élevée ; jaser, c'est parler ensemble sans vouloir ni baisser ni élever la voix ; caqueter, c'est parler ensemble, mais avec du bruit, avec de l'éclat. En effet, étymologiquement, jaboter, c'est parler, pour ainsi dire, dans son jabot, de près ; jaser, c'est, il semble, faire le jars, le mâle de l'oie ; enfin caqueter, c'est crier comme la poule qui vient de pondre son oeuf et qui le fait savoir à grand bruit. </re>
+<re type="nuance">JABOTER, JASER, CAQUETER. Jaboter, c'est parler ensemble d'une voix peu élevée ; jaser, c'est parler ensemble sans vouloir ni baisser ni élever la voix ; caqueter, c'est parler ensemble, mais avec du bruit, avec de l'éclat. En effet, étymologiquement, jaboter, c'est parler, pour ainsi dire, dans son jabot, de près ; jaser, c'est, il semble, faire le jars, le mâle de l'oie ; enfin caqueter, c'est crier comme la poule qui vient de pondre son œuf et qui le fait savoir à grand bruit. </re>
 <etym>Jabot ; bourguig. jaibotai.</etym>
 </entry>
 <entry xml:id="jaboteur">
@@ -395,7 +396,7 @@
 </sense>
 <etym>Jaboter.</etym>
 </entry>
-<entry xml:id="jabotière1">
+<entry xml:id="jabotière.1">
 <form>
 <orth>JABOTIÈRE</orth>
 <pron>ja-bo-tiè-r'</pron>
@@ -406,7 +407,7 @@
 </sense>
 <etym>Jabot.</etym>
 </entry>
-<entry xml:id="jabotière2">
+<entry xml:id="jabotière.2">
 <form>
 <orth>JABOTIÈRE</orth>
 <pron>ja-bo-tiè-r'</pron>
@@ -618,7 +619,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>La premiere oeuvre que leur baillerons (appolée en France esgerer et jascherer ; en Normandie froisser la jaschere, et en Languedoc mouvoir) sera....</quote>
+<quote>La premiere œuvre que leur baillerons (appolée en France esgerer et jascherer ; en Normandie froisser la jaschere, et en Languedoc mouvoir) sera....</quote>
 <bibl>
 <author>O. DE SERRES</author>
 <biblScope>90</biblScope>
@@ -628,7 +629,7 @@
 </note>
 <etym>Jachère.</etym>
 </entry>
-<entry xml:id="jacinthe1">
+<entry xml:id="jacinthe.1">
 <form>
 <orth>JACINTHE</orth>
 <pron>ja-sin-t'</pron>
@@ -654,7 +655,7 @@
 </sense>
 <etym>Provenç. jacint ; espagn. jacinto ; ital. giacinto ; du lat. hyacinthus, en grec, nom de la fleur et d'un personnage mythologique qu'Apollon tua par mégarde.</etym>
 </entry>
-<entry xml:id="jacinthe2">
+<entry xml:id="jacinthe.2">
 <form>
 <orth>JACINTHE</orth>
 <pron>ja-sin-t'</pron>
@@ -771,7 +772,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Terme de cuisine. Soupe à la jacobine, espèce de potage, fait de bouillon d'amande, de hachis de perdrix, d'oeufs et de fromage.</dictScrap>
+<dictScrap>Terme de cuisine. Soupe à la jacobine, espèce de potage, fait de bouillon d'amande, de hachis de perdrix, d'œufs et de fromage.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -930,7 +931,7 @@
 <p>
 <label>XIIIe s.</label>
 <cit>
-<quote>Mais amors tout empeeschoit Que rien à oeuvre n'en meïsse, Jà soit ce que bien entendisse Mot à mot toute la matire</quote>
+<quote>Mais amors tout empeeschoit Que rien à œuvre n'en meïsse, Jà soit ce que bien entendisse Mot à mot toute la matire</quote>
 <bibl>
 <biblScope>la Rose, 4648</biblScope>
 </bibl>
@@ -991,7 +992,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="jaque1">JAQUE 1</ref>.</dictScrap>
+<dictScrap>Voy. <ref target="jaque.1">JAQUE 1</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="jacquemart">
@@ -1147,13 +1148,13 @@
 </p>
 </note>
 </entry>
-<entry xml:id="jacquet1">
+<entry xml:id="jacquet.1">
 <form><orth>JACQUET</orth><pron>ja-kè</pron>, nom propre employé dans cette locution populaire : Il s'est levé dès le patron Jacquet, c'est-à-dire il s'est levé de très bonne heure. </form>
 <sense>
 <dictScrap>ÉTYM. En Normandie, jacquet, qui d'ailleurs est le diminutif de Jacques, est le nom de l'écureuil ; et à Valognes on dit ; se lever dès le paître au jacquet ; ce qui signifierait se lever dès le moment où l'écureuil va chercher sa nourriture. Il est fort possible que patron soit une corruption de paître au ; comme on dit aussi dès le patron minet (voy. <ref target="patron">PATRON</ref>).</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jacquet2">
+<entry xml:id="jacquet.2">
 <form>
 <orth>JACQUET</orth>
 <pron>ja-kè</pron>
@@ -1352,7 +1353,7 @@
 <dictScrap>Terme d'hydraulique. Fontaine jaculatoire, fontaine qui lance un jet d'eau à une grande hauteur et par la force d'une pression.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Fig. Terme de dévotion. Oraison jaculatoire, prière courte qu'on adresse au ciel avec un vif mouvement de coeur.</dictScrap>
+<dictScrap>Fig. Terme de dévotion. Oraison jaculatoire, prière courte qu'on adresse au ciel avec un vif mouvement de cœur.</dictScrap>
 <cit>
 <quote>Ce qu'on appelle, selon le langage ordinaire, prières jaculatoires et dévotes élévations de l'âme à Dieu, ce sont certaines paroles vives et affectueuses par où l'âme s'élance vers Dieu</quote>
 <bibl>
@@ -1503,7 +1504,7 @@
 <sense>
 <dictScrap>Le temps de jadis, ou, simplement, le temps jadis, le temps passé. Les bonnes gens du temps jadis.</dictScrap>
 <cit>
-<quote>La génisse, la chèvre et leur soeur la brebis, Avec un fier lion, seigneur du voisinage, Firent société, dit-on, au temps jadis, Et mirent en commun le gain et le dommage</quote>
+<quote>La génisse, la chèvre et leur sœur la brebis, Avec un fier lion, seigneur du voisinage, Firent société, dit-on, au temps jadis, Et mirent en commun le gain et le dommage</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Fabl. I, 6</biblScope>
@@ -2118,7 +2119,7 @@
 <quote>On ne jalouse que ses supérieurs</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid. sur les moeurs, ch. I</biblScope>
+<biblScope>Consid. sur les mœurs, ch. I</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -2420,7 +2421,7 @@
 <sense>
 <dictScrap>Par extension.</dictScrap>
 <cit>
-<quote>L'âme, se souvenant des tristes jalousies du monde, s'abandonne sans réserve aux douces jalousies d'un Dieu bienfaisant qui ne veut avoir les coeurs que pour les remplir des douceurs célestes</quote>
+<quote>L'âme, se souvenant des tristes jalousies du monde, s'abandonne sans réserve aux douces jalousies d'un Dieu bienfaisant qui ne veut avoir les cœurs que pour les remplir des douceurs célestes</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>la Vallière.</biblScope>
@@ -2512,7 +2513,7 @@
 <quote>Un amant ne s'expliquait pas autrement sous les fenêtres de sa maîtresse, qui ouvrait en ce moment-là ces petites grilles de bois nommées jalousies, tenant lieu de vitres, pour lui répondre dans la même langue</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 177</biblScope>
+<biblScope>Mœurs, 177</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2539,7 +2540,7 @@
 <sense n="7">
 <dictScrap>Fleur de jalousie, ou, simplement, jalousie, fleur que l'on cultive dans les jardins, dite aussi amarante tricolore.</dictScrap>
 <sense>
-<dictScrap>Jalousie désigne aussi l'oeillet barbu, dit encore bouquet parfait, et oeillet de poëte.</dictScrap>
+<dictScrap>Jalousie désigne aussi l'œillet barbu, dit encore bouquet parfait, et œillet de poëte.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Excellente poire d'automne.</dictScrap>
@@ -2676,7 +2677,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Soit que son coeur, jaloux d'une austère fierté, Enviât à nos yeux sa naissante beauté....</quote>
+<quote>Soit que son cœur, jaloux d'une austère fierté, Enviât à nos yeux sa naissante beauté....</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Brit. II, 2</biblScope>
@@ -2721,7 +2722,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Qui a à coeur, qui est très désireux de. Je suis jaloux d'acquérir votre estime.</dictScrap>
+<dictScrap>Qui a à cœur, qui est très désireux de. Je suis jaloux d'acquérir votre estime.</dictScrap>
 <cit>
 <quote>Du droit de commander je ne suis point jaloux</quote>
 <bibl>
@@ -2923,7 +2924,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je ne viens point ici, par de jalouses larmes, Vous envier un coeur qui se rend à vos charmes</quote>
+<quote>Je ne viens point ici, par de jalouses larmes, Vous envier un cœur qui se rend à vos charmes</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Andr. III, 4</biblScope>
@@ -3028,7 +3029,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>C'est du coeur qu'il [Dieu] est jaloux, et, pour ne le point irriter, on ne doit non plus partager son culte que son amour</quote>
+<quote>C'est du cœur qu'il [Dieu] est jaloux, et, pour ne le point irriter, on ne doit non plus partager son culte que son amour</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>2e instr. past. § 130</biblScope>
@@ -3092,11 +3093,9 @@
 <dictScrap>Il se dit également des berlines et autres voitures semblables, quand elles sont sujettes à pencher d'un côté ou de l'autre.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Il ne dort non plus qu'un jaloux</form>, c'est-à-dire il ne saurait dormir. </re>
 <re type="proverbe"><form>Il en est jaloux comme un gueux de sa besace</form>. </re>
 <re type="proverbe"><form>Sans les jaloux on vivrait</form>, c'est-à-dire que, quelque chose que l'on fasse, on trouve toujours des compétiteurs et des antagonistes. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIIe s.</label>
@@ -3165,7 +3164,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les jaloux desespoirs, le mespris, la rigueur N'effaceront jamais vos beautés de mon coeur</quote>
+<quote>Les jaloux desespoirs, le mespris, la rigueur N'effaceront jamais vos beautés de mon cœur</quote>
 <bibl>
 <author>DESPORTES</author>
 <biblScope>Élégies, II, 5, Pyromance.</biblScope>
@@ -3257,7 +3256,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>T'ai-je jamais caché mon coeur et mes désirs ?</quote>
+<quote>T'ai-je jamais caché mon cœur et mes désirs ?</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Andr. I, 1</biblScope>
@@ -3271,7 +3270,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ah ! quel coeur sait jamais s'il est juste ou coupable ?</quote>
+<quote>Ah ! quel cœur sait jamais s'il est juste ou coupable ?</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Fanat. IV, 4</biblScope>
@@ -3309,7 +3308,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Grande reine, je satisfais à vos plus tendres désirs quand je célèbre ce monarque [Charles 1er] ; et ce coeur qui n'a jamais vécu que pour lui, se réveille, tout poudre qu'il est....</quote>
+<quote>Grande reine, je satisfais à vos plus tendres désirs quand je célèbre ce monarque [Charles 1er] ; et ce cœur qui n'a jamais vécu que pour lui, se réveille, tout poudre qu'il est....</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Reine d'Anglet.</biblScope>
@@ -3330,7 +3329,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Jamais la société n'a été plus aimable et plus remplie de sentiments d'honneur, jamais les belles lettres n'ont plus influé sur les moeurs</quote>
+<quote>Jamais la société n'a été plus aimable et plus remplie de sentiments d'honneur, jamais les belles lettres n'ont plus influé sur les mœurs</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Facéties, Au révérend père Jean de Beauvais, note b</biblScope>
@@ -3368,7 +3367,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Croyez donc votre coeur et jamais votre esprit</quote>
+<quote>Croyez donc votre cœur et jamais votre esprit</quote>
 <bibl>
 <author>DESTOUCHES</author>
 <biblScope>Phil. mar. II, 2</biblScope>
@@ -3422,7 +3421,7 @@
 <sense n="4">
 <dictScrap>À jamais, dans tout le temps à venir. La mort les a réunis à jamais.</dictScrap>
 <cit>
-<quote>Depuis trois mois je n'ai pas un moment à moi ; mon coeur sera à jamais à vous</quote>
+<quote>Depuis trois mois je n'ai pas un moment à moi ; mon cœur sera à jamais à vous</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. d'Argental, juin 1753</biblScope>
@@ -3484,7 +3483,8 @@
 </cit>
 </sense>
 <sense n="7">
-<dictScrap>Jamais plus avec la négation, de la vie. Jamais plus je ne me rembarquerai. À condition que je n'entende jamais plus parler de lui. <re type="proverbe"><form>La semaine des trois jeudis, trois jours après jamais</form>, se dit pour signifier que quelque chose ne se fera jamais. On dit aussi : Je ferai cela en mil huit cent jamais. </re></dictScrap>
+<dictScrap>Jamais plus avec la négation, de la vie. Jamais plus je ne me rembarquerai. À condition que je n'entende jamais plus parler de lui.</dictScrap> 
+<re type="proverbe"><form>La semaine des trois jeudis, trois jours après jamais</form>, se dit pour signifier que quelque chose ne se fera jamais. On dit aussi : Je ferai cela en mil huit cent jamais. </re>
 </sense>
 <note type="remarque">
 <p>1. Jamais peut occuper différentes places dans la phrase : Jamais je ne le verrai, je ne le verrai jamais ; jamais je ne l'ai vu, je ne l'ai jamais vu. </p>
@@ -3557,14 +3557,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Car j'ai le coeur aussi bon que jamais</quote>
+<quote>Car j'ai le cœur aussi bon que jamais</quote>
 <bibl>
 <author>J. MAROT</author>
 <biblScope>V, 233</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mon coeur avez, et le vostre retien à tout jamais</quote>
+<quote>Mon cœur avez, et le vostre retien à tout jamais</quote>
 <bibl>
 <author>J. MAROT</author>
 <biblScope>V, 248</biblScope>
@@ -3964,7 +3964,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Membres de certains animaux qui, comme les jambes de l'homme, soutiennent le corps. Les jambes d'un chien, d'un boeuf, d'un cheval.</dictScrap>
+<dictScrap>Membres de certains animaux qui, comme les jambes de l'homme, soutiennent le corps. Les jambes d'un chien, d'un bœuf, d'un cheval.</dictScrap>
 <cit>
 <quote>Un cerf se mirant autrefois Louait la beauté de son bois, Et ne pouvait qu'avecque peine Souffrir ses jambes de fuseaux</quote>
 <bibl>
@@ -4051,7 +4051,7 @@
 <sense n="12">
 <dictScrap>Terme de marine. Jambe de hune, dit aussi gambe de hune, cordage accroché par sa tête à la queue de fer d'un cap de mouton placé sur le bord d'une hune et fixé par son extrémité inférieure à un des haubans du bas mât, JAL., Il avait donné chasse à trois autres auxquels il aurait parlé, sans que son mât de hune d'avant rompit en pièces, le fer des jambes de hune ne valant rien et ayant aussi rompu, DUQUESNE, à Seignelay, 5 juill. 1681, dans JAL.</dictScrap>
 <sense>
-<dictScrap>Sorte de noeud qu'on fait sur un cordage pour le raccourcir.</dictScrap>
+<dictScrap>Sorte de nœud qu'on fait sur un cordage pour le raccourcir.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Jambe de chien, nom que l'on donnait autrefois à des montants verticaux placés sous la poulaine des bâtiments.</dictScrap>
@@ -4063,11 +4063,9 @@
 <dictScrap>Jambe de filet, aile qu'on ajoute sur le côté des filets à manche.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Cela ne lui rend pas la jambe bien faite, mieux faite</form>, ou, par ironie, <form>cela lui fait une belle jambe</form>, cela ne lui apporte aucun avantage, est sans utilité pour lui.  <cit><quote>Oui, ma foi, cela vous rendrait la jambe bien mieux faite</quote><bibl><author>MOL.</author><biblScope>Bourg. gent. III, 3</biblScope></bibl></cit> <cit><quote>En auriez-vous eu la jambe mieux faite ?</quote><bibl><author>HAMILT.</author><biblScope>Gramm. 11</biblScope></bibl></cit> </re>
 <re type="proverbe"><form>Au sens contraire : Cela rend-il la jambe moins belle</form>, c'est-à-dire quel tort cela fait-il ? <cit><quote>Quel mal cela fait-il ? la jambe en devient-elle Plus tortue après tout, et la taille moins belle ?</quote><bibl><author>MOL.</author><biblScope>Sgan. 17</biblScope></bibl></cit> </re>
 <re type="proverbe"><form>Le lit est l'écharpe de la jambe</form>, c'est-à-dire le lit est pour la jambe malade ou blessée ce que l'écharpe est pour le bras cassé ; il ne faut point marcher tant qu'on a mal à la jambe. </re>
-</re>
 <note type="remarque">Prendre ses jambes à son cou, locution singulière. On a dit au XVe siècle : ployer ses jambes et s'en aller. Ne serait-ce pas là l'origine de la locution ? l'homme qui s'en va, qui s'enfuit, ploie ses jambes, comme le porte-balle qui s'en va ploie ses marchandises, et les met à son cou (le porte-balle se nommait souvent un porte à cou). </note>
 <note type="historique">
 <p>
@@ -4217,7 +4215,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Qui n'a coeur ait jambes</quote>
+<quote>Qui n'a cœur ait jambes</quote>
 <bibl>
 <author>COTGRAVE</author>
 <biblScope/>
@@ -4327,7 +4325,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>S. m. Chacune des deux parties de l'étrier de cuir que le couvreur et le peintre à la corde s'attachent aux jambes pour monter le long de la corde à noeuds.</dictScrap>
+<dictScrap>S. m. Chacune des deux parties de l'étrier de cuir que le couvreur et le peintre à la corde s'attachent aux jambes pour monter le long de la corde à nœuds.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Morceau de bois courbe qui sert à maintenir écartées les jambes de derrière d'une bête abattue, tandis que le boucher l'habille.</dictScrap>
@@ -4496,7 +4494,7 @@
 <dictScrap>Terme de minéralogie. Sulfure double d'antimoine et de plomb.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jan1">
+<entry xml:id="jan.1">
 <form>
 <orth>JAN</orth>
 <pron>jan</pron>
@@ -4522,7 +4520,7 @@
 </note>
 <etym>L'origine est fort incertaine ; mais les livres de trictrac s'accordent à tirer le mot de Janus, qui avait deux ou plusieurs faces. On prétend que ce nom fut employé pour exprimer la diversité des coups qui se présentaient.</etym>
 </entry>
-<entry xml:id="jan2">
+<entry xml:id="jan.2">
 <form>
 <orth>JAN</orth>
 <pron>jan</pron>
@@ -4975,11 +4973,9 @@
 <dictScrap>Édit de janvier, celui par lequel Catherine de Médicis accorda aux calvinistes l'exercice de leur religion hors de l'enceinte des villes (en 1562).</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>C'est un soleil de janvier</form>, se dit d'une personne sans caractère et sans crédit. </re>
 <re type="proverbe"><form>Janvier a trois bonnets</form>, c'est-à-dire il y fait froid, et il faut se bien couvrir la tête.  <cit><quote>Nos apothicaires me font pitié, quoique je ne les aime point et qu'ils me haïssent ; ils sont si morfondus que janvier à deux bonnets ne l'est pas davantage</quote><bibl><author>GUI PATIN</author><biblScope>Lettres, t. II, p. 507</biblScope></bibl></cit> </re>
 <re type="proverbe">Janvier d'eau chiche fait le paysan riche. </re>
-</re>
 <note type="historique">
 <p>
 <label>XVIe s.</label>
@@ -5159,7 +5155,7 @@
 <sense>
 <dictScrap>Qui jappe ; qui consiste en jappements.</dictScrap>
 <cit>
-<quote>Souffre qu'un coeur de tes charmes épris [c'est un chien qui parle] Te conte quelquefois de jappantes fleurettes</quote>
+<quote>Souffre qu'un cœur de tes charmes épris [c'est un chien qui parle] Te conte quelquefois de jappantes fleurettes</quote>
 <bibl>
 <author>DESHOUL.</author>
 <biblScope>t. II, p. 175</biblScope>
@@ -5312,7 +5308,7 @@
 </p>
 </note>
 </entry>
-<entry xml:id="jaque1">
+<entry xml:id="jaque.1">
 <form>
 <orth>JAQUE</orth>
 <pron>ja-k'</pron>
@@ -5365,7 +5361,7 @@
 </note>
 <etym>Ital. giacco ; allem. Jacke ; suéd. jacka. On ignore l'origine de ce mot, et s'il vient de l'allemand dans les langues romanes, ou des langues romanes dans l'allemand. Il paraît avoir été fait dans le XIVe siècle ; et du Cange demande s'il ne provient pas des jacques, les paysans révoltés.</etym>
 </entry>
-<entry xml:id="jaque2">
+<entry xml:id="jaque.2">
 <form>
 <orth>JAQUE</orth>
 <pron>ja-k'</pron>
@@ -5453,7 +5449,7 @@
 <dictScrap>Bécassine sourde ou petite bécassine.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jaquette1">
+<entry xml:id="jaquette.1">
 <form>
 <orth>JAQUETTE</orth>
 <pron>ja-kè-t'</pron>
@@ -5522,7 +5518,7 @@
 </note>
 <etym>Diminutif de jaque ; bourguig. jaicôtté.</etym>
 </entry>
-<entry xml:id="jaquette2">
+<entry xml:id="jaquette.2">
 <form>
 <orth>JAQUETTE</orth>
 <pron>ja-kè-t'</pron>
@@ -5561,7 +5557,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="jarre3">JARRE 3</ref>.</dictScrap>
+<dictScrap>Voy. <ref target="jarre.3">JARRE 3</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="jarat">
@@ -5714,7 +5710,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Quelques savants curieux ont cru que le jardin des Hespérides, gardé par un dragon, était une imitation du jardin d'Éden, gardé par un boeuf ailé, ou par un chérubin</quote>
+<quote>Quelques savants curieux ont cru que le jardin des Hespérides, gardé par un dragon, était une imitation du jardin d'Éden, gardé par un bœuf ailé, ou par un chérubin</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Dict. phil. Paradis.</biblScope>
@@ -6131,7 +6127,7 @@
 </sense>
 <etym>Voy. <ref target="jardinage">JARDINAGE</ref>.</etym>
 </entry>
-<entry xml:id="jardinier1">
+<entry xml:id="jardinier.1">
 <form>
 <orth>JARDINIER, IÈRE</orth>
 <pron>jar-di-nié, niè-r'</pron>
@@ -6147,10 +6143,10 @@
 </bibl>
 </cit>
 <cit>
-<quote>En voyant ces oeillets qu'un illustre guerrier Arrosa de sa main qui gagna des batailles, Souviens-toi qu'Apollon bâtissait des murailles, Et ne t'étonne pas que Mars soit jardinier</quote>
+<quote>En voyant ces œillets qu'un illustre guerrier Arrosa de sa main qui gagna des batailles, Souviens-toi qu'Apollon bâtissait des murailles, Et ne t'étonne pas que Mars soit jardinier</quote>
 <bibl>
 <author>Mlle DE SCUDÉRY</author>
-<biblScope>Sur des oeillets cultivés par le prince de Condé, dans RICHELET</biblScope>
+<biblScope>Sur des œillets cultivés par le prince de Condé, dans RICHELET</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -6256,7 +6252,7 @@
 </cit>
 </sense>
 </entry>
-<entry xml:id="jardinier2">
+<entry xml:id="jardinier.2">
 <form>
 <orth>JARDINIER IÈRE</orth>
 <pron>jar-di-nié, niè-r'</pron>
@@ -6317,7 +6313,7 @@
 <dictScrap>Terme rural. Couvrir la femelle, en parlant du jars.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jargon1">
+<entry xml:id="jargon.1">
 <form>
 <orth>JARGON</orth>
 <pron>jar-gon</pron>
@@ -6343,7 +6339,7 @@
 <quote>Vingt jargons barbares succèdent à cette belle langue latine qu'on parlait du fond de l'Illyrie au mont Atlas</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 12</biblScope>
+<biblScope>Mœurs, 12</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -6544,7 +6540,7 @@
 </note>
 <etym>Picard, gergon ; espagn. xerga ; anc espagn. girgonz, et aujourd'hui gerigonza ; provençal moderne, gergonz. Il se présente plusieurs opinions sur l'étymologie, sans rien de décisif : 1° le radical roman garg, qui est dans garg-ouiller, dans garg-ata, etc. ; 2° le scandinave jarg, bavardage ; 3° le jars, vu qu'on dit : le jars jargonne, pour exprimer le cri de cet oiseau. Il est difficile de choisir entre ces opinions ; cependant la troisième est la plus vraisemblable. Diez pense que le mot est d'origine française, et que de là il a passé dans les autres langues romanes. En tout cas le mot est ancien ; on en a un exemple dès le XIIIe siècle.</etym>
 </entry>
-<entry xml:id="jargon2">
+<entry xml:id="jargon.2">
 <form>
 <orth>JARGON</orth>
 <pron>jar-gon</pron>
@@ -6621,7 +6617,7 @@
 <sense n="3">
 <dictScrap>Activement. S'exprimer en un jargon ou langage particulier à certaines gens.</dictScrap>
 <cit>
-<quote>Il plaisante fort mal.... il jargonne le sentiment, le coeur</quote>
+<quote>Il plaisante fort mal.... il jargonne le sentiment, le cœur</quote>
 <bibl>
 <author>LANOUE</author>
 <biblScope>Coquette corr. III, 5</biblScope>
@@ -6832,7 +6828,7 @@
 </note>
 <etym>Origine inconnue.</etym>
 </entry>
-<entry xml:id="jarre1">
+<entry xml:id="jarre.1">
 <form>
 <orth>JARRE</orth>
 <pron>jâ-r'</pron>
@@ -6852,7 +6848,7 @@
 </sense>
 <etym>Provenç. jarra, guarra ; catal. gerra ; espagn. et portug. jarra ; ital. giara, giarro ; de l'arabe djara, vase d'argile à large bouche.</etym>
 </entry>
-<entry xml:id="jarre2">
+<entry xml:id="jarre.2">
 <form>
 <orth>JARRE</orth>
 <pron>jâ-r'</pron>
@@ -6882,7 +6878,7 @@
 <form> 2. JARRE. Ajoutez : - ÉTYM. Dans Cotgrave, il est dit que le jarre est une herbe qui enveloppe les autres plantes et se roule autour ; c'est la cuscute. Ainsi le jarre, laine ou poil, a été dit d'après le jarre plante. Sans savoir d'où vient le jarre plante, on recule du moins utilement d'un degré l'étymologie. </form>
 </re>
 </entry>
-<entry xml:id="jarre3">
+<entry xml:id="jarre.3">
 <form>
 <orth>JARRE</orth>
 <pron>ja-r'</pron>
@@ -7128,7 +7124,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Quand vos soeurs se partageront Ces fleurs qu'on dit d'heureux augure, Les garçons vous déroberont Une plus secrète parure ; La jarretière, pensez-y !</quote>
+<quote>Quand vos sœurs se partageront Ces fleurs qu'on dit d'heureux augure, Les garçons vous déroberont Une plus secrète parure ; La jarretière, pensez-y !</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Chapeau de la mariée.</biblScope>
@@ -7228,7 +7224,7 @@
 <re type="supplement">
 <form> JARRETIÈRE. Ajoutez : </form>
 <sense n="6">
-<dictScrap>Petit cordage employé dans les manoeuvres de force.</dictScrap>
+<dictScrap>Petit cordage employé dans les manœuvres de force.</dictScrap>
 </sense>
 </re>
 </entry>
@@ -7499,7 +7495,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ce qu'ils ont accoutumé de jaser, de recompenser Dieu par oeuvres de supererogation, n'est gueres plus ferme</quote>
+<quote>Ce qu'ils ont accoutumé de jaser, de recompenser Dieu par œuvres de supererogation, n'est gueres plus ferme</quote>
 <bibl>
 <author>CALV.</author>
 <biblScope>Instit. 613</biblScope>
@@ -7509,7 +7505,7 @@
 </note>
 <etym>Provenç. gasar. On a proposé l'italien gazza, pie, mais l'italien n'a pas gazzare, et gazza eût donné en français gacer, jacer. Ayant rejeté gazza, Diez tire le mot du scandinave gassi, qui signifie jars et caqueteur ; mais jaser paraît tenir à gazouiller, et pour ce radical jas ou gaz, on a une dérivation celtique qui, étant directe, paraît préférable : breton, geiz, geid, gazouiller ; kymri, gyth, murmure.</etym>
 </entry>
-<entry xml:id="jaseran1">
+<entry xml:id="jaseran.1">
 <form>
 <orth>JASERAN</orth>
 <pron>ja-ze-ran</pron>
@@ -7537,7 +7533,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Les marchandises et ouvrages dudit mestier.... or ou argent, traict, fillé, ouvré et mis en oeuvre de cannetille, jazerans, frisons, friseures, ou autrement</quote>
+<quote>Les marchandises et ouvrages dudit mestier.... or ou argent, traict, fillé, ouvré et mis en œuvre de cannetille, jazerans, frisons, friseures, ou autrement</quote>
 <bibl>
 <biblScope>Ordon. tireurs et batteurs d'or, etc. 1586</biblScope>
 </bibl>
@@ -7546,7 +7542,7 @@
 </note>
 <etym>Provenç. jazeran ; espagn. et portug. jacerina ; ital. ghïazzerino. Diez, notant l'espagnol jazarino, qui signifie algérien, de l'arabe Gazaïr, Alger, et remarquant qu'il est dit qu'Alger fabriquait d'excellentes cottes de maille, pense que jaseran signifie proprement algérien, provenant d'Alger.</etym>
 </entry>
-<entry xml:id="jaseran2">
+<entry xml:id="jaseran.2">
 <form>
 <orth>JASERAN</orth>
 <pron>ja-ze-ran</pron>
@@ -7586,7 +7582,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="jaseran1">JASERAN 1</ref>.</dictScrap>
+<dictScrap>Voy. <ref target="jaseran.1">JASERAN 1</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="jaseur">
@@ -7724,7 +7720,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Il sort de vostre bouche un doux flair qui le thym, Le josmin et l'oeillet, la framboise et la fraise Surpasse de douceur</quote>
+<quote>Il sort de vostre bouche un doux flair qui le thym, Le josmin et l'œillet, la framboise et la fraise Surpasse de douceur</quote>
 <bibl>
 <author>RONS.</author>
 <biblScope>167</biblScope>
@@ -8079,7 +8075,7 @@
 <p>
 <label>XIVe s.</label>
 <cit>
-<quote>L'on bat des oeufs en une jatte</quote>
+<quote>L'on bat des œufs en une jatte</quote>
 <bibl>
 <biblScope>Ménagier, II, 5</biblScope>
 </bibl>
@@ -8567,9 +8563,9 @@
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Jaune d'oeuf, partie de l'intérieur de l'oeuf qui est jaune.</dictScrap>
+<dictScrap>Jaune d'œuf, partie de l'intérieur de l'œuf qui est jaune.</dictScrap>
 <cit>
-<quote>Sentez-vous le citron dont on a mis le jus [dans une soupe] Avec des jaunes d'oeuf mêlés dans du verjus ?</quote>
+<quote>Sentez-vous le citron dont on a mis le jus [dans une soupe] Avec des jaunes d'œuf mêlés dans du verjus ?</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Sat. III</biblScope>
@@ -8583,21 +8579,21 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les oeufs qui n'ont point été fécondés, ont un jaune qui ne diffère point de celui qu'on trouve dans les oeufs fécondés</quote>
+<quote>Les œufs qui n'ont point été fécondés, ont un jaune qui ne diffère point de celui qu'on trouve dans les œufs fécondés</quote>
 <bibl>
 <author>BONNET</author>
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les vaisseaux du poulet naissant se confondent avec ceux du jaune de l'oeuf, et forment avec eux un tout continu</quote>
+<quote>Les vaisseaux du poulet naissant se confondent avec ceux du jaune de l'œuf, et forment avec eux un tout continu</quote>
 <bibl>
 <author>CONDORCET</author>
 <biblScope>Haller.</biblScope>
 </bibl>
 </cit>
 <sense>
-<dictScrap>Jaune d'oeuf, nom d'une coquille du genre nérite. Jaune d'oeuf aplati, le nérite albumine.</dictScrap>
+<dictScrap>Jaune d'œuf, nom d'une coquille du genre nérite. Jaune d'œuf aplati, le nérite albumine.</dictScrap>
 </sense>
 </sense>
 <sense n="8">
@@ -8770,7 +8766,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Pour tels plaisirs tels jaunets [jaunes d'oeuf] fault humer, Pour tels plaisirs il faut essuyer telles peines</quote>
+<quote>Pour tels plaisirs tels jaunets [jaunes d'œuf] fault humer, Pour tels plaisirs il faut essuyer telles peines</quote>
 <bibl>
 <biblScope>Repartie d'amours, p. 243, dans LACURNE</biblScope>
 </bibl>
@@ -8882,7 +8878,7 @@
 <quote>Les pharisiens donnaient l'aumône en public ; ils se jaunissaient le visage pour paraître plus grands jeûneurs</quote>
 <bibl>
 <author>FLEURY</author>
-<biblScope>Moeurs des Israél. t. XXXIII, 3e part. p. 407</biblScope>
+<biblScope>Mœurs des Israél. t. XXXIII, 3e part. p. 407</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -9143,7 +9139,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de vétérinaire. Tumeur phlegmoneuse, analogue au furoncle, qui se forme au pied du cheval et du boeuf, entre le paturon et la couronne. Javart encorné, javart qui est au pied ; javart tendineux, javart qui est à la peau.</dictScrap>
+<dictScrap>Terme de vétérinaire. Tumeur phlegmoneuse, analogue au furoncle, qui se forme au pied du cheval et du bœuf, entre le paturon et la couronne. Javart encorné, javart qui est au pied ; javart tendineux, javart qui est à la peau.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -9288,7 +9284,7 @@
 </sense>
 </re>
 </entry>
-<entry xml:id="javeline1">
+<entry xml:id="javeline.1">
 <form>
 <orth>JAVELINE</orth>
 <pron>ja-ve-li-n'</pron>
@@ -9318,7 +9314,7 @@
 </note>
 <etym>Voy. <ref target="javelot">JAVELOT</ref> ; espagn. jabalina ; ital. giavelina.</etym>
 </entry>
-<entry xml:id="javeline2">
+<entry xml:id="javeline.2">
 <form>
 <orth>JAVELINE</orth>
 <pron>ja-ve-li-n'</pron>
@@ -9329,7 +9325,7 @@
 </sense>
 <etym>Diminutif de javelle.</etym>
 </entry>
-<entry xml:id="javelle1">
+<entry xml:id="javelle.1">
 <form>
 <orth>JAVELLE</orth>
 <pron>ja-vè-l'</pron>
@@ -9443,7 +9439,7 @@
 </note>
 <etym>Picard, gavelle ; bourguig. jaivelle ; espagn. gavilla ; portug. et ital. gavela ; d'après Diez, du latin capulus, poignée, d'où le diminutif capellus ou capella (le provençal moderne a en effet un masculin gavel, ainsi que le picard, gaviau). Que le c latin puisse se changer en g dans le français, c'est ce que font voir jambe et geôle.</etym>
 </entry>
-<entry xml:id="javelle2">
+<entry xml:id="javelle.2">
 <form>
 <orth>JAVELLE (EAU DE)</orth>
 <pron>ja-vè-l'</pron>
@@ -9624,7 +9620,7 @@
 <sense>
 <dictScrap>Il s'y met dans ces phrases-ci et autres semblables : Dussé-je en périr, fussé-je au bout du monde, quand je devrais en périr, quand je serais au bout du monde.</dictScrap>
 <cit>
-<quote>Eussé-je un faible coeur Jusques à n'en pouvoir effacer votre image</quote>
+<quote>Eussé-je un faible cœur Jusques à n'en pouvoir effacer votre image</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>le Dép. IV, 3</biblScope>
@@ -9634,7 +9630,7 @@
 <sense>
 <dictScrap>Il s'y met dans des phrases où le doute s'exprime, comme : Peut-être irai-je, peut-être n'irai-je pas. Encore ne sais-je.</dictScrap>
 <cit>
-<quote>Si je vous ouvre mon coeur, peut-être serai-je à vos yeux bien moins sage que vous</quote>
+<quote>Si je vous ouvre mon cœur, peut-être serai-je à vos yeux bien moins sage que vous</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>l'Avare, I, 2</biblScope>
@@ -9930,7 +9926,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Ris-t'en, Jean, on te frit des oeufs, se dit lorsqu'on voit quelque rieur incommode.</dictScrap>
+<dictScrap>Ris-t'en, Jean, on te frit des œufs, se dit lorsqu'on voit quelque rieur incommode.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Celui à qui sa femme fait porter des cornes.</dictScrap>
@@ -10632,7 +10628,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Dévotion au coeur de Jésus, à l'enfant Jésus, se dit d'une image représentant un coeur ou un enfant Jésus entouré d'une gloire.</dictScrap>
+<dictScrap>Dévotion au cœur de Jésus, à l'enfant Jésus, se dit d'une image représentant un cœur ou un enfant Jésus entouré d'une gloire.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Bon Jésus ! doux Jésus ! Jésus Maria, ou, simplement, Jésus ! exclamations d'admiration, de crainte, de joie.</dictScrap>
@@ -10857,7 +10853,7 @@
 <dictScrap>Tige secondaire partant du collet de la racine.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Cette canne est d'un seul jet, elle n'a point de noeuds ; et, absolument, un jet, une canne d'un seul jet. Voilà un beau jet. Ce jet est fort cher.</dictScrap>
+<dictScrap>Cette canne est d'un seul jet, elle n'a point de nœuds ; et, absolument, un jet, une canne d'un seul jet. Voilà un beau jet. Ce jet est fort cher.</dictScrap>
 </sense>
 </sense>
 <sense n="15">
@@ -10866,7 +10862,7 @@
 <sense n="16">
 <dictScrap>Terme de marine. Jet de voiles, voy. <ref target="jeu">JEU</ref>.</dictScrap>
 <cit>
-<quote>Les vaisseaux qui sont en mer, auxquels il n'y aurait que quelque peu de manoeuvres, câbles et un jet de voiles à changer</quote>
+<quote>Les vaisseaux qui sont en mer, auxquels il n'y aurait que quelque peu de manœuvres, câbles et un jet de voiles à changer</quote>
 <bibl>
 <author>VAUVRÉ</author>
 <biblScope>(1681), dans JAL</biblScope>
@@ -10982,7 +10978,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Un fossé qui n'avoit pas 30 pieds en oeuvre, et seulement 7 pieds de profond sans le ject</quote>
+<quote>Un fossé qui n'avoit pas 30 pieds en œuvre, et seulement 7 pieds de profond sans le ject</quote>
 <bibl>
 <author>D'AUB.</author>
 <biblScope>ib. III, 258</biblScope>
@@ -11037,7 +11033,7 @@
 </sense>
 </re>
 </entry>
-<entry xml:id="jeté1">
+<entry xml:id="jeté.1">
 <form>
 <orth>JETÉ, ÉE</orth>
 <pron>je-té, tée</pron>
@@ -11225,12 +11221,12 @@
 <quote>Le colosse de Rhodes, ouvrage immense jeté en fonte par un Indien</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 92</biblScope>
+<biblScope>Mœurs, 92</biblScope>
 </bibl>
 </cit>
 </sense>
 </entry>
-<entry xml:id="jeté2">
+<entry xml:id="jeté.2">
 <form>
 <orth>JETÉ</orth>
 <pron>je-té</pron>
@@ -11326,7 +11322,7 @@
 <item n="24">Calculer avec des jetons. </item>
 <item n="25">Jeter au sort, décider quelque chose par la voie du sort. </item>
 <item n="26">Pousser, envoyer, lancer hors de soi. </item>
-<item n="27">Jeter des oeufs, être ovipare. </item>
+<item n="27">Jeter des œufs, être ovipare. </item>
 <item n="28">Produire et mettre dehors un nouvel essaim. </item>
 <item n="29">Produire des bourgeons ou des scions. </item>
 <item n="30">Produire, rendre de l'humeur. </item>
@@ -11524,7 +11520,7 @@
 <sense>
 <dictScrap>Fig. Jeter un voile sur quelque chose, le passer sous silence.</dictScrap>
 <cit>
-<quote>Je ne veux point lever un oeil présomptueux Vers le voile sacré que vous jetez sur eux [des secrets]</quote>
+<quote>Je ne veux point lever un œil présomptueux Vers le voile sacré que vous jetez sur eux [des secrets]</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Brutus, III, 3</biblScope>
@@ -11653,17 +11649,17 @@
 </bibl>
 </cit>
 <cit>
-<quote>J'ai jeté l'as de coeur, avec raison, me semble</quote>
+<quote>J'ai jeté l'as de cœur, avec raison, me semble</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
 <sense>
-<dictScrap>Jeter se dit aussi au piquet, à l'écarté, des cartes que l'on écarte, dont on se défait pour en prendre d'autres. J'ai jeté les coeurs. J'aurais eu une quinte, mais j'ai jeté mon jeu. Jeter les cartes, cesser la partie.</dictScrap>
+<dictScrap>Jeter se dit aussi au piquet, à l'écarté, des cartes que l'on écarte, dont on se défait pour en prendre d'autres. J'ai jeté les cœurs. J'aurais eu une quinte, mais j'ai jeté mon jeu. Jeter les cartes, cesser la partie.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Bassement et par un mauvais jeu de mots, jeter du coeur sur du carreau, jeter des fusées, vomir.</dictScrap>
+<dictScrap>Bassement et par un mauvais jeu de mots, jeter du cœur sur du carreau, jeter des fusées, vomir.</dictScrap>
 </sense>
 </sense>
 <sense n="7">
@@ -11748,7 +11744,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>N'admirez-vous point où mon coeur me jette et m'égare ? je suis toute seule, je suis toute attendrie....</quote>
+<quote>N'admirez-vous point où mon cœur me jette et m'égare ? je suis toute seule, je suis toute attendrie....</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>1er oct. 1684</biblScope>
@@ -11812,7 +11808,7 @@
 <quote>Buckingham est forcé de ramener en Angleterre ses troupes diminuées de moitié, sans même avoir jeté du secours dans la Rochelle, et n'ayant paru que pour en hâter la ruine</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 176</biblScope>
+<biblScope>Mœurs, 176</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -12060,7 +12056,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Cessez, vaines frayeurs, cessez, lâches tendresses, De jeter dans mon coeur vos indignes faiblesses !</quote>
+<quote>Cessez, vaines frayeurs, cessez, lâches tendresses, De jeter dans mon cœur vos indignes faiblesses !</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Cinna, I, 1</biblScope>
@@ -12116,7 +12112,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Quelle horreur jetez-vous dans mon coeur étonné ?</quote>
+<quote>Quelle horreur jetez-vous dans mon cœur étonné ?</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Marianne, I, 4</biblScope>
@@ -12518,7 +12514,7 @@
 <quote>L'esprit naturel des habitants ne jetait aucune étincelle</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 40</biblScope>
+<biblScope>Mœurs, 40</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12548,7 +12544,7 @@
 <sense>
 <dictScrap>Jeter un soupir, un cri, faire un soupir, un cri.</dictScrap>
 <cit>
-<quote>Je forcerai mon coeur sans jeter de soupirs</quote>
+<quote>Je forcerai mon cœur sans jeter de soupirs</quote>
 <bibl>
 <author>DU RYER</author>
 <biblScope>Scévole, V, 2</biblScope>
@@ -12596,7 +12592,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ce n'est plus cette done Elvire qui faisait des voeux contre vous, et dont l'âme irritée ne jetait que menace et ne respirait que vengeance</quote>
+<quote>Ce n'est plus cette done Elvire qui faisait des vœux contre vous, et dont l'âme irritée ne jetait que menace et ne respirait que vengeance</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>D. Juan, IV, 9</biblScope>
@@ -12604,7 +12600,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. et familièrement. Il a jeté tout son venin, c'est-à-dire il a dit, dans l'emportement de sa colère, tout ce qu'il avait sur le coeur.</dictScrap>
+<dictScrap>Fig. et familièrement. Il a jeté tout son venin, c'est-à-dire il a dit, dans l'emportement de sa colère, tout ce qu'il avait sur le cœur.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig. et familièrement. Jeter son feu, tout son feu, voy. <ref target="feu#var38">FEU, n° 38</ref>.</dictScrap>
@@ -12617,9 +12613,9 @@
 </sense>
 </sense>
 <sense n="27">
-<dictScrap>Jeter des oeufs, être ovipare.</dictScrap>
+<dictScrap>Jeter des œufs, être ovipare.</dictScrap>
 <cit>
-<quote>Parmi les animaux, les uns jettent des oeufs, les autres sont vivipares</quote>
+<quote>Parmi les animaux, les uns jettent des œufs, les autres sont vivipares</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Singul. nat. XXIX.</biblScope>
@@ -12845,7 +12841,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Sous quel appui tantôt mon coeur s'est-il jeté ?</quote>
+<quote>Sous quel appui tantôt mon cœur s'est-il jeté ?</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Mithr. II, 6</biblScope>
@@ -12865,7 +12861,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mme de Clémire, qui n'avait pas fermé l'oeil de la nuit précédente, se jeta sur son lit</quote>
+<quote>Mme de Clémire, qui n'avait pas fermé l'œil de la nuit précédente, se jeta sur son lit</quote>
 <bibl>
 <author>GENLIS</author>
 <biblScope>Veillées du chât. t. I, p. 5, dans POUGENS</biblScope>
@@ -13248,9 +13244,7 @@
 <biblScope>71, 174</biblScope>
 </bibl>
 </cit>
-<dictScrap>
 <re type="proverbe"><form>Qui bien jettera, son compte trouvera</form>, c'est-à-dire lorsqu'on calcule exactement ses dépenses, on n'outre-passe point son revenu. </re>
-</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -13566,7 +13560,7 @@
 </note>
 <etym>Berry, giter ; provenç. gitar, gietar, getar ; espagn. jitar, jetar ; ital. gittare, gettare ; du latin jactare, fréquentatif de jacio (voy. <ref target="jet">JET</ref>).</etym>
 <re type="supplement">
-<re>JETER. Ajoutez : - REM. On trouve jeter dit pour mettre bas, en parlant des femelles d'animaux. <cit><quote>Une bonne jument pleine, un très beau boeuf, une génisse prête à jeter le veau</quote><bibl><biblScope>Avranchin, 29 août 1875</biblScope></bibl></cit> Comparez cela au n° 27 de jeter. </re>
+<re>JETER. Ajoutez : - REM. On trouve jeter dit pour mettre bas, en parlant des femelles d'animaux. <cit><quote>Une bonne jument pleine, un très beau bœuf, une génisse prête à jeter le veau</quote><bibl><biblScope>Avranchin, 29 août 1875</biblScope></bibl></cit> Comparez cela au n° 27 de jeter. </re>
 </re>
 </entry>
 <entry xml:id="jeton">
@@ -13918,7 +13912,7 @@
 <sense>
 <dictScrap>Cela passe le jeu, cela est plus fort que le jeu ou que jeu, cela passe la raillerie, cela blesse ou offense.</dictScrap>
 <cit>
-<quote>Je crains que le pendard, dans ses voeux téméraires, Un peu plus fort que jeu n'ait poussé les affaires</quote>
+<quote>Je crains que le pendard, dans ses vœux téméraires, Un peu plus fort que jeu n'ait poussé les affaires</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Éc. des femmes, II, 6</biblScope>
@@ -14083,7 +14077,7 @@
 <quote>Ce n'est pas un des moindres exemples des jeux de la fortune, que les ruines de Carthage aient vu mourir un roi chrétien qui venait combattre des musulmans dans un pays où Didon avait apporté les dieux des Syriens</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 58</biblScope>
+<biblScope>Mœurs, 58</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -14207,9 +14201,7 @@
 <sense>
 <dictScrap>Jeu de main, se dit aussi de l'action de lutter, de se porter des coups réciproques en plaisantant.</dictScrap>
 </sense>
-<dictScrap>
 <re type="proverbe"><form>Jeux de main, jeux de vilain, ou, au singulier, jeu de main, jeu de vilain</form>, c'est-à-dire les jeux de main ne conviennent qu'à des gens mal élevés, et aussi ils finissent souvent par des querelles. </re>
-</dictScrap>
 <sense>
 <dictScrap>Jeux d'esprit, certains petits jeux qui demandent quelque facilité, quelque agrément d'esprit.</dictScrap>
 <cit>
@@ -14360,7 +14352,7 @@
 <quote>On a dit que le jeu et l'amour rendent toutes les conditions égales : je suis persuadé qu'on y eût joint l'esprit, si le proverbe eût été fait depuis que l'esprit est devenu une passion</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid. moeurs, ch. XI</biblScope>
+<biblScope>Consid. mœurs, ch. XI</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -14580,7 +14572,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap><q>De franc jeu</q>, voy. <ref target="franc3">FRANC 3</ref>.</dictScrap>
+<dictScrap><q>De franc jeu</q>, voy. <ref target="franc.3">FRANC 3</ref>.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig. et par plaisanterie. À quel jeu l'a-t-on perdu ? c'est-à-dire pourquoi cet homme ne va-t-il plus dans une maison, dans une compagnie où il avait coutume d'aller.</dictScrap>
@@ -14686,7 +14678,7 @@
 </sense>
 </sense>
 <sense n="8">
-<dictScrap>Le jeu, les règles d'après lesquelles il faut jouer, la manière dont il convient de jouer, ou dont une personne joue. Jouer le jeu. C'est le jeu de jeter vos coeurs.</dictScrap>
+<dictScrap>Le jeu, les règles d'après lesquelles il faut jouer, la manière dont il convient de jouer, ou dont une personne joue. Jouer le jeu. C'est le jeu de jeter vos cœurs.</dictScrap>
 <sense>
 <dictScrap>Fig. et familièrement. C'est son jeu, il fait précisément ce qu'il doit faire pour réussir.</dictScrap>
 <cit>
@@ -15121,7 +15113,7 @@
 <sense>
 <dictScrap>Les jeux de Thalie, la comédie. Les jeux de Melpomène, la tragédie. Les jeux de Terpsichore, la danse.</dictScrap>
 <cit>
-<quote>Je quitte Melpomène et les jeux du théâtre, Ces combats, ces lauriers, dont je fus idolâtre ; De ces triomphes vains mon coeur n'est plus touché</quote>
+<quote>Je quitte Melpomène et les jeux du théâtre, Ces combats, ces lauriers, dont je fus idolâtre ; De ces triomphes vains mon cœur n'est plus touché</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Épît. 44</biblScope>
@@ -15364,13 +15356,11 @@
 <sense n="30">
 <dictScrap>Terme de féodalité. Jeu de fief, aliénation d'un fief, sous la réserve de la foi, et avec l'imposition d'un devoir domanial et seigneurial.</dictScrap>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>À beau jeu, beau retour</form>, se dit quand on rend la pareille à qui nous a fait quelque injure. </re>
 <re type="proverbe"><form>À tout venant beau jeu</form>, se dit pour exprimer qu'on est en état de tenir tête à tous ceux qui se présenteront. </re>
 <re type="proverbe"><form>Les fautes sont faites pour le jeu</form>, c'est-à-dire qu'en toutes choses il y a des règles qu'il faut observer. </re>
 <re type="proverbe"><form>Dieu vaut jeu</form>, se dit lorsque le mal qu'une personne voulait faire aux autres retombe sur elle-même, et signifie proprement que la justice divine n'a pas moins de force que le mauvais jeu des méchants. </re>
 <re type="proverbe"><form>Le jeu ne vaut pas la chandelle</form>. voy. <ref target="chandelle">CHANDELLE</ref>.  <cit><quote>Amusez-vous de la vie, il faut jouer avec elle ; et, quoique le jeu ne vaille pas la chandelle, il n'y a pourtant pas d'autre parti à prendre</quote><bibl><author>VOLT.</author><biblScope>Lett. Mme d'Argental, 1er août 1757</biblScope></bibl></cit></re>
-</re>
 <note type="historique">
 <p>
 <label>XIe s.</label>
@@ -15784,7 +15774,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La princesse Marie, pleine alors de l'esprit du monde, croyait, selon la coutume des grandes maisons, que ses jeunes soeurs devaient être sacrifiées à ses grands desseins</quote>
+<quote>La princesse Marie, pleine alors de l'esprit du monde, croyait, selon la coutume des grandes maisons, que ses jeunes sœurs devaient être sacrifiées à ses grands desseins</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>ib.</biblScope>
@@ -15905,9 +15895,9 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Un jeune coeur, se dit ou d'un jeune homme ou d'une jeune fille.</dictScrap>
+<dictScrap>Un jeune cœur, se dit ou d'un jeune homme ou d'une jeune fille.</dictScrap>
 <cit>
-<quote>Et goûter tout sanglant le plaisir et la gloire Que donne aux jeune coeurs la première victoire</quote>
+<quote>Et goûter tout sanglant le plaisir et la gloire Que donne aux jeune cœurs la première victoire</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Baj. I, 1</biblScope>
@@ -16078,7 +16068,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Dans le même sens, en parlant de choses qui appartiennent aux personnes. Avoir la voix jeune, le visage jeune. C'est un coeur toujours jeune.</dictScrap>
+<dictScrap>Dans le même sens, en parlant de choses qui appartiennent aux personnes. Avoir la voix jeune, le visage jeune. C'est un cœur toujours jeune.</dictScrap>
 <cit>
 <quote>Un caractère très sérieux, très appliqué et qui n'avait rien de jeune que le pouvoir de soutenir beaucoup de travail</quote>
 <bibl>
@@ -16087,7 +16077,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Hélas ! quand un vieillard aime, il faut l'épargner ; Le coeur est toujours jeune, et peut toujours saigner</quote>
+<quote>Hélas ! quand un vieillard aime, il faut l'épargner ; Le cœur est toujours jeune, et peut toujours saigner</quote>
 <bibl>
 <author>V. HUGO</author>
 <biblScope>Hernani, III, 1</biblScope>
@@ -16152,12 +16142,10 @@
 <dictScrap>Terme de physiologie. Le jeune des mammifères, des oiseaux, etc. mammifère, oiseau peu avancé dans la vie, et n'ayant pas encore sa taille, son pelage, son plumage, etc. permanents.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Jeune procureur et vieil avocat</form>, c'est-à-dire un procureur doit être actif et un avocat réfléchi. On dit aussi dans un sens analogue : Vieux médecin, jeune chirurgien. </re>
 <re type="proverbe"><form>Jeune chair, vieux poisson</form>, c'est-à-dire il faut manger les animaux de boucherie, la volaille, le gibier jeune et les poissons vieux. </re>
 <re type="proverbe">Aussitôt meurent jeunes que vieux. </re>
 <re type="proverbe">Le diable était beau quand il était jeune. </re>
-</re>
 <note type="remarque">
 <p>1. Quand jeune est précédé de l'article, il a des sens différents suivant qu'il est placé avant ou après son substantif. Le jeune Scipion signifierait que Scipion n'était pas âgé ; Scipion le jeune se dit pour le distinguer de Scipion l'ancien. </p>
 <p>2. De jeunes gens ou des jeunes gens, voy. GENS, remarque 11. </p>
@@ -16334,7 +16322,7 @@
 <quote>Le jeûne était établi chez plusieurs peuples, et chez les Juifs et chez les chrétiens ; Mahomet le rendit très sévère en l'étendant à un mois lunaire, pendant lequel il n'est pas permis de boire un verre d'eau ni de fumer avant le coucher du soleil</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 7</biblScope>
+<biblScope>Mœurs, 7</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -16403,10 +16391,8 @@
 <dictScrap>On dit d'une chose qui ennuie, qu'elle est longue comme un jour de jeûne.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>Il a bien fait des jeûnes qui n'étaient pas de commandement</form>, se dit de quelqu'un qui a souffert de grandes privations, beaucoup de misère. </re>
 <re type="proverbe">Double jeûne, double morceau. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIe s.</label>
@@ -16554,7 +16540,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>On a beau jeûner, ce n'est rien faire, si on ne ferme les avenues de son coeur à la vanité</quote>
+<quote>On a beau jeûner, ce n'est rien faire, si on ne ferme les avenues de son cœur à la vanité</quote>
 <bibl>
 <author>MAUCROIX</author>
 <biblScope>Hom. de StChrysost. dans RICHELET</biblScope>
@@ -16899,7 +16885,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Une certaine jeunesse de coeur qui ne se lasse pas du passé ni de l'attendrissement qu'il cause</quote>
+<quote>Une certaine jeunesse de cœur qui ne se lasse pas du passé ni de l'attendrissement qu'il cause</quote>
 <bibl>
 <author>STAËL</author>
 <biblScope>Corinne, XV, 8</biblScope>
@@ -17069,12 +17055,10 @@
 </bibl>
 </cit>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>La jeunesse revient de loin</form>, c'est-à-dire les personnes jeunes reviennent de maladies dangereuses ou de longues erreurs, de grands égarements. </re>
 <re type="proverbe"><form>Si jeunesse savait et vieillesse pouvait, les choses en iraient mieux</form>, c'est-à-dire si la jeunesse avait de l'expérience, et que la vieillesse eût de la force. </re>
 <re type="proverbe"><form>Jeunesse est forte à passer, ou est difficile à passer</form>, c'est-à-dire dans la jeunesse on a bien de la peine à modérer ses passions. </re>
 <re type="proverbe"><form>Il faut que jeunesse se passe</form>, se dit pour excuser les fautes que les jeunes gens commettent par inexpérience ou par vivacité de tempérament. </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIIe s.</label>
@@ -17704,7 +17688,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les coeurs sont saisis d'une joie soudaine par la grâce inespérée d'un beau jour d'hiver</quote>
+<quote>Les cœurs sont saisis d'une joie soudaine par la grâce inespérée d'un beau jour d'hiver</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Mar.-Thér.</biblScope>
@@ -17760,7 +17744,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ah ! qu'un seul des soupirs que mon coeur vous envoie, S'il s'échappait vers elle, y porterait de joie !</quote>
+<quote>Ah ! qu'un seul des soupirs que mon cœur vous envoie, S'il s'échappait vers elle, y porterait de joie !</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Andr. I, 4</biblScope>
@@ -17795,7 +17779,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je veux que tous les coeurs soient heureux de ma joie</quote>
+<quote>Je veux que tous les cœurs soient heureux de ma joie</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Zaïre, III, 1</biblScope>
@@ -17856,16 +17840,16 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Être à la joie de son coeur, être dans la joie de son coeur, être transporté de joie.</dictScrap>
+<dictScrap>Être à la joie de son cœur, être dans la joie de son cœur, être transporté de joie.</dictScrap>
 <cit>
-<quote>Me voici à la joie de mon coeur, toute seule dans ma chambre à vous écrire paisiblement</quote>
+<quote>Me voici à la joie de mon cœur, toute seule dans ma chambre à vous écrire paisiblement</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>13 mars 1671</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>M. Despréaux est à la joie de son coeur, depuis qu'il a vu....</quote>
+<quote>M. Despréaux est à la joie de son cœur, depuis qu'il a vu....</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Lettre XXXII, à son fils.</biblScope>
@@ -17890,10 +17874,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Se donner au coeur joie, ou à coeur joie de quelque chose, en jouir pleinement, abondamment, s'en rassasier.</dictScrap>
+<dictScrap>Se donner au cœur joie, ou à cœur joie de quelque chose, en jouir pleinement, abondamment, s'en rassasier.</dictScrap>
 </sense>
 <sense>
-<dictScrap>On dit dans le même sens : s'en donner à coeur joie.</dictScrap>
+<dictScrap>On dit dans le même sens : s'en donner à cœur joie.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Feu de joie, voy. <ref target="feu#var10">FEU, n° 10</ref>.</dictScrap>
@@ -18129,7 +18113,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Joye au coeur fait beau teint</quote>
+<quote>Joye au cœur fait beau teint</quote>
 <bibl>
 <author>LEROUX DE LINCY</author>
 <biblScope>Prov. t. II, 323</biblScope>
@@ -18232,7 +18216,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Votre hymen est le noeud qui joindra les deux mondes</quote>
+<quote>Votre hymen est le nœud qui joindra les deux mondes</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Alz. I, 1</biblScope>
@@ -18308,7 +18292,7 @@
 <quote>Enfin il se trouva un chef nommé Jean Basilidès ou fils de Basile, homme de courage, qui anima les Russes, s'affranchit de tant de servitude et joignit à ses États Novogorod et la ville de Moscou</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 119</biblScope>
+<biblScope>Mœurs, 119</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -18316,7 +18300,7 @@
 <sense n="3">
 <dictScrap>Fig. Unir, allier.</dictScrap>
 <cit>
-<quote>Ils habitaient un bourg plein de gens dont le coeur Joignait aux duretés un sentiment moqueur</quote>
+<quote>Ils habitaient un bourg plein de gens dont le cœur Joignait aux duretés un sentiment moqueur</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Phil. et Baucis.</biblScope>
@@ -18417,14 +18401,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ah ! par quel soin cruel le ciel avait-il joint Deux coeurs que l'un pour l'autre il ne destinait point ?</quote>
+<quote>Ah ! par quel soin cruel le ciel avait-il joint Deux cœurs que l'un pour l'autre il ne destinait point ?</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Mithr. II, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>De l'amour qui vous joint vous avez d'autres noeuds</quote>
+<quote>De l'amour qui vous joint vous avez d'autres nœuds</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Iphig. V, 3</biblScope>
@@ -18447,7 +18431,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Lorsqu'un heureux hymen, joignant nos destinées, Peut payer en un jour les voeux de cinq années</quote>
+<quote>Lorsqu'un heureux hymen, joignant nos destinées, Peut payer en un jour les vœux de cinq années</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Bérén. II, 2</biblScope>
@@ -18464,7 +18448,7 @@
 <sense>
 <dictScrap>Réunir dans la mort.</dictScrap>
 <cit>
-<quote>Joins Sabine à Camille, et ta femme à ta soeur</quote>
+<quote>Joins Sabine à Camille, et ta femme à ta sœur</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Hor. IV, 7</biblScope>
@@ -18608,7 +18592,7 @@
 <quote>On ne faisait pas réflexion que douze villages qui joignent un État valent mieux qu'un royaume à quatre cents lieues de chez soi</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 107</biblScope>
+<biblScope>Mœurs, 107</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -18682,7 +18666,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Me sera-t-il permis de me joindre à vos voeux ?</quote>
+<quote>Me sera-t-il permis de me joindre à vos vœux ?</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Iphig. II, 3</biblScope>
@@ -18901,7 +18885,7 @@
 <dictScrap>Laitage solide obtenu en suspendant, dans un linge ou dans une futaille, du lait à demi caillé (Drôme).</dictScrap>
 </sense>
 </entry>
-<entry xml:id="joint1">
+<entry xml:id="joint.1">
 <form>
 <orth>JOINT, OINTE</orth>
 <pron>join, join-t'</pron>
@@ -18922,7 +18906,7 @@
 <quote>Les Huns demandèrent-ils à mains jointes que les Romains daignassent les recevoir ?</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 12</biblScope>
+<biblScope>Mœurs, 12</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -18967,7 +18951,7 @@
 <sense n="3">
 <dictScrap>Fig. Uni à, en parlant des choses.</dictScrap>
 <cit>
-<quote>La mémoire du père, à bon droit respectée, Jointe au grand intérêt que je prends à la soeur, Veut que du moins on tâche à lui rendre l'honneur</quote>
+<quote>La mémoire du père, à bon droit respectée, Jointe au grand intérêt que je prends à la sœur, Veut que du moins on tâche à lui rendre l'honneur</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Éc. des mar. III, 4</biblScope>
@@ -19069,7 +19053,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Joint que Dieu sait bien se rendre le maître, et faire des oeuvres que la puissance ennemie ne puisse imiter</quote>
+<quote>Joint que Dieu sait bien se rendre le maître, et faire des œuvres que la puissance ennemie ne puisse imiter</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>ib. II, 12</biblScope>
@@ -19095,7 +19079,7 @@
 </sense>
 </sense>
 </entry>
-<entry xml:id="joint2">
+<entry xml:id="joint.2">
 <form>
 <orth>JOINT</orth>
 <pron>join ; au pluriel, l's se lie : des join-z en bon état</pron>
@@ -19651,7 +19635,7 @@
 <quote>Après cela, si vous ne me trouvez pas joli garçon, vous aurez tort</quote>
 <bibl>
 <author>SÉV.</author>
-<biblScope>26 (M. de Sévigné à sa soeur)</biblScope>
+<biblScope>26 (M. de Sévigné à sa sœur)</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -19676,13 +19660,13 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Familièrement. Un joli coeur, un homme qui fait l'agréable, qui a de l'afféterie. Faire le joli coeur.</dictScrap>
+<dictScrap>Familièrement. Un joli cœur, un homme qui fait l'agréable, qui a de l'afféterie. Faire le joli cœur.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Faire le joli coeur signifie aussi dissimuler, sous une gaieté forcée, une vive contrariété. Il a beau faire le joli coeur....</dictScrap>
+<dictScrap>Faire le joli cœur signifie aussi dissimuler, sous une gaieté forcée, une vive contrariété. Il a beau faire le joli cœur....</dictScrap>
 </sense>
 <sense>
-<dictScrap>Des grammairiens assurent qu'il faut écrire un Jolicoeur, il fait le Jolicoeur, Jolicoeur étant un nom de comédie. D'autres mettent un trait d'union, joli-coeur.</dictScrap>
+<dictScrap>Des grammairiens assurent qu'il faut écrire un Jolicœur, il fait le Jolicœur, Jolicœur étant un nom de comédie. D'autres mettent un trait d'union, joli-cœur.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
@@ -19725,7 +19709,7 @@
 <sense>
 <dictScrap>De jolies choses, des traits d'esprit pleins d'agrément.</dictScrap>
 <cit>
-<quote>Pour vous dire le vrai, je serai bien aise qu'il [mon coeur] demeure entier, et je craindrais que, s'il était une fois en deux, il ne fût partagé en mon absence ; vous voyez comme je me sais bien servir des jolies choses que j'entends dire</quote>
+<quote>Pour vous dire le vrai, je serai bien aise qu'il [mon cœur] demeure entier, et je craindrais que, s'il était une fois en deux, il ne fût partagé en mon absence ; vous voyez comme je me sais bien servir des jolies choses que j'entends dire</quote>
 <bibl>
 <author>VOIT.</author>
 <biblScope>Lett. 19</biblScope>
@@ -19835,7 +19819,7 @@
 <p>
 <label>XIIe s.</label>
 <cit>
-<quote>Car traï m'a et mort à escient Mes jolis cuers [coeur], que je doi tant haïr</quote>
+<quote>Car traï m'a et mort à escient Mes jolis cuers [cœur], que je doi tant haïr</quote>
 <bibl>
 <biblScope>Couci, XX</biblScope>
 </bibl>
@@ -20019,7 +20003,7 @@
 <p>
 <label>XIVe s.</label>
 <cit>
-<quote>Tu es garçon [homme de mauvaises moeurs] ; car tu as pris une femme, la quelle tu as fait joliver à autre avant que tu l'espousasse</quote>
+<quote>Tu es garçon [homme de mauvaises mœurs] ; car tu as pris une femme, la quelle tu as fait joliver à autre avant que tu l'espousasse</quote>
 <bibl>
 <author>DU CANGE</author>
 <biblScope>jocare.</biblScope>
@@ -20298,7 +20282,7 @@
 </sense>
 <etym>Jonc, marin.</etym>
 </entry>
-<entry xml:id="jonc1">
+<entry xml:id="jonc.1">
 <form>
 <orth>JONC</orth>
 <pron>jon ; le c ne se lie pas ; le jon odorant ; au pluriel, l's se lie : des jon-z odorants ; d'après Chifflet aussi, Gramm. p. 208, le c ne se prononce jamais, non pas même quand il est suivi d'une voyelle</pron>
@@ -20423,7 +20407,7 @@
 <note type="historique"> Ajoutez : <p><label>XVIe s.</label><cit><quote>Pour en faire brief et ne cercher point le neud dans le jonc...</quote><bibl><biblScope>Arrest memorable du parlement de Tholose, contenant histoire prodigieuse d'un supposé mary, Paris, 1572, p. 26</biblScope></bibl></cit></p> </note>
 </re>
 </entry>
-<entry xml:id="jonc2">
+<entry xml:id="jonc.2">
 <form>
 <orth>JONC</orth>
 <pron>jon</pron>
@@ -20459,7 +20443,7 @@
 </note>
 <etym>On dit qu'en ce sens jonc vient de ce que dans certains lieux, même à Paris, on mettait un anneau de paille ou de jonc au doigt de ceux qu'on mariait par condamnation de l'officialité.</etym>
 </entry>
-<entry xml:id="jonc3">
+<entry xml:id="jonc.3">
 <form>
 <orth>JONC</orth>
 <pron>jon</pron>
@@ -21343,7 +21327,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Partie du visage de l'homme au-dessous de l'oeil, s'étendant jusqu'au menton, et ayant pour base les muscles masséter et malaire. Joues pleines. Joues creuses. Cet enfant est à pleines joues.</dictScrap>
+<dictScrap>Partie du visage de l'homme au-dessous de l'œil, s'étendant jusqu'au menton, et ayant pour base les muscles masséter et malaire. Joues pleines. Joues creuses. Cet enfant est à pleines joues.</dictScrap>
 <cit>
 <quote>Viens baiser cette joue, et reconnais la place Où fut empreint l'affront que ton courage efface</quote>
 <bibl>
@@ -21394,10 +21378,10 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le seul crime bien constaté qu'on lui reprocha [à Laud, évêque de Cantorbéry], était de s'être servi de quelques cérémonies de l'Église romaine en consacrant une église de Londres ; la sentence porta qu'il serait pendu, et qu'on lui arracherait le coeur pour lui en battre les joues</quote>
+<quote>Le seul crime bien constaté qu'on lui reprocha [à Laud, évêque de Cantorbéry], était de s'être servi de quelques cérémonies de l'Église romaine en consacrant une église de Londres ; la sentence porta qu'il serait pendu, et qu'on lui arracherait le cœur pour lui en battre les joues</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 180</biblScope>
+<biblScope>Mœurs, 180</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -21477,7 +21461,7 @@
 <sense n="2">
 <dictScrap>Partie de la tête du cheval qui répond à la joue dans l'homme. Ce cheval a trop de joue.</dictScrap>
 <sense>
-<dictScrap>Terme de zoologie. Région de la face comprise entre le nez, la bouche et l'oreille chez les mammifères ; entre la base du bec, le front et l'oeil, chez les oiseaux ; portion de la tête des insectes située de chaque côté, entre les yeux et les mandibules.</dictScrap>
+<dictScrap>Terme de zoologie. Région de la face comprise entre le nez, la bouche et l'oreille chez les mammifères ; entre la base du bec, le front et l'œil, chez les oiseaux ; portion de la tête des insectes située de chaque côté, entre les yeux et les mandibules.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -21560,7 +21544,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Saquenai eut le coeur arraché, on lui en battit les joues à la mode d'Angleterre</quote>
+<quote>Saquenai eut le cœur arraché, on lui en battit les joues à la mode d'Angleterre</quote>
 <bibl>
 <author>D'AUB.</author>
 <biblScope>ib. III, 505</biblScope>
@@ -22172,7 +22156,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>À faire des noeuds, à tourner votre rouet pour tout amusement, et à jouer de l'éventail pour toute conversation</quote>
+<quote>À faire des nœuds, à tourner votre rouet pour tout amusement, et à jouer de l'éventail pour toute conversation</quote>
 <bibl>
 <author>BOISSY</author>
 <biblScope>Français à Londres, sc. 5</biblScope>
@@ -22233,7 +22217,7 @@
 <sense>
 <dictScrap>Faire jouer les intérêts, les passions, les mettre en jeu.</dictScrap>
 <cit>
-<quote>L'homme injuste, qui met tout en oeuvre, qui entre dans tous les desseins, qui fait jouer les passions et les intérêts, ces deux grands ressorts de la vie humaine</quote>
+<quote>L'homme injuste, qui met tout en œuvre, qui entre dans tous les desseins, qui fait jouer les passions et les intérêts, ces deux grands ressorts de la vie humaine</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Sermons, Justice, 1</biblScope>
@@ -22315,10 +22299,10 @@
 <dictScrap>Aux échecs, jouer une pièce, la mettre à une autre case ; aux dames, jouer une dame, la pousser d'une case à une autre.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Jouer une carte, jeter une carte. Jouer coeur, jouer carreau, etc. jouer une carte de ces couleurs.</dictScrap>
+<dictScrap>Jouer une carte, jeter une carte. Jouer cœur, jouer carreau, etc. jouer une carte de ces couleurs.</dictScrap>
 </sense>
 <sense>
-<dictScrap>En ce sens, il s'emploie neutralement aussi. Jouer en carreau, en coeur, en pique.</dictScrap>
+<dictScrap>En ce sens, il s'emploie neutralement aussi. Jouer en carreau, en cœur, en pique.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Au piquet, jouer bien les cartes, tirer tout le parti possible de ses cartes. Il écarte bien, mais il joue mal les cartes.</dictScrap>
@@ -22646,7 +22630,7 @@
 <quote>Elle [la politesse exquise] a fait naître à certaines gens l'idée de jouer la grossièreté et la brusquerie pour imiter la franchise, et couvrir leurs desseins</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid. moeurs, ch. III</biblScope>
+<biblScope>Consid. mœurs, ch. III</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -22657,7 +22641,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>S'il n'était que vicieux, je n'en désespérerais pas ; mais s'il joue les moeurs et la vertu !</quote>
+<quote>S'il n'était que vicieux, je n'en désespérerais pas ; mais s'il joue les mœurs et la vertu !</quote>
 <bibl>
 <author>DIDER.</author>
 <biblScope>Père de famille, I, 5</biblScope>
@@ -23190,7 +23174,8 @@
 <dictScrap>Se jouer, être joué, en parlant d'un instrument de musique, d'un morceau de musique. Ceci se joue à quatre mains. Cet instrument se joue avec la bouche, avec les doigts.</dictScrap>
 </sense>
 <sense n="35">
-<dictScrap>Se jouer, être représenté, en parlant d'une pièce de théâtre. Le Tartuffe se joue ce soir aux Français. <re type="proverbe"><form>Qui a joué jouera</form>, c'est-à-dire on ne quitte pas ses vieilles habitudes.  </re></dictScrap>
+<dictScrap>Se jouer, être représenté, en parlant d'une pièce de théâtre. Le Tartuffe se joue ce soir aux Français. </dictScrap>
+<re type="proverbe"><form>Qui a joué jouera</form>, c'est-à-dire on ne quitte pas ses vieilles habitudes.  </re>
 <cit>
 <quote>Quiconque aime, aimera, Et quiconque a joué, toujours joue et jouera : Certain docteur l'a dit</quote>
 <bibl>
@@ -23245,7 +23230,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ce doit moult Venus escuser, Quant voloit de franchise user, Et toutes dames qui se jeuent, Combien que mariage vuent [vouent, font voeu]</quote>
+<quote>Ce doit moult Venus escuser, Quant voloit de franchise user, Et toutes dames qui se jeuent, Combien que mariage vuent [vouent, font vœu]</quote>
 <bibl>
 <biblScope>ib. 14235</biblScope>
 </bibl>
@@ -23432,7 +23417,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il plaça son artillerie jusques à la faire jouer dans le coeur de l'armée espagnolle</quote>
+<quote>Il plaça son artillerie jusques à la faire jouer dans le cœur de l'armée espagnolle</quote>
 <bibl>
 <author>D'AUB.</author>
 <biblScope>Hist. I, 26</biblScope>
@@ -23684,7 +23669,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le courtisan.... privé de cette droiture de coeur.... qui conserva purs et sans tache les Daniel et les Esther au milieu même d'une cour infidèle, devient bientôt le triste jouet de toutes les cupidités humaines</quote>
+<quote>Le courtisan.... privé de cette droiture de cœur.... qui conserva purs et sans tache les Daniel et les Esther au milieu même d'une cour infidèle, devient bientôt le triste jouet de toutes les cupidités humaines</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Vocat.</biblScope>
@@ -23971,7 +23956,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Pièce de bois servant presque exclusivement à l'attelage des boeufs et des vaches.</dictScrap>
+<dictScrap>Pièce de bois servant presque exclusivement à l'attelage des bœufs et des vaches.</dictScrap>
 <cit>
 <quote>Il fallait mettre au joug deux taureaux furieux</quote>
 <bibl>
@@ -24477,7 +24462,7 @@
 <sense n="3">
 <dictScrap>Par extension, avoir la possession, l'usage de toute chose qui procure bien-être, avantage, agrément. Jouir d'une grande réputation. Jouir de l'estime publique.</dictScrap>
 <cit>
-<quote>Leur roi n'a pu jouir de ton coeur adouci</quote>
+<quote>Leur roi n'a pu jouir de ton cœur adouci</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Mort de P. V, 4</biblScope>
@@ -24588,12 +24573,13 @@
 <quote>J'aimerais autant croire Dion Cassius, qui assure que les graves sénateurs de Rome proposèrent un décret, par lequel César, âgé de cinquante-sept ans, aurait le droit de jouir de toutes les femmes qu'il voudrait</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, introduction.</biblScope>
+<biblScope>Mœurs, introduction.</biblScope>
 </bibl>
 </cit>
 </sense>
 <sense n="8">
-<dictScrap>Terme de chasse. Les chiens courants jouissent lorsque après avoir chassé, ils prennent l'animal et font curée. Pour avoir de bons chiens, il faut les faire jouir souvent. <re type="proverbe"><form>Qui de loin se pourvoit, de près jouit</form>. </re></dictScrap>
+<dictScrap>Terme de chasse. Les chiens courants jouissent lorsque après avoir chassé, ils prennent l'animal et font curée. Pour avoir de bons chiens, il faut les faire jouir souvent. </dictScrap>
+<re type="proverbe"><form>Qui de loin se pourvoit, de près jouit</form>. </re>
 </sense>
 <note type="remarque">Jouir, impliquant une satisfaction, ne se dit pas des choses mauvaises. Ainsi c'est parler ridiculement que de dire : Il jouit d'une mauvaise santé, d'une mauvaise réputation. Toutefois, quand la chose mauvaise dont il s'agit, malheur, peine, souffrance, peut être, par une hardiesse de l'écrivain, considérée comme quelque chose dont l'âme se satisfasse, alors jouir est très bien employé : <cit><quote>Il ne croit rien avoir s'il n'a tout ; son âme est toujours avide et altérée, et il ne jouit de rien que des malheurs</quote><bibl><author>MASS.</author><biblScope>cité dans GIRAULT-DUVIVIER</biblScope></bibl></cit> <cit><quote>Je t'ai perdu ; près de ta cendre Je viens jouir de ma douleur</quote><bibl><author>ST-LAMBERT</author><biblScope>Épitaphe d'Helvétius</biblScope></bibl></cit> </note>
 <note type="historique">
@@ -24634,7 +24620,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Joie d'amours fait tant gai Le cuer [le coeur], que c'est faerie [féerie], Que nulz qui got set celer</quote>
+<quote>Joie d'amours fait tant gai Le cuer [le cœur], que c'est faerie [féerie], Que nulz qui got set celer</quote>
 <bibl>
 <biblScope>Bibl. des ch. 4e série, t. V, p. 26</biblScope>
 </bibl>
@@ -25021,7 +25007,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le jour n'est pas plus pur que le fond de mon coeur</quote>
+<quote>Le jour n'est pas plus pur que le fond de mon cœur</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>ib. IV, 2</biblScope>
@@ -25415,7 +25401,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Allez : que tous les Juifs dans Suse répandus, À prier avec vous jour et nuit assidus, Me prêtent de leurs voeux le secours salutaire</quote>
+<quote>Allez : que tous les Juifs dans Suse répandus, À prier avec vous jour et nuit assidus, Me prêtent de leurs vœux le secours salutaire</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Esth. I, 3</biblScope>
@@ -25758,7 +25744,7 @@
 <sense>
 <dictScrap>Du premier jour, tout d'abord.</dictScrap>
 <cit>
-<quote>Ainsi tout votre amour n'est qu'une politique, Et le coeur ne sent point ce que la bouche explique. - Il ne le sentit pas, Albin, du premier jour, Mais cette politique est devenue amour</quote>
+<quote>Ainsi tout votre amour n'est qu'une politique, Et le cœur ne sent point ce que la bouche explique. - Il ne le sentit pas, Albin, du premier jour, Mais cette politique est devenue amour</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Othon, I, 1</biblScope>
@@ -25868,7 +25854,7 @@
 <dictScrap>Les vêtements de tous les jours, les vêtements ordinaires, par opposition aux vêtements des dimanches et fêtes.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Mettre à tous les jours, employer à des oeuvres communes et peu élevées.</dictScrap>
+<dictScrap>Mettre à tous les jours, employer à des œuvres communes et peu élevées.</dictScrap>
 <cit>
 <quote>Le prince met ces esprits [ceux d'une médiocre capacité] à tous les jours, et se décharge sur eux des plus grossières fonctions de la royauté</quote>
 <bibl>
@@ -26316,7 +26302,7 @@
 <sense>
 <dictScrap>Fig. Le mauvais jour, le jour de la vengeance du Seigneur.</dictScrap>
 <cit>
-<quote>Malheur au pécheur fortuné qui dit en son coeur aveugle : J'ai péché, et que m'est-il arrivé de mal ? il ne songe pas que le Tout-Puissant l'attend au mauvais jour</quote>
+<quote>Malheur au pécheur fortuné qui dit en son cœur aveugle : J'ai péché, et que m'est-il arrivé de mal ? il ne songe pas que le Tout-Puissant l'attend au mauvais jour</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>3e sermon, Circoncision, 3</biblScope>
@@ -26582,7 +26568,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>C'est un ami de l'enfance Qu'aux jours sombres du malheur Nous prêta la Providence Pour appuyer notre coeur</quote>
+<quote>C'est un ami de l'enfance Qu'aux jours sombres du malheur Nous prêta la Providence Pour appuyer notre cœur</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Harm. II, 1</biblScope>
@@ -26685,7 +26671,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Que n'est-ce encore ce temps.... Quand les trois soeurs [les Parques] pouvaient n'être pas inflexibles, Et qu'au prix de ses jours, de leurs ciseaux terribles On rachetait des jours plus chers !</quote>
+<quote>Que n'est-ce encore ce temps.... Quand les trois sœurs [les Parques] pouvaient n'être pas inflexibles, Et qu'au prix de ses jours, de leurs ciseaux terribles On rachetait des jours plus chers !</quote>
 <bibl>
 <author>A. CHÉN.</author>
 <biblScope>Ode V</biblScope>
@@ -26774,7 +26760,7 @@
 <sense>
 <dictScrap>Fig. Le demi-jour de la primitive histoire.</dictScrap>
 <cit>
-<quote>Les vérités que contient le coeur sont du nombre de celles qui demandent le demi-jour et la perspective</quote>
+<quote>Les vérités que contient le cœur sont du nombre de celles qui demandent le demi-jour et la perspective</quote>
 <bibl>
 <author>CHATEAUB.</author>
 <biblScope>Génie, II, III, 1</biblScope>
@@ -26801,7 +26787,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Je pleure dans mon ciel tant d'étoiles éteintes ! Elle fut la première, et sa douce lueur D'un jour pieux et tendre éclaire encor mon coeur</quote>
+<quote>Je pleure dans mon ciel tant d'étoiles éteintes ! Elle fut la première, et sa douce lueur D'un jour pieux et tendre éclaire encor mon cœur</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Harm. IV, 10</biblScope>
@@ -27103,7 +27089,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>L'oeil le plus éclairé sur de telles matières Peut prendre de faux jours pour de vives lumières</quote>
+<quote>L'œil le plus éclairé sur de telles matières Peut prendre de faux jours pour de vives lumières</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Héracl. V, 2</biblScope>
@@ -27262,7 +27248,7 @@
 <sense>
 <dictScrap>Dans le même sens : se faire jour, se frayer son chemin.</dictScrap>
 <cit>
-<quote>Au travers des périls un grand coeur se fait jour</quote>
+<quote>Au travers des périls un grand cœur se fait jour</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Andr. III, 1</biblScope>
@@ -27279,7 +27265,7 @@
 <sense>
 <dictScrap>Faire jour, faire pénétrer, apercevoir, saisir.</dictScrap>
 <cit>
-<quote>L'oeil d'un amant jaloux a bien d'autres clartés.... Son amour lui fait jour jusques au fond d'une âme</quote>
+<quote>L'œil d'un amant jaloux a bien d'autres clartés.... Son amour lui fait jour jusques au fond d'une âme</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Théod. IV, 5</biblScope>
@@ -27296,7 +27282,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Un prince dont les yeux se font jour dans les coeurs</quote>
+<quote>Un prince dont les yeux se font jour dans les cœurs</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Tart. V, 7</biblScope>
@@ -27432,7 +27418,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>C'est l'ordinaire du coeur qui pour la première fois trouve jour à sortir de son secret, d'être satisfait d'avoir pu faire soupçonner ses sentiments</quote>
+<quote>C'est l'ordinaire du cœur qui pour la première fois trouve jour à sortir de son secret, d'être satisfait d'avoir pu faire soupçonner ses sentiments</quote>
 <bibl>
 <author>MARIV.</author>
 <biblScope>Paysan parv. 4e part.</biblScope>
@@ -27460,10 +27446,9 @@
 </bibl>
 </cit>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>À chaque jour suffit sa peine, suffit son mal</form>, c'est-à-dire il ne faut pas se tourmenter inutilement sur l'avenir, se faire des chagrins d'avance. </re>
-<re type="proverbe"><form>Bon jour, bonne oeuvre</form>, se dit en parlant d'une bonne action faite en un jour solennel. Ils se sont réconciliés le jour de Pâques : bon jour, bonne oeuvre. </re>
-<re type="proverbe">Ironiquement et par antiphrase. Bon jour, bonne oeuvre, les voleurs font leurs meilleurs coups les jours de fête.  <cit><quote>Croyez-vous à la lettre de M. d'Ossun lue en plein conseil, et qui marque que les jésuites avaient formé le complot d'assassiner, le jeudi saint, bon jour, bonne oeuvre, le roi d'Espagne et toute la famille royale ?</quote><bibl><author>D'ALEMBERT</author><biblScope>Lett. à Voltaire, 4 mai 1767</biblScope></bibl></cit> </re>
+<re type="proverbe"><form>Bon jour, bonne œuvre</form>, se dit en parlant d'une bonne action faite en un jour solennel. Ils se sont réconciliés le jour de Pâques : bon jour, bonne œuvre. </re>
+<re type="proverbe">Ironiquement et par antiphrase. Bon jour, bonne œuvre, les voleurs font leurs meilleurs coups les jours de fête.  <cit><quote>Croyez-vous à la lettre de M. d'Ossun lue en plein conseil, et qui marque que les jésuites avaient formé le complot d'assassiner, le jeudi saint, bon jour, bonne œuvre, le roi d'Espagne et toute la famille royale ?</quote><bibl><author>D'ALEMBERT</author><biblScope>Lett. à Voltaire, 4 mai 1767</biblScope></bibl></cit> </re>
 <re type="proverbe"><form>Demain il sera jour</form>, se dit quand on veut réfléchir à une chose ou la remettre. </re>
 <re type="proverbe"><form>Les jours se suivent et ne se ressemblent pas</form>. </re>
 <re type="proverbe"><form>Après trois jours, sa femme, un hôte et de la pluie Sont trois choses dont on s'ennuie</form>. </re>
@@ -27471,7 +27456,6 @@
 <re type="proverbe"><form>Il est plus de jours que d'années et que de bonnes destinées</form>. </re>
 <re type="proverbe"><form>Cela est long comme un jour sans pain</form>, se dit d'une chose qui ennuie et dure trop. </re>
 <re type="proverbe"><form>Il dit beaucoup de paroles en un jour</form>, se dit d'un homme qui parle beaucoup et à la légère, sans qu'il faille attacher de l'importance à ce qu'il dit. </re>
-</re>
 <re type="nuance">1. JOUR, JOURNÉE., Ces deux mots sont entre eux comme an et année. Jour et journée ne diffèrent que par la finale ée, qui, représentant la finale latine du participe passif ata, exprime ce qui s'opère ; journée signifie proprement ce qui est fait, opéré en un jour. De là la distinction réelle : jour servira à marquer les époques : la semaine est composée de sept jours. Au contraire, on dira la journée de Waterloo. </re>
 <re type="nuance">2. FAUX JOUR, JOUR FAUX., Un tableau est dans un faux jour quand il est éclairé du sens contraire à celui que le peintre a choisi dans son sujet. Il y a un jour faux dans un tableau quand une partie y est éclairée contre nature, la disposition générale du tout exigeant, par exemple, que cette partie soit dans l'ombre. </re>
 <note type="historique">
@@ -28023,7 +28007,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le coeur fait l'oeuvre, non pas les grands jours</quote>
+<quote>Le cœur fait l'œuvre, non pas les grands jours</quote>
 <bibl>
 <author>COTGRAVE</author>
 <biblScope/>
@@ -28373,7 +28357,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Une ardeur se boute dans le coeur de chascun des journaliers, et voire querelle de gloire parmy tous pour travailler à l'envy</quote>
+<quote>Une ardeur se boute dans le cœur de chascun des journaliers, et voire querelle de gloire parmy tous pour travailler à l'envy</quote>
 <bibl>
 <author>LA BOÉTIE</author>
 <biblScope>265</biblScope>
@@ -28577,9 +28561,9 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>On a dit dans le même sens : à coeur de journée.</dictScrap>
+<dictScrap>On a dit dans le même sens : à cœur de journée.</dictScrap>
 <cit>
-<quote>Il avait.... un jeune valet qui le suivait toujours..., et qui se moquait de lui à coeur de journée</quote>
+<quote>Il avait.... un jeune valet qui le suivait toujours..., et qui se moquait de lui à cœur de journée</quote>
 <bibl>
 <author>SAINT-SIMON</author>
 <biblScope>t. V, p. 249, édit. CHÉRUEL.</biblScope>
@@ -28688,7 +28672,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La fameuse journée du Raab, où Louis renouvela dans le coeur des infidèles l'ancienne opinion qu'ils ont des armes françaises fatales à leur tyrannie</quote>
+<quote>La fameuse journée du Raab, où Louis renouvela dans le cœur des infidèles l'ancienne opinion qu'ils ont des armes françaises fatales à leur tyrannie</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Mar.-Thér.</biblScope>
@@ -28939,7 +28923,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les grands boeufs ne font pas les grandes journées</quote>
+<quote>Les grands bœufs ne font pas les grandes journées</quote>
 <bibl>
 <author>COTGRAVE</author>
 <biblScope/>
@@ -29131,7 +29115,7 @@
 <quote>Il n'était pas permis à un écuyer de jouter contre un chevalier</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 97</biblScope>
+<biblScope>Mœurs, 97</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -29869,7 +29853,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Combien vivent joyeux, qui devaient, soeurs ou frères, Faire un pleur éternel de quelques ombres chères !</quote>
+<quote>Combien vivent joyeux, qui devaient, sœurs ou frères, Faire un pleur éternel de quelques ombres chères !</quote>
 <bibl>
 <author>V. HUGO</author>
 <biblScope>F. d'automme, VI</biblScope>
@@ -30014,7 +29998,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Lieu élevé dans une église en forme de galerie, et qui est ordinairement entre la nef et le choeur. Chanter l'évangile au jubé. Le jubé de l'église Saint-Étienne du Mont.</dictScrap>
+<dictScrap>Lieu élevé dans une église en forme de galerie, et qui est ordinairement entre la nef et le chœur. Chanter l'évangile au jubé. Le jubé de l'église Saint-Étienne du Mont.</dictScrap>
 <cit>
 <quote>On lisait autrefois les lettres de paix dans les jubés</quote>
 <bibl>
@@ -30189,7 +30173,7 @@
 <quote>Le grand jubilé attirait à Rome une si prodigieuse foule, qu'en 1350 on y compta deux cent mille pèlerins</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 68</biblScope>
+<biblScope>Mœurs, 68</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -30345,7 +30329,7 @@
 <p>
 <label>XIIIe s.</label>
 <cit>
-<quote>Pinte parla qui plus savoit, Cele qui les gros oes [oeufs] ponnoit ; Et, près du coc juchant à destre, Si li a conté tout son estre</quote>
+<quote>Pinte parla qui plus savoit, Cele qui les gros oes [œufs] ponnoit ; Et, près du coc juchant à destre, Si li a conté tout son estre</quote>
 <bibl>
 <biblScope>Ren. 1335</biblScope>
 </bibl>
@@ -30504,7 +30488,7 @@
 <quote>Les lenticulaires, les judaïques m'ont paru des fossiles terrestres</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, Chang.</biblScope>
+<biblScope>Mœurs, Chang.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -30548,7 +30532,7 @@
 <quote>L'Église était partagée en société judaïsante et société non judaïsante</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, Sibylles.</biblScope>
+<biblScope>Mœurs, Sibylles.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -30768,7 +30752,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Néologisme. Celui qui juge les oeuvres littéraires, les oeuvres d'art.</dictScrap>
+<dictScrap>Néologisme. Celui qui juge les œuvres littéraires, les œuvres d'art.</dictScrap>
 <cit>
 <quote>Une fois à son tribunal.... tout judicateur prend à la fois du solennel et du burlesque</quote>
 <bibl>
@@ -30838,7 +30822,7 @@
 </sense>
 <note type="remarque">Ce mot, que Balzac employa plusieurs fois, n'a point passé dans l'usage. On dit en ce sens aujourd'hui la judiciaire. </note>
 </entry>
-<entry xml:id="judicatum">
+<entry xml:id="judicatum_solvi">
 <form>
 <orth>JUDICATUM SOLVI</orth>
 <pron>ju-di-ka-tom'-sol-vi</pron>
@@ -31291,7 +31275,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ô Seigneur, vous avez fait, comme dit le Sage, l'oeil qui regarde et l'oreille qui entend ; vous donc qui donnez aux juges ces regards benins, ces oreilles attentives, et ce coeur toujours ouvert à la vérité, écoutez-nous pour celui qui écoutait tout le monde</quote>
+<quote>Ô Seigneur, vous avez fait, comme dit le Sage, l'œil qui regarde et l'oreille qui entend ; vous donc qui donnez aux juges ces regards benins, ces oreilles attentives, et ce cœur toujours ouvert à la vérité, écoutez-nous pour celui qui écoutait tout le monde</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>le Tellier.</biblScope>
@@ -31537,7 +31521,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je puis.... Lui disputer les coeurs du peuple et de l'armée, Et pour juge entre nous prendre la renommée</quote>
+<quote>Je puis.... Lui disputer les cœurs du peuple et de l'armée, Et pour juge entre nous prendre la renommée</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Bajaz. III, 4</biblScope>
@@ -31614,9 +31598,7 @@
 <dictScrap>Juge-garde, fonctionnaire qui veillait à la fabrication des monnaies.</dictScrap>
 </sense>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>De fou juge briève sentence</form>, c'est-à-dire les ignorants décident sans examiner. <cit><quote>On a vingt-quatre heures au palais pour maudire ses juges</quote><bibl><author>BEAUMARCH.</author><biblScope>Barb. de Sév. II, 2</biblScope></bibl></cit> </re>
-</re>
 <note type="historique">
 <p>
 <label>XIIIe s.</label>
@@ -32460,7 +32442,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Et vous, rois, ouvrez maintenant votre coeur à l'intelligence ; instruisez-vous, vous qui jugez la terre</quote>
+<quote>Et vous, rois, ouvrez maintenant votre cœur à l'intelligence ; instruisez-vous, vous qui jugez la terre</quote>
 <bibl>
 <author>SACI</author>
 <biblScope>Bible, Psaum. II, 10</biblScope>
@@ -32621,7 +32603,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mais nous, qui d'un autre oeil jugeons les conquérants</quote>
+<quote>Mais nous, qui d'un autre œil jugeons les conquérants</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Alex. II, 2</biblScope>
@@ -32855,7 +32837,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il ne faut pas juger des hommes comme d'un tableau ou d'une figure, sur une seule et première vue ; il y a un intérieur et un coeur qu'il faut approfondir</quote>
+<quote>Il ne faut pas juger des hommes comme d'un tableau ou d'une figure, sur une seule et première vue ; il y a un intérieur et un cœur qu'il faut approfondir</quote>
 <bibl>
 <author>LA BRUY.</author>
 <biblScope>XII</biblScope>
@@ -32890,7 +32872,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On dit dans un sens analogue. L'oeil juge des couleurs. L'oreille juge des sons.</dictScrap>
+<dictScrap>On dit dans un sens analogue. L'œil juge des couleurs. L'oreille juge des sons.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Juger des coups, regarder des joueurs et apprécier en quoi ils jouent bien ou mal.</dictScrap>
@@ -32919,7 +32901,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Si nos cheveux sont comptés, jugez de nos oeuvres</quote>
+<quote>Si nos cheveux sont comptés, jugez de nos œuvres</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Avent, Jugem.</biblScope>
@@ -32945,7 +32927,7 @@
 <sense>
 <dictScrap>Juger d'autrui par soi-même, estimer les sentiments d'autrui par les siens.</dictScrap>
 <cit>
-<quote>Seigneur, ne jugez pas de son coeur par le vôtre</quote>
+<quote>Seigneur, ne jugez pas de son cœur par le vôtre</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Brit. V, 1</biblScope>
@@ -33039,7 +33021,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Jugez-vous dans mon coeur, prenez-le pour votre conscience</quote>
+<quote>Jugez-vous dans mon cœur, prenez-le pour votre conscience</quote>
 <bibl>
 <author>STAËL</author>
 <biblScope>Corinne, XII, 2</biblScope>
@@ -33295,7 +33277,7 @@
 <sense n="2">
 <dictScrap>Fig. Homme qui ne sait que juger et critiquer sans être capable de rien produire. Un jugeur de profession.</dictScrap>
 <cit>
-<quote>Ajoutez-y le pédantesque abus de ces autres grands mots, décence et bonnes moeurs, qui donnent un air si important, si supérieur, que nos jugeurs de comédies seraient désolés de n'avoir pas à les prononcer sur toutes les pièces de théâtre</quote>
+<quote>Ajoutez-y le pédantesque abus de ces autres grands mots, décence et bonnes mœurs, qui donnent un air si important, si supérieur, que nos jugeurs de comédies seraient désolés de n'avoir pas à les prononcer sur toutes les pièces de théâtre</quote>
 <bibl>
 <author>BEAUMARCHAIS</author>
 <biblScope>Mar. de Fig. Préface</biblScope>
@@ -33555,7 +33537,7 @@
 <dictScrap>Année juive, année lunaire de 354 jours. L'année religieuse des Juifs commençait à l'équinoxe du printemps.</dictScrap>
 </sense>
 <sense>
-<dictScrap>À la juive, loc. adv. À la manière des Juifs, quant aux moeurs et aux costumes.</dictScrap>
+<dictScrap>À la juive, loc. adv. À la manière des Juifs, quant aux mœurs et aux costumes.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -33662,7 +33644,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Parmy ses blonds cheveux erroient les amourettes, S'entrelaçants l'un l'autre, et ses yeux, mes vainqueurs, Faisoient par leurs rayons un juillet dans les coeurs</quote>
+<quote>Parmy ses blonds cheveux erroient les amourettes, S'entrelaçants l'un l'autre, et ses yeux, mes vainqueurs, Faisoient par leurs rayons un juillet dans les cœurs</quote>
 <bibl>
 <author>DESPORTES</author>
 <biblScope>Cléonice, III</biblScope>
@@ -33695,7 +33677,7 @@
 <sense>
 <dictScrap>Le sixième mois de l'année.</dictScrap>
 <cit>
-<quote>Point de glace, bon Dieu, dans le coeur de l'été, Au mois de juin ! pour moi, j'étais si transporté ....</quote>
+<quote>Point de glace, bon Dieu, dans le cœur de l'été, Au mois de juin ! pour moi, j'étais si transporté ....</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Sat. III</biblScope>
@@ -33752,7 +33734,7 @@
 <quote>Il en coûta 6 marques sterling pour libérer une terre hypothéquée à la juiverie</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 103</biblScope>
+<biblScope>Mœurs, 103</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -33841,7 +33823,7 @@
 </p>
 </note>
 </entry>
-<entry xml:id="jule1">
+<entry xml:id="jule.1">
 <form>
 <orth>JULE</orth>
 <pron>ju-l'</pron>
@@ -33851,7 +33833,7 @@
 <dictScrap>Terme d'entomologie. Voyez IULE.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jule2">
+<entry xml:id="jule.2">
 <form>
 <orth>JULE</orth>
 <pron>ju-l'</pron>
@@ -33912,7 +33894,7 @@
 <dictScrap>La 89e planète télescopique, découverte en 1866 par M. Stephan.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="julien1">
+<entry xml:id="julien.1">
 <form>
 <orth>JULIEN (SAINT-)</orth>
 <pron>sin-ju-liin</pron>
@@ -33947,7 +33929,7 @@
 </note>
 <etym>Lat. Julianus, dérivé de Julius, Jules.</etym>
 </entry>
-<entry xml:id="julien2">
+<entry xml:id="julien.2">
 <form>
 <orth>JULIEN, IENNE</orth>
 <pron>ju-li-in, liè-n'</pron>
@@ -33964,7 +33946,7 @@
 </sense>
 <etym>Lat. Julius, Jules César. Le nom de la période julienne vient de Jules César Scaliger.</etym>
 </entry>
-<entry xml:id="julienne1">
+<entry xml:id="julienne.1">
 <form>
 <orth>JULIENNE</orth>
 <pron>ju-liè-n'</pron>
@@ -33977,7 +33959,7 @@
 </sense>
 </sense>
 </entry>
-<entry xml:id="julienne2">
+<entry xml:id="julienne.2">
 <form>
 <orth>JULIENNE</orth>
 <pron>ju-liè-n'</pron>
@@ -33990,7 +33972,7 @@
 <form> 2. JULIENNE. Ajoutez : - REM. On lit dans le Courrier de Vaugelas, 15 déc. 1875, p. 124 : " La julienne, qu'on appelle dans le patois de Genève la soupe à la bataille, n'est mentionnée ni dans Taillevent, ni dans le Ménagier de Paris (1393), ni dans le Dictionnaire français-anglais de Cotgrave (1660), ni dans le Cuisinier françois de La Varenne (1670) ; c'est seulement dans le Cuisinier royal et bourgeois (1722) qu'on la trouve pour la première fois, ce qui me fait présumer que ce potage n'est guère connu que depuis le commencement du XVIIIe siècle. On a dit d'abord potage à la julienne, comme le montrent ces exemples : Potage à la Julienne en maigre, Cuisinier roy. et bourg. t. II, p. 163. On fait aussi des potages à la Julienne de poictrine de veau, chapon, poularde, pigeons et autres viandes, ib. t. II, p. 392. Puis on a supprimé potage, ce qui a réduit l'expression à Julienne, qui s'est employé alors sans majuscule : Potage ou julienne de poulets farcis, ib. t. II, p. 123. </form>
 </re>
 </entry>
-<entry xml:id="julienne3">
+<entry xml:id="julienne.3">
 <form>
 <orth>JULIENNE</orth>
 <pron>ju-liè-n'</pron>
@@ -34216,7 +34198,8 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Nom d'un instrument qui servait à faire la monnaie au moulin, avant l'invention du balancier ; les faux monnayeurs s'en servent encore, c'est une espèce de fer à gaufrer qui fait et marque en même temps la pièce. <re type="proverbe"><form>Jamais coup de pied de jument ne fit mal à cheval</form>, c'est-à-dire les hommes prennent en bien et comme des galanteries ce que les femmes peuvent faire contre eux, surtout les coups que les femmes leur donnent. </re></dictScrap>
+<dictScrap>Nom d'un instrument qui servait à faire la monnaie au moulin, avant l'invention du balancier ; les faux monnayeurs s'en servent encore, c'est une espèce de fer à gaufrer qui fait et marque en même temps la pièce. </dictScrap>
+<re type="proverbe"><form>Jamais coup de pied de jument ne fit mal à cheval</form>, c'est-à-dire les hommes prennent en bien et comme des galanteries ce que les femmes peuvent faire contre eux, surtout les coups que les femmes leur donnent. </re>
 </sense>
 <note type="historique">
 <p>
@@ -34491,7 +34474,7 @@
 <sense>
 <dictScrap>Aujourd'hui, il ne se dit plus que dans le style familier.</dictScrap>
 <cit>
-<quote>Sachez qu'hier, la panse ronde Et l'oeil obscurci par Bacchus, Jupin a cru dans notre monde Voir une couronne de plus</quote>
+<quote>Sachez qu'hier, la panse ronde Et l'œil obscurci par Bacchus, Jupin a cru dans notre monde Voir une couronne de plus</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Couronne de bleuets.</biblScope>
@@ -34796,7 +34779,7 @@
 <re>JURATOIRE.  Ajoutez : <cit><quote>Si l'évêque [de Strasbourg] donnait caution juratoire de s'en tenir au jugement du concile [de Constance]....</quote><bibl><author>LENFANT</author><biblScope>Hist. du concile de Constance, p. 348</biblScope></bibl></cit> </re>
 </re>
 </entry>
-<entry xml:id="juré1">
+<entry xml:id="juré.1">
 <form>
 <orth>JURÉ, ÉE</orth>
 <pron>ju-ré, ée</pron>
@@ -34837,7 +34820,7 @@
 </sense>
 </sense>
 </entry>
-<entry xml:id="juré2">
+<entry xml:id="juré.2">
 <form>
 <orth>JURÉ, ÉE</orth>
 <pron>ju-ré, rée</pron>
@@ -34925,7 +34908,7 @@
 <quote>C'est lui [Alfred le Grand] qui fonda les jurés, qui partagea l'Angleterre en shires ou comtés, et qui, le premier, encouragea ses sujets à commercer</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 26</biblScope>
+<biblScope>Mœurs, 26</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -35615,10 +35598,8 @@
 <sense n="14">
 <dictScrap>Se jurer, v. réfl. Être assuré par serment. La paix se jura entre les deux adversaires.</dictScrap>
 </sense>
-<re type="proverbes">
 <re type="proverbe"><form>S'il ne tient qu'à jurer, la vache est à nous</form>, se dit d'un homme sans foi à qui un faux serment ne coûte rien. </re>
 <re type="proverbe"><form>On vous croit sans jurer</form>, se dit à celui qui affirme une chose connue. </re>
-</re>
 <note type="historique">
 <p>
 <label>IXe s.</label>
@@ -35964,7 +35945,7 @@
 <quote>Élisabeth n'avait d'autre juridiction sur elle [Marie Stuart] que celle du puissant sur le faible et sur le malheureux</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 169</biblScope>
+<biblScope>Mœurs, 169</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -36301,7 +36282,7 @@
 <sense n="2">
 <dictScrap>Il se dit aussi de toute espèce de jurement. Lâcher un juron, un gros juron.</dictScrap>
 <cit>
-<quote>C'était [lors de la révolution de juillet] sous des haillons que battaient les coeurs d'hommes, C'étaient alors de sales doigts Qui chargeaient les mousquets et renvoyaient la foudre ; C'était la bouche aux vils jurons Qui mâchait la cartouche....</quote>
+<quote>C'était [lors de la révolution de juillet] sous des haillons que battaient les cœurs d'hommes, C'étaient alors de sales doigts Qui chargeaient les mousquets et renvoyaient la foudre ; C'était la bouche aux vils jurons Qui mâchait la cartouche....</quote>
 <bibl>
 <author>BARBIER</author>
 <biblScope>Curée.</biblScope>
@@ -36496,7 +36477,7 @@
 <sense n="1">
 <dictScrap>Elle marque un certain terme au delà duquel on ne passe pas, qu'on n'excède point ; se construit avec à, dans, sur, etc. Jusqu'à présent. Il est monté jusque sur les toits. Il a de l'eau jusque par-dessus la tête.</dictScrap>
 <cit>
-<quote>Percé, jusques au fond du coeur, D'une atteinte imprévue aussi bien que mortelle</quote>
+<quote>Percé, jusques au fond du cœur, D'une atteinte imprévue aussi bien que mortelle</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Cid, I, 9</biblScope>
@@ -36858,7 +36839,7 @@
 <sense n="7">
 <dictScrap>Jusqu'à, suivi d'un infinitif.</dictScrap>
 <cit>
-<quote>César, car le destin, que dans les fers je brave, Me fait ta prisonnière et non pas ton esclave, Et tu ne prétends pas qu'il m'abatte le coeur Jusqu'à te rendre hommage et te nommer seigneur</quote>
+<quote>César, car le destin, que dans les fers je brave, Me fait ta prisonnière et non pas ton esclave, Et tu ne prétends pas qu'il m'abatte le cœur Jusqu'à te rendre hommage et te nommer seigneur</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Pomp. III, 5</biblScope>
@@ -37028,7 +37009,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Li fil des humes [fils des hommes], desque à quant serez vus de grief cuer [coeur] ?</quote>
+<quote>Li fil des humes [fils des hommes], desque à quant serez vus de grief cuer [cœur] ?</quote>
 <bibl>
 <biblScope>Psautier, dans Arch. des missions scientif. t. V, p. 145</biblScope>
 </bibl>
@@ -37145,7 +37126,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il me mena voir la roine sa soeur, où je demeuray jusques bien tart</quote>
+<quote>Il me mena voir la roine sa sœur, où je demeuray jusques bien tart</quote>
 <bibl>
 <author>MARG.</author>
 <biblScope>Lett. 33</biblScope>
@@ -37266,7 +37247,7 @@
 <quote>C'est par cet esprit que ce même parlement a résisté si longtemps à la réforme du calendrier, qu'il a défendu d'enseigner d'autre doctrine que celle d'Aristote, qu'il a proscrit l'émétique, qu'il a fallu plusieurs lettres de jussion pour lui faire enregistrer les lettres de pairie d'un Montmorency</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 121</biblScope>
+<biblScope>Mœurs, 121</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -37330,7 +37311,7 @@
 </sense>
 <etym>Juste, au, corps.</etym>
 </entry>
-<entry xml:id="juste1">
+<entry xml:id="juste.1">
 <form>
 <orth>JUSTE</orth>
 <pron>ju-st'</pron>
@@ -37388,7 +37369,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Un sentiment plus juste occupait tout mon coeur</quote>
+<quote>Un sentiment plus juste occupait tout mon cœur</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Zaïre, III, 6</biblScope>
@@ -37540,7 +37521,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ainsi les faux justes : ils font de bonnes oeuvres et de méchantes pour plaire au monde, et montrer qu'ils ne sont pas tout à fait à Jésus-Christ</quote>
+<quote>Ainsi les faux justes : ils font de bonnes œuvres et de méchantes pour plaire au monde, et montrer qu'ils ne sont pas tout à fait à Jésus-Christ</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>ib. XXV, 209</biblScope>
@@ -37781,7 +37762,7 @@
 </cit>
 </sense>
 <sense n="10">
-<dictScrap>Qui apprécie bien les choses matérielles. Avoir le coup d'oeil juste.</dictScrap>
+<dictScrap>Qui apprécie bien les choses matérielles. Avoir le coup d'œil juste.</dictScrap>
 <cit>
 <quote>J'ai demandé à ce gentilhomme si vous n'étiez point bien fatiguée ; il m'a dit que vous étiez très belle ; mais vous savez que mes yeux pour vous sont plus justes que ceux des autres ; je pourrais bien vous trouver abattue et fatiguée au travers de leurs approbations</quote>
 <bibl>
@@ -37936,7 +37917,7 @@
 <sense>
 <dictScrap>En donnant précisément au point où l'on vise.</dictScrap>
 <cit>
-<quote>Prexaspe dit à Cambyse, assassin de son fils dont il vient de percer le coeur d'une flèche : Apollon lui-même n'aurait pas tiré plus juste</quote>
+<quote>Prexaspe dit à Cambyse, assassin de son fils dont il vient de percer le cœur d'une flèche : Apollon lui-même n'aurait pas tiré plus juste</quote>
 <bibl>
 <author>DIDER.</author>
 <biblScope>Claude et Nér. II, 48</biblScope>
@@ -37947,7 +37928,7 @@
 <sense n="15">
 <dictScrap>Fig. Juste, avec justesse, avec à-propos.</dictScrap>
 <cit>
-<quote>Un soupir poussé juste en suite d'une excuse Perce un coeur bien avant quand lui-même il s'accuse</quote>
+<quote>Un soupir poussé juste en suite d'une excuse Perce un cœur bien avant quand lui-même il s'accuse</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Toison d'or, II, 1</biblScope>
@@ -38149,7 +38130,7 @@
 <form>). Ce dernier rapprochement dégage comme de juste de tout reproche. </form>
 </re>
 </entry>
-<entry xml:id="juste2">
+<entry xml:id="juste.2">
 <form>
 <orth>JUSTE</orth>
 <pron>ju-st'</pron>
@@ -38241,7 +38222,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Cet odieux Romain que votre coeur abhorre, Si justement haï, si coupable envers vous</quote>
+<quote>Cet odieux Romain que votre cœur abhorre, Si justement haï, si coupable envers vous</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Brut. III, 5</biblScope>
@@ -38251,7 +38232,7 @@
 <sense n="3">
 <dictScrap>Précisément, à point nommé.</dictScrap>
 <cit>
-<quote>L'Auvergne est justement ce qu'il faut à ma soeur</quote>
+<quote>L'Auvergne est justement ce qu'il faut à ma sœur</quote>
 <bibl>
 <author>HAUTEROCHE</author>
 <biblScope>Bourg. de qualité, III, 1</biblScope>
@@ -38438,10 +38419,10 @@
 </bibl>
 </cit>
 <cit>
-<quote>La justesse de l'esprit dépend de la droiture du coeur et du calme des passions</quote>
+<quote>La justesse de l'esprit dépend de la droiture du cœur et du calme des passions</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Consid. moeurs, ch. 14</biblScope>
+<biblScope>Consid. mœurs, ch. 14</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -38459,7 +38440,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je sais qu'elle [la duchesse de Choiseul] a, outre les grâces, justesse dans l'esprit et justice dans le coeur</quote>
+<quote>Je sais qu'elle [la duchesse de Choiseul] a, outre les grâces, justesse dans l'esprit et justice dans le cœur</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Mme du Deffant, 13 juill. 1768</biblScope>
@@ -38484,7 +38465,7 @@
 </cit>
 </sense>
 <sense n="6">
-<dictScrap>Qualité qui fait apprécier les sons, les distances, etc. d'une manière exacte. Justesse du coup d'oeil.</dictScrap>
+<dictScrap>Qualité qui fait apprécier les sons, les distances, etc. d'une manière exacte. Justesse du coup d'œil.</dictScrap>
 <cit>
 <quote>On ne se douterait pas qu'un chant aussi varié que celui du rossignol est renfermé dans les bornes étroites d'une seule octave ; c'est cependant ce qui résulte d'une observation attentive d'un homme de goût, qui joint la justesse de l'oreille aux lumières de l'esprit</quote>
 <bibl>
@@ -38665,7 +38646,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Dans le style de l'Écriture, observation exacte des devoirs de la religion. Marcher dans les voies de la justice. Des oeuvres de justice et de charité.</dictScrap>
+<dictScrap>Dans le style de l'Écriture, observation exacte des devoirs de la religion. Marcher dans les voies de la justice. Des œuvres de justice et de charité.</dictScrap>
 <cit>
 <quote>La charité ne détruit pas ce que la justice édifie</quote>
 <bibl>
@@ -38852,7 +38833,7 @@
 <sense>
 <dictScrap>Fig. Faire justice de quelqu'un, punir, châtier, traiter quelqu'un comme il le mérite.</dictScrap>
 <cit>
-<quote>Apprenez donc mon crime, et voyez s'il faut faire Justice d'un coupable, ou grâce aux voeux d'un frère</quote>
+<quote>Apprenez donc mon crime, et voyez s'il faut faire Justice d'un coupable, ou grâce aux vœux d'un frère</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Tite et Bérén. II, 2</biblScope>
@@ -39002,7 +38983,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Phèdre au fond de son coeur me rend plus de justice</quote>
+<quote>Phèdre au fond de son cœur me rend plus de justice</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Phèdre, IV, 2</biblScope>
@@ -39016,7 +38997,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il est vrai que je lui présente [à Stanislas] l'histoire de son ennemi [le czar Pierre] ; mais celui qui embellit Nancy rend justice à celui qui a bâti Pétersbourg, et le coeur de Stanislas n'a point d'ennemi</quote>
+<quote>Il est vrai que je lui présente [à Stanislas] l'histoire de son ennemi [le czar Pierre] ; mais celui qui embellit Nancy rend justice à celui qui a bâti Pétersbourg, et le cœur de Stanislas n'a point d'ennemi</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Tressan, 23 sept. 1760</biblScope>
@@ -39175,7 +39156,7 @@
 <sense>
 <dictScrap>En bonne justice, selon ce qui est de droit.</dictScrap>
 <cit>
-<quote>En bonne justice ne devrait-on pas suivre les sentiments de son coeur ?</quote>
+<quote>En bonne justice ne devrait-on pas suivre les sentiments de son cœur ?</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>219</biblScope>
@@ -39730,7 +39711,7 @@
 </cit>
 </sense>
 </entry>
-<entry xml:id="justicier1">
+<entry xml:id="justicier.1">
 <form><orth>JUSTICIER</orth><pron>ju-sti-si-é</pron>, je justiciais, nous justiciions, vous justiciiez ; que je justicie, que nous justiciions, que vous justiciiez), v. a. </form>
 <sense>
 <dictScrap>Punir quel qu'un d'une peine corporelle, en exécution de sentence ou d'arrêt. On fit justicier ces voleurs.</dictScrap>
@@ -39826,7 +39807,7 @@
 </note>
 <etym>Justice ; provenç. justiziar ; portug. justiçar ; ital. giustiziare.</etym>
 </entry>
-<entry xml:id="justicier2">
+<entry xml:id="justicier.2">
 <form>
 <orth>JUSTICIER</orth>
 <pron>ju-sti-sié ; l'r ne se lie jamais ; au pluriel, l's se lie : des ju-sti-sié-z inflexibles</pron>
@@ -39868,7 +39849,7 @@
 <quote>Ferdinand le Catholique n'avait pu en Aragon détruire l'autorité du justicier, qui se croyait en droit de juger les rois</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 131</biblScope>
+<biblScope>Mœurs, 131</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -40068,7 +40049,7 @@
 <quote>Une justification si évidente ne fut point reçue du cardinal, son ennemi personnel</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 176</biblScope>
+<biblScope>Mœurs, 176</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -40095,7 +40076,7 @@
 <sense n="4">
 <dictScrap>Terme d'imprimerie. La longueur des lignes.</dictScrap>
 <cit>
-<quote>Si mon oeil se porte au delà de la justification du livre et tombe sur la marge</quote>
+<quote>Si mon œil se porte au delà de la justification du livre et tombe sur la marge</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Suppl. à l'hist. natur. Oeuv. t. XI, p. 168, dans POUGENS.</biblScope>
@@ -40281,7 +40262,7 @@
 <quote>Si quelque chose pouvait justifier la cruauté avec laquelle les Anglais traitèrent leur roi</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 176</biblScope>
+<biblScope>Mœurs, 176</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -40314,7 +40295,7 @@
 <sense>
 <dictScrap>Se justifier quelque chose, mettre cette chose hors d'inculpation devant sa propre conscience.</dictScrap>
 <cit>
-<quote>Le coeur se justifie bientôt ce qui le captive</quote>
+<quote>Le cœur se justifie bientôt ce qui le captive</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Tiéd. 2</biblScope>

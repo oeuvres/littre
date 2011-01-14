@@ -11,10 +11,11 @@
 <publisher>http://javacrim.sourceforge.net/</publisher>
 <availability status="restricted">
 <p> Licence Creative Commons : <ref target="http://creativecommons.org/licenses/by-sa/2.0/fr/">Paternité – Partage des Conditions Initiales à l'Identique – 2.0 France</ref></p>
-<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.               </p>
+<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.</p>
 </availability>
 </publicationStmt>
 <sourceDesc>
+<bibl><ref target="http://francois.gannaz.free.fr/Littre/">XMLittré v1.3</ref></bibl>
 <bibl>Littré, Dictionnaire de la Langue Française</bibl>
 </sourceDesc>
 </fileDesc>
@@ -306,7 +307,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Dieu coupe jusqu'au vif pour guérir l'ulcère de notre coeur</quote>
+<quote>Dieu coupe jusqu'au vif pour guérir l'ulcère de notre cœur</quote>
 <bibl>
 <author>FÉN.</author>
 <biblScope>t. XVIII, p. 433</biblScope>
@@ -401,7 +402,7 @@
 <sense n="2">
 <dictScrap>Fig. En proie à une souffrance morale.</dictScrap>
 <cit>
-<quote>Nous nous plaignons.... que le coeur est trop ulcéré pour sentir autre chose que ses propres malheurs</quote>
+<quote>Nous nous plaignons.... que le cœur est trop ulcéré pour sentir autre chose que ses propres malheurs</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Avent, Afflict.</biblScope>
@@ -411,7 +412,7 @@
 <sense n="3">
 <dictScrap>Animé d'un ressentiment comparé à un ulcère.</dictScrap>
 <cit>
-<quote>Crains des coeurs ulcérés.... Idolâtres de Rome et cruels par devoir</quote>
+<quote>Crains des cœurs ulcérés.... Idolâtres de Rome et cruels par devoir</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Mort de Cés. I, 4</biblScope>
@@ -450,9 +451,9 @@
 <dictScrap>Produire, causer un ulcère. Éruptions qui ulcèrent la peau.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Fig. Faire naître dans le coeur de quelqu'un un ressentiment profond et durable.</dictScrap>
+<dictScrap>Fig. Faire naître dans le cœur de quelqu'un un ressentiment profond et durable.</dictScrap>
 <cit>
-<quote>Les querelles de la religion achevaient d'ulcérer tous les coeurs</quote>
+<quote>Les querelles de la religion achevaient d'ulcérer tous les cœurs</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Hist. parl. 57</biblScope>
@@ -490,7 +491,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ces louanges demesurées ulceroient le coeur du vieillard soupçonneux</quote>
+<quote>Ces louanges demesurées ulceroient le cœur du vieillard soupçonneux</quote>
 <bibl>
 <author>D'AUB.</author>
 <biblScope>Hist. I, 32</biblScope>
@@ -808,7 +809,7 @@
 <p>1. Ultérieur n'admet aucun degré de comparaison. </p>
 <p>2. Autrefois on faisait toujours en vers ultérieur de quatre syllabes ; maintenant on le fait ordinairement de trois. </p>
 </note>
-<etym>Lat. ulteriorem, comparatif de ultra, au delà (voy. <ref target="outre2">OUTRE 2</ref>).</etym>
+<etym>Lat. ulteriorem, comparatif de ultra, au delà (voy. <ref target="outre.2">OUTRE 2</ref>).</etym>
 </entry>
 <entry xml:id="ultérieurement">
 <form>
@@ -875,7 +876,7 @@
 </cit>
 </p>
 </note>
-<etym>Prov. ultim ; esp. etital. ultimo ; du lat. ultimus, superlatif de ulter ou ultra (voy. <ref target="outre2">OUTRE 2</ref>).</etym>
+<etym>Prov. ultim ; esp. etital. ultimo ; du lat. ultimus, superlatif de ulter ou ultra (voy. <ref target="outre.2">OUTRE 2</ref>).</etym>
 </entry>
 <entry xml:id="ultimo">
 <form>
@@ -938,7 +939,7 @@
 <sense n="4">
 <dictScrap>Nec-plus-ultra, voy. <ref target="non-plus-ultra">NON-PLUS-ULTRA</ref>.</dictScrap>
 </sense>
-<etym>Lat. ultra, au delà (voy. <ref target="outre2">OUTRE 2</ref>).</etym>
+<etym>Lat. ultra, au delà (voy. <ref target="outre.2">OUTRE 2</ref>).</etym>
 </entry>
 <entry xml:id="ultra-cavalier">
 <form>
@@ -1093,7 +1094,7 @@
 <quote>Le peuple romain haïssait beaucoup plus les ultramontains que les papes</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 71</biblScope>
+<biblScope>Mœurs, 71</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -1372,7 +1373,7 @@
 <dictScrap>On dit plus souvent : ombre, ombre-chevalier.</dictScrap>
 </sense>
 </sense>
-<etym>Voy. <ref target="ombre4">OMBRE 4</ref>.</etym>
+<etym>Voy. <ref target="ombre.4">OMBRE 4</ref>.</etym>
 </entry>
 <entry xml:id="umbo">
 <form>
@@ -1426,7 +1427,7 @@
 <sense n="1">
 <dictScrap>Adj. numéral. Le premier de tous les nombres. Un, deux, trois. Une, deux, trois. Un et un font deux. Un entre mille. Une entre mille. Il n'en est resté qu'un.</dictScrap>
 <cit>
-<quote>Mais, en faisant refus de répondre à nos voeux, Au lieu d'une [nymphe], Myrtil, vous en outragez deux</quote>
+<quote>Mais, en faisant refus de répondre à nos vœux, Au lieu d'une [nymphe], Myrtil, vous en outragez deux</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Mélic. I, 5</biblScope>
@@ -1561,7 +1562,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Vous ne faites qu'un coeur et qu'une âme avec nous</quote>
+<quote>Vous ne faites qu'un cœur et qu'une âme avec nous</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Bérén. III, 1</biblScope>
@@ -1582,7 +1583,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Vos parcs sont séparés, et vos coeurs ne sont qu'un</quote>
+<quote>Vos parcs sont séparés, et vos cœurs ne sont qu'un</quote>
 <bibl>
 <author>DELILLE</author>
 <biblScope>Jard. I</biblScope>
@@ -1642,9 +1643,7 @@
 <sense>
 <dictScrap>C'est tout un, il n'importe, cela est égal. Qu'il m'approuve ou me blâme, ce m'est tout un.</dictScrap>
 </sense>
-<dictScrap>
 <re type="proverbe"> C'est bien tout un, mais ce n'est pas de même. </re>
-</dictScrap>
 </sense>
 <sense n="6">
 <dictScrap>Un de, une de..., l'un de, l'une de..., quelqu'un, quelqu'une parmi.</dictScrap>
@@ -2337,9 +2336,7 @@
 <biblScope>dans GIRAULT-DUVIVIER</biblScope>
 </bibl>
 </cit>
-<dictScrap>
 <re type="proverbe"> Qui sert en commun ne sert à pas un, chaque particulier ne prend guère d'intérêt au bien public. </re>
-</dictScrap>
 </sense>
 <sense n="20">
 <dictScrap>Plus d'un, terme collectif partitif, qui signifie proprement : une plus grande quantité que un (plus d'un est pour plus qu'un, voy. <ref target="de#var24">DE, n° 24</ref>).</dictScrap>
@@ -2563,7 +2560,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Voirs est [il est vrai] c'amours est grans douçours, Quant doi cuer [deux coeurs] sont un sans partir</quote>
+<quote>Voirs est [il est vrai] c'amours est grans douçours, Quant doi cuer [deux cœurs] sont un sans partir</quote>
 <bibl>
 <author>CRESTIEN DE TROIES</author>
 <biblScope>dans HOLLAND, p. 233</biblScope>
@@ -2972,7 +2969,7 @@
 </note>
 <etym>Génev. quel jour sommes-nous ? nous sommes le un ; Berry, ieun, ieune ; picard, ein ; bourg. ein, eun, et, devant une voyelle, ène ; wallon, on, et onk quand aucun mot ne suit ; provenç. uns, us, un, u, una ; espagn. un, uno ; port. um ; ital. uno ; du lat. unus ; anc. lat. oinus ; ombrien, enom ; allem. ein ; goth. ains ; angl. one ; sanscr, enas.</etym>
 <re type="supplement">
-<re>UN. - REM. Ajoutez : 16° Lamartine a dit l'une après l'une au lieu de l'une après l'autre : Deux vagues que blanchit le rayon de la lune, D'un mouvement moins doux viennent l'une après l'une, Nouv. Médit. XXIV. Barthélemy, dans sa Lettre à Lamartine (Némésis, 1831), n'a pas passé ce néologisme au poëte, quand il a dit : Suivant de l'oeil, baigné par les flux de la lune, Les vagues à ses pieds mourant l'une après l'une, Et les aigles dans les cieux gris (note de M. Ch. Berthoud). </re>
+<re>UN. - REM. Ajoutez : 16° Lamartine a dit l'une après l'une au lieu de l'une après l'autre : Deux vagues que blanchit le rayon de la lune, D'un mouvement moins doux viennent l'une après l'une, Nouv. Médit. XXIV. Barthélemy, dans sa Lettre à Lamartine (Némésis, 1831), n'a pas passé ce néologisme au poëte, quand il a dit : Suivant de l'œil, baigné par les flux de la lune, Les vagues à ses pieds mourant l'une après l'une, Et les aigles dans les cieux gris (note de M. Ch. Berthoud). </re>
 </re>
 </entry>
 <entry xml:id="una">
@@ -3039,7 +3036,7 @@
 </cit>
 </p>
 </note>
-<etym>Lat. unanimus, de unus, un, et animus, âme, coeur.</etym>
+<etym>Lat. unanimus, de unus, un, et animus, âme, cœur.</etym>
 </entry>
 <entry xml:id="unanimement">
 <form>
@@ -3373,7 +3370,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>[L'amour conjugal] lien sacré de deux coeurs unis</quote>
+<quote>[L'amour conjugal] lien sacré de deux cœurs unis</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>4e avert. 2</biblScope>
@@ -3425,7 +3422,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Toile unie, toile sans noeuds, sans aspérités, également serrée partout.</dictScrap>
+<dictScrap>Toile unie, toile sans nœuds, sans aspérités, également serrée partout.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fil uni, fil qui est filé également.</dictScrap>
@@ -4909,7 +4906,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Adieu, ma chère enfant, l'unique passion de mon coeur, le plaisir et la douleur de ma vie</quote>
+<quote>Adieu, ma chère enfant, l'unique passion de mon cœur, le plaisir et la douleur de ma vie</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>15</biblScope>
@@ -5030,7 +5027,7 @@
 <sense n="5">
 <dictScrap>S. m. Unique dauphin, variété de tulipe.</dictScrap>
 <sense>
-<dictScrap>Unique impérial, unique triomphant, variété d'oeillet.</dictScrap>
+<dictScrap>Unique impérial, unique triomphant, variété d'œillet.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
@@ -5107,7 +5104,7 @@
 <sense n="2">
 <dictScrap>D'une façon unique, au-dessus de tout, préférablement à tout. Il l'aime uniquement.</dictScrap>
 <cit>
-<quote>Nous causons sans cesse de vous ; c'est un sujet qui nous mène bien loin, et qui nous tient uniquement au coeur</quote>
+<quote>Nous causons sans cesse de vous ; c'est un sujet qui nous mène bien loin, et qui nous tient uniquement au cœur</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>à Mme de Grignan, 5 juin 1675</biblScope>
@@ -5277,7 +5274,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>J'ai une tendresse de coeur pour ceux que Dieu m'a unis plus étroitement</quote>
+<quote>J'ai une tendresse de cœur pour ceux que Dieu m'a unis plus étroitement</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Profess. de foi, édit. FAUGÉRE.</biblScope>
@@ -5291,7 +5288,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Jamais soeurs ne furent unies par des liens ni si doux ni si puissants</quote>
+<quote>Jamais sœurs ne furent unies par des liens ni si doux ni si puissants</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Anne de Gonz.</biblScope>
@@ -5510,7 +5507,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Numa n'eut point l'oeil à unir et applanir toute inegalité</quote>
+<quote>Numa n'eut point l'œil à unir et applanir toute inegalité</quote>
 <bibl>
 <author>AMYOT</author>
 <biblScope>Lyc. et Numa comp. 5</biblScope>
@@ -5524,7 +5521,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>De là sur cette union il montre l'impossibilité de des-unir cette province, de lui faire, estant unie, accepter par force la division qu'ils ont à contre coeur</quote>
+<quote>De là sur cette union il montre l'impossibilité de des-unir cette province, de lui faire, estant unie, accepter par force la division qu'ils ont à contre cœur</quote>
 <bibl>
 <author>D'AUB.</author>
 <biblScope>ib. II, 261</biblScope>
@@ -5629,9 +5626,9 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Celui qui unit, produit l'union des coeurs.</dictScrap>
+<dictScrap>Celui qui unit, produit l'union des cœurs.</dictScrap>
 <cit>
-<quote>J'ai une lumière particulière qui me fait voir que l'unité de notre coeur [de son coeur et de celui de sainte Chantal] est un ouvrage de ce grand unisseur [Dieu]</quote>
+<quote>J'ai une lumière particulière qui me fait voir que l'unité de notre cœur [de son cœur et de celui de sainte Chantal] est un ouvrage de ce grand unisseur [Dieu]</quote>
 <bibl>
 <author>ST FRANÇOIS DE SALES</author>
 <biblScope>dans Hist. de sainte Chantal, éd. Paris, 1870, t. I, p. 369</biblScope>
@@ -5676,7 +5673,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Les fréquentes interruptions du choeur [dans la 1re scène de Il Trovatore] sont presque toutes à l'unisson, procédé commode que M. Verdi emploie constamment dans tous ses ouvrages</quote>
+<quote>Les fréquentes interruptions du chœur [dans la 1re scène de Il Trovatore] sont presque toutes à l'unisson, procédé commode que M. Verdi emploie constamment dans tous ses ouvrages</quote>
 <bibl>
 <author>SCUDO</author>
 <biblScope>Crit. et litt. music. 3e édit. t. I, p. 295</biblScope>
@@ -5706,7 +5703,7 @@
 <sense n="4">
 <dictScrap>Fig. Sorte de conformité intellectuelle, morale.</dictScrap>
 <cit>
-<quote>Nul ne sait de l'amour mieux le diapason, Ni mettre, comme moi, deux coeurs à l'unisson</quote>
+<quote>Nul ne sait de l'amour mieux le diapason, Ni mettre, comme moi, deux cœurs à l'unisson</quote>
 <bibl>
 <author>REGNARD</author>
 <biblScope>le Bal, 10</biblScope>
@@ -5720,7 +5717,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Et pleinement remis à l'unisson Avec nos soeurs pour l'air et pour le ton, Il redevint plus dévot qu'un chanoine</quote>
+<quote>Et pleinement remis à l'unisson Avec nos sœurs pour l'air et pour le ton, Il redevint plus dévot qu'un chanoine</quote>
 <bibl>
 <author>GRESS.</author>
 <biblScope>Ver-vert, IV</biblScope>
@@ -6014,7 +6011,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>L'unité de moeurs consiste dans l'égalité du caractère, ou plutôt dans son accord avec lui-même</quote>
+<quote>L'unité de mœurs consiste dans l'égalité du caractère, ou plutôt dans son accord avec lui-même</quote>
 <bibl>
 <author>MARMONTEL</author>
 <biblScope>Oeuv. t. x, p. 382</biblScope>
@@ -6160,7 +6157,7 @@
 <sense n="1">
 <dictScrap>Terme didactique. Qui sert à unir.</dictScrap>
 <sense>
-<dictScrap>Terme d'anatomie. Fibres unitives du coeur, celles qui unissent les faisceaux musculaires ayant une direction donnée avec ceux qui ont une direction contraire.</dictScrap>
+<dictScrap>Terme d'anatomie. Fibres unitives du cœur, celles qui unissent les faisceaux musculaires ayant une direction donnée avec ceux qui ont une direction contraire.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -6324,7 +6321,7 @@
 <quote>Colombo, frappé des entreprises des Portugais, conçut qu'on pouvait faire quelque chose de plus grand, et, par la seule inspection d'une carte de notre univers, jugea qu'il devait y en avoir un autre</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 145</biblScope>
+<biblScope>Mœurs, 145</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -7222,7 +7219,7 @@
 <sense n="4">
 <dictScrap>En général, les universités, les écoles.</dictScrap>
 <cit>
-<quote>Ô le beau compliment à charmer une dame, De lui dire d'abord : j'apporte à vos bontés Un coeur nouveau venu des universités !</quote>
+<quote>Ô le beau compliment à charmer une dame, De lui dire d'abord : j'apporte à vos bontés Un cœur nouveau venu des universités !</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>le Ment. I, 6</biblScope>
@@ -7453,7 +7450,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'antiquité. Figure d'un petit serpent que les anciens Egyptiens considéraient comme un des symboles de la royauté ; disposé en noeud à sa partie inférieure, le col dressé, il est placé sur le devant du pschent des pharaons.</dictScrap>
+<dictScrap>Terme d'antiquité. Figure d'un petit serpent que les anciens Egyptiens considéraient comme un des symboles de la royauté ; disposé en nœud à sa partie inférieure, le col dressé, il est placé sur le devant du pschent des pharaons.</dictScrap>
 </sense>
 <etym>Egypt. ara, nom de ce serpent ; les Grecs, par un jeu de mot, le rattachèrent à la traduction du grec, queue.</etym>
 </entry>
@@ -8030,7 +8027,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Je tuay grand nombre de ures, boeufs, beuffles, sangliers, cerfz</quote>
+<quote>Je tuay grand nombre de ures, bœufs, beuffles, sangliers, cerfz</quote>
 <bibl>
 <biblScope>Alector, roman, p. 60, dans LACURNE</biblScope>
 </bibl>
@@ -8539,7 +8536,7 @@
 <dictScrap>Sorte de réservoir qu'on adapte à la verge dans le cas d'incontinence d'urine, pour recevoir ce liquide à mesure qu'il s'écoule.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme d'alchimie. Urinal des philosophes, fourneau philosophal dans lequel se cuit et digère la matière de la pierre des sages, ou l'oeuf hermétique.</dictScrap>
+<dictScrap>Terme d'alchimie. Urinal des philosophes, fourneau philosophal dans lequel se cuit et digère la matière de la pierre des sages, ou l'œuf hermétique.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -8858,7 +8855,7 @@
 <sense>
 <dictScrap>Urne se dit aussi chez les modernes, par figure, bien qu'on n'enferme plus les restes des morts dans des urnes.</dictScrap>
 <cit>
-<quote>Si de ton nom pourtant tu veux l'entretenir [le coeur qui t'aime], Grave ces simples mots sur ton urne à venir</quote>
+<quote>Si de ton nom pourtant tu veux l'entretenir [le cœur qui t'aime], Grave ces simples mots sur ton urne à venir</quote>
 <bibl>
 <author>LAMART.</author>
 <biblScope>Harm. II, 12</biblScope>
@@ -9526,7 +9523,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Son péché renfermait plusieurs désordres ; premièrement un injuste usage de son coeur, qui n'avait jamais été occupé que des créatures</quote>
+<quote>Son péché renfermait plusieurs désordres ; premièrement un injuste usage de son cœur, qui n'avait jamais été occupé que des créatures</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Carême, Pécheresse.</biblScope>
@@ -9936,7 +9933,7 @@
 <quote>Les proscriptions étaient les armes à son usage [de Philippe II, d'Espagne]</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 165</biblScope>
+<biblScope>Mœurs, 165</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -10047,7 +10044,8 @@
 </sense>
 </sense>
 <sense n="12">
-<dictScrap>Au plur. Ancien terme de librairie. Livres pour le service divin, tels que bréviaires, rituels, etc. <re type="proverbe"> Usage rend maître, on devient maître, habile, en pratiquant beaucoup une chose. </re></dictScrap>
+<dictScrap>Au plur. Ancien terme de librairie. Livres pour le service divin, tels que bréviaires, rituels, etc. </dictScrap>
+<re type="proverbe"> Usage rend maître, on devient maître, habile, en pratiquant beaucoup une chose. </re>
 </sense>
 <note type="remarque">Au mot monté, l'Académie, au lieu de dire : il est dans l'usage de faire, dit : en usage de faire. Pautex blâme cette locution, à tort. Disant être dans l'usage de faire, il n'y a aucune raison pour ne pas dire être en usage de faire. </note>
 <re type="nuance">USAGE, COUTUME. Suivant l'étymologie propre à chacun de ces mots, usage exprime la manière d'user, de se servir des choses de la vie ; et coutume, les habitudes que l'on a de faire telle ou telle chose. Mais on dit indistinctement : c'est la coutume, ou c'est l'usage. </re>
@@ -10440,7 +10438,7 @@
 <sense n="4">
 <dictScrap>Fig. Il se dit des gens, des sentiments, qui, par excès, par abus, se sont éteints.</dictScrap>
 <cit>
-<quote>Qu'eût fait sainte Thérèse, si elle n'eût plus eu à donner à Dieu qu'un coeur usé et des restes d'une vie scandaleuse ?</quote>
+<quote>Qu'eût fait sainte Thérèse, si elle n'eût plus eu à donner à Dieu qu'un cœur usé et des restes d'une vie scandaleuse ?</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Panég. Ste Thérèse.</biblScope>
@@ -11150,7 +11148,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Usons les uns des autres librement ; Et que chascun sur ce boire excellent Lave son coeur de toute hypocrizie</quote>
+<quote>Usons les uns des autres librement ; Et que chascun sur ce boire excellent Lave son cœur de toute hypocrizie</quote>
 <bibl>
 <author>BASSELIN</author>
 <biblScope>XL.</biblScope>
@@ -11252,7 +11250,7 @@
 </cit>
 </p>
 </note>
-<etym>Provenç et espagn. usar ; ital. usare ; verbe dérivé du latin usus, usage (voy. <ref target="us1">US 1</ref>).</etym>
+<etym>Provenç et espagn. usar ; ital. usare ; verbe dérivé du latin usus, usage (voy. <ref target="us.1">US 1</ref>).</etym>
 </entry>
 <entry xml:id="useur">
 <form>
@@ -11371,7 +11369,7 @@
 </cit>
 </p>
 </note>
-<etym>Dérivé du lat. usus, comme ustrina, est dérivé de ustum (voy. <ref target="us1">US 1</ref>)</etym>
+<etym>Dérivé du lat. usus, comme ustrina, est dérivé de ustum (voy. <ref target="us.1">US 1</ref>)</etym>
 </entry>
 <entry xml:id="usiner">
 <form>
@@ -11719,7 +11717,7 @@
 <sense>
 <dictScrap>En droit romain, manière d'acquérir par la possession, par l'usage.</dictScrap>
 </sense>
-<etym>Lat. usucapionem, de usus, usage (voy. <ref target="us1">US 1</ref>), et capere, prendre.</etym>
+<etym>Lat. usucapionem, de usus, usage (voy. <ref target="us.1">US 1</ref>), et capere, prendre.</etym>
 </entry>
 <entry xml:id="usuel">
 <form>
@@ -11754,7 +11752,7 @@
 <dictScrap>Les arts usuels, les métiers qui fournissent aux besoins communs, Règlem. de l'expos. univ. de 1867.</dictScrap>
 </sense>
 </sense>
-<etym>Provenç. et espagn. usual ; ital. usuale du lat. usualis, de usus, usage (voy. <ref target="us1">US 1</ref>).</etym>
+<etym>Provenç. et espagn. usual ; ital. usuale du lat. usualis, de usus, usage (voy. <ref target="us.1">US 1</ref>).</etym>
 </entry>
 <entry xml:id="usuellement">
 <form>
@@ -11817,7 +11815,7 @@
 <quote>Cet Innocent III, pour avoir le suffrage de l'empereur, lui cède, à lui et à ses enfants, l'usufruit de tous les domaines de la comtesse Mathilde, par un acte daté du 13 juin 1133</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 47</biblScope>
+<biblScope>Mœurs, 47</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12086,7 +12084,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La petite Église de Calvin qui fait consister la vertu dans l'usure et dans l'austérité des moeurs</quote>
+<quote>La petite Église de Calvin qui fait consister la vertu dans l'usure et dans l'austérité des mœurs</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. d'Argence, 20 janv. 1761</biblScope>
@@ -12282,15 +12280,13 @@
 <sense n="3">
 <dictScrap>Adj.</dictScrap>
 <cit>
-<quote>Une libéralité usurière, qui donne un oeuf pour avoir un boeuf</quote>
+<quote>Une libéralité usurière, qui donne un œuf pour avoir un bœuf</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Ém. II</biblScope>
 </bibl>
 </cit>
-<dictScrap>
 <re type="proverbe"><form>Il n'est pas usurier qui veut</form>. </re>
-</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -12376,7 +12372,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Va, du lit de ma soeur l'usurpatrice infâme [Frédégonde]....</quote>
+<quote>Va, du lit de ma sœur l'usurpatrice infâme [Frédégonde]....</quote>
 <bibl>
 <author>LEMERC.</author>
 <biblScope>Frédég. et Brunehaut, I, 2</biblScope>
@@ -12395,7 +12391,7 @@
 <quote>Le commencement du XVIIe siècle était le temps des usurpateurs, presque d'un bout du monde à l'autre</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 191</biblScope>
+<biblScope>Mœurs, 191</biblScope>
 </bibl>
 </cit>
 <dictScrap>... ma chère patrie Par une usurpatrice indignement flétrie [Élisabeth], P. LEBRUN, Marie St. II, 2.</dictScrap>
@@ -12590,7 +12586,7 @@
 <quote>Le père de Charlemagne usurpa les Gaules sur les rois francs ; les gouverneurs sous la race de Charlemagne usurpèrent tout ce qu'ils purent</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Moeurs, 33</biblScope>
+<biblScope>Mœurs, 33</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12726,7 +12722,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Gare l'ut, criaient, dit-on, dans la première moitié du XVIIIe siècle, Rebel et Francoeur, les petits violons de l'Opéra, aux violonistes qu'ils dirigeaient, dans les rares moments où ces derniers étaient obligés de démancher.</dictScrap>
+<dictScrap>Gare l'ut, criaient, dit-on, dans la première moitié du XVIIIe siècle, Rebel et Francœur, les petits violons de l'Opéra, aux violonistes qu'ils dirigeaient, dans les rares moments où ces derniers étaient obligés de démancher.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Ut de poitrine, note sur-aiguë qu'ont possédée certains ténors de notre siècle, Lavigne, Duprez, Tamberlick, et qui a contribué à augmenter la célébrité de ces chanteurs.</dictScrap>
@@ -12773,7 +12769,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Il se dit des frères et des soeurs nés de la même mère, sans avoir le même père.</dictScrap>
+<dictScrap>Il se dit des frères et des sœurs nés de la même mère, sans avoir le même père.</dictScrap>
 <cit>
 <quote>Les parents utérins ou consanguins ne sont pas exclus par les germains</quote>
 <bibl>
@@ -12781,7 +12777,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Solon avait laissé au frère la liberté d'épouser sa soeur utérine</quote>
+<quote>Solon avait laissé au frère la liberté d'épouser sa sœur utérine</quote>
 <bibl>
 <author>CHATEAUBR.</author>
 <biblScope>Génie, I, I, 10</biblScope>
@@ -13620,7 +13616,7 @@
 <sense>
 <dictScrap>Ovaire en grappe.</dictScrap>
 <cit>
-<quote>La femelle [des poissons à ouïe] contient des uves, qui sont des amas d'oeufs renfermés sous une enveloppe commune, et qu'elle laisse tomber au temps du frai</quote>
+<quote>La femelle [des poissons à ouïe] contient des uves, qui sont des amas d'œufs renfermés sous une enveloppe commune, et qu'elle laisse tomber au temps du frai</quote>
 <bibl>
 <author>BONNET</author>
 <biblScope>Contempl. nat. XII, 27</biblScope>
