@@ -196,7 +196,7 @@
 <quote>Jules II ne déclara-t-il pas que, par son excommunication contre Louis XII, le trône de France était vacant, et qu'il le donnait au premier qui pourrait s'en emparer ?</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 325</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 325</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -255,7 +255,7 @@
 </p>
 </note>
 <etym>Voy. <ref target="vaquer">VAQUER</ref>. Rabelais a dit vacque : Estables vacques, Garg. I, 12.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VACANT. Ajoutez : </form>
 <sense n="4">
 <cit>
@@ -1160,7 +1160,7 @@
 </p>
 </note>
 <etym>Picard, vake ; wallon, vag ; Berry, ah ! il a eu nouvelles de ses vaches, se dit d'une personne qui est prise tout à coup de gaieté ; prov. et esp. vaca ; ital. vacca ; du latin vacca, vache ; sanscrit vaça, vache, rattaché au védique, vaçati, mugir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VACHE. Ajoutez : </form>
 <sense n="23">
 <dictScrap>Terme de concours. Vache de bande, vache choisie parmi cinq ou six bêtes déjà choisies comme une élite.</dictScrap>
@@ -1256,7 +1256,7 @@
 </p>
 </note>
 <etym>Vache ; wallon, vaglî, vacher, vaglir, vachère ; provenç. vaquier, au fém. vaquiera.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VACHER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Adj. Vacher, vachère, qui a rapport aux vaches.</dictScrap>
@@ -1294,7 +1294,7 @@
 </p>
 </note>
 <etym>Bas-lat. vaccaria, de vacca, vache.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VACHERIE. - HIST. XIVe s. Ajoutez : <cit><quote>Refaire... la cheminée de la vacherie toute neuve (1336)</quote><bibl><author>VARIN</author><biblScope>Archives administ. de la ville de Reims, t. II, 2e part. p. 749</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -1504,7 +1504,7 @@
 <quote>[Dans la vieillesse] les puissances musculaires perdent leur équilibre, la tête vacille, les jambes sont chancelantes....</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. hom. Oeuv. t. IV, p. 361</biblScope>
+<biblScope>Hist. nat. hom. Œuv. t. IV, p. 361</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -1906,7 +1906,7 @@
 <sense>
 <dictScrap>Terme vieilli. Vin fait avant les autres. Défense d'aller cueillir des raisins avant les vendanges ouvertes, le ban donné et publié, pour faire du vin dit avant-vin ou va-devant, Arrêt du parlem. 14 août 1787, Pays de Testmilon.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VA-DEVANT. Ajoutez : </form>
 <sense n="2">
 <cit>
@@ -1927,7 +1927,7 @@
 <sense>
 <dictScrap>Terme de marine. Tampon de laine attaché à un long manche, qui sert à nettoyer le pont des bateaux ou des vaisseaux.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VADROUILLE. Ajoutez : - REM. Le même que badrouille, (voy. ce mot au Dictionnaire). </re>
 </re>
 </entry>
@@ -2700,7 +2700,7 @@
 <quote>Elle me tint de ces sortes de discours vagues qui ne signifient rien, et qui mettent pourtant en droit de vous dire : je vous l'avais dit</quote>
 <bibl>
 <author>Mme DE TENCIN</author>
-<biblScope>Oeuv. t. IV, p. 116</biblScope>
+<biblScope>Œuv. t. IV, p. 116</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2822,7 +2822,7 @@
 <quote>On peut dire qu'il y a du vague dans les caractères que nous donnons au beau, mais il y a aussi du vague dans l'opinion qu'on y attache</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. V, p. 360</biblScope>
+<biblScope>Œuv. t. V, p. 360</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -2832,7 +2832,7 @@
 <quote>Il faut bien se garder de déterminer certaines expressions dont le vague fait toute la force</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VIII, p. 165</biblScope>
+<biblScope>Œuv. t. VIII, p. 165</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2960,7 +2960,7 @@
 </p>
 </note>
 <etym>Les sens tant anciens que modernes se rapportent beaucoup plus au latin vacuus, vide, qu'à vagus, errant. Les terres vagues sont dites terrae vacuae, et aussi terres vuides.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. VAGUE. Ajoutez : </form>
 <sense n="10">
 <dictScrap>Année vague, année de 365 jours, sans l'intercalation périodique d'un jour bissextile ; ainsi dite parce qu'à la longue les saisons naturelles ne correspondaient plus aux divisions mensuelles, et que le commencement de chaque mois parcourait le cercle entier de l'année.</dictScrap>
@@ -2984,9 +2984,7 @@
 </sense>
 <note type="historique">
 <p>
-<label>Ajoutez :</label>
-</p>
-<p>
+<dictScrap>Ajoutez :</dictScrap>
 <label>XIVe s.</label>
 <cit>
 <quote>Onques puis ne fut parlé de celle noble compaignie, et m'est advis qu'elle soit alée à neant, et la maison vague [vide] demourée</quote>
@@ -3053,14 +3051,14 @@
 <quote>On déclame vaguement contre des préjugés, et malheureusement on n'abjure que ceux qui sont honnêtes et gênants</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. IX, p. 310</biblScope>
+<biblScope>Œuv. t. IX, p. 310</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Il y a des hommes vaguement ambitieux et irrésolus encore, ou mal affermis dans la route qu'ils doivent suivre</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. XVI, p. 372</biblScope>
+<biblScope>Œuv. t. XVI, p. 372</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3113,7 +3111,7 @@
 <quote>Il fut défendu de laisser vaguer des pourceaux dans les rues [de Paris, où un porc avait causé la mort d'un fils du roi]</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. III, p. 206, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. III, p. 206, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -3299,7 +3297,7 @@
 <quote>Les Abydéniens n'avaient qu'un de ces deux partis à prendre, ou de se rendre à discrétion, ou de continuer à se défendre vaillamment</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VIII, p. 205, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VIII, p. 205, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3584,7 +3582,7 @@
 </p>
 </note>
 <etym>Part. présent de valoir ; esp. valiente.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VAILLANT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>S. m. Nom vulgaire d'un gros d'argent au cavalier armé, qui se frappait en Flandre et dans le Hainaut, au XIIIe siècle et au commencement du XIVe.</dictScrap>
@@ -3856,7 +3854,7 @@
 <quote>Chez les Grecs, lorsque l'éloquence devint oiseuse, elle fut vague et vaine</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuvres, t. IV, p. 372, dans POUGENS</biblScope>
+<biblScope>Œuvres, t. IV, p. 372, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -4059,14 +4057,14 @@
 <quote>Son bon naturel l'empêchait d'être vaine, c'est-à-dire sotte</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>Cadichon, Oeuv. t. IX, p. 402</biblScope>
+<biblScope>Cadichon, Œuv. t. IX, p. 402</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Il est deux choses que les hommes vains ne trouvent jamais trop fortes, la flatterie pour eux-mêmes, la médisance contre les autres</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VI, p. 149</biblScope>
+<biblScope>Œuv. t. VI, p. 149</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -4226,7 +4224,7 @@
 </p>
 </note>
 <etym>Provenç. van, va ; catal. va ; espagn. et ital. vano ; portug. vão ; du lat. vanus ; comparez le goth. vans ; anc. scand. vanr, défectueux.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VAIN. Ajoutez : </form>
 <sense n="9">
 <dictScrap>Terme de forestier. Semence vaine, semence qui ne germe pas.</dictScrap>
@@ -4290,7 +4288,7 @@
 <quote>[Peuples] qui n'ont rien à perdre si vous les vainquez, et tout à gagner s'il vous vainquent</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. nat. Oeuv. t. II, p. 127, dans POUGENS</biblScope>
+<biblScope>Hist. nat. Œuv. t. II, p. 127, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -4365,7 +4363,7 @@
 <quote>Il [Omphis] fit de magnifiques présents à Alexandre, qui ne se laissa pas vaincre en générosité</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 496, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 496, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -4643,7 +4641,7 @@
 </p>
 </note>
 <etym>Provenç. vencer, venser ; espagn. vencer ; ital. vincere ; du lat. vincere, que les étymologistes rattachent à vincire, lier, vinculuni, lien : vaincre, ce serait enchaîner.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VAINCRE. - REM. Ajoutez : </form>
 <re>2. Corneille a employé tu vaincs : <cit><quote>Plus tu vaincs la nature et l'oses maltraiter, Plus cette grâce abonde...</quote><bibl><author>CORN.</author><biblScope>Imit. III, 5877</biblScope></bibl></cit> À l'occasion il convient de suivre son exemple. </re>
 </re>
@@ -4728,7 +4726,7 @@
 <quote>C'est aux personnes seules de l'art qu'il est réservé d'apprécier les vraies beautés d'un ouvrage et le degré de difficulté vaincue</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. III, p. 41</biblScope>
+<biblScope>Œuv. t. III, p. 41</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -5013,7 +5011,7 @@
 <quote>Le roi, deux fois par an, distribuait des manteaux rouges fourrés d'hermine ou de menu vair aux chevaliers qu'il retenait auprès de sa personne</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 111, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 111, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -5084,7 +5082,7 @@
 </p>
 </note>
 <etym>Provenç vair, var, vaire ; du lat. varius. varié (voy. <ref target="varier">VARIER</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VAIR. Ajoutez : - REM. Dans le blason le vair n'est pas un métal ; il constitue, avec l'hermine, les deux fourrures du blason. </re>
 </re>
 </entry>
@@ -5147,7 +5145,7 @@
 <p>
 <label>XVIe s.</label>
 <cit>
-<quote>Oeils verons, qui est quand les yeux sont blancs et noirs, comme ont quelquefois les chevaux, dont est dit le cheval avoir l'œil veron</quote>
+<quote>Œils verons, qui est quand les yeux sont blancs et noirs, comme ont quelquefois les chevaux, dont est dit le cheval avoir l'œil veron</quote>
 <bibl>
 <author>PARÉ</author>
 <biblScope>Introd. 21</biblScope>
@@ -5319,7 +5317,7 @@
 <quote>On trouve dans Athénée des descriptions de vaisseaux dont la grandeur étonne et paraît incroyable</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, 2e part. p. 548, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, 2e part. p. 548, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -5354,7 +5352,7 @@
 <quote>Il y a 2200 ans que Neco [Néchao], roi d'Egypte, donna des vaisseaux à des Phéniciens qui partirent de la mer Rouge, côtoyèrent l'Afrique, doublèrent le cap de Bonne-Espérance....</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. th. ter. Oeuv. t. I, p. 307</biblScope>
+<biblScope>Hist. nat. Preuv. th. ter. Œuv. t. I, p. 307</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -5516,7 +5514,7 @@
 <quote>Je les priai de me conduire dans leur bibliothèque, qui est assez nombreuse et dans un très beau vaisseau</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VII, p. 179</biblScope>
+<biblScope>Œuv. t. VII, p. 179</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -5653,7 +5651,7 @@
 <dictScrap>Meuble pour placer la vaisselle. Cette fermière possède un fort joli vaisselier où brillent plusieurs plats d'étain.</dictScrap>
 </sense>
 <etym>Vaisselle.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VAISSELIER. Ajoutez : - REM. <cit><quote>On trouve aussi écrit vaissellier. Batterie de cuisine, poêles, chaudron, armoires, tables, bois de lit, vaissellier</quote><bibl><biblScope>l'Avranchin, 29 août 1875</biblScope></bibl></cit> Cette orthographe vaut mieux. Vaisselier viendrait de vaissel, et non de vaisselle. Il en résulte que la prononciation doit être figurée : vè-sé-lié. </re>
 </re>
 </entry>
@@ -5690,7 +5688,7 @@
 <quote>Les Suisses connaissaient si peu la valeur d'un si riche butin [sur le duc de Bourgogne, après la bataille de Granson], qu'ils prirent la vaisselle d'argent pour de l'étain, et la vendirent au plus vil prix</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. III, p. 100</biblScope>
+<biblScope>Œuv. t. III, p. 100</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -5789,7 +5787,7 @@
 </p>
 </note>
 <etym>Picard, vaché. Vaisselle représente le pluriel neutre latin vascella, pris au féminin singulier, comme merveille de mirabilia, et plusieurs autres (voy. <ref target="vaisseau">VAISSEAU</ref>). L'ancienne langue disait plus souvent vaisselmente.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VAISSELLE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Vaisselle vinaire, cuves, tonneaux, etc.</dictScrap>
@@ -5872,7 +5870,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>L'Académie ne donne val que comme usité dans les noms propres. Marmontel a protesté contre cette exclusion : Val, par exemple, n'eût-il pas dû garder sa place dans de beaux vers, comme vallon ? Oeuv. t. x, p. 430. De bons écrivains, comme on voit, ont protesté aussi en s'en servant.</dictScrap>
+<dictScrap>L'Académie ne donne val que comme usité dans les noms propres. Marmontel a protesté contre cette exclusion : Val, par exemple, n'eût-il pas dû garder sa place dans de beaux vers, comme vallon ? Œuv. t. x, p. 430. De bons écrivains, comme on voit, ont protesté aussi en s'en servant.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -5994,7 +5992,7 @@
 <quote>J'estoy premier entré dans ce val miserable ; Il me semble, o Seigneur, qu'il estoit raisonnable Que, le premier de tous, j'en deslogeasse aussi</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, Plainte.</biblScope>
+<biblScope>Œuvres chrestiennes, Plainte.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -6949,7 +6947,7 @@
 </p>
 </note>
 <etym>Berry et Basse-Normandie, vâlet, domestique de ferme ; bourguig. vaulô ; wallon, valet, garçon qui n'est pas marié, vârlet, domestique ; génev. terme d'amitié qu'on donne aux petits garçons : viens, mon valet, que je t'embrasse ; provenç. vaslet, vaylet, vallet ; diminutif du bas-lat. vassus, vassal (voy. ce mot). Dans quelques provinces, les bergères disent à leur chien : viens, mon valet.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VALET. Ajoutez : </form>
 <sense n="17">
 <dictScrap>Dans le moyen âge et parmi les corporations ouvrières, nom de l'apprenti qui devenait ouvrier.</dictScrap>
@@ -7031,7 +7029,7 @@
 <quote>L'insolence de la valetaille</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VII, p. 78</biblScope>
+<biblScope>Œuv. t. VII, p. 78</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -7338,7 +7336,7 @@
 <quote>Mettre en valeur toute la terre d'un royaume, ce qui est bien plus utile que d'en étendre les limites</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. x, p. 423, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. x, p. 423, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -7470,7 +7468,7 @@
 <quote>L'éducation et le commerce que nous avons avec les autres hommes, nous apprennent peu à peu la valeur des mots, leurs différentes destinations, les divers usages de leurs terminaisons...</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. III, p. 386</biblScope>
+<biblScope>Œuv. t. III, p. 386</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -7644,7 +7642,7 @@
 </p>
 </note>
 <etym>Provenç. et espagn. valor ; ital. valore ; du lat. valorem (QUICHERAT, Addenda), de valere, être fort, valoir (voy. <ref target="valoir">VALOIR</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VALEUR. Ajoutez : </form>
 <sense n="15">
 <dictScrap>Manière d'apprécier le mérite des concurrents à l'École des beaux-arts.</dictScrap>
@@ -7841,7 +7839,7 @@
 </p>
 </note>
 <etym>Lat. validus, fort, robuste, de même racine que valere, valoir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VALIDE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Il se dit quelquefois, substantivement, des hommes valides.</dictScrap>
@@ -7940,7 +7938,7 @@
 </p>
 </note>
 <etym>Lat. validare, fortifier, de validus, valide.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VALIDER.  Ajoutez : <cit><quote>Il n'a pas besoin d'avoir raison pour valider ses actes</quote><bibl><author>BOSSUET</author><biblScope>Avertissement 5</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -8103,7 +8101,7 @@
 <quote>On peut considérer une grande vallée comme un tronc qui jette des branches par d'autres vallées, lesquelles jettent des rameaux par d'autres petits vallons qui s'étendent et remontent jusqu'au sommet</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>4e ép. nat. Oeuv. t. XII, p. 218</biblScope>
+<biblScope>4e ép. nat. Œuv. t. XII, p. 218</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -8281,7 +8279,7 @@
 </p>
 </note>
 <etym>Val ; bourguig. vaulée ; provenç. vallada, valeya ; ital. vallata.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VALLÉE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Terme d'exploitation houillère. Galerie qui descend dans la couche de houille suivant la direction de son pendage, et qui aboutit à une coistresse.</dictScrap>
@@ -8314,7 +8312,7 @@
 <quote>Dans presque tous les vallons et les plaines basses, on ne manque guère de trouver de l'eau à une profondeur médiocre</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. 2e disc. Oeuv. t. I, p. 171</biblScope>
+<biblScope>Hist. nat. 2e disc. Œuv. t. I, p. 171</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -8382,7 +8380,7 @@
 </cit>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VALLONÉE. Ajoutez : </re>
 <re>On trouve aussi valonie. <cit><quote>Le cachou ou terre du Japon ; la ciguë, plante réputée, en Amérique, très riche comme agent tannant ; le divi-divi, fruit d'un arbre d'Amérique ainsi nommé ; la noix de galle, la valonie et enfin divers autres produits</quote><bibl><biblScope>Enquête, Traité de commerce avec l'Angleterre, t. VI, p. 747</biblScope></bibl></cit> </re>
 </re>
@@ -8431,7 +8429,7 @@
 </sense>
 </sense>
 <etym>Vallon.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VALLONER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>V. réfl. Se vallonner, être creusé de vallons.</dictScrap>
@@ -8624,7 +8622,7 @@
 <quote>Si Virgile était janséniste, Horace, qui le valait bien, était moliniste</quote>
 <bibl>
 <author>D'ALEMBERT</author>
-<biblScope>Oeuv. t. v, p. 183</biblScope>
+<biblScope>Œuv. t. v, p. 183</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -8828,7 +8826,7 @@
 <quote>L'honneur qui se vend, si peu qu'on en donne, est toujours payé plus qu'il ne vaut</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 78</biblScope>
+<biblScope>Œuv. t. v, p. 78</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -10327,7 +10325,7 @@
 <dictScrap>Très grosse chauve-souris, dite aussi stryge.</dictScrap>
 </sense>
 <etym>Mot venu d'Allemagne, mais non d'origine germanique.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VAMPIRE. - ÉTYM. Ajoutez : C'est un mot slave qui se trouve dans les langues russe, tchèque et polonaise, sous la forme oupir, d'où l'on peut déduire une forme archaïque vompir. </re>
 </re>
 </entry>
@@ -10347,7 +10345,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VAMPIRIQUE. Ajoutez : - REM. On trouve aussi vampiresque.  <cit><quote>Elle a quelque chose de vampiresque, et son regard vous magnétise</quote><bibl><author>BÜRGER</author><biblScope>Salons de 1861 à 1868, t. II, p. 111</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -10458,7 +10456,7 @@
 <sense>
 <dictScrap>Corps simple métallique, d'un blanc argenté.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VANADIUM. Ajoutez : - ÉTYM. Vanadis, surnom de la déesse scandinave Freyja. </re>
 </re>
 </entry>
@@ -10706,7 +10704,7 @@
 <sense n="1">
 <dictScrap>Terme de chimie. Principe qui préexiste dans les capsules de vanille, et qui cristallise à leur surface sous le nom de givre.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VANILLINE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Substance qui constitue le principe odorant de la vanille et tirée soit de la vanille, soit des conifères.</dictScrap>
@@ -10922,7 +10920,7 @@
 <quote>La vanité est la mère des ridicules, comme l'oisiveté est la mère des vices</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. IX, p. 352</biblScope>
+<biblScope>Œuv. t. IX, p. 352</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -11256,7 +11254,7 @@
 </p>
 </note>
 <etym>Il y a dans la basse-latinité un mot des temps mérovingiens venna, vinna, qui signifie un lieu pratiqué dans une rivière pour arrêter et prendre le poisson, et qui se trouve souvent joint à moulin. Ce paraît être incontestablement l'origine de notre vanne ; il est très probablement d'origine germanique, sans qu'on puisse indiquer laquelle. Scheler au contraire voit dans vanne le féminin de van, la vanne ayant été ainsi dénommée par assimilation de forme</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. VANNE (va-n'), s. f. Ce qui provient du nettoyage des grains au moyen du van. </form>
 <cit>
 <quote>M. Espitalier, croyant avoir affaire, en 1868, à des parties de terrain salé et ne connaissant pas alors le phylloxéra, traita les premiers points d'attaque, selon l'usage du pays [la Camargue], en répandant sur le sol de 500 à 700 mètres cubes de sable par hectare, qui était recouvert de vannes de blé pour le fixer</quote>
@@ -11422,7 +11420,7 @@
 <sense>
 <dictScrap>Poser des vannes, garnir de vannes.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VANNER. - HIST. XIIIe s.  Ajoutez : <cit><quote>Ne por quant si ne lor avint Bien, k'il n'ait pris [prix] des miex vanés [choisis, d'élite, conme nous disons : triés sur le volet]</quote><bibl><biblScope>Li chevaliers as deus espées, V. 9742</biblScope></bibl></cit> <cit><quote>Des miex vaillanz, des miex vanez</quote><bibl><author>GAUTHIER DE COINCY</author><biblScope>659</biblScope></bibl></cit> <cit><quote>Pure et bien vanée</quote><bibl><author>GAUTHIER DE COINCY</author><biblScope>184</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -11920,7 +11918,7 @@
 <quote>Gorgias fut le premier qui osa se vanter dans un nombreux auditoire, qu'il était prêt à répondre sur quelque matière qu'on voulût lui proposer</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, 2e part. p. 765, dans POUGENS.</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, 2e part. p. 765, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12163,7 +12161,7 @@
 <quote>Loin, loin, bien loin de moy, venin trop dangereux De ce troupeau vanteur qui tout en soy se fie !</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuv. chrestiennes, sonnets, 5</biblScope>
+<biblScope>Œuv. chrestiennes, sonnets, 5</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12353,7 +12351,7 @@
 <quote>Les événements passés demandent, pour être agrandis aux yeux de l'imagination, non-seulement une grande distance, mais une certaine vapeur répandue dans l'intervalle</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. II, p. 327</biblScope>
+<biblScope>Œuv. t. II, p. 327</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -12364,7 +12362,7 @@
 <quote>L'expérience m'a appris que la vapeur de l'eau peut entretenir et augmenter le feu, comme le fait l'air ordinaire</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. Min. introd. Oeuv. t. VI, p. 140</biblScope>
+<biblScope>Hist. Min. introd. Œuv. t. VI, p. 140</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12452,7 +12450,7 @@
 <quote>Vernet balance Claude le Lorrain dans l'art d'élever des vapeurs sur la toile</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 147, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 147, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -12632,7 +12630,7 @@
 <quote>Le roi d'Angleterre, qui avait été homme de mer étant duc d'York, ne fut pas content de la marine, et le manda au roi ; cela donna des vapeurs à M. de Seignelay</quote>
 <bibl>
 <author>LA FAY.</author>
-<biblScope>Mém. Cour de France, Oeuv. t. III, p. 17, dans POUGENS.</biblScope>
+<biblScope>Mém. Cour de France, Œuv. t. III, p. 17, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -12767,7 +12765,7 @@
 <quote>Dans le lointain, sur les eaux, un vaisseau à la voile ; fort au delà, des montagnes vaporeuses et très éloignées</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 195, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 195, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -13177,7 +13175,7 @@
 </p>
 </note>
 <etym>Provenç. vacar ; espagn. vagar ; ital. vacare ; du lat. vacare, être vide. Il y a dans l'ancienne langue des confusions entre vaguer et vaquer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VAQUER. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Avoir un congé, en parlant d'un écolier.</dictScrap>
@@ -13211,7 +13209,7 @@
 <dictScrap>Sorte de plante grasse des Indes et de l'Océanie, pandanus utilis, Bory, dont les branches sont utilisées pour faire des sacs à café et des enveloppes pour balles de coton. On dit quelquefois par corruption baquois.</dictScrap>
 </sense>
 <etym>Vacoua, mot océanien.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VAQUOIS (va-koî), s. m. Arbre fruitier de Madagascar (pandanus edulis).  <cit><quote>Le vaquois comestible donne des grappes de fruits d'une saveur douce que les Malgaches tiennent en estime</quote><bibl><author>E. BLANCHARD</author><biblScope>Rev. des Deux-Mondes, 1er sept. 1872, p. 213</biblScope></bibl></cit> </re>
 <re>On trouve aussi vacoa.  <cit><quote>Les sacs dont on se sert pour l'emballage [des sucres Bourbon] sont faits avec les feuilles de vacoa, que l'on coupe vertes, que l'on fait sécher à l'air, et que l'on fend ensuite en lanières de deux centimètres environ de largeur</quote><bibl><author>ED. MORIN</author><biblScope>Mém. d'agr. etc. 1870-71, p. 223</biblScope></bibl></cit> </re>
 </re>
@@ -13319,7 +13317,7 @@
 <dictScrap>Mesure espagnole d'un peu moins d'un mètre.</dictScrap>
 </sense>
 <etym>Espagn. vara, verge.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VARE. Ajoutez : - REM. La vare de la Confédération Argentine vaut Om, 866. </re>
 </re>
 </entry>
@@ -13799,7 +13797,7 @@
 <quote>Les inégalités de la lune dont Newton a donné le calcul, du moins dans un certain détail, sont en premier lieu celle qui est connue sous le nom de variation, qui a été découverte par Tycho</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. XIV, p. 86</biblScope>
+<biblScope>Œuv. t. XIV, p. 86</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -13908,7 +13906,7 @@
 </p>
 </note>
 <etym>Prov. variacio ; esp. variacion ; ital. variazione, du lat. variationem, de variare, varier. L'ancienne langue disait aussi variement.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VARIATION. Ajoutez : </form>
 <sense n="9">
 <dictScrap>Terme d'horlogerie. Variation du plat au pendu, différence de marche d'un chronomètre, lorsqu'on le place horizontalement, ou lorsqu'on le suspend verticalement, ce qui rend les conditions d'équilibre moins satisfaisantes.</dictScrap>
@@ -14143,7 +14141,7 @@
 <quote>Les auteurs varient beaucoup sur l'époque de l'établissement de Carthage</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 233, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 233, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -14431,7 +14429,7 @@
 </p>
 </note>
 <etym>Provenç. varietat ; espagn. variedad ; ital. varietà ; du lat. varietatem, de varius, varié.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VARIÉTÉ. </form>
 <sense n="2">
 <dictScrap>Ajoutez :</dictScrap>
@@ -14671,7 +14669,7 @@
 <quote>Mande-moi si mon horoscope Veut que je suive la varlope</quote>
 <bibl>
 <author>MAÎTRE ADAM BILLAUT</author>
-<biblScope>Oeuv. p. 137, dans POUGENS</biblScope>
+<biblScope>Œuv. p. 137, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -14974,7 +14972,7 @@
 <quote>La mer transporte aujourd'hui ses vases avec les dépouilles des coquillages actuellement vivants, comme elle a autrefois transporté ces mêmes vases avec les dépouilles des coquillages alors existants</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>3e ép. nat. Oeuv. t. XII, p. 152</biblScope>
+<biblScope>3e ép. nat. Œuv. t. XII, p. 152</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -15029,7 +15027,7 @@
 </p>
 </note>
 <etym>Norm. gaze ; portug. vasa ; du néerland. wase ; anglo-sax. vase, boue.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VASE, s. f. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Ver de vase, voy. <ref target="ver#var14">VER, n° 14</ref>, au Supplément.</dictScrap>
@@ -15399,7 +15397,7 @@
 <quote>Les vassaux trop puissants ont toujours été les plus dangereux ennemis de la monarchie</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 55</biblScope>
+<biblScope>Œuv. t. v, p. 55</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -15919,8 +15917,8 @@
 </p>
 </note>
 <etym>Lat. vastus, vaste et aussi désert, seul sens que l'ancienne langue connaisse, et qui se rattache aussi au germanique ; anc. haut-allem. wuosti, désert ; moy. haut-allem. wasten, ravager. Ce mot, usité dans le XIIe siècle au sens de désert, ne paraît plus dans les siècles suivants ; le Dict. français-latin de R. Estienne ne l'a pas. Il a été refait du latin au commencement du XVIIe siècle.</etym>
-<re type="supplement">
-<re>VASTE. - REM. Ce n'est qu'après d'assez longs débats que ce mot a été admis, au XVIIe siècle, en un sens favorable et non pas péjoratif, en rapport avec le vastus latin. On soutenait que l'étendue juste et réglée fait le grand, tandis que la grandeur démesurée fait le vaste. Le témoignage le plus curieux qui soit resté de ces débats, est la très spirituelle Dissertation de Saint-Évremond sur le mot vaste, adressée à MM. de l'Académie française (Oeuvres de Saint-Évremond, t. IV, p. 1, Amsterdam, 1726) (note de M. Ch. Berthoud). </re>
+<re ana="supplement">
+<re>VASTE. - REM. Ce n'est qu'après d'assez longs débats que ce mot a été admis, au XVIIe siècle, en un sens favorable et non pas péjoratif, en rapport avec le vastus latin. On soutenait que l'étendue juste et réglée fait le grand, tandis que la grandeur démesurée fait le vaste. Le témoignage le plus curieux qui soit resté de ces débats, est la très spirituelle Dissertation de Saint-Évremond sur le mot vaste, adressée à MM. de l'Académie française (Œuvres de Saint-Évremond, t. IV, p. 1, Amsterdam, 1726) (note de M. Ch. Berthoud). </re>
 </re>
 </entry>
 <entry xml:id="vastement">
@@ -15987,7 +15985,7 @@
 </p>
 </note>
 <etym>Lat. vastitatem, de vastus, vaste. En provençal, vastitat n'a que le sens de dévastation. On a essayé aussi de dire vastitude. <cit><quote>Les vastitudes sabloneuses du Sahara</quote><bibl><author>ROSNY</author><biblScope>Rapport annuel fait à la société d'ethnographie, p. 84</biblScope></bibl></cit></etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VASTITÉ.  Ajoutez : <cit><quote>Si je n'avoue avec vous qu'il n'y a pas un coin de la vastité de ses entrailles qui ne soit rempli de vertu et rembourré d'excellentes intentions</quote><bibl><author>BALZAC</author><biblScope>Lett. inédites, LIII, éd. Tamizey-Larroque.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -16147,8 +16145,8 @@
 <dictScrap>Latinisme peu usité. Prédiction, prophétie.</dictScrap>
 </sense>
 <etym>Lat. vaticinationem (voy. <ref target="vaticinateur">VATICINATEUR</ref>).</etym>
-<re type="supplement">
-<re>VATICINATION. Ajoutez : <cit><quote>Comme je sais pourtant.... que V. A. S. est présentement dans le goût des vaticinations, voici certaine centurie</quote><bibl><author>CHAULIEU</author><biblScope>Ép. à Mme la princesse de Conti, Oeuvr. div. Amst. 1750, p. 108</biblScope></bibl></cit> </re>
+<re ana="supplement">
+<re>VATICINATION. Ajoutez : <cit><quote>Comme je sais pourtant.... que V. A. S. est présentement dans le goût des vaticinations, voici certaine centurie</quote><bibl><author>CHAULIEU</author><biblScope>Ép. à Mme la princesse de Conti, Œuvr. div. Amst. 1750, p. 108</biblScope></bibl></cit> </re>
 </re>
 <note type="historique">
 <p>
@@ -16415,7 +16413,7 @@
 </p>
 </note>
 <etym>Ce paraît être une dénomination créée par Basselin pour les pièces de vers qu'il faisait dans le val de Vire (la Vire est une petite rivière de Normandie), et qui s'altéra en vaudeville.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VAUDEVILLE. - ÉTYM. Ajoutez : Voici des exemples de la forme voix de ville : " Adrian Le Roy, dans son recueil publié en 1571, Livre d'airs de cour miz sur le lutte, nous donne une preuve que l'une des deux appellations [airs de cour] avait succédé à l'autre [voix de ville]. Dans sa dédicace à très excellente Caterine de Clermont, comtesse de Retz, il dit, au sujet des chansons qui suivent dans son volume l'Instruction pour la tablature du lutte : Je me suis avisé de lui mettre en queue pour le seconder ce petit opuscule de Chansons de cour beaucoup plus legeres, que jadis on appeloit voix de ville, aujourd'hui airs de cour. En 1561, Layolle avait publié à Lyon Chansons et voix-de-ville, et en 1575, quoi qu'en eût dit A. Le Roy quatre ans auparavant, on voyait encore paraître à Paris Recueil de chansons en forme de voix-de-ville, par Jean Chardavoine, " ED. FOURNIER, Chansons de Gaultier Garguille, p. 7, Janet, 1858. </re>
 </re>
 </entry>
@@ -17080,7 +17078,7 @@
 <sense>
 <dictScrap>Geai, grèbe.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VAUTROT. Ajoutez : - REM. Le grèbe n'a jamais été appelé vautrot que dans la table du vol. IX de l'Hist. des oiseaux de Buffon, où on lit, p. 272, ch. I : " Vautrot populairement dans quelques provinces : grèbe, vol. III, p. 107. " Or, à ce renvoi, on trouve douze synonymes provinciaux pour geai ; aucun d'eux ne ressemble à grèbe, qui est ici évidemment une faute d'impression pour geai. Le vautrot n'est donc synonyme que du geai. </re>
 </re>
 </entry>
@@ -17133,12 +17131,13 @@
 </p>
 </note>
 <etym>Saint-Foix (Essais sur Paris) raconte que, sous le règne de saint Louis, des chartreux, possesseurs à Gentilly d'une très belle maison qu'ils tenaient de ce prince, et mis en appétit par ce cadeau, s'avisèrent de convoiter le château abandonné de Vauvert, bâti autrefois par le roi Robert dans la rue qu'on nomme aujourd'hui rue d'Enfer, et qu'ils voyaient de leurs fenêtres. Le demander sans aucune raison valable, c'eût été s'exposer à un refus, même de la part du pieux monarque. Les moines préférèrent employer la ruse ; à leur commandement une légion d'esprits peupla le château, dont personne n'osa bientôt plus s'approcher ; et, comme on le pense bien, le roi fut, un beau jour, enchanté de trouver les bons pères, pour se débarrasser de cette maudite propriété qu'ils se chargeaient bravement de disputer aux revenants. Telle est l'origine du diable de Vauvert ou diable Vauvert. Vauvert est val vert, vallée verte.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VAUVERT. Ajoutez : <cit><quote>On y ravaude, on y cousine, On y chatouille sa voisine ; Bref, tant en été qu'en hiver, On fait le diable de Vauver</quote><bibl><biblScope>les Aventures de M. d'Assoucy, t. II, p. 224, 2 vol. Paris, 1677</biblScope></bibl></cit> </re>
 </re>
 <note type="historique">
 <p>
-<label>Ajoutez : XIVe s.</label>
+<dictScrap>Ajoutez : </dictScrap>
+<label>XIVe s.</label>
 <cit>
 <quote>Aux chartreux de Vauvert emprès Paris, pour LXXIII muys de vinages qu'ilz prennent chascun an sur ladicte terre à heritage (1378)</quote>
 <bibl>
@@ -17564,7 +17563,7 @@
 <dictScrap>Place où le blé manque dans un champ. </dictScrap>
 <re type="proverbe"><form>Il a pris la vache et le veau</form>, voy. <ref target="vache">VACHE</ref>. </re>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re type="proverbe"><form>Changement d'herbe réjouit les veaux</form>, se dit pour exprimer que les changements plaisent d'ordinaire aux jeunes gens. </re>
 <re type="proverbe"><form>On voit à la boucherie plus de veaux que de bœufs</form>, c'est-à-dire il meurt plus de jeunes que de vieux.</re>
 </re>
@@ -17743,7 +17742,7 @@
 <sense>
 <dictScrap>Les âges vécus par une population donnée.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉCU. Ajoutez : </re>
 <re>Fig.  <cit><quote>Il est, dans cet amas de documents et de souvenirs qu'ils [les gens du XVIIIe siècle] nous ont laissés, bien des drames ignorés..., j'entends des drames vécus, de véritables événements dramatiques où des personnages en chair et en os ont joué leurs rôles</quote><bibl><author>GLARETIE</author><biblScope>Journ. offic. 9 déc. 1876, p. 9166, 3e col.</biblScope></bibl></cit> <cit><quote>Son École des frères [du peintre Bonvin] est un excellent tableau, solidement peint, vrai de ton, vu, vécu, éprouvé et coloré comme un Ostade</quote><bibl><biblScope>Rev. Britan. juin 1874, p. 458</biblScope></bibl></cit> </re>
 <note type="remarque">Le temps vécu se peut dire à l'exemple de Desportes : Le temps vescu devant ne m'estoit que langueur, Cléonice, LXVIII. </note>
@@ -18283,7 +18282,7 @@
 <quote>Quelques végétations singulières, opérées dans du papier, dans du coton, dans de la laine....</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Hist. nat. Oeuv. t. III p. 252, dans POUGENS</biblScope>
+<biblScope>Hist. nat. Œuv. t. III p. 252, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -18431,7 +18430,7 @@
 </p>
 </note>
 <etym>Provenç. vegetar, croître ; espagn. vegetar ; ital. vegetare ; du lat. vegetare, donner le mouvement, augmenter, fortifier, et aussi au sens neutre de croître, se développer dans la latinité postérieure (voy. <ref target="quicherat">QUICHERAT</ref>, Addenda). Au XVIe siècle il n'a que l'emploi latin de fortifier, faire croître.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉGÉTER. Ajoutez : - REM. Comme végéter s'emploie figurément, pour vivre dans une situation malaisée, il n'est pas rare de voir cette expression employée en parlant de plantes qui poussent mal, mais auxquelles pourtant on ne peut rien demander de plus que de végéter. Végéter est bien employé dans l'exemple suivant : On se trouve dans un vestibule assez vaste garni de tapis ; deux rangées d'arbustes verts y végètent été comme hiver, les Jeux en France, 1 vol. in-8°, 1871, Paris, Ch. Schiller, p. 79, si tant est que l'auteur n'ait pas voulu dire que ces arbustes verts poussent mal. Il est évident que végéter pour vivre mal ne peut se dire des végétaux. </re>
 </re>
 </entry>
@@ -18540,7 +18539,7 @@
 <quote>[Madeleine] De sa nouvelle amour monstrant la vehemence</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, sonnets, 15</biblScope>
+<biblScope>Œuvres chrestiennes, sonnets, 15</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -18567,7 +18566,7 @@
 </p>
 </note>
 <etym>Provenç. vehemensia ; espagn. vehemencia ; ital. veemenzia ; du lat. vehementia, de vehemens, véhément.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VÉHÉMENCE. </form>
 <sense n="2">
 <dictScrap>Ajoutez :</dictScrap>
@@ -18631,7 +18630,7 @@
 <quote>Le véhément Bridaine a déchiré plus de cœurs et fait couler plus de larmes que le savant et profond Bourdaloue, et, si j'ose le dire, que le sublime Bossuet</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. v, p. 18</biblScope>
+<biblScope>Œuv. t. v, p. 18</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -18650,7 +18649,7 @@
 <quote>Il [Cléon] avait une sorte d'éloquence véhémente, impétueuse, emportée, qui entraînait les esprits moins par la force des raisons que par la hardiesse et la violence de son style et de sa déclamation</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. III, p. 584, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. III, p. 584, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -18757,7 +18756,7 @@
 </p>
 </note>
 <etym>Véhémente, et le suffixe ment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉHÉMENTEMENT. - HIST. Ajoutez : </re>
 <re>XVIe s.  <cit><quote>Chose fort affectée et vehementement desirée</quote><bibl><author>RAB.</author><biblScope>Pant. IV, 3</biblScope></bibl></cit> </re>
 </re>
@@ -19978,7 +19977,7 @@
 <quote>Tous les poëtes laissèrent couler leur veine, bonne ou mauvaise, et l'accablèrent de louanges</quote>
 <bibl>
 <author>Mme DE LAFAYETTE</author>
-<biblScope>Mém. cour de Fr. Oeuv. t. II, p. 379, dans POUGENS</biblScope>
+<biblScope>Mém. cour de Fr. Œuv. t. II, p. 379, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -20721,7 +20720,7 @@
 </cit>
 </sense>
 <etym>Veau, par l'ancienne forme veel.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉLIN. Ajoutez : - HIST. XIIIe s.  <cit><quote>Mustrerai i [j'y montrerai] mon livre escrit en veeslin</quote><bibl><biblScope>Vie de saint Auban, publiée par Robert Atkinson, Londres, 1876, V. 1839</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -20947,7 +20946,7 @@
 <quote>Vous aurez l'Apollon du Belvédère, vigoureux d'en haut, véloce par en bas</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 133, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 133, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -21487,7 +21486,7 @@
 <dictScrap>Instrument qui sert à jauger les tonneaux.</dictScrap>
 </sense>
 <etym>Origine inconnue. à côté de velte, Richelet donne verte et verle ; le Bail Saunier, 9 juin 1674, a vergue. Il est bon de noter ces variantes, bien qu'il ne soit pas possible d'en rien conclure. On lit dans Basselin : De decoction de vendange Recipe trois voltes, et plus Ne songe tant à tes escus, Vau de vire, 12. Ce volte serait-il le même que velte ?</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VELTE. </form>
 <sense n="2">
 <dictScrap>Ajoutez :</dictScrap>
@@ -21720,7 +21719,7 @@
 <dictScrap>ou VELVETINE (vèl-vè-ti-n'), s. m. Nom de plusieurs variétés de velours de coton lisse et imitant le velours de soie.</dictScrap>
 </sense>
 <etym>Angl. velvet, velveteen. Velvet est un diminutif : veluet, veluete du lat. barbare velluetum.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VELVET. Ajoutez : - REM. <cit><quote>Différence entre le velvet et la velvétine : les velours façon soie, dits velvets, diffèrent des velours autres, dits velveteens (velvétine), cords et moleskines, en ce que dans les premiers l'envers présente un tissu lisse où les fils de trame sont perpendiculaires à la chaîne, ce qui leur donne l'aspect d'un calicot, tandis que dans les autres velours l'envers est un tissu croisé ; un des caractères des velours velvets est aussi d'être plus légers que les velours autres</quote><bibl><biblScope>Douanes, Tarif de 1877, note 526</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -21837,7 +21836,7 @@
 <quote>On ne voit, je crois, dans l'antiquité aucune trace qui marque que les dignités soit de l'État, soit de la judicature, y aient jamais été vénales</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 206, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 206, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -21968,7 +21967,7 @@
 </p>
 </note>
 <etym>Provenc. venal, venau ; espagn. venal ; ital. venale ; du lat. venalis, de venum, vendre ; comparez du grec prix, du grec achat ; sanscr. vasna, prix de vente.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉNAL. - HIST. XIIIe s.  Ajoutez : <cit><quote>Sauf ce que del venel [choses à vendre] que li home acheteront dedenz la vile de Saint-Quentin à paier le jor de l'achat ou errant [aussitôt], li maires les en puet justicier et destraindre del paier</quote><bibl><biblScope>Charte du Vermandois, dans Bibl. des ch. 1874, XXXV, p. 474</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -22332,7 +22331,7 @@
 </p>
 </note>
 <etym>Bourguig. venonge ; provenç. vendemia, vindemia ; anc. cat. venema ; cat. mod. verema ; espagn. vendimia ; ital. vindemmia ; du lat. vindemia, de vinum, vin, raisin, et demere, prendre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VENDANGE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Dans le langage administratif, vendange, le raisin simplement écrasé dans des cuves, par opposition à moût, qui est le jus du raisin sortant du pressoir, Donanes, Tarif de 1877, note 475.</dictScrap>
@@ -22576,7 +22575,7 @@
 <sense>
 <dictScrap>Petite nacelle effilée dont se servent les pontonniers.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VENDELIN. Ajoutez : - ÉTYM. All. wendel, tournant, avec le suffixe ing, qui indique faculté, manière d'être : chose qui vire, tourne. </re>
 </re>
 </entry>
@@ -22637,7 +22636,7 @@
 <quote>Vendeur d'eau-de-vie L'histoire nous apprend qu'une simple vendeuse d'herbes s'aperçut à la seule affectation d'un mot que Théophraste était étranger</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 547</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 547</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -23429,7 +23428,7 @@
 <quote>Le curé de Saint-Méry.... le faisant condamner [un bourgeois de Paris] à faire amende honorable, un dimanche, à la porte de la paroisse, pour avoir mangé de la viande le vendredi</quote>
 <bibl>
 <author>ST-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. III, p. 302, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. III, p. 302, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -23509,7 +23508,7 @@
 </p>
 </note>
 <etym>Berry, venerdi, venredi, venderdi ; wallon, verdi ; bourguig. varedi ; picard, verdi ; provenç. venre, vendre, divenres ; espagn. viernes ; ital. venerdi ; du lat. Veneris dies, jour de Vénus.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form>VENDREDI. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe"><form>Le vendredi fait le dimanche</form>, dicton populaire d'après lequel le temps qu'il fait vendredi annonce le temps qu'il fera dimanche ; ce dicton n'a aucun fondement. </re>
@@ -24851,7 +24850,7 @@
 <quote>Une femme résista-t-elle jamais à la douceur de se venger ?</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. VI, p. 78, dans POUGENS</biblScope>
+<biblScope>Œuv. t. VI, p. 78, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -24999,7 +24998,7 @@
 </p>
 </note>
 <etym>Wallon, veingî ; provenç. venjar, vengar ; espagn. vengar ; portug. vingar ; ital. vengiare ; du lat. vindicare (voy. <ref target="vendiquer">VENDIQUER</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VENGER. - ÉTYM. Ajoutez : L'orthographe vendicare se trouve dans un texte de l'an 670 (PARDESSUS, CCCLXI, 61). </re>
 </re>
 </entry>
@@ -25057,7 +25056,7 @@
 <quote>Boileau, critique peu sensible, mais judicieux et solide, ne fut pas le restaurateur du goût ; il en fut le vengeur et le conservateur</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. IV, p. 417</biblScope>
+<biblScope>Œuv. t. IV, p. 417</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -25162,7 +25161,7 @@
 </p>
 </note>
 <etym>Venger ; provenç. venjaire, venjador ; cat. venjador ; espagn. vengador ; ital. vengiatore.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VENGEUR. - HIST. XIIe s.  Ajoutez : <cit><quote>Ke il en tant soit plus droiz altrui vengieres que il premiers est venqueres de soi</quote><bibl><biblScope>li Dialoge Gregoire lo pape, 1876, p. 368</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -25677,7 +25676,7 @@
 </p>
 </note>
 <etym>Berry, varin ; bourguig. vairin ; norm. velin ; provenç. vere, veri ; catal. veri ; ital. veleno ; du lat. venenum.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VENIN. - HIST. Ajoutez : </re>
 <re>XIVe s.  <cit><quote>Celle serpent Qui par tot son verain espant</quote><bibl><author>MACÉ</author><biblScope>Bible en vers, f° 19, 2e col.</biblScope></bibl></cit> </re>
 </re>
@@ -25773,7 +25772,7 @@
 <quote>Ils feront comme le roi d'Espagne, lequel se trouva mieux, dit Pascal, de croire sur les antipodes Christophe Colomb qui en venait, que le pape Zacharie qui n'y avait jamais été</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 258</biblScope>
+<biblScope>Œuv. t. IV, p. 258</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -25931,7 +25930,7 @@
 <quote>Les eaux venant des pôles n'ont pu gagner ces contrées méridionales encore brûlantes que quand elles ont été refroidies</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Add. théor. terr. Oeuv. t. XIII, p. 163</biblScope>
+<biblScope>Add. théor. terr. Œuv. t. XIII, p. 163</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26036,7 +26035,7 @@
 <quote>Le plus ancien traité de musique [celui d'Aristide] qui soit venu jusqu'à nous</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, 1re part. p. 236, dans POUGENS.</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, 1re part. p. 236, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -26327,7 +26326,7 @@
 <quote>Si les Groenlandais tirent leur origine des Islandais ou des Norwégiens, comme l'ont avancé plusieurs auteurs, ou si, comme le prétend M. P., ils viennent des Américains</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Suppl. à l'Hist. nat. Oeuv. t. XI, p. 249</biblScope>
+<biblScope>Suppl. à l'Hist. nat. Œuv. t. XI, p. 249</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26416,7 +26415,7 @@
 <quote>D'où viennent ces lits de tourbes qui s'étendent depuis Bruges par tout le plat pays de la Flandre jusqu'à la rivière d'Aa ?</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Add. théor. terr. Oeuv. t. XIII, p. 174</biblScope>
+<biblScope>Add. théor. terr. Œuv. t. XIII, p. 174</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -26466,7 +26465,7 @@
 <quote>D'où vient le redouter, moi qui peux lever les yeux sur lui avec la noble assurance... ?</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. I, p. 346, dans POUGENS</biblScope>
+<biblScope>Œuv. t. I, p. 346, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -26550,7 +26549,7 @@
 <quote>On a vraiment bien raison de dire : plantez là des filles ; il y viendra des garçons</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>Féeries, Prince Muguet, Oeuv. t. VIII, p. 318, dans POUGENS.</biblScope>
+<biblScope>Féeries, Prince Muguet, Œuv. t. VIII, p. 318, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26624,7 +26623,7 @@
 <quote>Je crains que ce groupe ne vienne pas assez sur le devant</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 302, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 302, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -27686,7 +27685,7 @@
 <quote>Ô le plaisir que c'est de sentir venir moindre [italien venir meno, défaillir] Son ame, tant amour heureusement l'estreint</quote>
 <bibl>
 <author>BAÏF</author>
-<biblScope>Oeuv. p. 62, dans LACURNE</biblScope>
+<biblScope>Œuv. p. 62, dans LACURNE</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -27774,21 +27773,21 @@
 <quote>Donner une histoire des vents, qui serait un ouvrage très utile pour la navigation et pour la physique</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. théor. terr. Oeuv. t. II, p. 253</biblScope>
+<biblScope>Hist. nat. Preuv. théor. terr. Œuv. t. II, p. 253</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>On sait que les vents élèvent des montagnes de sable dans l'Arabie et dans l'Afrique, qu'ils en couvrent les plaines....</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>ib. 2e disc. Oeuv. t. I, p. 168</biblScope>
+<biblScope>ib. 2e disc. Œuv. t. I, p. 168</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Nous pouvons regarder l'action du soleil et de la lune, sinon comme l'unique cause des vents, au moins comme une des causes que nous cherchons</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. XIV, p. 8</biblScope>
+<biblScope>Œuv. t. XIV, p. 8</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -28160,7 +28159,7 @@
 <quote>Dans des chaconnes et gavottes, J'ai vu des Fleuves sautillants ; J'ai vu danser des Matelotes, Trois Jeux, six Plaisirs et deux Vents</quote>
 <bibl>
 <author>PANARD</author>
-<biblScope>Oeuv. t. III, p. 334</biblScope>
+<biblScope>Œuv. t. III, p. 334</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -28493,7 +28492,7 @@
 <quote>L'ambition, l'intérêt, le bon air si puissant en France, le vent de la cour auraient décidé les indifférents et ramené les autres</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 278</biblScope>
+<biblScope>Œuv. t. v, p. 278</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -29102,7 +29101,7 @@
 </p>
 </note>
 <etym>Wallon, vain ; provenç. vent, ven ; catal. vent ; espagn. viento ; ital. vento ; du lat. ventus ; comparez le goth. wajan, allem. wehen, venter, sanscr. vata, vent, va (a long), souffler.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VENT. </form>
 <sense n="2">
 <dictScrap>Ajoutez :</dictScrap>
@@ -29686,7 +29685,7 @@
 </p>
 </note>
 <etym>Provenç. ventos ; espagn. et ital. ventoso ; du lat. ventosus, de ventus, vent.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VENTEUX. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Fig. Qui n'a que du vent, qui est sans réalité.</dictScrap>
@@ -30097,7 +30096,7 @@
 </p>
 </note>
 <etym>Provenç. espagn. et ital. ventosa ; du latin ventosa, ventouse, de ventosus, venteux.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VENTOUSE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Creux ou vide qui se forme dans une chaussée ou une palissade.</dictScrap>
@@ -30318,7 +30317,7 @@
 <quote>Pâtre étendu à plat ventre sur la paille</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 500</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 500</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -30341,7 +30340,7 @@
 <quote>Darius, se tournant de son côté et lui adressant la parole, lui demanda s'il le trouvait assez puissant pour passer sur le ventre de l'ennemi</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 224, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 224, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -30925,7 +30924,7 @@
 </p>
 </note>
 <etym>Wallon, veintt ; provenç. ventre ; espagn. vientre ; ital. ventre ; du latin ventrem ; sanscr. udara ; lithuanien, vedara, estomac</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VENTRE. </form>
 <sense n="16">
 <dictScrap>Ajoutez :</dictScrap>
@@ -31397,7 +31396,7 @@
 <quote>Le printemps venu, il rassembla toutes ses forces à Éphèse</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 257, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 257, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -31407,7 +31406,7 @@
 <quote>À peine fut-il assuré du trône, qu'il fit tuer tous ses frères venus du mariage de son père avec une fille d'Antiochus</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IX, p. 545, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IX, p. 545, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -32030,7 +32029,7 @@
 </p>
 </note>
 <etym>Lat. Venus, Veneris ; comparez le sanscrit védique vanas, charme, van, désirer ; le danois ven, joli, agréable ; anglo-sax. van, brillant.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VÉNUS. Ajoutez : </form>
 <sense n="8">
 <dictScrap>La Vénus attrape-mouches, dionaea muscipula, Journ. offic. 26 nov. 1876, p. 8720, 2e col.</dictScrap>
@@ -32082,7 +32081,7 @@
 </p>
 </note>
 <etym>Lat. venustatem, de venustus, gracieux, de Venus, Vénus.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉNUSTÉ. Ajoutez : - REM. Le passage de Chateaubriand cité d'après le Dictionnaire de Dochez se trouve dans Mém. d'outre-tombe, éd. de Bruxelles, t. I, Mon donjon. </re>
 </re>
 </entry>
@@ -32126,7 +32125,7 @@
 </p>
 </note>
 <etym>Vent, et voler : qui vole au gré du vent.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VENVOLE. Ajoutez : - REM. Le passage de Chateaubriand cité d'après le Dictionnaire de Dochez se trouve dans Mém. d'outre-tombe, éd. de Bruxelles, t. II, Ess. hist. sur les révol. </re>
 </re>
 </entry>
@@ -32315,7 +32314,7 @@
 <quote>J'ai été jusqu'à couper un même ver en vingt-six portions, dont la plupart ont repris, et dont plusieurs sont devenues des animaux complets</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Observ. vers, Oeuv. t. I, p. 184, dans POUGENS</biblScope>
+<biblScope>Observ. vers, Œuv. t. I, p. 184, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -32459,14 +32458,14 @@
 <quote>Aristote, quoique le plus ancien des naturalistes, est celui qui a donné la description d'un insecte le plus approchant du ver à soie</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. x, p. 565, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. x, p. 565, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Deux moines venant des Indes apportèrent à Constantinople des œufs de ver à soie, avec l'instruction pour les faire éclore, les élever, les nourrir et tirer la soie, la filer, la mettre en œuvre</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 223</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 223</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -32738,7 +32737,7 @@
 </p>
 </note>
 <etym>Wallon, vièr ; bourguig. var ; saintong. var ; provenç. verm, masc. et verma, féminin ; portug. verme ; ital. verme, vermo ; du lat. vermem, de même radical que l'allem. Wurm ; angl. worm ; suéd. orm ; goth. vaurms ; le grec, comme le prouvent l'esprit rude et le sanscr. krimi, ver (voy. <ref target="cramoisi">CRAMOISI</ref>). Toutes ces formes supposent une forme primitive kverm, de la racine kram, aller, ramper.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VER. Ajoutez : </form>
 <sense n="14">
 <dictScrap>Ver de vase, larve d'un petit diptère, le chironome ; elle est rouge et est employée par les pêcheurs comme appât, E. BLANCHARD, Rev. des Deux-Mondes, 1er oct. 1874, p. 606</dictScrap>
@@ -32757,7 +32756,7 @@
 <quote>Sa véracité intrépide [de Diogène] le rendait le fléau des philosophes mêmes</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. III, p. 74</biblScope>
+<biblScope>Œuv. t. III, p. 74</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -32785,7 +32784,7 @@
 <sense>
 <dictScrap>Nom donné dans le midi au travail de maturation de la grappe de raisin qui la fait passer au noir.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉRAISON. Ajoutez : <cit><quote>Dans la Côte-d'Or, aux environs de Beaune, la vigne est resplendissante de force.... dans les bons vins, les raisins sont en pleine phase de véraison</quote><bibl><biblScope>Journ. des Débats, 21 août 1877, 3e page, 2e col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -32922,7 +32921,7 @@
 <quote>Les adjectifs verbaux qualifient par un attribut d'événement, c'est-à-dire par une qualité accidentelle et survenue qui paraît être l'effet d'une action qui se passe ou qui s'est passée dans la chose ; tels sont rampant, dominant, liant, caressant</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 108</biblScope>
+<biblScope>Œuv. t. IV, p. 108</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -33285,7 +33284,7 @@
 <quote>Qu'est-ce que le verbe ? c'est le mot qui marque que l'on juge, c'est-à-dire que l'on pense une chose d'une autre : par exemple, la terre est ronde ; le mot est, c'est le verbe, c'est-à-dire que c'est le mot qui marque que je juge que la terre est ronde</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. I, p. 73</biblScope>
+<biblScope>Œuv. t. I, p. 73</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -33333,7 +33332,7 @@
 <quote>Quand le Verbe eternel, par qui tout est formé....</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, Sonnets, 16</biblScope>
+<biblScope>Œuvres chrestiennes, Sonnets, 16</biblScope>
 </bibl>
 </cit>
 </p>
@@ -33645,7 +33644,7 @@
 <quote>Ma dame est bien en sa colere, Je l'ay mise en son ver-coquin</quote>
 <bibl>
 <author>R. BELLEAU</author>
-<biblScope>Oeuv. t. II, p. 115</biblScope>
+<biblScope>Œuv. t. II, p. 115</biblScope>
 </bibl>
 </cit>
 </p>
@@ -34264,7 +34263,7 @@
 <sense>
 <dictScrap>Verdière des prés, proyer (Lorraine).</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. VERDIÈRE (vèr-diê-r'), s. f. Nom vulgaire de la zostère, plante marine. </form>
 <cit>
 <quote>Les fucus de toute espèce, les zostères appelées verdière ou herbe marine, font une véritable prairie des grèves que les grandes marées seules découvrent</quote>
@@ -34296,7 +34295,7 @@
 <sense>
 <dictScrap>Un des noms du bruant.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VERDIN. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Nom, dans la Vienne, d'un cépage blanc, les Primes d'honneur, Paris, 1872, p. 304.</dictScrap>
@@ -34419,7 +34418,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>VERDISSANT.  Ajoutez : <cit><quote>Leurs fruits blonds et verdissants</quote><bibl><author>RAC.</author><biblScope>Lexique, éd. P. Mesnard.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -34486,7 +34485,7 @@
 <sense>
 <dictScrap>Happe le verdon, locution dont se sert un batelier en arrivant dans une île, pour dire à son camarade de se prendre au bord.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. VERDON. Ajoutez : - HIST. XVIe s.  </form>
 <cit>
 <quote>Verdon [cordeau servant au halage à col]</quote>
@@ -35454,7 +35453,7 @@
 <quote>Esperance tenoit.... l'anel de la verge d'un ancre d'or, dont le bec estoit fiché dedans les cieulx</quote>
 <bibl>
 <author>A. CHART.</author>
-<biblScope>Oeuv. p. 329</biblScope>
+<biblScope>Œuv. p. 329</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -35524,7 +35523,7 @@
 </p>
 </note>
 <etym>Wallon, vég ; bourg. varge ; Berry, varge ; provenç. verga, vergua, verja ; espagn. et ital. verga ; du lat. virga.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERGE. Ajoutez : </form>
 <sense n="20">
 <dictScrap>Verge de fléau, le long bâton auquel le fléau est attaché.</dictScrap>
@@ -35761,7 +35760,7 @@
 </p>
 </note>
 <etym>Berry, varger ; prov. vergier, verdier ; it. verziere ; du lat. viridarium, de viridis, vert.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VERGER. - ÉTYM. Ajoutez : La forme veridiarium se trouve dans Muratori, 1595, 3. </form>
 </re>
 </entry>
@@ -35955,7 +35954,7 @@
 </sense>
 </sense>
 <etym>Vergette.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERGETURE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Raie que présente la peau de certains animaux.</dictScrap>
@@ -36111,7 +36110,7 @@
 </p>
 </note>
 <etym>Pic., vergne, osier ; génev. vernet, lieu planté de vernes ; Berry, vargne. féminin ; prov. vern, vernha ; cat. vern ; du celtique : bas-breton, guern ; cornique, guernen, aune ; irl. fearne, aune.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERGNE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Digue de rivière construite artificiellement et à l'aide de pieux, fascines, etc.</dictScrap>
@@ -36242,7 +36241,7 @@
 </p>
 </note>
 <etym>Bourg. vargogne ; prov. vergonia, vergonha ; catal. vergonya ; portug. vergonha ; it. vergogna ; du lat. verecundia, de vereri, révérer, et le suffixe cundus. Il y avait aussi la forme vergonde.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VERGOGNE. - ÉTYM. Ajoutez : L'orthographe verecunnia se trouve dans les graffites de Pompéi (GARRUCCI, Graff. pomp. 28, 52) ; et vergondus est dans MURATORI, 1692, 3, à Vérone, en 720. </re>
 </re>
 </entry>
@@ -36292,7 +36291,7 @@
 </p>
 </note>
 <etym>Vergogne ; prov. vergonhos ; port. vergonhoso ; it. vergognoso. Il y avait aussi vergondeux.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VERGOGNEUX. Ajoutez : - REM. Voici le passage de Malherbe auquel Vaugelas fait allusion : La volupté, basse et contemptible, comme faite par le ministère des plus sales et plus vergogneuses parties de notre corps, ne peut être que sale et vergogneuse en son événement, Lexique, éd. L. Lalanne. </re>
 </re>
 </entry>
@@ -36359,7 +36358,7 @@
 <sense>
 <dictScrap>Ancienne mesure de capacité ; la même que la velte. Ils transportent et mettent lesdites eaux-de-vie en de grandes pièces qui contiennent jusqu'à 60 et 65 vergues, Bail Saunier, 9 juin 1674.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 3. VERGUE (vèr-gh'), s. f. Nom provincial de la branche à fruit dans la vigne. </form>
 <cit>
 <quote>Quel que soit l'état de la vergue ou branche à fruit et du crochet de retour après la gelée, il ne faut pas songer à procéder à aucune section ni retranchement complet en cette saison</quote>
@@ -36998,7 +36997,7 @@
 </p>
 </note>
 <etym>Véritable, et le suffixe ment. Dans la Rose, 313, il y a veritelment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VÉRITABLEMENT. - HIST. Ajoutez : XIIe s.  <cit><quote>Par tant ke il ne les [certaines choses] conut pas par esperiment, ne les croiet pas estre veritablement</quote><bibl><biblScope>li Dialoge Gregoire lo pape, 1876, p. 194</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -37007,7 +37006,7 @@
 <sense>
 <dictScrap>Office international où l'on classe les navires et renseigne sur leur sort.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VÉRITAS. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Le catalogue dressé et mis en vente par l'office Véritas.</dictScrap>
@@ -37234,7 +37233,7 @@
 <quote>Mille plumes et encore plus de clameurs se sont élevées contre moi, et m'ont fait éprouver que la vérité est comme les enfants, qu'on ne la met point au monde sans douleurs</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 218</biblScope>
+<biblScope>Œuv. t. IV, p. 218</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -37306,7 +37305,7 @@
 <quote>Une assemblée de juges [en Égypte], dont le président portait au cou une image de la Vérité qui avait les yeux fermés, et avait autour de lui un grand nombre de livres</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 120</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 120</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -37599,7 +37598,7 @@
 <quote>Cette espèce de coiffure empruntée [une perruque] altère la vérité de la physionomie</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Hom. Oeuv. t. IV, p. 290</biblScope>
+<biblScope>Hist. nat. Hom. Œuv. t. IV, p. 290</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -37608,7 +37607,7 @@
 <quote>J'ai compris ce que c'était que finesse de dessin et vérité de nature</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 3 et 4, dans POUGENS.</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 3 et 4, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -38511,7 +38510,7 @@
 </p>
 </note>
 <etym>Lat. vermiculus, petit ver, diminutif de vermis (voy. <ref target="ver">VER</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERMILLER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Il se dit des oiseaux faisant la chasse aux vers.</dictScrap>
@@ -39050,7 +39049,7 @@
 </p>
 </note>
 <etym>Forme fictive latine vermicellus, dimin. de vermis, ver.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VERMISSEAU. - HIST. Ajoutez : </re>
 <re>XIVe s.  <cit><quote>Teredo, uns vermissiaus</quote><bibl><author>ESCALLIER</author><biblScope>Vocabulaire latin-français 2476</biblScope></bibl></cit> </re>
 </re>
@@ -39399,7 +39398,7 @@
 <quote>Les vernis ont plusieurs mauvais effets ; ils jaunissent, ils s'écaillent, ils altèrent les couleurs</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Peint. en cire, Oeuv. t. XV, p. 387 et 388, dans POUGENS.</biblScope>
+<biblScope>Peint. en cire, Œuv. t. XV, p. 387 et 388, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -39550,7 +39549,7 @@
 </p>
 </note>
 <etym>Wallon, vierni ; prov. vernis, vernitz ; cat. barnis ; esp. barniz ; port. verniz ; ital. vernice ; allem. Firniss ; angl. varnish ; bas-lat. vernicium, fernisium ; d'après Ménage, approuvé par Diez, d'un verbe fictif vitrinire, de vitrinus, qui a le caractère du verre, dérivé de vitrum, verre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERNIS. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Cuir verni.</dictScrap>
@@ -39785,7 +39784,7 @@
 <quote>On n'inocule guère avant l'âge de quatre ans ; depuis cet âge jusqu'au terme ordinaire de la vie, la petite vérole naturelle détruit, selon les inoculateurs, entre la septième et la huitième partie du genre humain</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 323</biblScope>
+<biblScope>Œuv. t. IV, p. 323</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -39811,7 +39810,7 @@
 <quote>Ils prétendent que six petites véroles artificielles produiront à peine autant d'effet pour la contagion qu'une seule petite vérole naturelle</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. p. 424</biblScope>
+<biblScope>Œuv. p. 424</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -39856,7 +39855,7 @@
 <quote>La vérole se communique, et l'on n'a que trop d'exemples d'enfants qui sont, même en naissant, les victimes de la débauche de leurs parents</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. anim. Oeuv. t. IV, p. 118</biblScope>
+<biblScope>Hist. anim. Œuv. t. IV, p. 118</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -40244,7 +40243,7 @@
 <quote>On est étonné que les Romains, qui avaient des bouteilles de verre, n'aient pas imaginé de le planer pour en faire des vitres, au lieu de leurs pierres émincées qui ne pouvaient transmettre qu'une faible lumière</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VII, p. 124</biblScope>
+<biblScope>Œuv. t. VII, p. 124</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -40355,7 +40354,7 @@
 <quote>L'habitude, le préjugé, l'opinion sont autant de verres diversement colorés, à travers lesquels chacun de nous voit les objets ; la passion est un microscope</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. x, p. 452</biblScope>
+<biblScope>Œuv. t. x, p. 452</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -40683,7 +40682,7 @@
 </p>
 </note>
 <etym>Bourguig. vare, vore ; wallon, veul ; provenç. veire ; cat. vidre ; espagn. vidrio ; port. vidro ; ital. vetro ; du lat. vitrum, que les étymologistes tirent de videre, voir : vitrum, pour vidtrum, le transparent, ce qui fait voir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERRE. </form>
 <sense n="10">
 <dictScrap>Ajoutez :</dictScrap>
@@ -40961,7 +40960,7 @@
 </p>
 </note>
 <etym>Verre ; bourg. voraire, vouaixere, vitre, fenêtre ; prov. veiriera, ruche de verre ; it. vetriera.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERRIÈRE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Espèce de seau ou bac en plaqué, qui sert à placer sur le comptoir des marchands de vin, cafetiers, etc. les verres propres</dictScrap>
@@ -41305,7 +41304,7 @@
 </p>
 </note>
 <etym>Berry, veruge, vruge ; provenç. verruga, veruca ; catal. verruga, berruga ; espagn. verruga ; ital. verruca ; du lat. verruca.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VERRUE. - HIST. Ajoutez : XIIIe s. <cit><quote>Ou [au] col n'ot fronce ne berrue, Que ele avoit et lonc et droit</quote><bibl><biblScope>li Chevaliers as deus espées, publié par Förster, V. 4288</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -41446,7 +41445,7 @@
 <quote>M. Godeau, évêque de Vence, dont nous avons tant de vers et si peu de poésies</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 31</biblScope>
+<biblScope>Œuv. t. IV, p. 31</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -41540,7 +41539,7 @@
 <quote>Le vers blanc peut être aussi harmonieux que le vers rimé, à la consonance près, dont l'habitude a fait un plaisir pour l'oreille</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. v, p. 372</biblScope>
+<biblScope>Œuv. t. v, p. 372</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -41566,7 +41565,7 @@
 <quote>Ce qu'on appelle petits vers a prodigieusement perdu de faveur ; pour se résoudre à les lire, il faut être bien averti qu'ils sont excellents</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 102</biblScope>
+<biblScope>Œuv. t. IV, p. 102</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -41676,7 +41675,7 @@
 <quote>Il envoya Clitus vers l'Hellespont, pour empêcher les troupes ennemies de passer d'Asie en Europe</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 117, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 117, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -42054,7 +42053,7 @@
 <dictScrap>Terme de zoologie. Se dit d'une coquille univalve dont l'ouverture a de la propension à être échancrée.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VERSANT, ANTE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Qui se verse, en parlant de cours d'eau.</dictScrap>
@@ -42103,7 +42102,7 @@
 <quote>Chaque épreuve augmente la certitude de l'inconstance de la cause, en nous démontrant toujours de plus en plus qu'elle est absolument versatile</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Ess. arithm. mor. Oeuv. t. x, p. 93</biblScope>
+<biblScope>Ess. arithm. mor. Œuv. t. x, p. 93</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -42150,7 +42149,7 @@
 </p>
 </note>
 <etym>Lat. versatilis, de versare, tourner (voy. <ref target="verser">VERSER</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERSATILE. </form>
 <sense n="3">
 <dictScrap>Ajoutez un exemple du XVIIe siècle.</dictScrap>
@@ -42227,7 +42226,7 @@
 <dictScrap>Terme de géométrie. Le sinus verse d'un angle, la partie du rayon du cercle comprise entre l'arc et le pied du sinus. On dit souvent la flèche d'un arc.</dictScrap>
 </sense>
 <etym>Lat. versus, tourné, à cause que le sinus verse est tourné en sens inverse du cosinus.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 3. VERSE (vèr-s'), s. f.  </form>
 <cit>
 <quote>Mesure du charbon de bois, sorte de corbeille contenant environ 37 litres</quote>
@@ -42290,7 +42289,7 @@
 <quote>Athénée, homme d'âge et fort versé dans toutes les cérémonies de l'idolâtrie des Grecs</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VIII, p. 625, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VIII, p. 625, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -42308,7 +42307,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VERSÉ. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Produit, en parlant de pièces de procédure.</dictScrap>
@@ -42981,7 +42980,7 @@
 </p>
 </note>
 <etym>Wallon, viersé ; prov. versar ; it. versare ; du lat. versare, fréquentatif de vertere, tourner.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERSER. </form>
 <sense n="12">
 <dictScrap>Ajoutez :</dictScrap>
@@ -43252,7 +43251,7 @@
 <quote>Comme il peut y avoir versification sans poésie, et poésie sans versification, nous avons cru ne devoir regarder la versification que comme une qualité du style, et la renvoyer à l'art oratoire</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. I, p. 343</biblScope>
+<biblScope>Œuv. t. I, p. 343</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -43344,7 +43343,7 @@
 <quote>Nous avons une version grecque d'un traité composé en langue punique par Hannon sur le voyage qu'il avait fait par ordre du sénat avec une flotte considérable autour de l'Afrique, pour y établir différentes colonies</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 222, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 222, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -43504,7 +43503,7 @@
 <quote>Le degré de desséchement du bois fait beaucoup à sa résistance ; le bois vert casse bien plus difficilement que le bois sec</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. part. exp. Oeuv. t. VIII, p. 167</biblScope>
+<biblScope>Hist. nat. part. exp. Œuv. t. VIII, p. 167</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -43720,7 +43719,7 @@
 <quote>Le vert naissant était, dans l'ancienne chevalerie, la couleur des nouveaux chevaliers</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 209, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 209, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -44156,7 +44155,7 @@
 </p>
 </note>
 <etym>Berry, vard, au fém. varde, varte ; bourguig. var, vord, vorde ; wallon, ver, au fém. vett ; provenç. vert ; catal. verd ; espagn. et ital. verde ; du lat. viridis, que Eugène Burnouf rattache au zend zairi, sanscr. harit ; grec. Harit tient à la racine ghar, oindre, et de là faire briller, briller comme une chose enduite de beurre ; d'où le sens de couleur jaune, verte.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VERT. Ajoutez : </form>
 <sense n="20">
 <dictScrap>Le vert de Chine, sorte de couleur verte.</dictScrap>
@@ -44257,7 +44256,7 @@
 </p>
 </note>
 <etym>La forme la plus ancienne est vertegrez, qui peut-être doit se décomposer en vert aigret, le verd produit par l'aigre, l'acide.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VERT-DE-GRIS. - ÉTYM. Ajoutez : Aux formes anciennes il faut joindre celle-ci : XIVe s. <cit><quote>Asur et ver de Grece</quote><bibl><biblScope>le Livre des mestiers, dans Journ. des Savants, oct. 1875, p. 653</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -44768,7 +44767,7 @@
 <quote>Il semble que, dans cette affaire, les jésuites et leurs amis aient été frappés d'un esprit de vertige, et qu'ils aient fait eux-mêmes tout ce qu'il fallait pour précipiter leur ruine</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. v, p. 127</biblScope>
+<biblScope>Œuv. t. v, p. 127</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -45477,7 +45476,7 @@
 <quote>En vertu de la force centrifuge qui résulte du mouvement de rotation sur son axe, la terre a nécessairement pris la forme d'un sphéroïde</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. th. terr. Oeuv. t. I, p. 334</biblScope>
+<biblScope>Hist. nat. Preuv. th. terr. Œuv. t. I, p. 334</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -46067,7 +46066,7 @@
 <quote>Il a fallu que j'achevasse mal ce soir ce que j'aurais exécuté de verve ce matin, sans la cohue des importuns</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, (Oeuv. t. XV, p. 83, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, (Œuv. t. XV, p. 83, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -46207,7 +46206,7 @@
 </p>
 </note>
 <etym>Vervelle paraît être le même que vertevelle, gond (XIVe siècle : les vertevelles de l'uis, DU CANGE, vertibella). Vertevelle représente le bas-latin, vertibella, vertebolum, qui vient de vertere, tourner.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VERVELLE. - HIST. Ajoutez : XIIe s. <cit><quote>Et les portes [sont] rices et bieles, Que tuit li gon et les vervieles [variante, reondeles] Sont de fin or...</quote><bibl><biblScope>Perceval le Gallois, V. 9041</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -46356,14 +46355,15 @@
 </p>
 </note>
 <etym>Berry, voice, vosce ; Anjou, voice ; du latin vicia, vesce ; grec.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VESCE. Ajoutez : </re>
 <re>Vesce sauvage, nom vulgaire de la vesce à feuilles étroites. </re>
 <re>Vesce des bergeries, nom vulgaire de la vesce des haies. </re>
 </re>
 <note type="historique">
 <p>
-<label>Ajoutez : XIIe s.</label>
+<dictScrap>Ajoutez :</dictScrap> 
+<label>XIIe s.</label>
 <cit>
 <quote>Ne li lairai de tiere vallant un grain de vecce</quote>
 <bibl>
@@ -47016,7 +47016,7 @@
 </p>
 </note>
 <etym>Wallon, vesseie ; provenç. vesica, vesiga, veissiga ; espagn. vejiga ; portug. bexiga ; ital. vessica ; du lat. vesica.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VESSIE. Ajoutez : </form>
 <sense n="8">
 <cit>
@@ -47126,14 +47126,14 @@
 <quote>Il n'y avait que six vestales ; nous avons des milliers de couvents de filles</quote>
 <bibl>
 <author>ST-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 229, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 229, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Une vestale est un être en même temps historique, poétique et moral</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 38, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 38, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -47258,7 +47258,7 @@
 </sense>
 </sense>
 <etym>Lat. vestis, habit (voy. <ref target="vêtir">VÊTIR</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VESTE. - ÉTYM. Ajoutez : Notre mot veste, qui n'a pas d'historique, vient directement de l'ital. vesta, habit, robe, habillement, lequel, à son tour, vient du lat.  <cit><quote>vestem, habit, par changement de déclinaison</quote><bibl><author>DIEZ</author><biblScope>Gramm. des langues rom. t. II, p. 13, trad. franç.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -47499,7 +47499,7 @@
 </p>
 </note>
 <etym>Provenç. vestigi ; espagn. et ital. vestigio ; du lat. vestigium.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VESTIGE. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -47666,7 +47666,7 @@
 <quote>Rien n'est si mesquin, si pauvre, si maussade, si ingrat que nos vêtements</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 100, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 100, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -47757,7 +47757,7 @@
 <quote>Alexandre, un peu avant de mourir, l'avait chargé de conduire en Macédoine les dix mille vétérans qu'il y renvoyait à cause de leur âge, de leurs blessures, ou de quelques autres infirmités qui les rendaient incapables de servir</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 77, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 77, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -48113,7 +48113,7 @@
 </sense>
 </sense>
 <etym>Vétille.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VÉTILLEUX. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Ombrageux, en parlant d'animaux.</dictScrap>
@@ -48569,7 +48569,7 @@
 </p>
 </note>
 <etym>Provenç. et espagn. vestidura ; ital. vestitura ; du lat. vestitura, de vestire, vêtir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VÊTURE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Les vêtements eux-mêmes que l'on fournit à des indigents.</dictScrap>
@@ -48759,7 +48759,7 @@
 <quote>L'habillement des veuves était assez semblable à celui de nos religieuses</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 223, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 223, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -48773,7 +48773,7 @@
 <quote>La veuve du surintendant Fouquet mourut cette année [1724]</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 271</biblScope>
+<biblScope>Œuv. t. v, p. 271</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -49147,7 +49147,7 @@
 <quote>Il est assez ordinaire à ceux qui sont en place, d'être peu touchés des vexations des personnes faibles et sans crédit, et de se rendre sourds à leurs plaintes</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 130, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 130, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -49190,7 +49190,7 @@
 </p>
 </note>
 <etym>Prov. vexatio ; esp. vejacion ; ital. vessazione ; du lat. vexationem, de vexare, vexer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VEXATION. Ajoutez : - REM. Vexations, au pluriel, a été employé dans l'arrêt qui condamna Lally, comme désignant un crime ou un délit. Sur quoi Voltaire remarque : L'arrêt ne dit point qu'il [Lally] ait été concussionnaire ; cet arrêt lui reproche vaguement des vexations, et ce mot de vexations est si vague qu'il ne se trouve chez aucun criminaliste, Lettre à d'Alembert, 13 juin 1766. </re>
 </re>
 </entry>
@@ -49247,7 +49247,7 @@
 <quote>On reproche à Louis XI d'avoir vexé ses sujets</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t, III, p. 352</biblScope>
+<biblScope>Œuv. t, III, p. 352</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -49588,7 +49588,7 @@
 <quote>Cela suffit, sans être amoureux, pour ne pouvoir dormir, sans manger presque autant d'opium que d'autre viande</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Épît. dédic. Oeuv. t. I, p. 161</biblScope>
+<biblScope>Épît. dédic. Œuv. t. I, p. 161</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -49952,7 +49952,7 @@
 </p>
 </note>
 <etym>Provenç. vivenda, nourriture ; ital. vivanda ; du bas-lat. vivenda, ce qui sert à vivre, de vivere (voy. <ref target="vivre">VIVRE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIANDE. - REM. C'est vers la fin du XVIe siècle que viande a pris son sens spécial d'aujourd'hui : "En la cour il semble qu'on ait restreint le mot viande à la chair qui est servie à table ; car on n'y appelle pas viande le dessert, et, si à un jour de poisson quelqu'un mange de la chair, on dit qu'il mange de la viande," NICOT. </re>
 </re>
 </entry>
@@ -50104,7 +50104,7 @@
 <quote>L'usage des paroisses de Paris est de porter, pendant la semaine sainte, la communion à tous les malades, sans qu'ils soient dans le cas de la recevoir en viatique</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 394</biblScope>
+<biblScope>Œuv. t. v, p. 394</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -50433,7 +50433,7 @@
 </sense>
 </sense>
 <etym>Lat. vibrare, être brandi, s'agiter, vibrer, qui se rapporte au sanscrit védique jivri, vacillant, branlant.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIBRER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>En termes de théâtre, prononcer sans grasseyer.</dictScrap>
@@ -52131,7 +52131,7 @@
 <quote>Les coupables esprits ont toujours mille craintes, Lorsqu'il leur faut quitter ce vicieux séjour</quote>
 <bibl>
 <author>THÉOPHILE</author>
-<biblScope>Oeuvres, p. 306</biblScope>
+<biblScope>Œuvres, p. 306</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -52288,7 +52288,7 @@
 <quote>Ya-t-il rien de plus admirable que cette variété et cette vicissitude du jour et de la nuit, de la lumière et des ténèbres ?</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 380, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 380, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -52545,7 +52545,7 @@
 </p>
 </note>
 <etym>Vice 2, et comte.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VICOMTE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Fonctionnaire royal de l'île de Jersey, nommé par la couronne, chargé de l'exécution des sentences de justice, civiles et criminelles, et de quelques autres fonctions judiciaires.</dictScrap>
@@ -52821,7 +52821,7 @@
 <quote>Ces tristes victimes de nos fantaisies et de nos caprices [les prostituées] m'ont toujours offert l'image du malheur et jamais celle du plaisir</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VIII, p. 129</biblScope>
+<biblScope>Œuv. t. VIII, p. 129</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -52945,7 +52945,7 @@
 <quote>Quelques-uns le félicitant [Pyrrhus] sur sa victoire, il répondit : Si nous en remportons encore une autre pareille, nous sommes ruinés</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 395, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 395, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -53232,7 +53232,7 @@
 </p>
 </note>
 <etym>Victorieuse, et le suffixe ment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VICTORIEUSEMENT. - HIST. Ajoutez : </re>
 <re>XVIe s.  <cit><quote>Il [Dieu] permit que le roy Charles [Charles VIII] allast et revint victorieusement</quote><bibl><author>PARADIN</author><biblScope>Chron. de Savoye, p. 357</biblScope></bibl></cit> </re>
 </re>
@@ -53613,7 +53613,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VIDAMÉ. Ajoutez : - HIST. XIVe s.  <cit><quote>La vidammée, en temporel, ne vault pas plus de XXX livres (1384)</quote><bibl><author>VARIN</author><biblScope>Archives administr. de la ville de Reims, t. III, p. 596</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -53773,7 +53773,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VIDANGER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Vider, en parlant de bouteilles.</dictScrap>
@@ -53851,7 +53851,7 @@
 <quote>On peut démontrer que le volume de la substance même la plus dense contient encore beaucoup plus d'espace vide que de matière pleine</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. Introd. Oeuv. t. VI, p. 409</biblScope>
+<biblScope>Hist. min. Introd. Œuv. t. VI, p. 409</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -54301,7 +54301,7 @@
 <quote>Mettre à profit les vides que laissent les affaires</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 566, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 566, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -54353,7 +54353,7 @@
 <quote>Ce vide que nous remarquons entre le végétal et le minéral, se remplira apparemment quelque jour ; il y avait un semblable vide entre l'animal et le végétal</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuv. t. VIII, p. 197, dans POUGENS</biblScope>
+<biblScope>Contempl. nat. Œuv. t. VIII, p. 197, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -54513,7 +54513,7 @@
 <quote>Quoi ! ce bienheureux logement, Dont je me montrai tant avide, Me fut donc promis vainement, Et j'ai fait malheureusement Tant de remerciements à vide ?</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuv. t. VII, p. 259</biblScope>
+<biblScope>Œuv. t. VII, p. 259</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -54742,7 +54742,7 @@
 </p>
 </note>
 <etym>Wallon, vûd ; bourguig. veude ; picard, uide ; génev. vuide ; provenç. voig, vuei, vuech, voh ; catal. vuyd ; du lat. viduus, qui veut dire veuf.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIDE. Ajoutez : </form>
 <sense n="23">
 <dictScrap>Terme de grammaire. Dans les langues isolantes, mot vide, mot qui, dans un composé, a perdu sa valeur propre et ne joue qu'un rôle de suffixe, par opposition à mot plein, mot qui, dans ce même composé, a gardé sa valeur.</dictScrap>
@@ -54893,7 +54893,7 @@
 <dictScrap>Action de vider ; résultat de cette action. La réplétion et le videment des oreillettes du cœur.</dictScrap>
 </sense>
 <etym>Vider ; wallon, vûdmain, vûnnmain, dévoiement.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIDEMENT. Ajoutez : - HIST. XIVe s. <cit><quote>Pour cause du fait du vuidement [évacuation] de la ville de Honnefleu, lors detenue par les genz qui...</quote><bibl><biblScope>Mandements de Charles V, p. 195</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -55339,7 +55339,7 @@
 </p>
 </note>
 <etym>Vide ; wallon, vûdi ; provenç. voiar, voyar, vueiar, vuiar, voidar ; cat. vuydar.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIDER. Ajoutez : </form>
 <sense n="14">
 <dictScrap>Terme juridique. Vider un délibéré, prononcer un jugement après avoir délibéré.</dictScrap>
@@ -55361,7 +55361,7 @@
 <sense>
 <dictScrap>Celui qui vide. Videur de volailles.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VIDEUR. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Par extension, videur de poches, filou, pickpocket.</dictScrap>
@@ -55563,7 +55563,7 @@
 <quote>Dans cet état de solitude, qui est la viduité de l'âme, il [d'Alembert] avoue que son courage ne suffit point à son malheur</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. XVII, p. 50</biblScope>
+<biblScope>Œuv. t. XVII, p. 50</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -55589,7 +55589,7 @@
 <quote>À cette perpetuité d'amour, je voue une viduité perpetuelle</quote>
 <bibl>
 <author>DE BRACH</author>
-<biblScope>Oeuvr. t. II, p. XCIX.</biblScope>
+<biblScope>Œuvr. t. II, p. XCIX.</biblScope>
 </bibl>
 </cit>
 </p>
@@ -56150,14 +56150,14 @@
 <quote>La vie moyenne des enfants d'un an est de trente-trois ans ; celle d'un homme de vingt et un ans est aussi à peu près de trente-trois ans</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Prob. de la vie, Oeuv. t. x, p. 257</biblScope>
+<biblScope>Prob. de la vie, Œuv. t. x, p. 257</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>On sait que la longueur moyenne de la vie des hommes, à compter depuis le moment de la naissance, est d'environ vingt-sept ans</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 298</biblScope>
+<biblScope>Œuv. t. IV, p. 298</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -56516,7 +56516,7 @@
 <quote>La vie n'est pas chère à Rome pour quelqu'un de domicilié</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VII, p. 90</biblScope>
+<biblScope>Œuv. t. VII, p. 90</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -56998,7 +56998,7 @@
 <quote>Vertu de ma vie ! à tout moment il me prend envie d'aller en Poitou</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuv. t. I, p. 180</biblScope>
+<biblScope>Œuv. t. I, p. 180</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -57372,7 +57372,7 @@
 <quote>La vie est une fleur espineuse et poignante, Belle au lever du jour, seiche en son occident</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, sonnets, 12</biblScope>
+<biblScope>Œuvres chrestiennes, sonnets, 12</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -57459,7 +57459,7 @@
 <dictScrap>Chemin dans un marais salant.</dictScrap>
 </sense>
 <etym>Lat. via, chemin (voy. <ref target="voie">VOIE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIE. Ajoutez : </form>
 <sense n="29">
 <dictScrap>Haute vie, la manière de vivre des hautes classes, traduction de l'anglais high life.</dictScrap>
@@ -57485,14 +57485,14 @@
 <quote>Si son altesse avait une aussi parfaite connaissance de tous nos viédases de beaux esprits</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuv. t. I, p. 204</biblScope>
+<biblScope>Œuv. t. I, p. 204</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>S'il venait quelque viédase, Qui voulût avec emphase Parler ab hoc et ab hac</quote>
 <bibl>
 <author>PANARD</author>
-<biblScope>Oeuv. t. III, p. 407</biblScope>
+<biblScope>Œuv. t. III, p. 407</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -57605,14 +57605,14 @@
 <quote>Trois années [durée moyenne qu'on a devant soi aux différents âges de la vieillesse] ne sont-elles pas une vie complète ? ne suffisent-elles pas à tous les projets d'un homme sage ? nous ne sommes donc jamais vieux, si notre moral n'est pas trop jeune</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Suppl. à l'Hist. nat. Oeuv. t. XI, p. 144</biblScope>
+<biblScope>Suppl. à l'Hist. nat. Œuv. t. XI, p. 144</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Fontenelle disait d'une vieille femme qui avait encore de la grâce et de la sensibilité : on voit que l'amour a passé par là</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VII, p. 465</biblScope>
+<biblScope>Œuv. t. VII, p. 465</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -58263,7 +58263,7 @@
 </p>
 </note>
 <etym>Wallon, vî, vieux, vîll, vieille ; bourguign. veille, vieille ; provenç. vel, velh, vielh, vilh ; cat. vell ; espagn. viejo ; portug. velho ; ital. vecchio ; du lat. populaire veclus pour vetulus (vetulum, non veclum, dit l'Appendix Probi, dans Keil, v, 162). Vétulus est le diminutif de vetus, qui tient au grec, éolien, année, sanscr. vatsa, année, et signifie par conséquent proprement annuel. Les deux formes vieil et vieux s'expliquent par l'ancienne langue : vieil est le cas du régime, vieils ou vieux est celui du sujet ; ces deux sont restées dans la langue moderne, qui ne s'en est plus servie que pour des usages de prononciation. à côté de viel, l'ancienne langue avait aussi viez, pour les deux genres ; viez vient du lat. vetus. Viez se dit encore dans les campagnes de Normandie.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIEIL ou VIEUX. </form>
 <sense n="10">
 <dictScrap>Ajoutez :</dictScrap>
@@ -58382,7 +58382,7 @@
 <quote>Ces deux vieillards dont il est fait mention dans les Transactions philosophiques, dont l'un a vécu 165 ans, et l'autre 144</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. hom. Oeuv. t. IV, p. 356</biblScope>
+<biblScope>Hist. nat. hom. Œuv. t. IV, p. 356</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -58687,7 +58687,7 @@
 <quote>Les montagnes d'Écosse, de Galles, d'Auvergne, de Suisse ont fourni plus d'exemples de vieillesses extrêmes que les plaines de Hollande, de Flandre, d'Allemagne et de Pologne</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. hom. Oeuv. t. IV, p. 358</biblScope>
+<biblScope>Hist. nat. hom. Œuv. t. IV, p. 358</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -58988,7 +58988,7 @@
 <quote>Ce qui paraît prouver qu'en général on vieillit beaucoup moins à Londres qu'à Paris, puisque, sur 13189 personnes, il y en a 2799 qui ne meurent qu'après 60 ans révolus à Paris, tandis que, sur ce même nombre, il n'y en a que 1820 qui meurent après 60 ans à Londres</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Prob. de la vie, Oeuv. t. x, p. 554</biblScope>
+<biblScope>Prob. de la vie, Œuv. t. x, p. 554</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -59109,14 +59109,14 @@
 <quote>Il doit surtout réclamer les mots qu'on a laissés mal à propos vieillir, et dont la proscription a énervé et appauvri la langue au lieu de la polir</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. III, p. 201</biblScope>
+<biblScope>Œuv. t. III, p. 201</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Rien, ou presque rien de la langue de Pascal n'a vieilli ; cela prouve sans doute un goût pur et sévère, mais trop sévère et trop exquis</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. x, p. 424</biblScope>
+<biblScope>Œuv. t. x, p. 424</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -59229,7 +59229,7 @@
 <quote>....ma peine cruelle, Que le temps deust vieillir, sans fin se renouvelle</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, Plainte.</biblScope>
+<biblScope>Œuvres chrestiennes, Plainte.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -59249,7 +59249,7 @@
 </p>
 </note>
 <etym>Vieil ; Berry, vieillezir ; wallon, vîli ; provenç. velhezir. En présence de l'historique qu'on vient de voir, on s'étonne que Vaugelas, Nouv. rem. p. 214, ait dit que vieillir était un mot nouveau, et qu'on ne le trouvait point dans nos anciens auteurs et dictionnaires français.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIEILLIR. - HIST. Ajoutez : XIIe s. <cit><quote>Ne veillirai jamais en mon aé</quote><bibl><biblScope>Huon de Bordeaux, V. 3560</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -59587,7 +59587,7 @@
 <quote>Là s'espandoit la bette au grand feuillage, Et la vienne espessement croissant</quote>
 <bibl>
 <author>DU BELLAY</author>
-<biblScope>Oeuv. p. 442, dans LACURNE</biblScope>
+<biblScope>Œuv. p. 442, dans LACURNE</biblScope>
 </bibl>
 </cit>
 </p>
@@ -60100,7 +60100,7 @@
 <dictScrap>Terme de métallurgie. Vives fontes, fontes vives, fontes qui, une fois en liquéfaction, se tiennent liquides très longtemps.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de marine. Oeuvres vives d'un vaisseau, les parties qui trempent dans l'eau.</dictScrap>
+<dictScrap>Terme de marine. Œuvres vives d'un vaisseau, les parties qui trempent dans l'eau.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -60424,7 +60424,7 @@
 <quote>En rassemblant les divers sujets dont on veut dire la même chose, on abrège le discours, et on le rend plus vif</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. v, p. 82</biblScope>
+<biblScope>Œuv. t. v, p. 82</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -60471,7 +60471,7 @@
 <quote>Tel de fâcheux a mérité le titre, Qui sera peint au vif dans mon épître</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuv. t. VII, p. 168</biblScope>
+<biblScope>Œuv. t. VII, p. 168</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -60508,7 +60508,7 @@
 <quote>Marius, piqué jusqu'au vif de cette espèce d'insulte, ne la lui pardonna jamais</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 595, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 595, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -60642,7 +60642,7 @@
 <quote>Il est très difficile de faire entendre par écrit ce qui concerne les sons d'une langue ; cela serait très facile de vive voix</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. IX, p. 16</biblScope>
+<biblScope>Œuv. t. IX, p. 16</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -60907,7 +60907,7 @@
 </p>
 </note>
 <etym>Berry, vife au féminin : une couleur bien vife ; provenç. viu, vieu ; espagn. et ital vivo ; du lat. vivus (voy. <ref target="vivre">VIVRE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIF. Ajoutez : </form>
 <sense n="22">
 <dictScrap>Duvet vif, plume vive, duvet, plume pris sur l'oiseau vivant.</dictScrap>
@@ -61049,7 +61049,7 @@
 <quote>Les Abrolhos, où il y a des vigies, et où l'on voit quelques rochers à fleur d'eau</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Pr. th. terr. Oeuv. t. II, p. 207</biblScope>
+<biblScope>Hist. nat. Pr. th. terr. Œuv. t. II, p. 207</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -61064,7 +61064,7 @@
 <dictScrap>Terme d'argot. Voleur à la vigie, se dit de ceux qui commettent le vol comme voyageurs et sur l'impériale de la voiture.</dictScrap>
 </sense>
 <etym>Lat. vigilia, surveillance, veille (voy. <ref target="veille">VEILLE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIGIE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Rochers en vigie, rochers détachés, isolés.</dictScrap>
@@ -61448,7 +61448,7 @@
 <quote>Le produit de sept arpents de vignes par an est de 6300 sesterces, c'est-à-dire de 787 livres 10 sous</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. x, p. 452</biblScope>
+<biblScope>Hist. anc. Œuv. t. x, p. 452</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -61699,7 +61699,7 @@
 </sense>
 </sense>
 <etym>Vigne. Le coquillage a été dénommé d'après le vigneau des jardins, à cause de son hélice.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIGNEAU. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Nom vulgaire de l'ajonc d'Europe.</dictScrap>
@@ -61769,7 +61769,7 @@
 </p>
 </note>
 <etym>Bourguig. vaingneron ; de l'anc. verbe viner, cultiver la vigne ; ce verbe vient de vigne.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIGNERON. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Adj. Vigneron, vigneronne, qui appartient aux vignobles, aux vignerons.</dictScrap>
@@ -61841,7 +61841,7 @@
 <sense>
 <dictScrap>Terme d'art du moyen âge. Faire un travail de vignettes.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VIGNETER. Ajoutez : - HIST. XIVe s.  <cit><quote>Un henap d'argent vigneteit (1337)</quote><bibl><author>VARIN</author><biblScope>Archives administr. de Reims, t. II, 2e partie, p. 778</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -61915,7 +61915,7 @@
 </p>
 </note>
 <etym>Dimin. de vigne, parce qu'à l'origine cet ornement représentait des branches et des feuilles de vigne.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIGNETTE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Nom vulgaire de la mercuriale annuelle.</dictScrap>
@@ -61987,7 +61987,7 @@
 <quote>La plus grande partie du vignoble d'Agde était, il y a quarante ans, couverte par les eaux de la mer</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Pr. th. terr. Oeuv. t. II, p. 435</biblScope>
+<biblScope>Hist. nat. Pr. th. terr. Œuv. t. II, p. 435</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -62044,7 +62044,7 @@
 <sense>
 <dictScrap>Un des noms vulgaires du genêt piquant.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VIGNON. Ajoutez : <cit><quote>En moins de vingt minutes, plus de deux kilomètres de bois taillis, de bruyères et de vignons se sont trouvés envahis par les flammes</quote><bibl><biblScope>Extr. du Journ. de Falaise, dans Journ. offic. 2 avril 1874, p. 2548, 2e col.</biblScope></bibl></cit> </re>
 <note type="remarque">On trouve aussi vignot, à Avranches guignot. <cit><quote>Que la chasse des bois et des vignots de Baugy... à cause de l'impossibilité pour les chiens, les chasseurs et les gardes, de pénétrer dans les vignots ; que, de plus, le sieur S.... a laissé atteindre à six hectares environ de ses vignots l'âge de quatre à cinq ans, sans être coupés, contrairement à l'usage, d'après lequel les vignots se coupent à trois ans...</quote><bibl><biblScope>Jugement du Tribunal de Bayeux, dans Gazette des Trib. 19-20 avril 1875, p. 383, 3e col.</biblScope></bibl></cit> </note>
 </re>
@@ -62307,7 +62307,7 @@
 <quote>Un des jolis tableaux du Salon, si les têtes étaient vigoureuses</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 376, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 376, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -62538,7 +62538,7 @@
 <quote>La vigueur et l'éclat du coloris sont deux choses diverses ; on est éclatant sans vigueur, et vigoureux sans éclat</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 323, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 323, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -62649,7 +62649,7 @@
 <quote>Quelques plus vigoureux et qui mieux se maintiennent, Jusqu'à quatre-vingts ans aucunes fois parviennent ; Encor ceste vigueur Et le mieux de leur tans n'est rien que fascherie</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrest. XVIII, Prière de Moyse.</biblScope>
+<biblScope>Œuvres chrest. XVIII, Prière de Moyse.</biblScope>
 </bibl>
 </cit>
 </p>
@@ -62914,7 +62914,7 @@
 <quote>Ils affectaient de paraître toujours bottés, pour qu'on ne les prît pas pour des vilains</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. III, p. 14, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. III, p. 14, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -63614,7 +63614,7 @@
 <sense>
 <dictScrap>Nom donné aux grandes provinces en lesquelles l'empire ottoman est divisé, Journ. offic. 28 mars 1869, p. 426, 3e col.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VILAYET.  Ajoutez : - ÉTYM. <cit><quote>Prononciation turque de l'arabe ouilaya ( 1er a long), province</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -63947,7 +63947,7 @@
 <quote>Par quelle vanité voulons-nous que, dans la nôtre [langue], tout ce qui est à l'usage du peuple contracte un caractère de bassesse et de vileté ?</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. x, p. 438</biblScope>
+<biblScope>Œuv. t. x, p. 438</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -64012,7 +64012,7 @@
 </p>
 </note>
 <etym>Provenç. viltat, viutat ; ital. viltà ; du lat. vilitatem, de vilis, vil.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VILETÉ. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -64169,7 +64169,7 @@
 </sense>
 </sense>
 <etym>Lat. villa, maison de campagne (voy. <ref target="ville">VILLE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VILLA. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Sous les Mérovingiens et les Carlovingiens, nom de certains domaines ruraux.</dictScrap>
@@ -64330,7 +64330,7 @@
 <quote>Le temps où dans la poésie champêtre il a fallu non-seulement distinguer l'idylle de l'églogue, mais l'une et l'autre du genre villageois</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VIII, p. 135</biblScope>
+<biblScope>Œuv. t. VIII, p. 135</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -65113,7 +65113,7 @@
 <dictScrap>Nom de l'osier dans l'Angoumois et ailleurs.</dictScrap>
 </sense>
 <etym>Lat. vimen, osier.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIME. Ajoutez : - HIST. XVIe s.  <cit><quote>Vous liés et entourez de deux ou trois tours vostre pied d'arbre d'un visme bien serré au dessoubz de l'endroit que voudrez finir vostre fente</quote><bibl><author>LANDRIC</author><biblScope>Advertissement et maniere d'enter (Bourdeaux, 1580), p. 5, Paris, 1830</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -65206,7 +65206,7 @@
 <quote>On croit que c'est aux Gaulois établis le long du Pô que nous devons l'invention utile de conserver le vin dans des vaisseaux de bois exactement fermés</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. x, p. 439, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. x, p. 439, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -65466,7 +65466,7 @@
 <quote>Trop sujet au vin, il avait perdu son emploi</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>Oeuv. t. x, p. 234, dans POUGENS</biblScope>
+<biblScope>Œuv. t. x, p. 234, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -65861,7 +65861,7 @@
 </p>
 </note>
 <etym>Provenç. vin, vi ; catal. vi ; espagn. vino ; portug. vinho ; ital. vino ; du lat. vinum. Des étymologistes rattachent le grec, vinum au sanscrit védique vena, aimable, amical ; d'autres, à vitis, mais vitis aurait donné vitinum et non vinum. Il est bien plus naturel d'y voir l'hébreu iin, vin : de ioun, faire effervescence, les Sémites ayant précédé les Indo-Européens dans la connaissance du vin.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIN. Ajoutez : </form>
 <sense n="13">
 <dictScrap>Vin du glacier, vin renommé du Valais (Suisse), provenant d'un cépage nommé le rèse et qui, transporté dans les hautes vallées, acquiert, au contact de l'air des glaciers, un bouquet remarquable.</dictScrap>
@@ -65881,7 +65881,7 @@
 <dictScrap>Terme d'ancienne coutume. Droit seigneurial qui se prenait en divers lieux sur le vin, à bord de cuve, c'est-à-dire, avant qu'il en fût tiré, et qui tenait lieu de censives.</dictScrap>
 </sense>
 <etym>Viner. Dans l'ancienne langue, vinage était une redevance en vin.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VINAGE. Ajoutez : - HIST. XIVe s.  <cit><quote>Certaine rente de vin que on appelle vinage, qui peult valoir XXII muis de vin ou environ (1384)</quote><bibl><author>VARIN</author><biblScope>Archives administr. de la ville de Reims, t. III, p. 602</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -65911,7 +65911,7 @@
 <quote>Le vinaigre nourrit de très petites anguilles, sur lesquelles vous pourrez pousser plus loin vos expériences</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Lett. div. Oeuv. t. XII, p. 106, dans POUGENS</biblScope>
+<biblScope>Lett. div. Œuv. t. XII, p. 106, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -65975,7 +65975,7 @@
 <quote>On doit à des assassins de Toulouse, pendant la peste de cette ville (1720), la composition connue sous le nom de vinaigre des quatre voleurs, dont l'ail et le camphre font la base</quote>
 <bibl>
 <author>LEMONTEY</author>
-<biblScope>Oeuv. t. v, p. 327</biblScope>
+<biblScope>Œuv. t. v, p. 327</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -66013,7 +66013,7 @@
 <quote>Le froit m'assault, et m'est un peu bien esgre ; Mes habis sont tous doublés de vinaigre</quote>
 <bibl>
 <author>ROGER DE COLLERYE</author>
-<biblScope>Oeuv. p. 119, dans LACURNE</biblScope>
+<biblScope>Œuv. p. 119, dans LACURNE</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -66120,7 +66120,7 @@
 </p>
 </note>
 <etym>Vinaigre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VINAIGRETTE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Il s'est dit pour vinaigrier, vase à mettre le vinaigre.</dictScrap>
@@ -66256,7 +66256,7 @@
 <quote>Une chose qu'on n'oserait pas entreprendre de soutenir, mais que vous [jésuites] jugiez néanmoins être nécessaire, afin que l'ignorance du droit naturel fût toujours vincible</quote>
 <bibl>
 <author>ANT. ARNAULD</author>
-<biblScope>5e dénonciation, IV (Oeuvres, Lausanne, 1780), p. 317</biblScope>
+<biblScope>5e dénonciation, IV (Œuvres, Lausanne, 1780), p. 317</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -66288,7 +66288,7 @@
 <quote>Ce n'est pas assez de connaître Dieu, ou de l'ignorer vinciblement</quote>
 <bibl>
 <author>ANT. ARNAULD</author>
-<biblScope>5e dénonciation, IV, Oeuvres Lausanne, 1780, p. 317</biblScope>
+<biblScope>5e dénonciation, IV, Œuvres Lausanne, 1780, p. 317</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -66572,7 +66572,7 @@
 </p>
 </note>
 <etym>Vin.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VINÉE. Ajoutez : </form>
 <sense n="3">
 <cit>
@@ -66593,9 +66593,7 @@
 </sense>
 <note type="historique">
 <p>
-<label>Ajoutez :</label>
-</p>
-<p>
+<dictScrap>Ajoutez :</dictScrap>
 <label>XVe s.</label>
 <cit>
 <quote>Et fut la plus meschante année et pouvre vignée qui longtemps fut sceue en France</quote>
@@ -66646,7 +66644,7 @@
 </p>
 </note>
 <etym>Vin. Dans l'ancienne langue viner signifie cultiver la vigne, débiter du vin.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VINER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>V. réfl. Se viner, prendre un goût vineux.</dictScrap>
@@ -66901,7 +66899,7 @@
 <quote>On peut parier 10667 contre 124, ou un peu plus de 86 contre 1, qu'une personne de vingt ans vivra un an de plus</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Prob. de la vie, Oeuv. t. x, p. 308</biblScope>
+<biblScope>Prob. de la vie, Œuv. t. x, p. 308</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -67149,7 +67147,7 @@
 </p>
 </note>
 <etym>Wallon, veintt ; provenç. vint ; espagn. veinte ; portug. vinte ; du latin viginti ; dorien, laconien, grec ; sanscr. vinçati, qui est pour dvi-daçati, deux fois dix.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VINGT. </form>
 <sense n="6">
 <dictScrap>Ajoutez :</dictScrap>
@@ -67178,7 +67176,7 @@
 <sense>
 <dictScrap>Se dit d'un drap dont la trame est composée de vingt fois cent fils, c'est-à-dire 2000.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. VINGTAIN. Ajoutez : - REM. Vingtain est une mauvaise orthographe pour vingt ains (voy. </form>
 <ref target="dix-huitain">DIX-HUITAIN</ref>
 <form> au Supplément). </form>
@@ -67207,7 +67205,7 @@
 </sense>
 </sense>
 <etym>Vingt ; provenç. vingtena ; espagn. veintena ; ital. vintena.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VINGTAINE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Dans les îles Normandes (aujourd'hui à Jersey seulement), circonscription territoriale, division de la paroisse.</dictScrap>
@@ -67300,7 +67298,7 @@
 </p>
 </note>
 <etym>Vingt ; wallon, veintaimm ; provenç. vinten ; cat. vinté ; espagn. vinteno.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VINGTIÈME. - HIST. XIIIe s.  Ajoutez : <cit><quote>Vint et unimes fu Pepins Rois de France...</quote><bibl><author>PH. MOUSKES</author><biblScope>Chronique, V. 2060</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -67533,7 +67531,7 @@
 </p>
 </note>
 <etym>Lat. violabilis, de violare, violer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIOLABLE. Ajoutez : <cit><quote>S'il [le roi] était comme moi, père Duchêne, violable</quote><bibl><biblScope>Lett. du père Duchêne, 116e lettre, p. 6</biblScope></bibl></cit>  <cit><quote>C'est avec le ministère, essentiellement violable, discutable et renversable, que nous traitons des affaires qui intéressent la marche générale du gouvernement</quote><bibl><author>FR. CHARMES</author><biblScope>Journ. des Débats, 16 juin 1876, 1re page, 3e col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -67878,7 +67876,7 @@
 <quote>Les dieux protecteurs de leur ville et vengeurs de la sainteté des temples et des tombeaux violés indignement par ces barbares</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 268, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 268, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -67936,7 +67934,7 @@
 <quote>Ils s'étaient punis eux-mêmes du violement des traités</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. x, p. 98, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. x, p. 98, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -68130,14 +68128,14 @@
 <quote>La violence du feu dépend presque en entier de la rapidité du courant de l'air qui l'anime</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. introd. Oeuv. VI, p. 88</biblScope>
+<biblScope>Hist. min. introd. Œuv. VI, p. 88</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>La violence des désirs du roi [Philippe V] faisait la force de la reine</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VI, p. 113</biblScope>
+<biblScope>Œuv. t. VI, p. 113</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -68812,7 +68810,7 @@
 </sense>
 <etym>XVIe s.  <cit><quote>Ce qui l'avoit faict ainsi violenter [agir violemment] en sa charge, et renverser toutes les anciennes ordonnances</quote><bibl><author>CARLOIX</author><biblScope>V, 48</biblScope></bibl></cit> <cit><quote>J'en avois fait serment ; mais je n'ai le pouvoir D'estre seigneur de moi ; tant mon triste courage, Violenté d'amour et conduit par usage [habitude], Y reconduit mes pieds....</quote><bibl><author>RONS.</author><biblScope>Amours, liv. II</biblScope></bibl></cit></etym>
 <etym>Violent.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIOLENTER. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Violenter de, contraindre à.</dictScrap>
@@ -68872,7 +68870,7 @@
 <quote>La religieuse crainte qu'avaient alors [dans le siége de Jérusalem par Titus] les Juifs de violer la loi, s'ils se défendaient le jour du sabbat</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 92, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 92, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -69166,7 +69164,7 @@
 </p>
 </note>
 <etym>Voy. <ref target="violette">VIOLETTE</ref>.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIOLET. Ajoutez : </form>
 <sense n="8">
 <dictScrap>Sorte de bois, dit aussi bois de violette (voy. <ref target="violette#var5">VIOLETTE, n° 5</ref>, au Dictionnaire).</dictScrap>
@@ -69792,7 +69790,7 @@
 </p>
 </note>
 <etym>Dérivé de viole ; provenç. violon ; catal. violi ; espagn. violon ; ital. violino. Quant à violon, prison, Génin, Récréat. t. I, p. 226, dit que, dans le XIVe siècle, psaltérion, sorte d'instrument de musique, avait pris le sens de prison, parce que mettre au psaltérion, c'était mettre en pénitence pour chanter les psaumes avec le psaltérion, et que, le psaltérion ayant passé de mode, on y avait substitué le violon. D'autres ont dit que le violon était un local de la Conciergerie où l'on enfermait les perturbateurs pendant les audiences, en leur laissant la liberté de jouer du violon. M. Kastner, dans sa Parémiologie, remarque que le psaltérion était un cep en bois où l'on passait les pieds des gens que l'on condamnait à cette punition : Robert le fournier, pour le soupçon d'avoir robé Colin le varlet, rompu sa huche, et y prins onze solz tournois, fut mis ou cep dit salterion desdites prisons, Lett. de rémiss. 1377. Il remarque en outre qu'en allemand Fiedel ou Geige, qui signifie violon, a aussi le sens du cep des anciennes prisons. Il en conclut que violon a été dit, à l'imitation des Allemands, pour cep, qu'il a remplacé le psaltérion, et que du sens de cep le violon a passé au sens du lieu où était le cep. C'est de ce sens de cep que violon a pris celui de mauvais sujet.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIOLON. Ajoutez : </form>
 <sense n="11">
 <cit>
@@ -70199,7 +70197,7 @@
 <quote>Et de ces langues vipérines Qui mordent plus fort que vermines</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuv. t. VII, p. 20</biblScope>
+<biblScope>Œuv. t. VII, p. 20</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -70256,7 +70254,7 @@
 <dictScrap>Terme de photographie. Opération qui consiste à mettre l'épreuve tremper dans une dissolution d'un sel d'or qui donne à l'épreuve plus d'intensité.</dictScrap>
 </sense>
 <etym>Virer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIRAGE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Action d'une couleur qui vire, qui change.</dictScrap>
@@ -70351,7 +70349,7 @@
 <dictScrap>Vulgairement, le panaris sous-épidermique.</dictScrap>
 </sense>
 <etym>Virer, parce qu'il tourne autour du doigt ; comparez tourniolle de tourner.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIRE (vi-r'), s. f. Chemin en lacet ou tournant autour d'une montagne abrupte, en Valais. La vire aux mayens, titre d'un article de la Revue des Deux-Mondes, 15 août 1877, par M. J. Gourdault. </re>
 </re>
 </entry>
@@ -70421,7 +70419,7 @@
 </p>
 </note>
 <etym>Viré.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIRÉE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Terme de forestier.</dictScrap>
@@ -70476,7 +70474,7 @@
 </p>
 </note>
 <etym>Virer, et lai : lai en rond, rondeau.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VIRELAI. Ajoutez : - REM. Le virelai est un petit poëme sur deux rimes. Le P. Mourgues (Traité de la poésie française, III, 6) le définit ainsi : "Les poëtes, après avoir conduit quelque temps le lai sur une rime dominante, le faisaient tourner ou virer sur l'autre rime, qui devenait dominante à son tour ; voilà exactement ce qu'était le virelai ancien." Puis il décrit une modification moderne du virelai en ces termes : "L'une des rimes domine dans toute la pièce, l'autre s'y joint de temps en temps pour faire un peu de variété. Le premier ou les deux premiers vers se répètent dans la suite, ou ensemble, ou séparément, autant de fois qu'ils tombent à propos et forment le virelai." On peut voir dans Jullien, les Formes harmoniques du français, Hachette, 1876, p. 184, un exemple de ce dernier genre de virelai. Toutefois, les anciens poëtes ne s'astreignaient pas toujours à la règle des deux rimes. Dans le premier bulletin de la Société des anciens textes français, M. Paul Meyer cite les premiers vers d'un virelai : ils sont sur trois rimes. Dans le recueil intitulé les Poëtes français jusqu'à Malherbe, se trouve (t. II, p. 146) un virelai de Jean Froissart sur quatre rimes. J. J. Rousseau a adressé à Mme de Warens une pièce en trois couplets à refrain, qu'il a nommée virelai ; c'est une erreur. </re>
 </re>
 </entry>
@@ -70717,7 +70715,7 @@
 </p>
 </note>
 <etym>Provenç. virar ; espagn. birar ; du bas-latin virare, qui se trouve dans les lois barbares. Le g ne se changeant pas en v, on ne peut guère songer au latin gyrare, tourner. Aussi Diez pense que le radical de ce mot est dans le lat. viria, bracelet, viriola, d'où virole.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIRER. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Contourner.</dictScrap>
@@ -71117,7 +71115,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>VIRGINALEMENT. - HIST. XIVe s. Ajoutez : <cit><quote>Comment Salomé qui ne creoit pas que Nostre Dame eust enfanté virginalement sanz euvre d'omme...</quote><bibl><biblScope>Miracles de Nostre Dame par personnages, Paris, 1876, p. 205</biblScope></bibl></cit> <cit><quote>Elle l'enfanta virginaument pour nostre redemption</quote><bibl><biblScope>ib. p. 207</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -71993,7 +71991,7 @@
 </p>
 </note>
 <etym>Lat. virus, suc, bave, poison ; sanscr. visha.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIRUS. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Fig. Virus pénitentiaire, démoralisation que se communiquent les condamnés dans les prisons.</dictScrap>
@@ -72430,7 +72428,7 @@
 <quote>Il [Marcus Emilius] fit plus, il ordonna aux siens de tuer impitoyablement les premiers des fuyards qu'ils rencontreraient, et qui refuseraient de tourner visage</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VIII, p. 410, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VIII, p. 410, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -73238,7 +73236,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VISCÉRALEMENT. Ajoutez : - HIST. XVe s.  <cit><quote>Qui est le plus grand abus et la plus grande entreprise sur nous, nostre couronne et royaume que l'on sçauroit et qui plus visceralement nous touche</quote><bibl><author>GODEFROY</author><biblScope>Observ. sur Charles VII, p. 582</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -73683,7 +73681,7 @@
 <quote>Dans ses tableaux de paysages, il y a quelquefois des figures qui visent un peu à l'épouvantail</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 509, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 509, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -74034,7 +74032,7 @@
 </p>
 </note>
 <etym>Bourguig. voisible ; provenç. vesible, vizible ; esp. visible ; port. visivel ; ital. visibile ; du lat. visibilis, de visum, supin de videre, voir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VISIBLE. - HIST. Ajoutez : XIIe s.  <cit><quote>Visible astoit tote la creature en la disposition del secle [avant la création], alsi com il la veïst [comme si Dieu la voyait]</quote><bibl><biblScope>li Dialoge Gregoire lo pape, 1876, p. 286</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -74917,7 +74915,7 @@
 <quote>Encore que les reines, et les princesses, et toutes les personnes de condition du royaume, aient la curiosité de me voir, m'honorent de leurs visites, et me dispensent de leur en rendre</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuv. t. I, p. 240</biblScope>
+<biblScope>Œuv. t. I, p. 240</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -74986,7 +74984,7 @@
 <quote>Il y a même un règlement [à l'Académie française] qui défend les sollicitations et jusqu'aux visites des candidats</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. IX, p. 304</biblScope>
+<biblScope>Œuv. t. IX, p. 304</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -75863,7 +75861,7 @@
 </p>
 </note>
 <etym>Prov. vizual ; esp. visual ; ital. visuale ; du lat. visualis (QUICHERAT, Addenda), de visus, action de voir, supin visum, de videre, voir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VISUEL. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Plan visuel, croquis qui montre la vue d'un lieu.</dictScrap>
@@ -75907,7 +75905,7 @@
 <quote>Cela indique une grande énergie dans le principe vital de ces insectes</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Observ. vers, Oeuv. t. I, p. 220, dans POUGENS</biblScope>
+<biblScope>Observ. vers, Œuv. t. I, p. 220, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -75969,7 +75967,7 @@
 </p>
 </note>
 <etym>Provenç. vital, vidal ; espagn. vital ; ital. vitale ; du lat. vitalis, de vita, vie.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VITAL. - HIST. Ajoutez : XIIe s.  <cit><quote>Uns freres morut, li queiz manes [soudain], quant il parloit, mist fors lo vial sofflement</quote><bibl><biblScope>li Dialoge Gregoire lo pape, 1876, p. 200</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -76045,7 +76043,7 @@
 <quote>La vitalité de certains êtres organisés</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>7e lett. hist. nat. Oeuv. t. XI, p. 309, dans POUGENS.</biblScope>
+<biblScope>7e lett. hist. nat. Œuv. t. XI, p. 309, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -76407,7 +76405,7 @@
 <dictScrap>Terme de cuisine. Ruban de pâte accommodé à la sauce piquante ou cuit dans le lait.</dictScrap>
 </sense>
 <etym>Le vitelot, décrit par le Dict. de Trévoux, est une pâtisserie longue et menue, ainsi dite par une assimilation obscène.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VITELOT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Sorte de crochet.</dictScrap>
@@ -76821,7 +76819,7 @@
 <dictScrap>Collure des fils sur les asples des tours à dévider les cocons ; ce qui est un défaut.</dictScrap>
 </sense>
 <etym>Vitrer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VITRAGE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Petit rideau de fenêtre, par opposition aux grands rideaux.</dictScrap>
@@ -76939,7 +76937,7 @@
 <quote>Leurs vitres [des Groënlandais] sont de boyaux transparents de poissons de mer</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Suppl. à l'Hist. nat. Oeuv. t. XI, p. 252</biblScope>
+<biblScope>Suppl. à l'Hist. nat. Œuv. t. XI, p. 252</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -77231,7 +77229,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Oeil vitreux, œil terni, surtout aux approches de la mort.</dictScrap>
+<dictScrap>Œil vitreux, œil terni, surtout aux approches de la mort.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -78128,7 +78126,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Oeuvres de miséricorde. Je suis accoutumée à vos vivacités</quote>
+<quote>Œuvres de miséricorde. Je suis accoutumée à vos vivacités</quote>
 <bibl>
 <author>LACHAUSSÉE</author>
 <biblScope>Mélanide, III, 2</biblScope>
@@ -78177,7 +78175,7 @@
 <quote>Je ne sais quelle douce émotion donne à ses regards une vivacité nouvelle</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. v, p. 234</biblScope>
+<biblScope>Œuv. t. v, p. 234</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -78538,7 +78536,7 @@
 <quote>La tragédie chez les Grecs ne fut que le tableau vivant de leur histoire</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. IX, p. 394</biblScope>
+<biblScope>Œuv. t. IX, p. 394</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -78644,7 +78642,7 @@
 <quote>Ce nombre de trente vivants pour un mort dans la ville de Londres a été adopté par tous les auteurs anglais qui ont écrit sur cette matière</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Prob. de la vie, Oeuv. t. x, p. 564</biblScope>
+<biblScope>Prob. de la vie, Œuv. t. x, p. 564</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -78753,7 +78751,7 @@
 <quote>Il [Newton] a eu l'avantage singulier de voir sa philosophie généralement reçue en Angleterre de son vivant</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. I, p. 281</biblScope>
+<biblScope>Œuv. t. I, p. 281</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -78846,7 +78844,7 @@
 <quote>Donne de l'eau vivante à ma bouche altérée</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuv. chrest. XVIII, Plainte.</biblScope>
+<biblScope>Œuv. chrest. XVIII, Plainte.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -79018,7 +79016,7 @@
 <quote>Tous les détails de l'expression [chez un acteur], toutes les nuances de la pensée et du sentiment sont aperçus et vivement sentis</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. x, p. 319</biblScope>
+<biblScope>Œuv. t. x, p. 319</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -79185,7 +79183,7 @@
 <quote>Les rayons qui partent du trône n'échauffent que ceux qui en approchent ; ils éblouissent au loin, et n'y portent point cette chaleur vivifiante qui anime une nation</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 189</biblScope>
+<biblScope>Œuv. t. v, p. 189</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -79282,7 +79280,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>VIVIFIEMENT. - HIST. Ajoutez : XIIe s.  <cit><quote>Quant par lo vivifiement de la char est hom remeneit à la vie</quote><bibl><biblScope>li Dialoge Gregoire lo pape, 1876, p. 149</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -80405,7 +80403,7 @@
 <quote>Quoiqu'elle vécût parfaitement bien avec lui, il n'était pas entièrement heureux</quote>
 <bibl>
 <author>LA FAY.</author>
-<biblScope>Princ. Clèves, Oeuv. compl. t. II, p. 34, dans POUGENS.</biblScope>
+<biblScope>Princ. Clèves, Œuv. compl. t. II, p. 34, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -81229,7 +81227,7 @@
 </p>
 </note>
 <etym>Prov. viure, vieure ; catal. viurer ; esp. vivir ; portug. viver ; ital. vivere ; du latin vivere ; comparez le grec vie ; le gaél. beo, vivant ; kimry, byw, vivant ; sanscr. jiv, vivre. Le wallon dit viké ; au XIIe siècle on trouve une forme viscat.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VIVRE. Ajoutez : </form>
 <sense n="23">
 <dictScrap>Le long vivre, l'action de vivre longtemps.</dictScrap>
@@ -81444,7 +81442,7 @@
 </cit>
 </sense>
 <etym>Vivre 2.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VIVRIER. Ajoutez : - REM. Vivrier, noté comme ancien, s'emploie encore aujourd'hui.  </form>
 <cit>
 <quote>L'introduction de quelques officiers d'administration d'élite qui se sont révélés comme de véritables administrateurs, qui sont devenus ce qu'on appelle en style militaire de bons vivriers, peut être utile</quote>
@@ -81513,7 +81511,7 @@
 </sense>
 </sense>
 <etym>Arabe, ouazîr, vizir, proprement porteur.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VIZIR. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Sorte de tabac à fumer, Réponses aux questions de l'enquête sur le monopole des tabacs et des poudres, p. 230, Paris, 1874.</dictScrap>
@@ -81867,7 +81865,7 @@
 <sense>
 <dictScrap>Terme de phonétique. Qui a rapport aux voyelles. L'altération vocalique de a.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VOCALIQUE. Ajoutez : </re>
 <re>Harmonie vocalique, se dit, dans les langues ouralo-altaïques, de ce fait : les différentes voyelles étant réparties en deux classes, toutes les voyelles d'un mot qui suivent celle de la syllabe principale doivent être de la même classe que la voyelle de cette syllabe, A. HOVELACQUE, Linguistique, p. 139, Paris, 1876. </re>
 </re>
@@ -81902,7 +81900,7 @@
 <dictScrap>Terme de grammaire. Changement en voyelle. La vocalisation d'une consonne.</dictScrap>
 </sense>
 <etym>Vocaliser.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOCALISATION. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Système des voyelles d'une langue.</dictScrap>
@@ -82002,7 +82000,7 @@
 </sense>
 </sense>
 <etym>Provenç. vocatiu ; espagn. et ital. vocativo ; du lat. vocativus, de vocare, appeler (voy. <ref target="voyelle">VOYELLE</ref>).  <cit><quote>Vocatif se trouve au XVe siècle dans le sens de qui s'appelle, putatif : Li maris peres vocatif</quote><bibl><author>E. DESCH.</author><biblScope>Poésies mss. f° 568</biblScope></bibl></cit></etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOCATIF. Ajoutez : - HIST. XIVe s.  <cit><quote>Qui gouverne le vocatif ? il n'est mie gouverné</quote><bibl><author>THUROT</author><biblScope>p. 272</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -82263,7 +82261,7 @@
 </p>
 </note>
 <etym>Provenç. vocatio ; espagn. vocacion ; ital. vocazione ; du lat. vocationem, de vocare, appeler (voy. <ref target="voyelle">VOYELLE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOCATION. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Terme de droit. Vocation testamentaire, droit conféré par un testament.</dictScrap>
@@ -82576,7 +82574,7 @@
 <quote>Au concile de Trente, les généraux d'ordre représentèrent que, si l'on ne permettait pas de pouvoir faire les derniers vœux monastiques à seize ans, et si on les retardait jusqu'à vingt-cinq, il y aurait très peu de religieux et de religieuses</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 215, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 215, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -82877,7 +82875,7 @@
 </p>
 </note>
 <etym>Provenç. vot ; espagn. et ital. voto ; du lat. votum, part. passé de vovere, qui se rattache au goth. vopjan, invoquer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VŒU. Ajoutez : </form>
 <sense n="9">
 <dictScrap>à pleins vœux, autant que les vœux peuvent demander.</dictScrap>
@@ -83044,7 +83042,7 @@
 </p>
 </note>
 <etym>Voy. <ref target="voguer">VOGUER</ref> ; wallon, vok.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOGUE. - HIST. XVIe s.  Ajoutez : <cit><quote>Ceux de la garnison de Marualz faisoient une feste comme vogues, où venoient gens de toutes pars</quote><bibl><author>PARADIN</author><biblScope>Chron. de Savoye, p. 216</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -84285,7 +84283,7 @@
 <quote>Le régent défendit les voies de fait au duc de Richelieu ou au comte de Bavière, qui, ayant eu ensemble quelques paroles vives, avaient pris un rendez-vous</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 223</biblScope>
+<biblScope>Œuv. t. v, p. 223</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -84558,7 +84556,7 @@
 </p>
 </note>
 <etym>Norm. vaie ; wall. vôie ; prov. esp. et it. via ; du lat. via, ou, dans le parler des gens de la campagne, veha, osque veia, chariot, qui se rapporte à vehere ; sanscr. vah, porter (voy. <ref target="véhicule">VÉHICULE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOIE. Ajoutez : </form>
 <sense n="23">
 <dictScrap>Hotte à claire-voie.</dictScrap>
@@ -85113,7 +85111,7 @@
 <quote>Autrefois toutes les femmes en France s'attachaient un voile sur la tête ; celui de la femme d'un gentilhomme lui descendait jusqu'aux talons, au lieu qu'il était ordonné que le voile d'une bourgeoise ne lui passât pas la ceinture</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 273, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 273, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -85160,7 +85158,7 @@
 <quote>Ce jour même, elle prit le voile noir, dernière cérémonie de sa consécration à la vie religieuse</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. II, p. 71, dans POUGENS</biblScope>
+<biblScope>Œuv. t. II, p. 71, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -85502,7 +85500,7 @@
 </p>
 </note>
 <etym>Prov. vel ; esp. et it. velo ; portug. veo ; du latin, velum, que l'on rattache au sanscr. var, couvrir, d'où le grec (voy. <ref target="élytre">ÉLYTRE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VOILE. </form>
 <sense n="4">
 <dictScrap>Ajoutez :</dictScrap>
@@ -85681,7 +85679,7 @@
 <quote>Il [Alexandre] nomma pour amiral Néarque, qui de tous les officiers fut le seul qui osa se charger de cette commission [naviguer de l'Indus au golfe Persique], extrêmement dangereuse, parce qu'il s'agissait de faire voile sur une mer absolument inconnue</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 544</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 544</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -85942,7 +85940,7 @@
 <quote>La coiffure des femmes arabes, quoique simple, est galante ; elles sont toutes à demi ou à quart voilées</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Suppl. à l'hist. nat. Oeuvr. t. XI, p. 261</biblScope>
+<biblScope>Suppl. à l'hist. nat. Œuvr. t. XI, p. 261</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -85972,7 +85970,7 @@
 <quote>Lachaise] en parlait avec modération, en louait même quelques particuliers</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. v, p. 116</biblScope>
+<biblScope>Œuvr. t. v, p. 116</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -86521,7 +86519,7 @@
 <quote>Qui est-ce qui a vu Dieu ? c'est Raphaël, c'est le Guide ; qui est-ce qui a vu Moïse ? c'est Michel-Ange</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Pensées sur la peint. Oeuv. t. XV, p. 229, dans POUGENS.</biblScope>
+<biblScope>Pensées sur la peint. Œuv. t. XV, p. 229, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -86982,7 +86980,7 @@
 <quote>Les objets qu'il [Lamotte] parcourt ne sont liés que par des que vois-je et que vois-je encore ? c'est une galerie de tableaux, et, qui pis est, de tableaux mal peints</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. IX, p. 38</biblScope>
+<biblScope>Œuv. t. IX, p. 38</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -87257,7 +87255,7 @@
 <quote>L'art de voir, cet art si utile, si universel, n'est pas commun ; je renvoie aux mémoires sur les insectes et à l'histoire des polypes tous ceux qui n'en possèdent pas les règles</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuv. t. VIII, p. 259</biblScope>
+<biblScope>Contempl. nat. Œuv. t. VIII, p. 259</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -87298,7 +87296,7 @@
 <quote>[Louis XI] conçut tant de chagrin de la mort de son premier fils Joachim, qu'il fit vœu de ne plus voir d'autre femme que la reine, et l'on prétend qu'il a gardé ce vœu</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. III, p. 349</biblScope>
+<biblScope>Œuv. t. III, p. 349</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -87461,7 +87459,7 @@
 <quote>J'ai assez vu la plupart des Mécènes et des grands pour n'avoir point à m'en louer, et assez peu pour n'avoir point à m'en plaindre</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. III, p. 103</biblScope>
+<biblScope>Œuv. t. III, p. 103</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -87598,7 +87596,7 @@
 <quote>On avait promis à cet officier la croix de Saint-Louis et un avancement ; le cardinal lui dit brusquement qu'on verrait</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. VI, p. 125</biblScope>
+<biblScope>Œuv. t. VI, p. 125</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -87973,7 +87971,7 @@
 <quote>Souvent il voit mal, il se prévient</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. VI, p. 130, dans POUGENS</biblScope>
+<biblScope>Œuv. t. VI, p. 130, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -88860,7 +88858,7 @@
 </p>
 </note>
 <etym>Wallon, veï ; Bresse, vay ; franc-comtois, voë ; bourguign. voi ; picard, vir ; norm. veir, prononcé tantôt vére, tantôt vé ; provenç. vezer ; catal. veurer ; espagn. ver ; ital. vedere ; du latin videre ; comparez le grec ; goth. veita ; sanscr. vid.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOIR. Ajoutez : </form>
 <sense n="41">
 <dictScrap>Fig. Ne voir qu'un étang, ne plus savoir où l'on en est ; comme qui dirait : ne voir qu'un brouillard.</dictScrap>
@@ -89099,7 +89097,7 @@
 <quote>Ces froides horreurs de l'enfer, Cette nuit, ces vieux lits de fer Où se vont coucher les Furies, Ce gros chien qui jappe au portal, Ces grandes plaines de voiries Sont leur éternel hôpital</quote>
 <bibl>
 <author>THÉOPHILE</author>
-<biblScope>Oeuvr. 1re part. p. 29</biblScope>
+<biblScope>Œuvr. 1re part. p. 29</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -89195,7 +89193,7 @@
 </p>
 </note>
 <etym>Voie.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOIRIE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Cour, dite aussi coche (voy. ce mot au Supplément), placée dans les abattoirs et destinée à recevoir la vidange des estomacs et des intestins des animaux.</dictScrap>
@@ -89554,7 +89552,7 @@
 <quote>Rien n'est si dangereux pour le vrai et ne l'expose tant à être méconnu, que l'alliage ou le voisinage de l'erreur</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. I, p. 186</biblScope>
+<biblScope>Œuv. t. I, p. 186</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -89805,7 +89803,7 @@
 <quote>En allant à Londres dans une petite voiture découverte, elle versa et se blessa dangereusement à la tête</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. III, p. 181, dans POUGENS</biblScope>
+<biblScope>Œuv. t. III, p. 181, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -90271,7 +90269,7 @@
 <quote>Sa voix est sonore, flexible, et légère</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. IV, p. 27, dans POUGENS</biblScope>
+<biblScope>Œuv. t. IV, p. 27, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -90521,7 +90519,7 @@
 <quote>M. Dodart découvrit que, dans la voix du chant, il y a de plus que dans celle de la parole un mouvement de tout le larynx</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. IX, p. 343</biblScope>
+<biblScope>Œuv. t. IX, p. 343</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -90640,7 +90638,7 @@
 <quote>Cafarelli disait, en parlant de Farinelli, qu'il avait été premier ministre en Espagne, et ajoutait : il le méritait bien, car c'est une voix admirable</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvres, t. VII, p. 176</biblScope>
+<biblScope>Œuvres, t. VII, p. 176</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -90975,7 +90973,7 @@
 <quote>Toutes les voix s'unissaient pour louer le comte Ernest</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. v, p. 130, dans POUGENS</biblScope>
+<biblScope>Œuv. t. v, p. 130, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -91052,7 +91050,7 @@
 <quote>La voix ou forme du verbe : elle est de trois sortes : la voix ou forme active, la voix passive et la forme neutre</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 68</biblScope>
+<biblScope>Œuv. t. IV, p. 68</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -91338,7 +91336,7 @@
 <quote>Il est toujours en l'air sur son Pégase, et ne voit les objets qu'à vol d'oiseau</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Lett. div. Oeuv. t. XII, p. 221, dans POUGENS</biblScope>
+<biblScope>Lett. div. Œuv. t. XII, p. 221, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -91432,7 +91430,7 @@
 <quote>J'ai vu Mars descendre en cadence ; J'ai vu des vols prompts et subtils ; J'ai vu la Justice en balance Et qui ne tenait qu'à deux fils</quote>
 <bibl>
 <author>PANNARD</author>
-<biblScope>Oeuv. Descrip. de l'Opéra.</biblScope>
+<biblScope>Œuv. Descrip. de l'Opéra.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -91525,7 +91523,7 @@
 <quote>Ce fut là qu'ayant eu part au mariage de la princesse de Parme avec Philippe V, il [Alberoni] prit le vol qui l'éleva si haut</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 236</biblScope>
+<biblScope>Œuv. t. v, p. 236</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -91632,13 +91630,13 @@
 <quote>Quand quelquefois je pense au vol de ceste vie, Et que nos plus beaux jours plus vistement s'en vont</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuv. chrestiennes, Sonnets, 14</biblScope>
+<biblScope>Œuv. chrestiennes, Sonnets, 14</biblScope>
 </bibl>
 </cit>
 </p>
 </note>
 <etym>Voy. <ref target="voler.2">VOLER 2</ref>.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VOL. Ajoutez : </form>
 <sense n="12">
 <dictScrap>En vol, s'est dit des volées des cloches.</dictScrap>
@@ -92284,7 +92282,7 @@
 <quote>Ce n'est pas un grand ouvrage, mais c'est l'ouvrage d'un grand peintre ; ce qu'on peut toujours dire des feuilles volantes de Voltaire ; on y retrouve le signe caractéristique, l'ongle du lion</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 251, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 251, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <dictScrap>J'ai ouï dire qu'Addison, Pope, Steele, etc.</dictScrap>
@@ -92367,7 +92365,7 @@
 </p>
 </note>
 <etym>Voler 1.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VOLANT. Ajoutez : </form>
 <sense n="12">
 <dictScrap>Dans la marine, gardien volant, gardien qui n'est pas à poste fixe.</dictScrap>
@@ -92551,7 +92549,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <form> 3. VOLANT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Dans la Haute-Garonne, fer volant, sorte de faucille.</dictScrap>
@@ -92972,7 +92970,7 @@
 <quote>Un volcan sous-marin ne peut agir que par instants ; un volcan terrestre ne peut durer qu'autant qu'il est voisin des eaux ; c'est par cette raison que tous les volcans actuellement agissants sont dans les îles ou près des côtes de la mer</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>4e ép. nat. Oeuv. t. XII, p. 192</biblScope>
+<biblScope>4e ép. nat. Œuv. t. XII, p. 192</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -93807,7 +93805,7 @@
 </p>
 </note>
 <etym>Voler 1 ; wallon, volaie ; provenç. volada ; ital. volata.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOLÉE. </form>
 <sense n="3">
 <dictScrap>Ajoutez :</dictScrap>
@@ -94177,7 +94175,7 @@
 <quote>Pouvez-vous former un désir qu'il soit en mon pouvoir de satisfaire, sans que mon cœur vole au-devant de vos vœux ?</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuvr. t. II, p. 55, dans POUGENS</biblScope>
+<biblScope>Œuvr. t. II, p. 55, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -94934,7 +94932,7 @@
 </p>
 </note>
 <etym>Voler 1, à cause que ce morceau d'étoffe vole, flotte. On serait tenté d'y voir un diminutif de voile, mais les formes ne s'y prêtent pas. De plus volet au sens de flèche indique visiblement le verbe voler.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOLET. - HIST. XIVe s.  Ajoutez : <cit><quote>Au charpentier qui a refait.... le pignon de la porcherie et le volet [pigeonnier] (1336)</quote><bibl><author>VARIN</author><biblScope>Archives administ. de la ville de Reims, t. II, 2e part. p. 749</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -95123,7 +95121,7 @@
 <quote>On obligeait le voleur d'un chien de chasse à faire trois tours sur la place publique, en lui baisant le derrière</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuvr. t. IV, p. 24, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuvr. t. IV, p. 24, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -95317,7 +95315,7 @@
 </sense>
 </sense>
 <etym>Voy. <ref target="volins">VOLINS</ref> ou <ref target="volis">VOLIS</ref>, dont volige paraît être une forme.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOLIGE. Ajoutez : </re>
 <re>Planche de chêne, de 0m,22 à 0m,24 largeur, et 0m,013 à 0m015 épaisseur, NANQUETTE, Exploit. débit et estim. des bois, Nancy, 1868, p. 75. </re>
 </re>
@@ -95358,7 +95356,7 @@
 <dictScrap>Synonyme de rompis.</dictScrap>
 </sense>
 <etym>Volins, volis, seraient-ils pour vaulins, vaulis (voy. <ref target="gaule">GAULE</ref>, où l'on trouve la forme dialectale vaule) ?</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOLINS ou VOLIS. Ajoutez : </re>
 <re>Plus particulièrement, dans les chablis, la partie de l'arbre qui gît brisée sur le sol, BAGNERIS, Manuel de sylviculture, p. 6, Nancy, 1873 </re>
 </re>
@@ -95702,7 +95700,7 @@
 </p>
 </note>
 <etym>Prov. voluntairi ; esp. voluntario ; ital. volontario ; du lat. voluntarius (voy. <ref target="volonté">VOLONTÉ</ref>). L'ancienne langue avait volenteis, très usité.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOLONTAIRE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Aujourd'hui, d'après la nouvelle loi militaire, jeune homme qui, passant avec succès un examen et versant une certaine somme, fait un an de service dans un régiment ; après quoi il appartient à la réserve.</dictScrap>
@@ -95877,7 +95875,7 @@
 <quote>Dans un sens plus général, la volonté se prend pour une faculté qui embrasse toutes les opérations qui naissent du besoin</quote>
 <bibl>
 <author>CONDIL.</author>
-<biblScope>Oeuv. t. v, p. XCVIII</biblScope>
+<biblScope>Œuv. t. v, p. XCVIII</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -95981,7 +95979,7 @@
 <quote>Quoique, en jouant du luth, je ne songe pas à tous moments à remuer les doigts, et que je n'aie qu'une volonté générale, il a pourtant fallu que j'aie eu une volonté particulière, ou en commençant cette pièce, ou quand j'ai appris d'abord à jouer du luth, ce qui suffit</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Oeuv. t. IX, p. 340</biblScope>
+<biblScope>Œuv. t. IX, p. 340</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -96219,7 +96217,7 @@
 <dictScrap>Arme à volonté, commandement militaire de porter l'arme comme il sera plus commode.</dictScrap>
 </sense>
 </sense>
-<re type="proverbe"><form>Les volontés sont libres</form>, se dit quand quelqu'un refuse de faire quelque chose qu'on lui propose.  <cit><quote>Monsieur, les volontés sont libres ; que m'importe ?</quote><bibl><author>MOL.</author><biblScope>l'Ét. III, 2</biblScope></bibl></cit><cit xmlns="http://www.tei-c.org/ns/1.0"><quote>B : Ne dit-on pas toux les jours : les volontés sont libres ? - A : Un proverbe n'est pas une raison</quote><bibl><author>VOLT.</author><biblScope>Dict. phil. Liberté.</biblScope></bibl></cit>
+<re type="proverbe"><form>Les volontés sont libres</form>, se dit quand quelqu'un refuse de faire quelque chose qu'on lui propose.  <cit><quote>Monsieur, les volontés sont libres ; que m'importe ?</quote><bibl><author>MOL.</author><biblScope>l'Ét. III, 2</biblScope></bibl></cit><cit><quote>B : Ne dit-on pas toux les jours : les volontés sont libres ? - A : Un proverbe n'est pas une raison</quote><bibl><author>VOLT.</author><biblScope>Dict. phil. Liberté.</biblScope></bibl></cit>
 </re>
 <note type="historique">
 <p>
@@ -97033,7 +97031,7 @@
 <quote>Les exercices athlétiques leur tenaient lieu de ce qu'est à l'égard de notre noblesse la danse, l'art de faire des armes, de voltiger, de monter à cheval</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. v, p. 53, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. v, p. 53, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -97049,7 +97047,7 @@
 <quote>Ce général [Philopémen], voltigeant dans les intervalles de l'infanterie, encouragea ses gens en peu de paroles, mais très fortes</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VIII, p. 171, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VIII, p. 171, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -97315,7 +97313,7 @@
 </sense>
 </sense>
 <etym>Lat. volubilis, qui s'enroule, de volvere, tourner (voy. <ref target="volume">VOLUME</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOLUBILE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Fig. Qui se tourne suivant toutes les influences.</dictScrap>
@@ -97364,7 +97362,7 @@
 <quote>La volubilité de la langue dispose la voix à la vivacité des roulements</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>Oeuvr. t. XII, p. 150</biblScope>
+<biblScope>Œuvr. t. XII, p. 150</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -97522,7 +97520,7 @@
 <quote>Ptolémée Philadelphe, en mourant, la laissa [la bibliothèque d'Alexandrie] composée déjà de cent mille volumes ; les princes de cette race qui le suivirent l'augmentèrent encore, de sorte qu'enfin il s'y trouva sept cent mille volumes</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 300, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 300, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -97648,7 +97646,7 @@
 <quote>La plupart des changements qu'un homme fait à son état pour le rendre meilleur, augmentent la place qu'il tient dans le monde, son volume, pour ainsi dire ; mais ce volume plus grand donne plus de prise aux coups de la fortune</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Bonh. Oeuv., t. III, p. 265</biblScope>
+<biblScope>Bonh. Œuv., t. III, p. 265</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -97887,7 +97885,7 @@
 <quote>Les grandes robes de la magistrature et leurs plis volumineux</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuvr. t. XIII, p. 334</biblScope>
+<biblScope>Salon de 1765, Œuvr. t. XIII, p. 334</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -98077,7 +98075,7 @@
 </p>
 </note>
 <etym>Lat. voluptuaris, de voluptas, volupté.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOLUPTUAIRE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Qui ne se fait que pour le plaisir.</dictScrap>
@@ -98120,7 +98118,7 @@
 </p>
 </note>
 <etym>Voluptueuse, et le suffixe ment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOLUPTUEUSEMENT. - HIST. XVIe s. Ajoutez : <cit><quote>Et eux.... qui reputent à volupté les delices du jour, qui sont souillures et macules, abondans en delices, voluptueusement vivans avec vous aux convives [repas] qu'on leur fait</quote><bibl><biblScope>Pierre, II, 13, Nouv. Test. éd. Lefebvre d'Étaples, Paris, 1525</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -98427,7 +98425,7 @@
 <dictScrap>Terme d'anatomie. Os impair qui forme la partie postérieure de la cloison des fosses nasales.</dictScrap>
 </sense>
 <etym>Lat. vomer, soc de charrue, à cause de la forme de cet os.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOMER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Genre de poissons acanthoptérygiens.</dictScrap>
@@ -98692,14 +98690,14 @@
 <quote>Roxane avala du poison, en vomissant mille imprécations et mille injures contre Mithridate</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. x, p. 201, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. x, p. 201, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>On voyait de toutes parts [lors des funérailles de Louis XIV] le peuple danser, chanter, boire, se livrer à une joie scandaleuse ; et plusieurs eurent l'indignité de vomir des injures en voyant passer le char qui renfermait le corps</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. v, p. 211</biblScope>
+<biblScope>Œuv. t. v, p. 211</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -99333,7 +99331,7 @@
 </p>
 </note>
 <etym>Lat. votivus, de votum (voy. <ref target="vœu">VŒU</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOTIF. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Fête votive, fête patronale, fête du patron à qui la localité est vouée.</dictScrap>
@@ -99389,7 +99387,7 @@
 <quote>Ce mot de Mme de Sévigné à sa fille : J'ai mal à votre poitrine ; expression de génie, si l'on peut appeler ainsi ce que le cœur a inventé</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VII, p. 474</biblScope>
+<biblScope>Œuv. t. VII, p. 474</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -99687,7 +99685,7 @@
 <quote>Lettre que je vous prie de lui écrire et de lui envoyer par un des vôtres</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Oeuvres, t. I, p. 227</biblScope>
+<biblScope>Œuvres, t. I, p. 227</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -99841,7 +99839,7 @@
 </p>
 </note>
 <etym>Picard, el veure, le vôtre, la vôtre ; du lat. vester (voy. <ref target="votre">VOTRE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VÔTRE. </form>
 <sense n="2">
 <dictScrap>Le vôtre, ce qui vous appartient. Ajoutez un exemple :</dictScrap>
@@ -99953,7 +99951,7 @@
 <quote>On l'assujettissait à tous les régimes [une malade], on la vouait à tous les saints, on la menait à tous les pèlerinages</quote>
 <bibl>
 <author>RICCOBONI</author>
-<biblScope>Oeuv. t. v, p. 187, dans POUGENS</biblScope>
+<biblScope>Œuv. t. v, p. 187, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -100211,7 +100209,7 @@
 </p>
 </note>
 <etym>Origine inconnue.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VOUGE. - ÉTYM. Ajoutez : Ce paraît être le même mot que gouge 1 (voy. ce mot au Dictionnaire). </re>
 </re>
 </entry>
@@ -101370,7 +101368,7 @@
 </sense>
 <note type="remarque">
 <p>1. L'impératif est veuille, veuillons, veuillez. Cependant l'Académie dit : veux, voulons, voulez, quand on engage à avoir une volonté ferme. On en trouve en effet des exemples dans les auteurs modernes : Ne m'en veux pas (V. HUGO) ; Veux-le bien (COUSIN, Fragments, p. 211, 1833) ; Voulons le faire (BONIFACE, Gramm. n° 363) ; Voulez sortir (ID.). Ces exemples sont rapportés et condamnés par M. Jullien, Gramm. p. 117, qui recommande de dire : Ne m'en veuille pas, veuillez-le bien, veuillons le faire, veuillez sortir. C'est là, il ne peut y avoir de doute, le véritable impératif. Les autres formes sont récentes et à peine intelligibles. </p>
-<p>2. M. Jullien dit : " Au présent du subjonctif le Dictionnaire de l'Académie donne voulions, vouliez. Je crois que c'est à tort. Fléchier, à la fin de son Traité des jeux de théâtre, écrit : Ne croyez que nous veuillions vous effrayer, Le grammairien Cl. Irson [XVIIe s.] n'admettait que ces formes. Régnier Desmarais remarquait que l'usage de voulions, vouliez, contraire à l'analogie, commençait à s'introduire, et, de fait, Mme de Sévigné emploie le plus souvent ces formes. Une épigramme de Piron (Oeuvres complètes, VI, p. 505) porte : Pourvu que vous m'en veuilliez croire. " La forme dont M. Jullien prend la défense est certainement la meilleure. Vouloir est un verbe où l'i, qui appartient au subjonctif roman, a modifié l'o, l'ou du radical (comme l'a dans vaille, de valoir) ; et c'est un barbarisme assez récent et désormais autorisé par l'usage que de dire voulions, vouliez ; mais c'est un meilleur usage de dire veuillions, veuilliez. </p>
+<p>2. M. Jullien dit : " Au présent du subjonctif le Dictionnaire de l'Académie donne voulions, vouliez. Je crois que c'est à tort. Fléchier, à la fin de son Traité des jeux de théâtre, écrit : Ne croyez que nous veuillions vous effrayer, Le grammairien Cl. Irson [XVIIe s.] n'admettait que ces formes. Régnier Desmarais remarquait que l'usage de voulions, vouliez, contraire à l'analogie, commençait à s'introduire, et, de fait, Mme de Sévigné emploie le plus souvent ces formes. Une épigramme de Piron (Œuvres complètes, VI, p. 505) porte : Pourvu que vous m'en veuilliez croire. " La forme dont M. Jullien prend la défense est certainement la meilleure. Vouloir est un verbe où l'i, qui appartient au subjonctif roman, a modifié l'o, l'ou du radical (comme l'a dans vaille, de valoir) ; et c'est un barbarisme assez récent et désormais autorisé par l'usage que de dire voulions, vouliez ; mais c'est un meilleur usage de dire veuillions, veuilliez. </p>
 <p>3. Molière a fait quelquefois voudriez de deux syllabes : <cit><quote>Mais le mal c'est.... que monsieur votre père Est un autre vilain qui ne vous laisse pas, Comme vous voudriez bien, manier ses ducats</quote><bibl><author>MOL.</author><biblScope>l'Ét. I, 2</biblScope></bibl></cit> C'est un archaïsme : dans l'ancienne langue ce mot et les mots analogues n'étaient que de deux syllabes. Aujourd'hui ils sont de trois. </p>
 </note>
 <note type="historique">
@@ -101756,7 +101754,7 @@
 </p>
 </note>
 <etym>Bourg. veloi ; wallon, voleur ; provenç. voler ; ital. volere ; du lat. fictif volere, dérivé de l'indicatif latin volo, je veux ; goth. viljan ; all. wollen ; angl. to will ; radical sanscr. var, vri, choisir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. VOULOIR. - REM. Ajoutez : </form>
 <re>4. Avec le prétérit indéfini de vouloir, et un que suivant, Mme de Sévigné a mis le verbe de la proposition subordonnée au prétérit indéfini du subjonctif : Elle n'a jamais voulu qu'il ait été saigné, 5 août 1671 ; Ils n'ont pas voulu que nous soyons partis plus tôt, 25 mai 1689. On dirait plutôt : qu'il fût saigné ; que nous partissions ; mais il n'y a rien à redire à ces phrases de Mme de Sévigné. </re>
 </re>
@@ -101794,7 +101792,7 @@
 <quote>Nos pensées, nos perceptions, nos vouloirs ou volontés, et nos sentiments de plaisir ou de douleur</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. v, p. 304</biblScope>
+<biblScope>Œuv. t. v, p. 304</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -101970,7 +101968,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VOULU. </form>
 <sense n="2">
 <dictScrap>Ajoutez :</dictScrap>
@@ -102355,7 +102353,7 @@
 </p>
 </note>
 <etym>Wallon et bourg. vo ; picard, vos ; prov. esp. et port. vos ; ital. voi : du lat. vos ;du grec vous deux ; sanscr. vas.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOUS. - REM. Ajoutez : </form>
 <re>4. Avec un verbe à l'impératif, vous ne se met pas. Cependant Régnier a écrit : Il me dit : vous soyez, monsieur, le bien venu ! Sat. X. Cela n'est plus usité. </re>
 </re>
@@ -102733,7 +102731,7 @@
 <dictScrap>Absolument. Courbé par l'âge. Il est déjà un peu voûté.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VOÛTÉ. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -102983,7 +102981,7 @@
 <quote>C'est une belle chose, mon ami, que les voyages ; mais il faut avoir perdu son père, sa mère, ses enfants, ses amis, ou n'en avoir jamais eu, pour errer, par état, sur la surface du globe</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 387, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 387, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -103216,7 +103214,7 @@
 </p>
 </note>
 <etym>Berry, voyâge ; wallon, voyeg ; bourg. viaige ; mâconnais, vioge ; norm. viâge ; provenç. viatge ; espagn. viage ; portug. viagem ; ital. viaggio, du lat. viaticum, qui signifie provisions de voyage, mais qui est déjà pris au sens de voyage dans Venantius Fortunatus ; de via (voy. <ref target="voie">VOIE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOYAGE. Ajoutez : </form>
 <sense n="8">
 <cit>
@@ -103240,7 +103238,7 @@
 <quote>Peupler le globe de la race européenne, qui est supérieure à toutes les autres races d'hommes ; le rendre voyageable et habitable comme l'Europe</quote>
 <bibl>
 <author>HENRI DE SAINT-SIMON</author>
-<biblScope>Oeuv. choisies, t. II, p. 293</biblScope>
+<biblScope>Œuv. choisies, t. II, p. 293</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -103563,7 +103561,7 @@
 </p>
 </note>
 <etym>Voyager.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VOYAGEUR. Ajoutez : </form>
 <sense n="5">
 <cit>
@@ -103701,7 +103699,7 @@
 <quote>Les voyelles sont ainsi appelées du mot voix, parce qu'elles se font entendre par elles-mêmes ; elles forment toutes seules un son, une voix</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 364</biblScope>
+<biblScope>Œuv. t. IV, p. 364</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -103721,7 +103719,7 @@
 <quote>Ramus avait déjà remarqué dix voyelles dans la langue française</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. IX, p. 5</biblScope>
+<biblScope>Œuv. t. IX, p. 5</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -104115,7 +104113,7 @@
 <quote>Animaux vrais, peints et éclairés largement</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 499, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 499, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -104458,7 +104456,7 @@
 <quote>Si le vrai seul est aimable, il faut avouer qu'il ne l'est pas toujours ; il est donc important de choisir, dans la nature, des détails dignes de plaire, et dont l'expression naïve et simple n'ait rien de grossier ni de bas</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VII, p. 92</biblScope>
+<biblScope>Œuv. t. VII, p. 92</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -104473,7 +104471,7 @@
 <quote>Il faut du vrai pour plaire à l'imagination ; mais elle n'est pas difficile à contenter, il ne lui faut souvent qu'un demi-vrai</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Disc. sur l'églog. Oeuv. t. IV, p. 143</biblScope>
+<biblScope>Disc. sur l'églog. Œuv. t. IV, p. 143</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -104811,7 +104809,7 @@
 </p>
 </note>
 <etym>Provenç. verai ; du bas-lat. veragus qui se trouve dans un texte du VIIIe siècle, et qui provient du latin verus. L'ancienne langue disait aussi voire (voy. ce mot).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. VRAI (vrè), s. m. Nom vulgaire du varech. </form>
 </re>
 </entry>
@@ -105213,7 +105211,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Vous ririez bien plus de l'auteur, s'il eût tiré deux vrais amis de l'Oeil-de-Bœuf [l'antichambre du roi, où se réunissaient les courtisans] ou des carrosses ; il faut un peu de vraisemblance, même dans les actes vertueux</quote>
+<quote>Vous ririez bien plus de l'auteur, s'il eût tiré deux vrais amis de l'Œil-de-Bœuf [l'antichambre du roi, où se réunissaient les courtisans] ou des carrosses ; il faut un peu de vraisemblance, même dans les actes vertueux</quote>
 <bibl>
 <author>BEAUMARCH.</author>
 <biblScope>Mariage de Fig. Préf.</biblScope>
@@ -105270,7 +105268,7 @@
 <sense>
 <dictScrap>Liseron des champs.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>VREILLE. Ajoutez : </re>
 <re>Dans l'Aunis, on dit vreillée et vrillée, Gloss. aunisien, p. 159. </re>
 </re>
@@ -105351,7 +105349,7 @@
 </p>
 </note>
 <etym>Origine incertaine. Diez le tire du latin veru, broche, disant qu'il est pour verille, et le fait est que Richelet nomme varilles les vrilles de la vigne ; d'après cela le sens de foret serait le premier, et celui de main de la vigne serait secondaire. Au contraire, Scheler est porté à croire que le sens de main de vigne est le primitif, et à le rapporter à un radical germanique vrig ou vric qui signifie chose tournée, tortue. M. Brachet, dans son Dict. étym., le tire de vericula, dérivé de vericum qui se trouve dans du Gange, et qui vient de veru. Mais ce qui complique la question, c'est que la forme primitive paraît n'avoir pas d'r, viile, visle, veille. Dans l'état actuel, il est impossible de se prononcer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>VRILLE. - ÉTYM. Ajoutez : Le Dictionnaire, établissant que la forme primitive est viille, visle, veille, s'en sert pour rejeter les étymologies proposées et ne conclut pas. Mais M. Bugge, Romania, n° 10, p. 160, pense que viille répond précisément au latin viticula (comp. cheville, lat. clavicula), petite vigne, cirre de la vigne, diminutif de vitis, vigne. L'épenthèse de l'r a ses analogies dans fronde pour fonde, franfreluche pour fanfelue, fringale pour faim-valle. Il ajoute qu'il faut accepter comme signification primaire de vrille, cirre de la vigne. La démonstration de M. Bugge est pleinement satisfaisante. Remarquons que le lat. vitis a donné le français vis, qui signifie un instrument à hélice et autrefois un escalier tournant. </re>
 </re>
 </entry>
@@ -105391,7 +105389,7 @@
 <dictScrap>Pirouetter en montant, suivant un mouvement hélicoïdal, comme certaines pièces d'artifice.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> VRILLER. </form>
 <sense n="2">
 <dictScrap>V. n. Il se dit aussi d'un cordage, d'un cordonnet qui se tortille. Cette ralingue vrille toujours.</dictScrap>
@@ -106626,7 +106624,7 @@
 <quote>Il [Louvois] savait l'union qui était entre les deux rois ; et cela lui suffisait ; les vues fort éloignées ne sont pas de son goût</quote>
 <bibl>
 <author>Mme DE LA FAYETTE</author>
-<biblScope>Mém. cour de France. Oeuvres, t. II, p. 387, dans POUGENS.</biblScope>
+<biblScope>Mém. cour de France. Œuvres, t. II, p. 387, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -106640,7 +106638,7 @@
 <quote>Ce roi [Agésilas] avait de grandes vues, et il ne songeait à rien moins qu'à aller attaquer Artaxerce dans la Perse même</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuvr. t. IV, p. 244, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuvr. t. IV, p. 244, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -107512,7 +107510,7 @@
 </p>
 </note>
 <etym>Vu ; wallon, veyow, veyaw, vuw ; Berry, vûte : il a perdu la vûte ; ital. veduta.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VUE. Ajoutez : </form>
 <sense n="33">
 <dictScrap>à vue d'oiseau, de loin et de haut, comme voit l'oiseau qui plane dans l'air.</dictScrap>
@@ -107571,7 +107569,7 @@
 </cit>
 </sense>
 <etym>Lat. Vulcanus, que l'on compare au sanscr. védique ulkâ, feu, incendie.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VULCAIN. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Petite planète, qu'on croit exister entre Mercure et le soleil, et qui ferait sa révolution en quarante-deux jours et une demi-heure.</dictScrap>
@@ -107881,7 +107879,7 @@
 <quote>Un grand exemple était dû à ce vulgaire des classes aisées qui prend l'affreux pour le sublime, et dont le faible esprit avait été comme subjugué par....</quote>
 <bibl>
 <author>CARREL</author>
-<biblScope>Oeuv. t. IV, p. 419</biblScope>
+<biblScope>Œuv. t. IV, p. 419</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -107946,7 +107944,7 @@
 </p>
 </note>
 <etym>Provenç. volgar, vulgar ; espagn. vulgar ; ital. volgare ; du latin, vulgaris, qui vient de vulgus, foule populaire ; comp. sanscr. varga, troupe, multitude. L'ancienne langue disait vulgal, et, à l'adverbe, vulgaument.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> VULGAIRE. Ajoutez : </form>
 <sense n="11">
 <dictScrap>Terme de droit romain. Substitution vulgaire, substitution d'un héritier, faite par le testateur, à l'héritier institué, au cas qu'il ne se présente pas pour recueillir l'hérédité ; vulgaire signifie ici ordinaire, par opposition à la substitution pupillaire, dans laquelle le testateur substitue un héritier éventuel à son héritier réel, si ce dernier meurt impubère et avant d'avoir eu la capacité de tester lui-même (la substitution vulgaire est encore, sauf le nom, usitée en droit français ; la substitution pupillaire ne l'est plus).</dictScrap>
@@ -108134,7 +108132,7 @@
 <quote>Des sophistes, ou plutôt des raisonneurs imprudents, ont prétendu que l'existence des femmes vulgivagues était utile et nécessaire pour le maintien de l'ordre politique et la tranquillité des citoyens</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>(GROSLEY), Oeuv. t. XII, p. 111, dans POUGENS</biblScope>
+<biblScope>(GROSLEY), Œuv. t. XII, p. 111, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>

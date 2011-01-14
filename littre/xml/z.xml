@@ -153,7 +153,7 @@
 </cit>
 </sense>
 <etym>Espagn. portug. et ital. zaino. M. Dozy demande si ce mot est une altération de açamm qui, chez Bocthor, signifie zain.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>ZAIN. Ajoutez : </re>
 <re>Il se dit aussi des chiens. <cit><quote>Braques zains, marrons, noirs, blancs, marqués de feu, de toute taille</quote><bibl><biblScope>Journ. offic. 27 sept. 1877, p. 6519, 1re col.</biblScope></bibl></cit> </re>
 </re>
@@ -377,7 +377,7 @@
 <sense>
 <dictScrap>Raie ou raies semblables à celles du zèbre.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>ZÉBRURE. Ajoutez : </re>
 <re>Par extension.  <cit><quote>Les flammes jaillissant au dehors ont crevé les fenêtres et tracé de larges zébrures noires le long des murailles</quote><bibl><author>TH. GAUTIER</author><biblScope>Journ. offic. 5 août 1871</biblScope></bibl></cit> </re>
 </re>
@@ -404,7 +404,7 @@
 <sense>
 <dictScrap>Terme d'astronomie. Étoile de seconde grandeur, située dans la constellation de Cassiopée.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>ZÉDARON. Ajoutez.  <cit><quote>- ÉTYM. Zédaron est placé sur la poitrine de Cassiopée, et vient de l'arabe sade, poitrine</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -460,7 +460,7 @@
 <sense>
 <dictScrap>Chêne zéen, espèce de chêne de l'Algérie, dit aussi chêne zang, dont le bois est remarquable par sa densité.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>ZÉEN.  Ajoutez : - ÉTYM. <cit><quote>Arabe, zan ( a long), nom de ce chêne</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -522,14 +522,14 @@
 <quote>Ce ne sont plus ces anciens zélateurs de la liberté, uniquement attentifs au bien public et à la gloire de la nation</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 54, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 54, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>J'entends les zélateurs de Boileau s'écrier que je lui préfère Ronsard</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. v, p. 199</biblScope>
+<biblScope>Œuv. t. v, p. 199</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -797,7 +797,7 @@
 </p>
 </note>
 <etym>Lat. zelus, du grec jalousie, du grec bouillir ; sansc. yas, suer, s'efforcer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>ZÈLE. - HIST. Ajoutez : XVe s.  <cit><quote>Zele d'amours ayons au redempteur Qui l'Eglise conduit tant saigement</quote><bibl><author>JEAN JORET</author><biblScope>le Jardrin salutaire, p. 133</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -966,7 +966,7 @@
 </cit>
 </sense>
 <etym>Du grec zélateur, du grec zèle.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> ZÉLOTISME. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Terme d'histoire ancienne. Parti de ceux des Juifs qui, sous la domination romaine, voulaient à tout prix secouer le joug étranger.</dictScrap>
@@ -1390,7 +1390,7 @@
 </p>
 </note>
 <etym>Provenç. zephir ; portug. zefeyro ; ital. zefiro ; du lat. zephirus, du grec vent d'ouest.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> ZÉPHIRE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Sorte de laine.</dictScrap>
@@ -1425,7 +1425,7 @@
 <sense>
 <dictScrap>Néologisme. Léger comme le zéphyr. Danse zéphyrienne.</dictScrap>
 <sense>
-<dictScrap>Oeufs zéphyriens, œufs clairs et sans germe que pondent quelquefois les oiseaux de basse-cour.</dictScrap>
+<dictScrap>Œufs zéphyriens, œufs clairs et sans germe que pondent quelquefois les oiseaux de basse-cour.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -1842,7 +1842,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>ZÉZAYER. Ajoutez : </re>
 <re>Activement.  <cit><quote>Arnoux, jurant qu'il n'y avait pas de danger, continuait et même zézayait des caresses en patois marseillais</quote><bibl><author>G. FLAUBERT</author><biblScope>l'Éducation sentimentale, t. I, p. 189</biblScope></bibl></cit> </re>
 </re>
@@ -1990,7 +1990,7 @@
 <quote>Un chemin tracé en zigzag</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. VII, p. 206</biblScope>
+<biblScope>Œuvr. t. VII, p. 206</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2859,7 +2859,7 @@
 <quote>Daniel Bernoulli nous a donné un savant mémoire où il cherche par quelle raison les orbites des planètes sont renfermées dans une très petite zone parallèle à l'écliptique, et qui n'est que la dix-septième partie de la sphère</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Oeuv. t. IV, p. 307</biblScope>
+<biblScope>Œuv. t. IV, p. 307</biblScope>
 </bibl>
 </cit>
 <cit>

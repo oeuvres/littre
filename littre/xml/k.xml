@@ -113,7 +113,7 @@
 </sense>
 <etym>Persan, kiâbin.</etym>
 </entry>
-<entry xml:id="kabyle">
+<entry xml:id="kabyle"> <!-- Structure ? -->
 <form>
 <orth>KABYLE</orth>
 <pron>ka-bi-l'</pron>
@@ -814,7 +814,7 @@
 <sense>
 <dictScrap>Autre orthographe de cari, voy. ce mot.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. KARI (ka-ri), s. m. </form>
 <dictScrap>Arbre de l'Australie. </dictScrap>
 <cit>
@@ -941,7 +941,7 @@
 </sense>
 </sense>
 <etym>Anglais, keepsake, souvenir d'amitié, de to keep, garder, et sake, objet.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>KEEPSAKE. - ÉTYM. Ajoutez : L'anglais sake signifie but, objet ; par conséquent le keepsake s'explique ainsi : to keep (for somebody's) sake, garder par égard, par amour de quelqu'un (PETILLEAUX). </re>
 </re>
 </entry>
@@ -990,7 +990,7 @@
 </sense>
 </sense>
 <etym>Origine inconnue.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>KÉPI. - ÉTYM. Allem. Käppi, dimin. de Kappe, bonnet, casquette, qui lui-même est le français cape. </re>
 </re>
 </entry>
@@ -1526,7 +1526,7 @@
 <dictScrap>Terme de mécanique. Quantité de travail qui est capable d'élever à la hauteur d'un mètre un poids d'un kilogramme. Le kilogrammètre est l'unité de mesure du travail des machines et des moteurs. Un cheval vapeur est évalué à 200 kilogrammètres. Une calorie équivaut à 425 kilogrammètres.</dictScrap>
 </sense>
 <etym>Kilogramme, et mètre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form>KILOGRAMMÈTRE. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <note type="remarque">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
@@ -1586,7 +1586,7 @@
 <sense>
 <dictScrap>Qui appartient au kilomètre. Mesure kilométrique.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form>KILOMÉTRIQUE. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <re>Tonne kilométrique, voyageur kilométrique, tonne réduite, voyageur réduit, par hypothèse, à un kilomètre ; celle, celui qui en parcourent 10, 20, 30, etc., représentent 10, 20, 30, etc.  <cit><quote>tonnes ou voyageurs kilométriques</quote><bibl><author>P. BOITEAU</author><biblScope>Journ. des Débats, 8 juin 1877</biblScope></bibl></cit> </re>
@@ -1762,7 +1762,7 @@
 <sense>
 <dictScrap>Substance dure, opaque et d'un rouge foncé, qui s'emploie souvent en médecine comme tonique, et dont l'origine est attribuée d'une manière incertaine à divers végétaux.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form>KINO. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <etym>- ÉTYM. Mot des Indes orientales. </etym>
@@ -2016,7 +2016,7 @@
 <sense>
 <dictScrap>Monnaie de cuivre russe valant à peu près quatre centimes de France. Cent kopecks font un rouble effectif ou rouble d'argent.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>KOPECK. Ajoutez : - ÉTYM. Russe, kopeika, de kopye, lance, à cause qu'il y avait originairement sur cette monnaie un cavalier armé d'une lance. </re>
 </re>
 </entry>
@@ -2070,7 +2070,7 @@
 <sense>
 <dictScrap>Petit-lait de jument aigri et fermenté, employé par les Russes comme tisane rafraîchissante.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>KOUMIS. Ajoutez : - ÉTYM. Russe, kumys, mot d'origine mongole. </re>
 </re>
 </entry>

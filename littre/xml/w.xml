@@ -75,7 +75,7 @@
 <sense>
 <dictScrap>Terme de minéralogie. Matière opaque qui tient le milieu entre le basalte et l'argile.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>WACKE. Ajoutez : - ÉTYM. Angl. wacke ; de l'all. Wacke, même sens. </re>
 </re>
 </entry>
@@ -213,7 +213,7 @@
 <sense>
 <dictScrap>Nom d'une secte musulmane, qui a pris naissance en Arabie vers le commencement de ce siècle, et que l'on a comparée à une sorte de protestantisme musulman.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>WAHABITE.  Ajoutez : - ÉTYM. <cit><quote>Ouahbab (dernier a long) (Mohammed ben Abd-el-Ouahbab), auteur de la secte</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -262,7 +262,7 @@
 <dictScrap>Nom, dans la religion des anciens Scandinaves, du paradis d'Odin.</dictScrap>
 </sense>
 <etym>Anc. haut-allem. wal, ensemble de ceux qui ont péri sur le champ de bataille, et halla, halle, salle : la salle des tués.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>WALHALLA. Ajoutez : <sense n="2"><dictScrap>Temple de mémoire élevé par le roi Louis 1er de Bavière, sur le Brauberg, à deux lieues de Ratisbonne, et consacré aux illustrations de l'Allemagne.</dictScrap></sense> </re>
 </re>
 </entry>
@@ -427,7 +427,7 @@
 <sense>
 <dictScrap>Bâtiment de transport en usage sur le banc de Terre-Neuve.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>WARIE. Ajoutez : - REM. On le trouve aussi au masculin, sous la forme wary. On écrit de Saint-Pierre Miquelon : Les inquiétudes augmentent en ce qui concernait les sieurs.... pêcheurs de l'île aux Chiens, partis à la chasse des oiseaux de mer, le 30 décembre dernier, dans un wary, Avranchin, 6 févr. 1876. </re>
 </re>
 </entry>
@@ -440,7 +440,7 @@
 <sense>
 <dictScrap>Se dit, en Normandie, des filets en seine qui sont faits avec du fil très fin.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>WARNETTE. Ajoutez : On le trouve écrit aussi warnète. <cit><quote>Les bateaux de dix tonneaux et au-dessous, qui se livrent à la pêche dite aux warnètes et qui ne rapportent que du poisson frais, seront exemptés des conditions d'armement exigées...</quote><bibl><biblScope>Décret du 7 juin 1852, pêche du hareng, art. 12</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -526,7 +526,7 @@
 <dictScrap>Dragée ou hibernage composé de vesce, pois, féveroles et avoine.</dictScrap>
 </sense>
 <etym>Forme dialectale de jarosse.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>WARROTS. Ajoutez : </re>
 <re>On trouve aussi warats.  <cit><quote>La vesce et les warats se sèment dans le courant de ventôse</quote><bibl><author>J. F. HENRY</author><biblScope>Essai sur l'arrondissement de Boulogne-sur-Mer, p. 171, Boulogne, 1816</biblScope></bibl></cit> </re>
 </re>
@@ -629,7 +629,7 @@
 </cit>
 </sense>
 <etym>Flamand, wateringen, de water, eau.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> WATERINGUE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Se dit quelquefois pour désigner la direction qui administre une wateringue.</dictScrap>
@@ -707,7 +707,7 @@
 <sense>
 <dictScrap>Terme d'astronomie. Nom d'une très belle étoile de première grandeur, qui se trouve dans la constellation de la Lyre.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>WÉGA. Ajoutez : - ÉTYM. Arabe, ouagi', tombant, l'oiseau tombant, par rapport à altaïr, situé non loin de là, qui est l'aigle volant. </re>
 </re>
 </entry>
