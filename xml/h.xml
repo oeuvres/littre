@@ -81,7 +81,7 @@
 </p>
 </note>
 <etym>H latin, H grec, heth phénicien. Le sens et la forme de heth sont d'accord pour signifier une haie, une clôture ; le signe hiéroglyphique de la haie est devenu le caractère de tous les mots commençant par le même son.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> H. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Anciennement, être marqué à l'H, être battu. Prions seulement que cette ordonnance ne porte son appel en croupe, que les commissaires l'effectuent pour notre profit et pour notre consolation, et ainsi nous aurons la paix chez nous ; car, si elle est observée, nous aurons plus de biens et moins de coups ; nous sommes le plus souvent marquées à l'H, pour montrer que notre peau est tendre, la Réjouissance des femmes sur la défense des tavernes et cabarets, Paris, 1613, dans CH. NISARD, Parisianismes, p. 136, qui pense que cette locution provient d'une allusion aux lettres par lesquelles commencent le plus souvent des noms de coups et d'instruments servant à donner des coups : horion, heurt, hoche, hache, etc.</dictScrap>
@@ -588,7 +588,7 @@
 <dictScrap>Terme d'ancienne jurisprudence. Sorte d'émancipation, par laquelle un enfant devenait habile à faire des contrats, et pouvait acquérir pour lui-même, mais sans avoir le pouvoir de tester : en quoi l'habilitation différait de l'émancipation.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HABILITATION. Ajoutez : - HIST. XVe s. <cit><quote>Lettres de habilitacion de pouvoir acquerir des biens et possessions ou royaume</quote><bibl><biblScope>Procès-verbaux du conseil de régence de Charles VIII, p. 4</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -626,7 +626,7 @@
 <pron>a-bi-li-té, tée</pron>
 <gram>part. passé de habiliter</gram>
 </form>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HABILITÉ. Ajoutez : </form>
 <re>Qualité, situation habilitée, c'est-à-dire rendue apte à l'exercice de certains droits. <cit><quote>Que les premiers [les électeurs de députés] prennent part à l'élection en vertu d'un droit qui leur est propre, qui dérive de leur seule qualité de Français, habilitée de certaines conditions d'âge et d'identité</quote><bibl><biblScope>Gaz. des Trib. 4 août 1876, p. 759, 4e col.</biblScope></bibl></cit> </re>
 </re>
@@ -843,7 +843,7 @@
 <quote>L'habillement des Orientaux, des Asiatiques, des Grecs, des Romains, développe le talent du peintre habile, et augmente celui du peintre médiocre</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 382, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 382, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -1505,7 +1505,7 @@
 <quote>J'ai à présent sous mes yeux un paysage que Vernet fit à Rome pour un habit, veste et culotte, et qui vient d'être acheté mille écus</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 7, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 7, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -1540,7 +1540,7 @@
 <quote>Lorsque, ayant quitté la robe consulaire, vous êtes à Saint-Mandé ou à Paris, dans votre chambre, en habit court, et à peu près dans l'équipage et dans l'humeur où se trouvait Scipion quand il ramassait des coquilles au bord de la mer avec son ami Lélius</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Lett. Oeuv. t. I, p. 230</biblScope>
+<biblScope>Lett. Œuv. t. I, p. 230</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -1558,7 +1558,7 @@
 <quote>De retour dans sa patrie il [Roger Bacon] prit l'habit de franciscain</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Opin. des anc. phil. (scholastiques), Oeuv. t. VII, p. 276</biblScope>
+<biblScope>Opin. des anc. phil. (scholastiques), Œuv. t. VII, p. 276</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -1690,7 +1690,7 @@
 </p>
 </note>
 <etym>Bourg. haibi ; provenç. habit, abit ; cat. habit ; esp. habito ; ital. ábito ; du latin hábitus, qui veut dire proprement manière d'être, venant de habere, avoir, mais qui signifie aussi dans la meilleure latinité vêtement ; on comprend comment, de manière d'être, le passage s'est fait à vêtement ; ce passage appartient non au moyen âge scolastique, mais à l'antiquité latine. Habit, bien qu'il remonte au XIIIe siècle, est fait sur le latin ; habitus, ayant l'accent sur ha, aurait donné hate.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HABIT. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Se disait, dans l'ordre de Fontevrault, du logement des religieux de l'ordre qui servaient de chapelains et de confesseurs, par opposition au monastère, qui se disait de l'édifice occupé par les religieuses.</dictScrap>
@@ -1952,7 +1952,7 @@
 </sense>
 </sense>
 <etym>Lat. partic. passif neutre, habitatum, de habitare, habiter.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HABITAT. Ajoutez : </re>
 <re>Fig.  <cit><quote>La législation, elle aussi, a sa géographie, son habitat, comme disent les zoologistes, et ce qui est très bon en Angleterre peut être très mauvais en France</quote><bibl><author>ODYSSE BARROT</author><biblScope>la Liberté, 17 mars 1868</biblScope></bibl></cit> </re>
 </re>
@@ -2064,7 +2064,7 @@
 <quote>Ceux [œufs] qu'elle [la poule] a produits dans le temps de son habitation avec le mâle</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. anim. Oeuv. t. IV, p. 77</biblScope>
+<biblScope>Hist. anim. Œuv. t. IV, p. 77</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -2317,7 +2317,7 @@
 <quote>On concevait [dans l'antiquité] une hauteur de vertu plus qu'humaine qui se devait de ne jamais habiter avec la tyrannie</quote>
 <bibl>
 <author>CARREL</author>
-<biblScope>Oeuv. t. V, p. 311</biblScope>
+<biblScope>Œuv. t. V, p. 311</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -2485,7 +2485,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>HABITUATION.  Ajoutez : <cit><quote>Je ne suis grammairien dominant, comme Castelvetro ; je suis grammairien valet, comme vous diriez un régent de la cinquième et ne puis vous offrir que mes yeux, ma main et mon habituation à l'imprimerie</quote><bibl><author>BALZAC</author><biblScope>Lettres inéd. II (éd. Tamizey-Larroque).</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -2580,7 +2580,7 @@
 <quote>Lisez Tacite sur les mœurs des Germains, c'est le tableau de celles des Hurons, ou plutôt les habitudes de l'espèce humaine entière sortant de l'état de nature</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>7e ép. nat. Oeuv. t. XII, p. 327</biblScope>
+<biblScope>7e ép. nat. Œuv. t. XII, p. 327</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2872,7 +2872,7 @@
 </cit>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HABITUÉ. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -2908,7 +2908,7 @@
 <quote>Leurs mouvements [des passions], même les plus prompts, dépendent toujours de la réflexion, et ne sont que des effets d'une volonté habituelle de l'âme</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. hom. Oeuv. t. IV, p. 376</biblScope>
+<biblScope>Hist. nat. hom. Œuv. t. IV, p. 376</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -3082,7 +3082,7 @@
 <quote>Non, sans beaucoup hâbler et sans faire des fanfaronnades d'amitié</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Oeuv. t. I, p. 220</biblScope>
+<biblScope>Œuv. t. I, p. 220</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3157,7 +3157,7 @@
 <quote>Cette grande hâbleuse a étourdi tout le monde de son caquet</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Oeuv. t. I, p. 163</biblScope>
+<biblScope>Œuv. t. I, p. 163</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3310,7 +3310,7 @@
 <quote>Les grands artistes ont un petit coup de hache à la tête</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 189, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 189, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -3929,7 +3929,7 @@
 </cit>
 </sense>
 <etym>Hacher.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HACHIS. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Fig. et par plaisanterie. Action de mettre en pièces par la critique une œuvre littéraire.</dictScrap>
@@ -4021,7 +4021,7 @@
 <dictScrap>Terme de blason. Traits ou points dont on se sert dans la gravure pour marquer la différence des couleurs ou émaux et des métaux. La hachure en pal ou de haut en bas désigne le gueules ; la hachure en fasce qui traverse l'écu, l'azur ; la hachure en pal, contre-hachée en fasce, le sable ; la hachure en bande, c'est-à-dire oblique de droite à gauche, le sinople ; et la hachure en barre, de gauche à droite, le pourpre. Les pièces d'argent n'ont point de hachures et sont toutes blanches, et les pièces d'or sont désignées par un pointillé.</dictScrap>
 </sense>
 <etym>Hacher.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HACHURE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Dans le massage, sorte de percussion linéaire exécutée avec les doigts s'entre-choquant brusquement en frappant la partie malade.</dictScrap>
@@ -4083,7 +4083,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>HADOCK. Ajoutez : - ÉTYM. Angl. haddock, églefin. </re>
 </re>
 </entry>
@@ -4154,7 +4154,7 @@
 <quote>C'était [Thyus] un grand homme, d'une haute taille, d'un visage hagard et terrible</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 336, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 336, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -4624,7 +4624,7 @@
 <quote>L'inégalité du terrain, et la grande étendue du front de la bataille, ne permettant pas à l'ennemi de continuer partout cette haie de boucliers et de piques</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IX, p. 129, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IX, p. 129, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -4802,7 +4802,7 @@
 </cit>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HAIE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Terme de turf. Un des obstacles usités dans les courses d'obstacles.</dictScrap>
@@ -5486,7 +5486,7 @@
 <quote>Haineux comme un faux dévot, dès qu'on vous résiste</quote>
 <bibl>
 <author>ST-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 358, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 358, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -5526,7 +5526,7 @@
 </sense>
 <note type="remarque">
 <p>1. De Caillières, 1690, dit que haineux est un mot nouveau et du bel usage. C'est une erreur, quant à la nouveauté ; l'historique en fait foi. </p>
-<p>2. On lit dans Desportes, poëte du XVIe siècle : Vous serez par les dieux en astre transformée, Haineux, rouge de sang.... Sur quoi Malherbe remarque : " Que veut dire un astre haineux ? car haineux ne se dit point simplement, mais mon haineux, son haineux, etc. " Comment. sur Desportes, Oeuvres, t. IV, p. 341. Malherbe se trompe et ne constate qu'un emploi très particulier ; haineux s'est dit comme adjectif dans tout le cours de la langue. </p>
+<p>2. On lit dans Desportes, poëte du XVIe siècle : Vous serez par les dieux en astre transformée, Haineux, rouge de sang.... Sur quoi Malherbe remarque : " Que veut dire un astre haineux ? car haineux ne se dit point simplement, mais mon haineux, son haineux, etc. " Comment. sur Desportes, Œuvres, t. IV, p. 341. Malherbe se trompe et ne constate qu'un emploi très particulier ; haineux s'est dit comme adjectif dans tout le cours de la langue. </p>
 </note>
 <note type="historique">
 <p>
@@ -5824,7 +5824,7 @@
 <quote>Quel horrible péché me fait haïr des cieux, DESPORTES, ; je dirais plutôt haïr aux cieux ; et, de fait, on dit : Vous me l'avez fait haïr ; or, qui doute que me ne soit datif, comme : Vous me donnez ; on dit : Cette action l'a fait haïr au roi ; cela l'a fait haïr à tous ceux qui l'aimaient</quote>
 <bibl>
 <author>MALH.</author>
-<biblScope>Comment. sur Desportes, Oeuvres, t. IV, p. 347</biblScope>
+<biblScope>Comment. sur Desportes, Œuvres, t. IV, p. 347</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -6443,7 +6443,7 @@
 <sense>
 <dictScrap>Nom scientifique de l'aspic des anciens (vipera haje, L.).</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HAJE.  Ajoutez : - ÉTYM. <cit><quote>Arabe, hayya, serpent</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -6564,7 +6564,7 @@
 <dictScrap>Terme de fauconnerie. Rompre quelques pennes à un oiseau de proie.</dictScrap>
 </sense>
 <etym>Halbran.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HALBRENER. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Donner aux canards de basse-cour un caractère de halbran, en les produisant par des couvées libres au bord des étangs voisins des fermes ; les canards ainsi obtenus ont la chair plus délicate et sont moins sujets aux maladies des basses-cours.</dictScrap>
@@ -7768,7 +7768,7 @@
 </p>
 </note>
 <etym>Provenç. et catal. alenar ; ital. alenare. D'après Diez, il vient du lat. anhelare, par métathèse, alener pour aneler. Mais, les métathèses n'étant pas communes, on peut voir dans ce mot le lat. halare, souffler, avec le suffixe ena, ina, qui n'est pas aussi rare que Diez le croit ; c'est cette rareté prétendue qui l'avait conduit à proposer la métathèse.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HALENER. - HIST. Ajoutez : </re>
 <re>XIIe s.  <cit><quote>Si com il [un guerrier blessé à mort] pot parler à peine, Car il sent la mort et l'aleine, A Achille mis à raison</quote><bibl><author>BENOIT DE SAINTE-MORE</author><biblScope>Roman de Troie, V. 19203</biblScope></bibl></cit> </re>
 </re>
@@ -7838,7 +7838,7 @@
 </p>
 </note>
 <etym>Espagn. halar ; de l'anc. h. allem. halôn, tirer, haler : anc. scand. hala ; angl. to hale.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. HALER. Ajoutez : </form>
 <re>Haler main sur main, haler sans marcher. </re>
 </re>
@@ -7928,7 +7928,7 @@
 </p>
 </note>
 <etym>Picard, herlé, hâlé ; wallon, aurler, dessécher. Chevallet a proposé le celtique : kimry, haul, soleil ; bas-breton, heol ; mais la voyelle a n'est pas dans les mots celtiques. Diez le tire du flamand hael, sec. Or un passage de Rutebeuf où hasle est adjectif et signifie desséché (Fors que pain noir, dur et hasle, Tout muisi et tout très sale, II, 173), donne raison à Diez. En effet il prouve que dans hâle est non pas le sens de soleil ou de vent, mais le sens de dessécher. Quant aux formes en s ou en r, elles s'expliquent par la tendance de l'ancienne langue à intercaler ces lettres parasites : arme pour âme, usler pour uller (aujourd'hui hurler, avec une r de ce genre).  <cit><quote>L'ancienne langue avait un adjectif halleus signifiant qui est de la nature du hâle : Se li airs est mult caus et mult ses [sec] et mult halleus</quote><bibl><author>ALEBRANT</author><biblScope>f° 22</biblScope></bibl></cit></etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÂLER. - ÉTYM. Ajoutez : Le normand dit harler, DELBOULLE, Gloss. de la vallée d'Yères, le Havre, 1876, p. 183. Cette épenthèse de l'r représente ici une s étymologique et se trouve dans quelques autres dialectes provinciaux. </re>
 </re>
 </entry>
@@ -7951,7 +7951,7 @@
 <quote>Il s'agissait de représenter ce chien tout haletant après une longue course, et la gueule encore pleine d'écume</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VII, p. 246, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VII, p. 246, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -8255,7 +8255,7 @@
 <dictScrap>Terme de marine. Jets et halins, voy. <ref target="fune">FUNE</ref>.</dictScrap>
 </sense>
 <etym>Haler 1.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HALINS. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Au sing. Terme de pêche au hareng. Cordage, dit aussi haussière sur lequel sont attachés les filets.</dictScrap>
@@ -8596,7 +8596,7 @@
 </p>
 </note>
 <etym>Bourg. aulebade ; esp. et port. alabarda ; ital. alabarda, labarda ; pays de Coire, halumbart. Sousa le tire de l'arabe al harba, composé de al, le, et harba, pointe de lance. Mais la forme du mot s'accorde mieux avec l'étymologie germanique : ancien allemand, helmparte ou helmbarte, sorte de hache, de helm, manche, et parte ou barte, hache. Hallebarde dans l'allemand moderne, hallebard dans le suédois, halberd dans l'anglais, ont été pris aux langues romanes.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HALLEBARDE. Ajoutez : - REM. La hallebarde est une arme analogue à la guisarme ; le fer terminé par une pointe affecte une forme plus ou moins symétrique, en présentant, sur les côtés, des tranchants, des crocs, des pointes. </re>
 </re>
 </entry>
@@ -8650,7 +8650,7 @@
 <quote>Entre autres, un grand halbreda, Nommé Mars, Mavors ou Mavos, Les dents grinça, jura, gronda, Et dit rage contre d'Avaux</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Poésies, Oeuvres, t. II, p. 166</biblScope>
+<biblScope>Poésies, Œuvres, t. II, p. 166</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -8668,7 +8668,7 @@
 </p>
 </note>
 <etym>Ce semble être, comme l'a dit Ménage, une altération plaisante de hallebarde.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HALLEBREDA.  Ajoutez : <cit><quote>Une grande hallebreda qui tenait le cabaret du Sabot dans le faubourg Saint-Marcel</quote><bibl><author>FURETIÈRE</author><biblScope>dans Journ. des Débats, 29 mai 1877, 3e page, 4e col. (en parlant de Genèvre, une des dames de Ronsard).</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -8728,7 +8728,7 @@
 </p>
 </note>
 <etym>Halle.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. HALLIER. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Dans une tuilerie, ouvrier qui range et garde les tuiles dans un endroit spécial.</dictScrap>
@@ -9046,7 +9046,7 @@
 <dictScrap>Terme de botanique. Qui aime le sel, qui croît dans les terrains imprégnés de sel.</dictScrap>
 </sense>
 <etym>En grec, sel et qui aime.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HALOPHILE. Ajoutez : </re>
 <re>Terme de zoologie. Qui aime l'eau salée. Mollusques halophiles, E. J. la Mer saharienne, dans Phil. posit. juillet-août, 1875, p. 91. </re>
 </re>
@@ -9071,7 +9071,7 @@
 <dictScrap>Terme de chasse. Trou de lapins dans une garenne.</dictScrap>
 </sense>
 <etym>Peut-être l'anglo-saxon hal, cavité.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HALOT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>En Normandie, touffe de buisson, hallier, DELBOULLE, Gloss. de la vallée d'Yères, le Havre, 1876, p. 161.</dictScrap>
@@ -9145,7 +9145,7 @@
 <quote>Supposez autour du monticule sur lequel le château s'élève tous les incidents d'une halte d'armée, et vous aurez le tableau de Casanove</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 166, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 166, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -9160,7 +9160,7 @@
 <quote>Persée, sur les dix heures du matin, ne se trouvant éloigné du camp des Romains que d'une petite demi-lieue, fait faire halte à son infanterie, et s'avance avec sa cavalerie</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IX, p. 47, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IX, p. 47, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -9264,7 +9264,7 @@
 </p>
 </note>
 <etym>Espagn. et ital. alto ; de l'allem. halten, tenir, s'arrêter ; Halt, s. m., halte, station.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HALTE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Anciennement, droit de halte et gare, droit de halle perçu sur les blés, farines, avoines, orges, grenailles, charbons, foin et paille, Journ. offic. 3 déc. 1876, p. 8975, 3e col.</dictScrap>
@@ -9365,7 +9365,7 @@
 <quote>Ce hamac est suspendu, par une corde, à une grosse branche d'arbre</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 254, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 254, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -9377,7 +9377,7 @@
 </cit>
 </sense>
 <etym>Espagn. hamaca, amahaca ; portug. maca ; ital. amaca ; de l'allem. Hangematte, de hangen, être suspendu, et Matte, natte (voy. <ref target="natte">NATTE</ref>) ; holl. hangmat, hangmak. D'après l'Encyclopédie moderne, ce mot vient de ce que les Caraïbes donnent le nom de hamack à l'arbre dont ils emploient l'écorce à tresser cette espèce de filet dans lequel ils se couchent et se balancent après l'avoir suspendu ; mais cela est trop incertain pour contre-balancer l'étymologie germanique.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAMAC. - ÉTYM. Ajoutez : D'après M. Roulin, la dérivation de l'all. Hangmatte est fausse. L'esp. hamaca, hamac, vient de la langue guarani ; c'est un mot américain ; il se trouve dans les plus anciens écrits espagnols sur l'Amérique, par exemple dans le Proemio d'Oviedo, imprimé en 1525, à une époque où pas un Hollandais, pas un Allemand n'avait visité le nouveau continent. Le hamac est d'origine américaine ; les Européens ont pris le mot en prenant la chose. </re>
 </re>
 </entry>
@@ -9535,7 +9535,7 @@
 </p>
 </note>
 <etym>Diminutif d'un radical ham qui est dans le picard ham, hem ; du germanique : anc. h. allem. cham ; anglo-saxon, ham ; angl. home, demeure ; allem. mod. Heim ; goth. heims. Dans le vieux français, li hamels ou hamiaus, nominatif ; le hamel, régime. Ham ou cham répond au terme grec signifiant village, allié au mot grec se traduisant être couché, sanscrit çi, en latin jacëre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAMEAU. - ÉTYM. D'après M. d'Arbois de Jubainville, hameau vient, non pas du gothique haims, ni de l'allemand heim, les lois du vocalisme s'y opposent, ni de l'anglo-saxon ham, les Anglo-Saxons n'ont pas colonisé la France, mais du franc hâm (Grimm a établi que dans la langue franque â comme ê vaut ai gothique et ei allemand) ; et ce mot franc n'est pas hypothétique, il nous est conservé dans le composé ham-êdius, conjurateur, proprement jureur de village. </re>
 </re>
 </entry>
@@ -9659,16 +9659,14 @@
 </p>
 </note>
 <etym>Wallon, hanzin, anzin, ainche ; normand, haim et aingue ; espagn. anzuelo ; portug. anzol ; ital. ancino. De ces formes les unes (hameçon) sont faites du latin hamus, avec le diminutif icionem, les autres (ancino, hanzin, etc.) avec le diminutif icinus (voy. <ref target="haim">HAIM</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAMEÇON. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Sorte de papillon, bombyx hamula.</dictScrap>
 </sense>
 <note type="historique">
 <p>
-<label>Ajoutez :</label>
-</p>
-<p>
+<dictScrap>Ajoutez :</dictScrap>
 <label>XIIe s.</label>
 <cit>
 <quote>Li uns des deus homes nagoit [ramait], Al amençon l'autres pescoit</quote>
@@ -10048,7 +10046,7 @@
 <quote>Mais souvent sa main sur sa hanche Faisait bien voir ce qu'elle était</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Oeuv. t. I, p. 307</biblScope>
+<biblScope>Œuv. t. I, p. 307</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -10163,7 +10161,7 @@
 </p>
 </note>
 <etym>Bourguig. ainche ; provenç. espagn. portug. et ital. anca ; de l'anc. h. allem. ancha, jambe, d'après Diez ; de cette façon, anche et hanche sont le même mot ; en latin, tibia signifie aussi jambe et tuyau. Le latin ancus, crochu, et le mot grec traduit par courbure, sont moins proches que l'étymologie germanique. Dans tous les cas, il faut regarder l'h comme épenthétique.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HANCHE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Les hanches d'une chèvre (machine) sont les deux grands côtés qui vont en se rapprochant, et entre les extrémités desquels est montée une poulie.</dictScrap>
@@ -10411,7 +10409,7 @@
 </p>
 </note>
 <etym>Dérivé, d'après Diez, de l'allemand Hahn, nom du hanneton en quelques provinces, proprement coq. Cette étymologie est très vraisemblable. Mahn a indiqué une dénomination très semblable du hanneton en anglais : cock-chafer, de cock, coq, et chafer, scarabée. Génin a confondu aneton, qui veut dire un jeune canard, avec haneton, qui s'est toujours écrit avec une h et qui a un tout autre sens ; l'étymologie qu'il en tire est sans valeur.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HANNETON. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -10484,7 +10482,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>HANNON. Ajoutez : - REM. On écrit aussi hanon.  <cit><quote>C'est une sorte d'huître à test très mince, fort léger et brillant nacré, qu'en histoire naturelle on désigne sous le nom générique d'anomie et dans le langage des pêcheurs sous le nom de hanon</quote><bibl><author>BESNON</author><biblScope>Feuilleton de l'Avranchin, 22 nov. 1868</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -10580,7 +10578,7 @@
 </p>
 </note>
 <etym>Anc. haut allem. hansa, troupe, compagnie.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. HANSE. Ajoutez : - REM. On trouve dans un texte du XIIIe s. hanse au sens de port, lieu d'arrivée des navires : </form>
 <cit>
 <quote>Desi à Aigremor ne sunt aresteü, Par un mardi matin sont en hance venu</quote>
@@ -11037,7 +11035,7 @@
 </p>
 </note>
 <etym>Hanter. L'ancienne langue disait hant (hant de femme, Rois, p. 83), et hantin (hantins de gelines et de poussins, Ren. 13021).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HANTISE. Ajoutez : - HIST. XIVe s. <cit><quote>Car n'est tresors d'or ne d'argent Qui vaille hantise à bonne gent</quote><bibl><biblScope>Dits de Watriquet de Couvin, p. 71</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -11283,7 +11281,7 @@
 </p>
 </note>
 <etym>Happer, lourd, nigaud : trompe-nigaud.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAPPELOURDE. - ÉTYM. Ajoutez : M. Meunier, les Composés qui contiennent un verbe à un mode personnel, p. 206, se demandant pourquoi la happelourde n'est pas restée happelourd, puisque c'est une happe-lourdaud, explique que le genre féminin de ce mot en a fait modifier la fin ; c'est ainsi qu'à Paris la rue Vivien est devenue la rue Vivienne, et la rue Dauphin la rue Dauphine. </re>
 </re>
 </entry>
@@ -11456,7 +11454,7 @@
 </p>
 </note>
 <etym>Happer est ou le hollandais happen, mordre, dont le sens convient très bien, ou, simplement, une onomatopée tirée du bruit de la bouche qui saisit, qui happe.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAPPER. - HIST. </form>
 <re>XIVe s.  Ajoutez : <cit><quote>Parmi cestes paroles furent si enflammez et hapez leurs courages, que tous les jeunes hommes quicunques estoient requis de prendre armes se fesoient escrire</quote><bibl><author>BERCHEURE</author><biblScope>f° 94, verso.</biblScope></bibl></cit> </re>
 </re>
@@ -11571,11 +11569,11 @@
 </p>
 </note>
 <etym>Espagn. hacanea ; portug. facanea ; ital. acchinea, chinea ; de l'angl. hackney ; holl. hakkenei, lesquels viennent du germanique hack ou hacke, cheval, et de l'anglais nag, holl. negge, bidet. Legoarant fait remarquer que l'amble porte en bas-breton le nom de hincané.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAQUENÉE. - HIST. Ajoutez : </re>
 <re>XIVe s. <cit><quote>Une haguenée baye brune</quote><bibl><biblScope>Mandements de Charles V, p. 177</biblScope></bibl></cit> </re>
-</re>
 <etym>Ajoutez : Haquenée est dit tiré de l'angl. hackney ; mais les dictionnaires anglais déclarent que hackney vient du français ; il faut donc renoncer à cette dérivation, et en venir à l'esp. hacanea ; cette langue a en effet haca, bidet ; d'où probablement vient hacanea.</etym>
+</re>
 </entry>
 <entry xml:id="haquet">
 <form>
@@ -11587,7 +11585,7 @@
 <dictScrap>Charrette longue, étroite et sans ridelles, qui sert à voiturer du vin, des ballots, etc. Ni enlever et charger sur leurs charrettes et haquets, sans, au préalable, avoir vu l'acquit des droits de la dite ferme, Arrêt de la cour des aides, 10 oct. 1613.</dictScrap>
 </sense>
 <etym>Haquet a signifié petit cheval (Sus, sus, allez vous en, Jaquet, Et pensez le petit haquet, Et lui faites bien la litiere, COQUILLART, Monologue du puits), nom qui a passé à une sorte de charrette basse ; picard, haguette, petite jument servant de monture. Haquet est le diminutif de haque, qui a signifié cheval, du germanique hack ou hacke (voy. <ref target="haquenée">HAQUENÉE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAQUET. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Grande voiture qui sert à transporter les bateaux qui font partie des équipages de ponts militaires.</dictScrap>
@@ -11948,7 +11946,7 @@
 <quote>Il y avait plusieurs haras en Perse et en Médie ; mais dans cette dernière province ceux du lieu nommé Nisée étaient les plus renommés, et c'était de là qu'était fournie l'écurie du roi</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. II, p. 404, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. II, p. 404, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12228,7 +12226,7 @@
 <quote>Ce n'est pas nous qui contesterions.... à M. Périer l'esprit d'opposition et de harcèlement le plus varié, le plus ardent, le plus fécond qui ait paru sur nos bancs de gauche depuis 1815</quote>
 <bibl>
 <author>CARREL</author>
-<biblScope>Oeuv. t. II, p. 315</biblScope>
+<biblScope>Œuv. t. II, p. 315</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -12287,7 +12285,7 @@
 <quote>La première journée fut rude, parce que, n'ayant ni cavalerie, ni frondeurs, ils furent extrêmement harcelés par un détachement qu'on avait envoyé contre eux</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 190, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 190, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -12326,7 +12324,7 @@
 </p>
 </note>
 <etym>Anc. franç. harce, qui est un diminutif de hart (voy. ce mot) et qui signifiait une baguette ; harceler, proprement frapper d'une baguette. Cependant Diez y voit un dérivé de herser, puis, figurément, tourmenter comme la herse tourmente la terre ; et il cite à l'appui l'anglais to harrow, qui signifie herser et, figurément, tourmenter. L'historique est insuffisant pour trancher la question.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HARCELER. - ÉTYM. Ajoutez : Picard, hartcheler, fagoter : elle est bien hartchelée se dit d'une femme négligée dans la manière de se vêtir ; ce verbe vient de hartchel, qui est un diminutif de hart, et cela confirme d'autant l'étymologie de harceler, par harcele, diminutif de hart. </re>
 </re>
 </entry>
@@ -12399,7 +12397,7 @@
 </p>
 </note>
 <etym>Allem. Herde, troupeau ; goth. hairda. Il est probable que herde se rattache au latin hara, étable.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. HARDE. Ajoutez : - REM. En dehors des termes de chasse, harde s'est dit, au XVIIe siècle, d'une troupe de chevaux.  </form>
 <cit>
 <quote>Ayant su qu'on m'a envoyé deux hardes de barbes [chevaux barbes] à Paris, l'une de vingt-deux, l'autre de douze....</quote>
@@ -12453,7 +12451,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>masc. Oeuf hardé, œuf à coquille molle ou dont la coquille est remplacée par une membrane, et que pondent quelquefois les oiseaux.</dictScrap>
+<dictScrap>masc. Œuf hardé, œuf à coquille molle ou dont la coquille est remplacée par une membrane, et que pondent quelquefois les oiseaux.</dictScrap>
 <cit>
 <quote>Il y a des poules qui donnent des œufs hardés ou sans coque, soit par le défaut de la matière propre dont se forme la coque, soit parce qu'ils sont chassés de l'oviductus (voy. <ref target="oviducte">OVIDUCTE</ref>) avant leur entière maturité</quote>
 <bibl>
@@ -12463,7 +12461,7 @@
 </cit>
 </sense>
 <etym>Origine inconnue.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HARDÉ. - ÉTYM. Dans le Calvados, on dit hardelé : </form>
 <cit>
 <quote>Les œufs hardelés sont pondus par des coqs, et, quand on les met dans du fumier de cheval, il en sort des serpents dont l'huile est excellente pour composer des philtres et transmuer des métaux</quote>
@@ -12488,7 +12486,7 @@
 <dictScrap>Espèce de viorne.</dictScrap>
 </sense>
 <etym>Diminutif de hart.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HARDEAU. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Vaurien, garnement, la Gazette des halles, p. 7, 1649, dans CH. NISARD, Parisianismes, p. 141.</dictScrap>
@@ -13001,7 +12999,7 @@
 </p>
 </note>
 <etym>Provenc. ardit ; ital. ardito. Hardit est le participe du verbe hardir, que nous disons aujourd'hui enhardir ; hardir répond à l'ancien haut allemand hartjan, endurcir, rendre fort, de l'anc. haut all. harti, dur, en parlant des choses, fort, hardi, en parlant des personnes. La loi de Grimm ramène directement harti au sanscrit kratu, celui qui achève et aussi puissance ; c'est l'adjectif grec se traduisant fort.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HARDI (har-di, h aspirée), s. m. Nom d'une ancienne monnaie qui avait surtout cours en Guyenne sous la domination anglaise, et qui valait trois deniers tournois.  </form>
 <cit>
 <quote>Le 18 octobre 1467, Louis XI, ayant trouvé avantageuse dans le système duodécimal cette coupure de la valeur de trois deniers, prescrivit de frapper des hardis, copiés de ceux d'Angleterre ; ils étaient à trois deniers de loi, c'est-à-dire qu'ils contenaient un quart de leur poids d'argent fin, tandis que le denier tournois n'était qu'à un denier de loi</quote>
@@ -13010,7 +13008,6 @@
 <biblScope>Journ. offic. 20 fév. 1877, p. 1296, 2e col.</biblScope>
 </bibl>
 </cit>
-</re>
 <note type="historique">
 <p>
 <label>XVe s.</label>
@@ -13024,6 +13021,7 @@
 </p>
 </note>
 <etym>Bas-lat. ardicus, arditus, DU CANGE, ainsi dit soit de Philippe III, surnommé le Hardi, soit de Richard 1er, roi d'Angleterre, qui eut le même surnom.</etym>
+</re>
 </entry>
 <entry xml:id="hardier">
 <form>
@@ -13090,7 +13088,7 @@
 <quote>Ils ne portent dans ces places où ils entrent sans lumières et sans connaissances comme sans vocation, qu'une folle estime d'eux-mêmes et une téméraire hardiesse de décider</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. III, p. 375</biblScope>
+<biblScope>Hist. anc. Œuv. t. III, p. 375</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -13432,7 +13430,7 @@
 <quote>D'épaisses et nombreuses nuées de harengs transmigrent de l'océan Polaire sur les côtes d'Écosse et de Hollande, poursuivis par les grands poissons qui habitent les profondeurs de cet océan</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Consid. corps org. Oeuv. t. VI, p. 280, dans POUGENS.</biblScope>
+<biblScope>Consid. corps org. Œuv. t. VI, p. 280, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -13531,7 +13529,7 @@
 </p>
 </note>
 <etym>Picard, héring ; provenç. arenc ; esp. arenque ; ital. aringa ; de l'anc. haut allem. harinc ; all. mod. Hering ; holl. haring. Mais, bien que les mots romans viennent de l'allemand, l'allemand n'en a pas moins une origine latine, à savoir halec, poisson salé ; de sorte que, pour entrer dans les langues romanes, un mot latin a passé par la filière germanique.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HARENG. Ajoutez : </re>
 <re>
 <cit>
@@ -13802,7 +13800,7 @@
 <quote>L'intention du législateur avait sans doute été de corriger les querelleurs et les hargneux, en les assujettissant à ne pouvoir assouvir leur colère que comme les animaux</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 366, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 366, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -13829,7 +13827,7 @@
 <quote>Un grand chien debout, maigre, hargneux, le nez presque en terre, de mauvaise humeur</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 430, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 430, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -13998,7 +13996,7 @@
 <dictScrap>Terme populaire. Spéculer mesquinement au jeu ou dans les affaires, faire des affaires minimes.</dictScrap>
 </sense>
 <etym>Génin dit que haricoter est l'ancien verbe harigoter (voy. <ref target="haricot.1">HARICOT 1</ref>), qui signifiait déchiqueter. On a dit aussi que ce mot vient de l'usage de jouer en marquant avec des haricots.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HARICOTER. Ajoutez : </form>
 <sense n="2">
 <dictScrap>En Normandie, se dit d'un cultivateur qui laboure avec des haridelles et n'avance point dans son travail ; d'où haricotier, pauvre homme qui n'arrive point à faire ses affaires, qui tire le diable par la queue, DELBOULLE, Gloss. de la vallée d'Yères, le Havre, 1876, p. 182.</dictScrap>
@@ -14790,7 +14788,7 @@
 </p>
 </note>
 <etym>Provenç. armonic ; espagn. et ital. armonico ; du lat. harmonicus, le grec (voy. <ref target="harmonie">HARMONIE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HARMONIQUE. Ajoutez : - REM. Voici une définition plus explicite du terme de mathématique : Division harmonique d'une droite, division de cette ligne par deux points C et D, situés l'un sur la droite, l'autre sur son prolongement, de telle façon que le rapport des distances du point C aux points A origine de la ligne et B terminaison de la ligne soit le même que le rapport des distances du point D aux mêmes points A et B. </re>
 </re>
 </entry>
@@ -14975,7 +14973,7 @@
 <dictScrap>Terme d'antiquité. Nom des gouverneurs imposés par Sparte aux pays vaincus, durant son hégémonie, surtout après la domination de Lysandre.</dictScrap>
 </sense>
 <etym>En grec, proprement celui qui réunit, arrange, du grec, arranger, arrangement. L'esprit rude ne se retrouvant pas dans le primitif grec, il est permis d'identifier le grec avec le latin armus, épaule, arma, armes, artus, membre ; ce qui conduit à la racine sanscrite ar, préparer, obtenir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HARMOSTE (ar-mo-st'), s. m. Terme d'antiquité grecque. Gouverneur que les Lacédémoniens, durant leur hégémonie, établissaient dans les villes conquises. La Grèce, menacée et fatiguée par les harmostes spartiates, Rev. critique, 25 nov. 1876, p. 339. </re>
 </re>
 <etym>En grec, celui qui arrange, met en ordre.</etym>
@@ -15081,7 +15079,7 @@
 </p>
 </note>
 <etym>Harnois ; provenç. arnescar, arnesar.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HARNACHER. - ÉTYM. Ajoutez : <cit><quote>Norm. harniquer, harnaquer</quote><bibl><author>DELBOULLE</author><biblScope>Gloss. de la vallée d'Yères, le Havre, 1876, p. 184</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -15575,7 +15573,7 @@
 <quote>Que reste-t-il à faire après qu'on s'est bien harpaillé ? À mener une vie douce, tranquille, et à rire</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Lett. Palissot, dans PALISSOT, Oeuvres, t. I, p. 460</biblScope>
+<biblScope>Lett. Palissot, dans PALISSOT, Œuvres, t. I, p. 460</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -15601,7 +15599,7 @@
 <sense>
 <dictScrap>Nom vulgaire du circus roux (rapaces), appelé busard harpaye par certains auteurs, et dont l'individu jeune pris pour une espèce particulière avait reçu le nom de busard des marais, LEGOARANT.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HARPAYE. Ajoutez : - ÉTYM. Ce semble un dérivé de harper 2, qui signifie saisir, prendre. </re>
 </re>
 </entry>
@@ -15843,7 +15841,7 @@
 <quote>La mort ne les peut écouter ; Car la cruelle est sans oreilles, Dès les vieux temps qu'Orphée harpa Si doucement qu'il l'attrapa</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Oeuvres, t. II, p. 198</biblScope>
+<biblScope>Œuvres, t. II, p. 198</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -15935,7 +15933,7 @@
 <quote>Donc, sans les mettre à mort, leur figure defait ; En houpeaux de poil roux leur blonde cheveleure Se change, assauvageant leur douillette encoleure, D'espaule et d'estomac en large se harpans, Evidez par le flanc desjà penchent rampans</quote>
 <bibl>
 <author>BAÏF</author>
-<biblScope>Oeuvres, p. 187, dans LACURNE</biblScope>
+<biblScope>Œuvres, p. 187, dans LACURNE</biblScope>
 </bibl>
 </cit>
 </p>
@@ -16173,7 +16171,7 @@
 <quote>Nicias s'était muni de harpons de fer pour les accrocher</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, 2e part. p. 556, dans POUGENS.</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, 2e part. p. 556, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -16425,7 +16423,7 @@
 </p>
 </note>
 <etym>Wallon, hâre ; namur. haurde ; Hainaut, hart, s. m. ; norm. hart, grosse branche, et arde, morceau de bois ; origine inconnue. On indique le celtique : bas-breton, ari, éré, lien, attache ; gaél. ar ; bas-breton aricin, et dans les anciens auteurs, heren, attacher ; mais cela ne rend pas compte du t.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HART. - ÉTYM. Ajoutez : D'après M. Jouaucoux, en picard, hart signifie pousse ou tige flexible de toute essence de bois propre à être tordue, et aussi baguette, jeune rameau avec lequel on peut fouetter, et vient du lat. artus, employé par Pline au sens de branche, de rameau ; diminutif une hartchel. Mais, indépendamment de la prosthèse de l'h, artus de Pline est un mot métaphorique dont il n'y a aucune trace dans la langue vulgaire au sens de rameau. </re>
 </re>
 </entry>
@@ -16679,7 +16677,7 @@
 <quote>Il y a déjà soixante-quatre à parier contre un qu'elles [les planètes] n'auraient pas eu ce mouvement dans le même sens, si la même cause ne l'avait pas produit ; ce qu'il est aisé de prouver par la doctrine des hasards</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuves théor. terr. Oeuv. t. I, p. 195</biblScope>
+<biblScope>Hist. nat. Preuves théor. terr. Œuv. t. I, p. 195</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -17228,7 +17226,7 @@
 <quote>Cette idée sur la cause du mouvement des planètes paraîtra moins hasardée lorsqu'on rassemblera toutes les analogies qui y ont rapport</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. natur. Preuves, Théor. terr. Oeuv. t. I, p. 195</biblScope>
+<biblScope>Hist. natur. Preuves, Théor. terr. Œuv. t. I, p. 195</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -17269,7 +17267,7 @@
 <quote>Il lui restait de ses anciens charmes un air un peu plus que hardi, qui réveillait merveilleusement la fadeur d'une blonde un peu hasardée</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Confess. comte de ***, Oeuv. t. VIII, p. 109, dans POUGENS.</biblScope>
+<biblScope>Confess. comte de ***, Œuv. t. VIII, p. 109, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -18026,7 +18024,7 @@
 </p>
 </note>
 <etym>Norm. hansart. Origine inconnue.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HASSART. Ajoutez : - REM. C'est le même que hansart (voy. ce mot au Supplément). </re>
 </re>
 </entry>
@@ -18483,7 +18481,7 @@
 <dictScrap>Petite broche du métier des fabricants d'étoffes de soie.</dictScrap>
 </sense>
 <etym>Diminutif de hâte 2.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÂTELET. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Bijou en forme de broche ; on dit aussi hâtelette.</dictScrap>
@@ -19335,7 +19333,7 @@
 </p>
 </note>
 <etym>Flamand, hobant, pour hoofband, de hoof, tête, et band, lien : lien de la tête, du sommet du mât ; un cordage qui entoure la tête du mât ne pouvait être mieux nommé que bande de tête.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAUBAN. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Nom donné par les marins à certaines formes de nuages.</dictScrap>
@@ -19470,7 +19468,7 @@
 </p>
 </note>
 <etym>Provenç. ausberc ; ital. usbergo ; de l'anc. h. allem. halsberc ; anglo-sax. healsbeorg ; anc. scand. hâlsbiörg, de hals, cou, et berc, protection, allem. mod. bergen, cacher.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAUBERT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Grand haubert, blanc haubert, armure complète de mailles que les chevaliers avaient seuls le droit de porter, PENGUILLY L'HARIDON, Notice sur les armures.</dictScrap>
@@ -19581,7 +19579,7 @@
 </p>
 </note>
 <etym>Voy. <ref target="hausser">HAUSSER</ref>.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAUSSE. Ajoutez : </form>
 <sense n="10">
 <dictScrap>Pièce de bois équarrie placée au-dessus de l'essieu de certaines voitures pour servir de point d'appui au fond.</dictScrap>
@@ -19854,7 +19852,7 @@
 <quote>Pour se corriger d'un défaut qu'il avait contracté par une mauvaise habitude, qui était de hausser continuellement les épaules, il [Démosthène] s'exerçait debout dans une espèce de tribune fort étroite où pendait une hallebarde, afin que, si dans la chaleur de l'action ce mouvement venait à lui échapper, la pointe de cette hallebarde lui servit d'avertissement et de punition</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. V, p. 534, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. V, p. 534, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -20368,7 +20366,7 @@
 <quote>La ville de Syracuse était devenue un désert, où l'herbe était crue si haute que les chevaux y paissaient</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. V, p. 329, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. V, p. 329, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -21176,7 +21174,7 @@
 <quote>Ce langage était trop haut, pour être entendu par les politiques ordinaires</quote>
 <bibl>
 <author>ST-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. III, p. 367, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. III, p. 367, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -22740,7 +22738,7 @@
 </p>
 </note>
 <etym>Berry, hiaut ; provenç. alt, aut ; cat. alt ; esp. port. et ital. alto ; du latin altus, qui, d'après Festus, serait le participe passif de alere, nourrir, et signifierait proprement accru par la nourriture. L'h est due à la tendance qu'a eue la langue pour la prosthèse d'une h : huile, huit, huître, hurler, etc.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HAUT. </form>
 <sense n="27">
 <dictScrap>Après : Haut le pied, sans être chargé. Renvoyer des chevaux haut le pied, les renvoyer sans être attelés ni montés. Ajoutez :</dictScrap>
@@ -23078,7 +23076,7 @@
 </p>
 </note>
 <etym>Dérivé de haut ; génev. hutins, hutains.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HAUTAIN. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Cep de vigne cultivé en hauteur.</dictScrap>
@@ -23120,7 +23118,7 @@
 </p>
 </note>
 <etym>Hautaine, et le suffixe ment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAUTAINEMENT. - HIST. Ajoutez : </re>
 <re>XIVe s.  <cit><quote>Si [les échevins] repeterent audit Jehan amiablement les fais dessusdiz, lequel ne les print pas en gré, mais respondit hautainement que pour euls ne lesseroit qu'il ne preist argent desdictes cedules (1376)</quote><bibl><author>VARIN</author><biblScope>Arch. administr. de la ville de Reims, t. III, p. 430</biblScope></bibl></cit> </re>
 </re>
@@ -23698,7 +23696,7 @@
 <quote>En Grèce, M. Bernoulli a déterminé la hauteur de l'Olympe à 1017 toises</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Add. théor. terr. Oeuv. t. XII, p. 437</biblScope>
+<biblScope>Add. théor. terr. Œuv. t. XII, p. 437</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -23998,7 +23996,7 @@
 <quote>Alberoni mettait dans ses démarches une hauteur qui n'était pas d'une âme commune, et qui persuadait à chacune des puissances que ce ministre pouvait s'être assuré des autres</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Mém. Rég. Oeuv. t. V, p. 335</biblScope>
+<biblScope>Mém. Rég. Œuv. t. V, p. 335</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -24242,7 +24240,7 @@
 <sense>
 <dictScrap>Nom donné vulgairement à divers poissons de genres différents, savoir, une argentine, un corégone et un triptéronote.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HAUTIN (hô-tin, h aspirée), s. m. Autre orthographe de HAUTAIN 2 (voy. ce mot). </form>
 </re>
 </entry>
@@ -24316,7 +24314,7 @@
 <dictScrap>Terme de marin. Grain de pluie ou de vent qui passe très vite.</dictScrap>
 </sense>
 <etym>Haut, pendu : c'est-à-dire grain qui est suspendu très haut dans le ciel et qui ne se fait sentir que peu.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAUT-PENDU.  Ajoutez : <cit><quote>Ces grains blancs ou haut-pendus de la zone torride, qui paraissent à peine dans un ciel serein et clair, et desquels sort un vent momentané, mais impétueux</quote><bibl><author>LA COUDRAYE</author><biblScope>Théories des vents et des ondes, p. 50</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -24512,7 +24510,7 @@
 <dictScrap>On trouve aussi avano par corruption.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HAVENEAU. Ajoutez : - ÉTYM. " Haveneau ou havenet est un mot scandinave. Un filet de la même forme se dit en norois háfr, norvég. haav, suéd. Haf ( a bref), patois de l'Angleterre septentrionale haaf. Dans le Calvados, havenet s'emploie, d'après Du Méril, comme nom d'une espèce de filet avec lequel on prend les oiseaux quand il fait nuit. Le norvég. haav se dit aussi d'un petit filet avec lequel on prend les mouches, " BUGGE. Romania, juillet-octobre 1875, p. 361. </re>
 </re>
 </entry>
@@ -24588,7 +24586,7 @@
 </p>
 </note>
 <etym>Allem. Haft, agrafe, dérivé du gothique hafjan, soulever ; allem. mod. heben.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HAVET. Ajoutez : </re>
 <re>
 <cit>
@@ -24733,7 +24731,7 @@
 <quote>Les baies, les ports et les havres</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. théor terr. Oeuvres, t. II, p. 199</biblScope>
+<biblScope>Hist. nat. Preuv. théor terr. Œuvres, t. II, p. 199</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -25413,7 +25411,7 @@
 </p>
 </note>
 <etym>Héberger ; Berry, abergement, abregement.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉBERGEMENT.  Ajoutez : <cit><quote>Lundi je serai à Chantilli, où je fais état de coucher deux nuits, s'il plaît à Sa Majesté m'y donner hébergement, ce dont je ne suis pas en doute</quote><bibl><author>RICHELIEU</author><biblScope>Lettres, etc. t. VI, p. 170 (1638).</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -25573,11 +25571,11 @@
 </p>
 </note>
 <etym>Berry, auberger, aberger et heberger, couvrir, abriter ; bourguig. eborgé ; génev. aberger ; provenç. alberguar ; espagn. et portug. albergar ; ital. albergare ; du germanique : anc. h. allem. heriberga, campement militaire, de heri, armée, et berge, logement : proprement logement des gens de guerre, puis, par extension du sens, logis en général et même auberge (voy. ce mot).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉBERGER. Ajoutez : </re>
 <re>Héberger la moisson, la rentrer.  <cit><quote>Ajoutez-vous un jour à la semaine, ou si vous vous chargez d'héberger la moisson et de labourer les champs ?</quote><bibl><author>PROUDHON</author><biblScope>La célébration du dimanche, 1868, in-12, p. 140</biblScope></bibl></cit> </re>
-</re>
 <etym>Ajoutez : Heriberga est une forme postérieure à la forme en a de l'époque mérovingienne, D'ARBOIS DE JUBAINVILLE, Romania, n° 2, p. 141 (voy. AUBERGE au Supplément).</etym>
+</re>
 </entry>
 <entry xml:id="hébergeur">
 <form>
@@ -25638,7 +25636,7 @@
 </cit>
 </sense>
 <etym>Lat. hebetationem, de hebetare, hébéter.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉBÉTATION. Ajoutez : - HIST. Lequel [Dieu], comme savez, veult souvent sa gloire apparoistre en l'hebetation des saiges, en la depression des puissans et en l'erection des simples et humbles RAB. III, 41. </re>
 </re>
 </entry>
@@ -25674,7 +25672,7 @@
 <quote>Il [Socrate] était fort laid, et, outre sa laideur, il avait dans sa physionomie quelque chose d'hébété et de stupide</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 387, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 387, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -25777,7 +25775,7 @@
 </p>
 </note>
 <etym>Lat. hebetare, de hebes, émoussé.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉBÉTER. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Rendre insensible.</dictScrap>
@@ -25791,9 +25789,7 @@
 </sense>
 <note type="historique">
 <p>
-<label>Ajoutez :</label>
-</p>
-<p>
+<dictScrap>Ajoutez :</dictScrap>
 <label>XIVe s.</label>
 <cit>
 <quote>Mes sens de oelx [yeux] et de oreilles sont hebetez</quote>
@@ -26034,7 +26030,7 @@
 </p>
 </note>
 <etym>Origine inconnue. Dans le XIVe siècle, le hec est une demi-porte.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HEC. Ajoutez : </form>
 <sense n="2">
 <dictScrap>En Normandie, la partie inférieure d'une porte coupée en deux, et aussi la petite porte, susceptible de déplacement, à claire-voie, que l'on place, durant le jour, à l'entrée des habitations dans les fermes, pour empêcher les volailles et les animaux de basse-cour d'y pénétrer, H. MOISY, Noms de famille normands, p. 191.</dictScrap>
@@ -26087,7 +26083,7 @@
 </sense>
 </sense>
 <etym></etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉCATE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>La 100e planète télescopique, découverte en 1868 par M. Watson.</dictScrap>
@@ -26762,7 +26758,7 @@
 </cit>
 </sense>
 <etym>Terme grec que Max Müller a identifiée avec la Saramâ védique, la déesse de l'aurore, et que Curtius au contraire rapproche du mot grec signifiant torche.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉLÈNE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>La 101e planète télescopique, découverte en 1868 par Watson.</dictScrap>
@@ -26961,7 +26957,7 @@
 </p>
 </note>
 <etym>Du grec, enrouler, primitif de, tourner, courber ; l'esprit doux suppose un digamma, d'où le rapprochement naturel avec le latin volvo, sanscrit var, envelopper.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉLICE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Terme de géométrie. Courbe à double courbure tracée sur un cylindre quelconque, jouissant de la propriété de se transformer en ligne droite lorsqu'on fait le développement de la surface du cylindre.</dictScrap>
@@ -27039,7 +27035,7 @@
 <sense>
 <dictScrap>Terme d'anatomie. Disposé en hélice. Organes hélicoïdaux.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉLICOÏDAL. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Qui se rapporte à l'hélicoïde. Surface hélicoïdale.</dictScrap>
@@ -27066,7 +27062,7 @@
 <dictScrap>S. m. Un hélicoïde, surface engendrée par une droite horizontale qui s'appuie constamment sur une hélice et sur l'axe vertical du cylindre droit où est tracée cette courbe.</dictScrap>
 </sense>
 <etym>Hélice, et forme (en grec).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉLICOÏDE. </form>
 <sense n="2">
 <dictScrap>S. m. Ajoutez :</dictScrap>
@@ -27281,7 +27277,7 @@
 </sense>
 </sense>
 <etym>Hélio..., et décrire (en grec).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉLIOGRAPHIE.  Ajoutez : - REM. <cit><quote>Ce fut le nom donné par Nicéphore Niepce à la reproduction d'objets par le soleil, qui fut plus tard nommée daguerréotypie et photographie</quote><bibl><author>CHEVREUL</author><biblScope>Journ. des sav. fév. 1873, p. 79</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -27762,7 +27758,7 @@
 </cit>
 </sense>
 <etym>Terme dérivé du verbe grec traduit par helléniser.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HELLÉNISTE. Ajoutez : - REM. <cit><quote>Au sens d'érudit en langue grecque, le P. Labbe inventait le mot helléniste, et le prenait en mauvaise part, en y impliquant une idée d'abus</quote><bibl><author>STE-BEUVE</author><biblScope>Port-Royal, t. III, p. 526, 3e éd.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -28377,7 +28373,7 @@
 <sense>
 <dictScrap>Terme de chimie. Acide hématique, matière que l'on obtient en faisant rougir du charbon de sang avec de la soude, et traitant ensuite le tout par l'alcool.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉMATIQUE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Terme de physiologie. Qui a rapport au sang.</dictScrap>
@@ -28816,7 +28812,7 @@
 <dictScrap>Terme de botanique. Genre de plantes liliacées remarquables par leur élégance, où l'on distingue : l'hemerocallis flava, L. hémérocalle jaune, lis asphodèle, belle de jour ; l'hemerocallis fulva, L. ; l'hémérocalle bleue, funkia ovata, Spr. et l'hémérocalle du Japon, funkia subcordata, Spr.</dictScrap>
 </sense>
 <etym>Termes grecs dont l'un est dérivé du mot traduit par jour, et l'autre par beauté.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉMÉROCALLE. Ajoutez : </re>
 <re>Fig. Beauté d'un jour.  <cit><quote>Toutes les faveurs humaines Sont hémérocalles d'un jour</quote><bibl><author>MALH.</author><biblScope>Lexique, éd. L. Lalanne.</biblScope></bibl></cit> </re>
 </re>
@@ -29191,7 +29187,7 @@
 <sense>
 <dictScrap>Espace de terre pour l'ensemencement de laquelle il faut une hémine de grain (Drôme).</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉMINÉE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Dans les Bouches-du-Rhône, mesure agraire qui vaut un peu plus de huit ares, BARRAL, Les irrigations dans les Bouches-du-Rhône, Paris, 1876, p. 63.</dictScrap>
@@ -30385,7 +30381,7 @@
 <quote>Les seigneurs s'étant trouvés le lendemain au rendez-vous, le cheval de Darius ne fut pas plutôt dans l'endroit où il avait senti la cavale, qu'il hennit : sur quoi Darius fut salué roi par les autres, et placé sur le trône</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. II, p. 343, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. II, p. 343, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -30588,7 +30584,7 @@
 <dictScrap>Ordre de Saint-Henri, ordre militaire institué en 1736 par l'électeur de Saxe. La marque en est une étoile à huit pointes, au milieu de laquelle est le buste de saint Henri, empereur. Elle est attachée par un cordon d'argent à un ruban cramoisi.</dictScrap>
 </sense>
 <etym>Henri, nom germanique, dont la forme dans le haut allemand est Heimrih, de heim, maison, village, et rih, puissant : chef de village ou de maison.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HENRI. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Monnaie d'or, créée en 1549 par Henri II, qui valait deux écus et qui était à 23 carats et de 67 au marc, DE SAULCY, Journ. offic. 20 fév. 1877, p. 1296, 2e col.</dictScrap>
@@ -31219,7 +31215,7 @@
 <quote>César, pour en profiter, entreprit d'emporter l'île de Pharos, où il fit débarquer ses troupes après le combat, et de se rendre maître de la digue qu'on appelait l'heptastade, qui la joignait au continent</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. X, p. 325, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. X, p. 325, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -31327,7 +31323,7 @@
 </sense>
 </sense>
 <etym>Héraut, anciennement heralt.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉRALDIQUE. Ajoutez : </re>
 <re>Graveur héraldique, graveur qui grave des armoiries. </re>
 </re>
@@ -31586,7 +31582,7 @@
 <dictScrap>Ancien terme de marine. Étoffe de laine grossière et de couleur brune, sorte de camelot dont on faisait des tentes pour les navires, des cabans et des chaussures pour les gens de mer, JAL.</dictScrap>
 </sense>
 <etym>D'après Jal, bas-lat. arbasus, de l'ital. arbascio, de Arba, île appartenant aux Vénitiens, où l'on fabriquait l'arbascîo.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HERBAGE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Terme de droit féodal. Droit d'herbage, droit payé pour tout héritage tenu en censive. Il y avait le droit de vif herbage et le droit de mort herbage.</dictScrap>
@@ -32396,7 +32392,7 @@
 </p>
 </note>
 <etym>Berry, harbe ; wallon, ièbe ; Hainaut, hierbe ; provenç. erba, herba ; espagn. yerva ; port. herva ; ital. erba ; du lat. herba. Herba paraît tenir au verbe grec traduit par paître, répondant au sanscrit bharv, qui se trouve dans le véda : bharvati, il mange, et dans l'expression sûbharvas gâvas, et en grec, bœufs bien nourris.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HERBE. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe">
@@ -32620,7 +32616,7 @@
 </p>
 </note>
 <etym>Provenc. erbos ; esp. herboso ; port. hervoso ital. erboso ; du lat. herbosus, de herba, herbe.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HERBEUX. Ajoutez : </re>
 <re>Atterrissements herbeux, atterrissements qui deviennent des îles et où il croît une herbe excellente pour les moutons, QUÉNAULT, Revue des Sociétés savantes, 1872, t. VI, p. 106. </re>
 </re>
@@ -33345,7 +33341,7 @@
 <quote>Les maladies héréditaires souffrent moins de difficultés ; on conçoit facilement que des sucs viciés doivent altérer la constitution du germe</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Consid. corps org. Oeuv. t. V, p. 135, dans POUGENS.</biblScope>
+<biblScope>Consid. corps org. Œuv. t. V, p. 135, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -33436,7 +33432,7 @@
 </p>
 </note>
 <etym>Héréditaire, et le suffixe ment. Dans l'ancienne langue on disait heritablement, de l'adjectif heritable.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉRÉDITAIREMENT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>À titre héréditaire. Tous les pouvoirs publics, quels qu'ils soient, émanent du peuple ; ils ne peuvent être délégués héréditairement, Constitution de 1848, art. 18.</dictScrap>
@@ -33767,7 +33763,7 @@
 </p>
 </note>
 <etym>Provenç. heregia, eretgia ; esp. heregia ; ital. eresia ; mot formé sur le modèle des noms en ie, ia, et dérivé du lat. haeresis, qui vient du terme grec traduit par choix, opinion, dérivé du verbe grec signifiant prendre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form>HÉRÉSIE. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe"><form>Couteau n'apaise hérésie</form> (XVIe siècle), Journ. Offic. 17 juin 1876, p. 4263, 3e col. </re>
@@ -34326,7 +34322,7 @@
 <quote>Mlle de Rambouillet et Mlle Paulet s'en hérissèrent toutes et en rugirent horriblement, et proposèrent à l'heure même d'aller piller notre logis</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Oeuvres, t. II, p. 225</biblScope>
+<biblScope>Œuvres, t. II, p. 225</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -34621,7 +34617,7 @@
 </p>
 </note>
 <etym>Wallon, ireson, ureson, iureson ; nam. ièreson, nièreson ; Hainaut, hirchon, hurchon ; picard, hérichon, irechon ; génev. l'hiresson ; provenç. erisso, hirisso ; espagn. erizo ; portug. ouriço ; du latin hericius ou ericius, hérisson, qui est de même racine que le terme grec traduit par hérisson. L'espagnol erizo et autres viennent de hericius ; le français hérisson vient d'une forme augmentée, hericionem.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉRISSON. - HIST. </form>
 <re>XIVe s. Ajoutez : <cit><quote>À un homme qui a amené au roy un petit herson de Foix jusques à Montauban</quote><bibl><biblScope>Notes extraites des comptes de Jeanne d'Albret et de ses enfants, 15561608, dans Revue d'Aquitaine, mai 1867, p. 546</biblScope></bibl></cit> </re>
 </re>
@@ -34815,7 +34811,7 @@
 <quote>Elle s'était encore emparée de l'héritage du Seigneur, et avait enlevé de son temple ce qu'il y avait de plus précieux pour enrichir les temples de ses idoles</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 294, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 294, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -35152,7 +35148,7 @@
 </p>
 </note>
 <etym>Provenç. heretar ; espagn. heredar ; portug. herdar ; ital. eredare ; du lat. hereditare, de heres (voy. <ref target="hoir">HOIR</ref>). Dans l'historique, hériter a souvent le sens de rendre héritier.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HÉRITER. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Hérite, à l'impératif, s'est dit populairement pour : attrape. C'est pour lui rabattre son caquet ; je lui gardais ça pour ses étrennes ; hérite, ton père est mort, les Ecosseuses, p. 19, 1739, dans CH. NISARD, Parisianismes, p. 142. Gilles, battant Léandre : Sa marchandise ? Oui, pan, la voilà payée ; hérite, mon garçon, Parade, 1773.</dictScrap>
@@ -35276,7 +35272,7 @@
 <quote>Ces deux syllabes précieuses Qui font ensemble votre nom [Condé], Seront [après votre mort] de tout votre renom Les héritières glorieuses</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Oeuvres, t. II, p. 201</biblScope>
+<biblScope>Œuvres, t. II, p. 201</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -35481,7 +35477,7 @@
 <quote>Pourquoi un autre animal est-il hermaphrodite, sans pouvoir néanmoins se féconder lui-même ?</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Consid. corps org. Oeuv. t. VI, p. 116, dans POUGENS.</biblScope>
+<biblScope>Consid. corps org. Œuv. t. VI, p. 116, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -35787,7 +35783,7 @@
 </p>
 </note>
 <etym>Provenç. ermini ; espagn. armiño ; ital. armellino, ermellino ; du latin armenius, arménien, parce que cette sorte de fourrure venait d'Arménie. On disait aussi ermin, adj. et subst.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HERMINE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Sorte de papillon, bombyx herminea, dit aussi queue fourchue.</dictScrap>
@@ -35876,7 +35872,7 @@
 <sense>
 <dictScrap>Terme de blason. Fond blanc tacheté de noir, avec mélange de rouge dans chaque tache noire.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HERMINITE. Ajoutez : - ÉTYM. Hermine, à cause de la couleur et des taches. </re>
 </re>
 </entry>
@@ -36125,7 +36121,7 @@
 <dictScrap>Nom donné à des sectaires chrétiens qui se distinguent par une grande pureté de mœurs. On les appelle aussi frères moraves. Un honnête hernute. Une jeune hernute.</dictScrap>
 </sense>
 <etym>Allem. Herrenhuter, de Herrenhut, localité de la haute Lusace, où les frères moraves commencèrent à former une colonie autour du village de Bethelsdorf appartenant au comte de Zinzendorf.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HERNUTE. Ajoutez : - REM. La prononciation régulière est non pas hernute, mais hernoute ; et il serait mieux d'écrire hernoute ; c'est l'orthographe de Zinzendorf, fondateur de la communauté morave, dans ses écrits en langue française, d'après M. Félix Bovet, le biographe de Zinzendorf (Histoire de Zinzendorf, Paris, 1860). </re>
 </re>
 </entry>
@@ -36541,7 +36537,7 @@
 </p>
 </note>
 <etym>Lat. heroicus, terme dérivé du mot grec traduit par héros.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉROÏQUE. Ajoutez : - REM. Corneille a quelquefois aspiré l'h : Quand je me suis résolu de repasser du héroïque au naïf, Epître du Menteur ; J'ajoute à celle-ci [comédie de Don Sanche] l'épithète de héroïque. Les deux épîtres d'où ces exemples sont tirés ne se trouvent que dans les éditions antérieures à 1660 (Lexique de Corneille, éd. Marty-Laveaux). Aujourd'hui cette h ne s'aspire jamais. </re>
 </re>
 </entry>
@@ -36849,7 +36845,7 @@
 <quote>Le peuple lui décerna [à Gélon] les honneurs qu'on rendait alors aux demi-dieux, appelés autrement les héros</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. III, p. 455, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. III, p. 455, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -36936,7 +36932,7 @@
 <quote>Il est assez ordinaire à ces héros qui brillent dans les combats et dans les actions guerrières, de paraître très faibles et très médiocres dans d'autres temps, et par rapport à d'autres objets</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. II, p. 297, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. II, p. 297, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -37549,7 +37545,7 @@
 </p>
 </note>
 <etym>Wallon, îpe, îpre ; namur. hîpe ; Hainaut, hierse ; Dauphiné, herpi ; bas-lat. hercia ; ital. erpice ; du lat. hirpex, hirpicis, qui était une herse particulière pour les mauvaises herbes.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HERSE. Ajoutez : </form>
 <sense n="11">
 <dictScrap>Terme de zoologie. Chez les squales, sorte de franges garnissant les arcs branchiaux.</dictScrap>
@@ -37666,7 +37662,7 @@
 </p>
 </note>
 <etym>Herser.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HERSEUR. - HIST. Ajoutez : </re>
 <re>XIIe s. <cit><quote>Et pensa que veoir iroit Erceours ke sa mere avoit Qui ses tieres li ahanoient [labouraient]</quote><bibl><biblScope>Perceval le Gallois, V. 1295</biblScope></bibl></cit> </re>
 </re>
@@ -37793,7 +37789,7 @@
 <quote>Ce pamphlétaire [P. L. Courier], qui ne se gênait d'aucune vérité périlleuse à dire, hésitait sur un mot, sur une virgule, se montrait timide à toute façon de parler qui n'était pas de la langue de ses auteurs</quote>
 <bibl>
 <author>CARREL</author>
-<biblScope>Oeuvres, t. V, p. 211</biblScope>
+<biblScope>Œuvres, t. V, p. 211</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -38371,7 +38367,7 @@
 </cit>
 </sense>
 <etym>Hétérodoxe.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉTÉRODOXIE.  Ajoutez : <cit><quote>Quel que soit le temps où dans la foi on dise autre chose que ce qu'on disait le jour auparavant, c'est toujours l'hétérodoxie, c'est-à-dire une autre doctrine qu'on oppose à l'orthodoxie</quote><bibl><author>BOSSUET</author><biblScope>Prem. instr. pastor. 28</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -38654,7 +38650,7 @@
 <dictScrap>Terme de philosophie. Nom donné par Kant aux lois que nous recevons de la nature, à la violence qu'exercent sur nous nos passions et nos besoins ; par opposition à autonomie.</dictScrap>
 </sense>
 <etym>Hétéro...., et loi (en grec).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HÉTÉRONOMIE. Ajoutez : </re>
 <re>Il se dit encore, par opposition à autonomie, de la puissance qu'exerce sur l'esprit une autorité autre que sa nature elle-même. Le principe de l'hétéronomie doit-il être l'Église, comme le veulent les protestants ? </re>
 </re>
@@ -40860,7 +40856,7 @@
 </cit>
 </sense>
 <etym>Diminutif de heure.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HEURETTE. Ajoutez : </re>
 <re>Il y a belle heurette, locution familière qui signifie il y a longtemps.  <cit><quote>Ce ne peut être une grive, les sons sont trop énergiques ; quant au rossignol, il y a belle heurette qu'il ne chante plus</quote><bibl><author>A. THEURIET</author><biblScope>Rev. des Deux-Mondes, 1er nov. 1875, p. 96</biblScope></bibl></cit> </re>
 </re>
@@ -41546,7 +41542,7 @@
 <quote>La Nouvelle-Hollande est une terre peut-être plus étendue que toute notre Europe, et située sous un ciel encore plus heureux</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Suppl. à l'hist. nat. Oeuv. t. XI, p. 372</biblScope>
+<biblScope>Suppl. à l'hist. nat. Œuv. t. XI, p. 372</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -41775,7 +41771,7 @@
 </p>
 </note>
 <etym>Heur ; bourguign. heurou ; picard, hureux ; Berry, hureux ; wallon, ureu. Selon Bèze, au XVIe siècle : " Tout ce qui prononce bien en France prononce hureux. " Et, au XVIIe siècle, Chifflet, Gramm. p. 203, dit qu'on prononce également heureux ou hureux. L'ancienne langue disait plutôt beneüré.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HEUREUX. - REM. Ajoutez : </form>
 <re>2. Voir à quelles moissons quelle terre est heureuse, ANDRÉ CHÉNIER, cité dans Journ. des Savants, mars 1875, p. 158. A. Chénier ajoute : " Tournure latine claire et précise. Je ne crois pas qu'on l'ait encore transportée en français. C'est de tout ce morceau le vers que j'aime le mieux. " La tournure est en effet très bonne ; mais heureux à avait été dit avant lui ; voyez-en à HEUREUX, n° 2, un exemple de La Fontaine, auquel on ajoutera celui-ci de Molière : La place m'est heureuse à vous y rencontrer, École des femmes, IV, 6. Mais, dans ces deux textes, heureux à a pour régime un nom de personne, au lieu que, dans A. Chénier, le régime est un nom de chose, ce qui modifie le sens et l'emploi, et autorise A. Chénier à se féliciter de son innovation. </re>
 </re>
@@ -41932,7 +41928,7 @@
 <dictScrap>Amas pyramidal de matières qui, dans une fosse d'aisances pleine, se trouve sous les poteries.</dictScrap>
 </sense>
 <etym>Heurt, dans le sens d'éminence.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HEURTE (heur-t', h aspirée), s. f.  <cit><quote>L'amas pyramidal des matières, souvent très considérable, qui se forme au droit des chutes, dans les fosses d'aisance</quote><bibl><author>LIGER</author><biblScope>Fosses d'aisance, p. 2, Paris, 1875</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -41971,7 +41967,7 @@
 <quote>Sa touche est lourde, sa manière est pénible et heurtée</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 380, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 380, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -41987,7 +41983,7 @@
 <quote>Composition libre, facile, vigoureuse et dans la manière heurtée</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XV, 52</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XV, 52</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -42190,7 +42186,7 @@
 <quote>Il eut soin de manier l'esprit du jeune tyran avec une adresse merveilleuse, évitant de heurter de front ses passions</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. V, p. 249, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. V, p. 249, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -42509,7 +42505,7 @@
 </p>
 </note>
 <etym>Bourguig. urtai ; Berry, hurter ; provenç. urtar ; ital. urtare ; néerlandais, hurten ; angl. to hurt. D'après Diez, les mots germaniques, faisant défaut dans les vieux dialectes, viennent des mots romans, et non ceux-ci de ceux-là. Dès lors l'étymologie reste ignorée ; Scheler indique le kimry hwrdh, bouc et choc, d'où hyrdhu, frapper, heurter.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HEURTER. Ajoutez : </form>
 <sense n="10">
 <dictScrap>En Normandie, heurter se dit des bœufs qui frappent avec les cornes.</dictScrap>
@@ -43509,7 +43505,7 @@
 </p>
 </note>
 <etym>Le primitif est l'ancien hide, qui signifiait frayeur : Moult est li clers en grant freour, Moult a grant hide et grant peour, DU CANGE, hida. Diez conjecture que ce mot vient de l'ancien haut allemand egidî, horreur ; de la sorte l'h serait adventice, ainsi que l's quand elle se rencontre ; car l'orthographe hisde et hisdeur se trouve. D'autres ont pensé que hideux venait du latin hispidosus, hérissé, d'où se serait dégagé un substantif hisde ou hide ; cela est possible et conforme aux analogies ; ce qui appuie cette opinion, c'est l's qu'on trouve dans un texte du XIIe siècle : hisdur.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HIDEUR.  Ajoutez : <cit><quote>Un lion.... qui.... n'a pour ornement que cette hideur effroyable avec laquelle la nature l'a fait naître dans les déserts</quote><bibl><author>MALH.</author><biblScope>Lexique, éd. L. Lalanne.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -44343,7 +44339,7 @@
 </sense>
 <note type="remarque">Chateaubriand a aspiré l'h, mais à tort. <cit><quote>Une statue de bronze.... dont la base soit chargée de hiéroglyphes</quote><bibl><author>CHATEAUBRIAND</author><biblScope>Gén. I, II, 2</biblScope></bibl></cit> </note>
 <etym>Terme dérivé du mot grec signifiant sacré, et verbe grec traduit par graver.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HIÉROGLYPHE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Il s'est dit pour symbole.</dictScrap>
@@ -44395,7 +44391,7 @@
 <quote>C'est la connaissance ou plutôt le sentiment vif de nos expressions hiéroglyphiques de la poésie, perdues pour les lecteurs ordinaires, qui décourage les imitateurs du génie</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Lett. sur les sourds et muets, Oeuv. t. II, p. 325, dans POUGENS.</biblScope>
+<biblScope>Lett. sur les sourds et muets, Œuv. t. II, p. 325, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -44563,7 +44559,7 @@
 <quote>Celui qui présidait à la cérémonie s'appelait hiérophante, et il était revêtu d'un habit singulier ; il ne lui était point permis de se marier</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. V, p. 18, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. V, p. 18, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -45523,7 +45519,7 @@
 <sense>
 <dictScrap>Qui a rapport à l'hippologie.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HIPPOLOGIQUE. Ajoutez : Nous trouvons un dernier et récent témoignage de l'utilité des études hippologiques dans la circulaire adressée en mars 1864 par le directeur des haras à MM. les préfets, Monit. univ. 25 mai 1867, p. 624, 4e col. </re>
 </re>
 </entry>
@@ -45536,7 +45532,7 @@
 <sense>
 <dictScrap>Celui qui s'occupe d'hippologie.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HIPPOLOGUE. Ajoutez : Le nom de M. Richard, du Cantal, bien connu comme hippologue, Monit. univ. 25 mai 1867, p. 624, 3e col. </re>
 </re>
 </entry>
@@ -46169,7 +46165,7 @@
 </p>
 </note>
 <etym>Berry, aronde, arondelle, harondelle ; bourg. airondelle ; picard, haroudelle ; wallon, aronde, aronge ; Hainaut, arondiele ; provenç. hyrunda, irunda, yrundre, irondella, ysrundella, randola ; espagn. golondrina ; portug. andorinha ; ital. rondine. Hirondelle et les formes congénères sont des diminutifs d'aronde, ironde et formes congénères, lesquelles viennent du latin hirundinem. Curtius admet que hirundo est le même que le grec : hir-undo ; pour cela il suppose un ancien italo-grec. Complétant l'étymologie des deux mots, Corssen les rattache au radical sanscrit har, ghar, prendre d'où découle le grec, la main considérée comme preneuse, et le latin archaïque hir, la main ; dans cette hypothèse, l'hirondelle serait la preneuse (de mouches).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HIRONDELLE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Chez les tailleurs, le jeune ouvrier allemand qui vient faire à Paris la bonne saison et s'en retourne dans son pays.</dictScrap>
@@ -46371,7 +46367,7 @@
 </p>
 </note>
 <etym>Espagn. et portug. izar ; ital. issare ; du germanique : anc. scandin. hîsa ; suédois, hissa ; allem. hissen ; danois, heise ; ancien anglais, hoyse.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HISSER (hi-sé), v. a. Appeler en sifflant.  </form>
 <cit>
 <quote>Pardon, voisine, pardon ; certainement ce n'est pas vous que je me serais permis de hisser comme cela.... c'est à mes deux amis que je m'adressais</quote>
@@ -46436,7 +46432,7 @@
 <quote>En ce quatrième livre traitant de l'histiodromie</quote>
 <bibl>
 <author>STEVIN</author>
-<biblScope>Oeuvres mathématiques, t. II, p. 142</biblScope>
+<biblScope>Œuvres mathématiques, t. II, p. 142</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -46744,7 +46740,7 @@
 <quote>La partie la plus essentielle de l'histoire, et qui doit le plus intéresser les lecteurs, est celle qui fait connaître le caractère et les mœurs tant des peuples en général, que des grands hommes en particulier dont il y est parlé, et l'on peut dire que c'est là en quelque sorte l'âme de l'histoire, au lieu que les faits n'en sont que le corps</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 457, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 457, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -46779,7 +46775,7 @@
 <quote>Dans l'histoire, comme dans l'optique, l'éloignement rapproche les objets entre eux</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvres, t. I, p. 321, dans POUGENS</biblScope>
+<biblScope>Œuvres, t. I, p. 321, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -47231,7 +47227,7 @@
 </p>
 </note>
 <etym>Lat. historia, le sens propre du terme grec est information, recherche intelligente de la vérité. Le grec veut dire le savant, le témoin, et se rattache à un thème inusité du grec, signifiant savoir, voir, le même que le latin videre, et le sanscrit vid.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HISTOIRE. Ajoutez : </form>
 <sense n="12">
 <dictScrap>Populairement, histoire de, se dit dans le sens de : afin de, pour. Jouons aux dominos, histoire de passer le temps. Je lui ai fait une farce, histoire de rire.</dictScrap>
@@ -47358,7 +47354,7 @@
 <sense n="2">
 <dictScrap>Terme de peinture. Un tableau bien historié, un tableau où est bien observé tout ce qui regarde l'histoire.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HISTORIÉ, ÉE. </form>
 <sense n="2">
 <dictScrap>Ajoutez : Elle agrée pour ouvrage de réception le portrait historié de feu M. Desjardins, Lettres de l'Acad. du 2 janv. 1700, dans Mém. inéd. sur l'Acad de peint. publiés par Dussieux, t. II, p. 133.</dictScrap>
@@ -47486,7 +47482,7 @@
 </p>
 </note>
 <etym>Histoire.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HISTORIEN. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Peintre d'histoire.</dictScrap>
@@ -47884,7 +47880,7 @@
 <quote>Les anciens ont bien traité l'historique de la vie et des mœurs des animaux, de la culture et des usages des plantes, des propriétés et de l'emploi des minéraux</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. 1er disc. Oeuv. t. I, p. 70</biblScope>
+<biblScope>Hist. nat. 1er disc. Œuv. t. I, p. 70</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -47934,7 +47930,7 @@
 </sense>
 </sense>
 <etym>Historique, et le suffixe ment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HISTORIQUEMENT. Ajoutez : </form>
 <sense n="3">
 <dictScrap>à la manière du peintre d'histoire.</dictScrap>
@@ -48057,7 +48053,7 @@
 </sense>
 </sense>
 <etym>Lat. histrio, mot étrusque qui signifiait joueur de flûte.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HISTRION. - ÉTYM. Ajoutez : Selon Festus, ce nom vient de Histria, ancienne ville de l'Étrurie et patrie de cette sorte de comédiens. </re>
 </re>
 </entry>
@@ -48247,7 +48243,7 @@
 <quote>L'hiver de 1709 avait détruit le germe des moissons ; la misère fut extrême dans les campagnes, dans les villes et jusque dans Paris</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Règne de Louis XIV, Oeuv. t. V, p. 27, dans POUGENS.</biblScope>
+<biblScope>Règne de Louis XIV, Œuv. t. V, p. 27, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -48308,7 +48304,7 @@
 <quote>Tous les grands hivers augmentent la mortalité</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Prob. de la vie, Oeuv. t. X, p. 508</biblScope>
+<biblScope>Prob. de la vie, Œuv. t. X, p. 508</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -48604,7 +48600,7 @@
 </sense>
 </sense>
 <etym>Hiver.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HIVERNATION. Ajoutez : </re>
 <re>Durée d'une saison d'hiver. <cit><quote>Une hivernation artificielle</quote><bibl><biblScope>Journal de Lyon, 16 nov. 1874, 3e page, 4e col.</biblScope></bibl></cit> </re>
 </re>
@@ -48725,7 +48721,7 @@
 </p>
 </note>
 <etym>Provenç. ivernar ; espagn. invernar ; ital. invernare ; du lat. hibernare (voy. <ref target="hiver">HIVER</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HIVERNER. Ajoutez : </form>
 <sense n="5">
 <dictScrap>V. a. Hiverner des vers à soie, leur faire passer les froids de l'hiver à l'aide de précautions convenables.</dictScrap>
@@ -48738,9 +48734,7 @@
 </sense>
 <note type="historique">
 <p>
-<label>Ajoutez :</label>
-</p>
-<p>
+<dictScrap>Ajoutez :</dictScrap>
 <label>XIVe s.</label>
 <cit>
 <quote>Tout ainsi que quant il yverne [il fait un temps d'hiver] En mai que li arbre flourissent</quote>
@@ -48929,7 +48923,7 @@
 <quote>On te tient inventeur du hoc, Ou beau jeu de trente et quarante</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Mazarin, Oeuv. t. I, p. 284</biblScope>
+<biblScope>Mazarin, Œuv. t. I, p. 284</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -49138,7 +49132,7 @@
 </p>
 </note>
 <etym>Hocher 1, et pot ; wallon, hose-pot, bouillie ; angl. hodge-podge, hotch-potch, de l'anc. flam. huts-pot ; dialecte d'Aix-la-Chapelle, hoetschpott ; holland. hutspot, du flamand hutsen, secouer, et pot.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOCHEPOT. - HIST. Ajoutez : </re>
 <re>XIIIe s. <cit><quote>Johannes Ouchepot, miles</quote><bibl><author>MEUNIER</author><biblScope>les Composés qui contiennent un verbe à un mode personnel (1264), p. 39</biblScope></bibl></cit> </re>
 </re>
@@ -49199,7 +49193,7 @@
 <quote>Que cet artiste hoche du nez quand je me mêlerai du technique de son métier, à la bonne heure</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 13, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 13, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -49308,7 +49302,7 @@
 <dictScrap>Terme de couture. Faire de petites entailles au bord d'une étoffe, d'une lisière, soit pour qu'elles godent un peu, soit pour empêcher que le bord ne soit resserré. Hocher une lisière.</dictScrap>
 </sense>
 <etym>Hoche.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HOCHER. </form>
 <sense n="1">
 <dictScrap>Fig. Hocher le mors, la bride. Ajoutez en exemple :</dictScrap>
@@ -49392,7 +49386,7 @@
 <biblScope>Harold, I</biblScope>
 </bibl>
 </cit>
-<re type="proverbe"><form>Il y a des hochets pour tout âge</form>, c'est-à-dire chaque âge a ce qui l'amuse (adage qui n'est dans le Dictionnaire de l'Académie qu'à partir de l'édition de 1835, et qui, comme on voit par ce qui suit, provient probablement de Fontenelle).  <cit xmlns="http://www.tei-c.org/ns/1.0"><quote>À la fin de ce poëme [de l'Anglais Prior], on voit ce vers charmant de Fontenelle : Il est des hochets pour tout âge ; Prior prie la fortune de lui donner des hochets pour sa vieillesse ; et il est bien certain que Fontenelle n'a pas pris ce vers de Prior, ni Prior de Fontenelle ; l'ouvrage de Prior est antérieur de vingt ans, et Fontenelle n'entendait pas l'anglais</quote><bibl><author>VOLT.</author><biblScope>Dict. phil. Bouffon.</biblScope></bibl></cit> 
+<re type="proverbe"><form>Il y a des hochets pour tout âge</form>, c'est-à-dire chaque âge a ce qui l'amuse (adage qui n'est dans le Dictionnaire de l'Académie qu'à partir de l'édition de 1835, et qui, comme on voit par ce qui suit, provient probablement de Fontenelle).  <cit><quote>À la fin de ce poëme [de l'Anglais Prior], on voit ce vers charmant de Fontenelle : Il est des hochets pour tout âge ; Prior prie la fortune de lui donner des hochets pour sa vieillesse ; et il est bien certain que Fontenelle n'a pas pris ce vers de Prior, ni Prior de Fontenelle ; l'ouvrage de Prior est antérieur de vingt ans, et Fontenelle n'entendait pas l'anglais</quote><bibl><author>VOLT.</author><biblScope>Dict. phil. Bouffon.</biblScope></bibl></cit> 
 </re>
 </sense>
 <note type="historique">
@@ -49439,7 +49433,7 @@
 <dictScrap>Les formes dans lesquelles on moule la houille.</dictScrap>
 </sense>
 <etym>Hocher 2.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HOCHET. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Charbon préparé avec le moule nommé hochet.</dictScrap>
@@ -49586,7 +49580,7 @@
 <quote>Grongnars, fongnars, hongnars je prive ; Les biens leur sont mal employez</quote>
 <bibl>
 <author>ROGER DE COLLERYE</author>
-<biblScope>Oeuvres, p. 127, dans LACURNE</biblScope>
+<biblScope>Œuvres, p. 127, dans LACURNE</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -49994,7 +49988,7 @@
 <dictScrap>Le Hollandais ou le Voltigeur hollandais, vaisseau fantastique qui hante les parages du cap de Bonne-Espérance.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HOLLANDAIS. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Terme de chimie. Liqueur des Hollandais, substance huileuse qui résulte de la combinaison lente, à la lumière diffuse, du chlore et de l'hydrogène bicarboné.</dictScrap>
@@ -50401,7 +50395,7 @@
 <dictScrap>Terme de géographie. Projection homalographique, projection à parallèles rectilignes.</dictScrap>
 </sense>
 <etym>Homalo...., et verbe grec signifiant tracer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOMALOGRAPHIQUE. Ajoutez : - REM. Dans la projection homalographique, le rapport des surfaces des différentes contrées représentées sur la carte doit être le même que le rapport réel de ces surfaces. </re>
 </re>
 </entry>
@@ -50635,7 +50629,7 @@
 </cit>
 </sense>
 <etym>Voy. <ref target="homéomère">HOMÉOMÈRE</ref>.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOMÉOMÉRIE.  Ajoutez : <cit><quote>L'homéomérie envisage tous les corps comme formés de petits éléments semblables à l'ensemble</quote><bibl><author>BERTHELOT</author><biblScope>la Synthèse chimique, p. 33</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -50659,7 +50653,7 @@
 <sense>
 <dictScrap>État de ce qui est homéomorphe.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HOMÉOMORPHISME. Ajoutez : </re>
 <re>Synonyme de plésiomorphisme. </re>
 </re>
@@ -51147,7 +51141,7 @@
 </p>
 </note>
 <etym>Provenç. homicidi ; espagn. homicidio ; ital. omicidio ; du lat. homicidium (voy. <ref target="homicide.1">HOMICIDE 1</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. HOMICIDE. - HIST. Ajoutez : </form>
 <re>XVIe s.  <cit><quote>Celuy qui se tue soy mesme commet double homicide, et de son corps et de son ame</quote><bibl><author>BACQUET</author><biblScope>Traité des droits de justice, p. 13</biblScope></bibl></cit> </re>
 </re>
@@ -51204,7 +51198,7 @@
 </p>
 </note>
 <etym>Homicide 1.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOMICIDER. Ajoutez : - REM. Homicider est dit un terme vieilli ; cependant le voici employé devant des tribunaux. <cit><quote>Tel est l'individu qui a froidement tué une femme vertueuse, et qui a tenté d'homicider M. F.... son beau-frère et son bienfaiteur</quote><bibl><biblScope>Gaz. des Trib. 12 sept. 1873, p. 878, 3e col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -51841,7 +51835,7 @@
 <quote>On ne peut douter qu'on n'ait rencontré, dans l'Amérique méridionale, des hommes en grand nombre, tous plus grands, plus carrés, plus épais et plus forts que ne le sont tous les autres hommes de la terre</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>6e époq. nat. Oeuvres, t. XII, p. 305</biblScope>
+<biblScope>6e époq. nat. Œuvres, t. XII, p. 305</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -52033,7 +52027,7 @@
 <quote>Il y a une grande différence entre la connaissance de l'homme et la connaissance des hommes ; pour connaître l'homme il suffit de s'étudier soi-même</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Considér. mœurs, Introd. Oeuvres, t. I, p. 64, dans POUGENS.</biblScope>
+<biblScope>Considér. mœurs, Introd. Œuvres, t. I, p. 64, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -52605,7 +52599,7 @@
 <quote>Le grand homme est celui qui, pour des objets grands et utiles, proportionne les moyens aux entreprises, les couronne par le succès, et peut s'applaudir des événements puisqu'il a su les prévoir, les préparer et les amener</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Mém. Rég. Oeuvres, t. V, p. 312, dans POUGENS</biblScope>
+<biblScope>Mém. Rég. Œuvres, t. V, p. 312, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -53580,7 +53574,7 @@
 </p>
 </note>
 <etym>Berry, houme ; provenç. hom, home, om ; catal. home ; espagn. hombre ; portug. homem ; ital. uomo ; du lat. hominem. Dans l'ancien français, au nominatif hom ou, moins correctement, homs, au régime home ; au pluriel nominatif, li home, régime les homes. C'est du nominatif singulier hom que dérive notre nom indéfini l'on, on. Palsgrave, p. 7, au XVIe siècle, dit qu'on prononce honme, c'est-à-dire hon-m'. Sur l'origine de homo il n'y a que des conjectures : Bopp indique le sanscrit bhuman ( u avec un accent long), créature, de bhu ( u, accent long), être, mais on aurait eu en latin fumon ; d'autres indiquent humus, la terre, homo signifiant, dans cette hypothèse, le terrestre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HOMME. Ajoutez : </form>
 <sense n="27">
 <dictScrap>Homme de pierre, homme de neige, masse de pierre, masse de neige qu'érigent ceux qui, dans les montagnes, atteignent un point inexploré.</dictScrap>
@@ -54038,7 +54032,7 @@
 <dictScrap>Terme d'anatomie. Rapport d'organes qui, d'une espèce à l'autre, doivent être considérés comme identiques, quelle qu'en soit la forme, en raison des connexions et de la structure, à la différence de l'homotypie, qui est le rapport des organes analogues dans le même individu. Déterminer les homologies des organes dans un genre d'animaux.</dictScrap>
 </sense>
 <etym>Voy. <ref target="homologue">HOMOLOGUE</ref>.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. HOMOLOGIE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Terme de géométrie. Mode de déformation des lignes et des surfaces ; c'est un cas particulier de l'homographie.</dictScrap>
@@ -55548,7 +55542,7 @@
 <quote>Ce serait acheter trop cher le plaisir de rire soi-même ou de faire rire les autres, que de l'acheter aux dépens de l'honnêteté</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 139, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 139, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -56088,7 +56082,7 @@
 <quote>Qu'est-ce que l'honneur ? c'est la force de l'âme animée ou réveillée par le devoir, et qui, quelquefois même, nous porte au delà de ce qu'il prescrit</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 336, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 336, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -56593,7 +56587,7 @@
 <quote>Les traîtres le saisirent, le lièrent avec des chaînes d'or pour faire honneur à sa qualité de roi, et prirent le chemin de la Bactriane, le conduisant dans un chariot couvert</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 369, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 369, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -57689,7 +57683,7 @@
 </p>
 </note>
 <etym>Provenç. honor, onor ; espagn. honor ; ital. onore ; du lat. honorem. Au XVIe siècle, d'après Palsgrave, p. 62, les deux n se prononçaient. Dans l'ancienne langue, honor est du féminin, comme tous les noms tirés des substantifs latins abstraits en or. Vers le XIVe et le XVe siècle, le genre devient incertain, et finalement il se fixe au masculin.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HONNEUR. Ajoutez : </form>
 <sense n="21">
 <dictScrap>Autrefois, billet d'honneur, billet qu'un gentilhomme ou un officier s'engageait sur l'honneur à payer dans un délai ; le règlement des maréchaux du 20 février 1748 punissait d'un mois de prison ceux qui négligeaient d'acquitter un pareil engagement, lorsqu'il avait été souscrit au profit d'un marchand (DALLOZ).</dictScrap>
@@ -57773,7 +57767,7 @@
 <quote>On ne l'écoutait pas, on sifflait, on honnissait, on bafouait</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Salon de 1767, Oeuv. t. XV, p. 157, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XV, p. 157, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -58237,7 +58231,7 @@
 </p>
 </note>
 <etym>Provenç. honorable, honrable, ondrable ; espagn. honorable ; ital. onorevole ; du latin honorabilis, de honorare, honorer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HONORABLE. Ajoutez : - REM. Il est dit au n° 3 qu'être honorable, c'est vivre noblement, grandement. Mais il n'est pas nécessaire de vivre noblement, grandement pour être honorable ; il suffit d'avoir un genre de vie qui fasse honneur à la condition, quelle qu'elle soit.  <cit><quote>L'abbé [le frère de Diderot] aime la compagnie telle quelle et la table ; ma sœur se plaît avec peu de monde et veut être honorable à propos et sans profusion</quote><bibl><author>DIDER.</author><biblScope>Lett. à Mlle Volland, éd. Assézat, t. XVIII, p. 373</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -58467,7 +58461,7 @@
 <dictScrap>Terme de pratique. Ce qui est dû pour les honoraires d'un notaire, d'un avoué, d'un huissier, etc.</dictScrap>
 </sense>
 <etym>Pour le premier sens, honoraire 1 ; pour le deuxième sens, honoraire 2.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HONORARIAT. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -59626,7 +59620,7 @@
 <quote>Par je ne sais quelle bonté, ou, si l'on veut, mauvaise honte, je n'ai pas la force de rien refuser de ce que l'on me demande avec opiniâtreté</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Oeuvres, t. I, p. 177</biblScope>
+<biblScope>Œuvres, t. I, p. 177</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -59944,7 +59938,7 @@
 </p>
 </note>
 <etym>Bourg. onte ; provenç. ancta, amta, anta ; ital. onta ; de l'anc. h. allem. hônida ; vieux saxon, honda, déshonneur, de même radical que honnir. Honte a été des deux genres. Un dérivé hontage a été très usité.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HONTE. - HIST. </form>
 <re>XVIe s. Ajoutez : <cit><quote>Mais voyant le peuple mutiné et armé pour repousser la force par la force, se retira avec sa courte honte</quote><bibl><author>P. DE, L'ESTOILE</author><biblScope>Journ. de Henri III, t. I, p. 202 (cité par M. Eman Martin, Courrier de Vaugelas, 1er déc. 1874, p. 130, qui comble ainsi la lacune que j'avais signalée en disant que courte honte n'avait point d'historique)</biblScope></bibl></cit> </re>
 </re>
@@ -59975,7 +59969,7 @@
 <quote>Enfin, quand il [Tigrane] fut assez près de Pompée, prenant son diadème, il voulut le mettre à ses pieds, et, se prosternant honteusement à terre, lui embrasser les genoux</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. X, p. 260, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. X, p. 260, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -60085,7 +60079,7 @@
 <quote>Nul moyen de vaincre ne paraissait honteux à Philippe : jamais Alexandre ne songea à employer la trahison</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 608, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 608, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -60595,7 +60589,7 @@
 <quote>Les froides horreurs de l'enfer, Cette nuit, ces vieux lits de fer, Où se vont coucher les Furies, Ce gros chien qui jappe au portal, Ces grandes plaines de voiries, Sont leur éternel hôpital</quote>
 <bibl>
 <author>THÉOPHILE</author>
-<biblScope>Oeuvres, p. 31, Paris, 1656</biblScope>
+<biblScope>Œuvres, p. 31, Paris, 1656</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -61068,7 +61062,7 @@
 </sense>
 </sense>
 <etym>Lat. horarius, de hora, heure.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HORAIRE. Ajoutez : </re>
 <re>Angle horaire, angle que fait le cercle horaire d'un astre avec le méridien du lieu. </re>
 <re>S. m. L'horaire, le règlement des heures pour un service quelconque. <cit><quote>Une dépêche de Savone nous apprend que le voyage s'est effectué selon l'horaire établi, et avec la plus grande régularité</quote><bibl><biblScope>Monit. univ. 26 avr. 1868, p. 556, 1re col.</biblScope></bibl></cit> </re>
@@ -61261,10 +61255,10 @@
 </p>
 </note>
 <etym>Picard, horniote, petit coup ; normand, horgne, coup de poing ; Mortagne et Bayeux, horion, gros rhume. Origine inconnue.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HORION. Ajoutez : - HIST. XIIIe s. <cit><quote>Mais je croy c'onques mais ne fu d'omme sentis Nus plus biaus horions...</quote><bibl><biblScope>Brun de la Montaigne, V. 2210, éd. P. Meyer, 1875</biblScope></bibl></cit> </re>
-</re>
 <etym>Ajoutez : Lyonnais, horillon.</etym>
+</re>
 </entry>
 <entry xml:id="horistique">
 <form>
@@ -61455,7 +61449,7 @@
 </cit>
 </sense>
 <etym>Terme grec signifiant qui borne, et, substantivement, horizon.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HORIZON. Ajoutez : - HIST. XVIe s.  <cit><quote>Mais en ce lieu.... N'y a rondeur ny forme d'orizon</quote><bibl><author>J. PELLETIER DU MANS</author><biblScope>la Savoye (1572), Chambéry, 1856, p. 248</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -61737,7 +61731,7 @@
 </p>
 </note>
 <etym>Berry, reloge, r'loge, s. m. ; bourguig. reloge ; du lat. horologium, qui vient du grec, heure, et, indication, (voy. <ref target="logique">LOGIQUE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HORLOGE. Ajoutez : - REM. Au XVIIe siècle on a dit quelquefois horologe.  <cit><quote>Pour les jeux de hasard, Antoine Raffle on nomme ; Pour faire une horologe, on nomme le Ralleur</quote><bibl><author>M. DE MAROLLES</author><biblScope>le Livre des peintres, etc. Paris, 1865, p. 61</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -61766,7 +61760,7 @@
 <dictScrap>S. f. Horlogère, la femme d'un horloger.</dictScrap>
 </sense>
 </sense>
-<note type="remarque">Ménage recommande de ne pas dire horlogeur, qui était usité de son temps et dans le siècle précédent : <cit><quote>Tant lesdits orfévres que les fourbisseurs, orlogeurs, fondeurs, et autres qui employent les matières d'or et d'argent</quote><bibl><biblScope>Règlement du 30 déc. 1679</biblScope></bibl></cit> <cit><quote>On court à l'horlogeur ; elle [l'horloge] demande en grâce Qu'il la tire de ce malheur</quote><bibl><author>LA FONT.</author><biblScope>Oeuvres inédites publiées par Paul Lacroix (1863), p. 17</biblScope></bibl></cit> On disait aussi horlogier : <cit><quote>N'ayant point d'horlogiers au lieu de sa demeure</quote><bibl><author>CORN.</author><biblScope>Ment. II, 5</biblScope></bibl></cit> </note>
+<note type="remarque">Ménage recommande de ne pas dire horlogeur, qui était usité de son temps et dans le siècle précédent : <cit><quote>Tant lesdits orfévres que les fourbisseurs, orlogeurs, fondeurs, et autres qui employent les matières d'or et d'argent</quote><bibl><biblScope>Règlement du 30 déc. 1679</biblScope></bibl></cit> <cit><quote>On court à l'horlogeur ; elle [l'horloge] demande en grâce Qu'il la tire de ce malheur</quote><bibl><author>LA FONT.</author><biblScope>Œuvres inédites publiées par Paul Lacroix (1863), p. 17</biblScope></bibl></cit> On disait aussi horlogier : <cit><quote>N'ayant point d'horlogiers au lieu de sa demeure</quote><bibl><author>CORN.</author><biblScope>Ment. II, 5</biblScope></bibl></cit> </note>
 <note type="historique">
 <p>
 <label>XIVe s.</label>
@@ -63179,7 +63173,7 @@
 </p>
 </note>
 <etym>Horrible, et le suffixe ment ; provenç. horriblamen ; espagn. horriblemente ; ital. orribilmente.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HORRIBLEMENT. - HIST. Ajoutez : </re>
 <re>XIIe s. <cit><quote>Et une voix oriblement Li dist...</quote><bibl><biblScope>Perceval li Gallois, V. 39869</biblScope></bibl></cit> </re>
 </re>
@@ -63941,7 +63935,7 @@
 </p>
 </note>
 <etym>Autre forme de fors (voy. ce mot), par une transformation, très rare en français, régulière en espagnol, de l'f latin en h ; wallon, foû.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HORS. Ajoutez : </form>
 <sense n="8">
 <dictScrap>Hors rang, se dit des hommes qui ne font pas partie du rang, dans une troupe militaire.</dictScrap>
@@ -64083,7 +64077,7 @@
 <dictScrap>Nom qu'on donnait autrefois aux maraîchers. Nom des jardins maraîchers dans la Picardie.</dictScrap>
 </sense>
 <etym>Lat. hortus, jardin (voy. <ref target="horticulture">HORTICULTURE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HORTILLON. Ajoutez : </re>
 <re>
 <cit>
@@ -64426,7 +64420,7 @@
 <sense>
 <dictScrap>Terme d'administration. Admission et séjour à l'hôpital.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HOSPITALISATION. Ajoutez : <cit><quote>Les dépenses à prévoir dans la colonie pour la nourriture, l'entretien et l'hospitalisation des déportés</quote><bibl><biblScope>Journ. offic. 11 déc. 1872, p. 7697, 2e col.</biblScope></bibl></cit> <cit><quote>Il s'agit de changer la manière dont on a jusqu'à présent pourvu en Algérie à l'hospitalisation, selon l'expression qui se trouve, je crois, dans le projet</quote><bibl><biblScope>ib. 4 août 1875, p. 6343, 3e col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -64514,7 +64508,7 @@
 <dictScrap>Obligation où sont certains religieux de recevoir les voyageurs. Il y a hospitalité dans cette abbaye.</dictScrap>
 </sense>
 <etym>Provenç. hospitalitat, ospitalitat ; espagn. hospitalidad ; ital. ospitalità ; du lat. hospitalitatem, de hospitalis, qui vient de hospes (voy. <ref target="hôte">HÔTE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOSPITALITÉ. Ajoutez : - HIST. XIIe s.  <cit><quote>Mès il [les chevaliers hospitaliers] devroient estre tel Com hospitalitez demande, Et comme charitez commande ; Tout ont lor afere changié, Q'ospitalitez n'i voi gié [je]</quote><bibl><author>GUIOT DE PROVINS</author><biblScope>la Bible, V. 1803</biblScope></bibl></cit> </re>
 <re>XIIIe s.  <cit><quote>As biens que eles [des dames] ont assenez à cel hospital pour l'ospitalité maintenir</quote><bibl><biblScope>Bibl. des ch. 6e série, t. IV, p. 159</biblScope></bibl></cit> <cit><quote>Sovent les disoit : faites ce ke vos ai mostreit ; Et adès vos sovienge de l'hospitaliteit</quote><bibl><author>P. MEYER</author><biblScope>Rapports, 1re part. p. 196</biblScope></bibl></cit> </re>
 <re>XIVe s. <cit><quote>Le prieur et li freres d'Yrewals.... doient lou dit hospital maintenir en boin estat et leans mettre un proudomme pour habiter et pour mantenir hospitauté</quote><bibl><biblScope>Bibl. des ch. 1876, 6e livraison, p. 358 (1301)</biblScope></bibl></cit> </re>
@@ -65268,7 +65262,7 @@
 <quote>J'ai bien peur, si le temps dure, qu'on n'en trouve [des gens de lettres] à l'Hôtel-Dieu de quoi faire une académie complète</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Épît. dédic. Oeuv. t. I, p. 159</biblScope>
+<biblScope>Épît. dédic. Œuv. t. I, p. 159</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -65779,7 +65773,7 @@
 </p>
 </note>
 <etym>Génev. lotte (par fusion de l'article l') ; du suisse hutte, hotte ; allemand provincial, Hotze, corbeille.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HOTTE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Porter la hotte, se dit du lièvre sur le point d'être forcé ; son dos arqué décrit alors un axe convexe, Chasse illustrée, t. II, p. 115.</dictScrap>
@@ -65884,7 +65878,7 @@
 </p>
 </note>
 <etym>Hotte.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOTTEUR. - HIST. Ajoutez : </re>
 <re>XIVe s. <cit><quote>Manouvriers de bras, fossieurs, cargueurs, jetteurs et hostiers</quote><bibl><biblScope>Rec. des monum. inédits de l'hist. du tiers état, t. IV, p. 160</biblScope></bibl></cit> </re>
 </re>
@@ -66062,7 +66056,7 @@
 </p>
 </note>
 <etym>Génev. obelons ; wallon, hoûbion ; anc. wallon, hubillon ; du hollandais hop, houblon, à l'aide d'une formation diminutive : hop-e-lon, hubi-llon, etc. d'après Grandgagnage. Quant au bas-latin humulo, humulus, il tient au flamand hommel ; anc. scand. humall, houblon.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HOUBLON. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Charme-houblon, sorte de charme.</dictScrap>
@@ -66139,7 +66133,7 @@
 </cit>
 </sense>
 <etym>Houblon ; wallon, hoûbire ; namur. houbionêre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOUBLONNIÈRE. Ajoutez : - HIST. XIIIe s. <cit><quote>(Dans un nom propre) Ranufle de Homblonieres, évêque de Paris, 1281</quote><bibl><biblScope>Hist. litt. de la France, t. XXV, p. 274</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -66454,7 +66448,7 @@
 </sense>
 </sense>
 <etym>Wall. hoie ; bas-lat. hullae, dans des textes de la fin du XIIe siècle. L'origine de ce mot est inconnue. Hullae se trouve en des textes du pays de Liége ; est-il germanique ? et, s'il l'est, peut-on le rapprocher du gothique haurja, charbon ? On ne sait ce que signifie charbon de terre en houille dans le texte suivant : <cit><quote>Charbon de pierre, la banne payera 4 sols ; charbon de terre, le cent de barils payera 8 livres ; charbon de terre en houille, la charretée chargée de cinq poinçons 2/3 payera 22 sols</quote><bibl><biblScope>Tarif du 18 sept. 1664</biblScope></bibl></cit></etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOUILLE. Ajoutez : </re>
 <re>Houille grasse, houille légère, très combustible, produisant une flamme blanche et longue. </re>
 <re>Houille maigre ou sèche, houille plus lourde, s'enflammant plus difficilement et produisant une flamme bleuâtre. </re>
@@ -66534,7 +66528,7 @@
 <sense>
 <dictScrap>Pipe turque ou persane, peu différente du narghileh.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HOUKA. Ajoutez : - ÉTYM. Persan, houqqa, bouteille à travers laquelle passe la fumée de la pipe. </re>
 </re>
 </entry>
@@ -66808,7 +66802,7 @@
 </sense>
 </sense>
 <etym>Houp.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOUPER. - ÉTYM. Ajoutez : Dans le Soissonnais, houper signifie tousser : toux houpante, toux de la coqueluche. </re>
 </re>
 </entry>
@@ -66959,7 +66953,7 @@
 <quote>Le sire Jean de Montagu fut conduit du petit château aux halles, haut assis sur une charrette, vêtu de sa livrée, à savoir d'une houppelande mi-partie de rouge et de blanc, le chaperon de même, une chausse rouge et l'autre blanche, des éperons dorés, les mains liées, deux trompettes devant lui</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 113, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 113, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -67012,7 +67006,7 @@
 </p>
 </note>
 <etym>Bourg. ôperande. Huet le tire de Upland, province suédoise ; mais il n'indique rien qui démontre cette étymologie, peu vraisemblable en soi. M. J. Quicherat, rappelant que les Italiens se servaient d'un habit dit palando, se demande si houppelande n'en serait pas venu.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOUPPELANDE. - ÉTYM. M. Bugge, Romania, n° 10, p. 163, qui ajoute aux formes congénères l'esp. sopalanda et le portug. opalanda, propose une conjecture sur l'origine fort incertaine de houppelande. Ce serait le latin palla, qui était, comme la houppelande, un vêtement long, non ajusté à la taille que l'on mettait par-dessus son habit. Palla aurait donné oppallare, formé comme oppalliare, obnubilare et appuyé par depallare, qui se trouve dans Tertullien. D'oppallare serait sorti le substantif néo-latin oppallanda (comp. guirlande, offrande, viande, etc.), qui est le français houppelande. Cela est ingénieux, mais manque de soutiens historiques. </re>
 </re>
 </entry>
@@ -67438,7 +67432,7 @@
 </sense>
 </sense>
 <etym>Arabe, hour el aïn, vierge aux yeux dont le blanc et le noir sont très marqués, de là le persan houry, d'où le français est tiré directement, d'après Pihan.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HOURI. - ÉTYM. Ajoutez : D'après Dozy, arabe haurâ, femme du paradis, devenu houri chez les Persans et les Turcs. </re>
 </re>
 </entry>
@@ -67860,7 +67854,7 @@
 <dictScrap>Nom qu'on donne à la clôture d'un moulin à vent.</dictScrap>
 </sense>
 <etym>Housser.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HOUSSAGE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Il se dit aussi de la clôture de toute espèce de bâtiment.</dictScrap>
@@ -68016,7 +68010,7 @@
 </p>
 </note>
 <etym>Bas-lat. housia, houcia, hucia, hussia. Diez le tire du bas-latin hulcia, hulcitum, qu'il rattache à l'anc. haut allem. hulst, fourreau. On ne trouve pas hulcia, hulcitum, dans du Cange ; néanmoins la conjecture de Diez est probable ; à côté on peut aussi mentionner le kimry hws, couverture.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HOUSSE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Terme de porcelainier. Moulage à la housse.</dictScrap>
@@ -69430,7 +69424,7 @@
 </p>
 </note>
 <etym>On a donné un grand nombre d'étymologies de ce mot. Voyez celle qui est rapportée à l'historique de hugon, et qui, avant d'Aubigné, est donnée aussi par Pasquier : On a commencé de donner à tout le nouveau monde de ceste faction le nom et tiltre de huguenaux ; d'autant que la premiere descouverte que l'on en a faite a esté en la ville de Tours, où ils ont opinion qu'il y a un rabast [esprit] qui revient de nuit, qu'ils appellent le roy Hugon, et y appelle l'on dès pieça hugenaux tous ceux qui sont de la secte de Calvin, pour faire leurs assemblées et conventicules de nuit comme si en cecy ils fussent disciples et sectateurs de cest esprit, Lett. t. I, p. 180. Voyez aussi l'étymologie que donne Castelnau ci-dessus. D'après de Brieux, un orateur protestant commença ainsi sa harangue : Huc nos venimus, huc nos..., et resta court ; de là Huguenot. Tout cela est sans fondement. Une étymologie plus vraisemblable qu'on a indiquée est le mot allemand Eidgenossen, confédéré, de Eid, serment, et Genosse, compagnon ; la forme aignos dans les Mémoires de Condé l'appuie. Mais on a objecté que le sens n'était pas favorable à cette étymologie, confédérés s'appliquant mal à une secte religieuse ; que ce mot ne constituerait pas un terme d'injure comme les calvinistes l'envisageaient eux-mêmes, et qu'il ne pourrait s'appliquer qu'aux Suisses protestants, qui pourtant n'ont jamais porté ce nom ; eidgenossen est le titre que se donnent les citoyens de la Suisse, tant protestants que catholiques.  <cit><quote>Ce qui achève de la ruiner, c'est que huguenot, du moins comme nom propre, est antérieur de deux siècles à la réforme ; on le trouve dans un texte du XIVe siècle : Le 7 octobre 1387, Pascal Huguenot de Saint Junien en Limousin, docteur en décret</quote><bibl><biblScope>Hist. litt. de la Fr. t. XXIV, p. 307</biblScope></bibl></cit> Ce fait donne, on peut dire, la certitude à la conjecture de Mahn, qui sans le connaître, a dit que huguenot est un diminutif de Hugues, et que le nom, en tant que terme d'injure, se rattache à quelque hérétique de ce nom. Ce mot, au sens de calvinistes, paraît se trouver pour la première fois sous la forme de huguenaulx, dans une lettre du comte de Villars, lieutenant général en Languedoc, du 11 novembre 1560 (voy. VAISSETTE, Hist. du Langued. t. V).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HUGUENOT. - ÉTYM. Ajoutez : L'origine de ce mot est assez controversée et controversable pour que j'inscrive ici une communication de M. le docteur Morin, de Genève : " Huguenot vient d'un vieux mot suisse qu'on trouve en légende d'une danse macabre publiée à Sion en 1505, et qui est en caractères gothiques, en allemand et en français : Mort de la ungnote. Cette danse macabre a été reproduite par Curmer comme illustration de l'Imitation de J. Christ, et il a écrit : Mort de la uguenote. Le radical est gnott ou gnoss, qui veut dire allié, uni. Bien avant Luther, Zwingle et Calvin, il y avait des gens qui rompaient leurs vœux, se séparaient de leurs frères, et on les appelait ungnot, de un privatif. Le sens est donc désuni, séparé, mot qui a été appliqué plus tard à ceux qui sortirent de l'Eglise romaine. " D'un autre côté, M. Eugène Ritter, professeur à l'université de Genève, qui soutient énergiquement l'étymologie eidgenoss, m'envoie quelques documents fort intéressants. 1° Dans les Chroniques de Geneve, écrites avant 1551, parlant des événements de l'an 1518 (III, 24), Bonivard dit : " Et alloient criant les enfants : vivent les eiguenolz, voulans dire les eydgenoss, qui signifie en allemant les ligués ou alliez, duquel nom s'appellent les Suisses en general ; car eyd signifie serment, et genoss participant ; pour quoi ces deulx motz joinctz, à sçavoir eydgenoss, signifient les ligués ou ensemble assermentez. Ceulx qui tenoient le parti des princes à ceste cause par moquerie les appeloient les eidguenotz. " 2° Dans le Levain du Calvinisme, par sœur Jeanne de Junie (Genève, 1865, I, 7), on lit : " L'an 1535, au mois de septembre, se rassemblerent les gentilshommes.... ils pillerent et emporterent tout ce qu'ils peurent trouver appartenant à ceux de Geneve, que l'on appeloit enguenot (c'est un mot allemand), c'est-à-dire en françois bon allié. " 3° Cette forme enguenot se rencontre encore dans la Déploration de la cité de Genefve sur le faict des heretiques qui l'ont tiranniquement opprimée. Cette pièce, publiée par M. de Montaiglon, Recueil de poésies françoises des XVe et XVIe siècles, t. IV, p. 94-102, n'est pas datée ; mais elle doit être postérieure de peu de temps à l'expulsion des sœurs de Sainte-Claire en 1535 ; car, en énumérant les chefs du mouvement à Genève, Farel, Froment, Viret, elle ne nomme pas Calvin, qui n'arriva à Genève qu'en 1536. Genève parle : " Estre soloye cité delicieuse ; Les anguenots m'ont fait sedicieuse.... Mieux me seroit si je estoie soubz France, Ou obeisse à mon naturel prince ; Je n'eusse pas fourvoyé, ne prins ce Chemin oblique, devenant anguenotte, De deshonneur perpetuelle note ; Las ! je ne fusse par ces maudits livrée à heresie, ains de mal delivrée. " 4° Pasquier, Rech. de la Fr. VII, 52, dit : " Or nous est le mot huguenot très familier.... et toutefois peu de personnes se sont avisez dont il a pris son origine, et en parle mesmement un chacun diversement (suit l'énumération de plusieurs hypothèses) ; et les derniers qui ont voyagé es pays estranges estiment que c'est un mot emprunté du souysse quasi comme hens quenaux, qui signifie en ce pays là gens seditieux ; bref, chacun en devise à son appetit ; et neantmoins, pour en dire ce que j'en pense sans aucune flaterie, mocquerie ou maltalent, je croy qu'il n'y a celuy de nous qui ne recognoisse franchement que la premiere fois que ce mot commença d'estre cogneu par toute la France, ce fut après la faction d'Amboise de l'an 1559.... je vous puis dire que huict ou neuf ans auparavant l'entreprise d'Amboise je les avois ainsi ouy appeller par quelques miens amis tourengeaux. " 5° Enfin, il est à noter que le mot huguenot se rencontre dans une lettre du cardinal de Lorraine du 10 juin 1560, manuscrite (Bibl. nat. anc. fonds, n° 8655, f° 89). Appuyé sur ces textes, M. Eugène Ritter combat mes objections contre l'étymologie par eidgenoss : a) Confédérés s'applique mal à une secte religieuse : Les travaux de M. Amédée Roget sur l'Histoire de Genève ont établi un fait que les contemporains avaient déjà reconnu, c'est que la réforme a été introduite à Genève par l'influence de Berne ; or les Genevois partisans de l'alliance bernoise s'appelaient eidgenots ; dans les vers cités plus haut, anguenot a encore le sens de partisan de l'indépendance de Genève à l'égard de la Savoie, de partisan de l'alliance de Berne ; mais il y est tout près de signifier hérétique ; ce sont les anguenots, est-il dit expressément, qui ont livré Genève à l'hérésie. b) Ce nom ne constituerait pas un terme d'injure : Bonivard dit que le terme eydguenot s'employait par moquerie. c) La forme anguenot ou enguenot employée par la Deploration et par Jeanne de Junie (comp. les hens quenaulx de Pasquier) montre la fluctuation commençante de la première syllabe ; une fois que le mot fut entré en France, il est naturel que les Français, qui ne connaissaient ni le parti génevois des eidgenots, ni le mot allemand qui lui avait donné son nom, aient assimilé ce mot à d'autres qui leur étaient familiers, et l'aient ainsi confondu avec quelqu'un des noms propres Hugueneau ou Huguenot. En définitive, M. Eugène Ritter pense que l'origine est dans eidgenos, mais assimilé à un nom propre connu. Son argumentation est plausible, mais certaine, non ; la certitude ne s'acquerrait que si l'on savait où huguenot a d'abord été usité : si sur les frontières suisses ou parmi des gens en relation avec les Suisses, la provenance par eidgenos est confirmée ; si dans le centre de la France, c'est la provenance par Huguenot. Du reste, ou l'assimilation, ou la dénomination d'après le nom propre était d'autant plus facile que ce nom propre se retrouve dans plusieurs endroits ; ainsi, sur la côte du département de la Manche, à côté des îles Chausey, il y a des écueils nommés les Huguenauts. </re>
 </re>
 </entry>
@@ -69446,7 +69440,7 @@
 <dictScrap>Petit fourneau surmonté d'une marmite</dictScrap>
 </sense>
 <sense>
-<dictScrap>Oeufs à la huguenote, œufs cuits dans du jus de mouton.</dictScrap>
+<dictScrap>Œufs à la huguenote, œufs cuits dans du jus de mouton.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -69887,7 +69881,7 @@
 <quote>À la lueur d'une petite lampe, il [Démosthène] composa ces harangues admirables, dont ses envieux disaient qu'elles sentaient l'huile, pour marquer qu'elles étaient travaillées avec trop de soin</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. V, p. 536, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. V, p. 536, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -69919,7 +69913,7 @@
 <quote>L'huile grasse forme sur ces couleurs un éclat choquant qui anéantit les clairs et rehausse les ombres</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Peinture en cire, Oeuv. t. XV, p. 389</biblScope>
+<biblScope>Peinture en cire, Œuv. t. XV, p. 389</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -70164,7 +70158,7 @@
 </p>
 </note>
 <etym>Wallon, ôle ; Hainaut, ole : picard, eule ; provenç. ol ; espagn. olio ; portug. oleo ; ital. olio ; du lat. oleum.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HUILE. Ajoutez : </form>
 <sense n="16">
 <dictScrap>Huiles lourdes, dites aussi huiles minérales, le naphte et le pétrole.</dictScrap>
@@ -70235,7 +70229,7 @@
 <quote>Il [Milon] se tenait si ferme sur un disque qu'on avait huilé pour le rendre plus glissant, qu'il était impossible de l'y ébranler</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. III, p. 485, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. III, p. 485, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -70287,7 +70281,7 @@
 </p>
 </note>
 <etym>Huile.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HUILERIE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Le commerce des huiles.</dictScrap>
@@ -70424,7 +70418,7 @@
 <sense>
 <dictScrap>Terme de fauconnerie. Se dit du cri du milan.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HUIR. Ajoutez : - ÉTYM. Ce paraît être une autre forme de huer. Huer s'est dit, en effet, du cri de certains oiseaux : XIIIe s.  <cit><quote>Les lous [elle] ouït huller, et li huans [chat-huant] hua</quote><bibl><biblScope>Berte, XXV</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -70818,7 +70812,7 @@
 <quote>On peut parier 11861 contre 154 ou 77 contre 1 qu'un enfant de huit ans vivra un an de plus</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Probab. de la vie, Oeuvres, t. X, p. 279</biblScope>
+<biblScope>Probab. de la vie, Œuvres, t. X, p. 279</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -71136,7 +71130,7 @@
 <quote>L'huître ouvre son écaille, et reçoit, avec l'eau de la mer, des corpuscules et des insectes de différents genres</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Consid. corps org. Oeuv. t. V, p. 152, dans POUGENS.</biblScope>
+<biblScope>Consid. corps org. Œuv. t. V, p. 152, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -71270,7 +71264,7 @@
 </cit>
 </sense>
 <etym>Huître.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HUÎTRIER, IÈRE (ui-tri-é, tri-è-r'), adj. Qui se rapporte aux huîtres.  <cit><quote>Établissements huîtriers</quote><bibl><biblScope>Statistique des pêches maritimes, 1874, p. 85</biblScope></bibl></cit> <cit><quote>L'industrie huîtrière</quote><bibl><biblScope>ib.</biblScope></bibl></cit> <cit><quote>La richesse des gisements huîtriers</quote><bibl><biblScope>Journ. offic. 20 avril 1875, p. 2894, 2e c.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -71320,7 +71314,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>HULLA. Ajoutez : - ÉTYM. Arabe, hallal, épouser une femme répudiée. </re>
 </re>
 </entry>
@@ -71591,7 +71585,7 @@
 <quote>Comme je n'écris pas une histoire ecclésiastique, mais celle des hommes de mon temps, je ne rapporterai que des faits purement humains</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Règne de Louis XIV, Oeuvres, t. V, p. 132, dans POUGENS.</biblScope>
+<biblScope>Règne de Louis XIV, Œuvres, t. V, p. 132, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -71905,7 +71899,7 @@
 </p>
 </note>
 <etym>Provenç. human, uman ; catal. humá, espagn. humano ; ital. umano ; du latin humanus, de homo, homme.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HUMAIN. - HIST. Ajoutez : </re>
 <re>XIVe s. <cit><quote>Humains, bien vous doit souffire Que estes tant de Dieu amez Qu'est mort pour vous à martire</quote><bibl><biblScope>Théâtre franç. du moyen âge, Paris, 1839, p. 360</biblScope></bibl></cit> </re>
 </re>
@@ -71990,7 +71984,7 @@
 <quote>Alexandre traita humainement les Milésiens et vendit ce qu'il y trouva d'étrangers</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 206, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 206, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -71999,7 +71993,7 @@
 <quote>Alberoni lui écrivit humainement que les soldats sont faits pour mourir quand cela convient</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Mém. rég. Oeuv. t. V, p. 336, dans POUGENS</biblScope>
+<biblScope>Mém. rég. Œuv. t. V, p. 336, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -72090,7 +72084,7 @@
 <quote>Il [Socrate] fut le premier, comme dit Cicéron, qui s'avisa de faire descendre la philosophie du ciel, de la placer dans les villes, de l'introduire même dans les maisons particulières, l'humanisant, pour ainsi dire, et la rendant plus familière, plus à l'usage de la vie commune, plus à la portée des hommes</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 350, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 350, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -72108,7 +72102,7 @@
 <quote>Déjoce fut si occupé à adoucir, à humaniser les mœurs de la nation, et à faire des lois pour le gouvernement, qu'il n'entreprit jamais rien contre ses voisins</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. II, p. 75</biblScope>
+<biblScope>Hist. anc. Œuv. t. II, p. 75</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -72297,7 +72291,7 @@
 <sense>
 <dictScrap>La gent humanitaire, mot de plaisanterie et de dénigrement forgé par A. de Musset : Le monde sera propre et net comme une écuelle ; L'humanitairerie en fera sa gamelle, Dial. de Dupont et Durand.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HUMANITAIRERIE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Fausse humanité, humanité exagérée et affectée.</dictScrap>
@@ -73743,7 +73737,7 @@
 <quote>On attribue les combats de gladiateurs à un esprit politique : c'était, dit-on, pour entretenir l'humeur guerrière parmi les Romains ; mais l'humeur guerrière et l'humeur meurtrière sont très différentes : l'humeur guerrière est généreuse, c'est l'honneur et l'amour de la patrie qui l'inspirent</quote>
 <bibl>
 <author>ST-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 226, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 226, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -74159,7 +74153,7 @@
 <quote>Ses duretés, ses humeurs, ses caprices affermissaient la constance de sa maîtresse</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Mém. rég. Oeuvres, t. V, p. 389, dans POUGENS</biblScope>
+<biblScope>Mém. rég. Œuvres, t. V, p. 389, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -74396,7 +74390,7 @@
 </p>
 </note>
 <etym>Picard, himeur, humeur, souffrance physique ; wallon, imeûre ; Berry, himeur ; bourg. heumeu ; provenç. humor, umor, ymor ; espagn. humor ; ital. umore ; du lat. humorem, liquide, humeur ; comp. Le grec, humeur, effusion ; au contraire, Curtius le rattache au grec, supposant un radical ug (sanscrit uk-shami ( a, accent long) , arroser) ; humor serait pour hug-mor. Au XVIe siècle, on essaya, par latinisme et contre l'analogie française, de donner à humeur le genre masculin.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. HUMEUR. - HIST. Ajoutez : </form>
 <re>XIIe s.  <cit><quote>En la secunde nuit après Qu'il out eissi esté confès, Li es força si sa dolors Que toz li sancs e les humors Li espandirent par le cors</quote><bibl><author>BENOIT</author><biblScope>Chronique, t. II, p. 381, V. 26438</biblScope></bibl></cit> </re>
 <re>XIVe s. <cit><quote>Por ces quatre [fleuves] de lor rousées Sont maintes terres arousées, Et por lor ymor se deportent, Tant que mout grant valor en portent</quote><bibl><author>MACÉ</author><biblScope>Traduction de la Bible, f° 2, verso, 2e col.</biblScope></bibl></cit> (On remarquera ymor ; Macé était du Berry, et dans le Berry on dit encore himeur). </re>
@@ -74589,7 +74583,7 @@
 <quote>Les anciens physiciens auraient dit qu'une chaleur excessive enlevait l'humide radical de la plante ; cette expression a passé de mode chez nos physiciens modernes : on pourrait néanmoins lui donner un sens très raisonnable</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Lett. div. Oeuv. t. XII, p. 46, dans POUGENS</biblScope>
+<biblScope>Lett. div. Œuv. t. XII, p. 46, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -74730,7 +74724,7 @@
 </p>
 </note>
 <etym>Provenç. humiditat ; ital. umidità ; du lat. humiditatem, de humidus, humide.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HIST. XVIe s. Ajoutez : </form>
 <cit>
 <quote>Ah ! la fable a menty, les amoureuses flammes N'echaufferent jamais ta froide humidité [de toi, lune ou Diane]</quote>
@@ -75153,7 +75147,7 @@
 </p>
 </note>
 <etym>Provenç. humiliar, umiliar, omeliar ; espagn. humillar ; ital. umiliare ; du lat. humiliare, de humilis (voy. <ref target="humble">HUMBLE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HUMILIER. </form>
 <sense n="3">
 <dictScrap>Ajoutez :</dictScrap>
@@ -75547,7 +75541,7 @@
 <dictScrap>Mot anglais qui signifie gaieté d'imagination, veine comique.</dictScrap>
 </sense>
 <etym>Angl. humour, qui est le français humeur, pris anciennement en ce sens et revenu aujourd'hui en usage (voy. <ref target="humeur#var8">HUMEUR, n° 8</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HUMOUR. Ajoutez : - REM. On rencontre quelquefois ce mot au féminin : <cit><quote>Ces extraits divers sont le résultat des lectures de Mme Dorval ; mais leur choix indique une fantaisie et une humour que rien ne peut rendre</quote><bibl><author>TH. GAUTIER</author><biblScope>Portraits contemporains, Mme Dorval</biblScope></bibl></cit> Rien n'empêche en effet de donner à ce mot anglais qui vient du français, son genre originel. </re>
 </re>
 </entry>
@@ -76095,7 +76089,7 @@
 </p>
 </note>
 <etym>Origine inconnue. Ce mot a signifié le poil qui couvre la tête, comme on le voit par l'exemple de Thomas martyr, et aussi tête d'homme ou tête de bête. Diez essaye quelques conjectures, mais elles sont si peu appuyées, qu'il est inutile de les rapporter ici. Il y avait l'ancien adjectif huré, qui signifiait hérissé : <cit><quote>Hurées ont les testes et barbes et grenons</quote><bibl><biblScope>li Romans d'Alixandre, p. 337, v. 21</biblScope></bibl></cit> Ce mot de huré était encore usité dans le XVIIe siècle : <cit><quote>Estant proche de la porte D'un vieux huré paysant, Je luy ay dit de la sorte : Fait on vendange céans ?</quote><bibl><biblScope>l'Eslite des chansons les plus belles, dans FR. MICHEL, Argot</biblScope></bibl></cit></etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HURE. - ÉTYM. Ajoutez : M. Bugge (Romania, juillet-octobre 1875, p. 361) commence par démontrer que hure a eu le sens de pileus, bonnet : " La Vie de saint Thomas nous donne de hure un des plus anciens exemples connus : la hure abati, où il signifie selon Diez et Littré la partie chevelue de la tête. Mais un sens différent est démontré, comme le dit M. Mätzner, Altengl. Sprachproben, p. 185, par un passage correspondant d'une vie latine de saint Thomas : pileum dejecit. Un manuscrit (XIIIe siècle) du traité lexicographique de Jean de Garlande glose pillea par hures, pilleola par hurez (Jahrb. f. rom. Lit. VI, 294). Dans l'ancien anglais hure signifie également chapeau, bonnet : Galerus (episcopi) qui hura dicitur, Vitae abbatum S. Albani, dans DU CANGE ; Pileus est ornamentum capitis sacerdotis vel graduati, anglice a hure or a pyllyon. " Cela établi (et la démonstration est complète), M. Bugge identifie hure avec le norois húfa, bonnet ou casquette, mot employé surtout en parlant d'un bonnet de poil ou de peau. Húfa est aussi indiqué comme coiffure des prêtres ; l'allem. Haube, qui correspond à húfa, se dit également du bonnet de l'évêque, du prêtre. L'f du norois húfa est syncopée dans le danois hue, island. mod. húa. En français aussi, l'f s'est syncopée, d'où hue et, par l'intercalation d'une r, hure. M. Bugge, pour appuyer cette intercalation, cite mire, de mie, médecin, remire, de remedium, navire, de navie. Ces exemples d'intercalation d'une r ne paraissent pas tout à fait assurés, et par conséquent du doute reste sur hure pour hue. Mais la conjecture de M. Bugge demeure très plausible. Le vieux franç. avait huvet, huvette, bonnet, chapeau ; celui-là vient certainement de húfa ; la présence de ce mot avec le v aide-t-elle l'opinion de M. Bugge en montrant que húfa a bien réellement pénétré dans le domaine français, ou la combat-elle en y faisant voir la conservation de l'f sous la forme de v ? M. Bugge remarque que hure signifie souvent chevelure, surtout chevelure hérissée. Le mot scandinave présente le même changement de sens : dans un dialecte norvégien, hårhuva, littéralement bonnet de poil, signifie chevelure, surtout chevelure épaisse, hérissée. En français, la notion : tête hérissée (tête du sanglier, du loup) s'est développée de la notion : chevelure hérissée. </re>
 </re>
 </entry>
@@ -76132,7 +76126,7 @@
 <quote>Un chartier sans fouet qui ne dict dea ne hurehaut</quote>
 <bibl>
 <author>ROGER DE COLLERYE</author>
-<biblScope>Oeuv. p. 82, dans LACURNE</biblScope>
+<biblScope>Œuv. p. 82, dans LACURNE</biblScope>
 </bibl>
 </cit>
 </p>
@@ -77020,7 +77014,7 @@
 </p>
 </note>
 <etym>En grec, nom d'un personnage mythologique tué par Apollon et transformé par lui en fleur. Le nom de la fleur a passé à la pierre.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYACINTHE. - HIST. XVIe s. Ajoutez : <cit><quote>Et ainsi [je] veis les chevaulx en vision ; et ceulx qui estoient assis sur eulx, avoient des haulbergeons de feu et de hiacinte et de souffre</quote><bibl><biblScope>Apoc. IX, 17, Nouv. Test. éd. Lefebvre d'Etaples, Paris, 1525</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -77089,7 +77083,7 @@
 <dictScrap>Terme de minéralogie. Variété de quartz qui ressemble à du verre.</dictScrap>
 </sense>
 <etym>En grec, verre, et la finale ite qui désigne une substance.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HYALITE. Ajoutez : </form>
 <sense n="2">
 <cit>
@@ -77252,7 +77246,7 @@
 <dictScrap>Terme de grammaire. Mots hybrides, mots composés d'éléments provenant de langues différentes.</dictScrap>
 </sense>
 <etym>Lat. hybrida et ibrida ; le terme grec signifie viol.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HYBRIDE. </form>
 <sense n="3">
 <dictScrap>Ajoutez :</dictScrap>
@@ -77972,7 +77966,7 @@
 <quote>Une hydre est un composé de plusieurs personnes sur un tronc commun</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Considér. corps org. Oeuv. t. VI, p. 109, dans POUGENS.</biblScope>
+<biblScope>Considér. corps org. Œuv. t. VI, p. 109, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -79133,7 +79127,7 @@
 <dictScrap>Terme didactique. Qui aime l'eau.</dictScrap>
 </sense>
 <etym>Hydro...., et terme grec signifiant ami.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYDROPHILE. Ajoutez : </re>
 <re>S. m. Nom d'une famille de coléoptères aquatiques, dont l'espèce la plus grande est l'hydrophilus piceus. </re>
 </re>
@@ -79313,7 +79307,7 @@
 </sense>
 </sense>
 <etym>Hydro...., et terme grec signifiant plante.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HYDROPHYTE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Terme de minéralogie. Silicate magnésien hydraté.</dictScrap>
@@ -79492,7 +79486,7 @@
 <dictScrap>Terme de chimie. Cuve hydropneumatique, appareil qui sert à recueillir, sur une cuve d'eau, les gaz insolubles dans l'eau.</dictScrap>
 </sense>
 <etym>Hydro...., et pneumatique.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYDROPNEUMATIQUE. Ajoutez : </re>
 <re>Terme de mécanique. Turbine hydropneumatique, turbine qui marche sous une cloche pleine d'air comprimé. </re>
 </re>
@@ -79722,7 +79716,7 @@
 <dictScrap>Terme de médecine. Mode de traitement des maladies, spécialement de certaines maladies chroniques, par l'usage de l'eau froide en applications extérieures diversement modifiées.</dictScrap>
 </sense>
 <etym>Hydro...., et thérapeutique ou thérapie.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYDROTHÉRAPEUTIQUE. Ajoutez : - HIST. XVIe s. <cit><quote>Hydrotherapeutique des fonctions medicinales nouvellement decouvertes aux environs de Rouen, très et très profitables à un chacun, par noble homme M. Jacques du Val, à Rouen</quote><bibl><biblScope>dans Journ. offic. 11 oct. 1872, p. 6439, 3e col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -79797,7 +79791,7 @@
 <dictScrap>Instrument servant à l'hydrotimétrie, et consistant en un flacon gradué de telle sorte qu'on y puisse mesurer exactement le volume de l'eau soumise à l'expérience, et en une burette tubulaire, également graduée, contenant une solution d'un décigramme de savon par un litre d'eau distillée.</dictScrap>
 </sense>
 <etym>Mot si mal fait qu'on n'en peut déterminer les éléments ; il faut peut-être y voir les termes grecs signifiant humidité et mesure.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYDROTIMÈTRE. Ajoutez : <cit><quote>Il importait de constater avec soin quelles quantités de sels de chaux, et spécialement de sulfate ou de carbonate, renferment les sources du bassin de la Seine.... l'emploi d'un appareil ingénieux, récemment inventé par MM. Boutron et Boudet, et nommé par eux hydrotimètre, a singulièrement facilité ces recherches, Documents relatifs aux eaux de Paris</quote><bibl><biblScope>Paris, 1861, petit in-8°, p. 125</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -80218,7 +80212,7 @@
 </sense>
 </sense>
 <etym>Hygro...., et mètre, mesure.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYGROMÈTRE. Ajoutez : - REM. Voy. pour un des premiers emplois de ce mot, ARÉOMÈTRE, au Supplément. </re>
 </re>
 </entry>
@@ -80325,7 +80319,7 @@
 <sense>
 <dictScrap>Propriété d'être hygroscopique, d'indiquer l'humidité.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> HYGROSCOPICITÉ. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Faculté que possèdent un grand nombre de corps inorganiques et tous les corps organisés vivants ou morts, d'absorber et d'exhaler de l'humidité.</dictScrap>
@@ -81248,7 +81242,7 @@
 <quote>L'hyperbate est un tour particulier qu'on donne à une période, et qui consiste principalement à faire précéder une proposition par une autre qui, dans l'ordre naturel, aurait dû la suivre ; par exemple, dans ces vers de Racine : Que, malgré la pitié dont je me sens saisir, Dans le sang d'un enfant je me baigne à loisir (Andr. I, 2)</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Gramm. P. R. Oeuvres, t. IX, p. 210, dans POUGENS</biblScope>
+<biblScope>Gramm. P. R. Œuvres, t. IX, p. 210, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -81373,7 +81367,7 @@
 <quote>Il [Descartes] conclut que les verres elliptiques et hyperboliques sont les meilleurs de tous pour rassembler les rayons</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. Introd. Oeuvres, t. VII, p. 185</biblScope>
+<biblScope>Hist. min. Introd. Œuvres, t. VII, p. 185</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -81460,7 +81454,7 @@
 </sense>
 </sense>
 <etym>Hyperbole, et terme grec signifiant forme.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> HYPERBOLOÏDE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>S. m. Surface du second degré pouvant être engendrée par une ellipse qui se transporte parallèlement à elle-même, en s'appuyant toujours par deux de ses sommets sur une hyperbole, et en se déformant de manière que le rapport de ses axes soit constant. On obtient un hyperboloïde à une nappe, lorsque le centre de l'ellipse se meut le long de l'axe non-transverse de l'hyperbole, et un hyperboloïde à deux nappes, lorsque le centre de l'ellipse se meut le long de l'axe transverse de l'hyperbole.</dictScrap>
@@ -83037,7 +83031,7 @@
 </p>
 </note>
 <etym>Cette préparation étant appelée vinum hippocraticum (vin d'Hippocrate) dans les anciens lexiques médicaux, hypocras, malgré la fausse orthographe, doit venir de hippocraticus, dérivé de Hippocrates, nom du fameux médecin grec qui vivait dans le Ve siècle avant l'ère chrétienne.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>HYPOCRAS. Ajoutez : </re>
 <re>Fig.  <cit><quote>M. Bautru le connaissait mal [Voiture], quand il disait que, s'il eût été de la profession de son père [marchand de vin], le vinaigre fût devenu hypocras entre ses mains</quote><bibl><author>BALZAC</author><biblScope>Lett. inédites, CIX (éd. Tamizey-Larroque)</biblScope></bibl></cit> </re>
 </re>
@@ -84726,7 +84720,7 @@
 <quote>Aristote, aussi grand philosophe que Platon et bien meilleur physicien, au lieu de se perdre comme lui dans la région des hypothèses</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. anim. ch. V, Oeuv. t. III, p. 117</biblScope>
+<biblScope>Hist. anim. ch. V, Œuv. t. III, p. 117</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -84782,7 +84776,7 @@
 <quote>Il entre de l'hypothétique dans cette supposition sur laquelle j'ai néanmoins fondé la seconde base de mes calculs</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Théor. terr. part. hyp. Oeuv. t. IX, p. 344</biblScope>
+<biblScope>Théor. terr. part. hyp. Œuv. t. IX, p. 344</biblScope>
 </bibl>
 </cit>
 </sense>

@@ -83,7 +83,7 @@
 </p>
 </note>
 <etym>Latin, n ; grec, mot composé des deux lettres grecques suivantes : nu et upsilon (upsilon avec un accent) ; du noun phénicien.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>N.-W. (nor-ouèst), s. m. La partie nord-ouest d'un pays. M. Hébert est un des hommes qui connaissent le mieux les terrains du N., -W., de la France (on écrit maintenant ainsi nord-ouest en français, depuis la convention météorologique de Vienne),... G. POUCHET, le Siècle, 20 fév. 1876. </re>
 </re>
 <note type="historique">
@@ -890,7 +890,7 @@
 </p>
 </note>
 <etym>Voy. <ref target="nager">NAGER</ref>. Quant à la locution être en nage (wallon, ête en nange ; Hainaut, ête en nache, nanger, nager), qui est singulière, Rochefort, Delatre, Mahn l'ont expliquée par être en age, c'est-à-dire être en eau, age étant une des anciennes formes de eau. Que age ait été dit pour aigue ou aige, cela n'est pas douteux ; mais on ne voit dans aucun texte que age se soit assez conservé dans le parler vulgaire pour qu'il ait donné lieu à la locution et à la confusion. Il vaut mieux y voir le mot nage. Quelques-uns disent non pas être en nage mais être à nage (voy. à l'historique l'exemple de Desportes) ; locution qui ne comporte plus age, eau. De plus le wallon dit ête en nange, là il n'y a plus de confusion entre nange et age, eau ne s'étant jamais dit ange ; et nager se dit nanger dans les patois du nord. Être à nage ou en nage, c'est proprement nager dans l'eau, et fig. Être tout mouillé de sueur.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAGE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Anciennement, se mettre en nage, commencer une navigation.</dictScrap>
@@ -929,7 +929,7 @@
 <sense n="4">
 <dictScrap>S. m. pl. Terme de zoologie. Ordre comprenant tous les mammifères privés d'extrémités postérieures, par exemple le phoque.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NAGEANT. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Qui nage.</dictScrap>
@@ -1490,7 +1490,7 @@
 </p>
 </note>
 <etym>Hainaut, nanger ; picard, nanger, langer, larger. On le tire du latin navigare, naviguer. Il est certain qu'un des sens primitifs de nager est naviguer ; cela doit faire passer sur la difficulté de tirer nager ou nagier de navigare ; le provençal dit naveiar, le français devrait avoir une forme analogue : naveier. Du sens d'un vaisseau qui navigue, flette sur l'eau, à celui d'un homme qui nage, le passage est facile. Le vieux français avait aussi neer, naviguer : XIIe s.  <cit><quote>Cil vait par haute mer neant</quote><bibl><biblScope>Grég. le Grand, p. 26</biblScope></bibl></cit> Neer vient de natare. Il avait aussi nouer, qui vient également de natare, mais par une forte altération de la voyelle.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NAGER. - HIST. Ajoutez : </re>
 <re>XIVe s.  <cit><quote>Ainsy vouloit le dit due de Brabant nager entre deux yawes</quote><bibl><author>J. LE BEL</author><biblScope>Vrayes chroniques, t. I, p. 136</biblScope></bibl></cit> </re>
 </re>
@@ -1582,7 +1582,7 @@
 </p>
 </note>
 <etym>Nager. On trouve aussi noueur, au XIIIe siècle, pour rameur.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAGEUR. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Dans les brasseries, flotteur.</dictScrap>
@@ -1707,7 +1707,7 @@
 </p>
 </note>
 <etym>Adverbe composé de trois mots : ne, a, guère, c'est-à-dire il n'y a guère [de temps].</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAGUÈRE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Naguère que, autrefois que, avec l'idée qu'il n'y a pas longtemps.</dictScrap>
@@ -1791,7 +1791,7 @@
 <quote>Il a vu de ces vers d'eau douce apodes, qu'il nomme assez improprement des naïades, qui multipliaient sous ses yeux par division naturelle</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Oeuv. t. XII, p. 141, dans POUGENS</biblScope>
+<biblScope>Œuv. t. XII, p. 141, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -1875,7 +1875,7 @@
 <quote>Tout ce qui est vrai n'est pas naïf : mais tout ce qui est naïf est vrai, d'une vérité piquante, originale et rare</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Pensées sur la peint. Oeuv. t. XV, p. 232, dans POUGENS.</biblScope>
+<biblScope>Pensées sur la peint. Œuv. t. XV, p. 232, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2060,7 +2060,7 @@
 </p>
 </note>
 <etym>Provenç. natiu ; espagn. et ital. nativo ; du lat. nativus, qui vient de natus, né.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAÏF. Ajoutez : </form>
 <sense n="8">
 <dictScrap>Au naïf, naïvement.</dictScrap>
@@ -2100,7 +2100,7 @@
 <quote>Je viens de voir un véritable nain chez Mme la comtesse Humieska ; il est Polonais, fils d'un gentilhomme, il a vingt-deux ans et n'est haut que de vingt-huit pouces</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 227</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 227</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2114,7 +2114,7 @@
 <quote>On a des exemples de nains qui n'avaient que deux pieds, vingt-un et dix-huit pouces, et même d'un qui, à l'âge de trente-sept ans, n'avait que seize pouces</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Suppl. à l'hist. nat. Oeuv. t. XI, p. 125</biblScope>
+<biblScope>Suppl. à l'hist. nat. Œuv. t. XI, p. 125</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2201,7 +2201,7 @@
 <dictScrap>On le dit, dans le même sens, des animaux. Cheval nain.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Oeuf nain, œuf de poule qui ne contient point de jaune.</dictScrap>
+<dictScrap>Œuf nain, œuf de poule qui ne contient point de jaune.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -2314,7 +2314,7 @@
 <quote>On sait qu'Érostrate, pour immortaliser son nom, mit le feu à ce fameux temple [d'Éphèse] qui en fut entièrement consumé ; c'est le jour même de la naissance d'Alexandre le Grand</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, p. 36, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, p. 36, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2349,7 +2349,7 @@
 <quote>Le total des naissances à Paris étant, pendant ces cinquante-huit années, de 1 074 367, et le total des morts 1 087 995</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Probab. de la vie, Oeuv. t. X, p. 546</biblScope>
+<biblScope>Probab. de la vie, Œuv. t. X, p. 546</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2802,7 +2802,7 @@
 <quote>Depuis le triste point de ma fresle naissance, Et que dans le berceau, pleurant, je fus posé</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrétiennes, Sonnets, 1</biblScope>
+<biblScope>Œuvres chrétiennes, Sonnets, 1</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -2815,7 +2815,7 @@
 </p>
 </note>
 <etym>Provenc. naissensa, naysensa, naisquenza ; catal. naxensa ; anc. espagn. nascencia ; ital. nascenza ; du lat. nascentia, qui vient de nascens, naissant. L'ancienne langue disait aussi nation au sens de naissance.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NAISSANCE. Ajoutez : - SYN. NAISSANCE, ORIGINE., Naissance se dit du pays où l'on est né ; origine, du pays où nos ascendants sont nés.  <cit><quote>Vicencio Carducho, Eugenio Caxes et Angelo Nardi, ces trois artistes, peintres ordinaires du roi [Philippe IV], étaient Italiens soit de naissance, soit d'origine</quote><bibl><author>J. DUMESNIL</author><biblScope>Hist. des amat. ital. p. 66</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -2948,7 +2948,7 @@
 <quote>Denis n'avait conclu la paix avec les Carthaginois que pour se donner le temps d'affermir son autorité naissante</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 261, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 261, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3075,7 +3075,7 @@
 <quote>Je suis né à Dinan, en Bretagne, le 12 février 1704, d'une famille honnête et ancienne</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. X, p. 1</biblScope>
+<biblScope>Œuvr. t. X, p. 1</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3119,7 +3119,7 @@
 <quote>Les mois dans lesquels il naît le plus d'enfants sont les mois de mars, janvier et février, et ceux pendant lesquels il en naît le moins sont juin, décembre et novembre</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Oeuvr. t. X, p. 512</biblScope>
+<biblScope>Œuvr. t. X, p. 512</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -3528,7 +3528,7 @@
 <quote>L'idée en naissant cherche le mot qui doit la rendre, et, s'il lui manque, elle s'éteint</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuvres, t. X, p. 282, dans POUGENS</biblScope>
+<biblScope>Œuvres, t. X, p. 282, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -3792,7 +3792,7 @@
 <quote>Nature, à vostre naistre heureusement feconde, Prodigue vous donna tout son plus et son mieux</quote>
 <bibl>
 <author>J. DU BELLAY</author>
-<biblScope>Oeuvres, p. 423, dans LACURNE</biblScope>
+<biblScope>Œuvres, p. 423, dans LACURNE</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3812,7 +3812,7 @@
 </p>
 </note>
 <etym>Bourg. nâtre ; provenç. nascer, naisser : cat. naixer ; esp. nacer ; port. nascer, nacer ; ital. nascere ; du bas-lat. nascere, dérivé de nasci. La forme entière est gnasci, comme témoignent l'archaïque gnatus et co-gnatus. Gnasci se rapproche tout naturellement du grec et de gigno, formes à redoublement, sanscrit jan, engendrer. Gnascor veut donc dire je suis engendré. Gnatus appartient autant à gigno qu'à gnascor.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NAÎTRE. Ajoutez : - REM. Régnier a dit fut né pour naquit : Sur du foin Jésus-Christ fut né, Épigr. </re>
 </re>
 </entry>
@@ -3849,7 +3849,7 @@
 <quote>Représenter naïvement et nettement les choses, sans les changer ni les diminuer, et sans y rien ajouter de son imagination</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Oeuvr. t. I, p. 36</biblScope>
+<biblScope>Œuvr. t. I, p. 36</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -3931,7 +3931,7 @@
 <quote>La naïveté peut montrer des défauts, mais jamais des vices, et c'est pour cela qu'on dit une grossièreté naïve, et qu'on ne dit point une méchanceté naïve</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Synon. Oeuvres, t. III, p. 332, dans POUGENS</biblScope>
+<biblScope>Synon. Œuvres, t. III, p. 332, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -3962,7 +3962,7 @@
 <quote>Une naïveté d'expression et de caractère tout à fait piquante</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuvr. t. XIII, p. 161, dans POUGENS.</biblScope>
+<biblScope>Salon de 1765, Œuvr. t. XIII, p. 161, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -3972,7 +3972,7 @@
 <quote>Si l'ingénuité se caractérise par des traits qu'on aurait en soi-même intérêt à déguiser et qui nous donne quelque avantage sur celui auquel ils échappent, on la nomme naïveté ou ingénuité naïve</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Éléments litt. Oeuvres, t. VII, p. 372, dans POUGENS.</biblScope>
+<biblScope>Éléments litt. Œuvres, t. VII, p. 372, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -4109,7 +4109,7 @@
 <sense>
 <dictScrap>Espèce d'Autruche d'Amérique, struthio rhea, L.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NANDU. Ajoutez : - ÉTYM. Quichua, nandu, nom, au Pérou, de cet animal. </re>
 </re>
 </entry>
@@ -4720,7 +4720,7 @@
 <quote>Chez les Romains, il n'y avait point de nappe sur la table ; il n'y avait point aussi de serviettes, chaque convié apportait la sienne</quote>
 <bibl>
 <author>ST-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 329, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 329, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -4816,7 +4816,7 @@
 <quote>Leur terrain est une grande nappe d'eau pendant les huit ou neuf mois de pluie</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Oeuv. t. XIII, p. 297</biblScope>
+<biblScope>Œuv. t. XIII, p. 297</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -4931,7 +4931,7 @@
 </p>
 </note>
 <etym>Bourg. naippe ; wallon, mape ; Berry, nappilloun, déguenillé ; du lat. mappa, par un changement de l'm en n, comme dans nèfle de mespilus.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAPPE. Ajoutez : </form>
 <sense n="12">
 <dictScrap>Nappe en étain, feuille d'étain qui recouvre les comptoirs des marchands de vin.</dictScrap>
@@ -5216,7 +5216,7 @@
 <quote>Telle erreur si long-tans ne m'eust pas arresté, Comme un second Narcis, amoureux de l'ombrage</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, Sonnets, 14</biblScope>
+<biblScope>Œuvres chrestiennes, Sonnets, 14</biblScope>
 </bibl>
 </cit>
 </p>
@@ -5428,7 +5428,7 @@
 </p>
 </note>
 <etym>Lat. nardus ; hébreu, nerd ; persan, nard.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NARD. - HIST. Ajoutez : XIVe s.  <cit><quote>Comme le roy fust assis en son siege, ma narde [nardus est du féminin] donna son odeur</quote><bibl><biblScope>Mir. de Nostre Dame par personnages, éd. G. Paris et U. Robert, t. I, p. 103</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -5734,7 +5734,7 @@
 <quote>En narquois de Bigot, on appelle ce que je viens de vous dire en vers...</quote>
 <bibl>
 <author>SCARRON</author>
-<biblScope>Lettres, Oeuv. t. I, p. 239</biblScope>
+<biblScope>Lettres, Œuv. t. I, p. 239</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -5797,7 +5797,7 @@
 </sense>
 <note type="remarque">L'Académie n'a pas le féminin narratrice ; mais rien n'empêche de le former. </note>
 <etym>Lat. narratorem, de narrare, narrer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NARRATEUR.  Ajoutez : <cit><quote>Il [l'historien] n'est pas poëte, il est narrateur</quote><bibl><author>RAC.</author><biblScope>Lexique, éd. P. Mesnard.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -5813,7 +5813,7 @@
 <quote>La poésie épique, le madrigal, l'épigramme sont ordinairement de la poésie narrative</quote>
 <bibl>
 <author>D'ALEMBERT</author>
-<biblScope>Explic. syst. conn. hum. Oeuvres, t. I, p. 343, dans POUGENS.</biblScope>
+<biblScope>Explic. syst. conn. hum. Œuvres, t. I, p. 343, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -5926,7 +5926,7 @@
 </p>
 </note>
 <etym>Prov. narratio ; esp. narracion ; ital. narrazione ; du lat. narrationem, de narrare, narrer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NARRATION. - HIST. Ajoutez : XIIe s.  <cit><quote>Alsi com ge conu par la narration de plusiors qui vinent des parties de Spaigne</quote><bibl><biblScope>li Dialoge Gregoire lo pape, 1876, p. 168</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -6174,7 +6174,7 @@
 <quote>Le son nasal, de sa nature, ressemble au retentissement du métal</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. littér. Oeuv. t. VIII, p. 502, dans POUGENS</biblScope>
+<biblScope>Élém. littér. Œuv. t. VIII, p. 502, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -6204,7 +6204,7 @@
 <quote>Les nasales n'ayant point de caractères simples qui en soient les signes, on a eu recours à la combinaison d'une voyelle avec m ou n</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. IX, p. 45</biblScope>
+<biblScope>Œuv. t. IX, p. 45</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -6237,7 +6237,7 @@
 </p>
 </note>
 <etym>Prov. et esp. nasal, partie du casque ; ital. nasale ; du lat. nasalis, qui vient de nasus, nez.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NASAL. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Terme d'anthropologie. Indice nasal, voy. <ref target="indice#supplement">INDICE</ref> au Supplément.</dictScrap>
@@ -6334,7 +6334,7 @@
 <quote>Et Mars jura par saint Firmin Qu'il voulait donner des nasardes Au beau monsieur de Neuf-Germain</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Poésies, Oeuv. t. II, p. 160</biblScope>
+<biblScope>Poésies, Œuv. t. II, p. 160</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -6478,7 +6478,7 @@
 <quote>Car l'Espagnol il nasarda, Tant il est fier ce grand d'Avaux</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Poés. Oeuv. t. II, p. 167</biblScope>
+<biblScope>Poés. Œuv. t. II, p. 167</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -6611,7 +6611,7 @@
 <sense>
 <dictScrap>Président du sanhédrin chez les Juifs.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NASI (na-zi), s. m.  <cit><quote>Nom que portaient les chefs ou princes des Juifs établis en France pendant le moyen âge....L'allégation de Benjamin de Tudèle relativement aux propriétés du nasi, ou prince des Juifs de Narbonne.... la présence de cet écu est un indice certain de l'importance considérable des nasis narbonnais</quote><bibl><author>F. DELAUNAY</author><biblScope>Journ. offic. 14 août 1872, p. 5529, 3e col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -6763,7 +6763,7 @@
 </p>
 </note>
 <etym>Nazille, ancienne forme de narine (voyez NARINE).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NASILLER. </form>
 <sense n="2">
 <dictScrap>Terme de vénerie. Ajoutez :</dictScrap>
@@ -7074,7 +7074,7 @@
 </p>
 </note>
 <etym>Berry, nanse, lance ; génev. nanse ; wallon, nèse ; namur. nase ; du lat. nassa.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NASSE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Il s'est dit autrefois pour établissement de pêche.</dictScrap>
@@ -8116,7 +8116,7 @@
 </p>
 </note>
 <etym>Ital. matta ; du lat. matta, par changement d'm en n, comme dans nappe, de mappa, nèfle, de mespilus, etc.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NATTE. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Nom donné à une petite pâtisserie faite en forme de natte.</dictScrap>
@@ -8415,7 +8415,7 @@
 </p>
 </note>
 <etym>Lat. naturalis, naturel.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NATURALISER. Ajoutez : </form>
 <sense n="8">
 <dictScrap>Préparer les dépouilles des animaux, pour leur rendre l'aspect naturel. J'ai porté chez le fourreur une belle peau de renard, pour en faire une descente de lit ; la tête sera naturalisée.</dictScrap>
@@ -8452,7 +8452,7 @@
 </cit>
 </sense>
 <etym>Naturel, par le latin naturalis.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NATURALISME. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Terme de beaux-arts. Système, pratique des artistes qui s'attachent à reproduire la nature telle qu'elle est.</dictScrap>
@@ -8492,7 +8492,7 @@
 <quote>Le naturaliste philosophe doit surtout insister sur les exceptions aux règles qu'on estime générales</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuv. t. VIII, p. 287, dans POUGENS</biblScope>
+<biblScope>Contempl. nat. Œuv. t. VIII, p. 287, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -8529,7 +8529,7 @@
 </p>
 </note>
 <etym>Natural ou naturel, représentant le latin naturalis, et la finale iste signifiant qui s'adonne à, qui s'occupe de.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NATURALISTE. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Adj. Qui se rapporte à la nature, à la matière.</dictScrap>
@@ -8577,7 +8577,7 @@
 <quote>Il [Louis XI] offrit des lettres de naturalité, avec des exemptions et des priviléges, aux étrangers qui viendraient s'établir pour travailler aux mines qu'on devait ouvrir en Dauphiné et en Roussillon</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. II, p. 296</biblScope>
+<biblScope>Œuv. t. II, p. 296</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -8608,7 +8608,7 @@
 </p>
 </note>
 <etym>Lat. naturalitatem, de naturalis, naturel.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NATURALITÉ. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Caractère naturel, par opposition à surnaturel. La naturalité d'un phénomène.</dictScrap>
@@ -8631,7 +8631,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NATURANT. Ajoutez : - REM. Ce terme philosophique n'appartient pas, non plus que son opposé naturé, à Spinosa ; ils lui sont bien antérieurs. Nature naturante, qui est Dieu ; nature naturée, qui est l'universalité des choses naturelles, le Quer [cœur] vray, ou la semaine de D. D. C. C. G. Troyes, 1620, et se vend à Paris, 1621, in-8°, à la table contenant l'interprétation des dictions, au mot nature, cité dans le Bulletin du bibliophile, 43e année, p. 462. </re>
 </re>
 </entry>
@@ -9053,7 +9053,7 @@
 <quote>La nature n'est point avare, la nature n'est point prodigue, la nature ne s'épuise point : ce sont des mots vides de sens</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. IX, p. 298, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. IX, p. 298, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -9768,14 +9768,14 @@
 <quote>Que dirait-on d'un peintre qui ne représenterait les hommes que comme ils sont faits communément, petits, mal tournés, mal proportionnés, de mauvais air ? Ce serait là pourtant la nature</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Réfl. poét. Oeuv. t. V, p. 144, dans POUGENS</biblScope>
+<biblScope>Réfl. poét. Œuv. t. V, p. 144, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Si vous prenez des natures énormes, que votre scène soit presque immobile ; si vous prenez des natures petites, que votre scène soit tumultueuse et troublée</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 63, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 63, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -9817,7 +9817,7 @@
 <quote>Les dieux d'Homère sont des hommes plus grands et plus forts que nature, soit au physique, soit au moral</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. VIII, p. 371, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. VIII, p. 371, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -10275,7 +10275,7 @@
 <quote>Selon les physiciens, ce qui est naturel, c'est ce qui se fait sans le ministère de l'art, par un enchaînement qui nous est inconnu de causes et d'effets, et qui dépend de cette force supérieure, de ce mécanisme inflexible qui ne prend conseil ni de notre volonté ni de nos intérêts</quote>
 <bibl>
 <author>DUMARSAIS</author>
-<biblScope>Oeuvr. t. III, p. 369</biblScope>
+<biblScope>Œuvr. t. III, p. 369</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -10322,7 +10322,7 @@
 <quote>Les sujets naturels, c'est-à-dire les Perses, étaient exempts de toute imposition</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuvr. t. III, p. 51</biblScope>
+<biblScope>Hist. anc. Œuvr. t. III, p. 51</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -10455,7 +10455,7 @@
 <quote>La Nouvelle Hollande est une terre basse, sans eau, sans montagnes, peu habitée, dont les naturels sont sauvages et sans industrie</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Oeuv. t. I, p. 320</biblScope>
+<biblScope>Œuv. t. I, p. 320</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -10597,7 +10597,7 @@
 <quote>Les malheureux comme je suis, sont souvent importuns contre leur naturel</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Lettres, Oeuv. t. I, p. 228</biblScope>
+<biblScope>Lettres, Œuv. t. I, p. 228</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -11104,7 +11104,7 @@
 </p>
 </note>
 <etym>Provenç. naturel, naturau ; espagn natural ; ital. naturale ; du lat. naturalis, qui vient de natura, nature. Dans la langue ancienne, enfant naturel signifiait enfant légitime et enfant né hors mariage.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NATUREL. Ajoutez : </form>
 <sense n="27">
 <dictScrap>Père naturel, par opposition à père adoptif.</dictScrap>
@@ -11151,7 +11151,7 @@
 <quote>Dion avait naturellement beaucoup de noblesse, d'élévation et de grandeur d'âme</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. V, p. 191, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. V, p. 191, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -11231,7 +11231,7 @@
 <quote>Comment faire parler naturellement un villageois, un homme du peuple, sans blesser la délicatesse d'un homme poli, cultivé ?</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. VII, p. 91, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. VII, p. 91, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -11339,7 +11339,7 @@
 <sense>
 <dictScrap>Genre de la famille des rubiacées, composé d'arbrisseaux grimpants de la Chine, de l'Inde, etc. On y distingue la nauclée gambir de Hunter, uncarie gambir de Roxburgh, qui, selon Thompson, fournit tout le kino du commerce.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NAUCLÉE. Ajoutez : - ÉTYM. de navire, et fermer, à cause de la forme du fruit. </re>
 </re>
 </entry>
@@ -11564,7 +11564,7 @@
 <quote>Eussé je, o souverain, comme le second pere, Au naufrage du monde une arche à me sauver !</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, Sonnets, 9</biblScope>
+<biblScope>Œuvres chrestiennes, Sonnets, 9</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -11673,7 +11673,7 @@
 </cit>
 </p>
 </note>
-<re type="supplement">
+<re ana="supplement">
 <re>NAUFRAGER. Ajoutez : </re>
 <re>Fig.  <cit><quote>Le début n'était pas encourageant pour personne [première campagne de Washington, dans une guerre contre la France, avant l'émancipation des colonies anglaises], et plus d'une réputation y eût naufragé sans retour</quote><bibl><author>MASSERAS</author><biblScope>Journ. offic. 15 juin 1876, p. 4198, 1re col.</biblScope></bibl></cit> </re>
 </re>
@@ -11800,7 +11800,7 @@
 <quote>Il ne nous est pas libre d'éprouver ou non des nausées à son aspect</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Rech. philos. sur le beau, Oeuv. t. II, p. 472, dans POUGENS.</biblScope>
+<biblScope>Rech. philos. sur le beau, Œuv. t. II, p. 472, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -12252,7 +12252,7 @@
 </p>
 </note>
 <etym>Lat. napus, par l'intermédiaire d'un diminutif napetus.  <cit><quote>La tendance à changer le p en b ou v se trouve de très bonne heure : nabinam, navinam, dans la loi salique</quote><bibl><author>LASPEYRES</author><biblScope>p. 40</biblScope></bibl></cit> <cit><quote>Le simple existait dans l'ancienne langue : E les grasses viandes, chous e nes à user</quote><bibl><biblScope>Th. le mart. 93</biblScope></bibl></cit> <cit><quote>Il y avait aussi un autre diminutif : Li ewe où li naviel seront cuit assouage moult le pis [adoucit la poitrine]</quote><bibl><author>ALEBRANT</author><biblScope>f° 59</biblScope></bibl></cit> C'est de ce diminutif que viennent : Berry, naveaux, naviaux ; picard, naviau ; wallon, navai ; namur. navia.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAVET. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Navet de Suède, nom qui a été donné au rutabaga.</dictScrap>
@@ -12435,7 +12435,7 @@
 </p>
 </note>
 <etym>Bas-latin, naveta, petite barque (provenç. naveta ; ital. navetta, petite barque), diminutif du latin navis, nef. La navette d'église est ainsi dite à cause de sa forme comparée à celle d'une barque ; et la navette du tisserand, à cause de sa forme comparée à celle de la navette d'église. C'est à tort que Chateaubriand dit que la navette d'église a été dénommée d'après la navette de tisserand : L'urne qui renfermait les parfums imitait la forme d'une navette, Génie, IV, I, 2.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. NAVETTE. Ajoutez : </form>
 <sense n="8">
 <dictScrap>Nom, en Bretagne, d'une espèce d'échaudé faite de pâte de froment et en forme de navette.</dictScrap>
@@ -12714,7 +12714,7 @@
 <quote>L'astronomie et l'art de la navigation sont portés à un si haut point de perfection, qu'on peut raisonnablement espérer d'avoir un jour une connaissance exacte de la surface entière du globe</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Histoire naturelle, Preuv. théor. terr. Oeuvr. t. I, p. 328</biblScope>
+<biblScope>Histoire naturelle, Preuv. théor. terr. Œuvr. t. I, p. 328</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -12723,7 +12723,7 @@
 <quote>Quelle énorme quantité de gros arbres certains fleuves, comme le Mississipi, n'entraînent-ils pas dans la mer ! le nombre de ces arbres est si prodigieux qu'il empêche dans certaines saisons la navigation de ce large fleuve</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>3e Ép. nat. Oeuvr. t. XII, p. 158</biblScope>
+<biblScope>3e Ép. nat. Œuvr. t. XII, p. 158</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -12834,7 +12834,7 @@
 </p>
 </note>
 <etym>Lat. navigationem, de navigare, naviguer. On disait anciennement navigage, et plus anciennement encore naviage.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAVIGATION. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -12995,7 +12995,7 @@
 <quote>Les navires longs à un rang de rames [chez les anciens] s'appelaient aphractes, c'est-à-dire qu'ils n'étaient pas couverts, et n'avaient pas de pont ; on les distinguait par là des cataphractes qui en avaient</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. IV, p. 571, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. IV, p. 571, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -13348,7 +13348,7 @@
 <dictScrap>Hébreu qui faisait vœu de se laisser croître les cheveux et de ne point boire de vin. (Fl. Josèphe).</dictScrap>
 </sense>
 <etym>Hébreu, nazir, séparé, parce que ces hommes se séparaient de la vie commune.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NAZIRÉEN. Ajoutez : - REM. 1. </form>
 <re>Il vaudrait mieux définir les naziréens comme fait l'historien Josèphe : Hommes qui faisaient vœu de laisser croître leurs cheveux et de ne point boire de vin ; car le naziréat n'était point un sacerdoce. </re>
 <re>2. On a dit aussi nazarien ou nazaréen. Arnauld d'Andilly (Traduction de l'Histoire des Juifs de Josèphe, IV, 4), Dom Calmet, M. de Genoude emploient cette dernière forme, qui a l'inconvénient de signifier aussi un habitant de Nazareth. </re>
@@ -14231,7 +14231,7 @@
 </p>
 </note>
 <etym>Forme affaiblie du latin non. D'anciens textes conservent le non latin, en normand nen ; mais de très bonne heure aussi, non ou nen s'atténua en ne. Ne dans les textes rapportés à l'historique a souvent le sens de ni ; en cette acception il vient du latin nec. Dans l'ancienne langue, on trouve souvent ne employé sans aucune idée de négation pour et et ou.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NE. Ajoutez : </form>
 <sense n="20">
 <dictScrap>Ne, dans une phrase subordonnée par un que, peut avoir le sens de : s'empêcher de.</dictScrap>
@@ -14392,7 +14392,7 @@
 <quote>Il [Carle Vanloo] ne savait ni lire ni écrire ; il était né peintre, comme on naît apôtre</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 40, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 40, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -15188,7 +15188,7 @@
 <quote>On reproche à Louis XI d'avoir employé dans ses affaires des hommes de néant, préférablement à ceux que leur naissance semblait intéresser davantage au bien de l'État</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. III, p. 359</biblScope>
+<biblScope>Œuv. t. III, p. 359</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -15543,7 +15543,7 @@
 <quote>On dit que l'air y était si pur et si net, qu'il n'y avait pas de jour dans l'année, quelque nébuleux qu'il fût, où le soleil n'y parût</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuvr. t. III, p. 646</biblScope>
+<biblScope>Hist. anc. Œuvr. t. III, p. 646</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -15630,7 +15630,7 @@
 <quote>Les couches nébuleuses ont reparu</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Consid. corps organ. Oeuvr. t. VI, p. 265, dans POUGENS.</biblScope>
+<biblScope>Consid. corps organ. Œuvr. t. VI, p. 265, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -15675,7 +15675,7 @@
 </p>
 </note>
 <etym>Lat. nebulosus, de nebula, nuage.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉBULEUX. </form>
 <sense n="1">
 <dictScrap>Ajoutez : Si, en quelque jour un peu moins nébuleux qu'il n'en fait en ce temps-ci, vous vouliez me donner deux heures de votre temps pour aller achever l'habit de votre portrait, Nanteuil à Mlle de Scudéry, dans Mlle de Scudéry, p. 502, par Rathery et Boutron, Paris, 1873.</dictScrap>
@@ -15969,7 +15969,7 @@
 <quote>Les lois de l'équilibre et du mouvement, telles que l'observation les fait connaître, sont de vérité nécessaire</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Traité de dynam. Oeuvres, t. IV, p. 230, dans POUGENS.</biblScope>
+<biblScope>Traité de dynam. Œuvres, t. IV, p. 230, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -16076,7 +16076,7 @@
 <quote>Les sujets ne sont assurés du nécessaire que lorsque les princes s'interdisent le superflu</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. V, p. 52</biblScope>
+<biblScope>Œuvr. t. V, p. 52</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -16188,7 +16188,7 @@
 </p>
 </note>
 <etym>Bourguig. necessare ; provenç. necessari ; espag. necesario ; ital. necessario ; du lat. necessarius (voy. <ref target="nécessité">NÉCESSITÉ</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NÉCESSAIRE. - HIST. Ajoutez : XIIe s.  <cit><quote>Et par signes lor demostrot, Que c'iert que plus devoient fere, Et qui plus lor iert necessaire</quote><bibl><author>BENOIT</author><biblScope>Roman de Troie, V. 14802</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -16987,7 +16987,7 @@
 <sense n="3">
 <dictScrap>Rendu nécessaire, en parlant des choses. Une conduite nécessitée par les circonstances.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉCESSITÉ. Ajoutez : </form>
 <sense n="14">
 <dictScrap>Manque.</dictScrap>
@@ -17164,7 +17164,7 @@
 </p>
 </note>
 <etym>Voy. <ref target="nécessité">NÉCESSITÉ</ref>.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉCESSITEUX. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Nécessiteux de, qui manque de.</dictScrap>
@@ -18119,7 +18119,7 @@
 <quote>En disant que la loi était athée, on ne voulait pas dire que la loi fût l'œuvre de philosophes négateurs d'un être suprême....</quote>
 <bibl>
 <author>CARREL</author>
-<biblScope>Oeuv. t. IV, p. 331</biblScope>
+<biblScope>Œuv. t. IV, p. 331</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -18399,7 +18399,7 @@
 </p>
 </note>
 <etym>Provenç. negatiu ; espagn. et ital. negativo ; du lat. negativus, de negare, nier.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉGATIF. Ajoutez : </form>
 <sense n="11">
 <dictScrap>Terme de droit.</dictScrap>
@@ -18625,7 +18625,7 @@
 <quote>Quoi qu'il [Louis XI] fût toujours fort négligé dans ses habits</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr t. II, p. 179</biblScope>
+<biblScope>Œuvr t. II, p. 179</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -18658,7 +18658,7 @@
 <quote>Zélide, toute négligée, brillait davantage</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Hist. Alcidalis, Oeuvr. t. II, p. 289</biblScope>
+<biblScope>Hist. Alcidalis, Œuvr. t. II, p. 289</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -18771,7 +18771,7 @@
 </sense>
 </sense>
 <etym>Négliger.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉGLIGEABLE. </form>
 <re>On trouve aussi négligible. Une quantité négligible, STE-BEUVE, Port-Royal, t. III, p. 414, 3e éd. Négligeable est plus usité ; mais négligible n'est pas incorrect, puisqu'on a exigible d'exiger ; mais négligible est tout à fait inutile à côté de négligeable. </re>
 </re>
@@ -18863,7 +18863,7 @@
 </p>
 </note>
 <etym>Négligent, et le suffixe ment. Negligentement a été refait quand le féminin des adjectifs en ent devint ente.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉGLIGEMENT. Ajoutez : - HIST. XVIe s. </form>
 <cit>
 <quote>Les subsides outrés, les negligements du commerce, du trafic, le grand nombre de charges...</quote>
@@ -19353,7 +19353,7 @@
 <quote>Vous aux pieds d'un cruel qui a pu vous négliger, qui fait couler vos pleurs, qui doit seul en verser !</quote>
 <bibl>
 <author>Mme RICCOBONI</author>
-<biblScope>Marg. de Pressy, Oeuvr. t. II, p. 85, dans POUGENS</biblScope>
+<biblScope>Marg. de Pressy, Œuvr. t. II, p. 85, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -19885,7 +19885,7 @@
 <quote>Les ressorts des négociations doivent être inconnus, même après leur effet ; il faut les faire jouer sans bruit, et sacrifier courageusement à la solide utilité tout l'honneur de la conduite la plus prudente et la plus délicate</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Rép. card. Dubois, Oeuvres, t. III, p. 318, dans POUGENS.</biblScope>
+<biblScope>Rép. card. Dubois, Œuvres, t. III, p. 318, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -19942,7 +19942,7 @@
 </p>
 </note>
 <etym>Lat. negotiationem, de negotiari, négocier.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉGOCIATION. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Anciennement, le négoce, le commerce.</dictScrap>
@@ -20120,7 +20120,7 @@
 </p>
 </note>
 <etym>Lat. negotiari, de negotium (voy. <ref target="négoce">NÉGOCE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉGOCIER. </form>
 <sense n="1">
 <dictScrap>V. n. Faire négoce. Ajoutez :</dictScrap>
@@ -20163,7 +20163,7 @@
 <quote>On ne trouve des nègres que dans les climats de la terre où toutes les circonstances sont réunies pour produire une chaleur constante et excessive</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Homme, Oeuvr. t. v, p. 225</biblScope>
+<biblScope>Hist. nat. Homme, Œuvr. t. v, p. 225</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -20233,7 +20233,7 @@
 <sense n="4">
 <dictScrap>S. m. Nègre blanc, nom qu'on a donné aux albinos, à cause qu'on a cru d'abord que l'albinisme était particulier aux nègres, et formait parmi eux une race distincte.</dictScrap>
 <sense>
-<dictScrap>Nègres pies, nègres produits par le croisement d'une négresse blanche avec un nègre noir (BUFFON, Suppl. à l'hist. nat. Oeuvr. t. XI, p. 390).</dictScrap>
+<dictScrap>Nègres pies, nègres produits par le croisement d'une négresse blanche avec un nègre noir (BUFFON, Suppl. à l'hist. nat. Œuvr. t. XI, p. 390).</dictScrap>
 </sense>
 </sense>
 <sense n="5">
@@ -20691,7 +20691,7 @@
 </cit>
 </sense>
 <sense n="5">
-<dictScrap>Oeufs à la neige, plat sucré composé de blancs d'œufs battus en neige ferme et jetés quelques minutes dans du lait bouillant. Avec le reste du lait, les jaunes d'œufs, quelques aromates, on fait une crème qui se sert autour des blancs en neige.</dictScrap>
+<dictScrap>Œufs à la neige, plat sucré composé de blancs d'œufs battus en neige ferme et jetés quelques minutes dans du lait bouillant. Avec le reste du lait, les jaunes d'œufs, quelques aromates, on fait une crème qui se sert autour des blancs en neige.</dictScrap>
 </sense>
 <sense n="6">
 <dictScrap>Dentelle de peu de valeur.</dictScrap>
@@ -20832,7 +20832,7 @@
 </p>
 </note>
 <etym>Wallon, nivaie ; namur. nive ; Hainaut, nive ; bourg. noge ; provenç. nicx, neu, nieu ; cat. neu ; esp. nieve ; port. et ital. neve ; du lat. nix, nivem, anc. lat. ninguis, dans Lucrèce ; grec, il neige. Comparez le goth. snaivs, l'anc. h. all. sneo, l'all. Schnee, l'angl. snow, l'anc. irl. sneachta. Les formes germaniques et celtiques annoncent qu'en latin et en grec une s initiale est tombée ; tout cela conduit au sanscrit snih, être humide. Le français a deux formes : neif, noif, qui vient de nix, nivem, et neige, qui vient de nivea, pris substantivement. Quant au wallon nivaie, il vient de nivalia.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NEIGE. Ajoutez : </form>
 <sense n="10">
 <dictScrap>Arbre de neige, plusieurs arbrisseaux à fleurs blanches nombreuses, tels que le viburnum opulus, BAILLON, Dict. de botan. p. 257.</dictScrap>
@@ -20868,7 +20868,7 @@
 <sense n="3">
 <dictScrap>S. m. Petit neigé, l'agaric blanc.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NEIGÉ. Ajoutez : - REM. Comme Chateaubriand, Michelet s'est servi de l'adjectif neigé : Ces hauts vallons sont neigés six mois par an. </re>
 </re>
 </entry>
@@ -21141,7 +21141,7 @@
 <dictScrap>Titre d'un recueil de poésies satiriques composées sous le règne de Louis-Philippe par Barthélemy.</dictScrap>
 </sense>
 <etym>Terme grec signifiant proprement partage au sort, puis, dans la mythologie, la déesse du sort, et particulièrement la déesse du sort malheureux que les dieux envoient à l'homme par vengeance ou même par jalousie ; de là le sens de colère des dieux, et, en général, indignation, colère.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NÉMÉSIS. Ajoutez : </form>
 <sense n="3">
 <dictScrap>La 128e planète télescopique, découverte en 1872 par M. Watson.</dictScrap>
@@ -22920,7 +22920,7 @@
 <quote>Le bon fer, c'est-à-dire le fer qui est presque tout nerf, est au moins cinq fois aussi tenace que le fer sans nerf et à gros chaînons</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. Introd. Oeuvr. t. VII, p. 66</biblScope>
+<biblScope>Hist. min. Introd. Œuvr. t. VII, p. 66</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -23349,7 +23349,7 @@
 <quote>Le fer en bandes plates est toujours plus nerveux que le fer en barreaux</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. Introd. Oeuv. t. VII, p. 74</biblScope>
+<biblScope>Hist. min. Introd. Œuv. t. VII, p. 74</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -23843,7 +23843,7 @@
 <quote>Après cette première préparation, qui est tout ce qu'on peut faire par le moyen du lavoir et des cribles, la mine était assez nette pour pouvoir être mise en fourneau</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. Introd. Oeuv. t. VIII, p. 81</biblScope>
+<biblScope>Hist. min. Introd. Œuv. t. VIII, p. 81</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -23971,7 +23971,7 @@
 <quote>J'apprends dans le moment que cet agent de la société [des jésuites] vient d'être chassé de Rome, et, ce qui ne vous fera pas moins de plaisir, que l'agent des jansénistes en a été chassé le même jour ; cela s'appelle faire maison nette et bonne justice</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Destruct. des jés. Oeuvres, t. V, p. 228, dans POUGENS.</biblScope>
+<biblScope>Destruct. des jés. Œuvres, t. V, p. 228, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -24094,7 +24094,7 @@
 <quote>Polybe nous donne en peu de mots une idée fort nette de l'espace des lieux que devait traverser Annibal pour arriver en Italie</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 383, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 383, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -24209,7 +24209,7 @@
 <quote>Le premier président, qui ne se sentait pas net et désirait fort s'éclaircir de ce que le régent pouvait en savoir, lui fit demander une audience secrète</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. VI, p. 7</biblScope>
+<biblScope>Œuvr. t. VI, p. 7</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -24552,7 +24552,7 @@
 </p>
 </note>
 <etym>Bourg. nai ; provenç. net, ned, nede ; cat. net ; esp. neto ; port. nedeo ; ital. netto ; du lat. nitidus (qui a l'accent sur ni), brillant, poli, net.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NET. Ajoutez : </form>
 <sense n="15">
 <dictScrap>Dans le langage des ouvriers, atelier net, atelier que des ouvriers mettent en interdit et où ils défendent que d'autres travaillent.</dictScrap>
@@ -24639,7 +24639,7 @@
 <quote>Il jugea plus à propos d'avoir un éclaircissement avec le roi, et de s'expliquer nettement avec lui</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 495, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 495, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -24837,7 +24837,7 @@
 <quote>La netteté du travail, et l'excellence du goût</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Salon de 1765, Oeuv. t. XIII, p. 350, dans POUGENS</biblScope>
+<biblScope>Salon de 1765, Œuv. t. XIII, p. 350, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -25108,7 +25108,7 @@
 <quote>Elle [la flotte] était composée de soixante galères à cinq rangs de rames, qui étaient pleines d'hommes armés d'arcs, de frondes et de dards, pour nettoyer les murailles</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Histoire anc. Oeuvr. t. X, p. 69, dans POUGENS</biblScope>
+<biblScope>Histoire anc. Œuvr. t. X, p. 69, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -25410,14 +25410,14 @@
 <quote>Le sexe en esprit nous surpasse ; Et l'on compte sur le Parnasse Neuf Muses contre un Apollon</quote>
 <bibl>
 <author>PANARD</author>
-<biblScope>Chans. et Vaudev. Oeuv. t. III, p. 399, dans POUGENS.</biblScope>
+<biblScope>Chans. et Vaudev. Œuv. t. III, p. 399, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>La toile [d'un tableau], comme la salle à manger de Varron : jamais plus de neuf convives</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Pensées sur la peinture, Oeuv. t. XV, p. 207, dans POUGENS.</biblScope>
+<biblScope>Pensées sur la peinture, Œuv. t. XV, p. 207, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26239,7 +26239,7 @@
 <quote>Ce est souvent substantif, c'est le hoc des Latins ; alors, quoi qu'en disent nos grammairiens, ce est du genre neutre</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 296</biblScope>
+<biblScope>Œuv. t. IV, p. 296</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26252,7 +26252,7 @@
 <quote>Il y a des mots qui marquent de simples propriétés ou manières d'être, de simples situations, et même des actions, mais qui n'ont point de patient ou d'objet qui en soit le terme ; c'est ce qu'on appelle le sens neutre ; neutre veut dire ni l'un ni l'autre, c'est-à-dire ni actif, ni passif</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. III, p. 202</biblScope>
+<biblScope>Œuv. t. III, p. 202</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26312,7 +26312,7 @@
 <quote>Dans le mouvement général de la Grèce armée en faveur des Phocéens ou des Thébains, Philippe avait cru devoir demeurer neutre</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuvr. t. VI, p. 37, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuvr. t. VI, p. 37, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -26449,7 +26449,7 @@
 </p>
 </note>
 <etym>Provenç. neutri ; cat. neutre ; esp. et ital. neutro ; du lat. neuter, ni l'un ni l'autre, formé de ne, ni, et uter, l'un des deux.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NEUTRE. Ajoutez : </form>
 <sense n="8">
 <dictScrap>Qui n'est ni bon ni mauvais.</dictScrap>
@@ -26594,7 +26594,7 @@
 </p>
 </note>
 <etym>Neuf, et la finale ième, qui répond à la finale latine numérale esimus. L'anc. franç. noefme, nueme, où noe, nue est un monosyllabe, vient d'une forme fictive novemus (accent bref sur le e), novimus (accent bref sur le i ).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NEUVIÈME. - HIST. </form>
 <re>XIIIe s.  Ajoutez : <cit><quote>Les XIII vergues [verges] qui sunt el camp [champ] de Biare doivent nueme garbe [gerbe]</quote><bibl><biblScope>Charte du Vermandois, dans Bibl. des ch. 1874, XXXV, p. 443</biblScope></bibl></cit> </re>
 </re>
@@ -26754,7 +26754,7 @@
 <quote>Guillaume Dubois, né en 1656, était fils ou neveu, car on n'est pas d'accord sur sa généalogie, d'un pauvre apothicaire de Brives-la-Gaillarde, en Limosin</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Art. du card. Dubois, Oeuv. t. X, p. 86, dans POUGENS.</biblScope>
+<biblScope>Art. du card. Dubois, Œuv. t. X, p. 86, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -26890,7 +26890,7 @@
 </p>
 </note>
 <etym>Provenç. neps, nebs, nebot ; esp. nieto ; port. neto ; ital. nepote, nipote ; du lat. nepos, nepotem, petit-fils, et plus tard neveu. Le vieux français niés, le provençal neps, nebs, est le nominatif, répondant au latin nepos, avec l'accent sur nep ; nevou, neveu, nebot, est le régime et répond à nepotem, avec l'accent sur po. Nepos est parallèle à l'allemand Neffe ; inscription persane, nepa ; zend, naptar ; sanscr. naptri, tous mots qu'Eugène Burnouf rattache au sanscrit nabhi (a accent long ), nombril et race.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NEVEU. - HIST. </form>
 <re>XIIIe s. Ajoutez : <cit><quote>Por l'amor de lor oncle [ils] ont tuit le roi guerpi ; Por ce dit on encore : ainz venge [vienne] niez que fiz</quote><bibl><biblScope>Aye d'Avignon, V. 2669</biblScope></bibl></cit> </re>
 </re>
@@ -27231,7 +27231,7 @@
 <quote>Les calculs analytiques des mouvements de la lune ont sans doute été portés à un assez grand degré de précision pour nous convaincre que l'attraction newtonienne est en effet la vraie cause des inégalités qu'on observe dans le mouvement de cette planète</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Disc. prélim. Syst. monde, Oeuvr. t. XIV, p. 137, dans POUGENS.</biblScope>
+<biblScope>Disc. prélim. Syst. monde, Œuvr. t. XIV, p. 137, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -27370,7 +27370,7 @@
 <quote>Le nez est la partie la plus avancée et le trait le plus apparent du visage ; mais, comme il n'a que très peu de mouvement, et qu'il n'en prend ordinairement que dans les plus fortes passions, il fait plus à la beauté qu'à la physionomie</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. homme, Oeuv. t. IV, p. 292</biblScope>
+<biblScope>Hist. nat. homme, Œuv. t. IV, p. 292</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -28477,7 +28477,7 @@
 </p>
 </note>
 <etym>Wallon, nase ; namur. nâz' ; provenç. nas, naz ; ital. naso ; du lat. nasus ; russe, nós ; sanscr. nas, nasa (accent long sur les deux a).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NEZ. Ajoutez : </form>
 <sense n="18">
 <dictScrap>Populairement. Prendre son nez pour ses fesses, s'est dit autrefois comme on dit aujourd'hui : prendre son cul pour ses chausses.</dictScrap>
@@ -29147,7 +29147,7 @@
 </p>
 </note>
 <etym>Provenç. ne, ni ; anc. esp. ne ; esp. mod. ni ; port. nem ; ital. ne ; du lat. nec. L'ancien français est toujours ne ; on voit apparaître ni dans les écrits de Froissart ; puis dans le XVIe siècle ni s'introduit et entre en lutte avec ne, et souvent dans la même phrase on trouve les deux. Enfin dans le XVIIe siècle ne n'est plus qu'un archaïsme, aujourd'hui complétement tombé en désuétude, excepté quand on répète en plaisantant le ne plus ne moins du Malade imaginaire.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NI. - REM. Ajoutez : </form>
 <re>3.  <cit><quote>Saint-Simon a dit : Le prince de Conti me conta qu'il n'avait jamais été si embarrassé, ni tant souffert de sa vie</quote><bibl><author>SAINT-SIMON</author><biblScope>78, 16</biblScope></bibl></cit> On rendrait cette phrase plus usuelle en mettant : et n'avait tant souffert de sa vie. L'ellipse préférée par Saint-Simon est dure, mais non incorrecte. </re>
 <re>4. Remarquez cette tournure de Bossuet, très bonne d'ailleurs : <cit><quote>Il [Jurieu] ne connaît guère ce que c'est ni que l'esprit ni que le cœur</quote><bibl><author>BOSSUET</author><biblScope>2e avert. 16</biblScope></bibl></cit> </re>
@@ -29877,7 +29877,7 @@
 <quote>Votre idée d'élever différemment des quadrupèdes de la même portée ou des oiseaux de la même nichée est excellente</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Lett. divers. Oeuv. t. XII, p. 468, dans POUGENS</biblScope>
+<biblScope>Lett. divers. Œuv. t. XII, p. 468, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -30085,7 +30085,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Oeuf qu'on met dans un nid pour que les poules y aillent pondre.</dictScrap>
+<dictScrap>Œuf qu'on met dans un nid pour que les poules y aillent pondre.</dictScrap>
 </sense>
 <etym>Nicher ; Berry et génev. niau.</etym>
 </entry>
@@ -30291,7 +30291,7 @@
 <dictScrap>Nom propre devenu nom commun pour signifier, dans le langage populaire, un homme simple et borné, un niais. C'est un grand nicodème (on met une n minuscule).</dictScrap>
 </sense>
 <etym>Nom propre grec dérivé du verbe vaincre et terme grec signifiant peuple. Peut-être est-ce nigaud, qui a déterminé le sens défavorable.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NICODÈME. - ÉTYM. Ajoutez : M. Éman Martin, Courrier de Vaugelas, 15 oct. 1875, p. 91, donne une explication très plausible du sens d'homme borné qu'a reçu Nicodème. Il cite le passage suivant d'un mystère où Nicodème a de la peine à comprendre la parole de Jésus : Jésus : Certes je te dis et afferme : Qui regeneré ne sera De l'eauve qui le lavera En la vertu du sainct esperit, Lequel sera baptesme dit, Jamais ne pourra pour certain Avoir part au regne haultain. - Nicodème : Je ne vous entens point. - Jésus : Comment.... Tu es docteur en Israël Et maistre en la loy solempnel, Qui entens bien les escriptures ; Dis je parolles si obscures Que tu ne les peulx pas comprendre ? M. E. Martin ajoute : " Pour qui sait combien les mystères furent populaires au moyen âge (on les représentait dans les églises), il est évident que c'est le rôle joué par Nicodème dans la scène que je viens de reproduire en partie, qui a fait prendre son magnifique nom (vainqueur des peuples) dans le sens de niais, d'imbécile, d'homme simple, borné, qu'il a conservé dans la langue familière de nos jours. À Nicodème, on ajoute quelquefois dans la lune. C'est une allusion à un personnage d'une pièce de Beffroy de Reigny, plus connu sous le nom du Cousin Jacques, intitulée : " Nicodème dans la lune, ou la révolution pacifique, folie en prose et en trois actes, " et qui fut représentée pour la cinquantième fois, à Paris, le lundi 21 février 1791. " </re>
 </re>
 </entry>
@@ -30762,9 +30762,9 @@
 </p>
 </note>
 <etym>Wallon, ni ; provenç. niu, nieu, nis, ni ; esp. nido ; port. ninho ; ital. nido, nidio ; du lat. nidus, sanscr. nida (i accent long), qui est, dit Benfey, pour nisada, couvaison, proprement acte de s'asseoir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NID. - HIST. </form>
-<re>XVIe s. <cit><quote>Citadelles que les anciens Grecqs et Romains à fort bon droit appelloyent nids de tyrans</quote><bibl><biblScope>Oeuvres de M. de Sainte-Aldegonde, Bruxelles, 1859, p. 36</biblScope></bibl></cit> </re>
+<re>XVIe s. <cit><quote>Citadelles que les anciens Grecqs et Romains à fort bon droit appelloyent nids de tyrans</quote><bibl><biblScope>Œuvres de M. de Sainte-Aldegonde, Bruxelles, 1859, p. 36</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="nidification">
@@ -30908,7 +30908,7 @@
 <quote>M. Titon du Tillet, ancien maître d'hôtel ordinaire de la reine, âgé de 85 ans, lui recommanda [à Voltaire] la petite-nièce du grand Corneille, qui, étant absolument sans fortune, était abandonnée de tout le monde</quote>
 <bibl>
 <author>VOLT.</author>
-<biblScope>Comm. Oeuvr. aut. Henr.</biblScope>
+<biblScope>Comm. Œuvr. aut. Henr.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -30978,7 +30978,7 @@
 </p>
 </note>
 <etym>Picard, nelle, nèle ; génev. niolle ; provenç. niela ; catal. niella ; espagn. neguilla ; ital. nigella ; du lat. nigella planta, plante noire, diminutif de niger, noir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. NIELLE. Ajoutez : - ÉTYM. Le bas-lat.  </form>
 <cit>
 <quote>a niela dans un texte du Xe siècle</quote>
@@ -31112,7 +31112,7 @@
 <quote>Le blé niellé paraît renflé ou plus rempli que le blé sain ; cependant, si on le met dans l'eau, il surnagera</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Hist. nat. Mém. Oeuv. t. III, p. 226, dans POUGENS</biblScope>
+<biblScope>Hist. nat. Mém. Œuv. t. III, p. 226, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -31260,12 +31260,12 @@
 </p>
 </note>
 <etym>Nieller 2.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. NIELLURE. Ajoutez : </form>
 <cit>
 <quote>Parlons maintenant de la niellure, c'est-à-dire de la manière de fixer la nielle dans les creux gravés sur des plaques d'or et d'argent,....</quote>
 <bibl>
-<biblScope>Oeuvres de Benvenuto Cellini, trad. L. Léclanché, Traité de l'orfévrerie, ch. II ou t. II, p. 257</biblScope>
+<biblScope>Œuvres de Benvenuto Cellini, trad. L. Léclanché, Traité de l'orfévrerie, ch. II ou t. II, p. 257</biblScope>
 </bibl>
 </cit>
 </re>
@@ -31320,7 +31320,7 @@
 <quote>Des avantages qui ne puissent être ni disputés ni niés ; or c'est ce qu'on trouve dans la naissance et dans la fortune</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Ess. sur la soc. des g. de lett. Oeuvr. t. III, p. 62, dans POUGENS</biblScope>
+<biblScope>Ess. sur la soc. des g. de lett. Œuvr. t. III, p. 62, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -31353,7 +31353,7 @@
 <quote>Son désespoir à la mort de ses enfants, porté jusqu'à nier la Providence</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuvr. t. XI, 2e part, p. 735, dans POUGENS.</biblScope>
+<biblScope>Hist. anc. Œuvr. t. XI, 2e part, p. 735, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -31617,7 +31617,7 @@
 </p>
 </note>
 <etym>Origine inconnue. Diez, arguant de la finale aud, ald, qui indique d'ordinaire une provenance germanique, forme un type niwald, qu'il rapporte à l'anc. haut-ll. niuwi, niwi, neuf, novice. Faut-il le rapprocher du normand nichot, nijot, nigeou, vétilleux, lambin, nijoter, faire le paresseux, d'origine d'ailleurs inconnue, à moins qu'on n'y voie un dérive de nice ? Le mot populaire niguedouille, qui a à peu près le même sens, paraît de même radical. Enfin on doit citer comme très singulier mais voisin nigosseurement qui se trouve dans un texte du XVe siècle :  <cit><quote>Icellui Petit au suppliant : veez cy une lettre bien nigosseurement faicte. Et lors le dit suppliant demanda pourquoy ; et le dit Petit lui dist qu'il y avoit beaucoup plus de terres declarées dedans qu'il n'en estoit contenu au nombre d'icelles</quote><bibl><author>DU CANGE</author><biblScope>nativitas</biblScope></bibl></cit> On trouve aussi dans le XVIe siècle niquenoquer : <cit><quote>Quant je ne voudroie si sotement niquenocquer</quote><bibl><biblScope>Quintilien censeur, p. 184, dans LACURNE</biblScope></bibl></cit> Enfin l'anglais a niggard, avare, ladre, et to niggle, se moquer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NIGAUD. - ÉTYM. Ajoutez : M. Eugène Ritter (les Noms de famille, p. 15), citant les noms propres Nicard, Nicaud, Nigon, Nigaux, comme dérivés de Nicolas, demande si l'adjectif nigaud en est dérivé, comme benêt de benedictus. " Un sens défavorable, dit-il, est attaché à certains noms propres ; le changement de c en g n'est pas rare, témoin les noms de famille Glaudeau, Glaudin, Glaudon ; enfin la finale aud a été appliquée à beaucoup de noms et de mots qui ne sont pas, comme elle, d'origine germanique, et justement avec un sens péjoratif dans courtaud, lourdaud, rougeaud, rustaud, etc. " Cette dernière remarque est opposée à Diez, qui, à cause de la finale germanique aud, voyait dans nigaud un mot germanique. Les formes Nicaud, Nigon, Nigaux, donnent un certain crédit à la conjecture de M. Eugène Ritter. </re>
 </re>
 </entry>
@@ -31896,7 +31896,7 @@
 <quote>Fuyons le triste breuvage Dont les poissons font usage, Des dieux ce fatal fléau N'est que pour les niguedouilles, Eh pourquoi boire de l'eau ?</quote>
 <bibl>
 <author>PANARD</author>
-<biblScope>Chans. vaud. Oeuvr. t. III, p. 363, dans POUGENS</biblScope>
+<biblScope>Chans. vaud. Œuvr. t. III, p. 363, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -31931,7 +31931,7 @@
 <dictScrap>Se dit quelquefois aussi de l'idéalisme absolu.</dictScrap>
 </sense>
 <etym>Lat. nihil, rien, nulle chose, qui est composé de la négation ne et de hilum, point noir qui sert d'attache à la fève dans la cosse. On trouve dans le XVIe siècle nihilité.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NIHILISME. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Forme que le socialisme a prise en Russie, doctrine qui met la destruction de l'organisme social au rang de ses plus pressantes obligations et qui, pour le moment du moins, n'entend y rien substituer.</dictScrap>
@@ -31950,7 +31950,7 @@
 <dictScrap>Adj. Une philosophie nihiliste.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NIHILISTE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Nom, en Russie, des partisans du nihilisme ou socialisme russe.</dictScrap>
@@ -31989,7 +31989,7 @@
 <sense>
 <dictScrap>Espèce d'antilope, antilops picta, Gmelin.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NILGAUT. Ajoutez : - ÉTYM. Persan, nîl-guiâv, bœuf bleu, de nîl, bleu, et guiâv, bœuf. </re>
 </re>
 </entry>
@@ -32149,7 +32149,7 @@
 <sense n="2">
 <dictScrap>Terme de zoologie. Espèce de papillon.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NIOBÉ. Ajoutez : </re>
 <re>La 71e planète télescopique, découverte en 1864 par M. Luther. </re>
 </re>
@@ -32636,7 +32636,7 @@
 <sense>
 <dictScrap>Terme de chimie. Conversion en nitrate.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NITRATATION. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Emploi du nitrate d'argent pour la coloration des tissus animaux en brun, des épithéliums surtout.</dictScrap>
@@ -33626,7 +33626,7 @@
 <dictScrap>Nouveau système militaire créé par le sultan Sélim III à l'effet d'exercer des troupes turques à l'européenne, pour remplacer les janissaires.</dictScrap>
 </sense>
 <etym>Arabe, nizâm, règlement.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. NIZAM (ni-zam'), s. m. Titre d'un prince qui règne sur une grande partie du Dékhan.  </form>
 <cit>
 <quote>Le nizam ou surintendant du Dékhan, sous l'empire du Grand-Mogol, se rendit indépendant dans le XVIIIe siècle ; en devenant prince souverain, il n'a pas changé de titre</quote>
@@ -34039,7 +34039,7 @@
 <quote>Quelle est donc la marque infaillible pour savoir si, dans les anciens, un tour, une image, une comparaison, un mot est noble ou ne l'est pas ?</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. VIII, p. 506, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. VIII, p. 506, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -34637,7 +34637,7 @@
 <quote>Un marchand nommé Maître Jean, séduit par les bontés du roi [Louis XI], qui le faisait souvent manger avec lui, s'avisa de lui demander des lettres de noblesse ; ce prince les lui accorda ; mais, lorsque le nouveau noble parut devant lui, il affecta de ne le pas regarder</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. III, p. 341</biblScope>
+<biblScope>Œuv. t. III, p. 341</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -34901,7 +34901,7 @@
 <quote>La noblesse des termes est indépendante de l'idée ; c'est l'usage qui la donne ou qui la refuse à son gré</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuvr. t. VI, p. 185</biblScope>
+<biblScope>Œuvr. t. VI, p. 185</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -35019,7 +35019,7 @@
 </p>
 </note>
 <etym>Provenç. nobleza, noblessa ; espagn. nobleza ; portug. nobreza ; anc. ital. nobilezza ; d'un thème fictif nobilitia (comme paresse, de pigritia), qui vient de nobilis, noble. On a dit aussi nobleté, de nobilitatem.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOBLESSE. Ajoutez : - REM. Le mot devenu proverbial : noblesse oblige, ne paraît pas ancien ; du moins tout porte à croire qu'il est dû au duc de Lévis, qui commence par là un chapitre sur la noblesse, Maximes, préceptes et réflexions, p. 86, 5e éd. Paris, 1825. </re>
 </re>
 </entry>
@@ -35293,7 +35293,7 @@
 </p>
 </note>
 <etym>Provenç. nossas ; espagn. et portug. nupcias ; ital. nozze ; du lat. nuptiae, de nuptum, supin de nubere, se marier (voy. <ref target="nubile">NUBILE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOCE. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Noces d'or, nom donné à la fête de cinquante ans de mariage.</dictScrap>
@@ -35441,7 +35441,7 @@
 <quote>La torche nocière, ondoyante, Lançait mille divins éclairs Dessus la terre et dans les airs</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Poés. Oeuv. t. II, p. 177</biblScope>
+<biblScope>Poés. Œuv. t. II, p. 177</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -35833,7 +35833,7 @@
 </sense>
 </sense>
 <etym>Lat. nodus, nœud.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NODAL. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Terme d'optique. Points nodaux d'une lentille, ou, plus généralement, d'un système réfringent formé de plusieurs milieux séparés par des surfaces sphériques ayant leurs centres en ligne droite, les deux points tels qu'à tout rayon incident dont la direction passe par le premier point nodal correspond un rayon émergent qui est parallèle au rayon incident et dont la direction passe par le second point nodal.</dictScrap>
@@ -35907,7 +35907,7 @@
 </p>
 </note>
 <etym>Provenç. nodiozitat ; ital. nodosità ; du lat. nodositatem, de nodosus, noueux.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NODOSITÉ </form>
 <sense n="2">
 <dictScrap>Ajoutez :</dictScrap>
@@ -36081,7 +36081,7 @@
 <quote>Ceux qui étaient présents firent éclater leur joie en criant noël, qui était alors le cri de réjouissance</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. I, p. 391</biblScope>
+<biblScope>Œuv. t. I, p. 391</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -36156,7 +36156,7 @@
 </p>
 </note>
 <etym>Wallon, noié ; Hainaut, noé ; bourg. noei ; Bresse, noyé ; picard, noué ; Berry, nau, nô ; provenç. nadal, nadau ; esp. et port. natal ; ital. natale ; du lat. natalis, de naissance (voy. <ref target="natal">NATAL</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOËL. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe"><form>Noël gelé promet Pâques fleuries</form>, c'est-à-dire s'il gèle à Noël, il y aura des fleurs à Pâques. </re>
@@ -36307,7 +36307,7 @@
 <quote>Ayant pris sa ville, il [Alexandre] eut envie de voir le fameux chariot où était attaché le nœud gordien ; ce nœud, qui attachait le joug au timon, était fait si adroitement, et le lien faisait tant de tours et de détours, qu'on ne pouvait découvrir ni où il commençait, ni où il finissait</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 213, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 213, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -36622,7 +36622,7 @@
 <quote>Notre liaison s'est fortifiée, et la disgrâce en a resserré les nœuds</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. X, p. 53</biblScope>
+<biblScope>Œuv. t. X, p. 53</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -36778,7 +36778,7 @@
 <quote>On sait qu'un nœud est une espèce de cheville adhérente à l'intérieur du bois ; on peut même connaître à peu près, par le nombre des cercles annuels qu'il contient, la profondeur à laquelle il pénètre</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. part. exp. Oeuvr. t. VIII, p. 182, dans POUGENS.</biblScope>
+<biblScope>Hist. nat. part. exp. Œuvr. t. VIII, p. 182, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -36956,7 +36956,7 @@
 </p>
 </note>
 <etym>Berry, noud ; picard, nou ; wallon, nouk ; namur. nuk ; prov. not, no ; cat. nu ; esp. nudo ; port. no, nodo ; ital. nodo et nocchio ; du lat. nodus pour gnodus, comme le montrent les formes germaniques : angl. knot ; all. Knoten ; anc. haut all. chnodo. Noiel, qui se trouve dans d'anciens textes, vient de nodellus, diminutif de nodus.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NŒUD. Ajoutez : </form>
 <sense n="27">
 <dictScrap>Énumération des différentes espèces de nœuds. Nœud simple. nœud résultant d'une boucle dans laquelle on a fait entrer le brin qui passe sur l'autre, en le faisant tourner sous ce même brin.</dictScrap>
@@ -37071,7 +37071,7 @@
 <quote>On a découvert un continent entier, un nouveau monde dont la plus grande partie des terres habitées se trouve dans la zone torride, et où cependant il ne se trouve pas un homme noir, tous les habitants de cette partie de la terre étant plus ou moins rouges, plus au moins basanés ou couleur de cuivre</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. homme, Oeuvr. t. V, p. 169</biblScope>
+<biblScope>Hist. nat. homme, Œuvr. t. V, p. 169</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -37359,7 +37359,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Oeil noir, regard noir, œil, regard où se peint la colère, le soupçon, etc.</dictScrap>
+<dictScrap>Œil noir, regard noir, œil, regard où se peint la colère, le soupçon, etc.</dictScrap>
 <cit>
 <quote>Que vous me divertissez tous deux ! vous vous taisez, vous me regardez d'un œil noir</quote>
 <bibl>
@@ -37476,7 +37476,7 @@
 <quote>Son âme noire, inquiète et turbulente [de Charles le Mauvais] n'enfantait que des projets de désordre et de bouleversement</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuvr. t. V, p. 119, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuvr. t. V, p. 119, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -37707,7 +37707,7 @@
 <quote>Bailli était fort suspect de jansénisme, la plus noire des taches aux yeux du roi [Louis XIV]</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. V, p. 56</biblScope>
+<biblScope>Œuv. t. V, p. 56</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -37895,7 +37895,7 @@
 <quote>Florice, quittons le noir, je vous en prie, ou, s'il faut que nous soyons en deuil, que ce ne soit que pour votre absence</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Oeuvr. t. II, p. 1</biblScope>
+<biblScope>Œuvr. t. II, p. 1</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -38022,7 +38022,7 @@
 <quote>L'origine des noirs a, dans tous les temps, fait une grande question ; les anciens, qui ne connaissaient que ceux de Nubie, les regardaient comme faisant la dernière nuance des peuples basanés, et il les confondaient avec les Ethiopiens et les autres nations de cette partie de l'Afrique, qui, quoique extrêmement bruns, tiennent plus de la race blanche que de la race noire</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. homme, Oeuv. V, p. 165</biblScope>
+<biblScope>Hist. nat. homme, Œuv. V, p. 165</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -38109,7 +38109,7 @@
 <quote>La comtesse se contenta de me regarder fort noir</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>Mém. des colporteurs, Oeuv. t. X, p. 240, dans POUGENS.</biblScope>
+<biblScope>Mém. des colporteurs, Œuv. t. X, p. 240, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -38256,7 +38256,7 @@
 </p>
 </note>
 <etym>Wallon, neûr ; provenc. negre, nier, ner ; espagn. et ital. negro, nero ; du lat. niger.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOIR. Ajoutez : </form>
 <sense n="30">
 <dictScrap>Populairement, un petit noir.</dictScrap>
@@ -38332,7 +38332,7 @@
 <quote>Cette couleur des Hottentots, dont la noirceur ne peut avoir été affaiblie que par la température du climat</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. homm. Oeuv. t. V, p. 222</biblScope>
+<biblScope>Hist. nat. homm. Œuv. t. V, p. 222</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -38476,7 +38476,7 @@
 <quote>La colère du roi [Alexandre] étant comme éteinte tout à coup dans le sang de Clitus, son crime se montra alors à lui, avec toute son énormité et toute sa noirceur</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VI, p. 462, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VI, p. 462, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -38542,7 +38542,7 @@
 <quote>Les noirceurs secrètes, tous les petits moyens que l'ignorance et l'envie savent si bien mettre en usage contre ce qui leur nuit ou leur déplaît, sont employés pour perdre ce dangereux novateur [Rameau]</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Lib. de la mus. Oeuv. t. III, p. 341, dans POUGENS</biblScope>
+<biblScope>Lib. de la mus. Œuv. t. III, p. 341, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -38586,7 +38586,7 @@
 </p>
 </note>
 <etym>Dérivation irrégulière de noir (voy. <ref target="noircir">NOIRCIR</ref>). À côté de noirceur, il y avait neror, tiré directement du latin nigrorem, et noireté.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOIRCEUR. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Synonyme de nielle.</dictScrap>
@@ -38635,7 +38635,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NOIRCI. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Teint en noir.</dictScrap>
@@ -39095,7 +39095,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NOIREMENT. Ajoutez : - HIST. XIIIe s.  <cit><quote>Tous clercs heent moult noirement [les vilains haïssent noirement tous les clercs]</quote><bibl><author>GAUTIER DE COINSY</author><biblScope>les Miracles de la sainte Vierge, p. 626, éd. abbé Poquet.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -39460,7 +39460,7 @@
 </p>
 </note>
 <etym>Diminutif de noix ; picard, neusette, nesette ; wall. neûhe ; namur. neûje ; Hain. neuséte, noséte, nogéte. La langue avait aussi un autre diminutif qui était nosille, et qui dure dans plusieurs patois : Berry, noisille, nousille ; bourguig. neusille.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOISETTE. - HIST. Ajoutez : XIIIe s.  <cit><quote>Qui laisse le grain pour la paille Et lait le noiel pour l'eschaille Quant la noisete est depecie, Il m'est vis qu'il fait folie</quote><bibl><author>ADENES</author><biblScope>Cleomades, publ. par Van Hasselt, V. 16085</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -39684,7 +39684,7 @@
 </p>
 </note>
 <etym>Bourg. noei ; Berry, noue ; picard, nos ; wallon, lémoscade, némoscade, noix muscade ; provenç. notz ; catal. nou ; espagn. nuez ; portug. noz ; ital. noce ; du lat. nucem. L'anglo-saxon hnut ; anc. haut allem. hnuz font penser qu'ici, comme dans nosco, natus, le latin a perdu une initiale gutturale ; ce serait donc gnucem. Le latin et les formes germaniques rapprocheraient ce nom de nodus, gnodus ; et ce rapprochement s'applique bien à tous les fruits à coque ligneuse.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOIX. Ajoutez : </form>
 <sense n="15">
 <dictScrap>Noix de gaïac, voy. <ref target="tonca">TONCA</ref>.</dictScrap>
@@ -39746,7 +39746,7 @@
 </p>
 </note>
 <etym>Lat. noli, ne veuille pas (impératif de nolle, contraction de non velle), me, moi, et tangere, toucher : ne me touche pas.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOLI ME TANGERE. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -40055,7 +40055,7 @@
 <quote>Les païens portaient la superstition jusqu'à croire qu'il y avait des noms plus agréables aux dieux les uns que les autres, et sous lesquels ils aimaient mieux être invoqués</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. I, p. 66</biblScope>
+<biblScope>Œuv. t. I, p. 66</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -40076,7 +40076,7 @@
 <quote>La Vénus de Lemnos fut le seul ouvrage auquel Phidias osa mettre son nom</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Observ. sur la sculpt. Oeuv. t. XV, p. 310, dans POUGENS.</biblScope>
+<biblScope>Observ. sur la sculpt. Œuv. t. XV, p. 310, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -40301,7 +40301,7 @@
 <quote>Ce ne fut que vers la fin de la seconde race que, les fiefs, qui n'étaient auparavant qu'à vie, étant devenus héréditaires, on prit le nom du fief que l'on possédait, et ce nom devint aussi héréditaire dans les familles</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuv. t. IV, p. 254, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuv. t. IV, p. 254, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <dictScrap>Longtemps dans le moyen âge, on désigna les individus par le nom de baptême auquel on ajoutait le nom du père, de cette façon : Johannes Petri, Jean fils de Pierre, ce qui se disait en français, par l'effet de la règle des deux cas : Jean Pierre ; beaucoup de noms ainsi faits sont devenus des noms de famille.</dictScrap>
@@ -40616,7 +40616,7 @@
 <quote>Il [Philopémen] s'en retourna chez les Achéens avec un si grand nom, qu'à son arrivée il fut fait général de la cavalerie</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. VIII, p. 135, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. VIII, p. 135, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -41171,9 +41171,9 @@
 <re type="proverbe">Cette expression a aussi un sens tout différent : Vous ne lui direz pas plus haut que son nom, signifie que ce nom est si illustre qu'on n'en peut pas trouver de plus élevé. </re>
 <note type="remarque">
 <p>1. Le nom propre, étant destiné à distinguer une personne d'une autre, n'est susceptible ni de l'idée ni de la marque du pluriel. Mais il y a quatre exceptions à cette règle :</p> 
-<p>1° on le considère comme le nom propre de toute une classe d'hommes et non plus seulement comme le nom propre d'un individu ; dans ce cas on dit au pluriel et avec l's : les Henris, les Bourbons, les Stuarts, les douze Césars, etc. <cit xmlns="http://www.tei-c.org/ns/1.0"><quote>La Seine a des Bourbons, le Tibre a des Césars</quote><bibl><author>BOILEAU</author><biblScope>Ép. I</biblScope></bibl></cit> </p> 
+<p>1° on le considère comme le nom propre de toute une classe d'hommes et non plus seulement comme le nom propre d'un individu ; dans ce cas on dit au pluriel et avec l's : les Henris, les Bourbons, les Stuarts, les douze Césars, etc. <cit><quote>La Seine a des Bourbons, le Tibre a des Césars</quote><bibl><author>BOILEAU</author><biblScope>Ép. I</biblScope></bibl></cit> </p> 
 <p>2° on l'emploie par antonomase, c'est-à-dire comme un nom commun, pour distinguer tous les individus semblables à celui dont ils empruntent le nom : alors les Corneilles se prend pour les grands poëtes tragiques, les Mécènes pour les protecteurs des lettres, etc. ; </p> 
-<p>3° quelquefois les noms propres se mettent au pluriel, mais sans prendre l's, quand il s'agit, il est vrai, d'une seule personne, mais quand pourtant on veut citer ceux-là entre autres et non d'une manière exclusive. <cit xmlns="http://www.tei-c.org/ns/1.0"><quote>Les expressions heureuses qui font l'âme de la poésie et le mérite des Homère, des Virgile, des Tasse, des Milton, des Pope, des Corneille, des Racine, des Boileau</quote><bibl><author>VOLT.</author><biblScope>Mél. litt. aux auteurs du nouv. Parnasse</biblScope></bibl></cit> </p> 
+<p>3° quelquefois les noms propres se mettent au pluriel, mais sans prendre l's, quand il s'agit, il est vrai, d'une seule personne, mais quand pourtant on veut citer ceux-là entre autres et non d'une manière exclusive. <cit><quote>Les expressions heureuses qui font l'âme de la poésie et le mérite des Homère, des Virgile, des Tasse, des Milton, des Pope, des Corneille, des Racine, des Boileau</quote><bibl><author>VOLT.</author><biblScope>Mél. litt. aux auteurs du nouv. Parnasse</biblScope></bibl></cit> </p> 
 <p>4° quand on nomme des personnes qui ont porté le même nom, on emploie le pluriel, mais sans mettre l's : les deux Richelieu ; quatre Mathusalem. </p>
 </note>
 <note type="remarque">
@@ -41390,7 +41390,7 @@
 </p>
 </note>
 <etym>Wallon, no ; provenç. nom ; anc. esp. nome ; esp. mod. nombre ; ital. nome ; du lat. nomen ; sanscr. naman (1er a accent long) ; les étymologistes rapportent ce mot à jna, connaître, à cause du g initial qui se trouve dans co-qnomen.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOM. - HIST. </form>
 <re>XIIe s. Ajoutez : <cit><quote>Tant com ensi [avec ses armes à l'envers] chevaucerai, Jà chevalier n'enconterrai Qui me die pis que mon nom</quote><bibl><biblScope>Perceval le Gallois, V. 42175</biblScope></bibl></cit> (on remarquera l'existence de la locution proverbiale dès cette haute antiquité). </re>
 </re>
@@ -41418,7 +41418,7 @@
 <quote>Longtemps avant Solon, les Scythes nomades étaient en grande réputation pour leur simplicité, leur frugalité, leur tempérance et leur justice</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuvr. t. II, p. 620, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuvr. t. II, p. 620, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -41552,7 +41552,7 @@
 <quote>La quantité abstraite, objet des mathématiques pures, est ou nombrable ou étendue</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Explic. syst. conn. hum. Oeuvr. t. I, p. 337, dans POUGENS.</biblScope>
+<biblScope>Explic. syst. conn. hum. Œuvr. t. I, p. 337, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -42039,7 +42039,7 @@
 <quote>Nombre, en termes de grammaire, se dit de la propriété qu'ont les terminaisons des noms et celles des verbes, de marquer si le mot doit être entendu d'une seule personne, ou si l'on doit l'entendre de plusieurs</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 343</biblScope>
+<biblScope>Œuv. t. IV, p. 343</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -42077,14 +42077,14 @@
 <quote>Deux choses charment l'oreille dans le discours, le son et le nombre : le son consiste dans la qualité des mots ; et le nombre dans leur arrangement</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Mél. litt. Oeuv. t. III, p. 262, dans POUGENS</biblScope>
+<biblScope>Mél. litt. Œuv. t. III, p. 262, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Dans l'éloquence du barreau, cette recherche curieuse et continuelle du nombre serait nuisible à l'éloquence ; il ne doit ni en être exclus, ni trop y dominer, surtout dans les endroits pathétiques</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. VIII, p. 526, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. VIII, p. 526, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -42301,7 +42301,7 @@
 <dictScrap>Nombre nombré, voy. <ref target="nombre#var1">NOMBRE, n° 1</ref>.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NOMBRÉ. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Prose nombrée, prose assujétie à une sorte de rhythme.</dictScrap>
@@ -42501,7 +42501,7 @@
 </p>
 </note>
 <etym>Nombreuse, et le suffixe ment ; ital. numerosamente.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOMBREUSEMENT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>D'une manière nombreuse, harmonieuse, en parlant du style.</dictScrap>
@@ -42623,7 +42623,7 @@
 <quote>Il n'est pas jusqu'aux rameurs dont le pénible travail ne trouve une sorte de soulagement dans cette espèce de concert que forme leur mouvement nombreux et uniforme</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, 1re part. p. 211, dans POUGENS.</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, 1re part. p. 211, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -42715,7 +42715,7 @@
 </p>
 </note>
 <etym>Berry, lambouri ; génev. lambouret, lanboret (par agglutination de l'article, pour ambouret) ; bourg. ambreuille, barullô, bunillô ; provenç. ombelic, umbrilh ; cat. llombrigol ; esp. ombligo ; port. umbigo, embigo ; ital. ombelico, bellico, bilico. Les formes qui commencent par om, um, am, viennent du latin umbilicus ou umbiliculus. Celles qui commencent par b, proviennent des précédentes par aphérèse. Reste nombril ; on a dit que nombril était pour lombril, dit, par agglutination de l'article, pour l'ombril. Mais alors il faut admettre que cette agglutination, avec transformation de l'l, s'est faite dès le XIIIe siècle ; ce qui est certainement une difficulté. Peut-être y a-t-il lieu de supposer que l'allemand Nabel, nombril, est devenu nombril sous l'influence de ombril, qui était dans les origines de la langue et dans les dialectes. Au reste, umbo, umbilicus et le grec semblent se rapporter, moyennant une voyelle prothétique et chute de la voyelle radicale, au sanscrit nabhi,(a accent long) nombril, auquel se rattache directement l'allemand Nabel.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOMBRIL. - HIST. XIIIe s. Ajoutez : <cit><quote>Sereine est de mer un peril, Feme est par desus le lombril</quote><bibl><biblScope>Romania, oct. 1872, p. 430, V. 305</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -42759,7 +42759,7 @@
 <quote>Il [Sésostris] divisa tout le pays en trente-six gouvernements ; on les appelait des nomes, et il les donna à des personnes du mérite et de la fidélité desquelles il était assuré</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. I, p. 129, dans POUGENS</biblScope>
+<biblScope>Hist. anc. Œuv. t. I, p. 129, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -42857,7 +42857,7 @@
 </sense>
 </sense>
 <etym>Lat. nomenclatorem, de nomen, nom, et calare, appeler (voy. <ref target="calendes">CALENDES</ref>). L'a est tombé, après s'être affaibli en u dans nomenculator, qu'on trouve chez Martial.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOMENCLATEUR. Ajoutez : </form>
 <sense n="5">
 <dictScrap>Adj. Nomenclateur, nomenclatrice, qui donne un nom.</dictScrap>
@@ -42903,7 +42903,7 @@
 <quote>Que devons-nous penser de ces nomenclatures fastueuses qu'on ose nous donner pour le système de la nature ?</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuv. t. VIII, p. 140, dans POUGENS</biblScope>
+<biblScope>Contempl. nat. Œuv. t. VIII, p. 140, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -43006,7 +43006,7 @@
 <quote>Les adjectifs nominaux sont ceux qui qualifient par un attribut d'espèce, c'est-à-dire par une qualité inhérente et permanente, soit qu'elle naisse de la nature de la chose, de sa forme, de sa situation ou de son état, tels que bon, noir, simple, beau, rond</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 168</biblScope>
+<biblScope>Œuv. t. IV, p. 168</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -43038,7 +43038,7 @@
 <quote>Le roi [Louis XI], qui, à la persuasion de son confesseur, s'était d'abord déclaré pour les réalistes, avait fait clouer et enchaîner dans les bibliothèques les livres des nominaux</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. III, p. 281</biblScope>
+<biblScope>Œuv. t. III, p. 281</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -43056,7 +43056,7 @@
 </p>
 </note>
 <etym>Lat. nominalis, de nomen, nom.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOMINAL. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Fête nominale, la fête pour le nom d'une personne.</dictScrap>
@@ -43084,7 +43084,7 @@
 <sense>
 <dictScrap>De nom ; avec une valeur nominale. Cela n'existe que nominalement.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NOMINALEMENT. Ajoutez : </form>
 <sense n="2">
 <dictScrap>À un prix nominal.</dictScrap>
@@ -43154,7 +43154,7 @@
 </cit>
 </sense>
 <etym>Lat. nominatorem, de nominare, nommer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOMINATEUR. Ajoutez : - HIST. XVIe s. <cit><quote>En France et en Espagne, c'est [les bénéfices] à la nomination du prince ; en Italie et en Sicile, non, parce que le pape y est le seul nominateur et collateur</quote><bibl><biblScope>le Bureau du concile de Trente, p. 317</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -43176,7 +43176,7 @@
 <quote>Telle est, ce me semble, la raison métaphysique pour laquelle, la construction et la syntaxe des langues étant supposées, le nominatif doit être placé avant le verbe, et le verbe avant son régime ; les mots doivent être placés dans un tel ordre, qu'en finissant la phrase où l'on voudra, elle présente autant qu'il est possible un sens ou du moins une idée complète qui n'en suppose point nécessairement d'autre</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Élém. de philos. Oeuv. t. II, p. 276, dans POUGENS</biblScope>
+<biblScope>Élém. de philos. Œuv. t. II, p. 276, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -43244,7 +43244,7 @@
 </p>
 </note>
 <etym>Provenç. nomination ; esp. nominacion ; ital. nominazione ; du lat. nominationem, de nominare, nommer.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOMINATION. Ajoutez : </form>
 <sense n="4">
 <dictScrap>Anciennement, action de nommer, de donner des noms.</dictScrap>
@@ -43320,7 +43320,7 @@
 <quote>Un nommé Churchill, capitaine des gardes du roi [Jacques II], son favori, et qu'il avait élevé d'une très petite noblesse à de très hautes dignités</quote>
 <bibl>
 <author>LA FAYETTE</author>
-<biblScope>Mém. cour franç. Oeuv. t. II, p. 382, dans POUGENS</biblScope>
+<biblScope>Mém. cour franç. Œuv. t. II, p. 382, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -44748,7 +44748,7 @@
 <dictScrap>Position d'un officier, d'un employé qui, momentanément, n'exerce aucune fonction. On a mis cet officier, cet employé en non-activité.</dictScrap>
 </sense>
 <re type="nuance">NON-ACTIVITÉ, DISPONIBILITÉ, CONGÉ. Dans l'armée on met un officier en non-activité, lorsque, pour raison d'âge ou de santé, il ne peut plus remplir de fonctions actives. La disponibilité est la situation spéciale de l'officier général ou d'état-major qui, appartenant au cadre constitutif de l'armée, se trouve momentanément sans emploi. Mais, dans d'autres administrations, l'université par exemple, la disponibilité est une peine infligée au professeur à qui on retire sa fonction. Dans le congé, on est toujours titulaire de son titre ; ce n'est qu'une autorisation temporaire de ne pas remplir la fonction de l'emploi. </re>
-<re type="supplement">
+<re ana="supplement">
 <re>NON-ACTIVITÉ. - SYN. Ajoutez : Le retrait d'emploi, la suppression d'emploi et les fautes graves sont aussi des motifs pour lesquels on met un officier en non-activité. </re>
 </re>
 </entry>
@@ -45079,7 +45079,7 @@
 <quote>La nonchalance embellit une petite chose, et en gâte toujours une grande</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Pensées sur la peint. Oeuv. t. XV, p. 231, dans POUGENS.</biblScope>
+<biblScope>Pensées sur la peint. Œuv. t. XV, p. 231, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -45139,7 +45139,7 @@
 <quote>Et pour moi si nonchalant que, quand mon règne serait de ce monde, je n'importunerais jamais personne de mes intérêts</quote>
 <bibl>
 <author>SCARR.</author>
-<biblScope>Lettres, Oeuvr. t. I, p. 241, dans POUGENS</biblScope>
+<biblScope>Lettres, Œuvr. t. I, p. 241, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -45244,7 +45244,7 @@
 <quote>Depuis deux jours, hélas ! je l'ai perdu, Du nonchaloir ce héros admirable</quote>
 <bibl>
 <author>CHAULIEU</author>
-<biblScope>Lett. à Rousseau, Oeuv. t. I, p. 155, dans POUGENS</biblScope>
+<biblScope>Lett. à Rousseau, Œuv. t. I, p. 155, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -45281,7 +45281,7 @@
 <quote>La crainte de perdre le chapeau, récompense ordinaire de la nonciature de France</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv., t. V, p. 247</biblScope>
+<biblScope>Œuv., t. V, p. 247</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -45535,7 +45535,7 @@
 </p>
 </note>
 <etym>Lat. nona hora, la neuvième heure.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NONE. Ajoutez : </form>
 <sense n="3">
 <dictScrap>Redevance que les possesseurs de précaires ecclésiastiques payaient sous la seconde race.</dictScrap>
@@ -45776,7 +45776,7 @@
 </cit>
 <sense>
 <cit>
-<quote>Oeuvre de nonnain, un de ces ouvrages de patience tels qu'on n'en pouvait faire que dans la tranquillité du cloître, puis un genre de broderie qui en avait pris le nom</quote>
+<quote>Œuvre de nonnain, un de ces ouvrages de patience tels qu'on n'en pouvait faire que dans la tranquillité du cloître, puis un genre de broderie qui en avait pris le nom</quote>
 <bibl>
 <author>DE LABORDE</author>
 <biblScope>Émaux, p. 406</biblScope>
@@ -46304,7 +46304,7 @@
 <quote>Leurs cheveux qu'elles [les femmes] tressaient avec de la nonpareille de différentes couleurs</quote>
 <bibl>
 <author>SAINT-FOIX</author>
-<biblScope>Ess. Paris, Oeuvr. t. V, p. 378, dans POUGENS</biblScope>
+<biblScope>Ess. Paris, Œuvr. t. V, p. 378, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -46627,7 +46627,7 @@
 <quote>Je ne sais si je pourrai faire valoir toutes mes prétentions légitimes, et si je ne trouverai pas bien des non-valeurs</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Lett. gal. Oeuvr. t. I, p. 491, dans POUGENS</biblScope>
+<biblScope>Lett. gal. Œuvr. t. I, p. 491, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -46834,7 +46834,7 @@
 <quote>Nous lûmes le traité de la sphère de M. de Maupertuis, son voyage au nord, tout ce qu'il a écrit sur le système du monde</quote>
 <bibl>
 <author>CONDIL.</author>
-<biblScope>Gramm. Motif des étud. Oeuv. t. V, p. CXL, dans POUGENS.</biblScope>
+<biblScope>Gramm. Motif des étud. Œuv. t. V, p. CXL, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -47123,7 +47123,7 @@
 <sense n="3">
 <dictScrap>Nom donné par les marins à une espèce de grosse capote, de vêtement propre à abriter contre le vent de nord-ouest ou tout autre très fort. Il mit son nord-ouest.</dictScrap>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <re>NORD-OUEST. Ajoutez : - HIST. XVIe s.  <cit><quote>Si le vent estoit si grand et principallement de galerne, qu'on appelle noroest...</quote><bibl><author>LANDRIC</author><biblScope>Advertissement et maniere d'enter (1580), p. 4, Paris, 1830</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -47278,7 +47278,7 @@
 </p>
 </note>
 <etym>Lat. normalis, de norma, équerre (voy. <ref target="norme">NORME</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NORMAL. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -47342,7 +47342,7 @@
 <quote>Le plus normand de tous les hommes Jure qu'il ne veut plus vous voir</quote>
 <bibl>
 <author>FONTEN.</author>
-<biblScope>Poés. div. Oeuv. t. x, p. 395, dans POUGENS</biblScope>
+<biblScope>Poés. div. Œuv. t. x, p. 395, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -47523,7 +47523,7 @@
 <dictScrap>Fig. Cadet de Normandie, homme qui a peu de ressources ; locution qui vient de ce que la coutume de Caux en Normandie donnait tout à l'aîné et laissait une petite légitime aux cadets. Ah ! mon pauvre Thomas [Corneille], continuait M. Despréaux, tes vers comparés à ceux de ton frère aîné font bien voir que tu n'es qu'un cadet de Normandie, Boloeana, éd. de 1742, p. 130.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NORMANDIE. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Une normandie (avec une petite n), nom dans le Nord d'un clos d'arbres fruitiers.</dictScrap>
@@ -47590,7 +47590,7 @@
 </p>
 </note>
 <etym>Lat. norma, équerre, et fig. règle, modèle. Norma est rapporté par Benfey à une contraction du mot fictif gnorima, règle, chose faisant connaître, du verbe connaître.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NORME. Ajoutez : <cit><quote>Il fallait évidemment commencer, si l'on voulait réunir d'abord en un seul système les lacs autres que le Drausen-See, par les ramener au même niveau ; c'est ce qu'on fit en prenant pour norme celui du Geserich</quote><bibl><biblScope>Journ. offic. 14 sept. 1874, p. 6526, 1re col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -47878,7 +47878,7 @@
 <quote>Le nostoc n'apparaît que dans les jours pluvieux ; on le trouve en toute saison dans les prairies, le long des chemins et dans les allées sablées des jardins</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuvr. t. VIII, p. 394, dans POUGENS.</biblScope>
+<biblScope>Contempl. nat. Œuvr. t. VIII, p. 394, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -48514,7 +48514,7 @@
 <quote>Dans la notation ordinaire [de l'arithmétique], la valeur des places de droite à gauche....</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Ess. arith. mor. Oeuvr. t. x, p. 163</biblScope>
+<biblScope>Ess. arith. mor. Œuvr. t. x, p. 163</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -48600,7 +48600,7 @@
 <quote>Les notes de Voltaire sur les tragédies de Corneille sont les oracles du bon goût et les plus précieuses leçons de l'art pour les poëtes dramatiques</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. IX, p. 435, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. IX, p. 435, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -48696,7 +48696,7 @@
 <quote>On s'est servi des caractères inventés par les anciens pour écrire les chants musicaux, jusque dans le onzième siècle, que Gui d'Arezzo trouva l'invention de les écrire, comme on fait aujourd'hui, avec des notes placées sur différentes lignes</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. Oeuv. t. XI, 1re part. p. 252, dans POUGENS.</biblScope>
+<biblScope>Hist. anc. Œuv. t. XI, 1re part. p. 252, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -49257,7 +49257,7 @@
 </p>
 </note>
 <etym>Provenç. et espagn. notar ; ital. notare ; du lat. notare.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOTER. Ajoutez : </form>
 <sense n="6">
 <dictScrap>Se noter, s'infliger à soi-même une note, une marque. Louis, électeur palatin, s'y opposa [à la proposition de violer le sauf-conduit donné à Luther dans la diète de Worms], comme à une chose qui flétrirait éternellement la nation germanique, et dit avec indignation que l'on ne devait pas souffrir que, pour rendre service aux prêtres, toute l'Allemagne se notât d'infamie en manquant à la foi publique, Hist. du concile de Trente, de Fra Paolo, trad. de le Courayer, t. I, p. 33.</dictScrap>
@@ -49537,14 +49537,14 @@
 <quote>Les notions les plus abstraites, celles que le commun des hommes regarde comme les plus inaccessibles, sont souvent celles qui portent avec elles une plus grande lumière</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Disc. encycl. Oeuv. t. I, p. 208, dans POUGENS</biblScope>
+<biblScope>Disc. encycl. Œuv. t. I, p. 208, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>Quelle notion précise peut-on avoir du bien et du mal, du beau et du laid, du bon et du mauvais, du vrai et du faux, sans une notion préliminaire de l'homme ?</quote>
 <bibl>
 <author>DIDER.</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 218, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 218, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -49579,7 +49579,7 @@
 <quote>De pures sensations ne sont pas des notions</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Oeuv. mêl. t. XVIII, p. 328, dans POUGENS</biblScope>
+<biblScope>Œuv. mêl. t. XVIII, p. 328, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -50147,7 +50147,7 @@
 <quote>Pour votre bien et pour le nôtre</quote>
 <bibl>
 <author>VOIT.</author>
-<biblScope>Poés. Oeuvr. t. II, p. 200</biblScope>
+<biblScope>Poés. Œuvr. t. II, p. 200</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -51082,7 +51082,7 @@
 <quote>Malherbe nourri de la lecture des excellents poëtes de l'antiquité, et prenant comme eux la nature pour modèle</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Disc. prélim. Encycl. Oeuv. t. I, p. 256, dans POUGENS.</biblScope>
+<biblScope>Disc. prélim. Encycl. Œuv. t. I, p. 256, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -51193,7 +51193,7 @@
 <quote>La chaleur la plus violente, dès qu'elle n'est pas nourrie, produit moins d'effet que la plus petite chaleur qui trouve de l'aliment</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. min. Introd. Oeuv. t. VII, p. 120</biblScope>
+<biblScope>Hist. min. Introd. Œuv. t. VII, p. 120</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -51261,7 +51261,7 @@
 <dictScrap>Fleur de lis au pied nourri, lis dont la partie inférieure se termine carrément.</dictScrap>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NOURRI. Ajoutez : </form>
 <sense n="12">
 <dictScrap>S. m. En termes d'art, qualité de ce qui est plein, abondant.</dictScrap>
@@ -51426,7 +51426,7 @@
 <quote>La mémoire est la nourrice du génie ; pour peindre le malheur, il n'est pas besoin d'être malheureux, mais il est bon de l'avoir été</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuvr. t. VII, p. 116, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuvr. t. VII, p. 116, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -51558,7 +51558,7 @@
 </p>
 </note>
 <etym>Provenç. nuirissa, noyrissa, noirissa ; du lat. nutritia, de nutrire, nourrir. On serait tenté de le tirer de nutricem ; mais les noms en icem (i accent long) donnent is, et non pas ice : imperatricem, empereïs ; la forme en ice dans les mots qui dérivent de mots en icem est moderne.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOURRICE. Ajoutez : </form>
 <sense n="7">
 <dictScrap>Nourrice sèche, nourrice qui n'a point de lait, et qui élève les enfants au biberon et en leur donnant à manger, Journ. offic. 12 janv. 1876, p. 335, 1re col.</dictScrap>
@@ -51616,14 +51616,14 @@
 <quote>Des injections colorées m'ont mis à portée de suivre à l'œil la marche du fluide nourricier dans une assez grande partie de son cours</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Rech. us. feuill. plantes, Oeuvr. t. IV p. 14, dans POUGENS.</biblScope>
+<biblScope>Rech. us. feuill. plantes, Œuvr. t. IV p. 14, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
 <quote>L'incorporation des molécules nourricières</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuvr. t. VIII, p. 48, dans POUGENS</biblScope>
+<biblScope>Contempl. nat. Œuvr. t. VIII, p. 48, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -51710,7 +51710,7 @@
 </p>
 </note>
 <etym>Nourrice.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOURRICIER. </form>
 <re>Ajoutez : </re>
 <re>L'industrie nourricière, l'industrie des nourrices. <cit><quote>L'industrie nourricière donne lieu à peu d'observations dans le rapport que nous analysons</quote><bibl><biblScope>Journ. offic. 15 mars 1875, p. 1984, 1re col.</biblScope></bibl></cit> </re>
@@ -52297,7 +52297,7 @@
 <quote>Les hommes qui ne se nourrissent que de chair crue ou de poisson sec, de sagou ou de riz, vivent aussi longtemps que ceux qui se nourrissent de pain ou de mets préparés</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Homme, Oeuvr. t. IV, p. 357</biblScope>
+<biblScope>Hist. nat. Homme, Œuvr. t. IV, p. 357</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -52654,7 +52654,7 @@
 </p>
 </note>
 <etym>Nourrissant, part. prés. de nourrir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOURRISSAGE. - ÉTYM. Ajoutez : Dans le département du Cher, nourriage : pays de nourriage, les Primes d'honneur, p. 367, Paris, 1874. </re>
 </re>
 </entry>
@@ -53050,7 +53050,7 @@
 <quote>Le climat et la nourriture influent sur la forme des animaux d'une manière si marquée, qu'on ne peut douter de leurs effets</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Homme, Oeuvr. t. V, p. 236</biblScope>
+<biblScope>Hist. nat. Homme, Œuvr. t. V, p. 236</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -53321,7 +53321,7 @@
 <quote>Ô vous, morts, qui gisez nourriture des vers, Laissez les monumens, reprenez la lumiere</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrestiennes, paraphrase sur le Libera me.</biblScope>
+<biblScope>Œuvres chrestiennes, paraphrase sur le Libera me.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -53341,7 +53341,7 @@
 </p>
 </note>
 <etym>Berry, nourreture ; provenç. noyritura, noiridura ; ital. nutritura ; du lat. nutritura, qui vient de nutritum, supin de nutrire, nourrir.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOURRITURE. Ajoutez : </form>
 <sense n="14">
 <dictScrap>Terme d'exploitation houillère.</dictScrap>
@@ -53523,7 +53523,7 @@
 <quote>Dire nous, quoiqu'on ne soit qu'un, lorsque celui qui parle est un souverain ou une personne constituée en dignité, et qu'elle fait un acte solennel de sa volonté ou de son autorité : usage qui, je crois, prit naissance chez les empereurs romains, lorsqu'ils faisaient semblant de prendre conseil du sénat, et d'exprimer dans leurs édits une volonté collective</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. X, p. 365, dans POUGENS</biblScope>
+<biblScope>Élém. litt. Œuv. t. X, p. 365, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -53563,7 +53563,7 @@
 <quote>Je demande pourquoi, dans un écrit qui est l'ouvrage d'un seul homme, l'auteur, en parlant de lui-même, se croit obligé de dire nous</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. litt. Oeuv. t. X, p. 371</biblScope>
+<biblScope>Élém. litt. Œuv. t. X, p. 371</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -53632,7 +53632,7 @@
 <quote>Cet être appelé nous est formé de deux principes de différente nature, tellement unis, qu'il règne entre les mouvements et les affections de l'un et de l'autre une correspondance que nous ne saurions ni surprendre ni altérer, et qui les tient dans un assujétissement réciproque</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Disc. prélim. Encycl. Oeuv. t. I, p. 192, dans POUGENS.</biblScope>
+<biblScope>Disc. prélim. Encycl. Œuv. t. I, p. 192, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -53682,7 +53682,7 @@
 </p>
 </note>
 <etym>Bourguig. no ; picard, nos ; wallon, noisez ; provenç. nos ; espagn. et portug. nos ; ital. noi ; du latin nos ; grec au duel, sanscr. nas.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOUS. - REM. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Pour l'emploi de nous comme pronom réfléchi, voy. SE, Rem. 3, 4, 5, 7, 8, 9 et 10.</dictScrap>
@@ -54429,7 +54429,7 @@
 <quote>Voyant sur nostre sejour La belle aulbe retournée, Pour serener d'un beau jour La lumiere nouveau née</quote>
 <bibl>
 <author>DU BELLAY</author>
-<biblScope>Oeuvres, p. 454, dans LACURNE</biblScope>
+<biblScope>Œuvres, p. 454, dans LACURNE</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -54752,7 +54752,7 @@
 <quote>Les nouveautés ont ce désavantage qu'on y va moins en spectateur qu'en critique</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élem. litt. Oeuv. t. X, p. 42, dans POUGENS</biblScope>
+<biblScope>Élem. litt. Œuv. t. X, p. 42, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -54845,7 +54845,7 @@
 </p>
 </note>
 <etym>Bourg. nôveàtai ; provenç. noveletat, noeletat ; du lat. novellitatem, qui vient de novellus (voy. <ref target="nouveau">NOUVEAU</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOUVEAUTÉ. </form>
 <sense n="5">
 <dictScrap>Ajoutez :</dictScrap>
@@ -55225,7 +55225,7 @@
 <quote>Tout le monde fut surpris lorsqu'il entra, et il n'y eut personne qui ne lui demandât de ses nouvelles, excepté madame de Clèves, qui demeura auprès de la cheminée sans faire semblant de le voir</quote>
 <bibl>
 <author>LA FAYETTE</author>
-<biblScope>Princ de Clèves, Oeuv. compl. t. II, p. 115, dans POUGENS.</biblScope>
+<biblScope>Princ de Clèves, Œuv. compl. t. II, p. 115, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -55974,7 +55974,7 @@
 <quote>Après cette révision, Justinien publia 165 constitutions et 13 édits, qu'on appelle les novelles, ou parce qu'elles changèrent beaucoup l'ancien droit, ou, selon Cujas, parce qu'elles furent faites sur de nouveaux cas et après la révision du code compilé par les ordres de cet empereur</quote>
 <bibl>
 <author>ROLLIN</author>
-<biblScope>Hist. anc. t. XII, Oeuvr. p. 644, dans POUGENS</biblScope>
+<biblScope>Hist. anc. t. XII, Œuvr. p. 644, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -56026,7 +56026,7 @@
 <dictScrap>Terme didactique. Qui procède par le nombre neuf. Série novénaire.</dictScrap>
 </sense>
 <etym>Lat. novenarius, de novem, neuf.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NOVENAIRE. Ajoutez : - HIST. XVIe s. Chronologie novenaire contenant l'histoire de la guerre sous Henri IV et les choses les plus memorables advenues par tout le monde depuis 1589 jusqu'en 1598, par Palma Cayet. </form>
 </re>
 </entry>
@@ -56246,7 +56246,7 @@
 </p>
 </note>
 <etym>Lat. novicius, dérivé de novus (voy. <ref target="neuf">NEUF</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOVICE. Ajoutez : - REM. On trouve dans le Dictionnaire, n° 5, des exemples de novice à suivi d'un substantif.  <cit><quote>En voici un où novice à est suivi d'un infinitif : à nous laisser duper nous sommes bien novices</quote><bibl><author>CORN.</author><biblScope>Lexique, éd. Marty-Laveaux.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -56355,7 +56355,7 @@
 <dictScrap>Toile de noyale, ou, simplement, noyale, nom de la toile dont on se sert pour faire les grandes voiles d'un navire. Toiles à voiles à deux fils, noyales simples, mélis, prélats à sacs ; noyales à quatre fils ; noyales triples à un fil, Tabl. ann. aux lett. pat. du 16 déc. 1780.</dictScrap>
 </sense>
 <etym>Noyal (Ille-et-Vilaine), centre de fabricat.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NOYALE. - ÉTYM. Ajoutez : L'origine n'en est pas inconnue : c'est la ville de Noyal, Côtes-du-Nord, où l'on fabrique ce genre de toiles. </re>
 </re>
 </entry>
@@ -56408,7 +56408,7 @@
 <quote>Je vas chez M. Evrard pour toucher mes noyaux</quote>
 <bibl>
 <author>COMTE DE CAYLUS</author>
-<biblScope>(GROSLEY), Hist. de M. Guillaume, Oeuvr. t. X, p. 64, dans POUGENS.</biblScope>
+<biblScope>(GROSLEY), Hist. de M. Guillaume, Œuvr. t. X, p. 64, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -56429,7 +56429,7 @@
 <quote>Le noyau d'une montagne est composé de différents lits de pierres, dont les supérieurs sont de pierre tendre</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. théor. terr. Oeuvr. t. II, p. 373</biblScope>
+<biblScope>Hist. nat. Preuv. théor. terr. Œuvr. t. II, p. 373</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -56460,7 +56460,7 @@
 <quote>Elles [les comètes] présentent aux yeux des observateurs un noyau vif et solide, qui réfléchit fortement la lumière du soleil à travers l'atmosphère immense de la comète</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. théor. ter. Oeuvr. t. I. p. 199</biblScope>
+<biblScope>Hist. nat. Preuv. théor. ter. Œuvr. t. I. p. 199</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -56862,7 +56862,7 @@
 </p>
 </note>
 <etym>Berry, nogier, nougier, nouère ; prov. noguier, nogier ; cat. noguer ; d'une forme fictive, nucarius, dérivée du latin nux, noix.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. NOYER. </form>
 <sense n="1">
 <dictScrap>Ajoutez :</dictScrap>
@@ -57091,7 +57091,7 @@
 <quote>Les fausses idées qu'on donne de l'éloquence dans nos colléges en apprenant à nos jeunes gens à noyer une pensée commune dans un déluge de périodes insipides</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Réfl. sur l'éloc. orat. Oeuvr. t. I, p. 169, dans POUGENS.</biblScope>
+<biblScope>Réfl. sur l'éloc. orat. Œuvr. t. I, p. 169, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -57446,7 +57446,7 @@
 </p>
 </note>
 <etym>Wallon, nèi ; Hainaut, néier ; picard et Berry, neyer ; norm. neucher ; génev. nayer ; provenç. negar ; ital. negare ; du lat. necare, proprement tuer, sens qui se trouve dans quelques-uns de nos textes ; quant à faire mourir dans l'eau, ce sens se trouve dès les lois barbares ; et une inscription latine donne : Eufronia.... naufragio necta, Journ. des sav. fév. 1858, p. 91.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 2. NOYER. Ajoutez : </form>
 <sense n="18">
 <dictScrap>Se noyer d'eau, boire de l'eau avec excès.</dictScrap>
@@ -57482,7 +57482,7 @@
 <quote>Souvent un joueur très expert, En voulant débusquer son homme, Dans le noyon tombe et se perd</quote>
 <bibl>
 <author>PANARD</author>
-<biblScope>Chans. vaudev. Oeuv. t. III, p. 317, dans POUGENS</biblScope>
+<biblScope>Chans. vaudev. Œuv. t. III, p. 317, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -57736,7 +57736,7 @@
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Terme d'astronomie ou de physique. Oeil nu, œil qui n'est pas armé de verres grossissants. Observer à l'œil nu.</dictScrap>
+<dictScrap>Terme d'astronomie ou de physique. Œil nu, œil qui n'est pas armé de verres grossissants. Observer à l'œil nu.</dictScrap>
 </sense>
 <sense n="7">
 <dictScrap>Terme de chimie. Feu nu, celui dont l'action se dirige immédiatement sur une substance.</dictScrap>
@@ -57916,7 +57916,7 @@
 <quote>C'est peu d'avoir étudié dans l'homme moral ce que les peintres appellent le nu ; il faut s'instruire des différents modes que l'institution a pu donner à la nature, selon les lieux et les temps</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Oeuv. t. VIII, p. 385</biblScope>
+<biblScope>Œuv. t. VIII, p. 385</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -57926,7 +57926,7 @@
 <quote>La draperie de cette maussade figure est bien jetée et dessine le nu</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Salon de 1767, Oeuvr. t. XIV, p. 300, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuvr. t. XIV, p. 300, dans POUGENS</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -58134,7 +58134,7 @@
 <quote>Tu me vois nu de tout, sinon de vitupere ; Je suis l'enfant prodigue ; embrasse-moy, mon pere</quote>
 <bibl>
 <author>DESPORTES</author>
-<biblScope>Oeuvres chrest. XVIII, Plainte</biblScope>
+<biblScope>Œuvres chrest. XVIII, Plainte</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -58147,7 +58147,7 @@
 </p>
 </note>
 <etym>Wallon, nou, nowe au féminin ; namur. nu, neuve au féminin ; provenç. nud, nut ; catal. nu ; anc. espagn. nudo ; portug. nu ; ital. nudo ; du lat. nudus ; comparez le sanscrit nagda, nu ; anglo-saxon, nacod ; angl. naked ; le latin serait pour nugdus (1er u accent bref), a affaibli en u (accent bref).</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> 1. NU. </form>
 <dictScrap>Ajoutez : </dictScrap>
 <re type="proverbe"><cit><quote>Cordonnier, va-nu-pieds</quote><bibl><biblScope>Journ. offic. 10 juillet 1877, p. 5132, 2e col.</biblScope></bibl></cit> (c'est un proverbe à mettre à côté de celui qui dit que les cordonniers sont les plus mal chaussés). </re>
@@ -58203,7 +58203,7 @@
 <quote>Les nuages sont généralement plus élevés en été, et constamment encore plus élevés dans les climats chauds</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Add. et corr. théor. terr. Oeuvr. t. XIII, p. 23</biblScope>
+<biblScope>Add. et corr. théor. terr. Œuvr. t. XIII, p. 23</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -58851,7 +58851,7 @@
 <quote>Ces secrets du penchant retenus et trahis par la tendresse du sourire, par l'éclair échappé d'un timide regard, mille nuances fugitives dans l'expression des yeux et des traits du visage sont l'éloquence de la beauté</quote>
 <bibl>
 <author>MARMONTEL</author>
-<biblScope>Élém. de litt. Oeuvres, t. V, p. 339, dans POUGENS</biblScope>
+<biblScope>Élém. de litt. Œuvres, t. V, p. 339, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -59140,7 +59140,7 @@
 </p>
 </note>
 <etym>Lat. nubilosus, dérivé de nubilus, qui vient de nubes (voy. <ref target="nue">NUE</ref>).</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NUBILEUX.  Ajoutez : <cit><quote>Il tonne quelquefois en temps serein, pour la même raison qu'il tonne en temps nubileux, quand l'air est battu l'un contre l'autre</quote><bibl><author>MALH.</author><biblScope>Lexique, éd. L. Lalanue.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -60000,7 +60000,7 @@
 </cit>
 </sense>
 </sense>
-<re type="supplement">
+<re ana="supplement">
 <form> NUÉ. Ajoutez : </form>
 <sense n="2">
 <dictScrap>Fig. en parlant de style.</dictScrap>
@@ -60325,7 +60325,7 @@
 <quote>Je n'ai point fait mettre Law en prison, parce que vous m'en avez dissuadé ; et je l'ai laissé partir, parce que je craignais que sa présence ne nuisît au crédit public</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. VI, p. 65</biblScope>
+<biblScope>Œuvr. t. VI, p. 65</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -60346,7 +60346,7 @@
 <quote>On nuit plus aux progrès de l'esprit en plaçant mal les récompenses qu'en les supprimant</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Disc. prélim. Encycl. Oeuvr. t. I, p. 295, dans POUGENS.</biblScope>
+<biblScope>Disc. prélim. Encycl. Œuvr. t. I, p. 295, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -60390,7 +60390,7 @@
 <quote>Il n'est point de sujet où l'intention de nuire trouve plus de prétextes à s'exercer qu'en matière de religion</quote>
 <bibl>
 <author>D'ALEMB.</author>
-<biblScope>Abus de la crit. Oeuvr. t. VI, p. 253</biblScope>
+<biblScope>Abus de la crit. Œuvr. t. VI, p. 253</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -60621,7 +60621,7 @@
 </p>
 </note>
 <etym>Nuisant ; provenç. noysensa, nozensa ; ital. nocenza. Ce mot très anciennement français, nous le reprenons maintenant des Anglais, qui l'ont retenu des Normands.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NUISANCE. Ajoutez : - REM. Nuisance est employé par saint François de Sales : Le sucre adoucit les fruits mal mûrs, et corrige la crudité et nuisance de ceux qui sont bien mûrs, Introd. à la vie dévote, I, 2 (1641). </re>
 </re>
 </entry>
@@ -60713,7 +60713,7 @@
 <quote>En général, on trouve les animaux nuisibles des continents dans toutes les îles qui en sont fort voisines, et jamais dans celles qui en sont fort éloignées</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Hist. nat. Preuv. théor. terr. Oeuvr. t. II, p. 424</biblScope>
+<biblScope>Hist. nat. Preuv. théor. terr. Œuvr. t. II, p. 424</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -60938,7 +60938,7 @@
 <quote>La nuit dérobe les formes, donne de l'horreur aux bruits ; ne fût-ce que celui d'une feuille, au fond d'une forêt, il met l'imagination en jeu</quote>
 <bibl>
 <author>DIDEROT</author>
-<biblScope>Salon de 1767, Oeuv. t. XIV, p. 260, dans POUGENS</biblScope>
+<biblScope>Salon de 1767, Œuv. t. XIV, p. 260, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -61638,7 +61638,7 @@
 </p>
 </note>
 <etym>Wallon, nute, neit ; bourg. neu ; picard, neuit ; angoumois, neut ; provenç noit, noich, nuoit, nuot, nueh, nuh ; cat. nit ; esp. noche ; port. noite ; ital. notte ; du latin noctem ; all. Nacht ; goth. naths ; angl. night ; russe, notch ; sanscr. nakta (2ème a accent long). M. Ad. Regnier, Idiome des Védas, p. 120, pense que nakta (2ème a accent long) se rattache à la racine naj, avoir honte, et signifie, comme l'autre participe nagna, la nue, latin nuda ; il fait remarquer l'analogie entre l'allemand Nacht, nuit, et nackt, nu.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NUIT. Ajoutez : - REM. Toute nuit pour toute la nuit, voy. <ref target="tout#remarque">TOUT</ref>, Rem. 7. </re>
 </re>
 </entry>
@@ -61986,7 +61986,7 @@
 <quote>Ayant tout usé jusqu'à la débauche, il [le régent] avouait quelquefois qu'il ne goûtait plus le vin, et qu'il était devenu nul pour les femmes</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuvr. t. VI, p. 128</biblScope>
+<biblScope>Œuvr. t. VI, p. 128</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -62364,7 +62364,7 @@
 </p>
 </note>
 <etym>Nulle, et le suffixe ment.</etym>
-<re type="supplement">
+<re ana="supplement">
 <form> NULLEMENT. : Ajoutez : </form>
 <sense n="2">
 <dictScrap>Terme de droit. Avec le caractère de la nullité.</dictScrap>
@@ -62669,7 +62669,7 @@
 <quote>C'est le seul moyen de fixer quelques points dans l'immensité de l'espace, et de placer un certain nombre de pierres numéraires sur la route éternelle du temps</quote>
 <bibl>
 <author>BUFF.</author>
-<biblScope>Époq. nat. Oeuv. t. XII, p. 2</biblScope>
+<biblScope>Époq. nat. Œuv. t. XII, p. 2</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -62723,7 +62723,7 @@
 <quote>Les adjectifs numéraux sont, comme leur nom le déclare, ceux qui qualifient par un attribut d'ordre numéral, tels que le premier, dernier, second</quote>
 <bibl>
 <author>DUMARS.</author>
-<biblScope>Oeuv. t. IV, p. 109</biblScope>
+<biblScope>Œuv. t. IV, p. 109</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -62826,7 +62826,7 @@
 <quote>Il [M. de Keralio] lui enseigna les mathématiques ; après lui avoir fait observer comment se fait la numération, il lui fit comprendre que la manière dont on procède dans les quatre opérations de l'arithmétique, n'est qu'une conséquence de la manière dont se fait la numération même</quote>
 <bibl>
 <author>CONDIL.</author>
-<biblScope>Gramm. Motif des étud. Oeuv. t. V, p. CXLVII, dans POUGENS</biblScope>
+<biblScope>Gramm. Motif des étud. Œuv. t. V, p. CXLVII, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -64175,7 +64175,7 @@
 <quote>Quelques embrassades et autres menues licences qui furent si bien reçues de la nymphe....</quote>
 <bibl>
 <author>DUCLOS</author>
-<biblScope>Oeuv. t. X, p. 42</biblScope>
+<biblScope>Œuv. t. X, p. 42</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -64199,7 +64199,7 @@
 <quote>Lorsque l'insecte, après avoir rejeté la dépouille de ver, se montre avec toutes les parties extérieures revêtues seulement d'enveloppes particulières, molles et transparentes, qui ne les tiennent point assujetties au corps, on nomme cela une nymphe</quote>
 <bibl>
 <author>BONNET</author>
-<biblScope>Contempl. nat. Oeuvr. t. VIII, p. 275, dans POUGENS.</biblScope>
+<biblScope>Contempl. nat. Œuvr. t. VIII, p. 275, dans POUGENS.</biblScope>
 </bibl>
 </cit>
 <sense>
@@ -64275,7 +64275,7 @@
 </sense>
 <note type="remarque">L'Académie fait ce mot du féminin, mais c'est contre l'étymologie et contre l'analogie de cette sorte de mots, par exemple musée, temple des Muses. </note>
 <etym>Lat. nymphaeum ; le terme grec est dérivé de nymphe.</etym>
-<re type="supplement">
+<re ana="supplement">
 <re>NYMPHÉE. - REM. Ajoutez : Chateaubriand, avec raison, a fait nymphée du masculin : Qui a jamais entendu parler de mon ami Quecq ? et pourtant il a peint, pas trop mal, dans son nymphée la mort de Vitellius, Mém. d'outre-tombe. </re>
 </re>
 </entry>
