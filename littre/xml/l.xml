@@ -7205,7 +7205,7 @@
 <gram>v. a.</gram>
 </form>
 <note type="plan">
-<p>Ce verbe, qui, comme on peut le voir à l'étymologie, vient de laxare, et signifie proprement lâcher, a deux significations principales qui dérivent de cette étymologie : par l'une, il veut dire se séparer de ; par l'autre, ne pas ôter, conserver, garder en tenant comme en laisse. </p>
+<dictScrap>Ce verbe, qui, comme on peut le voir à l'étymologie, vient de laxare, et signifie proprement lâcher, a deux significations principales qui dérivent de cette étymologie : par l'une, il veut dire se séparer de ; par l'autre, ne pas ôter, conserver, garder en tenant comme en laisse. </dictScrap>
 <list>
 <item n="1">Se séparer d'une personne ou d'une chose qui reste dans l'endroit dont on s'éloigne. </item>
 <item n="2">Abandonner. </item>
@@ -32618,9 +32618,7 @@
 <biblScope>Lexique, éd. L. Lalanne</biblScope>
 </bibl>
 </cit>
-<form> Une chanson huguenote célèbre s'appelait le légat de la vache à Colas, où chaque couplet léguait satiriquement quelque membre de cette vache (voy. </form>
-<ref target="vache">VACHE</ref>
-<form> au Dictionnaire). </form>
+<dictScrap> Une chanson huguenote célèbre s'appelait le légat de la vache à Colas, où chaque couplet léguait satiriquement quelque membre de cette vache (voy. <ref target="vache">VACHE</ref> au Dictionnaire). </dictScrap>
 <etym>Lat. legatum, chose léguée (voy LÉGUER).</etym>
 </re>
 </entry>
@@ -39476,7 +39474,7 @@
 <biblScope>Journ. offic. 22 avril 1875, p. 2917, 2e col.</biblScope>
 </bibl>
 </cit>
-<form> Il n'y a aucune raison pour déposséder mortalité, et pour étendre le sens de léthalité. </form>
+<dictScrap> Il n'y a aucune raison pour déposséder mortalité, et pour étendre le sens de léthalité. </dictScrap>
 </re>
 </entry>
 <entry xml:id="léthargie">
@@ -84849,14 +84847,16 @@
 </note>
 <etym>Wallon, lus' ; namur. lusk ; provenç. losc ; catal. llusco ; du lat. luscus, borgne. Le changement de sens ne peut faire ici difficulté ; déjà de luscus, borgne, le latin avait formé lusciosus, louche, ainsi le changement de sens était déjà opéré.</etym>
 <re ana="supplement">
-<form> 1. LOUCHE. - HIST. XIIIe s. Ajoutez : </form>
+<form> 1. LOUCHE. </form>
+<note type="historique">- HIST. XIIIe s. Ajoutez : 
 <cit>
 <quote>Uns chevaliers, Belchis li lois, Qui a le front plus noir que pois</quote>
 <bibl>
 <biblScope>Meraugis, p. 160</biblScope>
 </bibl>
 </cit>
-<form> (lois représente le latin luscus). </form>
+<dictScrap>(lois représente le latin luscus).</dictScrap>
+</note>
 </re>
 </entry>
 <entry xml:id="louche.2">
@@ -89114,9 +89114,8 @@
 <dictScrap>Un livre lu de tout le monde.</dictScrap>
 </sense>
 <re ana="supplement">
-<form> 2. LU (lu), s. m. Nom, sur les côtes du Calvados, du poisson nommé lieu en Bretagne (voy. </form>
-<ref target="lieu.2">LIEU 2</ref>
-<form>). </form>
+<form> 2. LU (lu), s. m. </form>
+<dictScrap>Nom, sur les côtes du Calvados, du poisson nommé lieu en Bretagne (voy. <ref target="lieu.2">LIEU 2</ref>). </dictScrap>
 </re>
 <etym>La forme lu, à côté de lieu, fait penser que ces deux mots pourraient venir du lat. luscius, en anc. franç. lus, sorte de poisson.</etym>
 </entry>

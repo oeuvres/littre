@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+<grammar xmlns="http://relaxng.org/ns/structure/1.0"
+	ns="http://www.tei-c.org/ns/1.0"
+	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+	xml:lang="fr">
 	
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h1>Schéma du Littré</h1>
@@ -78,59 +81,86 @@
 						<ref name="cit"/>
 					</zeroOrMore>
 					<optional>
-						<ref name="note"/>
+						<choice>
+							<ref name="note-remarque"/>
+							<ref name="note-historique"/>
+						</choice>
 					</optional>
 					<optional>
-						<ref name="re1"/> <!-- "suppl" -->
+						<ref name="re-supplement"/> <!-- à remplacer par <add> ? -->
 					</optional>
 				</group>
 				<group>
 					<ref name="form"/>
 					<optional>
-						<ref name="note"/> <!-- @type="plan" uniquement ? -->
+						<ref name="note-plan"/>
+					</optional>
+					<optional>
+						<ref name="note-remarque"/>
 					</optional>
 					<oneOrMore>
 						<ref name="sense1"/>
 					</oneOrMore>
-					<zeroOrMore><!-- "pro" -->
-						<ref name="re1"/> <!-- re1 suivi ou non de note/etym ? -->
+					<zeroOrMore>
+						<ref name="re-proverbe"/> <!-- suivi ou non de note/etym ? -->
 					</zeroOrMore>
 					<optional>
 						<ref name="etym"/> <!-- peut se trouver avant <note> pour coder un renvoi eg -->
 					</optional>
-					<optional><!-- "sup" -->
-						<ref name="re1"/> <!-- avant note"hist" & après etym dans le source" -->
+					<optional>
+						<ref name="re-supplement"/> <!-- avant note"hist" & après etym dans le source" -->
 					</optional>
-					<zeroOrMore><!-- "rem" -->
-						<ref name="note"/>
+					<zeroOrMore>
+						<ref name="note-remarque"/>
 					</zeroOrMore>
-					<zeroOrMore><!-- "nuance" -->
-						<ref name="re1"/>
+					<zeroOrMore>
+						<ref name="re-nuance"/>
 					</zeroOrMore>
-					<optional><!-- "hist" -->
-						<ref name="note"/>
+					<optional>
+						<ref name="note-historique"/>
+					</optional>
+					<optional>
+						<choice>
+						<ref name="re-nuance"/>
+						<ref name="re-proverbe"/>
+					</choice>
 					</optional>
 					<zeroOrMore>
 						<ref name="etym"/>
 					</zeroOrMore>
-					<optional><!-- "suppl" -->
-						<ref name="re1"/> <!-- précédé d'etym ok, mais précédé de note ? -->
+					<optional>
+						<ref name="re-nuance"/>
 					</optional>
-					<zeroOrMore><!-- "rem" -->
-						<ref name="note"/>
-					</zeroOrMore>
-					<optional> <!-- "nuance" -->
-						<ref name="re1"/>
+					<optional>
+						<ref name="note-historique"/>
 					</optional>
-					<!--<optional>--><!-- À SUPPRIMER -->
-						<!--<ref name="etym"/>--> <!-- erreur xml : cette etym doit ê intégrée au re"sup" qui précède -->
-					<!--</optional>-->
+					<optional>
+						<ref name="note-remarque"/>
+					</optional>
+					<optional>
+						<ref name="note-historique"/>
+					</optional>
+					<optional>
+						<ref name="etym"/>
+					</optional>
+					<optional>
+						<ref name="re-supplement"/>
+					</optional>
+					<optional>
+						<choice>
+							<ref name="re-nuance"/> <!-- "nuance" Erreur ? Devrait être contenu dans supplément ?-->
+							<ref name="note-historique"/> <!-- Erreur idem ? -->
+							<ref name="note-remarque"/> <!-- Erreur idem ? -->
+						</choice>
+					</optional>
 				</group>
 			</choice>
 				
+<!-- sense . note"hist" . re"nuance" . "etym" . re"suppl" -->
 <!-- sense+ . note"rem" . re"nuance"+ . note"hist" . etym . re"suppl" -->
 <!-- sense+ . note"rem" . re"nuance" . note"hist" . etym -->
 <!-- sense+ . note"hist" . etym+ -->
+<!-- sense+ . note"hist" . etym . note"hist" -->
 <!-- sense+ . note"hist" . etym . re"suppl" . note"rem" -->
 
 <!-- sense . note? . etym? -->
@@ -223,20 +253,21 @@
 					<value>supplement</value>
 				</attribute>
 		  </optional>
-		  <optional>
-		    <attribute name="type">
-		      <value>supplement</value>
-		    </attribute>
-		  </optional>
 		  <interleave>  <!-- Ordre à raffiner -->
 		    <optional>
 		      <ref name="etym"/>
 		    </optional>
 		    <optional>
-		      <ref name="note"/>
+					<choice>
+						<ref name="note-remarque"/>
+						<ref name="note-historique"/>
+					</choice>
 		    </optional>
 		    <zeroOrMore>
-		      <ref name="re1"/>
+					<choice>
+		      <ref name="re-supplement"/>
+					<ref name="re-proverbe"/>
+				</choice>
 		    </zeroOrMore>
 		    <zeroOrMore>
 		      <ref name="cit"/>
@@ -374,6 +405,9 @@
         <zeroOrMore>
           <ref name="ref"/>
         </zeroOrMore>
+				<optional>
+					<ref name="dictScrap"/>
+				</optional>
       </interleave>
 		</element>
 	</define>
@@ -385,7 +419,7 @@
     </element>
 	</define>
 	
-	<!-- Appelé uniquement par <note> -->
+	<!-- Appelé uniquement par <note type="plan"> -->
 	<define name="list">
 	  <element name="list">
 	    <oneOrMore>
@@ -399,48 +433,84 @@
 	  </element>
 	</define>
   
+	<!-- Appelé uniquement dans <form> ? -->
   <define name="note">
 		<element name="note">
-		  <optional>
-        <attribute name="type">
-          <choice>
-            <value>historique</value>
-            <value>remarque</value>
-            <value>plan</value>
-          </choice>
-        </attribute>
-      </optional>
+			<text/>
 			<optional>
-        <attribute name="ana">
-					<value>supplement</value>
-        </attribute>
-      </optional>
-			<optional>
-				<ref name="dictScrap"/>
+				<ref name="ref"/>
+				<text/>
 			</optional>
-      <interleave> <!-- Ordre à raffiner -->
-				<optional>
-          <text/>
-        </optional>
-				<optional>
-          <ref name="list"/>
-        </optional>
-				<optional>
-					<ref name="label"/>
-				</optional>
-        <zeroOrMore>
-          <ref name="cit"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="p"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="q"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="ref"/>
-        </zeroOrMore>
-      </interleave>
+		</element>
+	</define>
+	
+	<define name="note-historique">
+		<element name="note">
+			<attribute name="type">
+				<value>historique</value>
+			</attribute>
+			<optional>
+				<ref name="dictScrap"/> <!-- "Ajoutez :" -->
+			</optional>
+			<choice><!-- à supprimer in fine pour rendre <p> obligatoire -->
+				<oneOrMore>
+					<ref name="p"/>
+				</oneOrMore>
+				<group>
+					<interleave>
+						<optional>
+							<text/>
+						</optional>
+						<optional>
+							<ref name="dictScrap"/>
+						</optional>
+						<zeroOrMore>
+							<ref name="label"/>
+						</zeroOrMore>
+						<zeroOrMore>
+							<ref name="cit"/>
+						</zeroOrMore>
+						<zeroOrMore>
+							<ref name="ref"/>
+						</zeroOrMore>
+					</interleave>
+				</group>
+			</choice>
+		</element>
+	</define>
+	
+	<define name="note-plan">
+		<element name="note">
+			<attribute name="type">
+				<value>plan</value>
+			</attribute>
+			<optional>
+				<ref name="dictScrap"/> <!-- intro générale sur le terme -->
+			</optional>
+			<ref name="list"/>
+		</element>
+	</define>
+	
+	<define name="note-remarque">
+		<element name="note">
+			<attribute name="type">
+				<value>remarque</value>
+			</attribute>
+			<interleave>
+				<text/>
+				<zeroOrMore>
+					<ref name="p"/>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="cit"/>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="q"/>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="ref"/>
+				</zeroOrMore>
+			</interleave>
 		</element>
 	</define>
 	
@@ -480,22 +550,63 @@
 		</element>
 	</define>
 	
-	<define name="re1">
+	<define name="re-proverbe">
 	  <element name="re">
-			<optional>
-				<attribute name="type">
-					<choice>
-						<value>nuance</value> <!-- ne devrait pas contenir de <re> in fine -->
-						<value>proverbe</value> <!-- ne devrait pas contenir de <re> in fine -->
-				</choice>
-				</attribute>
+			<attribute name="type">
+				<value>proverbe</value>
+			</attribute>
+      <optional>
+				<text/>
 			</optional>
-			<optional>
-				<attribute name="ana">
-					<value>supplement</value> <!-- ne devrait contenir aucun <re> ou uniquement des <re type="proverbe"> in fine -->
-				</attribute>
-			</optional>
+			<interleave>
+				<zeroOrMore>
+					<text/>
+        </zeroOrMore>
+				<zeroOrMore>
+					<ref name="form"/><!-- Obligatoire et unique in fine --> <!-- <re type="proverbe"><form>Ville qui capitule, ville rendue</form>, ou bien, <form>est à demi rendue</form> ; c'est-à-dire écouter certaines propositions est déjà une faiblesse qui fait croire qu'on les acceptera. </re> -->
+				</zeroOrMore>
+        <zeroOrMore>
+          <ref name="dictScrap"/>
+        </zeroOrMore>
+        <zeroOrMore>
+          <ref name="cit"/>
+        </zeroOrMore>
+				<zeroOrMore>
+					<ref name="ref"/>
+				</zeroOrMore>
+      </interleave>
+    </element>
+	</define>
+	
+	<define name="re-nuance">
+	  <element name="re">
+			<attribute name="type">
+				<value>nuance</value>
+			</attribute>
+			<interleave>
+				<text/>
+				<zeroOrMore>
+					<ref name="cit"/>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="ref"/>
+				</zeroOrMore>
+			</interleave>
+    </element>
+	</define>
+	
+	<define name="re-supplement">
+	  <element name="re">
+			<attribute name="ana">
+				<value>supplement</value> <!-- ne devrait contenir aucun <re> ou uniquement des <re type="proverbe"> in fine -->
+			</attribute>
       <interleave> <!-- Ordre à raffiner -->
+				<optional>
+					<ref name="form"/> <!-- Obligatoire et unique in fine -->
+				</optional>
+				<zeroOrMore>
+					<ref name="dictScrap"/>
+				</zeroOrMore>
         <zeroOrMore>
           <ref name="etym"/>
         </zeroOrMore>
@@ -506,13 +617,10 @@
           <ref name="cit"/>
         </zeroOrMore>
         <zeroOrMore>
-          <ref name="dictScrap"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="form"/> <!-- Obligatoire et unique in fine -->
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="note"/>
+					<choice>
+						<ref name="note-remarque"/>
+						<ref name="note-historique"/>
+				</choice>
         </zeroOrMore>
         <zeroOrMore>
           <ref name="ref"/>
@@ -526,7 +634,7 @@
       </interleave>
     </element>
 	</define>
-	
+
 	<define name="re2">
 	  <element name="re">
       <optional>

@@ -1144,7 +1144,7 @@
 <biblScope>Rec. des monum. inédits de l'hist. du tiers état, t. IV, p. 309</biblScope>
 </bibl>
 </cit>
-<form> Cette forme, qui n'éclaircit pas l'étymologie de gâche, mérite pourtant d'être notée. M. Devic, Dict. étym., rapproche gâche de l'espagn. alguaza, penture, gond, que M. Dozy avait identifié avec l'arabe arrazza, gond, gâche. Cette étymologie d'un mot d'ailleurs isolé est très vraisemblable. </form>
+<dictScrap> Cette forme, qui n'éclaircit pas l'étymologie de gâche, mérite pourtant d'être notée. M. Devic, Dict. étym., rapproche gâche de l'espagn. alguaza, penture, gond, que M. Dozy avait identifié avec l'arabe arrazza, gond, gâche. Cette étymologie d'un mot d'ailleurs isolé est très vraisemblable. </dictScrap>
 </re>
 </entry>
 <entry xml:id="gâché">
@@ -22827,9 +22827,8 @@
 </sense>
 <etym>Origine inconnue.</etym>
 <re ana="supplement">
-<form> 2. GAROU. - ÉTYM. Ajoutez : M. Devic, Dict. étym., demande si garou, plante, ne viendrait pas du malais gahârou ou gârou, qui a donné le mot garo, bois d'aigle (voy. </form>
-<ref target="garo">GARO</ref>
-<form> au Dictionnaire et au Supplément). </form>
+<form> 2. GAROU. </form>
+<etym>- ÉTYM. Ajoutez : M. Devic, Dict. étym., demande si garou, plante, ne viendrait pas du malais gahârou ou gârou, qui a donné le mot garo, bois d'aigle (voy. <ref target="garo">GARO</ref> au Dictionnaire et au Supplément). </etym>
 </re>
 </entry>
 <entry xml:id="garou.3">
@@ -60723,7 +60722,7 @@
 <re ana="supplement">
 <form>GOËMON. </form>
 <dictScrap>Ajoutez : </dictScrap>
-<note>- HIST. XIIIe s.  <cit><quote>Recollegissent globum herbae marinae vocatae goumon (alibi gouemon)</quote><bibl><author>DU CANGE</author><biblScope>goumon.</biblScope></bibl></cit> </note>
+<note type="historique">- HIST. XIIIe s.  <cit><quote>Recollegissent globum herbae marinae vocatae goumon (alibi gouemon)</quote><bibl><author>DU CANGE</author><biblScope>goumon.</biblScope></bibl></cit> </note>
 <etym>Ajoutez : " Le mot est emprunté au celtique. Le dictionnaire de Legonidec ne le présente pas ; mais il se trouve dans le Catholicon de Lagadeuc : Goumou ha bezin, gall. Goemon ( e long), lat. alga. Il faut probablement corriger goumon. Les lettres u et n sont ailleurs confondues dans l'édition imprimée du Catholicon, par ex. bann, gall. une vieille tine [corrig. truie], lat. scropha. Le gallois possède le même terme pour varech : gwymon, sea-weed ; irl. et gaél. feamuinn. Pour la formation du mot celtique, comp. ZEUSS-EBEL, Gramm. celt. 776, 826 (BUGGE, Romania, juill.-oct. 1875, p. 358). "</etym>
 </re>
 </entry>
@@ -61843,7 +61842,13 @@
 </bibl>
 </cit>
 </sense>
-<note type="historique"> Ajoutez : <p><label>XIIe s.</label><cit><quote>Des gomes qui dedans alument Bone est l'olors, puisqu'eles fument</quote><bibl><author>BENOIT DE STE-MORE</author><biblScope>Roman de Troie, V. 14829</biblScope></bibl></cit></p> <p><label>XVe s. Ajoutez :</label><cit><quote>Or comparons proprement L'ome à l'eaue, et vitement Se verra vil plus que gomme</quote><bibl><author>E. DESCH.</author><biblScope>Poés. mss. f° 82</biblScope></bibl></cit></p> </note>
+<note type="historique">
+<dictScrap>Ajoutez : </dictScrap>
+<p>
+<label>XIIe s.</label>
+<cit><quote>Des gomes qui dedans alument Bone est l'olors, puisqu'eles fument</quote><bibl><author>BENOIT DE STE-MORE</author><biblScope>Roman de Troie, V. 14829</biblScope></bibl></cit></p> <p><label>XVe s. Ajoutez :</label><cit><quote>Or comparons proprement L'ome à l'eaue, et vitement Se verra vil plus que gomme</quote><bibl><author>E. DESCH.</author><biblScope>Poés. mss. f° 82</biblScope></bibl></cit>
+</p>
+</note>
 </re>
 </entry>
 <entry xml:id="gommé">
@@ -84095,9 +84100,8 @@
 <dictScrap>Vin blanc provenant des environs de Grave, dans le Bordelais.</dictScrap>
 </sense>
 <re ana="supplement">
-<form> 3. GRAVE. - ÉTYM. Ajoutez : Il n'y a pas de localité du nom de Grave dans la Gironde ; et le nom de vin de grave au sens de gravier (voy. </form>
-<ref target="grave..2">GRAVE 2</ref>
-<form> au Dictionnaire), de terrain caillouteux, etc. désigne les vins de la banlieue, en quelque sorte, de Bordeaux, et principalement du côté du sud, par exemple le cru fameux de Haut-Brion. </form>
+<form> 3. GRAVE. </form>
+<etym>- ÉTYM. Ajoutez : Il n'y a pas de localité du nom de Grave dans la Gironde ; et le nom de vin de grave au sens de gravier (voy. <ref target="grave.2">GRAVE 2</ref> au Dictionnaire), de terrain caillouteux, etc. désigne les vins de la banlieue, en quelque sorte, de Bordeaux, et principalement du côté du sud, par exemple le cru fameux de Haut-Brion. </etym>
 </re>
 </entry>
 <entry xml:id="gravé">
@@ -110318,9 +110322,8 @@
 <dictScrap>Un des noms vulgaires du pinson.</dictScrap>
 </sense>
 <re ana="supplement">
-<form> 2. GUIGNOT (ghi-gno), s. m. Nom, en Normandie, du genêt épineux (voy. </form>
-<ref target="vignon">VIGNON</ref>
-<form> au Supplément). </form>
+<form> 2. GUIGNOT (ghi-gno), s. m. </form>
+<dictScrap>Nom, en Normandie, du genêt épineux (voy. <ref target="vignon">VIGNON</ref> au Supplément).</dictScrap>
 </re>
 </entry>
 <entry xml:id="guiguette">

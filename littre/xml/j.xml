@@ -20404,7 +20404,13 @@
 </bibl>
 </cit>
 </sense>
-<note type="historique"> Ajoutez : <p><label>XVIe s.</label><cit><quote>Pour en faire brief et ne cercher point le neud dans le jonc...</quote><bibl><biblScope>Arrest memorable du parlement de Tholose, contenant histoire prodigieuse d'un supposé mary, Paris, 1572, p. 26</biblScope></bibl></cit></p> </note>
+<note type="historique">
+<dictScrap>Ajoutez : </dictScrap>
+<p>
+<label>XVIe s.</label>
+<cit><quote>Pour en faire brief et ne cercher point le neud dans le jonc...</quote><bibl><biblScope>Arrest memorable du parlement de Tholose, contenant histoire prodigieuse d'un supposé mary, Paris, 1572, p. 26</biblScope></bibl></cit>
+</p>
+</note>
 </re>
 </entry>
 <entry xml:id="jonc.2">
@@ -38125,9 +38131,7 @@
 <biblScope>Souv. de la marq. de Créquy, t. I, VI</biblScope>
 </bibl>
 </cit>
-<form> Puis on fait remarquer que comme de raison est accepté dans le Dictionnaire. Enfin de vrai est usité par les meilleurs auteurs (voy. </form>
-<ref target="vrai#var16">VRAI, n° 16</ref>
-<form>). Ce dernier rapprochement dégage comme de juste de tout reproche. </form>
+<dictScrap> Puis on fait remarquer que comme de raison est accepté dans le Dictionnaire. Enfin de vrai est usité par les meilleurs auteurs (voy. <ref target="vrai#var16">VRAI, n° 16</ref>). Ce dernier rapprochement dégage comme de juste de tout reproche. </dictScrap>
 </re>
 </entry>
 <entry xml:id="juste.2">
