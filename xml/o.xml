@@ -14083,7 +14083,8 @@
 </sense>
 <etym>Lat. octantem, la 8e partie d'une chose, de octo, huit (voy. <ref target="huit">HUIT</ref>).</etym>
 <re ana="supplement">
-<form> OCTANT. 2° Ajoutez :  </form>
+<form> OCTANT. 2° </form>
+<dictScrap>Ajoutez : </dictScrap> 
 <cit>
 <quote>Les quatre points situés à 45° de distance de la conjonction et des quadratures, des quadratures et de l'opposition, sont appelés les octants</quote>
 <bibl>
@@ -14091,7 +14092,7 @@
 <biblScope>Astron. pop. liv. XXI, ch. 1er</biblScope>
 </bibl>
 </cit>
-<form> La lune est dans les octants, quand elle se trouve à 45°, 135°, 225° ou 315° du soleil. </form>
+<dictScrap> La lune est dans les octants, quand elle se trouve à 45°, 135°, 225° ou 315° du soleil. </dictScrap>
 </re>
 </entry>
 <entry xml:id="octante">
@@ -67342,9 +67343,8 @@
 </sense>
 <etym>Or, et valoir : valant de l'or.</etym>
 <re ana="supplement">
-<form> 2. ORVALE (or-va-l'), s. f. Voy. </form>
-<ref target="ovaille">OVAILLE</ref>
-<form> au Supplément. </form>
+<form> 2. ORVALE (or-va-l'), s. f. </form>
+<dictScrap>Voy. <ref target="ovaille">OVAILLE</ref> au Supplément. </dictScrap>
 </re>
 </entry>
 <entry xml:id="orvet">
