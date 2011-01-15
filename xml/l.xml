@@ -84848,7 +84848,11 @@
 <etym>Wallon, lus' ; namur. lusk ; provenç. losc ; catal. llusco ; du lat. luscus, borgne. Le changement de sens ne peut faire ici difficulté ; déjà de luscus, borgne, le latin avait formé lusciosus, louche, ainsi le changement de sens était déjà opéré.</etym>
 <re ana="supplement">
 <form> 1. LOUCHE. </form>
-<note type="historique">- HIST. XIIIe s. Ajoutez : 
+<note type="historique">
+<dictScrap>- HIST. </dictScrap>
+<p>
+<label>XIIIe s. </label>
+<dictScrap>Ajoutez : </dictScrap>
 <cit>
 <quote>Uns chevaliers, Belchis li lois, Qui a le front plus noir que pois</quote>
 <bibl>
@@ -84856,6 +84860,7 @@
 </bibl>
 </cit>
 <dictScrap>(lois représente le latin luscus).</dictScrap>
+</p>
 </note>
 </re>
 </entry>

@@ -2,29 +2,30 @@
 
 <grammar xmlns="http://relaxng.org/ns/structure/1.0"
 	ns="http://www.tei-c.org/ns/1.0"
-	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+	xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
 	xml:lang="fr">
-	
+
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h1>Schéma du Littré</h1>
 	</a:documentation>
 
 	<start>
 		<element name="TEI">
-			<attribute name="xml:id"/> <!-- Datatype sous-entendu -->
+			<attribute name="xml:id"/> <!-- datatype sous-entendu -->
 			<ref name="teiHeader"/>
 			<ref name="text"/>
 		</element>
 	</start>
-	
+
 	<!-- ========================= DESCRIPTION NIVEAU 1 ========================= -->
-	
+
 	<define name="teiHeader">
 		<element name="teiHeader">
 			<ref name="fileDesc"/>
 		</element>
 	</define>
-	
+
   <define name="text">
     <element name="text">
       <element name="body">
@@ -34,48 +35,44 @@
       </element>
     </element>
   </define>
-	
+
 	<!-- ========================= DESCRIPTION NIVEAU 2 ========================= -->
-	
-  <!-- TeiHeader content -->
-	
+
+	<!-- contenu de <teiHeader> -->
+
 	<define name="fileDesc">
-    <element name="fileDesc">
-      <ref name="titleStmt"/>
-      <ref name="publicationStmt"/>
-      <ref name="sourceDesc"/>
-    </element>
+		<element name="fileDesc">
+			<ref name="titleStmt"/>
+			<ref name="publicationStmt"/>
+			<ref name="sourceDesc"/>
+		</element>
 	</define>
-	
-  <!-- Text/Body content -->
-	
+
+	<!-- contenu de <text><body> -->
+
 	<define name="entry">
 		<element name="entry">
-
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Un article (entrée)
-				<p>
-				Un identifiant unique pour chaque entrée, correspondant à la vedette. Celle-ci peut-être :
+				<p>Un identifiant unique pour chaque entrée, correspondant à la vedette. Celle-ci peut-être :
 					<ul>
 						<li>une forme simple, auquel cas il s'agira du lemme de ce mot, éventuellement suivi d'un point et d'un indice numérique afin de différencier deux entrée portant sur le même lemme<br/>exemple : @xml:id="abrégé.1" et xml:id="abrégé.2" ;</li>
 						<li>une forme composée -- type locution -- transcrite telle quelle<br/>exemple : @xml:id="te_deum" et @xml:id="vaque_à_tout" ;</li>
 						<li>un préfixe, auquel cas sa forme sera suivie d'un tiret court, son statut de suffixe étant précisé par l'attribut @type<br/>exemple : @xml:id="andr-" ;</li>
 						<li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut @type<br/>exemple : @xml:id="acé" ;</li>
 					</ul>
-			</p>
+				</p>
 			</a:documentation>
-			
 			<attribute name="xml:id"/>
 			<optional>
-			  <attribute name="type">
-			    <choice>
-			      <value>prefixe</value>
-            <value>suffixe</value>
-			    </choice>
-			  </attribute>
+				<attribute name="type">
+					<choice>
+						<value>prefixe</value>
+						<value>suffixe</value>
+					</choice>
+				</attribute>
 			</optional>
-			
 			<choice>
-				<group> <!-- entrées particulières codant des participes passés, pluriels, etc. (éventuels renvois vers d'autres entrées) -->
+				<group> <!-- entrées particulières codant participes passés, pluriels, etc. -->
 					<ref name="form"/>
 					<zeroOrMore>
 						<ref name="cit"/>
@@ -102,13 +99,13 @@
 						<ref name="sense1"/>
 					</oneOrMore>
 					<zeroOrMore>
-						<ref name="re-proverbe"/> <!-- suivi ou non de note/etym ? -->
+						<ref name="re-proverbe"/>
 					</zeroOrMore>
 					<optional>
-						<ref name="etym"/> <!-- peut se trouver avant <note> pour coder un renvoi eg -->
+						<ref name="etym"/>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/> <!-- avant note"hist" & après etym dans le source" -->
+						<ref name="re-supplement"/>
 					</optional>
 					<zeroOrMore>
 						<ref name="note-remarque"/>
@@ -148,293 +145,287 @@
 					</optional>
 					<optional>
 						<choice>
-							<ref name="re-nuance"/> <!-- "nuance" Erreur ? Devrait être contenu dans supplément ?-->
-							<ref name="note-historique"/> <!-- Erreur idem ? -->
-							<ref name="note-remarque"/> <!-- Erreur idem ? -->
+							<ref name="re-nuance"/> <!-- erreur : devrait être contenu dans supplément ?-->
+							<ref name="note-historique"/> <!-- erreur idem ? -->
+							<ref name="note-remarque"/> <!-- erreur idem ? -->
 						</choice>
 					</optional>
 				</group>
 			</choice>
-				
-<!-- sense . note"hist" . re"nuance" . "etym" . re"suppl" -->
-<!-- sense+ . note"rem" . re"nuance"+ . note"hist" . etym . re"suppl" -->
-<!-- sense+ . note"rem" . re"nuance" . note"hist" . etym -->
-<!-- sense+ . note"hist" . etym+ -->
-<!-- sense+ . note"hist" . etym . note"hist" -->
-<!-- sense+ . note"hist" . etym . re"suppl" . note"rem" -->
-
-<!-- sense . note? . etym? -->
-<!-- sense+ . note ? . etym(?) -->
-<!-- sense+ . note+ . etym . re -->
-			
-    </element>
-	</define>
-	
-  <!-- ========================= DESCRIPTION NIVEAU 3 ========================= -->
-
-  <!-- fileDesc content -->
-  
-  <define name="titleStmt">
-	  <element name="titleStmt">
-      <element name="title">
-        <text/>
-      </element>
-    </element>
-	</define>
-	
-	<define name="publicationStmt">
-	  <element name="publicationStmt">
-      <element name="date">
-        <text/>
-      </element>
-      <element name="idno">
-        <text/>
-      </element>
-      <element name="publisher">
-        <text/>
-      </element>
-      <element name="availability">
-        <attribute name="status">
-          <value>restricted</value>
-        </attribute>
-        <oneOrMore>
-          <ref name="p"/>
-        </oneOrMore>
-      </element>
-    </element>
-	</define>
-	
-	<define name="sourceDesc">
-    <element name="sourceDesc">
-      <ref name="bibl-sourceDesc"/>
-      <ref name="bibl-sourceDesc"/>
-    </element>
-	</define>
-	
-  <!-- entry content -->
-	
-	<define name="form">
-		<element name="form">
-      <interleave> <!-- Ordre à raffiner -->
-       <optional>
-          <ref name="note"/>
-       </optional>
-       <optional>
-          <ref name="ref"/>
-       </optional>
-       <zeroOrMore>
-          <text/>
-       </zeroOrMore>
-       <zeroOrMore>
-          <ref name="cit"/>
-       </zeroOrMore>
-       <zeroOrMore>
-          <ref name="gram"/>
-       </zeroOrMore>
-       <zeroOrMore>
-          <ref name="orth"/>
-       </zeroOrMore>
-       <zeroOrMore>
-          <ref name="pron"/>
-       </zeroOrMore>
-      </interleave>
 		</element>
 	</define>
-	
+
+	<!-- ========================= DESCRIPTION NIVEAU 3 ========================= -->
+
+	<!-- contenu de <fileDesc> -->
+  
+	<define name="titleStmt">
+		<element name="titleStmt">
+			<element name="title">
+				<text/>
+			</element>
+		</element>
+	</define>
+
+	<define name="publicationStmt">
+		<element name="publicationStmt">
+			<element name="date">
+				<text/>
+			</element>
+			<element name="idno">
+				<text/>
+			</element>
+			<element name="publisher">
+				<text/>
+			</element>
+			<element name="availability">
+				<attribute name="status">
+					<value>restricted</value>
+				</attribute>
+				<oneOrMore>
+					<ref name="p"/>
+				</oneOrMore>
+			</element>
+		</element>
+	</define>
+
+	<define name="sourceDesc">
+		<element name="sourceDesc">
+			<ref name="bibl"/>
+			<ref name="bibl"/>
+		</element>
+	</define>
+
+	<!-- contenu de <entry> -->
+
+	<define name="form">
+		<element name="form">
+			<choice>
+				<group> <!-- <form> qui ne sont pas des fils directs de <entry> -->
+					<text/>
+					<optional>
+						<ref name="ref"/>
+						<text/>
+					</optional>
+				</group>
+				<group> <!-- <form> fils direct de <entry> -->
+					<ref name="orth"/>
+					<optional>
+						<ref name="pron"/>
+					</optional>
+					<optional>
+						<text/>
+					</optional>
+					<optional>
+						<ref name="ref"/>
+					</optional>
+					<zeroOrMore>
+						<ref name="cit"/>
+					</zeroOrMore>
+					<optional>
+						<ref name="gram"/>
+					</optional>
+					<optional>
+						<text/>
+					</optional>
+					<optional>
+						<ref name="note"/>
+					</optional>
+				</group>
+			</choice>
+		</element>
+	</define>
+
 	<define name="sense1">
 		<element name="sense">
-		  <optional> <!-- @n absent si <entry> ne contient qu'un seul <sense>, obligatoire sinon -->
-		    <attribute name="n">
-          <data type="positiveInteger"/>
+			<optional> <!-- @n absent si <entry> ne contient qu'un seul <sense>, obligatoire sinon -->
+				<attribute name="n">
+					<data type="positiveInteger"/>
 				</attribute>
-		  </optional>
+			</optional>
 			<optional>
-		    <attribute name="ana">
+				<attribute name="ana">
 					<value>supplement</value>
 				</attribute>
-		  </optional>
-		  <interleave>  <!-- Ordre à raffiner -->
-		    <optional>
-		      <ref name="etym"/>
-		    </optional>
-		    <optional>
+			</optional>
+			<interleave> <!-- ordre à raffiner -->
+				<optional>
+					<ref name="etym"/>
+				</optional>
+				<optional>
 					<choice>
 						<ref name="note-remarque"/>
 						<ref name="note-historique"/>
 					</choice>
-		    </optional>
-		    <zeroOrMore>
+				</optional>
+				<zeroOrMore>
 					<choice>
-		      <ref name="re-supplement"/>
+					<ref name="re-supplement"/>
 					<ref name="re-proverbe"/>
 				</choice>
-		    </zeroOrMore>
-		    <zeroOrMore>
-		      <ref name="cit"/>
-		    </zeroOrMore>
-		    <zeroOrMore>
-		      <ref name="dictScrap"/>
-		    </zeroOrMore>
-		    <zeroOrMore>
-		      <ref name="sense2"/>
-		    </zeroOrMore>
-		  </interleave>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="cit"/>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="dictScrap"/>
+				</zeroOrMore>
+				<zeroOrMore>
+					<ref name="sense"/>
+				</zeroOrMore>
+			</interleave>
 		</element>
 	</define>
-	
-  <!-- ========================= DESCRIPTION NIVEAU 4 ========================= -->
+
+	<!-- ========================= DESCRIPTION NIVEAU 4 ========================= -->
   
-<!-- form content -->
+	<!-- contenu de <form> -->
 
-<define name="orth">
-  <element name="orth">
-    <text/>
-  </element>
-</define>
-
-<define name="pron">
-	  <element name="pron">
-      <text/>
-      <optional>
-        <ref name="ref"/>
-        <text/>
-      </optional>
-      <zeroOrMore>
-        <ref name="cit"/>
-        <text/>
-      </zeroOrMore>
-    </element>
-</define>
-
-<define name="gram">
-  <element name="gram">
-    <text/>
-    <optional>
-      <ref name="ref"/>
-      <text/>
-    </optional>
-  </element>
-</define>
-
-<!-- sense1 content -->
-
-	<define name="sense2">
-  	<element name="sense">
-  	    <choice>
-  	      <text/>
-          <group>
-            <interleave>  <!-- Ordre à raffiner -->
-              <zeroOrMore>
-                <ref name="cit"/>
-              </zeroOrMore>
-              <zeroOrMore>
-                <ref name="dictScrap"/>
-              </zeroOrMore>
-            </interleave>
-          </group>
-        </choice>
-    </element>
+	<define name="orth">
+		<element name="orth">
+			<text/>
+		</element>
 	</define>
-	
-  <!-- ========================= DESCRIPTION MIXTE ========================= -->
+
+	<define name="pron">
+		<element name="pron">
+			<text/>
+			<optional>
+				<ref name="ref"/>
+				<text/>
+			</optional>
+			<zeroOrMore>
+				<ref name="cit"/>
+				<text/>
+			</zeroOrMore>
+		</element>
+	</define>
+
+	<define name="gram">
+		<element name="gram">
+			<text/>
+			<optional>
+				<ref name="ref"/>
+				<text/>
+			</optional>
+		</element>
+	</define>
+
+	<!-- contenu de <sense> 1 -->
+
+	<define name="sense">
+		<element name="sense">
+				<choice>
+					<text/>
+					<group>
+						<zeroOrMore>
+							<choice>
+								<ref name="cit"/>
+								<ref name="dictScrap"/>
+							</choice>
+						</zeroOrMore>
+					</group>
+				</choice>
+		</element>
+	</define>
+
+	<!-- ========================= DESCRIPTION MIXTE ========================= -->
   
-  <define name="bibl-sourceDesc">
-    <element name="bibl">
-      <choice>
-        <text/>
-        <ref name="ref"/>
-      </choice>
-    </element>
-  </define>
-
-  <define name="bibl">
-    <element name="bibl">
-      <optional>
-        <element name="author">
-          <optional>
-            <attribute name="xml:id"/> <!-- Obligatoire in fine -->
-          </optional>
-          <text/>
-        </element>
-      </optional>
-      <element name="biblScope">
-        <text/>
-      </element>
-    </element>
+	<define name="bibl">
+		<element name="bibl">
+			<choice>
+				<group> <!-- <bibl> dans <sourceDesc> -->
+					<choice>
+						<text/>
+						<ref name="ref"/>
+					</choice>
+				</group>
+				<group> <!-- <bibl> dans le reste du document -->
+					<optional>
+						<element name="author">
+							<optional>
+								<attribute name="xml:id"/> <!-- obligatoire in fine -->
+							</optional>
+							<text/>
+						</element>
+					</optional>
+					<element name="biblScope">
+						<text/>
+					</element>
+				</group>
+			</choice>
+		</element>
 	</define>
-	
-  <define name="cit">
+
+	<define name="cit">
 		<element name="cit">
 			<element name="quote">
 				<text/>
 				<optional>
-				  <ref name="ref"/>
-				  <text/>
+					<ref name="ref"/>
+					<text/>
 				</optional>
 			</element>
 			<ref name="bibl"/>
 		</element>
-  </define>
-  
-  <define name="dictScrap">
-		<element name="dictScrap"> <!-- À supprimer in fine -->
-	    <optional>
-	      <text/>
-	    </optional>
-	    <zeroOrMore>
-				<ref name="q"/> <!-- Pê à supprimer -->
-	        <text/>
-      </zeroOrMore>
-      <text/>
-      <zeroOrMore>
-        <ref name="ref"/>
-        <text/>
-      </zeroOrMore>
-    </element>
 	</define>
   
-  <define name="etym">
-		<element name="etym">
-      <interleave>
-        <zeroOrMore>
-          <text/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="cit"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="ref"/>
-        </zeroOrMore>
-				<optional>
-					<ref name="dictScrap"/>
-				</optional>
-      </interleave>
+	<define name="dictScrap">
+		<element name="dictScrap"> <!-- à supprimer in fine -->
+			<optional>
+				<text/>
+			</optional>
+			<zeroOrMore>
+				<ref name="q"/> <!-- ? -->
+					<text/>
+			</zeroOrMore>
+			<text/>
+			<zeroOrMore>
+				<ref name="ref"/>
+				<text/>
+			</zeroOrMore>
 		</element>
 	</define>
-	
-	<!-- Appelé uniquement par <note> -->
-	<define name="label">
-	  <element name="label">
-      <text/>
-    </element>
+  
+	<define name="etym">
+		<element name="etym">
+			<text/>
+			<zeroOrMore>
+				<choice>
+					<ref name="cit"/>
+					<ref name="ref"/>
+				</choice>
+				<text/>
+			</zeroOrMore>
+			<optional>
+				<ref name="dictScrap"/>
+			</optional>
+		</element>
 	</define>
-	
+
+	<!-- Appelé uniquement par <note type="historique"> -->
+	<define name="label">
+		<element name="label">
+			<text/>
+		</element>
+	</define>
+
 	<!-- Appelé uniquement par <note type="plan"> -->
 	<define name="list">
-	  <element name="list">
-	    <oneOrMore>
-	      <element name="item">
-	        <attribute name="n">
-  	        <data type="string"/> <!-- Devrait être de type "positiveInteger" mais il y a un cas où il s'agit d'un string -->
-	        </attribute>
-	        <text/>
-	      </element>
-	    </oneOrMore>
-	  </element>
+		<element name="list">
+			<oneOrMore>
+				<element name="item">
+					<attribute name="n">
+						<data type="string"/> <!-- de type "positiveInteger" sauf un cas -->
+					</attribute>
+					<text/>
+				</element>
+			</oneOrMore>
+		</element>
 	</define>
   
 	<!-- Appelé uniquement dans <form> ? -->
-  <define name="note">
+	<define name="note">
 		<element name="note">
 			<text/>
 			<optional>
@@ -443,42 +434,7 @@
 			</optional>
 		</element>
 	</define>
-	
-	<define name="note-historique">
-		<element name="note">
-			<attribute name="type">
-				<value>historique</value>
-			</attribute>
-			<optional>
-				<ref name="dictScrap"/> <!-- "Ajoutez :" -->
-			</optional>
-			<choice><!-- à supprimer in fine pour rendre <p> obligatoire -->
-				<oneOrMore>
-					<ref name="p"/>
-				</oneOrMore>
-				<group>
-					<interleave>
-						<optional>
-							<text/>
-						</optional>
-						<optional>
-							<ref name="dictScrap"/>
-						</optional>
-						<zeroOrMore>
-							<ref name="label"/>
-						</zeroOrMore>
-						<zeroOrMore>
-							<ref name="cit"/>
-						</zeroOrMore>
-						<zeroOrMore>
-							<ref name="ref"/>
-						</zeroOrMore>
-					</interleave>
-				</group>
-			</choice>
-		</element>
-	</define>
-	
+
 	<define name="note-plan">
 		<element name="note">
 			<attribute name="type">
@@ -490,96 +446,146 @@
 			<ref name="list"/>
 		</element>
 	</define>
-	
+
+	<define name="note-historique">
+		<element name="note">
+			<attribute name="type">
+				<value>historique</value>
+			</attribute>
+			<optional>
+				<ref name="dictScrap"/> <!-- "Ajoutez :" -->
+			</optional>
+			<choice> <!-- à supprimer in fine pour rendre <p> obligatoire -->
+				<oneOrMore>
+					<ref name="p"/>
+				</oneOrMore>
+				<group> <!-- si <p> est absent, contenu de <p> -->
+					<optional>
+						<choice>
+							<text/>
+							<ref name="dictScrap"/>
+						</choice>
+					</optional>
+					<optional>
+						<ref name="label"/>
+					</optional>
+					<zeroOrMore>
+						<ref name="cit"/>
+					</zeroOrMore>
+				</group>
+			</choice>
+		</element>
+	</define>
+
 	<define name="note-remarque">
 		<element name="note">
 			<attribute name="type">
 				<value>remarque</value>
 			</attribute>
-			<interleave>
-				<text/>
-				<zeroOrMore>
-					<ref name="p"/>
-				</zeroOrMore>
-				<zeroOrMore>
-					<ref name="cit"/>
-				</zeroOrMore>
-				<zeroOrMore>
-					<ref name="q"/>
-				</zeroOrMore>
-				<zeroOrMore>
-					<ref name="ref"/>
-				</zeroOrMore>
-			</interleave>
+			<choice>
+				<group>
+					<optional>
+						<choice>
+							<ref name="dictScrap"/> <!-- "Ajoutez :" -->
+							<text/>
+					</choice>
+					</optional>
+					<oneOrMore>
+						<ref name="p"/>
+					</oneOrMore>
+				</group>
+				<group>
+					<text/>
+					<zeroOrMore>
+						<ref name="q"/>
+						<text/>
+					</zeroOrMore>
+					<zeroOrMore>
+						<ref name="cit"/>
+						<text/>
+					</zeroOrMore>
+					<zeroOrMore>
+						<ref name="ref"/>
+						<text/>
+					</zeroOrMore>
+				</group>
+			</choice>
 		</element>
 	</define>
-	
-	<define name="p"> <!-- À supprimer ? -->
+
+	<define name="p">
 	  <element name="p">
-        <interleave> <!-- Ordre à raffiner -->
-          <optional>
-            <text/>
-          </optional>
-					<optional>
-						<ref name="dictScrap"/>
-					</optional>
-          <zeroOrMore>
-            <ref name="cit"/>
-          </zeroOrMore>
-          <zeroOrMore>
-            <ref name="label"/>
-          </zeroOrMore>
-          <zeroOrMore>
-            <ref name="ref"/>
-          </zeroOrMore>
-				</interleave>
-    </element>
+			<optional>
+				<choice>
+					<text/>
+					<ref name="dictScrap"/>
+				</choice>
+			</optional>
+			<optional>
+				<ref name="ref"/>
+				<text/>
+			</optional>
+			<optional>
+				<ref name="label"/>
+			</optional>
+			<optional>
+				<ref name="dictScrap"/> <!-- "Ajoutez : " -->
+			</optional>
+			<zeroOrMore>
+				<ref name="cit"/>
+				<choice>
+					<text/>
+					<ref name="dictScrap"/>
+				</choice>
+			</zeroOrMore>
+			<optional>
+				<ref name="dictScrap"/>
+			</optional>
+		</element>
 	</define>
-	
+
 	<!-- Appelé uniquement par <dictScrap> -->
 	<define name="q">
-	  <element name="q">
-	    <text/>
-	  </element>
+		<element name="q">
+			<text/>
+		</element>
 	</define>
-	
+
 	<define name="ref">
 		<element name="ref">
 			<attribute name="target"/> <!-- @data="anyURI" in fine -->
 			<text/>
 		</element>
 	</define>
-	
+
 	<define name="re-proverbe">
-	  <element name="re">
+		<element name="re">
 			<attribute name="type">
 				<value>proverbe</value>
 			</attribute>
-      <optional>
+			<optional>
 				<text/>
 			</optional>
-			<interleave>
-				<zeroOrMore>
+			<zeroOrMore>
+				<ref name="form"/> <!-- obligatoire in fine -->
+				<choice>
 					<text/>
-        </zeroOrMore>
+					<ref name="dictScrap"/>
+				</choice>
 				<zeroOrMore>
-					<ref name="form"/><!-- Obligatoire et unique in fine --> <!-- <re type="proverbe"><form>Ville qui capitule, ville rendue</form>, ou bien, <form>est à demi rendue</form> ; c'est-à-dire écouter certaines propositions est déjà une faiblesse qui fait croire qu'on les acceptera. </re> -->
+					<ref name="cit"/>
+					<text/>
 				</zeroOrMore>
-        <zeroOrMore>
-          <ref name="dictScrap"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="cit"/>
-        </zeroOrMore>
-				<zeroOrMore>
-					<ref name="ref"/>
-				</zeroOrMore>
-      </interleave>
-    </element>
+			</zeroOrMore>
+			<zeroOrMore>
+				<ref name="cit"/>
+				<text/>
+			</zeroOrMore>
+		</element>
 	</define>
-	
+
 	<define name="re-nuance">
-	  <element name="re">
+		<element name="re">
 			<attribute name="type">
 				<value>nuance</value>
 			</attribute>
@@ -592,77 +598,65 @@
 					<ref name="ref"/>
 				</zeroOrMore>
 			</interleave>
-    </element>
-	</define>
-	
-	<define name="re-supplement">
-	  <element name="re">
-			<attribute name="ana">
-				<value>supplement</value> <!-- ne devrait contenir aucun <re> ou uniquement des <re type="proverbe"> in fine -->
-			</attribute>
-      <interleave> <!-- Ordre à raffiner -->
-				<optional>
-					<ref name="form"/> <!-- Obligatoire et unique in fine -->
-				</optional>
-				<zeroOrMore>
-					<ref name="dictScrap"/>
-				</zeroOrMore>
-        <zeroOrMore>
-          <ref name="etym"/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <text/>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="cit"/>
-        </zeroOrMore>
-        <zeroOrMore>
-					<choice>
-						<ref name="note-remarque"/>
-						<ref name="note-historique"/>
-				</choice>
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="ref"/>
-        </zeroOrMore>
-        <zeroOrMore>
-					<ref name="re2"/> <!-- Pê absent in fine -->
-        </zeroOrMore>
-        <zeroOrMore>
-          <ref name="sense1"/>
-        </zeroOrMore>
-      </interleave>
-    </element>
+		</element>
 	</define>
 
-	<define name="re2">
-	  <element name="re">
-      <optional>
-        <attribute name="type">
-          <choice>
-            <value>proverbe</value>
-            <value>nuance</value>
-          </choice>
-        </attribute>
-      </optional>
-      <interleave> <!-- Ordre à raffiner -->
-          <zeroOrMore>
-            <text/>
-          </zeroOrMore>
-          <zeroOrMore>
-            <ref name="cit"/>
-          </zeroOrMore>
-          <zeroOrMore>
-            <ref name="form"/>  <!-- Obligatoire et unique in fine -->
-          </zeroOrMore>
-          <zeroOrMore>
-            <ref name="ref"/>
-          </zeroOrMore>
-          <zeroOrMore>
-            <ref name="sense1"/>
-          </zeroOrMore>
-        </interleave>
-	  </element>
+	<define name="re-supplement">
+		<element name="re">
+			<attribute name="ana">
+				<value>supplement</value>
+			</attribute>
+			<zeroOrMore>
+				<ref name="re"/> <!-- <re> sans attribut, à supprimer in fine -->
+			</zeroOrMore>
+			<optional>
+				<ref name="form"/>
+			</optional>
+			<optional>
+				<ref name="dictScrap"/> <!-- "Ajoutez : " -->
+			</optional>
+			<zeroOrMore>
+				<choice>
+					<ref name="cit"/>
+					<ref name="etym"/>
+					<ref name="note-remarque"/>
+					<ref name="dictScrap"/> <!-- à supprimer in fine (code <etym> ou autre) -->
+					<ref name="re"/> <!-- <re> sans attribut, à supprimer in fine (code <etym> ou autre) -->
+				</choice>
+			</zeroOrMore>
+			<zeroOrMore>
+				<ref name="sense1"/>
+			</zeroOrMore>
+			<zeroOrMore>
+				<choice>
+					<ref name="cit"/>
+					<ref name="dictScrap"/>
+					<ref name="etym"/>
+					<ref name="note-historique"/>
+					<ref name="note-remarque"/>
+					<ref name="re"/> <!-- <re> sans attribut, à supprimer in fine (code <etym> ou autre) -->
+					<ref name="re-nuance"/>
+					<ref name="re-proverbe"/>
+				</choice>
+			</zeroOrMore>
+			<zeroOrMore>
+				<ref name="sense1"/>
+			</zeroOrMore>
+		</element>
+	</define>
+
+	<define name="re"> <!-- à supprimer in fine : remplacer par d'autres éléments -->
+		<element name="re">
+			<zeroOrMore>
+				<choice>
+					<text/>
+					<ref name="cit"/>
+					<ref name="form"/>
+					<ref name="ref"/>
+					<ref name="sense1"/>
+				</choice>
+			</zeroOrMore>
+		</element>
 	</define>
 
 </grammar>

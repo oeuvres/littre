@@ -59023,7 +59023,10 @@
 <etym>Berry, hanorer (han prononcé comme dans l'an) ; provenç. honorar, honrar, onrar, hondrar ; espagn. et portug. honrar ; ital. onorare ; du latin honorare. Dans le XVIe siècle, Palsgrave, p. 56, dit que dans honnorer (ainsi écrit) les deux n se prononcent.</etym>
 </entry>
 <entry xml:id="honores">
-<form><orth>HONORES</orth> 	AD <pron>(a-do-no-rès)</pron> </form>
+<form>
+<orth>AD HONORES</orth>
+<pron>(a-do-no-rès)</pron>
+</form>
 <sense>
 <dictScrap>Se dit de certains titres qui, n'apportant aucun revenu, et ne demandant aucun travail, n'ont que l'apparence dont on se fait honneur. Une place ad honores.</dictScrap>
 </sense>
