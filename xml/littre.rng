@@ -27,25 +27,24 @@
 		<h3>Le Littré</h3>
 		<p>Cf. 0. "Introduction" + I. "Nomenclature des mots"</p>
 		<p>&#171;&#x202F;Le passé de la langue conduit immédiatement l'esprit vers son avenir.&#x202F;&#187;</p>
-		<p>les mots que l'on trouve dans le Littré&#160;: la nomenclature du Dictionnaire de l'Académie Française. Ce &#171;&#x202F;corps de la langue&#x202F;&#187; est enrichi par l'auteur, qui veille scrupuleusement à distinguer pa le biais de la typographie ce dernier des ajouts qu'il intègre&#160;: &#171;&#x202F;j'ai eu soin de noter par un signe particulier tous les mots qui sont étrangers au Dictionnaire de l'Académie&#x202F;&#187;.</br>Les sources d'addition à l'origine de cet enrichissement sont les suivantes&#160;:
-			<ul>
-				<li>&#171;&#x202F;dépouillement des auteurs classiques&#x202F;&#187;</li>
-				<li>&#171;&#x202F;auteurs du seizième siècle, du quinzième, et même par les auteurs antérieurs, s'il était possible d'y puiser sans réserve&#x202F;&#187;</li>
-				<li>&#171;&#x202F;termes de métier&#x202F;&#187;&#160;: à partir de la nomenclature des travaux de Furetière et Richelet</li>
-				<li>termes scientifiques&#160;:&#171;&#x202F;tandis que la langue des métiers est toujours populaire, souvent archaïque, et tirée des entrailles même de notre idiome, la langue scientifique est presque toute grecque, artificielle et systématique&#160;: là l'étymologie se présente d'elle-même&#x202F;&#187;</li>
-			</ul>
-		</p>
+		<p>les mots que l'on trouve dans le Littré&#160;: la nomenclature du Dictionnaire de l'Académie Française. Ce &#171;&#x202F;corps de la langue&#x202F;&#187; est enrichi par l'auteur, qui veille scrupuleusement à distinguer pa le biais de la typographie ce dernier des ajouts qu'il intègre&#160;: &#171;&#x202F;j'ai eu soin de noter par un signe particulier tous les mots qui sont étrangers au Dictionnaire de l'Académie&#x202F;&#187;.</br>Les sources d'addition à l'origine de cet enrichissement sont les suivantes&#160;:</p>
+		<p><ul>
+			<li>&#171;&#x202F;dépouillement des auteurs classiques&#x202F;&#187;</li>
+			<li>&#171;&#x202F;auteurs du seizième siècle, du quinzième, et même par les auteurs antérieurs, s'il était possible d'y puiser sans réserve&#x202F;&#187;</li>
+			<li>&#171;&#x202F;termes de métier&#x202F;&#187;&#160;: à partir de la nomenclature des travaux de Furetière et Richelet</li>
+			<li>termes scientifiques&#160;:&#171;&#x202F;tandis que la langue des métiers est toujours populaire, souvent archaïque, et tirée des entrailles même de notre idiome, la langue scientifique est presque toute grecque, artificielle et systématique&#160;: là l'étymologie se présente d'elle-même&#x202F;&#187;</li>
+		</ul></p>
 	</a:documentation>
 
- <define name="text">
-    <element name="text">
-      <element name="body">
-        <oneOrMore>
-          <ref name="entry"/>
-        </oneOrMore>
-      </element>
-    </element>
-  </define>
+	<define name="text">
+		<element name="text">
+			<element name="body">
+				<oneOrMore>
+					<ref name="entry"/>
+				</oneOrMore>
+			</element>
+		</element>
+	</define>
 
 	<!-- description de <entry> -->
 
@@ -83,7 +82,7 @@
 						</choice>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/> <!-- à remplacer par <add> ? -->
+						<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
 					</optional>
 				</group>
 				<group>
@@ -104,7 +103,7 @@
 						<ref name="etym"/>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/>
+						<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
 					</optional>
 					<zeroOrMore>
 						<ref name="note-remarque"/>
@@ -140,7 +139,7 @@
 						<ref name="etym"/>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/>
+						<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
 					</optional>
 					<optional>
 						<choice>
@@ -198,7 +197,7 @@
 			</choice>
 		</element>
 	</define>
-	
+
 	<define name="orth">
 		<element name="orth">
 			<text/>
@@ -228,7 +227,7 @@
 			</optional>
 		</element>
 	</define>
-	
+
 	<define name="note">
 		<element name="note">
 			<text/>
@@ -238,8 +237,8 @@
 			</optional>
 		</element>
 	</define>
-	
-  <!-- description de <sense> -->
+
+	<!-- description de <sense> -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h3>sense</h3>
@@ -258,7 +257,7 @@
 					<value>supplement</value>
 				</attribute>
 			</optional>
-			<interleave> <!-- ordre à raffiner -->
+			<interleave> <!-- TODO ordre à raffiner -->
 				<optional>
 					<ref name="etym"/>
 				</optional>
@@ -270,7 +269,7 @@
 				</optional>
 				<zeroOrMore>
 					<choice>
-					<ref name="re-supplement"/>
+					<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
 					<ref name="re-proverbe"/>
 				</choice>
 				</zeroOrMore>
@@ -281,7 +280,7 @@
 					<ref name="dictScrap"/>
 				</zeroOrMore>
 				<zeroOrMore>
-					<ref name="sense2"/> <!-- <ref name="sense"/> -->
+					<ref name="sense2"/>
 				</zeroOrMore>
 			</interleave>
 		</element>
@@ -309,12 +308,12 @@
 	</a:documentation>
   
 	<define name="dictScrap">
-		<element name="dictScrap"> <!-- à supprimer in fine -->
+		<element name="dictScrap"> <!-- TODO supprimer <dictScrap> sans attribut -->
 			<optional>
 				<text/>
 			</optional>
 			<zeroOrMore>
-				<ref name="q"/> <!-- ? -->
+				<ref name="q"/> <!-- pertinent ? -->
 					<text/>
 			</zeroOrMore>
 			<text/>
@@ -351,7 +350,7 @@
 					<optional>
 						<element name="author">
 							<optional>
-								<attribute name="xml:id"/> <!-- obligatoire in fine -->
+								<attribute name="xml:id"/> <!-- TODO supprimer cardinalité <optional> -->
 							</optional>
 							<text/>
 						</element>
@@ -378,7 +377,7 @@
 				<group>
 					<optional>
 						<choice>
-							<ref name="dictScrap"/> <!-- "Ajoutez :" -->
+							<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
 							<text/>
 					</choice>
 					</optional>
@@ -389,7 +388,7 @@
 				<group>
 					<text/>
 					<zeroOrMore>
-						<ref name="q"/>
+						<ref name="q"/> <!-- pertinent ? -->
 						<text/>
 					</zeroOrMore>
 					<zeroOrMore>
@@ -420,7 +419,7 @@
 				<text/>
 			</optional>
 			<zeroOrMore>
-				<ref name="form"/> <!-- obligatoire in fine -->
+				<ref name="form"/> <!-- TODO remplacer cardinalité <zeroOrMore> par <oneOrMore> -->
 				<choice>
 					<text/>
 					<ref name="dictScrap"/>
@@ -471,13 +470,13 @@
 				<value>historique</value>
 			</attribute>
 			<optional>
-				<ref name="dictScrap"/> <!-- "Ajoutez :" -->
+				<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
 			</optional>
-			<choice> <!-- à supprimer in fine pour rendre <p> obligatoire -->
+			<choice> <!-- TODO supprimer <choice> pour rendre <p> obligatoire -->
 				<oneOrMore>
 					<ref name="p"/>
 				</oneOrMore>
-				<group> <!-- si <p> est absent, contenu de <p> -->
+				<group>  <!-- TODO supprimer <group> pour rendre <p> précédent obligatoire --> <!-- code le contenu de <p> si <p> est absent -->
 					<optional>
 						<choice>
 							<text/>
@@ -494,8 +493,7 @@
 			</choice>
 		</element>
 	</define>
-
-  <!-- Appelé uniquement par <note type="historique"> -->
+  <!-- appelé uniquement par <note type="historique"> -->
 	<define name="label">
 		<element name="label">
 			<text/>
@@ -525,27 +523,27 @@
 
 	<!-- ========================= DESCRIPTION éléments absents de la préface ========================= -->
 
-	<define name="re-supplement">
+	<define name="re-supplement"> <!-- TODO ajouter @ana="supplement" aux fils direct -->
 		<element name="re">
 			<attribute name="ana">
 				<value>supplement</value>
 			</attribute>
 			<zeroOrMore>
-				<ref name="re"/> <!-- <re> sans attribut, à supprimer in fine -->
+				<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
 			</zeroOrMore>
 			<optional>
 				<ref name="form"/>
 			</optional>
 			<optional>
-				<ref name="dictScrap"/> <!-- "Ajoutez : " -->
+				<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
 			</optional>
 			<zeroOrMore>
 				<choice>
 					<ref name="cit"/>
 					<ref name="etym"/>
 					<ref name="note-remarque"/>
-					<ref name="dictScrap"/> <!-- à supprimer in fine (code <etym> ou autre) -->
-					<ref name="re"/> <!-- <re> sans attribut, à supprimer in fine (code <etym> ou autre) -->
+					<ref name="dictScrap"/> <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
+					<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
 				</choice>
 			</zeroOrMore>
 			<zeroOrMore>
@@ -554,11 +552,11 @@
 			<zeroOrMore>
 				<choice>
 					<ref name="cit"/>
-					<ref name="dictScrap"/>
+					<ref name="dictScrap"/> <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
 					<ref name="etym"/>
 					<ref name="note-historique"/>
 					<ref name="note-remarque"/>
-					<ref name="re"/> <!-- <re> sans attribut, à supprimer in fine (code <etym> ou autre) -->
+					<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
 					<ref name="re-nuance"/>
 					<ref name="re-proverbe"/>
 				</choice>
@@ -577,19 +575,18 @@
 				<value>plan</value>
 			</attribute>
 			<optional>
-				<ref name="dictScrap"/> <!-- intro générale sur le terme -->
+				<ref name="dictScrap"/> <!-- code une intro générale sur le terme dans le texte -->
 			</optional>
 			<ref name="list"/>
 		</element>
 	</define>
-	
-	<!-- Appelé uniquement par <note type="plan"> -->
+	<!-- appelé uniquement par <note type="plan"> -->
 	<define name="list">
 		<element name="list">
 			<oneOrMore>
 				<element name="item">
 					<attribute name="n">
-						<data type="string"/> <!-- de type "positiveInteger" sauf un cas -->
+						<data type="string"/> <!-- <data type="positiveInteger"/> sauf un cas -->
 					</attribute>
 					<text/>
 				</element>
@@ -613,7 +610,7 @@
 				<ref name="label"/>
 			</optional>
 			<optional>
-				<ref name="dictScrap"/> <!-- "Ajoutez : " -->
+				<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
 			</optional>
 			<zeroOrMore>
 				<ref name="cit"/>
@@ -628,21 +625,21 @@
 		</element>
 	</define>
 
-	<!-- Appelé par <dictScrap> et <note type="remarque"> -->
+	<!-- appelé par <dictScrap> et <note type="remarque"> -->
 	<define name="q">
-		<element name="q">
+		<element name="q"> <!-- pertinent ? -->
 			<text/>
 		</element>
 	</define>
 
 	<define name="ref">
 		<element name="ref">
-			<attribute name="target"/> <!-- @data="anyURI" in fine -->
+			<attribute name="target"/> <!-- TODO ajouter <data type="anyURI"/> -->
 			<text/>
 		</element>
 	</define>
 
-	<define name="re"> <!-- à supprimer in fine : remplacer par d'autres éléments -->
+ <define name="re"> <!-- TODO supprimer <re> sans attribut -->
 		<element name="re">
 			<zeroOrMore>
 				<choice>
