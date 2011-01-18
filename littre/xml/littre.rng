@@ -717,7 +717,7 @@
 	<define name="sourceDesc">
 		<element name="sourceDesc">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description des sources</b>
-			  <p>&#171;&#x202F;Décrit la source à partir de laquelle un texte électronique a été dérivé ou produit&#x202F;&#187;, ici d'une part le <i>Littré</i>, d'autre part la <href target="http://francois.gannaz.free.fr/Littre/accueil.php"version électronique du <i>Littré</i></href> réalisée par François Gannaz.</p>
+			<p>&#171;&#x202F;Décrit la source à partir de laquelle un texte électronique a été dérivé ou produit&#x202F;&#187;, ici d'une part le <i>Littré</i>, d'autre part la <a href="http://francois.gannaz.free.fr/Littre/accueil.php">version électronique du <i>Littré</i></a> réalisée par François Gannaz.</p>
 			</a:documentation>
 			<ref name="bibl"/>
 			<ref name="bibl"/>
