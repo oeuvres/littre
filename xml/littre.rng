@@ -7,15 +7,16 @@
 	xml:lang="fr">
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
+		<title>Schéma d'encodage du Littré</title>
 		<h1>Schéma d'encodage du Littré</h1>
-		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> réalisée par François Gannaz (version 1.3).</p>
+		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> réalisée par François Gannaz (version 1.3) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
 	</a:documentation>
 
 	<!-- ========================= DESCRIPTION <text> ========================= -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3><b><i>&#171;&#x202F;Le passé de la langue conduit immédiatement l'esprit vers son avenir.&#x202F;&#187;</i></b><br/>(Émile Littré, Préface du <i>Dictionnaire de la langue française</i>)</h3>
-		<h3>&#171;&#x202F;Pour la nomenclature&#x202F;&#187;</h3>
+		<p><b><i>&#171;&#x202F;Le passé de la langue conduit immédiatement l'esprit vers son avenir.&#x202F;&#187;</i></b><br/>(Émile Littré, Préface du <i>Dictionnaire de la langue française</i>)</p>
+		<h2>&#171;&#x202F;Pour la nomenclature&#x202F;&#187;</h2>
 		<p>Convaincu de la nécessité de connaître les emplois passés pour éclairer les usages présents, Émile Littré construit la nomenclature de son <i>Dictionnaire de la langue française</i> sur le socle de celle du <i>Dictionnaire de l'Académie Française</i>&#160;; ce &#171;&#x202F;corps de la langue&#x202F;&#187; est donc enrichi à partir de nombreuses sources d'addition&#160;:</p>
 		<p><ul>
 			<li>le &#171;&#x202F;dépouillement des auteurs classiques&#x202F;&#187;d'une part, ainsi que les &#171;&#x202F;auteurs du seizième siècle, du quinzième, et même [...] les auteurs antérieurs, s'il était possible d'y puiser sans réserve&#x202F;&#187;&#160;;</li>
@@ -47,8 +48,6 @@
 						<li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut @type<br/>exemple : @xml:id="acé" ;</li>
 					</ul>
 				</p>
-				<h3>&#171;&#x202F;Pour la grammaire&#x202F;&#187;</h3>
-				<p>Une entrée possède obligatoirement un certain nombre d'informations /*...*/</p>
 			</a:documentation>
 			<attribute name="xml:id"/>
 			<optional>
@@ -146,13 +145,16 @@
 	<!-- description de <form> -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>&#171;&#x202F;Pour la grammaire&#x202F;&#187;</h3>
+		<h2>&#171;&#x202F;Pour la grammaire&#x202F;&#187;</h2>
 		<p>Cf. III. "Prononciation"</p>
+		<p>Chaque entrée est composée d'un certain nombre d'éléments significatifs, à commencer par <b>form</b>, un élément obligatoirement présent et encodant des informations relatives à l'identification de l'item traité.</p>
 	</a:documentation>
 
 	<define name="form">
 		<element name="form">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Forme de la vedette</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Forme de la vedette</b>
+				<p>Au minimum, ces informations se résument à la représentation graphique du mot, éventuellement enrichie d'indications grammaticales ou sur la prononciation de l'item.</p>
+			</a:documentation>
 			<choice>
 				<group> <!-- <form> qui ne sont pas des fils directs de <entry> -->
 					<text/>
@@ -191,12 +193,16 @@
 
 	<define name="orth">
 		<element name="orth">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Graphie(s)</b>
+			</a:documentation>
 			<text/>
 		</element>
 	</define>
 
 	<define name="pron">
 		<element name="pron">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Prononciation(s)</b>
+			</a:documentation>
 			<text/>
 			<optional>
 				<ref name="ref"/>
@@ -211,6 +217,8 @@
 
 	<define name="gram">
 		<element name="gram">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Indications grammaticales</b>
+			</a:documentation>
 			<text/>
 			<optional>
 				<ref name="ref"/>
@@ -221,6 +229,8 @@
 
 	<define name="note">
 		<element name="note">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>???</b>
+			</a:documentation>
 			<text/>
 			<optional>
 				<ref name="ref"/>
@@ -232,12 +242,14 @@
 	<!-- description de <sense> -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>&#171;&#x202F;Pour la signification des mots&#x202F;&#187;</h3>
+		<h2>&#171;&#x202F;Pour la signification des mots&#x202F;&#187;</h2>
 		<p>Cf. II. "Classification des significations de mots"</p>
 	</a:documentation>
 
 	<define name="sense">
 		<element name="sense">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Acception(s)</b>
+			</a:documentation>
 			<optional> <!-- @n absent si <entry> ne contient qu'un seul <sense>, obligatoire sinon -->
 				<attribute name="n">
 					<data type="positiveInteger"/>
@@ -279,27 +291,26 @@
 
 	<define name="sense2">
 		<element name="sense">
-				<choice>
-					<text/>
-					<group>
-						<zeroOrMore>
-							<choice>
-								<ref name="cit"/>
-								<ref name="dictScrap"/>
-							</choice>
-						</zeroOrMore>
-					</group>
-				</choice>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-acception(s)</b>
+			</a:documentation>
+			<choice>
+				<text/>
+				<group>
+					<zeroOrMore>
+						<choice>
+							<ref name="cit"/>
+							<ref name="dictScrap"/>
+						</choice>
+					</zeroOrMore>
+				</group>
+			</choice>
 		</element>
 	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>dictScrap ? et cit</h3>
-		<p>Cf. IV. "Exemples tirés des auteurs classiques ou autres"</p>
-	</a:documentation>
   
 	<define name="dictScrap">
 		<element name="dictScrap"> <!-- TODO supprimer <dictScrap> sans attribut -->
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Contenu divers</b>
+			</a:documentation>
 			<optional>
 				<text/>
 			</optional>
@@ -315,8 +326,15 @@
 		</element>
 	</define>
 
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation(s)</b>
+		<h2>Les Citations du <i>Littré</i></h2>
+	</a:documentation>
+
 	<define name="cit">
 		<element name="cit">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation(s)</b>
+				<p>Cf. IV. "Exemples tirés des auteurs classiques ou autres"</p>
+			</a:documentation>
 			<element name="quote">
 				<text/>
 				<optional>
@@ -330,6 +348,8 @@
 
 	<define name="bibl">
 		<element name="bibl">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Références bibliographiques</b>
+			</a:documentation>
 			<choice>
 				<group> <!-- <bibl> dans <sourceDesc> -->
 					<choice>
@@ -340,6 +360,8 @@
 				<group> <!-- <bibl> dans le reste du document (fils direct de <cit>) -->
 					<optional>
 						<element name="author">
+							<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Auteur</b>
+							</a:documentation>
 							<optional>
 								<attribute name="xml:id"/> <!-- TODO supprimer cardinalité <optional> -->
 							</optional>
@@ -354,13 +376,15 @@
 		</element>
 	</define>
 
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>note type"remarque"</h3>
-		<p>Cf. V. "Remarques"</p>
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation(s)</b>
+		<h2>Les Remarques du <i>Littré</i></h2>
 	</a:documentation>
 
 	<define name="note-remarque">
 		<element name="note">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Remarques</b>
+			<p>Cf. V. "Remarques"</p>
+			</a:documentation>
 			<attribute name="type">
 				<value>remarque</value>
 			</attribute>
@@ -395,14 +419,15 @@
 		</element>
 	</define>
 
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>note type"remarque"</h3>
-		<p>Cf. V. "Remarques"</p>
-		<p>"Il est enfin un dernier ordre de remarques, tantôt mises sous ce chef, tantôt incorporées dans la série des acceptions du mot. Il s'agit de l'interprétation de certaines locutions figurées ou proverbiales."</p>
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation(s)</b>
+		<h2>Les Proverbes du <i>Littré</i></h2>
 	</a:documentation>
 
 	<define name="re-proverbe">
 		<element name="re">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Proverbes</b>
+			<p>"Il est enfin un dernier ordre de remarques, tantôt mises sous ce chef, tantôt incorporées dans la série des acceptions du mot. Il s'agit de l'interprétation de certaines locutions figurées ou proverbiales."</p>
+			</a:documentation>
 			<attribute name="type">
 				<value>proverbe</value>
 			</attribute>
@@ -427,14 +452,16 @@
 		</element>
 	</define>
 
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>re type"nuance"</h3>
-		<p>Cf. VI. "Définitions &amp; Synonymes"</p>
-		<p>/*... cit ...*/</p>
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation(s)</b>
+		<h2>Les Nuances du <i>Littré</i></h2>
 	</a:documentation>
 
 	<define name="re-nuance">
 		<element name="re">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Nuances</b>
+			<p>Cf. VI. "Définitions &amp; Synonymes"</p>
+			<p>/*... cit ...*/</p>
+			</a:documentation>
 			<attribute name="type">
 				<value>nuance</value>
 			</attribute>
@@ -451,12 +478,14 @@
 	</define>
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>&#171;&#x202F;Pour la partie historique&#x202F;&#187;</h3>
-		<p>Cf. VII. "Historique"</p>
+		<h2>&#171;&#x202F;Pour la partie historique&#x202F;&#187;</h2>
 	</a:documentation>
 
 	<define name="note-historique">
 		<element name="note">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Informations historiques</b>
+				<p>Cf. VII. "Historique"</p>
+			</a:documentation>
 			<attribute name="type">
 				<value>historique</value>
 			</attribute>
@@ -487,17 +516,21 @@
   <!-- appelé uniquement par <note type="historique"> -->
 	<define name="label">
 		<element name="label">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Datation</b>
+			</a:documentation>
 			<text/>
 		</element>
 	</define>
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>&#171;&#x202F;Pour l'étymologie&#x202F;&#187;</h3>
-		<p>Cf. IX. "Étymologie"</p>
+		<h2>&#171;&#x202F;Pour l'étymologie&#x202F;&#187;</h2>
 	</a:documentation>
   
 	<define name="etym">
 		<element name="etym">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Étymologie</b>
+				<p>Cf. IX. "Étymologie"</p>
+			</a:documentation>
 			<text/>
 			<zeroOrMore>
 				<choice>
@@ -514,8 +547,14 @@
 
 	<!-- ========================= DESCRIPTION éléments absents de la préface ========================= -->
 
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Le supplément du <i>Littré</i></h2>
+	</a:documentation>
+
 	<define name="re-supplement"> <!-- TODO ajouter @ana="supplement" aux fils direct -->
 		<element name="re">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-entrée en supplément</b>
+			</a:documentation>
 			<attribute name="ana">
 				<value>supplement</value>
 			</attribute>
@@ -560,8 +599,14 @@
 
 	<!-- ========================= DESCRIPTION éléments de pure structure ========================= -->
 
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Entrées complexes&#160;</h2>
+	</a:documentation>
+
 	<define name="note-plan">
 		<element name="note">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Plan des acceptions</b>
+			</a:documentation>
 			<attribute name="type">
 				<value>plan</value>
 			</attribute>
@@ -585,8 +630,14 @@
 		</element>
 	</define>
 
+	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
+		<h2>Pure structuration</h2>
+	</a:documentation>
+
 	<define name="p">
 	  <element name="p">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Regroupement d'informations</b>
+			</a:documentation>
 			<optional>
 				<choice>
 					<text/>
@@ -618,13 +669,17 @@
 
 	<!-- appelé par <dictScrap> et <note type="remarque"> -->
 	<define name="q">
-		<element name="q"> <!-- pertinent ? -->
+		<element name="q">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Exemples, Locutions</b>
+			</a:documentation>
 			<text/>
 		</element>
 	</define>
 
 	<define name="ref">
 		<element name="ref">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Renvoi</b>
+			</a:documentation>
 			<attribute name="target"/> <!-- TODO ajouter <data type="anyURI"/> -->
 			<text/>
 		</element>
@@ -632,6 +687,8 @@
 
 	<define name="re"> <!-- TODO supprimer <re> sans attribut -->
 		<element name="re">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>???</b>
+			</a:documentation>
 			<zeroOrMore>
 				<choice>
 					<text/>
@@ -647,12 +704,12 @@
 	<!-- ========================= DESCRIPTION <TEI> ========================= -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-			<h2>Schéma de l'entête de métadonnées</h2>
+		<h1>Schéma de l'entête de métadonnées</h1>
 	</a:documentation>
 
 	<start>
 		<element name="TEI">
-			<a:documentation xmlns="http://www.w3.org/1999/xhtml">Élément racine
+			<a:documentation xmlns="http://www.w3.org/1999/xhtml"><b>Élément racine</b>
 			</a:documentation>
 			<attribute name="xml:id"/> <!-- datatype sous-entendu -->
 			<ref name="teiHeader"/>
@@ -664,14 +721,14 @@
 
 	<define name="teiHeader">
 		<element name="teiHeader">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Métadonnées</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Métadonnées</b></a:documentation>
 			<ref name="fileDesc"/>
 		</element>
 	</define>
 
 	<define name="fileDesc">
 		<element name="fileDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Description du document</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description du document</b></a:documentation>
 			<ref name="titleStmt"/>
 			<ref name="publicationStmt"/>
 			<ref name="sourceDesc"/>
@@ -680,7 +737,7 @@
   
 	<define name="titleStmt">
 		<element name="titleStmt">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Titre du document</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Titre du document</b></a:documentation>
 			<element name="title">
 				<text/>
 			</element>
@@ -689,7 +746,7 @@
 
 	<define name="publicationStmt">
 		<element name="publicationStmt">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Mention de publication
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Mention de publication</b>
 			  <p>Contient une série d'informations relatives à la publication de ce document.</p>
 			</a:documentation>
 			<element name="date">
@@ -714,7 +771,7 @@
 
 	<define name="sourceDesc">
 		<element name="sourceDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Description des sources
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description des sources</b>
 			<p>&#171;&#x202F;Décrit la source à partir de laquelle un texte électronique a été dérivé ou produit&#x202F;&#187;, ici d'une part le <i>Littré</i>, d'autre part la <a href="http://francois.gannaz.free.fr/Littre/accueil.php">version électronique du <i>Littré</i></a> réalisée par François Gannaz.</p>
 			</a:documentation>
 			<ref name="bibl"/>
