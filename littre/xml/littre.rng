@@ -8,13 +8,12 @@
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h1>Schéma d'encodage du Littré</h1>
-		<p>Présentation de la structure informatique du Dictionnaire de la langue française d'Émile Littré, encodé en XML et respectant les spécifications de la TEI-P5. Ce projet a été réalisé à partir de la version électronique du Lttré réalisée par François Gannaz.</p>
+		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> réalisée par François Gannaz (version 1.3).</p>
 	</a:documentation>
 
 	<!-- ========================= DESCRIPTION <text> ========================= -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h3>Le Littré</h3>
 		<p>Cf. 0. "Introduction" + I. "Nomenclature des mots"</p>
 		<p>&#171;&#x202F;Le passé de la langue conduit immédiatement l'esprit vers son avenir.&#x202F;&#187;</p>
 		<p>les mots que l'on trouve dans le Littré&#160;: la nomenclature du Dictionnaire de l'Académie Française. Ce &#171;&#x202F;corps de la langue&#x202F;&#187; est enrichi par l'auteur, qui veille scrupuleusement à distinguer pa le biais de la typographie ce dernier des ajouts qu'il intègre&#160;: &#171;&#x202F;j'ai eu soin de noter par un signe particulier tous les mots qui sont étrangers au Dictionnaire de l'Académie&#x202F;&#187;. Les sources d'addition à l'origine de cet enrichissement sont les suivantes&#160;:</p>
@@ -28,6 +27,7 @@
 
 	<define name="text">
 		<element name="text">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Corps du document</a:documentation>
 			<element name="body">
 				<oneOrMore>
 					<ref name="entry"/>
@@ -40,10 +40,10 @@
 
 	<define name="entry">
 		<element name="entry">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Un article (entrée)
-				<p>Un identifiant unique pour chaque entrée, correspondant à la vedette. Celle-ci peut-être :
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Article (entrée)
+				<p>Chaque entrée est dotée d'un identifiant unique, correspondant à la vedette. Cet identifiant permet d'assurer la liaison entre les nombreux renvois et les entrées du auxquels ils réfèrent. Il peut-être :
 					<ul>
-						<li>une forme simple, auquel cas il s'agira du lemme de ce mot, éventuellement suivi d'un point et d'un indice numérique afin de différencier deux entrée portant sur le même lemme<br/>exemple : @xml:id="abrégé.1" et xml:id="abrégé.2" ;</li>
+						<li>une forme simple, auquel cas il s'agit du lemme de ce mot, éventuellement suivi d'un point et d'un indice numérique afin de différencier deux entrée portant sur le même lemme<br/>exemple : @xml:id="abrégé.1" et xml:id="abrégé.2" ;</li>
 						<li>une forme composée&#x202F;&#8211;&#x202F;type locution&#x202F;&#8211;&#x202F;transcrite telle quelle<br/>exemple : @xml:id="te_deum" et @xml:id="vaque_à_tout" ;</li>
 						<li>un préfixe, auquel cas sa forme sera suivie d'un tiret court, son statut de suffixe étant précisé par l'attribut @type<br/>exemple : @xml:id="andr-" ;</li>
 						<li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut @type<br/>exemple : @xml:id="acé" ;</li>
@@ -152,6 +152,7 @@
 
 	<define name="form">
 		<element name="form">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Forme de la vedette</a:documentation>
 			<choice>
 				<group> <!-- <form> qui ne sont pas des fils directs de <entry> -->
 					<text/>
@@ -643,7 +644,7 @@
 		</element>
 	</define>
 	
-	<!-- ========================= DESCRIPTION <teiHeader> ========================= -->
+	<!-- ========================= DESCRIPTION <TEI> ========================= -->
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 			<h2>Schéma de l'entête de métadonnées</h2>
@@ -659,20 +660,18 @@
 		</element>
 	</start>
 
+	<!-- ========================= DESCRIPTION <teiHeader> ========================= -->
+
 	<define name="teiHeader">
 		<element name="teiHeader">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">/*...*/
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Métadonnées</a:documentation>
 			<ref name="fileDesc"/>
 		</element>
 	</define>
 
-	<!-- description de <fileDesc> -->
-
 	<define name="fileDesc">
 		<element name="fileDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">/*...*/
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Description du document</a:documentation>
 			<ref name="titleStmt"/>
 			<ref name="publicationStmt"/>
 			<ref name="sourceDesc"/>
@@ -681,8 +680,7 @@
   
 	<define name="titleStmt">
 		<element name="titleStmt">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">/*...*/
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Titre du document</a:documentation>
 			<element name="title">
 				<text/>
 			</element>
@@ -691,7 +689,7 @@
 
 	<define name="publicationStmt">
 		<element name="publicationStmt">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Mention de publication</b>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Mention de publication
 			  <p>Contient une série d'informations relatives à la publication de ce document.</p>
 			</a:documentation>
 			<element name="date">
@@ -716,7 +714,7 @@
 
 	<define name="sourceDesc">
 		<element name="sourceDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description des sources</b>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">Description des sources
 			<p>&#171;&#x202F;Décrit la source à partir de laquelle un texte électronique a été dérivé ou produit&#x202F;&#187;, ici d'une part le <i>Littré</i>, d'autre part la <a href="http://francois.gannaz.free.fr/Littre/accueil.php">version électronique du <i>Littré</i></a> réalisée par François Gannaz.</p>
 			</a:documentation>
 			<ref name="bibl"/>
