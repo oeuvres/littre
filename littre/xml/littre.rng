@@ -452,6 +452,7 @@
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h2>Nuances</h2>
 		<p>&#171;&#x202F;[...] la discussion des synonymes m'a souvent averti de prendre garde aux nuances et de ne pas recevoir comme une véritable explication le renvoi d'un terme à l'autre.&#x202F;&#187;<br/>(Préface du <i>Littré</i>)</p>
+		<p>La structuration raffinée et aboutie des nuances du <i>Littré</i>, d'ores et déjà effectuée par Frédéric Glorieux, est un bon exemple du degré de balisage pouvant être atteint sur l'ensemble du texte, donnant ainsi l'occasion de se pencher sur la lecture et l'étude d'une partie signifiante et cohérente de ce dictionnaire.</p>
 	</a:documentation>
 
 	<define name="re-nuance">
@@ -665,6 +666,8 @@
 	<define name="q">
 		<element name="q">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Exemple, Locution</b>
+				<p>Cet élément, codant un discours à détacher de celui de l'auteur, dénote principalement des exemples, éventuellement des locutions figées voire des proverbes (la frontière est parfois mince).</p>
+				<p>Le besoin de sous-structuration de ces textes permet le repérage et l'analyse de nombreuses marques chères à l'auteur, révélant un texte très structuré, notamment dans la séparation entre les locutions et leur glose.<br/><i>exemple&#160;: &#171;&#x202F;se dit de&#x202F;&#187;, &#171;&#x202F;se dit quand&#x202F;&#187;, &#171;&#x202F;c'est-à-dire&#x202F;&#187;.</i></p>
 			</a:documentation>
 			<text/>
 		</element>
