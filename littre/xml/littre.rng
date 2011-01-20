@@ -8,8 +8,8 @@
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<title>Schéma d'encodage du Littré</title>
-		<h1>Schéma d'encodage du Littré</h1>
-		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> réalisée par François Gannaz (<a href="http://francois.gannaz.free.fr/Littre/accueil.php">version 1.3</a>) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
+		<h1>SCHÉMA D'ENCODAGE DU LITTRÉ</h1>
+		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> conçue par François Gannaz (<a href="http://francois.gannaz.free.fr/Littre/accueil.php">version 1.3</a>) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
 	</a:documentation>
 
 	<!-- ========================= DESCRIPTION <text> ========================= -->
@@ -71,7 +71,7 @@
 						</choice>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
+						<ref name="re-supplement"/>
 					</optional>
 				</group>
 				<group>
@@ -92,7 +92,7 @@
 						<ref name="etym"/>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
+						<ref name="re-supplement"/>
 					</optional>
 					<zeroOrMore>
 						<ref name="note-remarque"/>
@@ -128,7 +128,7 @@
 						<ref name="etym"/>
 					</optional>
 					<optional>
-						<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
+						<ref name="re-supplement"/>
 					</optional>
 					<optional>
 						<choice>
@@ -152,7 +152,7 @@
 	<define name="form">
 		<element name="form">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Forme de la vedette</b>
-				<p>Au minimum, ces informations se résument à la représentation graphique du mot, éventuellement enrichie d'indications grammaticales ou sur la prononciation de l'item.</p>
+			<p>Au minimum, ces informations se résument à la représentation graphique du mot (<b>orth</b>), éventuellement enrichie d'indications grammaticales (<b>gram</b>) ou sur la prononciation de l'item (<b>pron</b>). Ces indications, le cas échéant, peuvent être enrichies de discussions ou remarques critiques de l'auteur (<b>note</b>), notamment sur la prononciation ou des particularités grammaticales.</p>
 			</a:documentation>
 			<choice>
 				<group> <!-- <form> qui ne sont pas des fils directs de <entry> -->
@@ -192,16 +192,14 @@
 
 	<define name="orth">
 		<element name="orth">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Graphie</b>
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Graphie</b></a:documentation>
 			<text/>
 		</element>
 	</define>
 
 	<define name="pron">
 		<element name="pron">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Prononciation</b>
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Prononciation</b></a:documentation>
 			<text/>
 			<optional>
 				<ref name="ref"/>
@@ -216,8 +214,7 @@
 
 	<define name="gram">
 		<element name="gram">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Indication grammaticale</b>
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Indication grammaticale</b></a:documentation>
 			<text/>
 			<optional>
 				<ref name="ref"/>
@@ -229,9 +226,7 @@
  <!-- appelé uniquement par <form> -->
 	<define name="note">
 		<element name="note">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Note mixte</b>
-				<p>Il s'agit </p>
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Note mixte</b></a:documentation>
 			<text/>
 			<optional>
 				<ref name="ref"/>
@@ -245,6 +240,7 @@
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h2>&#171;&#x202F;Pour la signification des mots&#x202F;&#187;</h2>
 		<p>Cf. II. "Classification des significations de mots"</p>
+		<p>&#171;&#x202F;Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches&#160;: presque point d'alinéas&#160;; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition&#160;; les vers revêtent la forme et le caractère de la prose.&#x202F;&#187;<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i> (1865)</p>
 	</a:documentation>
 
 	<define name="sense">
@@ -273,7 +269,7 @@
 				</optional>
 				<zeroOrMore>
 					<choice>
-					<ref name="re-supplement"/> <!-- TODO remplacer par <add ana="supplement"> -->
+					<ref name="re-supplement"/>
 					<ref name="re-proverbe"/>
 				</choice>
 				</zeroOrMore>
@@ -310,9 +306,7 @@
   
 	<define name="dictScrap">
 		<element name="dictScrap"> <!-- TODO supprimer <dictScrap> sans attribut -->
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Contenu mixte</b>
-				<p>&#171;&#x202F;Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches&#160;: presque point d'alinéas&#160;; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition&#160;; les vers revêtent la forme et le caractère de la prose.&#x202F;&#187;<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i> (1865)</p>
-			</a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Contenu mixte</b></a:documentation>
 			<optional>
 				<text/>
 			</optional>
@@ -532,6 +526,7 @@
 		<element name="etym">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Étymologie</b>
 				<p>Cf. IX. "Étymologie"</p>
+				<p>Cette rubrique, née toujours de la volonté de l'auteur de lié passé et présent, prend corps dans &#171;&#x202F;la détermination ou du moins la discussion de l’origine de chaque mot établie par la comparaison des mêmes formes dans le français, dans les patois et dans l'espagnol, l'italien, et le provençal ou langue d'oc.&#x202F;&#187;<br/>(Page de garde du <i>Littré</i>)</p>
 			</a:documentation>
 			<text/>
 			<zeroOrMore>
@@ -554,7 +549,7 @@
 	</a:documentation>
 
 	<define name="re-supplement"> <!-- TODO ajouter @ana="supplement" aux fils direct -->
-		<element name="re"> <!-- TODO remplacer par <add ana="supplement"> -->
+		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-entrée en supplément</b>
 			</a:documentation>
 			<attribute name="ana">
@@ -678,9 +673,10 @@
 		</element>
 	</define>
 
-	<define name="ref">
+ <define name="ref"> <!-- TODO Encadrer de <xr>-->
 		<element name="ref">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Renvoi</b>
+			<p>Littré intègre à son <i>Dictionnaire</i> de nombreux renvois entre différentes entrées, qu'il convient de structurer finement afin de mieux comprendre le squelette définitionnel des items. Cela permettrait de représenter systématiquement ce réseau voulu par l'auteur et donner ainsi au texte une vraie dimension électronique, une réelle épaisseur.<br/>Le lien entre le renvoi et sa référence est désormais assuré par la mise en place des attributs @xml:id</p>
 			</a:documentation>
 			<attribute name="target"/> <!-- TODO ajouter <data type="anyURI"/> -->
 			<text/>
@@ -689,7 +685,7 @@
 
 	<define name="re"> <!-- TODO supprimer <re> sans attribut -->
 		<element name="re">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>???</b>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 			</a:documentation>
 			<zeroOrMore>
 				<choice>
@@ -730,7 +726,9 @@
 
 	<define name="fileDesc">
 		<element name="fileDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description du document</b></a:documentation>
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description du document</b>
+				<p>Description éditoriale du document.</p>
+			</a:documentation>
 			<ref name="titleStmt"/>
 			<ref name="publicationStmt"/>
 			<ref name="sourceDesc"/>
