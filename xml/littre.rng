@@ -240,7 +240,7 @@
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<h2>&#171;&#x202F;Pour la signification des mots&#x202F;&#187;</h2>
 		<p>Cf. II. "Classification des significations de mots"</p>
-		<p>&#171;&#x202F;Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches&#160;: presque point d'alinéas&#160;; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition&#160;; les vers revêtent la forme et le caractère de la prose.&#x202F;&#187;<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i> (1865)</p>
+		<p>&#171;&#x202F;Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches&#160;: presque point d'alinéas&#160;; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition&#160;; les vers revêtent la forme et le caractère de la prose.&#x202F;&#187;<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i>, 1865)</p>
 	</a:documentation>
 
 	<define name="sense">
@@ -311,7 +311,7 @@
 				<text/>
 			</optional>
 			<zeroOrMore>
-				<ref name="q"/> <!-- pertinent ? -->
+				<ref name="q"/>
 					<text/>
 			</zeroOrMore>
 			<text/>
@@ -379,7 +379,9 @@
 	<define name="note-remarque">
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Remarque</b>
-			<p>Cf. V. "Remarques"</p>
+				<p>&#171;&#x202F;Sous ce chef, j'ai réuni quelques notions complémentaires qui n'entrent pas d'ordinaire dans les plans lexicographiques, mais qui pourtant ne me semblent pas dénuées d'intérêt et d'utilité. [...] Ces remarques, de leur nature, sont très diverses.&#x202F;&#187;<br/>(Préface du <i>Littré</i>)</p>
+			<p>Ainsi, ces remarques concernent notamment des difficultés de la langue, et l'auteur s'inspire des grammairiens, tout en apportant des éléments nouveaux, afin d'éclairer l'usage tant dans l'emploi que dans l'orthographe.</p>
+			<p>Toujours suivant ce principe directeur de &#171;&#x202F;combine[r] l'usage présent de la langue et son usage passé, afin de donner à l'usage présent toute la plénitude et la sûreté qu'il comporte&#x202F;&#187;, Littré éclaire certaines proscriptions contemporaines concernant des faits de langue pourtant attestés chez les grands auteurs classiques.</p>
 			</a:documentation>
 			<attribute name="type">
 				<value>remarque</value>
@@ -422,7 +424,7 @@
 	<define name="re-proverbe">
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Proverbe</b>
-			<p>&#171;&#x202F;Il est enfin un dernier ordre de remarques, tantôt mises sous ce chef, tantôt incorporées dans la série des acceptions du mot. Il s'agit de l'interprétation de certaines locutions figurées ou proverbiales.&#x202F;&#187;<br/>(Préface du <i>DLF</i>)</p>
+			<p>&#171;&#x202F;Il est enfin un dernier ordre de remarques, tantôt mises sous ce chef, tantôt incorporées dans la série des acceptions du mot. Il s'agit de l'interprétation de certaines locutions figurées ou proverbiales.&#x202F;&#187;<br/>(Préface du <i>Littré</i>)</p>
 			</a:documentation>
 			<attribute name="type">
 				<value>proverbe</value>
@@ -455,8 +457,7 @@
 	<define name="re-nuance">
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Nuance</b>
-			<p>&#171;&#x202F;[...] la discussion des synonymes m'a souvent averti de prendre garde aux nuances et de ne pas recevoir comme une véritable explication le renvoi d'un terme à l'autre.&#x202F;&#187;<br/>(Préface du <i>DLF</i>)</p>
-			<p>synonymie distinctive</p>
+			<p>&#171;&#x202F;[...] la discussion des synonymes m'a souvent averti de prendre garde aux nuances et de ne pas recevoir comme une véritable explication le renvoi d'un terme à l'autre.&#x202F;&#187;<br/>(Préface du <i>Littré</i>)</p>
 			</a:documentation>
 			<attribute name="type">
 				<value>nuance</value>
@@ -480,7 +481,7 @@
 	<define name="note-historique">
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Information historique</b>
-				<p>Cf. VII. "Historique"</p>
+			<p style="color : #666666;">&#171;&#x202F;Je donne le nom d'historique à une collection de phrases appartenant à l'ancienne langue. Lorsqu'un mot a été exposé complètement tel qu'il est aujourd'hui dans l'usage, lorsque les sens y ont été rangés d'après l'ordre logique, lorsque des exemples classiques, autant que faire se peut, ont été rapportés à l'appui, lorsque la prononciation a été indiquée et, au besoin, discutée, lorsque enfin des remarques grammaticales et critiques ont touché, dans les cas qui le comportent, à l'emploi du mot ou aux difficultés qu'il présente, alors s'ouvre un nouveau paragraphe pour les textes tirés de la langue d'oïl. Ainsi placé, c'est le prolongement naturel d'une série que l'on tronque quand on s'arrête à notre temps et aux temps classiques. Après avoir vu comment écrivent Corneille, Pascal, Bossuet, Voltaire, Montesquieu et nos contemporains, on pénètre en arrière et l'on voit comment ont écrit Montaigne, Amyot, Commines et Froissart, Oresme et Machaut, Joinville, Jean de Meung, Guillaume de Lorris, Villehardouin, le sire de Couci, le traducteur du livre des Psaumes, et Turold, l'auteur de la Chanson de Roland.&#x202F;&#187;<br/>(Préface du <i>Littré</i>)</p>
 			</a:documentation>
 			<attribute name="type">
 				<value>historique</value>
@@ -527,6 +528,7 @@
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Étymologie</b>
 				<p>Cf. IX. "Étymologie"</p>
 				<p>Cette rubrique, née toujours de la volonté de l'auteur de lié passé et présent, prend corps dans &#171;&#x202F;la détermination ou du moins la discussion de l’origine de chaque mot établie par la comparaison des mêmes formes dans le français, dans les patois et dans l'espagnol, l'italien, et le provençal ou langue d'oc.&#x202F;&#187;<br/>(Page de garde du <i>Littré</i>)</p>
+				<p>&#171;&#x202F;ceux qui iront jusqu'à désirer de connaître l'étymologie entreront dans l'histoire du mot, et trouveront, au-dessous de cette histoire, l'étymologie qui très souvent en est dépendante.&#x202F;&#187;<br/>(Préface du <i>Littré</i>)</p>
 			</a:documentation>
 			<text/>
 			<zeroOrMore>
