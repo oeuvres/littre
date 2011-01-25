@@ -12,6 +12,9 @@ Littré, nuances
   <!-- dosssier où trouver les ressources -->
   <xsl:variable name="min">abcdefghijklmnopqrstuvwxyzâêîôûäëïöüáéíóúàèìòùçæœ</xsl:variable>
   <xsl:variable name="maj">ABCDEFGHIJKLMNOPQRSTUVWXYZÂÊÎÔÛÄËÏÖÜÁÉÍÓÚÀÈÌÒÙÇÆŒ</xsl:variable>
+  <!-- Clé pour retrouver l'entrée -->
+  <xsl:key name="orth" match="orth" use="tei:m|."/>
+  
 
   <!-- / racine du document = racine html -->
   <xsl:template match="/">
@@ -316,6 +319,7 @@ p.entry {
     </a>
   </xsl:template>
 
+  
 
   <xsl:template match="tei:entry" mode="id">
     <xsl:apply-templates select="." mode="number"/>
@@ -457,7 +461,11 @@ p.entry {
         </xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
-    <a href="#{$cible}">
+    <a>
+      <xsl:attribute name="href">
+        <xsl:text>#</xsl:text>
+        <xsl:apply-templates select="key('orth', translate( $cible , $min, $maj))" mode="id"/>
+      </xsl:attribute>
       <xsl:apply-templates/>
     </a>
     <!--

@@ -35,7 +35,7 @@
           <entryFree><form>synonyme</form>. <def>Il se dit d’un mot qui a, à très peu près, le même <ref cRef="sens">sens</ref> qu’un autre</def>,
             comme <q>péril et danger</q>, <q>funeste et fatal</q>, <q>mort et trépas</q>.</entryFree>
           <entryFree><form>Synonymes</form>. Au plur.<def> Titre de certains ouvrages, en forme de dictionnaire, dans lesquels la <ref
-                cRef="différence">différence</ref> des mots synonymes est expliquée (il prend une majuscule).</def><q>Les Synonymes latins de Gardin
+                cRef="différence">différence</ref> des mots synonymes est expliquée (il prend une majuscule).</def> <q>Les Synonymes latins de Gardin
               Dumesnil.</q>
             <q>Les Synonymes français de Girard.</q>
             <q>Les Synonymes de Lafaye.</q></entryFree>
@@ -159,7 +159,7 @@
             <entryFree><form>sentiment</form>. En <ref cRef="général">général</ref>, <def>faculté de sentir</def>. <q>Avoir le sentiment exquis,
                 prompt, délicat.</q> 7° <def>Il se dit des affections, des mouvements de l’âme, des passions.</def> 10° Spécialement. <def> La passion
                 de l’amour.</def></entryFree>
-            <entryFree><form>passion</form>. <def>Souffrance, en parlant de Jésus-Christ et des martyrs.</def><q>La passion de Notre-Seigneur.</q> 6°
+            <entryFree><form>passion</form>. <def>Souffrance, en parlant de Jésus-Christ et des martyrs.</def> <q>La passion de Notre-Seigneur.</q> 6°
               Ancien <term key="médecine" type="domaine"><ref cRef="terme">terme</ref> de médecine</term>. <def>Certaines maladies douloureuses.</def>
               Ainsi on appelait l’hystérie, <q>passion hystérique</q>, l’iléus, <q>passion iliaque</q>. 7° <def>Mouvement de l’âme, en bien ou en mal,
                 pour le plaisir ou pour la peine</def>. 11° <def>Vif désir.</def></entryFree>
@@ -174,7 +174,7 @@
               <entryFree><form>affection</form>. <def>Ce que le corps éprouve, surtout en fait de maladie.</def>
                 <q>Les affections de poitrine.</q> 4° <def>Sentiment d’amitié, d’amour, d’attachement pour une personne ou une chose.</def>
                 <q>Avoir de l’affection pour quelqu’un.</q></entryFree>
-              <entryFree><form>amitié</form>. <def>Sentiment qui affectionne, attache une personne à une autre.</def><q>Les liens d’une étroite
+              <entryFree><form>amitié</form>. <def>Sentiment qui affectionne, attache une personne à une autre.</def> <q>Les liens d’une étroite
                   amitié.</q>
                 <q>Mon amitié pour vous.</q></entryFree>
             </epigraph>
@@ -640,7 +640,7 @@
                   >retient</ref> quelque chose de cette signification : <cit>
                   <quote>Elle entendra mes <oVar>pleurs</oVar>, elle verra mes <oVar>larmes</oVar></quote>
                   <bibl>, dit A. <author>Chénier</author></bibl>
-                </cit><note><ref cRef="citer">cité</ref> plus haut</note>. <oVar>Larme</oVar> est <term key="propre" type="figure">proprement</term>
+                </cit> <note><ref cRef="citer">cité</ref> plus haut</note>. <oVar>Larme</oVar> est <term key="propre" type="figure">proprement</term>
                 <gloss>l’<ref cRef="humeur">humeur</ref> limpide qui humecte les yeux</gloss>, quelle que soit la cause qui la fasse <ref
                   cRef="couler">couler</ref>. <oVar>Pleurs</oVar> indique toujours une émotion, et presque toujours une <gloss>émotion triste</gloss>.
                   <q>L’oignon coupé ou épluché fait venir des <oVar>larmes</oVar> dans les yeux</q>
@@ -1130,7 +1130,7 @@
               <dictScrap>Pour transformer la <oVar>hardiesse</oVar> en <oVar>témérité</oVar>, il suffit d’y adjoindre une <ref cRef="épithète"
                   >épithète</ref>
                 <term key="péjoratif" type="valeur">péjorative</term> : <q>aveugle <oVar>hardiesse</oVar></q>, <q><ref cRef="fou"
-                    >folle</ref><oVar>hardiesse</oVar></q>.</dictScrap>
+                    >folle</ref> <oVar>hardiesse</oVar></q>.</dictScrap>
             </entry>
             <entry xml:id="lâche">
               <form>
@@ -1349,7 +1349,7 @@
                 <orth type="Q">FERME</orth>
               </form>
               <dictScrap>Celui qui est <oVar>constant</oVar>
-                <gloss><ref cRef="rester">reste</ref><ref cRef="semblable">semblable</ref> à lui-même</gloss>. Celui qui est <oVar>ferme</oVar>
+                <gloss><ref cRef="rester">reste</ref> <ref cRef="semblable">semblable</ref> à lui-même</gloss>. Celui qui est <oVar>ferme</oVar>
                 <gloss>résiste</gloss>. <q>Un homme <oVar>ferme</oVar> dans l’adversité</q> est celui qui <gloss>ne cède pas au coup qu’il
                   reçoit</gloss>. <q>Un homme <oVar>constant</oVar> dans l’adversité</q> est celui que <gloss>l’adversité ne change pas</gloss> et qui
                 la supporte sans se laisser troubler. Aussi la <oVar type="der">constance</oVar> a-t-elle lieu de s’exercer dans la prospérité, tandis
@@ -1593,7 +1593,7 @@
                 <orth type="N">LOISIR</orth>
                 <orth type="N">OISIVETÉ</orth>
               </form>
-              <dictScrap><oVar>Loisir</oVar>, qui vient du verbe <lang>latin</lang><etym xml:lang="la">licere</etym>, <gloss>être <ref cRef="permis"
+              <dictScrap><oVar>Loisir</oVar>, qui vient du verbe <lang>latin</lang> <etym xml:lang="la">licere</etym>, <gloss>être <ref cRef="permis"
                     >permis</ref></gloss>, est un <gloss>temps de liberté</gloss>, où l’on a <ref cRef="permission">permission</ref> d’agir ou de ne
                 pas agir. L’<oVar>oisiveté</oVar> est un <gloss>temps d’<ref cRef="inaction">inaction</ref></gloss>.</dictScrap>
             </entry>
@@ -1768,7 +1768,7 @@
                 <orth type="Q">FLEXIBLE</orth>
                 <orth type="Q">SOUPLE</orth>
               </form>
-              <dictScrap><term key="propre" type="figure">Au propre</term>, ce qui est <oVar>souple</oVar><gloss>plie et <ref cRef="revenir"
+              <dictScrap><term key="propre" type="figure">Au propre</term>, ce qui est <oVar>souple</oVar> <gloss>plie et <ref cRef="revenir"
                     >revient</ref>, après avoir plié, si la pression cesse</gloss>. Ce qui est <oVar>flexible</oVar>, <gloss>plie également, mais <ref
                     cRef="revenir">revient</ref> ou ne <ref cRef="revenir">revient</ref> pas</gloss>, car le <ref cRef="mot">mot</ref> n’implique rien
                 à cet <ref cRef="égard">égard</ref>. Au <term key="figuré" type="figure">figuré</term>, la distinction se poursuit : <q>un <ref
@@ -1896,7 +1896,7 @@
                 tout <gloss>ce qui offense la <oVar type="der">pudeur</oVar></gloss> ; la <oVar>lasciveté</oVar> joint à l’<ref cRef="idée">idée</ref>
                   d’<oVar>impudicité</oVar> celle d’une excitation <ref cRef="comparer">comparée</ref> à quelque chose de <ref cRef="folâtre"
                   >folâtre</ref> ; la <oVar>lubricité</oVar> y joint celle d’une incontinence sans mesure et sans frein. On pourra dire que
-                    <q><persName>Cléopatre</persName> était <oVar type="der">lascive</oVar></q>, et <q><persName>Messaline</persName><oVar type="der"
+                    <q><persName>Cléopatre</persName> était <oVar type="der">lascive</oVar></q>, et <q><persName>Messaline</persName> <oVar type="der"
                     >lubrique</oVar></q>. La <ref cRef="luxure">luxure</ref> y joint l’<ref cRef="idée">idée</ref> d’une surabondance de force, de
                   <ref cRef="nourriture">nourriture</ref> qui <ref cRef="emporter">emporte</ref> le <ref cRef="tempérament">tempérament</ref> vers les
                 excès de l’incontinence.</dictScrap>
@@ -2291,7 +2291,7 @@
               </form>
               <dictScrap>La <oVar>feinte</oVar> est une <gloss>fausse apparence sous laquelle on <ref cRef="cacher">cache</ref> quelque chose</gloss>.
                 Le <oVar>mensonge</oVar>, c’est dire ce <gloss>qui n’est pas <ref cRef="vrai">vrai</ref></gloss>. <q>Est-ce <oVar>feinte</oVar> ou
-                    <oVar>mensonge</oVar>, ce que vous me dites là ?</q><gloss>voulez-vous m’en imposer par une <ref cRef="faux">fausse</ref>
+                    <oVar>mensonge</oVar>, ce que vous me dites là ?</q> <gloss>voulez-vous m’en imposer par une <ref cRef="faux">fausse</ref>
                   apparence, ou, simplement, ce que vous me dites là, est-il <ref cRef="faux">faux</ref> ?</gloss></dictScrap>
             </entry>
             <entry xml:id="déguiser">
@@ -2344,7 +2344,7 @@
                 <orth type="N">L’HOMME <m>VRAI</m></orth>
                 <orth type="N">L’HOMME <m>FRANC</m></orth>
               </form>
-              <dictScrap><oVar>L’homme vrai</oVar><gloss>dit fidèlement ce qui est</gloss> ; <oVar>l’homme franc</oVar><gloss>dit librement ce qu’il
+              <dictScrap><oVar>L’homme vrai</oVar> <gloss>dit fidèlement ce qui est</gloss> ; <oVar>l’homme franc</oVar> <gloss>dit librement ce qu’il
                     <ref cRef="penser">pense</ref></gloss>. <oVar>L’homme vrai</oVar> dit seulement les choses comme elles sont ; <oVar>l’homme
                   franc</oVar>, libre dans ses <ref cRef="discours">discours</ref>, dit son sentiment sur les choses à <ref cRef="coeur">cœur</ref>
                 ouvert.</dictScrap>
@@ -2442,7 +2442,7 @@
                 <orth type="N">HOMME DE <m>SENS</m></orth>
                 <orth type="N"><m/>HOMME DE BON SENS</orth>
               </form>
-              <dictScrap><oVar>Homme de sens</oVar><term key="général" type="figure">dit plus</term> qu’<oVar>homme de bon sens</oVar>. Le <oVar>bon
+              <dictScrap><oVar>Homme de sens</oVar> <term key="général" type="figure">dit plus</term> qu’<oVar>homme de bon sens</oVar>. Le <oVar>bon
                   sens</oVar> est ce qui est <gloss>supposé appartenir à la plupart des hommes</gloss>. Le <oVar>sens</oVar> au contraire implique
                   <gloss>une certaine profondeur ou <ref cRef="supériorité">supériorité</ref> dans le <ref cRef="jugement"
                 >jugement</ref></gloss>.</dictScrap>
@@ -2454,7 +2454,7 @@
               </form>
               <dictScrap>Le <oVar>jugement</oVar> est un <gloss><term key="action" type="construction">acte</term> de l’<ref cRef="esprit"
                     >esprit</ref> qui <ref cRef="comparer">compare</ref></gloss> ; le <oVar>sens</oVar> est une <gloss><ref cRef="perception"
-                    >perception</ref><ref cRef="confus">confuse</ref> et spontanée des choses</gloss>. <q>Cet homme a du <oVar>jugement</oVar></q>,
+                    >perception</ref> <ref cRef="confus">confuse</ref> et spontanée des choses</gloss>. <q>Cet homme a du <oVar>jugement</oVar></q>,
                 veut dire qu’il sait <gloss><ref cRef="comparer">comparer</ref>, <ref cRef="apprécier">apprécier</ref>, juger</gloss>. <q>Cet homme a
                   du <oVar>sens</oVar></q>, veut dire qu’il <gloss>sent les choses telles qu’elles sont</gloss>. Il y a entre ces deux <ref cRef="mot"
                   >mots</ref> une nuance qui provient de la <ref cRef="différence">différence</ref> entre <oVar type="der">juger</oVar> et <oVar
@@ -2483,7 +2483,7 @@
               <dictScrap>Ils donnent l’un et l’autre l’<ref cRef="idée">idée</ref> d’une <gloss>action <ref cRef="facile">facile</ref> et <ref
                     cRef="heureux">heureuse</ref></gloss>. <oVar>Habile</oVar>
                 <ref cRef="exprimer">exprime</ref>
-                <ref cRef="davantage">davantage</ref> l’<gloss><ref cRef="aptitude">aptitude</ref><term key="général" type="figure"
+                <ref cRef="davantage">davantage</ref> l’<gloss><ref cRef="aptitude">aptitude</ref> <term key="général" type="figure"
                   >générale</term></gloss> ; <oVar>adroit</oVar>, l’<ref cRef="application">application</ref>
                 <term key="particulier" type="figure">particulière</term> de cette <ref cRef="aptitude">aptitude</ref> générale. <q>Un homme
                     <oVar>adroit</oVar> n’est pas nécessairement <oVar>habile</oVar></q> ; <q>un homme <oVar>habile</oVar> est nécessairement
@@ -2505,9 +2505,9 @@
                 <gloss>s’<ref cRef="étendre">étend</ref> de tous côtés et va jusqu’au fond</gloss>. Le <ref cRef="génie">génie</ref> est plutôt
                   <oVar>perçant</oVar> ; l’<ref cRef="esprit">esprit</ref>, surtout celui d’un homme qui réfléchit et <ref cRef="approfondir"
                   >approfondit</ref>, est plutôt <oVar>pénétrant</oVar>. <q>Un froid <oVar>perçant</oVar></q> est <gloss>très <ref cRef="piquer"
-                    >piquant</ref></gloss> ; <q>un froid <oVar>pénétrant</oVar></q><gloss>engourdit tout le corps</gloss>. <q>La vue <ref
-                    cRef="perçant">perçante</ref></q><gloss><ref cRef="découvrir">découvre</ref> de loin, à l’<ref cRef="instant">instant</ref> et
-                  sans peine</gloss> ; <q>la vue <oVar>pénétrante</oVar></q><gloss><ref cRef="parvenir">parvient</ref> à tout <ref cRef="apercevoir"
+                    >piquant</ref></gloss> ; <q>un froid <oVar>pénétrant</oVar></q> <gloss>engourdit tout le corps</gloss>. <q>La vue <ref
+                    cRef="perçant">perçante</ref></q> <gloss><ref cRef="découvrir">découvre</ref> de loin, à l’<ref cRef="instant">instant</ref> et
+                  sans peine</gloss> ; <q>la vue <oVar>pénétrante</oVar></q> <gloss><ref cRef="parvenir">parvient</ref> à tout <ref cRef="apercevoir"
                     >apercevoir</ref></gloss>, jusqu’aux choses les plus petites et les plus <ref cRef="cacher">cachées</ref>,
                     <bibl><author>Lafaye</author></bibl>.</dictScrap>
             </entry>
@@ -2684,7 +2684,7 @@
                 <orth type="N">HEUR</orth>
                 <orth type="N">BONHEUR</orth>
               </form>
-              <dictScrap>L’<oVar>heur</oVar>, qui a le <ref cRef="sens">sens</ref> de <gloss><ref cRef="chance">chance</ref><oVar type="der"
+              <dictScrap>L’<oVar>heur</oVar>, qui a le <ref cRef="sens">sens</ref> de <gloss><ref cRef="chance">chance</ref> <oVar type="der"
                     >heureuse</oVar> ou <oVar type="der">malheureuse</oVar></gloss>, comme le <ref cRef="prouver">prouve</ref>
                 <oVar type="der">malheur</oVar>, n’a plus que celui de bonne <ref cRef="chance">chance</ref> ; le <oVar>bonheur</oVar> est la <ref
                   cRef="continuité">continuité</ref> de l’<oVar>heur</oVar>. Cette nuance se trouve bien marquée dans ces vers : <cit>
@@ -3098,7 +3098,7 @@
                   >vieilles</ref>. <oVar>Caducité</oVar> est un <term key="général" type="figure"><ref cRef="terme">terme</ref>
                   <ref cRef="général">général</ref></term> qui n’indique que la <ref cRef="décadence">décadence</ref>, l’<ref cRef="abaissement"
                   >abaissement</ref> des facultés ou de la beauté au <ref cRef="moment">moment</ref> où ils deviennent sensibles. La
-                  <oVar>décrépitude</oVar> en est le <ref cRef="terme">terme</ref><note> c’est ce qui <ref cRef="justifier">justifie</ref> le <ref
+                  <oVar>décrépitude</oVar> en est le <ref cRef="terme">terme</ref> <note> c’est ce qui <ref cRef="justifier">justifie</ref> le <ref
                     cRef="mot">mot</ref> de <persName>Voltaire</persName> ci-dessus à la <ref cRef="fin">fin</ref> de l’article <ref
                     cRef="décrépitude">décrépit</ref></note>.</dictScrap>
             </entry>
@@ -3571,7 +3571,7 @@
                 <orth type="N"><m>ÉGARD</m>S</orth>
                 <orth type="N"><m>MÉNAGEMENT</m>S</orth>
               </form>
-              <dictScrap><oVar>Égards</oVar><term key="général" type="figure">dit plus</term> que <oVar>ménagements</oVar>. <q>On a des
+              <dictScrap><oVar>Égards</oVar> <term key="général" type="figure">dit plus</term> que <oVar>ménagements</oVar>. <q>On a des
                     <oVar>ménagements</oVar> pour quelqu’un</q> quand <gloss>on évite de le froisser, de le <ref cRef="choquer">choquer</ref></gloss>.
                   <q>On a des <oVar>égards</oVar> pour lui</q> quand <gloss>on lui témoigne une <ref cRef="déférence">déférence</ref> pleine d’<ref
                     cRef="attention">attentions</ref></gloss>.</dictScrap>
@@ -3793,7 +3793,7 @@
                 déshonneur ; au lieu que le second indique un seul acte. <q>L’enfant qui <oVar>fait affront</oVar> à sa <ref cRef="famille"
                     >famille</ref></q>, est celui dont les <ref cRef="habitude">habitudes</ref> vicieuses <gloss>font rougir</gloss> ses <ref
                   cRef="honnête">honnêtes</ref> parents ; <q>le prédicateur à qui la <ref cRef="mémoire">mémoire</ref>
-                  <oVar>fait un affront</oVar></q>, est celui qui <gloss>une fois</gloss><ref cRef="manquer">manque</ref> de <ref cRef="mémoire"
+                  <oVar>fait un affront</oVar></q>, est celui qui <gloss>une fois</gloss> <ref cRef="manquer">manque</ref> de <ref cRef="mémoire"
                   >mémoire</ref>.</dictScrap>
             </entry>
             <entry xml:id="impertinent">
@@ -4092,7 +4092,7 @@
                 <orth type="V">VILIPENDER</orth>
               </form>
               <dictScrap><oVar>Honnir</oVar>, c’est <gloss>faire <oVar type="der">honte</oVar></gloss>. Dans <oVar>bafouer</oVar>, l’<ref cRef="idée"
-                  >idée</ref> de quelque chose de honteux n’existe pas ; c’est celle de <gloss><ref cRef="moquerie">moquerie</ref><ref
+                  >idée</ref> de quelque chose de honteux n’existe pas ; c’est celle de <gloss><ref cRef="moquerie">moquerie</ref> <ref
                     cRef="outrageant">outrageante</ref></gloss> qui y domine. <oVar>Vilipender</oVar>, c’est <ref cRef="traiter">traiter</ref> comme
                   <term key="personne" type="construction">quelqu’un</term> ou <term key="chose" type="construction">quelque chose</term> de <oVar
                   type="der">vil</oVar>.</dictScrap>
@@ -4300,7 +4300,7 @@
                     et des gens qui se <ref cRef="louer">louent</ref> pendant quelque temps au <ref cRef="service">service</ref> d’autres
                     personnes</quote>
                   <bibl>, <title>Encyclopédie</title>, <biblScope>VIII, 291</biblScope>. </bibl>
-                </cit><oVar>Traitement</oVar> peut être ajouté à ces trois <ref cRef="mot">mots</ref> examinés par l’Encyclopédie ; il est synonyme
+                </cit> <oVar>Traitement</oVar> peut être ajouté à ces trois <ref cRef="mot">mots</ref> examinés par l’Encyclopédie ; il est synonyme
                   d’<oVar>appointements</oVar> et diffère par <ref cRef="conséquent">conséquent</ref> de <oVar>gages</oVar> et d’honoraires. Il y a en
                 outre une <ref cRef="différence">différence</ref> qui n’est pas notée, c’est que les <oVar>appointements</oVar>, le
                   <oVar>traitement</oVar>, les <oVar>gages</oVar> sont quelque chose de <ref cRef="fixer">fixe</ref>, tandis que les
@@ -4564,7 +4564,7 @@
                 <orth type="N">SENTEUR</orth>
               </form>
               <dictScrap><oVar>Odeur</oVar> est le <term key="général" type="figure"><ref cRef="terme">terme</ref>
-                  <ref cRef="général">général</ref></term> ; elle est bonne ou mauvaise. La <oVar>senteur</oVar> est une <gloss><oVar>odeur</oVar><ref
+                  <ref cRef="général">général</ref></term> ; elle est bonne ou mauvaise. La <oVar>senteur</oVar> est une <gloss><oVar>odeur</oVar> <ref
                     cRef="agréable">agréable</ref></gloss>. De plus l’<oVar>odeur</oVar> est dans les <term key="objectif" type="construction"
                   >objets</term> qui l’exhalent ; la <oVar>senteur</oVar> est ce qui est senti par le <term key="subjectif" type="construction"
                   >sujet</term>, l’impression qu’il reçoit.</dictScrap>
@@ -5409,7 +5409,7 @@
                 <orth type="N">VIANDE</orth>
                 <orth type="N">CHAIR</orth>
               </form>
-              <dictScrap>La <oVar>viande</oVar> est la <gloss><oVar>chair</oVar><ref cRef="préparer">préparée</ref> dans la <ref cRef="boucherie"
+              <dictScrap>La <oVar>viande</oVar> est la <gloss><oVar>chair</oVar> <ref cRef="préparer">préparée</ref> dans la <ref cRef="boucherie"
                     >boucherie</ref> ou dans la cuisine pour la <ref cRef="nourriture">nourriture</ref> de l’homme ou des animaux</gloss>. La
                   <oVar>chair</oVar> n’a subi aucune préparation et est l’animal lui-même tel qu’il est après avoir été tué. <q>Les animaux <ref
                     cRef="carnivore">carnivores</ref> se <ref cRef="nourrir">nourrissent</ref> de <oVar>chair</oVar></q> ; <q>l’homme mange de la
@@ -5580,7 +5580,7 @@
                   exempts de <ref cRef="suspicion">suspicion</ref> ; tandis que l’<oVar>arraisonnement</oVar> suppose au moins des doutes, et, par
                     <ref cRef="conséquent">conséquent</ref>, la nécessité d’un examen plus approfondi…</gloss> L’<oVar>arraisonnement</oVar> n’est
                 donc, en définitive, qu’une <oVar>reconnaissance</oVar> renforcée, <bibl><author>Fauvel</author>, <title>Journ.
-                    offic.</title><biblScope>5 mars 1876, p. 1546, 1re col.</biblScope></bibl>.</dictScrap>
+                    offic.</title> <biblScope>5 mars 1876, p. 1546, 1re col.</biblScope></bibl>.</dictScrap>
             </entry>
           </div>
           <div>
@@ -5790,7 +5790,7 @@
                 <orth type="V">RATURER</orth>
                 <orth type="V">RAYER</orth>
               </form>
-              <dictScrap><oVar>Raturer</oVar><ref cRef="emporter">emporte</ref> quelque chose de son <ref cRef="sens">sens</ref>
+              <dictScrap><oVar>Raturer</oVar> <ref cRef="emporter">emporte</ref> quelque chose de son <ref cRef="sens">sens</ref>
                 <ref cRef="primitif">primitif</ref> ; c’est <gloss>passer sur le <ref cRef="mot">mot</ref> un trait qui empêche de le lire</gloss>.
                   <oVar>Rayer</oVar>, c’est simplement <gloss>passer sur le <ref cRef="mot">mot</ref> une <oVar>raie</oVar>, une barre, qui peut le
                   laisser lisible</gloss>. Dans un acte <q>on <oVar>raye</oVar> les <ref cRef="mot">mots</ref></q> qu’on veut supprimer, <q
@@ -5941,7 +5941,7 @@
                 <orth type="N">RACAILLE</orth>
                 <orth type="N">CANAILLE</orth>
               </form>
-              <dictScrap>La signification commune est <gloss><ref cRef="foule">foule</ref><ref cRef="digne">digne</ref> de mépris</gloss> ; mais
+              <dictScrap>La signification commune est <gloss><ref cRef="foule">foule</ref> <ref cRef="digne">digne</ref> de mépris</gloss> ; mais
                   <oVar>racaille</oVar> est encore <term key="plus" type="figure">plus</term>
                 <ref cRef="mépriser">méprisant</ref> que <oVar>canaille</oVar>, et <ref cRef="exprimer">exprime</ref> un <ref cRef="degré">degré</ref>
                 au-dessous.</dictScrap>
@@ -6232,8 +6232,8 @@
                   <oVar>choisit</oVar> ses <ref cRef="mot">mots</ref></q>
                 <q type="contre">mais il ne les <oVar>élit</oVar> pas</q>. Au contraire <q>on <oVar>choisit</oVar> un <term key="personne"
                     type="construction">homme</term> et on l’<oVar>élit</oVar></q> ; <q><persName>Louis
-                    XIV</persName><oVar>choisit</oVar><persName>Colbert</persName></q>, c’est-à-dire <gloss>le <ref cRef="remarquer">remarqua</ref>,
-                  le préféra</gloss> ; <q><persName>Louis XIV</persName><oVar>élut</oVar><persName>Colbert</persName></q>, c’est-à-dire <gloss>l’éleva
+                    XIV</persName> <oVar>choisit</oVar> <persName>Colbert</persName></q>, c’est-à-dire <gloss>le <ref cRef="remarquer">remarqua</ref>,
+                  le préféra</gloss> ; <q><persName>Louis XIV</persName> <oVar>élut</oVar> <persName>Colbert</persName></q>, c’est-à-dire <gloss>l’éleva
                   à un ministère</gloss> (il faut ajouter que l’usage <ref cRef="attribuer">attribue</ref> d’<ref cRef="ordinaire">ordinaire</ref> à
                   <oVar>élire</oVar> l’<ref cRef="idée">idée</ref> de <ref cRef="suffrage">suffrages</ref> donnés). <q>Israël fut <oVar>choisi</oVar>
                   entre les <ref cRef="peuple">peuples</ref></q>, c’est-à-dire <gloss>préféré</gloss> ; <q>Israël fut <oVar>élu</oVar> de Dieu</q>,
@@ -6513,7 +6513,7 @@
                 <orth type="V">CONCILIER</orth>
                 <orth type="V">ACCORDER</orth>
               </form>
-              <dictScrap><oVar>Accorder</oVar>, c’est <term key="propre" type="figure">proprement</term><gloss>mettre d’accord, ramener au même ton, à
+              <dictScrap><oVar>Accorder</oVar>, c’est <term key="propre" type="figure">proprement</term> <gloss>mettre d’accord, ramener au même ton, à
                   l’unisson</gloss> ; tandis que <oVar>concilier</oVar> signifie uniquement <gloss>rapprocher</gloss>. C’est cette différence
                 d’étymologie qui est la cause des nuances que ces deux <ref cRef="mot">mots</ref>
                 <ref cRef="exprimer">expriment</ref>. <q><oVar>Concilier</oVar> les libertés de l’Église gallicane avec les prétentions de la <ref
@@ -6546,7 +6546,7 @@
                 <orth type="N">DÉFAVEUR</orth>
                 <orth type="N">DISGRÂCE</orth>
               </form>
-              <dictScrap><oVar>Disgrâce</oVar><term key="général" type="figure">dit plus</term> que <oVar>défaveur</oVar>. La <oVar>défaveur</oVar>
+              <dictScrap><oVar>Disgrâce</oVar> <term key="général" type="figure">dit plus</term> que <oVar>défaveur</oVar>. La <oVar>défaveur</oVar>
                 c’est simplement la <gloss>perte de la <ref cRef="faveur">faveur</ref></gloss> ; mais la <oVar>disgrâce</oVar> est quelque chose de
                 plus ; elle implique non seulement la perte de la <ref cRef="faveur">faveur</ref>, mais aussi la <gloss>perte des <oVar type="der"
                     >grâces</oVar></gloss>, des choses <oVar type="der">gracieuses</oVar> qui étaient <ref cRef="posséder">possédées</ref>, telles que
@@ -7154,14 +7154,14 @@
                 <orth type="V">CASSER</orth>
                 <orth type="V">RÉVOQUER</orth>
               </form>
-              <dictScrap><gloss>Mettre hors d’usage ce qui a <ref cRef="autorité">autorité</ref>.</gloss><oVar>Annuler</oVar> est le plus <term
+              <dictScrap><gloss>Mettre hors d’usage ce qui a <ref cRef="autorité">autorité</ref>.</gloss> <oVar>Annuler</oVar> est le plus <term
                   key="général" type="figure"><ref cRef="général">général</ref></term> ; il signifie <gloss>rendre <oVar type="der">nul</oVar></gloss>
                 sans rien spécifier de plus, ni quant à ce qui <oVar>annule</oVar>, ni quant à ce qui est <oVar>annulé</oVar>. <oVar>Révoquer</oVar>
                 <ref cRef="exprimer">exprime</ref> que <gloss>la même <ref cRef="autorité">autorité</ref> qui avait octroyé la chose la
                 retire</gloss> : L’<q><name>édit de Nantes</name>, <ref cRef="accorder">accordé</ref> par <persName>Henri IV</persName>,
                     <oVar>révoqué</oVar> par <persName>Louis XIV</persName></q>. <oVar>Casser</oVar> indique une <ref cRef="autorité">autorité</ref>
                 supérieure qui <oVar>annule</oVar> l’acte d’une <ref cRef="autorité">autorité</ref> inférieure. <q>La <ref cRef="cour">cour</ref> de
-                    <oVar type="der">cassation</oVar></q><gloss><oVar>casse</oVar> en dernier ressort les arrêts ou <ref cRef="jugement"
+                    <oVar type="der">cassation</oVar></q> <gloss><oVar>casse</oVar> en dernier ressort les arrêts ou <ref cRef="jugement"
                     >jugements</ref></gloss>. <oVar>Infirmer</oVar> appartient, en <term key="droit" type="domaine">jurisprudence</term>, à un
                 tribunal supérieur qui défait l’arrêt d’un tribunal subalterne, et, dans le <term key="commun" type="domaine"><ref cRef="langage"
                     >langage</ref>
@@ -7529,7 +7529,7 @@
               </form>
               <dictScrap>L’un et l’autre veut dire <gloss>travailler à établir l’innocence</gloss> de quelqu’un. <oVar>Justifier</oVar> suppose que
                 l’inculpation a été mise à néant ; <oVar>défendre</oVar> suppose seulement qu’elle a été combattue.
-                    <q><persName>Cicéron</persName><oVar>défendit</oVar><persName>Milon</persName>, mais il ne put <ref cRef="parvenir">parvenir</ref>
+                    <q><persName>Cicéron</persName> <oVar>défendit</oVar> <persName>Milon</persName>, mais il ne put <ref cRef="parvenir">parvenir</ref>
                   à le <oVar>justifier</oVar>.</q></dictScrap>
             </entry>
             <entry xml:id="accusateur">
@@ -7751,7 +7751,7 @@
                 <cit>
                   <quote>Aussi <oVar>soigneux</oVar> désormais de me faire oublier, que j’avais été <ref cRef="autrefois">autrefois</ref>
                     <oVar>curieux</oVar> de faire parler de moi</quote>
-                  <bibl>, <author>Boileau</author>, <title>Disc. sur la sat.</title><biblScope>XI</biblScope>.</bibl>
+                  <bibl>, <author>Boileau</author>, <title>Disc. sur la sat.</title> <biblScope>XI</biblScope>.</bibl>
                 </cit></dictScrap>
             </entry>
             <entry xml:id="imiter">
@@ -7839,7 +7839,7 @@
                 <orth type="V">TERMINER</orth>
                 <orth type="V">FINIR</orth>
               </form>
-              <dictScrap><gloss>Faire en sorte qu’une chose soit faite et non plus à faire, et qu’un arrêt y soit mis.</gloss><oVar>Achever</oVar>
+              <dictScrap><gloss>Faire en sorte qu’une chose soit faite et non plus à faire, et qu’un arrêt y soit mis.</gloss> <oVar>Achever</oVar>
                 c’est, il est vrai, <gloss><ref cRef="mener">mener</ref> à <oVar type="der">terme</oVar></gloss>, mais avec <ref cRef="idée"
                   >idée</ref> que la chose <ref cRef="mener">menée</ref> à <oVar type="der">terme</oVar> est <ref cRef="parfait">parfaite</ref> et
                   <ref cRef="accompli">accomplie</ref>. <oVar>Terminer</oVar>, c’est simplement <gloss>y mettre un <oVar type="der"
@@ -8527,7 +8527,7 @@
                   considérés dans une certaine <ref cRef="combinaison">combinaison</ref></gloss> : <cit>
                   <quote>Le <oVar>sort</oVar> qui toujours change Ne vous a pas promis un <ref cRef="bonheur">bonheur</ref> sans <ref cRef="mélange"
                       >mélange</ref></quote>
-                  <bibl>, a dit <author>Racine</author>, <title>Iph.</title><biblScope>I, 1</biblScope></bibl>
+                  <bibl>, a dit <author>Racine</author>, <title>Iph.</title> <biblScope>I, 1</biblScope></bibl>
                 </cit>. Mais <oVar>hasard</oVar> exclut ordre et intention ; c’est l’<gloss>ensemble des événements considérés indépendamment de toute
                   espèce de causes et d’enchaînements</gloss>.</dictScrap>
             </entry>
@@ -8537,7 +8537,7 @@
                 <orth type="V">RISQUER</orth>
               </form>
               <dictScrap>Le premier de ces <ref cRef="mot">mots</ref> n’indique que l’<ref cRef="incertitude">incertitude</ref> du <ref cRef="succès"
-                  >succès</ref>. Le second menace d’une mauvaise <ref cRef="issue">issue</ref>. À <gloss><ref cRef="chance">chances</ref><ref
+                  >succès</ref>. Le second menace d’une mauvaise <ref cRef="issue">issue</ref>. À <gloss><ref cRef="chance">chances</ref> <ref
                     cRef="égaler">égales</ref></gloss>, on <oVar>hasarde</oVar> ; avec du <gloss>désavantage</gloss>, on <oVar>risque</oVar>. <q>Vous
                     <oVar>hasardez</oVar> en jouant contre votre égal</q> ; <q>vous <oVar>risquez</oVar> contre un joueur plus <ref cRef="habile"
                     >habile</ref></q>. <q>La raison même <oVar>hasarde</oVar></q> ; <q>la passion <oVar>risque</oVar></q>,
@@ -8901,7 +8901,7 @@
                 fond le même <ref cRef="sens">sens</ref>. Mais l’usage a <ref cRef="attacher">attaché</ref> un <ref cRef="sens">sens</ref>
                 <term key="péjoratif" type="valeur">défavorable</term> à <oVar>monacal</oVar>, et a laissé à <oVar>monastique</oVar> son <term
                   key="neutre" type="valeur"><ref cRef="sens">sens</ref> naturel</term> : <q>vie <oVar>monastique</oVar></q>, <q><ref cRef="intrigue"
-                    >intrigues</ref><oVar>monacales</oVar></q>.</dictScrap>
+                    >intrigues</ref> <oVar>monacales</oVar></q>.</dictScrap>
             </entry>
             <entry xml:id="béatification">
               <form>
@@ -9234,7 +9234,7 @@
                 positive. On voit que ces trois expressions désignent <gloss>trois <ref cRef="degré">degrés</ref> croissants de crédibilité</gloss>.
                   <oVar>Plausible</oVar> signifie <gloss><ref cRef="digne">digne</ref> d’être applaudi, <ref cRef="digne">digne</ref>
                   d’assentiment</gloss>. <q>Une opinion <oVar>plausible</oVar></q>, <q>une <ref cRef="excuse">excuse</ref>
-                  <oVar>plausible</oVar></q>, c’est une opinion, une <ref cRef="excuse">excuse</ref><gloss>à laquelle nous devons ou pouvons <ref
+                  <oVar>plausible</oVar></q>, c’est une opinion, une <ref cRef="excuse">excuse</ref> <gloss>à laquelle nous devons ou pouvons <ref
                     cRef="acquiescer">acquiescer</ref></gloss> ; on voit que dans <oVar>plausible</oVar> on considère moins l’<oVar type="der"
                   >apparence</oVar>, la <oVar type="der">vraisemblance</oVar> ou la <oVar type="der">probabilité</oVar> que l’effet que la chose
                   <oVar>plausible</oVar> produit sur nous.</dictScrap>
@@ -9448,7 +9448,7 @@
               <dictScrap>Ces deux <ref cRef="mot">mots</ref> sont <ref cRef="synonyme">synonymes</ref>, sauf qu’<oVar>incompréhensible</oVar> est
                   <term key="usité" type="fréquence">plus usité</term> qu’<oVar>inconcevable</oVar> dans le <ref cRef="sens">sens</ref> de :
                   <gloss>qui dépasse la <ref cRef="portée">portée</ref> de l’<ref cRef="esprit">esprit</ref> humain</gloss> ; et
-                  qu’<oVar>inconcevable</oVar> est <term key="usité" type="fréquence">plus usité</term> qu’<oVar>incompréhensible</oVar><note>, dans
+                  qu’<oVar>inconcevable</oVar> est <term key="usité" type="fréquence">plus usité</term> qu’<oVar>incompréhensible</oVar> <note>, dans
                   le <ref cRef="sens">sens</ref> du n° 2</note>.</dictScrap>
             </entry>
             <entry xml:id="clairement">
@@ -9553,7 +9553,7 @@
                 Une chose est <oVar>attachée</oVar> à une autre par des liens indépendants et <term key="chose" type="construction">étrangers</term> :
                   <q>les voiles sont <oVar>attachées</oVar> au mât</q>. Une chose est <oVar>annexée</oVar> à une autre par une simple jonction morale,
                 effet de la <term key="personne" type="construction">volonté</term> et de l’institution humaine : <q><ref cRef="pays"
-                    >pays</ref><oVar>annexé</oVar> à la France</q> ; <q>acte <oVar>annexé</oVar> à la minute</q> ; <q>le sacerdoce auquel la royauté
+                    >pays</ref> <oVar>annexé</oVar> à la France</q> ; <q>acte <oVar>annexé</oVar> à la minute</q> ; <q>le sacerdoce auquel la royauté
                   était <oVar>annexée</oVar></q>.</dictScrap>
             </entry>
             <entry xml:id="lier">
@@ -10219,7 +10219,7 @@
                 étymologiquement un comparatif, implique une <ref cRef="idée">idée</ref> de comparaison qui n’est pas dans <oVar>interne</oVar> ; il
                 signifie ce qui est <gloss>plus en dedans</gloss>, tandis que <oVar>interne</oVar> signifie seulement ce qui est <gloss>en
                   dedans</gloss>. <oVar>Intrinsèque</oVar> se dit de ce qui est <gloss>inhérent, essentiel, par opposition à ce qui est accidentel et
-                  adventif</gloss> : <q><ref cRef="qualité">qualités</ref><oVar>intrinsèques</oVar></q>. De plus, <oVar>intérieur</oVar> est le <term
+                  adventif</gloss> : <q><ref cRef="qualité">qualités</ref> <oVar>intrinsèques</oVar></q>. De plus, <oVar>intérieur</oVar> est le <term
                   key="commun" type="domaine"><ref cRef="mot">mot</ref> vulgaire</term> et de <term key="ordinaire" type="registre">tous les
                   styles</term> ; <oVar>interne</oVar> est un <ref cRef="mot">mot</ref> de <term key="science" type="domaine">science</term>, de
                 physique, de <term key="médecine" type="domaine">médecine</term> ; et <oVar>intrinsèque</oVar> un <ref cRef="mot">mot</ref> de <term
@@ -10345,7 +10345,7 @@
                   concert</q>. <oVar>Fin</oVar> a rapport au commencement, comme <oVar>bout</oVar> a rapport à un autre <oVar>bout</oVar>, comme
                   <oVar>extrémité</oVar> a rapport à un centre. Quand <oVar>fin</oVar> s’applique à l’<ref cRef="étendue">étendue</ref>, ce qui arrive
                 quelquefois, il <ref cRef="exprimer">exprime</ref>, à vrai dire, le temps que l’on met à parcourir cette <ref cRef="étendue"
-                  >étendue</ref> : <q>un <ref cRef="désert">désert</ref> sans <oVar>fin</oVar></q>, est un <ref cRef="désert">désert</ref><gloss>qui
+                  >étendue</ref> : <q>un <ref cRef="désert">désert</ref> sans <oVar>fin</oVar></q>, est un <ref cRef="désert">désert</ref> <gloss>qui
                   ne <oVar type="der">finit</oVar> pas</gloss> ; <q type="contre">un <ref cRef="désert">désert</ref> sans <oVar>bout</oVar> ou sans
                     <oVar>extrémité</oVar>, ne pourrait se dire</q>, car on ne <ref cRef="concevoir">conçoit</ref> pas qu’un <ref cRef="désert"
                   >désert</ref> n’ait pas un <oVar>bout</oVar>, si on le considère dans sa longueur, ou des <oVar>extrémités</oVar>, si on le
@@ -10539,7 +10539,7 @@
                 <orth type="Q">NOUVEAU</orth>
               </form>
               <dictScrap><oVar>Neuf</oVar> signifie une chose faite par <ref cRef="art">art</ref> et qui n’est <gloss>pas encore mise en
-                usage</gloss>, comme <q>un livre neuf</q><gloss>qui n’a pas encore été usé ni sali, quoique peut-être il soit <ref cRef="imprimer"
+                usage</gloss>, comme <q>un livre neuf</q> <gloss>qui n’a pas encore été usé ni sali, quoique peut-être il soit <ref cRef="imprimer"
                     >imprimé</ref> et relié depuis beaucoup d’<ref cRef="année">années</ref></gloss>. <oVar>Nouveau</oVar> est ce qui est fait ou mis
                 en <ref cRef="évidence">évidence</ref>
                 <gloss>depuis peu de temps</gloss>, comme <q>un <oVar>nouveau</oVar> livre</q>, <gloss>qui a été <oVar type="der">nouvellement</oVar>
@@ -11004,9 +11004,9 @@
                 leur <ref cRef="masse">masse</ref>. Dans le <ref cRef="sens">sens</ref>
                 <term key="figuré" type="figure">figuré</term>, et quand il s’agit de l’<ref cRef="esprit">esprit</ref>, le <ref cRef="mot">mot</ref>
                 <oVar>lourd</oVar> enchérit encore sur celui de <oVar>pesant</oVar>, <q>l’<ref cRef="esprit">esprit</ref>
-                  <oVar>pesant</oVar></q><gloss><ref cRef="concevoir">conçoit</ref> avec peine</gloss>, avance lentement et fait peu de progrès :
+                  <oVar>pesant</oVar></q> <gloss><ref cRef="concevoir">conçoit</ref> avec peine</gloss>, avance lentement et fait peu de progrès :
                     <q>l’<ref cRef="esprit">esprit</ref>
-                  <oVar>lourd</oVar></q><gloss>ne <ref cRef="concevoir">conçoit</ref> rien</gloss> et ne fait aucun progrès,
+                  <oVar>lourd</oVar></q> <gloss>ne <ref cRef="concevoir">conçoit</ref> rien</gloss> et ne fait aucun progrès,
                     <bibl><author>Beauzée</author></bibl>.</dictScrap>
               <note resp="Beauzée"/>
               <note resp="Lafaye"/>
@@ -11066,7 +11066,7 @@
                 <orth type="Q">OBSCUR</orth>
                 <orth type="Q">SOMBRE</orth>
               </form>
-              <dictScrap><oVar>Obscur</oVar><term key="général" type="figure">dit plus</term> que <oVar>sombre</oVar> : <q>un jour est
+              <dictScrap><oVar>Obscur</oVar> <term key="général" type="figure">dit plus</term> que <oVar>sombre</oVar> : <q>un jour est
                     <oVar>sombre</oVar></q>, <q>une <ref cRef="nuit">nuit</ref> est <oVar>obscure</oVar></q>.</dictScrap>
             </entry>
             <entry xml:id="offusquer">
@@ -11364,7 +11364,7 @@
                 <orth type="N">LA <m>CHALEUR</m></orth>
               </form>
               <dictScrap>Le <oVar>chaud</oVar> est la <term key="qualité" type="construction">qualité</term> de tout ce qui est <oVar>chaud</oVar> ;
-                la <oVar>chaleur</oVar> est la <gloss><term key="qualité" type="construction">qualité</term><ref cRef="actif">active</ref></gloss> qui
+                la <oVar>chaleur</oVar> est la <gloss><term key="qualité" type="construction">qualité</term> <ref cRef="actif">active</ref></gloss> qui
                 fait qu’un corps est <oVar>chaud</oVar>. On sentira la nuance dans ces phrases : <q>le <oVar>chaud</oVar> du jour</q>, <q>la
                     <oVar>chaleur</oVar> du jour</q>. Le <oVar>chaud</oVar> du jour, c’est le temps où le jour est le plus <oVar>chaud</oVar> ; la
                   <oVar>chaleur</oVar> du jour est l’impression qu’un jour <oVar>chaud</oVar> nous fait sentir. <q>Nous sortîmes au <oVar>chaud</oVar>
@@ -12244,9 +12244,9 @@
                   <gloss>créations dans les <ref cRef="science">sciences</ref> ou les <ref cRef="art">arts</ref> qui <ref cRef="honorer"
                     >honorent</ref> une <ref cRef="nation">nation</ref>, une <ref cRef="époque">époque</ref></gloss>. <cit>
                   <quote>Entre l’<oVar>esprit</oVar> et le <oVar>génie</oVar>, Malgré ce qu’ils ont de pareil, La <ref cRef="différence"
-                      >différence</ref> est <ref cRef="infini">infinie</ref> ; Un éclair n’est pas le soleil</quote>
-                  <bibl>, <author>Pons de Verdun</author>. </bibl>
-                </cit></dictScrap>
+                      >différence</ref> est <ref cRef="infini">infinie</ref> ; Un éclair n’est pas le soleil, </quote>
+                  <bibl><author>Pons de Verdun</author></bibl>
+                </cit>.</dictScrap>
             </entry>
           </div>
         </div>
@@ -12492,7 +12492,7 @@
                 <cit>
                   <quote>L’<oVar>irritabilité</oVar> végétale est <ref cRef="exciter">excitée</ref> par un stimulant comme l’<oVar>irritabilité</oVar>
                     animale</quote>
-                  <bibl>, <author>Bonnet</author>, <title>Contempl. nat.</title><biblScope> I, 33, note 10</biblScope>.</bibl>
+                  <bibl>, <author>Bonnet</author>, <title>Contempl. nat.</title> <biblScope> I, 33, note 10</biblScope>.</bibl>
                 </cit></dictScrap>
             </entry>
           </div>
@@ -12840,7 +12840,7 @@
               <dictScrap>Les <oVar>hôpitaux</oVar> sont particulièrement destinés à la <ref cRef="guérison">guérison</ref> des malades ; les
                   <oVar>hospices</oVar>, aux <ref cRef="infirmer">infirmes</ref>, aux vieillards, etc. L’<oVar>hôpital</oVar> est un <gloss><ref
                     cRef="asile">asile</ref> momentané</gloss> où l’on cherche la <ref cRef="guérison">guérison</ref> d’une maladie ;
-                  l’<oVar>hospice</oVar> est un <gloss><ref cRef="asile">asile</ref><ref cRef="perpétuel">perpétuel</ref></gloss> où l’on passe tout
+                  l’<oVar>hospice</oVar> est un <gloss><ref cRef="asile">asile</ref> <ref cRef="perpétuel">perpétuel</ref></gloss> où l’on passe tout
                 ou partie de son existence. Cette distinction est purement <term key="administration" type="domaine">administrative</term>. <term
                   key="ancien" type="temps">Autrefois</term> il n’y avait qu’<oVar>hôpital</oVar> qui s’appliquait à tous les lieux destinés à
                 recevoir des <ref cRef="pauvre">pauvres</ref> malades ou non malades.</dictScrap>
@@ -12936,7 +12936,7 @@
               <dictScrap>On distingue l’<oVar>algalie</oVar>, la <oVar>sonde</oVar> et le <oVar>cathéter</oVar> en ce que : la <oVar>sonde</oVar> est
                 le <term key="général" type="figure"><ref cRef="terme">terme</ref>
                   <ref cRef="général">général</ref></term> pour désigner tout <gloss><ref cRef="instrument">instrument</ref> qu’on introduit dans un
-                  trajet naturel ou accidentel</gloss> ; l’<oVar>algalie</oVar> est une <gloss><oVar>sonde</oVar><ref cRef="creuser">creuse</ref>
+                  trajet naturel ou accidentel</gloss> ; l’<oVar>algalie</oVar> est une <gloss><oVar>sonde</oVar> <ref cRef="creuser">creuse</ref>
                   qu’on introduit dans la vessie par le canal <ref cRef="ordinaire">ordinaire</ref> pour évacuer l’urine ou pour explorer
                   l’organe</gloss> ; et le <oVar>cathéter</oVar> est une <gloss><oVar>sonde</oVar> solide et cannelée dont on se sert pour faire
                   l’opération de la taille</gloss>.</dictScrap>
@@ -13515,7 +13515,7 @@
                 <orth type="V">PRONONCER</orth>
               </form>
               <dictScrap><oVar>Proférer</oVar> c’est <gloss><oVar>prononcer</oVar> des paroles à haute et intelligible voix</gloss>. <ref
-                  cRef="articuler">articuler</ref> c’est <gloss><oVar>prononcer</oVar><ref cRef="distinctement">distinctement</ref></gloss> ou marquer
+                  cRef="articuler">articuler</ref> c’est <gloss><oVar>prononcer</oVar> <ref cRef="distinctement">distinctement</ref></gloss> ou marquer
                 les syllabes en les <ref cRef="lier">liant</ref> ensemble. <oVar>Prononcer</oVar> c’est <gloss><ref cRef="exprimer">exprimer</ref> ou
                   faire entendre par le moyen de la voix</gloss>, <bibl><author>Roubaud</author></bibl>.</dictScrap>
             </entry>
@@ -13917,7 +13917,7 @@
               </form>
               <dictScrap><gloss><oVar>Caustique</oVar> est ce qui brûle</gloss> ; <gloss><oVar>mordant</oVar> est ce qui <oVar type="der"
                   >mord</oVar></gloss> ; <gloss><oVar>satirique</oVar> est ce qui fait la <oVar type="der">satire</oVar></gloss>. Avoir l’<ref
-                  cRef="esprit">esprit</ref><oVar>satirique</oVar>, c’est avoir l’<ref cRef="esprit">esprit</ref><ref cRef="disposer">disposé</ref> à
+                  cRef="esprit">esprit</ref> <oVar>satirique</oVar>, c’est avoir l’<ref cRef="esprit">esprit</ref> <ref cRef="disposer">disposé</ref> à
                 voir le mauvais côté des choses, à chercher ce qu’elles peuvent avoir de blâmable ou de <ref cRef="ridicule">ridicule</ref>, et à le
                 mettre en relief. Avoir l’<ref cRef="esprit">esprit</ref>
                 <oVar>caustique</oVar>, c’est appliquer une espèce de <ref cRef="fer">fer</ref>
@@ -14015,10 +14015,10 @@
                 <orth type="N">DIALOGUE</orth>
                 <orth type="N">COLLOQUE</orth>
               </form>
-              <dictScrap>La <oVar>conversation</oVar> se dit de quelque <gloss><ref cRef="discours">discours</ref><ref cRef="mutuel"
+              <dictScrap>La <oVar>conversation</oVar> se dit de quelque <gloss><ref cRef="discours">discours</ref> <ref cRef="mutuel"
                   >mutuel</ref></gloss> que ce puisse être, au lieu que <oVar>entretien</oVar> se dit d’un <gloss><ref cRef="discours"
-                    >discours</ref><ref cRef="mutuel">mutuel</ref> sur un objet déterminé ou sur un objet important</gloss>. <oVar>Dialogue</oVar> est
-                propre aux <gloss><oVar>conversations</oVar><term key="théâtre" type="domaine">dramatiques</term></gloss> ou aux
+                    >discours</ref> <ref cRef="mutuel">mutuel</ref> sur un objet déterminé ou sur un objet important</gloss>. <oVar>Dialogue</oVar> est
+                propre aux <gloss><oVar>conversations</oVar> <term key="théâtre" type="domaine">dramatiques</term></gloss> ou aux
                   <oVar>conversations</oVar> qu’on y assimile. <oVar>Colloque</oVar> s’applique spécialement aux <gloss><oVar>conversations</oVar>
                   polémiques et publiques où l’on <ref cRef="traiter">traite</ref> de <ref cRef="matière">matières</ref> de
                 doctrine</gloss>.</dictScrap>
@@ -14548,7 +14548,7 @@
                 <orth type="N">BREF</orth>
               </form>
               <dictScrap>La <oVar>bulle</oVar> diffère du <oVar>bref</oVar>, en ce que le <oVar>bref</oVar> est une <gloss><ref cRef="lettre"
-                    >lettre</ref><ref cRef="clore">close</ref></gloss>, et la <oVar>bulle</oVar> une <gloss><ref cRef="lettre">lettre</ref>
+                    >lettre</ref> <ref cRef="clore">close</ref></gloss>, et la <oVar>bulle</oVar> une <gloss><ref cRef="lettre">lettre</ref>
                   patente</gloss>.</dictScrap>
             </entry>
           </div>
@@ -14858,7 +14858,7 @@
                 <ref cRef="air">air</ref> ; ils le laissaient aux gens du <ref cRef="peuple">peuple</ref>, et disaient <oVar>boîte</oVar>. <cit>
                   <quote>À table, je lui ai demandé souvent sa <oVar>tabatière</oVar> qu’il n’appelle pas sa <oVar>boîte</oVar></quote>
                   <bibl>, <author>Rousseau (J.J.)</author>, <title>la nouvelle Héloïse</title>, <biblScope>IV, 9</biblScope>. </bibl>
-                </cit><term key="moderne" type="temps">Aujourd’hui</term>
+                </cit> <term key="moderne" type="temps">Aujourd’hui</term>
                 <oVar>boîte</oVar> s’emploie quelquefois pour <oVar>tabatière</oVar>, mais seulement quand il s’agit d’une <oVar>tabatière</oVar> de
                   <ref cRef="prix">prix</ref>, et quand d’ailleurs le <ref cRef="sens">sens</ref> est bien déterminé. <q>Le <ref cRef="roi">roi</ref>
                   lui a fait présent d’une <oVar>boîte</oVar> d’or enrichie de diamants.</q> On dit à quelqu’un qui prend du tabac : <q>Vous avez une
@@ -14974,7 +14974,7 @@
                     key="chose" type="construction">lieu</term></q> est l’emploi <term key="propre" type="figure">propre</term>, et
                     <q><oVar>fréquenter</oVar>
                   <term key="personne" type="construction">quelqu’un</term></q> l’emploi <term key="général" type="figure">dérivé</term> ; tandis que
-                    <q><oVar>hanter</oVar><term key="personne" type="construction">quelqu’un</term></q> est l’emploi <term key="propre" type="figure"
+                    <q><oVar>hanter</oVar> <term key="personne" type="construction">quelqu’un</term></q> est l’emploi <term key="propre" type="figure"
                   >propre</term>, et <q><oVar>hanter</oVar> un lieu</q> l’emploi <term key="général" type="figure">dérivé</term>. Mais, à part ces
                   <ref cRef="différence">différences</ref> étymologiques, l’usage n’a laissé, entre ces deux verbes, aucune nuance bien
                 appréciable.</dictScrap>
@@ -15268,10 +15268,10 @@
                     <oVar>clôt</oVar> pas</q> ; c’est-à-dire <gloss>les verrous en sont solides, mais elle laisse des jours</gloss>). En un <ref
                   cRef="mot">mot</ref>, <oVar>fermer</oVar>, prenant le <ref cRef="sens">sens</ref> de <oVar>clore</oVar>, s’est partout substitué à
                 lui, <ref cRef="excepté">excepté</ref> dans quelques locutions toutes faites : <q>à huis <oVar>clos</oVar></q>, <q type="contre">et
-                  non à huis <oVar>fermé</oVar></q> ; <q><ref cRef="nuit">nuit</ref><oVar>close</oVar></q>, <q type="contre">et non <ref cRef="nuit"
+                  non à huis <oVar>fermé</oVar></q> ; <q><ref cRef="nuit">nuit</ref> <oVar>close</oVar></q>, <q type="contre">et non <ref cRef="nuit"
                     >nuit</ref>
                   <oVar>fermée</oVar></q> ; <q>le propriétaire de la <ref cRef="maison">maison</ref> est <ref cRef="obliger">obligé</ref> de tenir le
-                  locataire <oVar>clos</oVar> et <ref cRef="couvert">couvert</ref></q>, <q type="contre">et non <oVar>fermé</oVar></q><gloss>(ici
+                  locataire <oVar>clos</oVar> et <ref cRef="couvert">couvert</ref></q>, <q type="contre">et non <oVar>fermé</oVar></q> <gloss>(ici
                     <oVar>fermé</oVar> ferait presque un contresens)</gloss>. En revanche, ce serait un autre contresens que de dire à quelqu’un de
                     <q><oVar>clore</oVar> la porte, au lieu de <oVar>fermer</oVar> la porte</q>, parce qu’on veut dire <gloss>l’<ref cRef="arrêter"
                     >arrêter</ref> par le pêne ou par un loquet, non pas la <oVar>clore</oVar></gloss>. En somme, c’est l’effet naturel d’un <ref
@@ -15599,7 +15599,7 @@
                 <orth type="R">COMME</orth>
               </form>
               <dictScrap><oVar>Comme</oVar> se dit quand il s’agit de la <gloss>comparaison de <ref cRef="qualité">qualités</ref></gloss> : <q>blanc
-                    <oVar>comme</oVar> neige</q>, <q><ref cRef="faux">faux</ref><oVar>comme</oVar> un jeton</q>, <q>hardi <oVar>comme</oVar> un
+                    <oVar>comme</oVar> neige</q>, <q><ref cRef="faux">faux</ref> <oVar>comme</oVar> un jeton</q>, <q>hardi <oVar>comme</oVar> un
                   lion</q>. <oVar>De même</oVar> que <gloss>se rapporte à la manière</gloss> : <q>il a opiné <oVar>de même que</oVar> son voisin</q>,
                 son opinion a été <gloss>la <oVar>même</oVar></gloss>. <oVar>Ainsi que</oVar>
                 <ref cRef="exprimer">exprime</ref>
@@ -15708,7 +15708,7 @@
                 <orth type="M">À LA <m>LÉGÈRE</m></orth>
                 <orth type="M">LÉGÈREMENT</orth>
               </form>
-              <dictScrap><q><ref cRef="croire">croire</ref><oVar>à la légère</oVar> ou <oVar>légèrement</oVar></q>, <q>s’engager <oVar>à la
+              <dictScrap><q><ref cRef="croire">croire</ref> <oVar>à la légère</oVar> ou <oVar>légèrement</oVar></q>, <q>s’engager <oVar>à la
                     légère</oVar> ou <oVar>légèrement</oVar></q> sont des phrases tout à fait <ref cRef="synonyme">synonymes</ref>. En effet
                   <oVar>légèrement</oVar> signifie <gloss>d’une façon <oVar type="der">légère</oVar></gloss> ; <oVar>à la légère</oVar> signifie 
                 <gloss>à la manière des
@@ -15754,9 +15754,9 @@
               </form>
               <dictScrap>L’emploi en est bien distinct. <oVar>Aisément</oVar> répond à <gloss>facilement</gloss>, et <oVar>à l’aise</oVar> à
                   <gloss>commodément</gloss>. <q>Où l’on <ref cRef="marche">marche</ref>
-                  <oVar>aisément</oVar></q>, on <ref cRef="marche">marche</ref><gloss>sans <ref cRef="difficulté">difficulté</ref></gloss> ; <q>où
+                  <oVar>aisément</oVar></q>, on <ref cRef="marche">marche</ref> <gloss>sans <ref cRef="difficulté">difficulté</ref></gloss> ; <q>où
                   l’on <ref cRef="marche">marche</ref>
-                  <oVar>à l’aise</oVar></q>, on <ref cRef="marche">marche</ref><gloss>sans <ref cRef="embarras">embarras</ref> ni
+                  <oVar>à l’aise</oVar></q>, on <ref cRef="marche">marche</ref> <gloss>sans <ref cRef="embarras">embarras</ref> ni
                 gêne</gloss>.</dictScrap>
             </entry>
             <entry xml:id="enfin">
@@ -15952,7 +15952,7 @@
                   <oVar>à</oVar> la prudence</q>, cela veut dire qu’il <gloss>avait l’une et l’autre de ces <ref cRef="qualité"
                 >qualités</ref></gloss> ; <q>il <oVar>associait</oVar> le <ref cRef="courage">courage</ref>
                   <oVar>avec</oVar> la prudence</q>, cela veut dire qu’il <gloss>formait une union de ces deux <ref cRef="qualité"
-                  >qualités</ref></gloss>. <oVar>S’associer avec</oVar><term key="personne" type="construction">quelqu’un</term> ou <oVar>s’associer
+                  >qualités</ref></gloss>. <oVar>S’associer avec</oVar> <term key="personne" type="construction">quelqu’un</term> ou <oVar>s’associer
                   à</oVar>
                 <term key="personne" type="construction">quelqu’un</term> offrent la même nuance, bien que moins distincte ; mais elle redevient très
                   <ref cRef="manifeste">manifeste</ref> dans le <ref cRef="sens">sens</ref>
@@ -16042,7 +16042,7 @@
               <dictScrap>On emploiera de préférence <oVar>avec</oVar>, quand <oVar>s’accoutumer</oVar> s’<ref cRef="approcher">approchera</ref> du
                   <ref cRef="sens">sens</ref> de se familiariser. <q>On <oVar>s’accoutume avec</oVar> quelqu’un</q>, quand <gloss>on se fait à ses
                   manières</gloss>. <q><oVar>S’accoutumer avec</oVar> le <ref cRef="péril">péril</ref></q>, c’est <gloss>devenir familier</gloss> avec
-                le <ref cRef="péril">péril</ref> et en faire une sorte de connaissance ; <q><oVar>s’accoutumer au</oVar><ref cRef="péril"
+                le <ref cRef="péril">péril</ref> et en faire une sorte de connaissance ; <q><oVar>s’accoutumer au</oVar> <ref cRef="péril"
                   >péril</ref></q>, c’est, y étant souvent exposé, le considérer comme une <gloss>chose habituelle</gloss> et qui ne surprend plus.
                   <oVar>S’accoutumer avec</oVar>
                 <ref cRef="exprimer">exprime</ref> donc quelque chose de plus intime, de plus <ref cRef="étroit">étroit</ref>.</dictScrap>
@@ -16278,13 +16278,13 @@
                 <orth type="V"><m/>CROIRE QUELQU’UN</orth>
                 <orth type="V"><m/>CROIRE À QUELQU’UN</orth>
               </form>
-              <dictScrap><oVar>Croire</oVar><term key="chose" type="construction">quelque chose</term>, c’est l’<gloss><ref cRef="estimer"
-                    >estimer</ref><ref cRef="véritable">véritable</ref></gloss> : <q>Je <oVar>crois</oVar> ce que vous me dites</q>. <oVar>Croire
-                  à</oVar><term key="chose" type="construction">quelque chose</term>, c’est <gloss>y ajouter <ref cRef="foi">foi</ref>, y avoir
+              <dictScrap><oVar>Croire</oVar> <term key="chose" type="construction">quelque chose</term>, c’est l’<gloss><ref cRef="estimer"
+                    >estimer</ref> <ref cRef="véritable">véritable</ref></gloss> : <q>Je <oVar>crois</oVar> ce que vous me dites</q>. <oVar>Croire
+                  à</oVar> <term key="chose" type="construction">quelque chose</term>, c’est <gloss>y ajouter <ref cRef="foi">foi</ref>, y avoir
                   confiance, s’y <ref cRef="fier">fier</ref></gloss> : <q>Je ne <oVar>crois</oVar> pas <oVar>à</oVar> l’efficacité de ce <ref
-                    cRef="remède">remède</ref></q>. <oVar>Croire</oVar><term key="personne" type="construction">quelqu’un</term>, c’est <gloss>ajouter
+                    cRef="remède">remède</ref></q>. <oVar>Croire</oVar> <term key="personne" type="construction">quelqu’un</term>, c’est <gloss>ajouter
                     <ref cRef="foi">foi</ref> à ce qu’il dit</gloss> : <q>Il ne faut pas <oVar>croire</oVar> les menteurs</q>. <oVar>Croire
-                  à</oVar><term key="personne" type="construction">quelqu’un</term>, c’est <gloss><oVar>croire à</oVar> son existence</gloss> :
+                  à</oVar> <term key="personne" type="construction">quelqu’un</term>, c’est <gloss><oVar>croire à</oVar> son existence</gloss> :
                     <q><oVar>Croire aux</oVar> sorciers</q>, c’est <gloss><oVar>croire</oVar> qu’il y en a</gloss> ; <q><oVar>Croire</oVar> les
                   sorciers</q>, c’est <gloss><oVar>croire</oVar> ce qu’ils disent</gloss>.</dictScrap>
             </entry>
@@ -16491,7 +16491,7 @@
               <dictScrap><oVar>Mésestimer</oVar>, en parlant des <term key="chose" type="construction">choses</term>, se prend toujours en <term
                   key="péjoratif" type="valeur">mauvaise part</term>, et signifie <gloss><ref cRef="apprécier">apprécier</ref> les choses au-dessous
                   de leur <ref cRef="juste">juste</ref>
-                  <ref cRef="valeur">valeur</ref></gloss>. <oVar>Mal</oVar><oVar>estimer</oVar> se dit soit en bien, soit en mal, et c’est
+                  <ref cRef="valeur">valeur</ref></gloss>. <oVar>Mal</oVar> <oVar>estimer</oVar> se dit soit en bien, soit en mal, et c’est
                     <gloss><oVar>estimer</oVar> ou au-dessus ou au-dessous de la <ref cRef="juste">juste</ref>
                   <ref cRef="valeur">valeur</ref></gloss>, <bibl><author>Laveaux</author></bibl>.</dictScrap>
             </entry>
@@ -16758,7 +16758,7 @@
                 <orth type="V">RASSEMBLER</orth>
               </form>
               <dictScrap>La <ref cRef="différence">différence</ref> est que <oVar>rassembler</oVar>
-                <ref cRef="exprimer">exprime</ref> l’<ref cRef="idée">idée</ref> d’un <gloss><ref cRef="nouveau">nouvel</ref><oVar type="der"
+                <ref cRef="exprimer">exprime</ref> l’<ref cRef="idée">idée</ref> d’un <gloss><ref cRef="nouveau">nouvel</ref> <oVar type="der"
                     >assemblement</oVar></gloss>. On <oVar>rassemble</oVar> ce qui avait été <oVar>assemblé</oVar> auparavant, et ce qui ne l’était
                 plus. On <oVar>assemble</oVar> ce qui est épars, dispersé et n’avait pas encore été <oVar>assemblé</oVar>.</dictScrap>
             </entry>
@@ -16947,7 +16947,7 @@
                 <orth type="Q">INESPÉRÉ</orth>
                 <orth type="Q">DÉSESPÉRÉ</orth>
               </form>
-              <dictScrap>Ces deux <ref cRef="mot">mots</ref> signifient l’<gloss><oVar type="der">espoir</oVar><ref cRef="perdu">perdu</ref></gloss> ;
+              <dictScrap>Ces deux <ref cRef="mot">mots</ref> signifient l’<gloss><oVar type="der">espoir</oVar> <ref cRef="perdu">perdu</ref></gloss> ;
                 mais <oVar>inespéré</oVar> le signifie pour le passé, et <oVar>désespéré</oVar> eu <ref cRef="égard">égard</ref> à l’avenir ;
                   <oVar>désespéré</oVar> se dit parce qu’il ne reste actuellement aucun <oVar type="der">espoir</oVar>, et <oVar>inespéré</oVar> parce
                 que l’<oVar type="der">espoir</oVar> était <ref cRef="perdu">perdu</ref> et qu’il est <ref cRef="revenir">revenu</ref> : <q>un <ref
@@ -16993,8 +16993,8 @@
               </form>
               <dictScrap>Des grammairiens, voulant séparer ces deux <ref cRef="mot">mots</ref>, ont dit : on <oVar>discrédite</oVar> les <term
                   key="chose" type="construction">choses</term>, on <oVar>décrédite</oVar> les <term key="personne" type="construction"
-                  >personnes</term> ; <q>la marchandise <oVar>discréditée</oVar></q><gloss>perd de sa <ref cRef="valeur">valeur</ref></gloss> ;
-                  <q>l’homme <oVar>décrédité</oVar></q><gloss>perd de sa <ref cRef="considération">considération</ref></gloss>. Mais <oVar type="der"
+                  >personnes</term> ; <q>la marchandise <oVar>discréditée</oVar></q> <gloss>perd de sa <ref cRef="valeur">valeur</ref></gloss> ;
+                  <q>l’homme <oVar>décrédité</oVar></q> <gloss>perd de sa <ref cRef="considération">considération</ref></gloss>. Mais <oVar type="der"
                   >discrédit</oVar> s’appliquant à la fois aux <term key="personne" type="construction">personnes</term> et aux <term key="chose"
                   type="construction">choses</term>, ne permet pas cette distinction. Il faut dire : <oVar>discréditer</oVar> s’applique à la fois aux
                   <term key="personne" type="construction">personnes</term> et aux <term key="chose" type="construction">choses</term> ;
@@ -17086,7 +17086,7 @@
                 <orth type="V">SE <m>DONNER</m> À</orth>
                 <orth type="V"><m>S’ADONNER</m> À</orth>
               </form>
-              <dictScrap><gloss>Se mettre à un certain genre de travail.</gloss><q><oVar>Se donner à</oVar> l’étude</q>, c’est <gloss>s’y livrer sans
+              <dictScrap><gloss>Se mettre à un certain genre de travail.</gloss> <q><oVar>Se donner à</oVar> l’étude</q>, c’est <gloss>s’y livrer sans
                     <ref cRef="réserve">réserve</ref></gloss> ; <q><oVar>s’adonner à</oVar> l’étude</q>, c’est simplement <gloss>s’y
                 appliquer</gloss>. Il y a donc une nuance entre ces deux expressions ; et la première est <term key="plus" type="figure">plus
                   forte</term> que l’autre.</dictScrap>
@@ -17684,7 +17684,7 @@
               </form>
               <dictScrap><q>Le <ref cRef="pays">pays</ref>
                   <oVar>montagneux</oVar></q> présente des <gloss><oVar type="der">montagnes</oVar> importantes</gloss> ; par <q><ref cRef="pays"
-                    >pays</ref><oVar>montueux</oVar></q> on entend un <gloss><ref cRef="pays">pays</ref> coupé de <ref cRef="hauteur">hauteurs</ref>
+                    >pays</ref> <oVar>montueux</oVar></q> on entend un <gloss><ref cRef="pays">pays</ref> coupé de <ref cRef="hauteur">hauteurs</ref>
                   et de <ref cRef="vallon">vallons</ref></gloss>.</dictScrap>
             </entry>
             <entry xml:id="oisif">
@@ -17755,7 +17755,7 @@
                 plus petit, à quoi serait attachée la <ref cRef="qualité">qualité</ref>
                 <oVar type="der">aigre</oVar>, vu que <oVar>aigret</oVar> est le diminutif simple, et que <oVar>aigrelet</oVar> est un diminutif de
                 diminutif. Cela est vrai ; mais la distinction est illusoire. <oVar>Aigret</oVar> ou <oVar>aigrelet</oVar> signifient, l’un et
-                l’autre, <gloss><ref cRef="légèrement">légèrement</ref><oVar type="der">aigre</oVar></gloss>, sans nuance appréciable.</dictScrap>
+                l’autre, <gloss><ref cRef="légèrement">légèrement</ref> <oVar type="der">aigre</oVar></gloss>, sans nuance appréciable.</dictScrap>
             </entry>
           </div>
           <div>
@@ -17945,7 +17945,7 @@
                 <orth type="N">CURATION</orth>
               </form>
               <dictScrap>Il y a cette <ref cRef="différence">différence</ref> entre <oVar>cure</oVar> et <oVar>curation</oVar>, que le premier de ces
-                  <ref cRef="mot">mots</ref> indique un <gloss><ref cRef="traitement">traitement</ref><ref cRef="achever">achevé</ref></gloss> et le
+                  <ref cRef="mot">mots</ref> indique un <gloss><ref cRef="traitement">traitement</ref> <ref cRef="achever">achevé</ref></gloss> et le
                 second un <gloss><ref cRef="traitement">traitement</ref> proposé ou actuellement employé</gloss>.</dictScrap>
             </entry>
             <entry xml:id="pliant">

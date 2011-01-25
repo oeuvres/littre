@@ -21,11 +21,19 @@
   </xsl:template>
 
   <!-- Utilisé pour sortir les citations modernes -->
+  <!--
   <xsl:template match="tei:sense/tei:cit/tei:quote">
     <xsl:value-of select="$lf"/>
     <xsl:value-of select="$lf"/>
     <xsl:value-of select="."/>
     <xsl:text>.</xsl:text>
+  </xsl:template>
+  -->
+
+  <xsl:template match="tei:sense/tei:dictScrap">
+    <xsl:value-of select="$lf"/>
+    <xsl:value-of select="$lf"/>
+    <xsl:value-of select="."/>
   </xsl:template>
 
 </xsl:transform>
