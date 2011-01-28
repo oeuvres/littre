@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_x">
+<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_x">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,11 +30,11 @@
 <sense n="1">
 <dictScrap>Lettre consonne qui est la vingt-troisième de l'alphabet.</dictScrap>
 <sense>
-<dictScrap>Jambes en X, se dit des genoux tournés en dedans et se touchant.</dictScrap>
+<dictScrap>Jambes en <oVar>X</oVar>, se dit des genoux tournés en dedans et se touchant.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>X, dans les chiffres romains, vaut 10 ; XI, 11 ; XII, 12 ; XIII, 13 ; XIIII ou XIV, 14, etc. XX ; 20 ; XXX, 30 ; XXXX ou XL, 40, etc. Surmonté d'un trait, dans cette forme X il vaut 10000 ; couché, il se prenait pour 1000.</dictScrap>
+<dictScrap><oVar>X</oVar>, dans les chiffres romains, vaut 10 ; XI, 11 ; XII, 12 ; XIII, 13 ; XIIII ou XIV, 14, etc. XX ; 20 ; XXX, 30 ; XXXX ou XL, 40, etc. Surmonté d'un trait, dans cette forme <oVar>X</oVar> il vaut 10000 ; couché, il se prenait pour 1000.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Dans le comput ecclésiastique, marque le dimanche.</dictScrap>
@@ -44,18 +43,18 @@
 <dictScrap>Sur les monnaies de France, indique qu'elles ont été frappées à Amiens, selon l'Encyclopédie, à Aix selon le dictionnaire de Trévoux.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>En marge des anciens manuscrits, X est une note critique qui indique une expression inusitée ou une figure trop hardie.</dictScrap>
+<dictScrap>En marge des anciens manuscrits, <oVar>X</oVar> est une note critique qui indique une expression inusitée ou une figure trop hardie.</dictScrap>
 <sense>
 <dictScrap>Il sert aussi quelquefois à noter les endroits remarquables.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>X ou x s'emploie d'ordinaire, en algèbre, pour désigner l'inconnue ou une des inconnues.</dictScrap>
+<dictScrap><oVar>X</oVar> ou <oVar>x</oVar> s'emploie d'ordinaire, en algèbre, pour désigner l'inconnue ou une des inconnues.</dictScrap>
 <sense>
 <dictScrap>Il se dit quelquefois figurément, dans le langage philosophique, d'une chose que l'on cherche.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Familièrement, les x, l'algèbre, les mathématiques. Fort en x, fort en mathématiques.</dictScrap>
+<dictScrap>Familièrement, les <oVar>x</oVar>, l'algèbre, les mathématiques. Fort en <oVar>x</oVar>, fort en mathématiques.</dictScrap>
 <cit>
 <quote>Des xx redoublés admirant la puissance, Il croit que Varignon est seul utile en France</quote>
 <bibl>
@@ -69,13 +68,13 @@
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Un x ou un ixe, chez les tapissiers, est un petit tabouret dont les pieds croisés offrent la figure de cette lettre.</dictScrap>
+<dictScrap>Un <oVar>x</oVar> ou un ixe, chez les tapissiers, est un petit tabouret dont les pieds croisés offrent la figure de cette lettre.</dictScrap>
 </sense>
 <sense n="8">
-<dictScrap>Poinçon d'acier au bout duquel se trouve gravé un x, pour frapper ou imprimer cette lettre.</dictScrap>
+<dictScrap>Poinçon d'acier au bout duquel se trouve gravé un <oVar>x</oVar>, pour frapper ou imprimer cette lettre.</dictScrap>
 </sense>
 <sense n="9">
-<dictScrap>X, espèce de phalène.</dictScrap>
+<dictScrap><oVar>X</oVar>, espèce de phalène.</dictScrap>
 </sense>
 <note type="remarque">
 <p>1. X a tantôt la prononciation de ks, comme dans extrême ; tantôt celle de gz, comme dans exercice ; tantôt celle de k, comme dans exception. Au reste la prononciation en est marquée en particulier. à chaque mot de ce dictionnaire </p>
@@ -121,7 +120,7 @@
 <sense>
 <dictScrap>Terme de chimie. Matière colorante de la garance.</dictScrap>
 <sense>
-<dictScrap>Xanthine azotée, oxyde xanthique, principe découvert dans quelques calculs urinaires de l'homme, et qui paraît exister aussi en grande quantité dans le guano.</dictScrap>
+<dictScrap><oVar>Xanthine</oVar> azotée, oxyde xanthique, principe découvert dans quelques calculs urinaires de l'homme, et qui paraît exister aussi en grande quantité dans le guano.</dictScrap>
 </sense>
 </sense>
 <etym>Du grec, jaune.</etym>
@@ -146,10 +145,10 @@
 <sense>
 <dictScrap>Terme de chimie. Qui concerne la couleur jaune.</dictScrap>
 <sense>
-<dictScrap>Acide xanthique, sorte d'acide.</dictScrap>
+<dictScrap>Acide <oVar>xanthique</oVar>, sorte d'acide.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Oxyde xanthique, voy. <ref target="xanthine">XANTHINE</ref>.</dictScrap>
+<dictScrap>Oxyde <oVar>xanthique</oVar>, voy. <ref target="xanthine">XANTHINE</ref>.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -418,12 +417,12 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Genre de poissons acanthoptérygiens dans lequel plusieurs ichthyologistes ne placent qu'une seule espèce, le xiphias glaive (Méditerranée et Atlantique), appelé vulgairement épée de mer et espadon.</dictScrap>
+<dictScrap>Genre de poissons acanthoptérygiens dans lequel plusieurs ichthyologistes ne placent qu'une seule espèce, le <oVar>xiphias</oVar> glaive (Méditerranée et Atlantique), appelé vulgairement épée de mer et espadon.</dictScrap>
 <cit>
 <quote>Ce sont les os frontaux, et non la mâchoire, qui se trouvent prolongés en forme de lame tranchante des deux côtés et terminée en pointe aiguë ; cette sorte d'épée sert d'arme offensive</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 <sense>
@@ -551,7 +550,7 @@
 </sense>
 <etym>Du grec, bois, et la finale ite.</etym>
 </entry>
-<entry xml:id="xylo-" type="prefixe">
+<entry type="prefixe" xml:id="xylo-">
 <form>
 <orth>XYLO-</orth>
 <gram>préfixe</gram>
@@ -589,7 +588,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'histoire naturelle. Qui coupe le bois. Abeille xylocope, abeille perce-bois.</dictScrap>
+<dictScrap>Terme d'histoire naturelle. Qui coupe le bois. Abeille <oVar>xylocope</oVar>, abeille perce-bois.</dictScrap>
 </sense>
 <etym>Du grec, bois et, couper.</etym>
 </entry>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_w">
+<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_w">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -31,7 +30,7 @@
 <sense>
 <dictScrap>Lettre introduite dans notre alphabet pour conformer notre écriture à celle de plusieurs peuples du Nord ; quand elle se trouve dans des mots provenant de l'anglais, elle se prononce ou ; quand elle se trouve dans des mots provenant de l'allemand, elle se prononce comme notre v.</dictScrap>
 <sense>
-<dictScrap>Le double w se trouve aussi dans quelques mots qui viennent de l'arabe.</dictScrap>
+<dictScrap>Le double <oVar>w</oVar> se trouve aussi dans quelques mots qui viennent de l'arabe.</dictScrap>
 </sense>
 <sense>
 <dictScrap>S'emploie en marine pour signifier variation.</dictScrap>
@@ -43,7 +42,7 @@
 <dictScrap>En musique, sert quelquefois à indiquer les parties de violon dans une partition.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Poinçon d'acier au bout duquel se trouve gravé un w, et avec lequel on frappe ou on imprime cette lettre.</dictScrap>
+<dictScrap>Poinçon d'acier au bout duquel se trouve gravé un <oVar>w</oVar>, et avec lequel on frappe ou on imprime cette lettre.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Espèce de papillon.</dictScrap>
@@ -162,7 +161,7 @@
 <note>Voy. <ref target="vagon">VAGON</ref>.</note>
 </form>
 <sense n="1">
-<dictScrap>Wagon-vanne, sorte d'écluse portative employée dans les égouts.</dictScrap>
+<dictScrap><oVar>Wagon</oVar>-vanne, sorte d'écluse portative employée dans les égouts.</dictScrap>
 </sense>
 <sense n="2">
 <dictScrap>Nom donné à des tuyaux en briques pour cheminées.</dictScrap>
@@ -307,13 +306,13 @@
 <dictScrap>Habitant, habitante de la Belgique dite romane (provinces de Liége, Namur, Hainaut, Luxembourg en partie et sud du Brabant).</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Le wallon, langage de ces provinces, qui est un dialecte du français.</dictScrap>
+<dictScrap>Le <oVar>wallon</oVar>, langage de ces provinces, qui est un dialecte du français.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Adj. Gardes wallonnes, corps de troupes des armées d'Espagne, qui faisait partie de la maison militaire de S. M. Catholique ; ce nom venait de ce que, dans son origine, il avait été levé dans la partie wallonne de la Flandre.</dictScrap>
+<dictScrap>Adj. Gardes wallonnes, corps de troupes des armées d'Espagne, qui faisait partie de la maison militaire de S. M. Catholique ; ce nom venait de ce que, dans son origine, il avait été levé dans la partie <oVar>wallonne</oVar> de la Flandre.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>Épée wallonne, épée à lame droite et large, à deux tranchants dont était armée la cavalerie sous Louis XIII et Louis XIV.</dictScrap>
+<dictScrap>Épée <oVar>wallonne</oVar>, épée à lame droite et large, à deux tranchants dont était armée la cavalerie sous Louis XIII et Louis XIV.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -632,7 +631,7 @@
 <re ana="supplement">
 <form> WATERINGUE. Ajoutez : </form>
 <sense n="2">
-<dictScrap>Se dit quelquefois pour désigner la direction qui administre une wateringue.</dictScrap>
+<dictScrap>Se dit quelquefois pour désigner la direction qui administre une <oVar>wateringue</oVar>.</dictScrap>
 </sense>
 <re>Dans l'étymologie, au lieu de wateringen, lisez watering. </re>
 </re>
@@ -675,7 +674,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de géologie. Terrain situé au-dessous du grès inférieur, ainsi dit parce qu'il a été primitivement étudié dans le Weald, partie des comtés de Kent, de Surrey et de Sussex, en Angleterre.</dictScrap>
+<dictScrap>Terme de géologie. Terrain situé au-dessous du grès inférieur, ainsi dit parce qu'il a été primitivement étudié dans le <oVar>Weald</oVar>, partie des comtés de Kent, de Surrey et de Sussex, en Angleterre.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="wealdien">
@@ -799,7 +798,7 @@
 <gram>s. m. et f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Celui, celle qui, en Angleterre, appartient au parti faisant profession de défendre la liberté. Un whig. Une whig. Les whigs sont opposés aux torys.</dictScrap>
+<dictScrap>Celui, celle qui, en Angleterre, appartient au parti faisant profession de défendre la liberté. Un <oVar>whig</oVar>. Une <oVar>whig</oVar>. Les <oVar>whigs</oVar> sont opposés aux torys.</dictScrap>
 <cit>
 <quote>Souvent, pour empêcher une pièce nouvelle de paraître, pour la faire tomber.... on emploie plus d'intrigues que les whigs n'en ont tramé contre les torys</quote>
 <bibl>
@@ -808,11 +807,11 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Adj. L'opinion whig. Le parti whig. Les ministères whigs.</dictScrap>
+<dictScrap>Adj. L'opinion <oVar>whig</oVar>. Le parti <oVar>whig</oVar>. Les ministères <oVar>whigs</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Aux États-Unis, on appelle whig ou fédéraliste le parti opposé à celui des démocrates.</dictScrap>
+<dictScrap>Aux États-Unis, on appelle <oVar>whig</oVar> ou fédéraliste le parti opposé à celui des démocrates.</dictScrap>
 </sense>
 <etym>Ce nom, dont on ignore l'origine, fut d'abord donné à quelques sectaires de l'ouest de l'Écosse, qui s'assemblaient dans les champs et qui ne buvaient presque pas d'autre liqueur que du lait aigre ; ensuite il s'est étendu à ceux qui ne reconnaissaient pas l'Église anglicane ; plus tard il devint le nom du parti contraire aux jacobites.</etym>
 </entry>
@@ -892,7 +891,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Wiche des rouleaux, nom donné, dans les fabriques de basse lisse, à une longue perche de bois, à laquelle on arrête les deux extrémités de la chaîne.</dictScrap>
+<dictScrap><oVar>Wiche</oVar> des rouleaux, nom donné, dans les fabriques de basse lisse, à une longue perche de bois, à laquelle on arrête les deux extrémités de la chaîne.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="wicléfisme">
@@ -955,7 +954,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Sorte de verre à boire allemand. Willkomm en verre de Bohême.</dictScrap>
+<dictScrap>Sorte de verre à boire allemand. <oVar>Willkomm</oVar> en verre de Bohême.</dictScrap>
 </sense>
 <etym>All. willkommen, bien venu.</etym>
 </entry>
@@ -966,7 +965,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Écorce de winter, écorce du wintera aromatica, qui est employée en pharmacie.</dictScrap>
+<dictScrap>Écorce de <oVar>winter</oVar>, écorce du wintera aromatica, qui est employée en pharmacie.</dictScrap>
 <cit>
 <quote>Les écorces.... de winter, d'yèble, etc.</quote>
 <bibl>
@@ -981,7 +980,7 @@
 <orth>WISKEY</orth>
 </form>
 <sense>
-<dictScrap>WISKEY, fausse orthographe. Voy. <ref target="whiskey">WHISKEY</ref>.</dictScrap>
+<dictScrap><oVar>WISKEY</oVar>, fausse orthographe. Voy. <ref target="whiskey">WHISKEY</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="wiski">
@@ -1030,7 +1029,7 @@
 <sense>
 <dictScrap>Synonyme de TUNGSTÈNE.</dictScrap>
 <sense>
-<dictScrap>Wolfram blanc, nom donné par quelques minéralogistes au tungstate de chaux.</dictScrap>
+<dictScrap><oVar>Wolfram</oVar> blanc, nom donné par quelques minéralogistes au tungstate de chaux.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -1051,7 +1050,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Mammifère de la Nouvelle-Hollande, appartenant à la famille des marsupiaux, phascoloma wombat.</dictScrap>
+<dictScrap>Mammifère de la Nouvelle-Hollande, appartenant à la famille des marsupiaux, phascoloma <oVar>wombat</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="woomera">

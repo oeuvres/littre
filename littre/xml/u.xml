@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_u">
+<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_u">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -28,7 +27,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>La cinquième des voyelles et la vingt et unième lettre de l'alphabet. Un grand U. Un petit u.</dictScrap>
+<dictScrap>La cinquième des voyelles et la vingt et unième lettre de l'alphabet. Un grand <oVar>U</oVar>. Un petit <oVar>u</oVar>.</dictScrap>
 <cit>
 <quote>M. Jourdain : Et toi, sais-tu bien comme il faut faire pour dire un u ? - Nicole : Comment ? - M. Jourdain : Oui ; qu'est-ce que tu fais quand tu dis u ? - Nicole : Quoi ? - M. Jourdain : Dis un peu u, pour voir. - Nicole : Eh bien ! u. - M. Jourdain : Qu'est-ce que tu fais ? - Nicole : Je dis u. - M. Jourdain : Oui ; mais quand tu dis u, qu'est-ce que tu fais ?... tu allonges les lèvres en dehors, et approches la mâchoire d'en haut de celle d'en bas : u, vois-tu ? je fais la moue, u</quote>
 <bibl>
@@ -38,16 +37,16 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>On distinguait autrefois deux sortes d'u, l'u voyelle et l'u consonne qui est le v.</dictScrap>
+<dictScrap>On distinguait autrefois deux sortes d'<oVar>u</oVar>, l'<oVar>u</oVar> voyelle et l'<oVar>u</oVar> consonne qui est le v.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Il se met après le g quand on veut donner au g un son dur devant e et i : guenon, guide.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>On met un tréma sur l'u quand on veut indiquer qu'il se prononce séparément de la voyelle qui le précède : Ésaü, Saül.</dictScrap>
+<dictScrap>On met un tréma sur l'<oVar>u</oVar> quand on veut indiquer qu'il se prononce séparément de la voyelle qui le précède : Ésaü, Saül.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Membre d'U ; les treillageurs nomment ainsi les parties de leurs ouvrages d'une forme longue et étroite, comme les larmiers, les bandeaux, etc. lesquels sont remplis par des compartiments disposés en chevrons frisés en forme d'U, ou pour mieux dire de V.</dictScrap>
+<dictScrap>Membre d'<oVar>U</oVar> ; les treillageurs nomment ainsi les parties de leurs ouvrages d'une forme longue et étroite, comme les larmiers, les bandeaux, etc. lesquels sont remplis par des compartiments disposés en chevrons frisés en forme d'<oVar>U</oVar>, ou pour mieux dire de V.</dictScrap>
 <cit>
 <quote>L'usine de la Franche-Comté fabrique les nouveaux fers spéciaux dits fers à U, etc. dont l'usage est encore peu répandu</quote>
 <bibl>
@@ -112,7 +111,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Familièrement. Il est ubiquiste, se dit d'un homme qui se trouve bien partout.</dictScrap>
+<dictScrap>Familièrement. Il est <oVar>ubiquiste</oVar>, se dit d'un homme qui se trouve bien partout.</dictScrap>
 <sense>
 <dictScrap>Se dit, par exagération, d'un homme qui voyage très fréquemment et très rapidement, de sorte qu'il paraît être dans plusieurs endroits à la fois.</dictScrap>
 </sense>
@@ -139,7 +138,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Adj. Terme didactique. Qui se trouve en tous lieux. Des médecins prétendent que la phthisie pulmonaire est une maladie ubiquitaire.</dictScrap>
+<dictScrap>Adj. Terme didactique. Qui se trouve en tous lieux. Des médecins prétendent que la phthisie pulmonaire est une maladie <oVar>ubiquitaire</oVar>.</dictScrap>
 </sense>
 <etym>Voy. <ref target="ubiquiste">UBIQUISTE</ref>.</etym>
 </entry>
@@ -589,7 +588,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Nom moderne du genre ajonc (légumineuses), renfermant : 1° l'ulex européen ; 2° l'ulex provençal ou mieux ulex de Le Gall, attendu que ce botaniste, auteur de la flore du Morbihan, a fait remarquer le premier que l'ulex provençal se trouve également dans l'ouest de la France ; 3° l'ulex nain désigné comme une variété de l'ulex européen, LEGOARANT.</dictScrap>
+<dictScrap>Nom moderne du genre ajonc (légumineuses), renfermant : 1° l'<oVar>ulex</oVar> européen ; 2° l'<oVar>ulex</oVar> provençal ou mieux <oVar>ulex</oVar> de Le Gall, attendu que ce botaniste, auteur de la flore du Morbihan, a fait remarquer le premier que l'<oVar>ulex</oVar> provençal se trouve également dans l'ouest de la France ; 3° l'<oVar>ulex</oVar> nain désigné comme une variété de l'<oVar>ulex</oVar> européen, LEGOARANT.</dictScrap>
 </sense>
 <etym>Lat. ulex, sorte de plante ; d'après Pline, un arbrisseau qui ressemble au romarin.</etym>
 </entry>
@@ -602,7 +601,7 @@
 <sense>
 <dictScrap>Terme d'histoire naturelle. Se dit des végétaux qui croissent dans les lieux humides.</dictScrap>
 <sense>
-<dictScrap>Terrains uligineux, terrains extrêmement humides.</dictScrap>
+<dictScrap>Terrains <oVar>uligineux</oVar>, terrains extrêmement humides.</dictScrap>
 </sense>
 </sense>
 <etym>Lat. uliginosus, de uligo, humidité naturelle de la terre, contracté de uviligo, qui a pour radical uvidus, humide.</etym>
@@ -669,7 +668,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide ulmarique, synonyme d'ulmarine.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>ulmarique</oVar>, synonyme d'ulmarine.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="ulmate">
@@ -856,13 +855,13 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme didactique. Qui est placé au dernier rang. La syllabe ultime d'un mot.</dictScrap>
+<dictScrap>Terme didactique. Qui est placé au dernier rang. La syllabe <oVar>ultime</oVar> d'un mot.</dictScrap>
 <sense>
 <dictScrap>En ce sens, les grammairiens disent quelquefois ultième.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Terme de médecine. Symptômes ultimes, symptômes qui annoncent la dissolution du malade.</dictScrap>
+<dictScrap>Terme de médecine. Symptômes <oVar>ultimes</oVar>, symptômes qui annoncent la dissolution du malade.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -900,7 +899,7 @@
 <dictScrap>Préfixe qui est employé en composition pour désigner ce qui est au delà des bornes raisonnables.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>S. m. Ultra, homme voulant aller au delà de ce que désire son parti.</dictScrap>
+<dictScrap>S. m. <oVar>Ultra</oVar>, homme voulant aller au delà de ce que désire son parti.</dictScrap>
 <cit>
 <quote>Les révolutions ont leurs ultras, comme les restaurations</quote>
 <bibl>
@@ -937,7 +936,7 @@
 </cit>
 </sense>
 <sense n="4">
-<dictScrap>Nec-plus-ultra, voy. <ref target="non-plus-ultra">NON-PLUS-ULTRA</ref>.</dictScrap>
+<dictScrap>Nec-plus-<oVar>ultra</oVar>, voy. <ref target="non-plus-ultra">NON-PLUS-<oVar>ULTRA</oVar></ref>.</dictScrap>
 </sense>
 <etym>Lat. ultra, au delà (voy. <ref target="outre.2">OUTRE 2</ref>).</etym>
 </entry>
@@ -1079,7 +1078,7 @@
 <dictScrap>Particulièrement, qui est situé, qui habite au delà des Alpes.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Substantivement. Les ultramontains.</dictScrap>
+<dictScrap>Substantivement. Les <oVar>ultramontains</oVar>.</dictScrap>
 <cit>
 <quote>Ne vous étonnez pas qu'il donne pour modèle à des ultramontains un auteur sans brillants ; Tout peuple peut avoir du goût et du bon sens</quote>
 <bibl>
@@ -1100,7 +1099,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Il se dit des maximes de la cour de Rome touchant la puissance ecclésiastique, et de ceux qui les appuient. Principes ultramontains.</dictScrap>
+<dictScrap>Il se dit des maximes de la cour de Rome touchant la puissance ecclésiastique, et de ceux qui les appuient. Principes <oVar>ultramontains</oVar>.</dictScrap>
 <cit>
 <quote>Jouvency employa la plus belle latinité à flatter et à établir les prétentions les plus ultramontaines</quote>
 <bibl>
@@ -1299,7 +1298,7 @@
 <quote>Il se dit principalement des planètes dont l'orbite n'est pas comprise dans la largeur du zodiaque, qui est d'environ huit degrés de chaque côté de l'écliptique, largeur calculée pour contenir les orbites de Mercure, Vénus, Mars, Jupiter et Saturne, les seules planètes connues des anciens avec la terre dont l'orbite est l'écliptique</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 <dictScrap>Cérès, Pallas, Junon, Vesta, etc. sont des planètes ultra-zodiacales, des astres ultra-zodiacaux, c'est-à-dire s'écartant à plus de huit degrés à droite et à gauche de l'écliptique.</dictScrap>
@@ -1357,7 +1356,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Genre de cryptogames (algues) où l'on distingue l'ulve intestinale, dite boyau de chat.</dictScrap>
+<dictScrap>Terme de botanique. Genre de cryptogames (algues) où l'on distingue l'<oVar>ulve</oVar> intestinale, dite boyau de chat.</dictScrap>
 </sense>
 <etym>Lat. ulva, algue.</etym>
 </entry>
@@ -1425,7 +1424,7 @@
 <entry xml:id="un">
 <form><orth>UN, UNE</orth><pron>un, u-n' ; un conserve le son nasal lorsqu'il est suivi d'un autre mot commençant par une consonne ou par une h aspirée : un pour cent, un hameau ; il conserve le même son, bien que suivi d'une voyelle, s'il ne joue pas le rôle d'article indéfini : un et un font deux ; donnez-moi l'un ou l'autre ; un à un ; il se prononce u-n, si devant une voyelle ou une h muette il joue le rôle d'article indéfini : u-n ami, u-n homme ; quelques-uns veulent qu'on prononce eu-n, cette prononciation est vicieuse ; d'autres demandent qu'on prononce un-n homme (en gardant le son nasal</pron> pour distinguer le masculin du féminin ; cette raison n'est pas suffisante contre l'analogie de ces sortes de liaisons. Un garde le son nasal devant oui, huit, huitième, onzième : un oui ou un non, un huit de pique, un huitième accès, un onzième. Il est un cas où un prend une demi-aspiration, c'est-à-dire qu'on n'élide pas l'e dans le : dans 21 le premier chiffre est 2, le second est 1 ; mettez le un avant le deux, et vous aurez 12 ; remarquez qu'ici on ne peut dire : mettez un avant le deux, car cela donnerait 121 ; on ne peut dire non plus : mettez l'un ; car, comme il y a deux chiffres, on croirait que c'est l'un des deux à volonté ; on prononce donc : mettez le un). </form>
 <sense n="1">
-<dictScrap>Adj. numéral. Le premier de tous les nombres. Un, deux, trois. Une, deux, trois. Un et un font deux. Un entre mille. Une entre mille. Il n'en est resté qu'un.</dictScrap>
+<dictScrap>Adj. numéral. Le premier de tous les nombres. <oVar>Un</oVar>, deux, trois. Une, deux, trois. <oVar>Un</oVar> et <oVar>un</oVar> font deux. <oVar>Un</oVar> entre mille. Une entre mille. Il n'en est resté qu'<oVar>un</oVar>.</dictScrap>
 <cit>
 <quote>Mais, en faisant refus de répondre à nos vœux, Au lieu d'une [nymphe], Myrtil, vous en outragez deux</quote>
 <bibl>
@@ -1441,10 +1440,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>De un à..., depuis le nombre un jusqu'à.... Des enfants de un à douze ans.</dictScrap>
+<dictScrap>De <oVar>un</oVar> à..., depuis le nombre <oVar>un</oVar> jusqu'à.... Des enfants de <oVar>un</oVar> à douze ans.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Substantivement, au masculin. Le chiffre qui marque un. Trois un de suite (111) font cent onze. Ajoutez un un.</dictScrap>
+<dictScrap>Substantivement, au masculin. Le chiffre qui marque <oVar>un</oVar>. Trois <oVar>un</oVar> de suite (111) font cent onze. Ajoutez <oVar>un</oVar> <oVar>un</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -1473,7 +1472,7 @@
 <dictScrap>La vérité est toujours une, elle n'est jamais contraire à elle-même.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de philosophie. L'un ou un, l'unité absolue, infinie.</dictScrap>
+<dictScrap>Terme de philosophie. L'<oVar>un</oVar> ou <oVar>un</oVar>, l'unité absolue, infinie.</dictScrap>
 <cit>
 <quote>Au sommet dernier de l'échelle de l'être où, sans matière, sans forme.... réside l'innommable unité ; l'un n'est pas beau ; l'un est au-dessus du beau, parce qu'il n'a ni forme ni matière</quote>
 <bibl>
@@ -1535,7 +1534,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Substantivement. En un, dans l'unité.</dictScrap>
+<dictScrap>Substantivement. En <oVar>un</oVar>, dans l'unité.</dictScrap>
 <cit>
 <quote>Vous [Dieu] êtes de la même sorte dans tout l'univers [que l'âme dans le corps].... faisant concourir en un toutes ses parties</quote>
 <bibl>
@@ -1546,7 +1545,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>N'être qu'un, ne faire qu'un, se dit de plusieurs personnes ou choses qui ne sont plus considérées que comme uniques.</dictScrap>
+<dictScrap>N'être qu'<oVar>un</oVar>, ne faire qu'<oVar>un</oVar>, se dit de plusieurs personnes ou choses qui ne sont plus considérées que comme uniques.</dictScrap>
 <cit>
 <quote>Il n'y a plus maintenant ni de Juif, ni de gentil, ni d'esclave, ni de libre, ni d'homme, ni de femme ; mais vous n'êtes tous qu'un en Jésus-Christ</quote>
 <bibl>
@@ -1594,7 +1593,7 @@
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>C'est un, ce n'est qu'un, il n'y a point de différence, d'intervalle entre.... et entre....</dictScrap>
+<dictScrap>C'est <oVar>un</oVar>, ce n'est qu'<oVar>un</oVar>, il n'y a point de différence, d'intervalle entre.... et entre....</dictScrap>
 <cit>
 <quote>Loin de mon front soient ces palmes communes, Où tout le monde peut aspirer ; Loin les vulgaires fortunes, Où ce n'est qu'un, jouir et désirer !</quote>
 <bibl>
@@ -1610,7 +1609,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>C'est tout un, il n'y a aucune différence.</dictScrap>
+<dictScrap>C'est tout <oVar>un</oVar>, il n'y a aucune différence.</dictScrap>
 <cit>
 <quote>Elle grimpa chez l'aigle, et lui dit : notre mort (Au moins de nos enfants, car c'est tout un aux mères) Ne tardera possible guères</quote>
 <bibl>
@@ -1641,12 +1640,12 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>C'est tout un, il n'importe, cela est égal. Qu'il m'approuve ou me blâme, ce m'est tout un.</dictScrap>
+<dictScrap>C'est tout <oVar>un</oVar>, il n'importe, cela est égal. Qu'il m'approuve ou me blâme, ce m'est tout <oVar>un</oVar>.</dictScrap>
 </sense>
 <re type="proverbe"> C'est bien tout un, mais ce n'est pas de même. </re>
 </sense>
 <sense n="6">
-<dictScrap>Un de, une de..., l'un de, l'une de..., quelqu'un, quelqu'une parmi.</dictScrap>
+<dictScrap><oVar>Un</oVar> de, une de..., l'<oVar>un</oVar> de, l'une de..., quelqu'<oVar>un</oVar>, quelqu'une parmi.</dictScrap>
 <cit>
 <quote>Voilà l'un des péchés où mon âme est encline</quote>
 <bibl>
@@ -1711,7 +1710,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>L'un de ces jours, un jour très prochain.</dictScrap>
+<dictScrap>L'<oVar>un</oVar> de ces jours, <oVar>un</oVar> jour très prochain.</dictScrap>
 <cit>
 <quote>Je m'offre à vous mener l'un de ces jours à la comédie, si vous voulez</quote>
 <bibl>
@@ -1722,7 +1721,7 @@
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Un, une, quelqu'un, quelqu'une.</dictScrap>
+<dictScrap><oVar>Un</oVar>, une, quelqu'<oVar>un</oVar>, quelqu'une.</dictScrap>
 <cit>
 <quote>Un qui doit présuppose un qui a prêté</quote>
 <bibl>
@@ -1767,7 +1766,7 @@
 </cit>
 </sense>
 <sense n="8">
-<dictScrap>De deux l'un, de trois l'un, etc. un sur deux, un sur trois.</dictScrap>
+<dictScrap>De deux l'<oVar>un</oVar>, de trois l'<oVar>un</oVar>, etc. <oVar>un</oVar> sur deux, <oVar>un</oVar> sur trois.</dictScrap>
 <cit>
 <quote>Soyons bien buvants, bien mangeants, Nous devons à la mort de trois l'un en dix ans</quote>
 <bibl>
@@ -1783,7 +1782,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>De deux jours l'un, se dit d'une chose que l'on ne fait qu'une fois en deux jours.</dictScrap>
+<dictScrap>De deux jours l'<oVar>un</oVar>, se dit d'une chose que l'on ne fait qu'une fois en deux jours.</dictScrap>
 <cit>
 <quote>N'allant plus au café que de deux jours l'un, et au spectacle que deux fois la semaine</quote>
 <bibl>
@@ -1797,7 +1796,7 @@
 </sense>
 </sense>
 <sense n="9">
-<dictScrap>Un, une s'emploie pour représenter une personne, une chose dont il vient d'être parlé. On manquait de porteurs ; il s'en présenta un.</dictScrap>
+<dictScrap><oVar>Un</oVar>, une s'emploie pour représenter une personne, une chose dont il vient d'être parlé. On manquait de porteurs ; il s'en présenta <oVar>un</oVar>.</dictScrap>
 <cit>
 <quote>Vos invincibles mains Ont de monstres sans nombre affranchi les humains ; Mais tout n'est pas détruit, et vous en laissez vivre Un.... votre fils, seigneur, me défend de poursuivre</quote>
 <bibl>
@@ -1813,7 +1812,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Vingt pour un, se dit pour exprimer quelque chose qui arrive fréquemment.</dictScrap>
+<dictScrap>Vingt pour <oVar>un</oVar>, se dit pour exprimer quelque chose qui arrive fréquemment.</dictScrap>
 <cit>
 <quote>Sans la sage police qui règne dans Londres, tu te serais déjà fait vingt affaires pour une</quote>
 <bibl>
@@ -1823,7 +1822,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Familièrement et elliptiquement. Et d'un, et d'une, première personne, première circonstance, premier fait. Et d'une ! cela commence bien.</dictScrap>
+<dictScrap>Familièrement et elliptiquement. Et d'<oVar>un</oVar>, et d'une, première personne, première circonstance, premier fait. Et d'une ! cela commence bien.</dictScrap>
 <cit>
 <quote>Et d'un dans nos filets</quote>
 <bibl>
@@ -1850,7 +1849,7 @@
 <dictScrap>Ne faire ni une ni deux, voy. <ref target="deux#var1">DEUX, n° 1</ref>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Il peut bien la compter pour une, la prochaine fois je ne lui pardonnerai pas. Fig. et familièrement. Il m'en a donné d'une, il m'a attrapé, il m'a dit un mensonge, il m'a fait une fourberie.</dictScrap>
+<dictScrap>Il peut bien la compter pour une, la prochaine fois je ne lui pardonnerai pas. Fig. et familièrement. Il m'en a donné d'une, il m'a attrapé, il m'a dit <oVar>un</oVar> mensonge, il m'a fait une fourberie.</dictScrap>
 <cit>
 <quote>.... ce bon apôtre Qui veut m'en donner d'une et m'en jouer d'une autre</quote>
 <bibl>
@@ -1874,7 +1873,7 @@
 </sense>
 </sense>
 <sense n="11">
-<dictScrap>Un, une s'emploient très souvent, non pas pour désigner spécialement le nombre, mais pour signifier un objet dont il n'a pas encore été question, et dont on ne nous fait rien connaître, sinon qu'on n'en suppose pas plusieurs ; la plupart des grammairiens le nomment en cet emploi article indéfini.</dictScrap>
+<dictScrap><oVar>Un</oVar>, une s'emploient très souvent, non pas pour désigner spécialement le nombre, mais pour signifier <oVar>un</oVar> objet dont il n'a pas encore été question, et dont on ne nous fait rien connaître, sinon qu'on n'en suppose pas plusieurs ; la plupart des grammairiens le nomment en cet emploi article indéfini.</dictScrap>
 <cit>
 <quote>Un paon muait, un geai prit son plumage</quote>
 <bibl>
@@ -1918,7 +1917,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Quand un, une a plus d'un adjectif entre lui et le substantif, on ne le répète pas. Un bon et illustre personnage.</dictScrap>
+<dictScrap>Quand <oVar>un</oVar>, une a plus d'<oVar>un</oVar> adjectif entre lui et le substantif, on ne le répète pas. <oVar>Un</oVar> bon et illustre personnage.</dictScrap>
 <cit>
 <quote>C'est un pitoyable et insupportable raisonnement</quote>
 <bibl>
@@ -1935,7 +1934,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Cependant on trouve quelques exemples où un est répété.</dictScrap>
+<dictScrap>Cependant on trouve quelques exemples où <oVar>un</oVar> est répété.</dictScrap>
 <cit>
 <quote>J'aime toujours le P. Rapin ; c'est un bon et un honnête homme</quote>
 <bibl>
@@ -1945,7 +1944,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Un, une se met quelquefois sous une forme exclamative pour exprimer grandeur, excès.</dictScrap>
+<dictScrap><oVar>Un</oVar>, une se met quelquefois sous une forme exclamative pour exprimer grandeur, excès.</dictScrap>
 <cit>
 <quote>Il fait un chaud là dedans !</quote>
 <bibl>
@@ -1956,7 +1955,7 @@
 </sense>
 </sense>
 <sense n="12">
-<dictScrap>Un, une.... suivi d'un superlatif relatif.</dictScrap>
+<dictScrap><oVar>Un</oVar>, une.... suivi d'<oVar>un</oVar> superlatif relatif.</dictScrap>
 <cit>
 <quote>Voilà une belle merveille de faire bonne chère avec bien de l'argent ! c'est une chose la plus aisée du monde</quote>
 <bibl>
@@ -1980,7 +1979,7 @@
 </cit>
 </sense>
 <sense n="13">
-<dictScrap>Un, une se met quelquefois devant un nom propre, pour ôter à ce nom propre son sens particulier et en faire une sorte de nom général.</dictScrap>
+<dictScrap><oVar>Un</oVar>, une se met quelquefois devant <oVar>un</oVar> nom propre, pour ôter à ce nom propre son sens particulier et en faire une sorte de nom général.</dictScrap>
 <cit>
 <quote>Un Pamphile est plein de lui-même, ne se perd pas de vue, ne sort point de l'idée de la grandeur de ses alliances, de sa charge, de sa dignité</quote>
 <bibl>
@@ -2003,10 +2002,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Il se met aussi devant un nom propre pour exprimer une assimilation avec le personnage qu'on nomme. C'est une Lucrèce, elle est aussi chaste que Lucrèce. C'est un Cicéron, il est aussi éloquent que Cicéron.</dictScrap>
+<dictScrap>Il se met aussi devant <oVar>un</oVar> nom propre pour exprimer une assimilation avec le personnage qu'on nomme. C'est une Lucrèce, elle est aussi chaste que Lucrèce. C'est <oVar>un</oVar> Cicéron, il est aussi éloquent que Cicéron.</dictScrap>
 </sense>
 <sense>
-<dictScrap>S'emploie aussi dans un sens simplement emphatique, pour relever le nom du personnage.</dictScrap>
+<dictScrap>S'emploie aussi dans <oVar>un</oVar> sens simplement emphatique, pour relever le nom du personnage.</dictScrap>
 <cit>
 <quote>Ces saints docteurs, un saint Justin, un saint Irénée, un saint Clément.... qui passaient les jours et les nuits à méditer l'Écriture sainte</quote>
 <bibl>
@@ -2034,10 +2033,10 @@
 </sense>
 </sense>
 <sense n="14">
-<dictScrap>Un se met quelquefois pour tout et pour quiconque. Un chrétien doit faire cela, tout chrétien, quiconque est chrétien doit faire cela. Un homme peut-il s'exprimer de la sorte ? Quiconque est homme peut-il ?....</dictScrap>
+<dictScrap><oVar>Un</oVar> se met quelquefois pour tout et pour quiconque. <oVar>Un</oVar> chrétien doit faire cela, tout chrétien, quiconque est chrétien doit faire cela. <oVar>Un</oVar> homme peut-il s'exprimer de la sorte ? Quiconque est homme peut-il ?....</dictScrap>
 </sense>
 <sense n="15">
-<dictScrap>L'un et l'autre, l'un ou l'autre, expression pronominale indiquant la pluralité, la division.</dictScrap>
+<dictScrap>L'<oVar>un</oVar> et l'autre, l'<oVar>un</oVar> ou l'autre, expression pronominale indiquant la pluralité, la division.</dictScrap>
 <cit>
 <quote>Je vois, sans me troubler, l'une et l'autre fortune</quote>
 <bibl>
@@ -2123,7 +2122,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Être l'un et l'autre, être les deux personnages, les deux choses dont on vient de parler.</dictScrap>
+<dictScrap>Être l'<oVar>un</oVar> et l'autre, être les deux personnages, les deux choses dont on vient de parler.</dictScrap>
 <cit>
 <quote>Est-ce à votre cocher, monsieur, ou bien à votre cuisinier que vous voulez parler ? car je suis l'un et l'autre</quote>
 <bibl>
@@ -2133,10 +2132,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Il y a une faute dans cette phrase de Voltaire : On va juger l'affaire [du jésuite Janssens, qui niait un dépôt] ; il faut ou le pendre ou le canoniser ; et peut-être sera-t-il l'un et l'autre ; adieu, mon ami, ne soyons ni l'un ni l'autre, Lett. d'Argens, 15 juill. 1739. L'un et l'autre ne peut se rapporter à deux infinitifs. La phrase deviendrait correcte, si l'on mettait : Il devra être pendu ou canonisé.</dictScrap>
+<dictScrap>Il y a une faute dans cette phrase de Voltaire : On va juger l'affaire [du jésuite Janssens, qui niait <oVar>un</oVar> dépôt] ; il faut ou le pendre ou le canoniser ; et peut-être sera-t-il l'<oVar>un</oVar> et l'autre ; adieu, mon ami, ne soyons ni l'<oVar>un</oVar> ni l'autre, Lett. d'Argens, 15 juill. 1739. L'<oVar>un</oVar> et l'autre ne peut se rapporter à deux infinitifs. La phrase deviendrait correcte, si l'on mettait : Il devra être pendu ou canonisé.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Dire d'un, puis d'un autre, varier dans son langage.</dictScrap>
+<dictScrap>Dire d'<oVar>un</oVar>, puis d'<oVar>un</oVar> autre, varier dans son langage.</dictScrap>
 <cit>
 <quote>Dire d'un, puis d'un autre ; est-ce ainsi que l'on traite Les gens faits comme moi ?</quote>
 <bibl>
@@ -2150,7 +2149,7 @@
 <dictScrap>Familièrement. Les uns et les autres, tout le monde sans distinction. Il dit aux uns et aux autres toutes ses affaires.</dictScrap>
 </sense>
 <sense n="17">
-<dictScrap>Ni l'un, ni l'autre.</dictScrap>
+<dictScrap>Ni l'<oVar>un</oVar>, ni l'autre.</dictScrap>
 <cit>
 <quote>Ni l'un ni l'autre ne viendra, ni l'un ni l'autre ne viendront</quote>
 <bibl>
@@ -2165,10 +2164,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On met toujours le pluriel, si ni l'un ni l'autre est placé après le verbe. Ils ne sont venus ni l'un ni l'autre.</dictScrap>
+<dictScrap>On met toujours le pluriel, si ni l'<oVar>un</oVar> ni l'autre est placé après le verbe. Ils ne sont venus ni l'<oVar>un</oVar> ni l'autre.</dictScrap>
 </sense>
 <sense>
-<dictScrap>On dit aussi : L'un ni l'autre.</dictScrap>
+<dictScrap>On dit aussi : L'<oVar>un</oVar> ni l'autre.</dictScrap>
 <cit>
 <quote>Les funestes désespoirs de Marcelle et de Flavie, bien que l'une ni l'autre ne fasse pitié....</quote>
 <bibl>
@@ -2200,7 +2199,7 @@
 </sense>
 </sense>
 <sense n="18">
-<dictScrap>L'un l'autre, l'une l'autre, les uns les autres, les unes les autres, expressions pronominales qui indiquent réciprocité.</dictScrap>
+<dictScrap>L'<oVar>un</oVar> l'autre, l'une l'autre, les uns les autres, les unes les autres, expressions pronominales qui indiquent réciprocité.</dictScrap>
 <cit>
 <quote>En ce monde il se faut l'un l'autre secourir</quote>
 <bibl>
@@ -2258,14 +2257,14 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>L'un portant l'autre, l'une portant l'autre, en compensant ce qui est moindre dans l'un avec ce qui est plus considérable dans l'autre. Ces volumes m'ont coûté deux francs, l'un portant l'autre.</dictScrap>
+<dictScrap>L'<oVar>un</oVar> portant l'autre, l'une portant l'autre, en compensant ce qui est moindre dans l'<oVar>un</oVar> avec ce qui est plus considérable dans l'autre. Ces volumes m'ont coûté deux francs, l'<oVar>un</oVar> portant l'autre.</dictScrap>
 </sense>
 <sense>
-<dictScrap>L'un dans l'autre, l'une dans l'autre, même sens. La livre était vendue l'une dans l'autre six livres dix sous.</dictScrap>
+<dictScrap>L'<oVar>un</oVar> dans l'autre, l'une dans l'autre, même sens. La livre était vendue l'une dans l'autre six livres dix sous.</dictScrap>
 </sense>
 </sense>
 <sense n="19">
-<dictScrap>Pas un.... pas une..., soit avec ne avant ou après, soit avec sans, aucun, aucune.</dictScrap>
+<dictScrap>Pas <oVar>un</oVar>.... pas une..., soit avec ne avant ou après, soit avec sans, aucun, aucune.</dictScrap>
 <cit>
 <quote>Et qu'en faveur du sexe ou de la qualité On ne fasse à pas une aucune indignité</quote>
 <bibl>
@@ -2308,7 +2307,7 @@
 <biblScope>Variat. préf.</biblScope>
 </bibl>
 </cit>
-<dictScrap>Pas un se dit avec la même signification sans ne.</dictScrap>
+<dictScrap>Pas <oVar>un</oVar> se dit avec la même signification sans ne.</dictScrap>
 <cit>
 <quote>Pas un seul petit morceau De mouche ou de vermisseau</quote>
 <bibl>
@@ -2339,7 +2338,7 @@
 <re type="proverbe"> Qui sert en commun ne sert à pas un, chaque particulier ne prend guère d'intérêt au bien public. </re>
 </sense>
 <sense n="20">
-<dictScrap>Plus d'un, terme collectif partitif, qui signifie proprement : une plus grande quantité que un (plus d'un est pour plus qu'un, voy. <ref target="de#var24">DE, n° 24</ref>).</dictScrap>
+<dictScrap>Plus d'<oVar>un</oVar>, terme collectif partitif, qui signifie proprement : une plus grande quantité que <oVar>un</oVar> (plus d'<oVar>un</oVar> est pour plus qu'<oVar>un</oVar>, voy. <ref target="de#var24">DE, n° 24</ref>).</dictScrap>
 <cit>
 <quote>Plus d'un guéret s'engraissa Du sang de plus d'une bande</quote>
 <bibl>
@@ -2383,7 +2382,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Comme on voit, plus d'un régit le verbe qui le suit au singulier. Il faut excepter le cas où le verbe serait réciproque.</dictScrap>
+<dictScrap>Comme on voit, plus d'<oVar>un</oVar> régit le verbe qui le suit au singulier. Il faut excepter le cas où le verbe serait réciproque.</dictScrap>
 <cit>
 <quote>À Paris on voit plus d'un fripon qui se dupent l'un l'autre</quote>
 <bibl>
@@ -2393,13 +2392,13 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>On exceptera aussi le cas où plus d'un est répété. Plus d'un fils désolé, plus d'une jeune fille en deuil viendront....</dictScrap>
+<dictScrap>On exceptera aussi le cas où plus d'<oVar>un</oVar> est répété. Plus d'<oVar>un</oVar> fils désolé, plus d'une jeune fille en deuil viendront....</dictScrap>
 </sense>
 <sense>
-<dictScrap>On trouve dans Voltaire un exemple de plus d'un avec le pluriel ; mais cela est contraire à l'usage et aussi à la règle, car plus ne représente pas un pluriel. V. M. sait que plus d'un homme considérable pensent qu'il faut une balance, et que la politique contraire est une politique détestable, Lett. au roi de P. 13 nov. 1757.</dictScrap>
+<dictScrap>On trouve dans Voltaire <oVar>un</oVar> exemple de plus d'<oVar>un</oVar> avec le pluriel ; mais cela est contraire à l'usage et aussi à la règle, car plus ne représente pas <oVar>un</oVar> pluriel. V. M. sait que plus d'<oVar>un</oVar> homme considérable pensent qu'il faut une balance, et que la politique contraire est une politique détestable, Lett. au roi de P. 13 nov. 1757.</dictScrap>
 </sense>
 <sense>
-<dictScrap>En savoir plus d'un, savoir plus d'un tour, être adroit, rusé.</dictScrap>
+<dictScrap>En savoir plus d'<oVar>un</oVar>, savoir plus d'<oVar>un</oVar> tour, être adroit, rusé.</dictScrap>
 <cit>
 <quote>Nous en savons plus d'un, dit-il en les gobant, C'est tour de vieille guerre</quote>
 <bibl>
@@ -2420,13 +2419,13 @@
 </sense>
 </sense>
 <sense n="21">
-<dictScrap>Un peu, voy. <ref target="peu#var2">PEU, n° 2</ref>.</dictScrap>
+<dictScrap><oVar>Un</oVar> peu, voy. <ref target="peu#var2">PEU, n° 2</ref>.</dictScrap>
 <sense>
-<dictScrap>Un petit, voy. <ref target="petit#var18">PETIT, n° 18</ref>.</dictScrap>
+<dictScrap><oVar>Un</oVar> petit, voy. <ref target="petit#var18">PETIT, n° 18</ref>.</dictScrap>
 </sense>
 </sense>
 <sense n="22">
-<dictScrap>Un à un, l'un après l'autre, et un seul à la fois.</dictScrap>
+<dictScrap><oVar>Un</oVar> à <oVar>un</oVar>, l'<oVar>un</oVar> après l'autre, et <oVar>un</oVar> seul à la fois.</dictScrap>
 <cit>
 <quote>Vous, enfants d'Israël, vous serez rassemblés un à un</quote>
 <bibl>
@@ -2989,7 +2988,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui a même sentiment. Tous sont unanimes sur ce point.</dictScrap>
+<dictScrap>Qui a même sentiment. Tous sont <oVar>unanimes</oVar> sur ce point.</dictScrap>
 </sense>
 <sense n="2">
 <dictScrap>Fig. Qui est d'un commun accord, en parlant des choses.</dictScrap>
@@ -3045,7 +3044,7 @@
 <gram>adv.</gram>
 </form>
 <sense>
-<dictScrap>D'une commune voix, d'un commun sentiment. Ils votèrent unanimement la proposition.</dictScrap>
+<dictScrap>D'une commune voix, d'un commun sentiment. Ils votèrent <oVar>unanimement</oVar> la proposition.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -3155,7 +3154,7 @@
 <sense>
 <dictScrap>Terme didactique. Qui a la forme d'un crochet.</dictScrap>
 <sense>
-<dictScrap>Os unciforme, quatrième de la seconde rangée du carpe.</dictScrap>
+<dictScrap>Os <oVar>unciforme</oVar>, quatrième de la seconde rangée du carpe.</dictScrap>
 </sense>
 </sense>
 <etym>Lat. uncus, crochet, et forme.</etym>
@@ -3279,7 +3278,7 @@
 <sense n="1">
 <dictScrap>Terme d'anatomie. Petit os, comparé à un ongle à cause de sa forme, placé à la partie antérieure et interne de l'orbite, et concourant à la formation de la gouttière lacrymale et du canal nasal.</dictScrap>
 <sense>
-<dictScrap>On dit aussi : l'os unguis.</dictScrap>
+<dictScrap>On dit aussi : l'os <oVar>unguis</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -3707,7 +3706,7 @@
 <dictScrap>Se dit des animaux et des végétaux dont l'organisation offre un tel degré de simplicité, qu'ils ne sont représentés ou constitués que par un seul élément anatomique analogue à ceux qui appartiennent au groupe des cellules.</dictScrap>
 </sense>
 <sense>
-<dictScrap>La théorie unicellulaire des infusoires, théorie qui considère les infusoires comme une cellule, et réduit à la division seule tous leurs phénomènes de reproduction.</dictScrap>
+<dictScrap>La théorie <oVar>unicellulaire</oVar> des infusoires, théorie qui considère les infusoires comme une cellule, et réduit à la division seule tous leurs phénomènes de reproduction.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -3749,7 +3748,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de médecine. Doctrine de l'unicisme, celle dans laquelle on admet que tous les accidents jusqu'à présent décrits comme syphilitiques sont causés par l'inoculation d'un virus unique.</dictScrap>
+<dictScrap>Terme de médecine. Doctrine de l'<oVar>unicisme</oVar>, celle dans laquelle on admet que tous les accidents jusqu'à présent décrits comme syphilitiques sont causés par l'inoculation d'un virus unique.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="unicité">
@@ -3784,7 +3783,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui est d'une seule couleur. L'abeille unicolore.</dictScrap>
+<dictScrap>Qui est d'une seule couleur. L'abeille <oVar>unicolore</oVar>.</dictScrap>
 <sense>
 <dictScrap>Fig. Qui est d'une seule couleur politique.</dictScrap>
 </sense>
@@ -3967,7 +3966,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui a la même forme, où l'on n'aperçoit aucune variété, dont toutes les parties se ressemblent entre elles. Une plaine uniforme.</dictScrap>
+<dictScrap>Qui a la même forme, où l'on n'aperçoit aucune variété, dont toutes les parties se ressemblent entre elles. Une plaine <oVar>uniforme</oVar>.</dictScrap>
 <cit>
 <quote>Nous devons à ses dignités [de M. le Tellier] ce caractère singulier d'une vie simple dans la sagesse.... uniforme dans ses conditions différentes</quote>
 <bibl>
@@ -3983,7 +3982,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Style uniforme, style dont les détails, le ton, le mouvement manquent de variété.</dictScrap>
+<dictScrap>Style <oVar>uniforme</oVar>, style dont les détails, le ton, le mouvement manquent de variété.</dictScrap>
 <cit>
 <quote>Un style trop égal et toujours uniforme En vain brille à nos yeux, il faut qu'il nous endorme</quote>
 <bibl>
@@ -3993,13 +3992,13 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Terme de mécanique. Le mouvement d'un point est uniforme, lorsque ce point parcourt, sur sa trajectoire, des espaces égaux dans des temps égaux, quels que soient ces temps.</dictScrap>
+<dictScrap>Terme de mécanique. Le mouvement d'un point est <oVar>uniforme</oVar>, lorsque ce point parcourt, sur sa trajectoire, des espaces égaux dans des temps égaux, quels que soient ces temps.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de minéralogie. Structure uniforme, structure feuilletée d'une roche, lorsque les feuillets sont tous de même nature.</dictScrap>
+<dictScrap>Terme de minéralogie. Structure <oVar>uniforme</oVar>, structure feuilletée d'une roche, lorsque les feuillets sont tous de même nature.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de botanique. Calathide uniforme, celle dans laquelle les fleurs sont toutes de la même forme.</dictScrap>
+<dictScrap>Terme de botanique. Calathide <oVar>uniforme</oVar>, celle dans laquelle les fleurs sont toutes de la même forme.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -4027,7 +4026,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Habit uniforme, habit fait suivant le modèle prescrit à un corps militaire, à une pension, à un collége.</dictScrap>
+<dictScrap>Habit <oVar>uniforme</oVar>, habit fait suivant le modèle prescrit à un corps militaire, à une pension, à un collége.</dictScrap>
 <cit>
 <quote>Le jeu de cette comédie fut visible en ce que l'habit uniforme de capitaine de gendarmerie se trouva tout fait pour M. le Dauphin</quote>
 <bibl>
@@ -4050,10 +4049,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On dit plutôt aujourd'hui : habit d'uniforme</dictScrap>
+<dictScrap>On dit plutôt aujourd'hui : habit d'<oVar>uniforme</oVar></dictScrap>
 </sense>
 <sense>
-<dictScrap>S. m. L'uniforme, habit d'une couleur et d'une forme particulières, par lequel sont distingués tous les hommes appartenant à un même corps et à un même grade dans ce corps. Par une ordonnance de 1717 les officiers mêmes sont obligés de porter constamment l'uniforme pendant qu'ils sont au corps, soit en marche, soit dans les garnisons.</dictScrap>
+<dictScrap>S. m. L'<oVar>uniforme</oVar>, habit d'une couleur et d'une forme particulières, par lequel sont distingués tous les hommes appartenant à un même corps et à un même grade dans ce corps. Par une ordonnance de 1717 les officiers mêmes sont obligés de porter constamment l'<oVar>uniforme</oVar> pendant qu'ils sont au corps, soit en marche, soit dans les garnisons.</dictScrap>
 <cit>
 <quote>Le 16, il [le czar Pierre Ier] vit la revue de la maison du roi ; la magnificence des uniformes parut lui déplaire</quote>
 <bibl>
@@ -4080,10 +4079,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Absolument, l'uniforme, l'habit militaire en général. Porter l'uniforme. Endosser l'uniforme.</dictScrap>
+<dictScrap>Absolument, l'<oVar>uniforme</oVar>, l'habit militaire en général. Porter l'<oVar>uniforme</oVar>. Endosser l'<oVar>uniforme</oVar>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fig. Quitter l'uniforme, se retirer du service militaire.</dictScrap>
+<dictScrap>Fig. Quitter l'<oVar>uniforme</oVar>, se retirer du service militaire.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Se dit aussi du costume attribué aux différents ordres de fonctionnaires publics, de l'habit des collégiens, etc.</dictScrap>
@@ -4156,7 +4155,7 @@
 <gram>v. a.</gram>
 </form>
 <sense>
-<dictScrap>Rendre uniforme. C'est de cette manière que le conseil peut uniformiser le droit français, L'ABBÉ DE SAINT-PIERRE, dans DESFONTAINES.</dictScrap>
+<dictScrap>Rendre uniforme. C'est de cette manière que le conseil peut <oVar>uniformiser</oVar> le droit français, L'ABBÉ DE SAINT-PIERRE, dans DESFONTAINES.</dictScrap>
 <cit>
 <quote>Il faut uniformiser et républicaniser la dette, dit Cambon</quote>
 <bibl>
@@ -4264,7 +4263,7 @@
 <pron>u-ni-jé-ni-tus'</pron>
 </form>
 <sense>
-<dictScrap>La bulle Unigenitus, bulle du pape Clément XI, 1713, qui commence par ces mots : Unigenitus Dei Filius, et qui condamne cent une propositions tirées du livre de Quesnel, intitulé : le Nouveau Testament traduit en français avec des réflexions morales.</dictScrap>
+<dictScrap>La bulle <oVar>Unigenitus</oVar>, bulle du pape Clément XI, 1713, qui commence par ces mots : <oVar>Unigenitus</oVar> Dei Filius, et qui condamne cent une propositions tirées du livre de Quesnel, intitulé : le Nouveau Testament traduit en français avec des réflexions morales.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="unijugué">
@@ -4352,7 +4351,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'histoire naturelle. Qui n'a qu'une seule loge ou cavité ; dont la cavité intérieure n'est divisée par aucune cloison complète. Péricarpe uniloculaire.</dictScrap>
+<dictScrap>Terme d'histoire naturelle. Qui n'a qu'une seule loge ou cavité ; dont la cavité intérieure n'est divisée par aucune cloison complète. Péricarpe <oVar>uniloculaire</oVar>.</dictScrap>
 <cit>
 <quote>De petites capsules arrondies, uniloculaires</quote>
 <bibl>
@@ -4380,10 +4379,10 @@
 <gram>adv.</gram>
 </form>
 <sense n="1">
-<dictScrap>Également, et toujours de même sorte. Un fil filé uniment.</dictScrap>
+<dictScrap>Également, et toujours de même sorte. Un fil filé <oVar>uniment</oVar>.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Simplement, sans façon. Parler tout uniment.</dictScrap>
+<dictScrap>Simplement, sans façon. Parler tout <oVar>uniment</oVar>.</dictScrap>
 <cit>
 <quote>Crois-moi, renonce à la cagoterie, Mène uniment une plus noble vie</quote>
 <bibl>
@@ -4461,7 +4460,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui ne contient qu'un nom, qui n'a qu'un nom. En cas d'adoption du scrutin par vote uninominal, tout candidat sera élu, qui aura obtenu un nombre de suffrages égal au résultat de la division du nombre des votants par le nombre des membres à élire, PERNOLET, Proposition à l'Assemblée nationale, n° 2237.</dictScrap>
+<dictScrap>Qui ne contient qu'un nom, qui n'a qu'un nom. En cas d'adoption du scrutin par vote <oVar>uninominal</oVar>, tout candidat sera élu, qui aura obtenu un nombre de suffrages égal au résultat de la division du nombre des votants par le nombre des membres à élire, PERNOLET, Proposition à l'Assemblée nationale, n° 2237.</dictScrap>
 <cit>
 <quote>Vous allez, tout en votant en principe le scrutin de liste, y substituer le scrutin uninominal</quote>
 <bibl>
@@ -4479,7 +4478,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Réunion de deux ou plusieurs choses en une seule. L'union de deux domaines. L'union de deux charges.</dictScrap>
+<dictScrap>Ré<oVar>union</oVar> de deux ou plusieurs choses en une seule. L'<oVar>union</oVar> de deux domaines. L'<oVar>union</oVar> de deux charges.</dictScrap>
 <cit>
 <quote>Ils [les hommes qui ne philosophent pas] considèrent l'un et l'autre [le corps et l'âme] comme une seule chose, c'est-à-dire ils conçoivent leur union ; car concevoir l'union qui est entre deux choses, c'est les concevoir comme une seule</quote>
 <bibl>
@@ -4495,17 +4494,17 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Anciennement, lettres d'union, lettres du roi qui unissaient une charge à une autre, une terre à une autre.</dictScrap>
+<dictScrap>Anciennement, lettres d'<oVar>union</oVar>, lettres du roi qui unissaient une charge à une autre, une terre à une autre.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Bulles d'union, bulles du pape qui réunissent un bénéfice à un autre.</dictScrap>
+<dictScrap>Bulles d'<oVar>union</oVar>, bulles du pape qui réunissent un bénéfice à un autre.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Terme de théologie. Union hypostatique, l'union du Verbe divin avec la nature humaine en une seule personne.</dictScrap>
+<dictScrap>Terme de théologie. <oVar>Union</oVar> hypostatique, l'<oVar>union</oVar> du Verbe divin avec la nature humaine en une seule personne.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>D'une façon plus générale, jonction de deux ou plusieurs choses. L'union de certains mots, de certains termes.</dictScrap>
+<dictScrap>D'une façon plus générale, jonction de deux ou plusieurs choses. L'<oVar>union</oVar> de certains mots, de certains termes.</dictScrap>
 <cit>
 <quote>Et, par une juste union, Joignons le malheureux Sosie Au malheureux Amphitryon</quote>
 <bibl>
@@ -4542,7 +4541,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Faire union, faire acte d'adhésion.</dictScrap>
+<dictScrap>Faire <oVar>union</oVar>, faire acte d'adhésion.</dictScrap>
 <cit>
 <quote>Ils ont toujours refusé de faire union avec les vaudois</quote>
 <bibl>
@@ -4562,11 +4561,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Terme de grammaire. Trait d'union, voy. <ref target="trait1#var15">TRAIT 1, n° 15</ref>.</dictScrap>
+<dictScrap>Terme de grammaire. Trait d'<oVar>union</oVar>, voy. <ref target="trait1#var15">TRAIT 1, n° 15</ref>.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Absolument. Mariage. Union bien assortie, mal assortie.</dictScrap>
+<dictScrap>Absolument. Mariage. <oVar>Union</oVar> bien assortie, mal assortie.</dictScrap>
 <cit>
 <quote>En venir de but en blanc à l'union conjugale</quote>
 <bibl>
@@ -4651,11 +4650,11 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Esprit d'union, esprit de concorde et de paix.</dictScrap>
+<dictScrap>Esprit d'<oVar>union</oVar>, esprit de concorde et de paix.</dictScrap>
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Terme de procédure. Contrat d'union, arrangement par lequel les créanciers d'un failli, renonçant à faire des poursuites séparées, s'unissent pour agir de concert.</dictScrap>
+<dictScrap>Terme de procédure. Contrat d'<oVar>union</oVar>, arrangement par lequel les créanciers d'un failli, renonçant à faire des poursuites séparées, s'unissent pour agir de concert.</dictScrap>
 </sense>
 <sense n="8">
 <dictScrap>Traité par lequel plusieurs puissances s'unissent, se confédèrent.</dictScrap>
@@ -4667,26 +4666,26 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Union douanière, association pour la suppression des douanes entre les différentes parties de l'Allemagne (Zollverein).</dictScrap>
+<dictScrap><oVar>Union</oVar> douanière, association pour la suppression des douanes entre les différentes parties de l'Allemagne (Zollverein).</dictScrap>
 </sense>
 <sense>
-<dictScrap>Sainte union ou sainte ligue, alliance conclue contre Louis XII entre le pape, Ferdinand le Catholique et Venise.</dictScrap>
+<dictScrap>Sainte <oVar>union</oVar> ou sainte ligue, alliance conclue contre Louis XII entre le pape, Ferdinand le Catholique et Venise.</dictScrap>
 </sense>
 <sense>
-<dictScrap>La sainte union s'est dit aussi de la Ligue.</dictScrap>
+<dictScrap>La sainte <oVar>union</oVar> s'est dit aussi de la Ligue.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Union républicaine, insurrection des sections contre la Convention en 1793.</dictScrap>
+<dictScrap><oVar>Union</oVar> républicaine, insurrection des sections contre la Convention en 1793.</dictScrap>
 </sense>
 </sense>
 <sense n="9">
-<dictScrap>Absolument l'Union, les États-Unis de l'Amérique (on met une majuscule). Président de l'Union.</dictScrap>
+<dictScrap>Absolument l'<oVar>Union</oVar>, les États-Unis de l'Amérique (on met une majuscule). Président de l'<oVar>Union</oVar>.</dictScrap>
 </sense>
 <sense n="10">
-<dictScrap>Unions ouvrières, associations d'ouvriers qui forment un fonds commun pour se soutenir dans les chômages et dans les grèves.</dictScrap>
+<dictScrap><oVar>Unions</oVar> ouvrières, associations d'ouvriers qui forment un fonds commun pour se soutenir dans les chômages et dans les grèves.</dictScrap>
 </sense>
 <sense n="11">
-<dictScrap>Terme de peinture. Union de couleurs, l'accord qui résulte de la dégradation et du jeu des tons contigus.</dictScrap>
+<dictScrap>Terme de peinture. <oVar>Union</oVar> de couleurs, l'accord qui résulte de la dégradation et du jeu des tons contigus.</dictScrap>
 </sense>
 <sense n="12">
 <dictScrap>Terme de manége. Ensemble d'un cheval.</dictScrap>
@@ -4820,7 +4819,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de grammaire. Se dit des verbes qui n'ont qu'une personne et qu'on nomme ordinairement impersonnels. Les grammairiens modernes préfèrent unipersonnel pour désigner les verbes qui s'emploient seulement à la troisième personne du singulier et avec le pronom il, sans rapport à aucun nom précédent.</dictScrap>
+<dictScrap>Terme de grammaire. Se dit des verbes qui n'ont qu'une personne et qu'on nomme ordinairement impersonnels. Les grammairiens modernes préfèrent <oVar>unipersonnel</oVar> pour désigner les verbes qui s'emploient seulement à la troisième personne du singulier et avec le pronom il, sans rapport à aucun nom précédent.</dictScrap>
 </sense>
 <etym>Un, et personne.</etym>
 </entry>
@@ -4941,19 +4940,19 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Terme de l'Écriture. L'unique nécessaire, l'affaire du salut.</dictScrap>
+<dictScrap>Terme de l'Écriture. L'<oVar>unique</oVar> nécessaire, l'affaire du salut.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme d'alchimie. Unique parfait, le mercure des philosophes.</dictScrap>
+<dictScrap>Terme d'alchimie. <oVar>Unique</oVar> parfait, le mercure des philosophes.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de numismatique. Médailles uniques, médailles qui ne se trouvent pas même dans les cabinets les plus riches et qu'on ne rencontre que par hasard.</dictScrap>
+<dictScrap>Terme de numismatique. Médailles <oVar>uniques</oVar>, médailles qui ne se trouvent pas même dans les cabinets les plus riches et qu'on ne rencontre que par hasard.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>On dit de certaines charges, qu'elles sont uniques, pour exprimer que ceux qui en sont revêtus n'ont point de collègue.</dictScrap>
+<dictScrap>On dit de certaines charges, qu'elles sont <oVar>uniques</oVar>, pour exprimer que ceux qui en sont revêtus n'ont point de collègue.</dictScrap>
 <sense>
-<dictScrap>Par extension, route unique, route où l'on n'a point de rival.</dictScrap>
+<dictScrap>Par extension, route <oVar>unique</oVar>, route où l'on n'a point de rival.</dictScrap>
 <cit>
 <quote>On ne va plus à la postérité que par des routes uniques ; le grand chemin est trop battu, et on s'y étouffe</quote>
 <bibl>
@@ -4987,7 +4986,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>En mauvaise part, ridicule, extravagant. Il est unique avec ses prétentions.</dictScrap>
+<dictScrap>En mauvaise part, ridicule, extravagant. Il est <oVar>unique</oVar> avec ses prétentions.</dictScrap>
 <cit>
 <quote>C'était, Dieu lui pardonne, une femme unique pour gâter ses enfants</quote>
 <bibl>
@@ -4998,7 +4997,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Il se dit, dans un sens analogue, des choses auxquelles nulle autre ne peut être comparée. Une grâce, une gentillesse unique.</dictScrap>
+<dictScrap>Il se dit, dans un sens analogue, des choses auxquelles nulle autre ne peut être comparée. Une grâce, une gentillesse <oVar>unique</oVar>.</dictScrap>
 <cit>
 <quote>Mme de Vins m'a priée de vous bien assurer de.... l'estime très particulière et très unique qu'elle a pour vous</quote>
 <bibl>
@@ -5014,7 +5013,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Voilà qui est unique, c'est unique, se dit, le plus souvent en mauvaise part, d'une chose à laquelle on ne s'attendait pas.</dictScrap>
+<dictScrap>Voilà qui est <oVar>unique</oVar>, c'est <oVar>unique</oVar>, se dit, le plus souvent en mauvaise part, d'une chose à laquelle on ne s'attendait pas.</dictScrap>
 <cit>
 <quote>Ce qui est encore unique, c'est que les Chinois n'avaient jamais fait de traité de paix depuis la fondation de l'empire</quote>
 <bibl>
@@ -5025,9 +5024,9 @@
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>S. m. Unique dauphin, variété de tulipe.</dictScrap>
+<dictScrap>S. m. <oVar>Unique</oVar> dauphin, variété de tulipe.</dictScrap>
 <sense>
-<dictScrap>Unique impérial, unique triomphant, variété d'œillet.</dictScrap>
+<dictScrap><oVar>Unique</oVar> impérial, <oVar>unique</oVar> triomphant, variété d'œillet.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
@@ -5102,7 +5101,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>D'une façon unique, au-dessus de tout, préférablement à tout. Il l'aime uniquement.</dictScrap>
+<dictScrap>D'une façon unique, au-dessus de tout, préférablement à tout. Il l'aime <oVar>uniquement</oVar>.</dictScrap>
 <cit>
 <quote>Nous causons sans cesse de vous ; c'est un sujet qui nous mène bien loin, et qui nous tient uniquement au cœur</quote>
 <bibl>
@@ -5111,7 +5110,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>D'une façon excellente. Corbinelli m'a été uniquement bon à Livry, 29 mai 1675.</dictScrap>
+<dictScrap>D'une façon excellente. Corbinelli m'a été <oVar>uniquement</oVar> bon à Livry, 29 mai 1675.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -5214,7 +5213,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Faire que des personnes soient réunies.</dictScrap>
+<dictScrap>Faire que des personnes soient ré<oVar>unies</oVar>.</dictScrap>
 <cit>
 <quote>Oui, je vous unirai, couple ingrat et perfide.... Oui, je vous unirai, puisque vous le voulez</quote>
 <bibl>
@@ -5238,7 +5237,7 @@
 </cit>
 </sense>
 <sense n="4">
-<dictScrap>Établir une communication entre. Un fleuve unit ces deux villes.</dictScrap>
+<dictScrap>Établir une communication entre. Un fleuve <oVar>unit</oVar> ces deux villes.</dictScrap>
 <cit>
 <quote>Alexandre forma le dessein d'unir les Indes avec l'Occident par un commerce maritime, comme il les avait unies par des colonies qu'il avait établies dans les terres</quote>
 <bibl>
@@ -5255,7 +5254,7 @@
 </cit>
 </sense>
 <sense n="5">
-<dictScrap>Posséder simultanément. Il unit l'esprit au savoir.</dictScrap>
+<dictScrap>Posséder simultanément. Il <oVar>unit</oVar> l'esprit au savoir.</dictScrap>
 <cit>
 <quote>À la force du sens unissez l'harmonie infuse dans vos périodes pour charmer l'oreille d'un préfet</quote>
 <bibl>
@@ -5303,7 +5302,7 @@
 </cit>
 </sense>
 <sense n="7">
-<dictScrap>Fig. Procurer le rapprochement, la concorde, l'alliance. C'est un intérêt commun qui les unit.</dictScrap>
+<dictScrap>Fig. Procurer le rapprochement, la concorde, l'alliance. C'est un intérêt commun qui les <oVar>unit</oVar>.</dictScrap>
 <cit>
 <quote>N'est-il herbes, parfums, ni chants mystérieux, Qui puissent nous unir ces bras victorieux ?</quote>
 <bibl>
@@ -5327,13 +5326,13 @@
 </cit>
 </sense>
 <sense n="8">
-<dictScrap>Terme de manége. Unir un cheval, le rassembler.</dictScrap>
+<dictScrap>Terme de manége. <oVar>Unir</oVar> un cheval, le rassembler.</dictScrap>
 </sense>
 <sense n="9">
-<dictScrap>Enlever les inégalités, aplanir une superficie raboteuse. Unir une pierre. Unir une planche. Unir une allée.</dictScrap>
+<dictScrap>Enlever les inégalités, aplanir une superficie raboteuse. <oVar>Unir</oVar> une pierre. <oVar>Unir</oVar> une planche. <oVar>Unir</oVar> une allée.</dictScrap>
 </sense>
 <sense n="10">
-<dictScrap>S'unir, v. réfl. Devenir un.</dictScrap>
+<dictScrap>S'<oVar>unir</oVar>, v. réfl. Devenir un.</dictScrap>
 <cit>
 <quote>Seigneur, pour sauver Rome, il faut qu'elle s'unisse En la main d'un bon chef à qui tout obéisse</quote>
 <bibl>
@@ -5388,7 +5387,7 @@
 </cit>
 </sense>
 <sense n="12">
-<dictScrap>Devenir unis, en concorde.</dictScrap>
+<dictScrap>Devenir <oVar>unis</oVar>, en concorde.</dictScrap>
 <cit>
 <quote>Il est leur général, Ils combattent sous lui, sous son ordre ils s'unissent</quote>
 <bibl>
@@ -5643,7 +5642,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de musique. Il se dit de sons produits par le même nombre de vibrations, dans des temps égaux. L'unisson est la plus simple de toutes les consonnances. Deux sons placés sur le même degré de la portée sont dits à l'unisson, s'ils ne se trouvent précédés d'aucun signe, ou si tous deux ont reçu la même modification BUSSET, la Musique simplifiée, t. I, p. 79.</dictScrap>
+<dictScrap>Terme de musique. Il se dit de sons produits par le même nombre de vibrations, dans des temps égaux. L'<oVar>unisson</oVar> est la plus simple de toutes les consonnances. Deux sons placés sur le même degré de la portée sont dits à l'<oVar>unisson</oVar>, s'ils ne se trouvent précédés d'aucun signe, ou si tous deux ont reçu la même modification BUSSET, la Musique simplifiée, t. I, p. 79.</dictScrap>
 <cit>
 <quote>L'unisson est.... produit par un égal nombre d'oscillations de deux corps vibrant dans un égal espace de temps</quote>
 <bibl>
@@ -5695,10 +5694,10 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Phrase mélodique entonnée à l'unisson par toutes les voix ou tous les instruments. L'unisson de l'Africaine de Meyerbeer. Le cinquième acte de Robert le Diable débute par un fort bel unisson de basses-tailles.</dictScrap>
+<dictScrap>Phrase mélodique entonnée à l'<oVar>unisson</oVar> par toutes les voix ou tous les instruments. L'<oVar>unisson</oVar> de l'Africaine de Meyerbeer. Le cinquième acte de Robert le Diable débute par un fort bel <oVar>unisson</oVar> de basses-tailles.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Unisson augmenté, l'intervalle qui existe, par exemple, entre la tonique et la tonique haussée, la dominante et la dominante haussée, la médiante mineure et la médiante majeure, etc. etc. Il est employé très fréquemment en mélodie, dans ce qu'on appelle si improprement le genre chromatique. En revanche, on en fait assez rarement usage harmoniquement parlant. L'unisson augmenté a pour renversement l'octave diminuée.</dictScrap>
+<dictScrap><oVar>Unisson</oVar> augmenté, l'intervalle qui existe, par exemple, entre la tonique et la tonique haussée, la dominante et la dominante haussée, la médiante mineure et la médiante majeure, etc. etc. Il est employé très fréquemment en mélodie, dans ce qu'on appelle si improprement le genre chromatique. En revanche, on en fait assez rarement usage harmoniquement parlant. L'<oVar>unisson</oVar> augmenté a pour renversement l'octave diminuée.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>Fig. Sorte de conformité intellectuelle, morale.</dictScrap>
@@ -5798,7 +5797,7 @@
 <dictScrap>Terme de minéralogie. Dont la forme résulte d'un seul décroissement par une rangée.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de chimie. Système unitaire, système opposé à la théorie dualistique du siècle dernier, et dans lequel les composés sont considérés comme constitués par des groupes d'atomes qu'unit entre eux le lien de l'affinité et qui forment un tout.</dictScrap>
+<dictScrap>Terme de chimie. Système <oVar>unitaire</oVar>, système opposé à la théorie dualistique du siècle dernier, et dans lequel les composés sont considérés comme constitués par des groupes d'atomes qu'unit entre eux le lien de l'affinité et qui forment un tout.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Terme de biologie. Se dit des êtres qui présentent les caractères de l'unité.</dictScrap>
@@ -5844,7 +5843,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Adj. Doctrines unitaires. L'hérésie unitaire.</dictScrap>
+<dictScrap>Adj. Doctrines unitaires. L'hérésie <oVar>unitaire</oVar>.</dictScrap>
 </sense>
 </sense>
 <etym>Unité.</etym>
@@ -6180,7 +6179,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Terme de droit canon. Rescrit unitif, rescrit de l'évêque ou bulle du pape qui joint un bénéfice à un autre.</dictScrap>
+<dictScrap>Terme de droit canon. Rescrit <oVar>unitif</oVar>, rescrit de l'évêque ou bulle du pape qui joint un bénéfice à un autre.</dictScrap>
 </sense>
 <etym>Prov. unitiu ; esp. et ital. unitivo ; du lat. unitivus (QUICHERAT, Addenda), de unire, unir.</etym>
 </entry>
@@ -6206,7 +6205,7 @@
 <sense n="2">
 <dictScrap>Terme de zoologie. Il se dit des mollusques dont la coquille n'est composée que d'une pièce.</dictScrap>
 <sense>
-<dictScrap>Substantivement. Une univalve.</dictScrap>
+<dictScrap>Substantivement. Une <oVar>univalve</oVar>.</dictScrap>
 </sense>
 </sense>
 <note type="remarque">L'Académie fait univalve et bivalve, pris substantivement, du masculin, sous-entendu mollusque ; mais elle fait multivalve du féminin, sous-entendu coquille. Cette discordance ne peut subsister ; il vaut mieux mettre le féminin en tous les cas : une belle univalve. </note>
@@ -6271,7 +6270,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Particulièrement, le système solaire, avec ses planètes et leurs satellites, dit aussi monde, quand on oppose le monde à l'univers.</dictScrap>
+<dictScrap>Particulièrement, le système solaire, avec ses planètes et leurs satellites, dit aussi monde, quand on oppose le monde à l'<oVar>univers</oVar>.</dictScrap>
 <cit>
 <quote>Qu'il [l'homme] se regarde comme égaré dans ce canton détourné de la nature, et que, de ce petit cachot où il se trouve logé, j'entends l'univers, il apprenne à estimer la terre, les royaumes, les villes et soi-même à juste prix</quote>
 <bibl>
@@ -6316,7 +6315,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>La terre ou une grande partie de la terre. Au bout de l'univers.</dictScrap>
+<dictScrap>La terre ou une grande partie de la terre. Au bout de l'<oVar>univers</oVar>.</dictScrap>
 <cit>
 <quote>Colombo, frappé des entreprises des Portugais, conçut qu'on pouvait faire quelque chose de plus grand, et, par la seule inspection d'une carte de notre univers, jugea qu'il devait y en avoir un autre</quote>
 <bibl>
@@ -6451,7 +6450,7 @@
 </cit>
 </sense>
 <sense n="6">
-<dictScrap>Fig. Domaine matériel, intellectuel ou moral, comparé à l'univers.</dictScrap>
+<dictScrap>Fig. Domaine matériel, intellectuel ou moral, comparé à l'<oVar>univers</oVar>.</dictScrap>
 <cit>
 <quote>Les polypes sont placés sur les frontières d'un autre univers qui aura un jour ses Colombs et ses Vespuces</quote>
 <bibl>
@@ -6579,7 +6578,7 @@
 <dictScrap>Membre d'une secte dite aussi latitudinaire, croyant que les hommes sont sauvés, quelles que soient leurs opinions religieuses.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Adj. Qui embrasse tout le monde. Le christianisme, de bonne heure, voulut être une religion universaliste.</dictScrap>
+<dictScrap>Adj. Qui embrasse tout le monde. Le christianisme, de bonne heure, voulut être une religion <oVar>universaliste</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="universalité">
@@ -6716,7 +6715,7 @@
 <gram>s. m. pl.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de la scolastique. Il y a cinq universaux : le genre, l'espèce, la différence, le propre et l'accident ; c'est Porphyre qui, dans son Introduction à la Logique d'Aristote, a établi ces cinq idées universelles.</dictScrap>
+<dictScrap>Terme de la scolastique. Il y a cinq <oVar>universaux</oVar> : le genre, l'espèce, la différence, le propre et l'accident ; c'est Porphyre qui, dans son Introduction à la Logique d'Aristote, a établi ces cinq idées universelles.</dictScrap>
 <cit>
 <quote>Vous ne pouvez rien contre moi en disant que l'idée de l'unité de toutes les perfections qui sont en Dieu est formée de la même façon que l'unité générique et celle des autres universaux</quote>
 <bibl>
@@ -6740,7 +6739,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Universaux de Pologne, lettres circulaires que le roi de Pologne adressait aux provinces et aux grands du royaume, pour la convocation des diètes.</dictScrap>
+<dictScrap><oVar>Universaux</oVar> de Pologne, lettres circulaires que le roi de Pologne adressait aux provinces et aux grands du royaume, pour la convocation des diètes.</dictScrap>
 <cit>
 <quote>Il [le roi Auguste] fit publier ses universaux pour assembler la pospolite et les armées</quote>
 <bibl>
@@ -6870,19 +6869,19 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Suffrage universel, droit de voter dans les élections accordé à tout citoyen d'un certain âge.</dictScrap>
+<dictScrap>Suffrage <oVar>universel</oVar>, droit de voter dans les élections accordé à tout citoyen d'un certain âge.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Concile universel, se dit quelquefois pour concile oecuménique.</dictScrap>
+<dictScrap>Concile <oVar>universel</oVar>, se dit quelquefois pour concile oecuménique.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Évêque universel, nom qui a été donné quelquefois au pape.</dictScrap>
+<dictScrap>Évêque <oVar>universel</oVar>, nom qui a été donné quelquefois au pape.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Jubilé universel, celui qui est accordé à toute l'Église.</dictScrap>
+<dictScrap>Jubilé <oVar>universel</oVar>, celui qui est accordé à toute l'Église.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de théologie. Grâce universelle, se dit, parmi les réformés, de la grâce répandue sur tous les hommes par le sacrifice de Jésus-Christ.</dictScrap>
+<dictScrap>Terme de théologie. Grâce <oVar>universelle</oVar>, se dit, parmi les réformés, de la grâce répandue sur tous les hommes par le sacrifice de Jésus-Christ.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -6923,7 +6922,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Cet homme est universel, il a une grande étendue de connaissances.</dictScrap>
+<dictScrap>Cet homme est <oVar>universel</oVar>, il a une grande étendue de connaissances.</dictScrap>
 <cit>
 <quote>Vous êtes universel, monsieur, vous vous connaissez à tout</quote>
 <bibl>
@@ -6933,7 +6932,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>On dit de même : science universelle.</dictScrap>
+<dictScrap>On dit de même : science <oVar>universelle</oVar>.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig. et par plaisanterie.</dictScrap>
@@ -6971,7 +6970,7 @@
 </cit>
 </sense>
 <sense n="4">
-<dictScrap>S. m. L'universel, ce qu'il y a de commun dans les individus d'un même genre, d'une même espèce. L'universel a parte rei, l'universel a parte mentis.</dictScrap>
+<dictScrap>S. m. L'<oVar>universel</oVar>, ce qu'il y a de commun dans les individus d'un même genre, d'une même espèce. L'<oVar>universel</oVar> a parte rei, l'<oVar>universel</oVar> a parte mentis.</dictScrap>
 <sense>
 <dictScrap>Voy. <ref target="universaux">UNIVERSAUX</ref>.</dictScrap>
 </sense>
@@ -7139,7 +7138,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui appartient à l'université. Grade universitaire. Le corps universitaire.</dictScrap>
+<dictScrap>Qui appartient à l'université. Grade <oVar>universitaire</oVar>. Le corps <oVar>universitaire</oVar>.</dictScrap>
 <sense>
 <dictScrap>S. m. Individu attaché à l'université.</dictScrap>
 </sense>
@@ -7286,7 +7285,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de scolastique. Caractère de ce qui est univoque. La question de l'univocation de l'être.</dictScrap>
+<dictScrap>Terme de scolastique. Caractère de ce qui est univoque. La question de l'<oVar>univocation</oVar> de l'être.</dictScrap>
 </sense>
 <etym>Lat. univocationem (QUICHERAT, Addenda), de univocus, univoque.</etym>
 </entry>
@@ -7308,7 +7307,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de scolastique. Il se dit des noms qui s'appliquent à plusieurs choses, soit de même espèce, soit d'espèce différente mais de même genre, comme animal, homme, etc. Animal est un terme univoque à l'aigle et au lion.</dictScrap>
+<dictScrap>Terme de scolastique. Il se dit des noms qui s'appliquent à plusieurs choses, soit de même espèce, soit d'espèce différente mais de même genre, comme animal, homme, etc. Animal est un terme <oVar>univoque</oVar> à l'aigle et au lion.</dictScrap>
 <cit>
 <quote>Aucunes des choses que nous concevons être en Dieu et en nous et que nous considérons en lui par parties et comme si elles étaient distinctes à cause de la faiblesse de notre entendement, ne conviennent à Dieu et à nous, en la façon qu'on nomme univoque dans les écoles</quote>
 <bibl>
@@ -7358,7 +7357,7 @@
 </cit>
 </sense>
 <sense n="4">
-<dictScrap>Les anciens ont cru que les animaux parfaits s'engendraient par génération univoque, c'est-à-dire par la seule union du mâle et de la femelle ; et que les insectes se faisaient par la génération équivoque, c'est-à-dire sans semence, et de la pourriture de la terre.</dictScrap>
+<dictScrap>Les anciens ont cru que les animaux parfaits s'engendraient par génération <oVar>univoque</oVar>, c'est-à-dire par la seule union du mâle et de la femelle ; et que les insectes se faisaient par la génération équivoque, c'est-à-dire sans semence, et de la pourriture de la terre.</dictScrap>
 </sense>
 <sense n="5">
 <dictScrap>Terme de grammaire. Se dit des mots qui ont le même son, quoiqu'ils aient une signification différente.</dictScrap>
@@ -7392,7 +7391,7 @@
 <quote>Genre de la famille des anonacées ; l'on y distingue : 1° l'unone éthiopique ou unone d'une seule couleur, dite poivre de Guinée, poivre des Maures, poivre d'Éthiopie ou de singe, et à tort maniguette ; 2° l'unone odorante, dite bois de lance bâtard, et appelée bois de banane à Maurice et à Bourbon ; c'est l'uvaire odorante de Lamarck ; on la nomme à Sumatra canang et cananga, ainsi que d'autres espèces du genre unone ; 3° l'unone aromatique, qui est le canang aromatique de certains auteurs et l'uvaire aromatique de Lamark ; ses graines sont parfois appelées poivre d'Éthiopie et maniguette, quoique ce dernier mot doive être réservé pour désigner les graines de l'amome graine de paradis ; cette unone est dite aussi bois d'écorce</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 </sense>
@@ -7424,10 +7423,10 @@
 <sense>
 <dictScrap>Substance vénéneuse dont les habitants des îles de la Sonde se servent pour empoisonner leurs flèches, et dont la plus petite quantité suffit pour donner immédiatement la mort.</dictScrap>
 <sense>
-<dictScrap>Upas antiar, poison qui provient de l'antiaris toxicaria, Leschenault, arbre de la famille des urticées artocarpées.</dictScrap>
+<dictScrap><oVar>Upas</oVar> antiar, poison qui provient de l'antiaris toxicaria, Leschenault, arbre de la famille des urticées artocarpées.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Upas tieuté, poison très violent qu'on tire du strychnos tieuté (loganaciées) appelé à Java tieuté.</dictScrap>
+<dictScrap><oVar>Upas</oVar> tieuté, poison très violent qu'on tire du strychnos tieuté (loganaciées) appelé à Java tieuté.</dictScrap>
 </sense>
 </sense>
 <etym>Upas, en javanais, signifie poison végétal, d'après Legoarant.</etym>
@@ -7765,7 +7764,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Nom générique des sels formés par la combinaison de l'acide urique avec les bases. Urate d'ammoniaque.</dictScrap>
+<dictScrap>Terme de chimie. Nom générique des sels formés par la combinaison de l'acide urique avec les bases. <oVar>Urate</oVar> d'ammoniaque.</dictScrap>
 <sense>
 <dictScrap>Engrais composé d'un mélange d'urine et de plâtre ou de terre.</dictScrap>
 </sense>
@@ -7778,7 +7777,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui concerne la ville, qui appartient à la ville, par opposition à rural. Garde urbaine.</dictScrap>
+<dictScrap>Qui concerne la ville, qui appartient à la ville, par opposition à rural. Garde <oVar>urbaine</oVar>.</dictScrap>
 <cit>
 <quote>Pour me tirer un peu de l'urbaine cohue, je me rendis à la fin [à une invitation], et je fus passer à Passy huit ou dix jours</quote>
 <bibl>
@@ -7787,7 +7786,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Cachexie urbaine, nom donné à l'anémie qui afflige souvent les habitants des grandes villes.</dictScrap>
+<dictScrap>Cachexie <oVar>urbaine</oVar>, nom donné à l'anémie qui afflige souvent les habitants des grandes villes.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -8006,7 +8005,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Langue moderne de l'Inde, mêlée, à la suite de la conquête des Mogols, de quantité de mots étrangers, arabes et persans, relatifs à la religion, au gouvernement, à la guerre et aux arts ; ainsi dite de urdu, camp : la langue du camp (des Mogols).</dictScrap>
+<dictScrap>Langue moderne de l'Inde, mêlée, à la suite de la conquête des Mogols, de quantité de mots étrangers, arabes et persans, relatifs à la religion, au gouvernement, à la guerre et aux arts ; ainsi dite de <oVar>urdu</oVar>, camp : la langue du camp (des Mogols).</dictScrap>
 </sense>
 <re ana="supplement">
 <re>URDU. Ajoutez : </re>
@@ -8411,7 +8410,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Qualité de ce qui est urgent. Un cas d'urgence. L'urgence des circonstances. Urgence des affaires, Mém. de Bassompierre, t. I, p. 297, dans LACURNE.</dictScrap>
+<dictScrap>Qualité de ce qui est urgent. Un cas d'<oVar>urgence</oVar>. L'<oVar>urgence</oVar> des circonstances. <oVar>Urgence</oVar> des affaires, Mém. de Bassompierre, t. I, p. 297, dans LACURNE.</dictScrap>
 </sense>
 <etym>Lat. urgentia (QUICHERAT, Addenda), de urgens, urgent</etym>
 </entry>
@@ -8485,7 +8484,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Un des archanges. Gabriel, Michel, Raphael et Uriel président aux quatre points cardinaux.</dictScrap>
+<dictScrap>Un des archanges. Gabriel, Michel, Raphael et <oVar>Uriel</oVar> président aux quatre points cardinaux.</dictScrap>
 </sense>
 <etym>Hébreu, ur, lumière, et el, Seigneur : lumière du Seigneur.</etym>
 </entry>
@@ -8496,15 +8495,15 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme d'anatomie et de médecine. Qui a rapport à l'urine. Calcul urinaire.</dictScrap>
+<dictScrap>Terme d'anatomie et de médecine. Qui a rapport à l'urine. Calcul <oVar>urinaire</oVar>.</dictScrap>
 <sense>
-<dictScrap>Méat urinaire, l'orifice de l'urèthre.</dictScrap>
+<dictScrap>Méat <oVar>urinaire</oVar>, l'orifice de l'urèthre.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Voies urinaires, ensemble des conduits et cavités destinés à transmettre ou à contenir l'urine, depuis le moment où se fait la sécrétion de ce liquide jusqu'à son élimination définitive.</dictScrap>
+<dictScrap>Voies <oVar>urinaires</oVar>, ensemble des conduits et cavités destinés à transmettre ou à contenir l'urine, depuis le moment où se fait la sécrétion de ce liquide jusqu'à son élimination définitive.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fistules urinaires, fistules qui laissent écouler l'urine, distinguées en vésicales et en uréthrales.</dictScrap>
+<dictScrap>Fistules <oVar>urinaires</oVar>, fistules qui laissent écouler l'urine, distinguées en vésicales et en uréthrales.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -8536,7 +8535,7 @@
 <dictScrap>Sorte de réservoir qu'on adapte à la verge dans le cas d'incontinence d'urine, pour recevoir ce liquide à mesure qu'il s'écoule.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme d'alchimie. Urinal des philosophes, fourneau philosophal dans lequel se cuit et digère la matière de la pierre des sages, ou l'œuf hermétique.</dictScrap>
+<dictScrap>Terme d'alchimie. <oVar>Urinal</oVar> des philosophes, fourneau philosophal dans lequel se cuit et digère la matière de la pierre des sages, ou l'œuf hermétique.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -8580,7 +8579,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Liquide excrémentitiel sécrété par les reins, d'où il coule, par les uretères, dans la vessie, qui, après l'avoir conservé en dépôt pendant quelque temps, le chasse au dehors par l'urèthre en se contractant. Suppression d'urine. Rétention d'urine.</dictScrap>
+<dictScrap>Liquide excrémentitiel sécrété par les reins, d'où il coule, par les uretères, dans la vessie, qui, après l'avoir conservé en dépôt pendant quelque temps, le chasse au dehors par l'urèthre en se contractant. Suppression d'<oVar>urine</oVar>. Rétention d'<oVar>urine</oVar>.</dictScrap>
 <cit>
 <quote>L'urine de l'homme est une des matières animales qui ont été les plus examinées par les chimistes, dont l'examen a fourni en même temps et le plus de découvertes singulières à la chimie, et le plus d'applications utiles pour la physique animale, ainsi que pour l'art de guérir</quote>
 <bibl>
@@ -8603,10 +8602,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Urines ardentes, urines très rouges, dont la coloration est peut-être due à l'acide rosacique.</dictScrap>
+<dictScrap><oVar>Urines</oVar> ardentes, <oVar>urines</oVar> très rouges, dont la coloration est peut-être due à l'acide rosacique.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Essence d'urine, sel ammoniacal qu'on extrayait autrefois de l'urine.</dictScrap>
+<dictScrap>Essence d'<oVar>urine</oVar>, sel ammoniacal qu'on extrayait autrefois de l'<oVar>urine</oVar>.</dictScrap>
 <cit>
 <quote>Pour des vapeurs, ma très aimable bonne, je voulus, ce me semble, en avoir l'autre jour ; je pris huit gouttes d'essence d'urine</quote>
 <bibl>
@@ -8616,7 +8615,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Médecin des urines, celui qui prétend, par l'inspection de l'urine, connaître les maladies.</dictScrap>
+<dictScrap>Médecin des <oVar>urines</oVar>, celui qui prétend, par l'inspection de l'<oVar>urine</oVar>, connaître les maladies.</dictScrap>
 <cit>
 <quote>J'aurais un beau teston pour juger d'une urine</quote>
 <bibl>
@@ -8633,7 +8632,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. Le médecin qui a vu son urine dit qu'il n'ira pas loin, dicton vulgaire pour exprimer qu'un objet quelconque est usé, en mauvais état, durera peu.</dictScrap>
+<dictScrap>Fig. Le médecin qui a vu son <oVar>urine</oVar> dit qu'il n'ira pas loin, dicton vulgaire pour exprimer qu'un objet quelconque est usé, en mauvais état, durera peu.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -8676,7 +8675,7 @@
 <gram>v. n.</gram>
 </form>
 <sense>
-<dictScrap>Évacuer l'urine, se dit surtout en parlant des malades.</dictScrap>
+<dictScrap>Évacuer l'<oVar>urine</oVar>, se dit surtout en parlant des malades.</dictScrap>
 <cit>
 <quote>Quelle différence y a-t-il pour un aveugle entre un homme qui urine et un homme qui verse son sang ?</quote>
 <bibl>
@@ -8718,7 +8717,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui a rapport à l'urine. Abcès urineux. Odeur urineuse.</dictScrap>
+<dictScrap>Qui a rapport à l'urine. Abcès <oVar>urineux</oVar>. Odeur <oVar>urineuse</oVar>.</dictScrap>
 </sense>
 <etym>Urine.</etym>
 </entry>
@@ -8788,7 +8787,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Calcul urique se dit pour calcul d'acide urique.</dictScrap>
+<dictScrap>Calcul <oVar>urique</oVar> se dit pour calcul d'acide <oVar>urique</oVar>.</dictScrap>
 </sense>
 </sense>
 <etym>Mot formé avec ur, radical de urine.</etym>
@@ -8847,13 +8846,13 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On étend quelquefois la dénomination d'urne à certains sarcophages dont la forme n'a qu'un rapport fort éloigné avec celle des vases en général.</dictScrap>
+<dictScrap>On étend quelquefois la dénomination d'<oVar>urne</oVar> à certains sarcophages dont la forme n'a qu'un rapport fort éloigné avec celle des vases en général.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Quelques antiquaires l'appliquent même à tout ce qui a renfermé les restes des morts.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Urne se dit aussi chez les modernes, par figure, bien qu'on n'enferme plus les restes des morts dans des urnes.</dictScrap>
+<dictScrap><oVar>Urne</oVar> se dit aussi chez les modernes, par figure, bien qu'on n'enferme plus les restes des morts dans des <oVar>urnes</oVar>.</dictScrap>
 <cit>
 <quote>Si de ton nom pourtant tu veux l'entretenir [le cœur qui t'aime], Grave ces simples mots sur ton urne à venir</quote>
 <bibl>
@@ -8864,7 +8863,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>L'urne était chez les anciens un vase dans lequel on recueillait les suffrages. On représente Minos, juge des enfers, avec une urne à la main.</dictScrap>
+<dictScrap>L'<oVar>urne</oVar> était chez les anciens un vase dans lequel on recueillait les suffrages. On représente Minos, juge des enfers, avec une <oVar>urne</oVar> à la main.</dictScrap>
 <cit>
 <quote>Où me cacher ? fuyons dans la nuit infernale ; Mais que dis-je ? mon père [Minos] y tient l'urne fatale</quote>
 <bibl>
@@ -8873,7 +8872,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Il se dit, chez les modernes, en un sens analogue, de la boîte dans laquelle on recueille les votes. L'urne électorale.</dictScrap>
+<dictScrap>Il se dit, chez les modernes, en un sens analogue, de la boîte dans laquelle on recueille les votes. L'<oVar>urne</oVar> électorale.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
@@ -8897,7 +8896,7 @@
 <dictScrap>Dans le langage des archéologues, toute poterie trouvée dans les fouilles.</dictScrap>
 </sense>
 <sense n="6">
-<dictScrap>Vase de porcelaine, de faïence, qui a la forme d'une urne antique.</dictScrap>
+<dictScrap>Vase de porcelaine, de faïence, qui a la forme d'une <oVar>urne</oVar> antique.</dictScrap>
 </sense>
 <sense n="7">
 <dictScrap>Terme de botanique. Sporange des mousses couvert par un opercule qui, à la maturité, s'en sépare par une fente transversale.</dictScrap>
@@ -8906,7 +8905,7 @@
 <dictScrap>Un des noms donnés à la constellation appelée la Coupe.</dictScrap>
 </sense>
 <sense n="9">
-<dictScrap>Urne épineuse, coquille du genre volute.</dictScrap>
+<dictScrap><oVar>Urne</oVar> épineuse, coquille du genre volute.</dictScrap>
 </sense>
 <etym>Lat. urna, urne.</etym>
 <re ana="supplement">
@@ -8954,7 +8953,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Principe immédiat réel, mais accidentel, de l'urine, auquel Heller a donné le nom d'uroglaucine, et Aloys Martin celui d'urocyanine</dictScrap>
+<dictScrap>Terme de chimie. Principe immédiat réel, mais accidentel, de l'urine, auquel Heller a donné le nom d'uroglaucine, et Aloys Martin celui d'<oVar>urocyanine</oVar></dictScrap>
 </sense>
 <etym>Du grec, urine, et cyanine.</etym>
 </entry>
@@ -9187,7 +9186,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Genre de synanthérées où l'on distingue l'urosperme picroïde (France méridionale, Italie et Grèce) ; c'est le salsifis picroïde de certains auteurs.</dictScrap>
+<dictScrap>Terme de botanique. Genre de synanthérées où l'on distingue l'<oVar>urosperme</oVar> picroïde (France méridionale, Italie et Grèce) ; c'est le salsifis picroïde de certains auteurs.</dictScrap>
 </sense>
 <etym>Du grec, queue, et, graine.</etym>
 </entry>
@@ -9230,10 +9229,10 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Religieuses qui tirent leur nom de sainte Ursule, et qui sont obligées par leurs statuts à prendre soin de l'instruction des jeunes filles ; elles suivent la règle de saint Augustin. C'est une ursuline.</dictScrap>
+<dictScrap>Religieuses qui tirent leur nom de sainte Ursule, et qui sont obligées par leurs statuts à prendre soin de l'instruction des jeunes filles ; elles suivent la règle de saint Augustin. C'est une <oVar>ursuline</oVar>.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Au plur. Il se dit pour le couvent qu'habitent ces religieuses. Nous allâmes aux Ursulines.</dictScrap>
+<dictScrap>Au plur. Il se dit pour le couvent qu'habitent ces religieuses. Nous allâmes aux <oVar>Ursulines</oVar>.</dictScrap>
 </sense>
 <note type="remarque">D'après Ménage, l'usage à Paris et à la cour est partagé entre ursulines et urselines : on peut dire les deux. Urselines est plus usité par le peuple et parmi les dames. </note>
 </entry>
@@ -9255,7 +9254,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Se dit de tout ce qui produit une sensation analogue à celle que cause la piqûre des orties, avec ou sans élevures analogues à celles de la maladie appelée urticaire. Les animaux urticants marins sont quelques actinies et beaucoup d'acalèphes.</dictScrap>
+<dictScrap>Se dit de tout ce qui produit une sensation analogue à celle que cause la piqûre des orties, avec ou sans élevures analogues à celles de la maladie appelée urticaire. Les animaux <oVar>urticants</oVar> marins sont quelques actinies et beaucoup d'acalèphes.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="urtication">
@@ -9433,12 +9432,12 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui peut s'user. Ce drap est facilement usable.</dictScrap>
+<dictScrap>Qui peut s'user. Ce drap est facilement <oVar>usable</oVar>.</dictScrap>
 <cit>
 <quote>Toute montre devient mauvaise par cela seul que la matière est usable ; et cette même raison doit faire abandonner la recherche du mouvement perpétuel</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 </sense>
@@ -9565,7 +9564,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Mettre en usage, faire usage, employer.</dictScrap>
+<dictScrap>Mettre en <oVar>usage</oVar>, faire <oVar>usage</oVar>, employer.</dictScrap>
 <cit>
 <quote>Il met tout en usage, et prière et menace</quote>
 <bibl>
@@ -9617,10 +9616,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Familièrement Ce drap fera beaucoup d'usage, il durera beaucoup ; il devient plus beau par l'usage, il prend, porté, une plus belle apparence.</dictScrap>
+<dictScrap>Familièrement Ce drap fera beaucoup d'<oVar>usage</oVar>, il durera beaucoup ; il devient plus beau par l'<oVar>usage</oVar>, il prend, porté, une plus belle apparence.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Toiles garanties à l'usage, toiles dont on garantit qu'elles dureront.</dictScrap>
+<dictScrap>Toiles garanties à l'<oVar>usage</oVar>, toiles dont on garantit qu'elles dureront.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -9655,10 +9654,10 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Terme de physiologie. Usage des organes, chacun des actes exécutés par chaque organe.</dictScrap>
+<dictScrap>Terme de physiologie. <oVar>Usage</oVar> des organes, chacun des actes exécutés par chaque organe.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>Démembrement du droit de propriété : le droit de se servir personnellement d'une chose dont la propriété est à un autre. En vendant sa bibliothèque, il s'en est réservé l'usage sa vie durant.</dictScrap>
+<dictScrap>Démembrement du droit de propriété : le droit de se servir personnellement d'une chose dont la propriété est à un autre. En vendant sa bibliothèque, il s'en est réservé l'<oVar>usage</oVar> sa vie durant.</dictScrap>
 <cit>
 <quote>Les droits d'usage et d'habitation s'établissent et se perdent de la même manière que l'usufruit</quote>
 <bibl>
@@ -9673,9 +9672,9 @@
 </cit>
 </sense>
 <sense n="5">
-<dictScrap>Terme de droit administratif et forestier. Droit qu'ont les voisins d'une forêt ou d'un pacage, d'y couper le bois qui leur est nécessaire ou d'y mener paître leur bétail. On a ôté les usages aux riverains de cette forêt. J'ai droit d'usage, j'ai mon usage dans tel bois.</dictScrap>
+<dictScrap>Terme de droit administratif et forestier. Droit qu'ont les voisins d'une forêt ou d'un pacage, d'y couper le bois qui leur est nécessaire ou d'y mener paître leur bétail. On a ôté les <oVar>usages</oVar> aux riverains de cette forêt. J'ai droit d'<oVar>usage</oVar>, j'ai mon <oVar>usage</oVar> dans tel bois.</dictScrap>
 <sense>
-<dictScrap>Les grands usages comprenaient l'affouage, le maronage, le pâturage ou pacage, la glandée et la paisson. Les petits usages consistaient dans le droit d'enlever les branches sèches, le bois mort et le mort-bois.</dictScrap>
+<dictScrap>Les grands <oVar>usages</oVar> comprenaient l'affouage, le maronage, le pâturage ou pacage, la glandée et la paisson. Les petits <oVar>usages</oVar> consistaient dans le droit d'enlever les branches sèches, le bois mort et le mort-bois.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
@@ -9758,7 +9757,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Phrases d'usage, phrases toutes faites qu'on échange dans la conversation.</dictScrap>
+<dictScrap>Phrases d'<oVar>usage</oVar>, phrases toutes faites qu'on échange dans la conversation.</dictScrap>
 <cit>
 <quote>Des phrases d'usage dont on se paye réciproquement</quote>
 <bibl>
@@ -9768,7 +9767,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Emploi particulier qui se fait des mots. L'usage qu'il a fait de ce mot est heureux. L'usage vicieux de cette locution.</dictScrap>
+<dictScrap>Emploi particulier qui se fait des mots. L'<oVar>usage</oVar> qu'il a fait de ce mot est heureux. L'<oVar>usage</oVar> vicieux de cette locution.</dictScrap>
 <cit>
 <quote>Cet usage du mot de sceptre se trouve à toutes les pages de l'Écriture</quote>
 <bibl>
@@ -9865,7 +9864,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>L'usage ordinaire, ce qui se fait habituellement dans la vie.</dictScrap>
+<dictScrap>L'<oVar>usage</oVar> ordinaire, ce qui se fait habituellement dans la vie.</dictScrap>
 <cit>
 <quote>Dans l'usage ordinaire, la première question qu'on fait sur une femme c'est ¨ Est-elle belle ?</quote>
 <bibl>
@@ -9876,7 +9875,7 @@
 </sense>
 </sense>
 <sense n="8">
-<dictScrap>Pratique particulière. Il a l'usage de dîner de bonne heure. Il veille beaucoup, c'est son usage. Il est dans l'usage de prendre, chaque année, un mois de vacance.</dictScrap>
+<dictScrap>Pratique particulière. Il a l'<oVar>usage</oVar> de dîner de bonne heure. Il veille beaucoup, c'est son <oVar>usage</oVar>. Il est dans l'<oVar>usage</oVar> de prendre, chaque année, un mois de vacance.</dictScrap>
 <cit>
 <quote>Je sais que des sultans l'usage m'est contraire</quote>
 <bibl>
@@ -9979,7 +9978,7 @@
 </sense>
 </sense>
 <sense n="11">
-<dictScrap>Usage du monde, de la vie, expérience de la société, habitude d'en pratiquer les devoirs, d'en observer les manières.</dictScrap>
+<dictScrap><oVar>Usage</oVar> du monde, de la vie, expérience de la société, habitude d'en pratiquer les devoirs, d'en observer les manières.</dictScrap>
 <cit>
 <quote>Du beau monde avait quelque usage</quote>
 <bibl>
@@ -10015,7 +10014,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Absolument. Il manque d'usage. Il a beaucoup d'usage. Il a peu d'usage.</dictScrap>
+<dictScrap>Absolument. Il manque d'<oVar>usage</oVar>. Il a beaucoup d'<oVar>usage</oVar>. Il a peu d'<oVar>usage</oVar>.</dictScrap>
 <cit>
 <quote>Il [Villeroy] avait cet esprit de cour et du monde, que le grand usage donne</quote>
 <bibl>
@@ -10032,7 +10031,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Avoir de l'usage, pour avoir l'usage du monde, n'est ni dans Furetière ni dans l'Académie de 1694.</dictScrap>
+<dictScrap>Avoir de l'<oVar>usage</oVar>, pour avoir l'<oVar>usage</oVar> du monde, n'est ni dans Furetière ni dans l'Académie de 1694.</dictScrap>
 <cit>
 <quote>Elle a de l'usage, de quoi ?... on doit dire : elle a de l'usage du monde</quote>
 <bibl>
@@ -10287,7 +10286,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Usage reçu (vieilli en ce sens). L'usance du pays, des lieux.</dictScrap>
+<dictScrap>Usage reçu (vieilli en ce sens). L'<oVar>usance</oVar> du pays, des lieux.</dictScrap>
 </sense>
 <sense n="2">
 <dictScrap>Terme pour le payement des lettres de change, déterminé suivant l'usage des places sur lesquelles elles sont tirées ; ce terme est souvent de trente jours.</dictScrap>
@@ -10306,11 +10305,11 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Intérêt à toute usance, ou à double usance, se dit de l'intérêt qu'on fait payer au double, tous les mois.</dictScrap>
+<dictScrap>Intérêt à toute <oVar>usance</oVar>, ou à double <oVar>usance</oVar>, se dit de l'intérêt qu'on fait payer au double, tous les mois.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Terme forestier. Usance du bois, espace de temps qui s'est écoulé depuis qu'on a coupé un taillis. On dit dans le même sens : âge du bois.</dictScrap>
+<dictScrap>Terme forestier. <oVar>Usance</oVar> du bois, espace de temps qui s'est écoulé depuis qu'on a coupé un taillis. On dit dans le même sens : âge du bois.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -10357,10 +10356,10 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de jurisprudence. Fils majeur usant et jouissant, fille majeure usante et jouissante de ses droits, fils majeur, fille majeure qui n'a ni père ni mère et qui n'est sous l'autorité de personne.</dictScrap>
+<dictScrap>Terme de jurisprudence. Fils majeur <oVar>usant</oVar> et jouissant, fille majeure <oVar>usante</oVar> et jouissante de ses droits, fils majeur, fille majeure qui n'a ni père ni mère et qui n'est sous l'autorité de personne.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Qui use, diminue par le frottement. Le rodage s'exécute avec une poudre usante.</dictScrap>
+<dictScrap>Qui use, diminue par le frottement. Le rodage s'exécute avec une poudre <oVar>usante</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="usblat">
@@ -10370,7 +10369,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme hors d'usage. Usblat, autrement colle de poisson, le cent pesant estimé 30 livres, Déclar. du roi, nov. 1640, Tarif.</dictScrap>
+<dictScrap>Terme hors d'usage. <oVar>Usblat</oVar>, autrement colle de poisson, le cent pesant estimé 30 livres, Déclar. du roi, nov. 1640, Tarif.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="usé">
@@ -10558,10 +10557,10 @@
 <gram>v. a.</gram>
 </form>
 <sense n="1">
-<dictScrap>Faire usage de ; l'emploi actif en ce sens est ancien, et n'a été conservé qu'en termes d'eaux et forêts : User une vente, en faire l'exploitation.</dictScrap>
+<dictScrap>Faire usage de ; l'emploi actif en ce sens est ancien, et n'a été conservé qu'en termes d'eaux et forêts : <oVar>User</oVar> une vente, en faire l'exploitation.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Par extension du sens de se servir, consommer les choses dont on se sert. J'use beaucoup de charbon, d'huile.</dictScrap>
+<dictScrap>Par extension du sens de se servir, consommer les choses dont on se sert. J'<oVar>use</oVar> beaucoup de charbon, d'huile.</dictScrap>
 <cit>
 <quote>Elles ont usé, depuis que nous sommes ici, le lard d'une douzaine de cochons [pour faire des pommades]</quote>
 <bibl>
@@ -10571,7 +10570,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Détériorer imperceptiblement les choses en les diminuant à force de s'en servir. User ses souliers.</dictScrap>
+<dictScrap>Détériorer imperceptiblement les choses en les diminuant à force de s'en servir. <oVar>User</oVar> ses souliers.</dictScrap>
 <cit>
 <quote>Je te promets cet habit-ci, quand je l'aurai un peu usé</quote>
 <bibl>
@@ -10625,7 +10624,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>User ses ressources, les prodiguer et les affaiblir.</dictScrap>
+<dictScrap><oVar>User</oVar> ses ressources, les prodiguer et les affaiblir.</dictScrap>
 <cit>
 <quote>L'effort qu'il venait de faire pour atteindre Moscou avait usé tous ses moyens de guerre</quote>
 <bibl>
@@ -10635,11 +10634,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>User sa jeunesse auprès de quelqu'un, passer sa jeunesse à servir quelqu'un.</dictScrap>
+<dictScrap><oVar>User</oVar> sa jeunesse auprès de quelqu'un, passer sa jeunesse à servir quelqu'un.</dictScrap>
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Fig. Détériorer les forces d'une personne. Ses campagnes l'ont usé. Rien n'use tant un homme que les excès.</dictScrap>
+<dictScrap>Fig. Détériorer les forces d'une personne. Ses campagnes l'ont usé. Rien n'<oVar>use</oVar> tant un homme que les excès.</dictScrap>
 <cit>
 <quote>Ce prince [Ptolémée Philopator] avait usé par son intempérance et par ses débauches un corps vigoureux et robuste</quote>
 <bibl>
@@ -10648,7 +10647,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>User ses yeux à force de lire, s'affaiblir la vue à force de lire.</dictScrap>
+<dictScrap><oVar>User</oVar> ses yeux à force de lire, s'affaiblir la vue à force de lire.</dictScrap>
 <cit>
 <quote>Il [David] use ses yeux à la lire [la loi] nuit et jour</quote>
 <bibl>
@@ -10659,9 +10658,9 @@
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Diminuer par le frottement. User une pierre. User une pointe de couteau.</dictScrap>
+<dictScrap>Diminuer par le frottement. <oVar>User</oVar> une pierre. <oVar>User</oVar> une pointe de couteau.</dictScrap>
 <sense>
-<dictScrap>Ancien terme de chirurgie. Consumer, corroder. Cette poudre use les chairs.</dictScrap>
+<dictScrap>Ancien terme de chirurgie. Consumer, corroder. Cette poudre <oVar>use</oVar> les chairs.</dictScrap>
 </sense>
 </sense>
 <sense n="7">
@@ -10682,7 +10681,7 @@
 </cit>
 </sense>
 <sense n="8">
-<dictScrap>Substantivement, il se dit des choses qui durent longtemps. C'est une marchandise qu'on ne peut connaître qu'à l'user. Certaines étoffes deviennent plus belles à l'user.</dictScrap>
+<dictScrap>Substantivement, il se dit des choses qui durent longtemps. C'est une marchandise qu'on ne peut connaître qu'à l'<oVar>user</oVar>. Certaines étoffes deviennent plus belles à l'<oVar>user</oVar>.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -10694,7 +10693,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. Cet homme est bon à l'user, plus on le connaît, plus on l'apprécie.</dictScrap>
+<dictScrap>Fig. Cet homme est bon à l'<oVar>user</oVar>, plus on le connaît, plus on l'apprécie.</dictScrap>
 <cit>
 <quote>Je doute qu'il [Pommereuil] soit aussi bon à l'user que votre intendant [de Provence], que vous aviez si bien apprivoisé</quote>
 <bibl>
@@ -10704,7 +10703,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>On dit aussi : On ne connaît bien les gens qu'à l'user.</dictScrap>
+<dictScrap>On dit aussi : On ne connaît bien les gens qu'à l'<oVar>user</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="9">
@@ -10755,7 +10754,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>En usez-vous ? se dit en présentant une tabatière ouverte, pour offrir du tabac.</dictScrap>
+<dictScrap>En <oVar>usez</oVar>-vous ? se dit en présentant une tabatière ouverte, pour offrir du tabac.</dictScrap>
 <cit>
 <quote>Le seul moyen dont il s'avisa pour cela, ce fut de tirer sa tabatière, et puis, me la présentant ouverte : Mademoiselle en use-t-elle ? me dit-il</quote>
 <bibl>
@@ -10765,10 +10764,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>En usez-vous ? pour prenez-vous du tabac ? blâmé par Mme de Genlis, Mém. t. v, p. 91. On ne voit pas pourquoi ; en tous cas la locution est déjà dans Marivaux.</dictScrap>
+<dictScrap>En <oVar>usez</oVar>-vous ? pour prenez-vous du tabac ? blâmé par Mme de Genlis, Mém. t. v, p. 91. On ne voit pas pourquoi ; en tous cas la locution est déjà dans Marivaux.</dictScrap>
 </sense>
 <sense>
-<dictScrap>User de sa femme, avoir avec elle des rapports conjugaux.</dictScrap>
+<dictScrap><oVar>User</oVar> de sa femme, avoir avec elle des rapports conjugaux.</dictScrap>
 <cit>
 <quote>Il n'usait de sa femme que très modérément, et après des préparations relatives à la santé de l'enfant</quote>
 <bibl>
@@ -10837,7 +10836,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>User bien ou mal de quelque chose, en faire un bon, un mauvais usage.</dictScrap>
+<dictScrap><oVar>User</oVar> bien ou mal de quelque chose, en faire un bon, un mauvais usage.</dictScrap>
 <cit>
 <quote>Ptolémée : L'occasion vous rit, et vous en userez. - Cléopâtre : Si je n'en use bien, vous m'en accuserez</quote>
 <bibl>
@@ -10855,7 +10854,7 @@
 </sense>
 </sense>
 <sense n="11">
-<dictScrap>En user, agir, se conduire de telle ou telle façon.</dictScrap>
+<dictScrap>En <oVar>user</oVar>, agir, se conduire de telle ou telle façon.</dictScrap>
 <cit>
 <quote>Ne cherchez point cette déesse [la Fortune], Elle vous cherchera : son sexe en use ainsi</quote>
 <bibl>
@@ -10913,10 +10912,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>En user librement, familièrement avec quelqu'un, avoir avec quelqu'un une manière d'agir libre, familière. Je vous demande pardon si j'en use si librement, si familièrement avec vous.</dictScrap>
+<dictScrap>En <oVar>user</oVar> librement, familièrement avec quelqu'un, avoir avec quelqu'un une manière d'agir libre, familière. Je vous demande pardon si j'en <oVar>use</oVar> si librement, si familièrement avec vous.</dictScrap>
 </sense>
 <sense>
-<dictScrap>En user bien, en user mal avec quelqu'un, agir bien ou mal avec lui.</dictScrap>
+<dictScrap>En <oVar>user</oVar> bien, en <oVar>user</oVar> mal avec quelqu'un, agir bien ou mal avec lui.</dictScrap>
 <cit>
 <quote>Le maréchal de Saint-André est un jeune favori audacieux qui n'en use pas mieux avec moi que les autres</quote>
 <bibl>
@@ -10927,7 +10926,7 @@
 </sense>
 </sense>
 <sense n="12">
-<dictScrap>S'user, v. réfl. Se détériorer par l'usage.</dictScrap>
+<dictScrap>S'<oVar>user</oVar>, v. réfl. Se détériorer par l'usage.</dictScrap>
 <cit>
 <quote>Ma culotte s'use en deux ou trois endroits</quote>
 <bibl>
@@ -10947,7 +10946,7 @@
 </sense>
 </sense>
 <sense n="13">
-<dictScrap>Être diminué par frottement. Les marches d'un escalier s'usent à la longue.</dictScrap>
+<dictScrap>Être diminué par frottement. Les marches d'un escalier s'<oVar>usent</oVar> à la longue.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -10997,7 +10996,7 @@
 <dictScrap>Devenir stérile en parlant des terres.</dictScrap>
 </sense>
 <sense n="17">
-<dictScrap>Perdre son crédit sur l'opinion. Bonaparte vacille, tergiverse, perd et s'use, Papiers saisis à Bareuth, p. 150.</dictScrap>
+<dictScrap>Perdre son crédit sur l'opinion. Bonaparte vacille, tergiverse, perd et s'<oVar>use</oVar>, Papiers saisis à Bareuth, p. 150.</dictScrap>
 </sense>
 <note type="remarque">
 <p>1. Dans le sens de se servir de, l'ancienne langue l'employait souvent activement ; et Régnier a encore cet emploi : Mille autres caresses Qu'usent à leurs amants les plus douces maîtresses, Élég. II. </p>
@@ -11378,7 +11377,7 @@
 <gram>v. a.</gram>
 </form>
 <sense>
-<dictScrap>Terme de technologie Soumettre une pièce ébauchée à l'action d'une machine-outil. Usiner une bielle, un excentrique, un canon, une culasse ; il s'emploie pour distinguer le travail par une machine-outil du travail fait à la main.</dictScrap>
+<dictScrap>Terme de technologie Soumettre une pièce ébauchée à l'action d'une machine-outil. <oVar>Usiner</oVar> une bielle, un excentrique, un canon, une culasse ; il s'emploie pour distinguer le travail par une machine-outil du travail fait à la main.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="usinier">
@@ -11535,7 +11534,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Drap d'Usseau, drap fabriqué à Usseau, village près de Carcassonne, FURETIÈRE.</dictScrap>
+<dictScrap>Drap d'<oVar>Usseau</oVar>, drap fabriqué à <oVar>Usseau</oVar>, village près de Carcassonne, FURETIÈRE.</dictScrap>
 <sense>
 <dictScrap>On a écrit aussi drap du sceau, à tort.</dictScrap>
 <cit>
@@ -11572,7 +11571,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Divers instruments propres à certains arts. Les ustensiles du jardinage.</dictScrap>
+<dictScrap>Divers instruments propres à certains arts. Les <oVar>ustensiles</oVar> du jardinage.</dictScrap>
 <cit>
 <quote>Le lendemain je ne trouvai pour ustensile de toilette qu'une assiette à soupe avec une bouteille de verre en guise de pot à l'eau</quote>
 <bibl>
@@ -11598,7 +11597,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Ancien terme d'administration militaire. Droit pour les troupes de passage de prendre chez l'habitant le lit, le pot et place au feu et à la chandelle. L'ustensile était quelquefois fourni en argent.</dictScrap>
+<dictScrap>Ancien terme d'administration militaire. Droit pour les troupes de passage de prendre chez l'habitant le lit, le pot et place au feu et à la chandelle. L'<oVar>ustensile</oVar> était quelquefois fourni en argent.</dictScrap>
 </sense>
 <note type="remarque">Le genre de ce mot a varié : <cit><quote>Dont pour toute ustensile Pierre faisait subsister sa famille</quote><bibl><author>LA FONT.</author><biblScope>Jum.</biblScope></bibl></cit> <cit><quote>On abandonnait le lieu ; les ustensiles sacrées étaient perdues</quote><bibl><author>FONT.</author><biblScope>Oracles, II, 2</biblScope></bibl></cit> Aujourd'hui le mot est masculin. </note>
 <note type="historique">
@@ -11669,7 +11668,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Action de brûler La sépulture par ustion pratiquée chez les Romains.</dictScrap>
+<dictScrap>Action de brûler La sépulture par <oVar>ustion</oVar> pratiquée chez les Romains.</dictScrap>
 <cit>
 <quote>L'ustion des corps [morts]</quote>
 <bibl>
@@ -11727,7 +11726,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Dont on se sert ordinairement. Termes usuels.</dictScrap>
+<dictScrap>Dont on se sert ordinairement. Termes <oVar>usuels</oVar>.</dictScrap>
 <cit>
 <quote>J'honore les remèdes qu'on appelle usuels</quote>
 <bibl>
@@ -11750,7 +11749,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Les arts usuels, les métiers qui fournissent aux besoins communs, Règlem. de l'expos. univ. de 1867.</dictScrap>
+<dictScrap>Les arts <oVar>usuels</oVar>, les métiers qui fournissent aux besoins communs, Règlem. de l'expos. univ. de 1867.</dictScrap>
 </sense>
 </sense>
 <etym>Provenç. et espagn. usual ; ital. usuale du lat. usualis, de usus, usage (voy. <ref target="us.1">US 1</ref>).</etym>
@@ -11762,7 +11761,7 @@
 <gram>adv.</gram>
 </form>
 <sense>
-<dictScrap>D'une manière usuelle. Cela se dit usuellement.</dictScrap>
+<dictScrap>D'une manière usuelle. Cela se dit <oVar>usuellement</oVar>.</dictScrap>
 </sense>
 <etym>Usuelle, et le suffixe ment.</etym>
 </entry>
@@ -11784,7 +11783,7 @@
 <quote>Le douaire coutumier était un droit usufructuaire, attendu qu'il consistait dans l'usufruit de la moitié des biens du mari</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 </sense>
@@ -11797,7 +11796,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de droit. Démembrement du droit de propriété, qui comprend le droit de se servir de la chose pour l'usage auquel elle est destinée, et le droit de percevoir les fruits et produits de la chose ; mais qui diffère de la propriété en ce qu'il ne donne ni le droit de détruire ou d'aliéner la chose, ni la perpétuité, l'usufruit étant essentiellement viager.</dictScrap>
+<dictScrap>Terme de droit. Démembrement du droit de propriété, qui comprend le droit de se servir de la chose pour l'usage auquel elle est destinée, et le droit de percevoir les fruits et produits de la chose ; mais qui diffère de la propriété en ce qu'il ne donne ni le droit de détruire ou d'aliéner la chose, ni la perpétuité, l'<oVar>usufruit</oVar> étant essentiellement viager.</dictScrap>
 <cit>
 <quote>Mme de la Fayette assure tout son bien, elle n'en veut que l'usufruit</quote>
 <bibl>
@@ -11838,7 +11837,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Usufruit légal, droit de jouissance du père et de la mère sur les biens de leurs enfants mineurs.</dictScrap>
+<dictScrap><oVar>Usufruit</oVar> légal, droit de jouissance du père et de la mère sur les biens de leurs enfants mineurs.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -11894,7 +11893,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Adj. Réparations usufruitières, réparations à la charge de l'usufruitier.</dictScrap>
+<dictScrap>Adj. Réparations usufruitières, réparations à la charge de l'<oVar>usufruitier</oVar>.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -11927,9 +11926,9 @@
 <gram>loc. adv.</gram>
 </form>
 <sense>
-<dictScrap>lat. Littéralement, à l'usage. Se dit d'une collection de livres rassemblés pour un but spécial : telle est l'édition des auteurs latins ad usum Delphini, édition faite à l'usage du Dauphin, fils de Louis XIV, par l'ordre de son gouverneur le duc de Montausier, et exécutée par divers savants.</dictScrap>
+<dictScrap>lat. Littéralement, à l'usage. Se dit d'une collection de livres rassemblés pour un but spécial : telle est l'édition des auteurs latins ad <oVar>usum</oVar> Delphini, édition faite à l'usage du Dauphin, fils de Louis XIV, par l'ordre de son gouverneur le duc de Montausier, et exécutée par divers savants.</dictScrap>
 <sense>
-<dictScrap>On dit substantivement : un ad usum.</dictScrap>
+<dictScrap>On dit substantivement : un ad <oVar>usum</oVar>.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -12013,7 +12012,7 @@
 <gram>adv.</gram>
 </form>
 <sense>
-<dictScrap>D'une manière usuraire. Dans un temps de révolution, il aurait été peut-être permis de dire aux créanciers qui ont prêté usurairement : Tu m'as fourni telle somme.... Décret du 23 floréal, an II, rapport Cambon, p. 92.</dictScrap>
+<dictScrap>D'une manière usuraire. Dans un temps de révolution, il aurait été peut-être permis de dire aux créanciers qui ont prêté <oVar>usurairement</oVar> : Tu m'as fourni telle somme.... Décret du 23 floréal, an II, rapport Cambon, p. 92.</dictScrap>
 </sense>
 <etym>Usuraire, et le suffixe ment.</etym>
 </entry>
@@ -12092,7 +12091,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fig. Avec usure, en rendant plus qu'on n'a reçu.</dictScrap>
+<dictScrap>Fig. Avec <oVar>usure</oVar>, en rendant plus qu'on n'a reçu.</dictScrap>
 <cit>
 <quote>Notre affection Ajoute avec usure à la perfection</quote>
 <bibl>
@@ -12131,9 +12130,9 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Détérioration par suite d'un long usage. L'usure des habits.</dictScrap>
+<dictScrap>Détérioration par suite d'un long usage. L'<oVar>usure</oVar> des habits.</dictScrap>
 <sense>
-<dictScrap>Se dit en hippiatrie. Usure des dents, des fers.</dictScrap>
+<dictScrap>Se dit en hippiatrie. <oVar>Usure</oVar> des dents, des fers.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
@@ -12395,10 +12394,10 @@
 <biblScope>Mœurs, 191</biblScope>
 </bibl>
 </cit>
-<dictScrap>... ma chère patrie Par une usurpatrice indignement flétrie [Élisabeth], P. LEBRUN, Marie St. II, 2.</dictScrap>
+<dictScrap>... ma chère patrie Par une <oVar>usurpatrice</oVar> indignement flétrie [Élisabeth], P. LEBRUN, Marie St. II, 2.</dictScrap>
 </sense>
 <sense>
-<dictScrap>L'usurpateur, qualification que les royalistes donnaient à Napoléon Ier, et que leurs adversaires employaient souvent par ironie.</dictScrap>
+<dictScrap>L'<oVar>usurpateur</oVar>, qualification que les royalistes donnaient à Napoléon Ier, et que leurs adversaires employaient souvent par ironie.</dictScrap>
 <cit>
 <quote>Il n'est vilain qui, pour se faire un peu décrasser, n'aille du roi à l'usurpateur et de l'usurpateur au roi</quote>
 <bibl>
@@ -12623,7 +12622,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Fig. Obtenir quelque chose par fraude, sans droit légitime. Usurper la réputation, la gloire, l'estime.</dictScrap>
+<dictScrap>Fig. Obtenir quelque chose par fraude, sans droit légitime. <oVar>Usurper</oVar> la réputation, la gloire, l'estime.</dictScrap>
 <cit>
 <quote>Il défendait les découvertes d'autrui contre ceux qu'il soupçonnait de vouloir les usurper ou les nier</quote>
 <bibl>
@@ -12633,7 +12632,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>V. n. Usurper sur, s'emparer au détriment de.... Vous usurpez sur mes droits.</dictScrap>
+<dictScrap>V. n. <oVar>Usurper</oVar> sur, s'emparer au détriment de.... Vous usurpez sur mes droits.</dictScrap>
 <cit>
 <quote>Moins le gouvernement peut usurper sur le souverain....</quote>
 <bibl>
@@ -12642,7 +12641,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Ce laboureur tâche toujours d'usurper sur ses voisins, d'accroître son terrain en poussant sa culture sur la leur.</dictScrap>
+<dictScrap>Ce laboureur tâche toujours d'<oVar>usurper</oVar> sur ses voisins, d'accroître son terrain en poussant sa culture sur la leur.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -12723,16 +12722,16 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Gare l'ut, criaient, dit-on, dans la première moitié du XVIIIe siècle, Rebel et Francœur, les petits violons de l'Opéra, aux violonistes qu'ils dirigeaient, dans les rares moments où ces derniers étaient obligés de démancher.</dictScrap>
+<dictScrap>Gare l'<oVar>ut</oVar>, criaient, dit-on, dans la première moitié du XVIIIe siècle, Rebel et Francœur, les petits violons de l'Opéra, aux violonistes qu'ils dirigeaient, dans les rares moments où ces derniers étaient obligés de démancher.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Ut de poitrine, note sur-aiguë qu'ont possédée certains ténors de notre siècle, Lavigne, Duprez, Tamberlick, et qui a contribué à augmenter la célébrité de ces chanteurs.</dictScrap>
+<dictScrap><oVar>Ut</oVar> de poitrine, note sur-aiguë qu'ont possédée certains ténors de notre siècle, Lavigne, Duprez, Tamberlick, et qui a contribué à augmenter la célébrité de ces chanteurs.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Le signe qui représente l'ut.</dictScrap>
+<dictScrap>Le signe qui représente l'<oVar>ut</oVar>.</dictScrap>
 <sense>
-<dictScrap>On a généralement remplacé de nos jours ut par do, mais en solfiant seulement. Hors de là, on dit toujours ut. Un ut de poitrine, une clef d'ut, la symphonie en ut mineur de Beethoven.</dictScrap>
+<dictScrap>On a généralement remplacé de nos jours <oVar>ut</oVar> par do, mais en solfiant seulement. Hors de là, on dit toujours <oVar>ut</oVar>. Un <oVar>ut</oVar> de poitrine, une clef d'<oVar>ut</oVar>, la symphonie en <oVar>ut</oVar> mineur de Beethoven.</dictScrap>
 </sense>
 </sense>
 <etym>Voy. <ref target="fa">FA</ref>.</etym>
@@ -12982,15 +12981,15 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Terme d'administration et de procédure. En temps utile, dans le temps prescrit, déterminé.</dictScrap>
+<dictScrap>Terme d'administration et de procédure. En temps <oVar>utile</oVar>, dans le temps prescrit, déterminé.</dictScrap>
 <sense>
-<dictScrap>Jours utiles, les jours qui sont comptés dans les délais accordés par les lois et dans lesquels les parties peuvent réciproquement agir en justice.</dictScrap>
+<dictScrap>Jours <oVar>utiles</oVar>, les jours qui sont comptés dans les délais accordés par les lois et dans lesquels les parties peuvent réciproquement agir en justice.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Ordre utile, le rang des créanciers qui, d'après la date de leur hypothèque, seront payés sur les biens du débiteur.</dictScrap>
+<dictScrap>Ordre <oVar>utile</oVar>, le rang des créanciers qui, d'après la date de leur hypothèque, seront payés sur les biens du débiteur.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Domaine utile, les fruits, les revenus d'une terre.</dictScrap>
+<dictScrap>Domaine <oVar>utile</oVar>, les fruits, les revenus d'une terre.</dictScrap>
 <cit>
 <quote>Les papes eurent des domaines utiles dans la Pentapole comme ailleurs ; mais ils ne furent souverains ni sous Pepin, ni sous Charlemagne, qui eurent la juridiction suprême</quote>
 <bibl>
@@ -13000,11 +12999,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Seigneur utile, celui qui possédait les revenus et non le fonds.</dictScrap>
+<dictScrap>Seigneur <oVar>utile</oVar>, celui qui possédait les revenus et non le fonds.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>S. m. Ce qui est utile.</dictScrap>
+<dictScrap>S. m. Ce qui est <oVar>utile</oVar>.</dictScrap>
 <cit>
 <quote>Nous y rencontrerions l'utile et l'honorable</quote>
 <bibl>
@@ -13095,7 +13094,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Terme de procédure. Être utilement colloqué, être colloqué en ordre utile.</dictScrap>
+<dictScrap>Terme de procédure. Être <oVar>utilement</oVar> colloqué, être colloqué en ordre utile.</dictScrap>
 </sense>
 </sense>
 <etym>Utile, et le suffixe ment ; provenç. utilment ; espagn. et ital. utilmente.</etym>
@@ -13111,7 +13110,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui peut être utilisé. Des observations utilisables.</dictScrap>
+<dictScrap>Qui peut être utilisé. Des observations <oVar>utilisables</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="utilisation">
@@ -13138,7 +13137,7 @@
 <gram>v. a.</gram>
 </form>
 <sense>
-<dictScrap>Tirer de l'utilité, tirer parti d'une chose. Utiliser son temps.</dictScrap>
+<dictScrap>Tirer de l'utilité, tirer parti d'une chose. <oVar>Utiliser</oVar> son temps.</dictScrap>
 </sense>
 <etym>Utile. Ce verbe paraît avoir été créé depuis la révolution.</etym>
 </entry>
@@ -13154,7 +13153,7 @@
 <dictScrap>Se dit d'une école fondée par Bentham au commencement de ce siècle ; elle ne reconnaît pour principe du bien que l'utilité générale.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Substantivement. Un utilitaire. Les utilitaires.</dictScrap>
+<dictScrap>Substantivement. Un <oVar>utilitaire</oVar>. Les <oVar>utilitaires</oVar>.</dictScrap>
 </sense>
 </sense>
 <re ana="supplement">
@@ -13356,7 +13355,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Mots latins qui s'emploient surtout en diplomatie pour dire : comme chacun possède. La base du traité fut l'uti possidetis, c'est-à-dire que chaque puissance conserverait ce dont elle était en possession.</dictScrap>
+<dictScrap>Mots latins qui s'emploient surtout en diplomatie pour dire : comme chacun possède. La base du traité fut l'<oVar>uti</oVar> possidetis, c'est-à-dire que chaque puissance conserverait ce dont elle était en possession.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -13379,10 +13378,10 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Pays imaginaire où tout est réglé au mieux, décrit dans un livre de Thomas Morus qui porte ce titre. Chaque rêveur imagine son Utopie (avec majuscule).</dictScrap>
+<dictScrap>Pays imaginaire où tout est réglé au mieux, décrit dans un livre de Thomas Morus qui porte ce titre. Chaque rêveur imagine son <oVar>Utopie</oVar> (avec majuscule).</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Fig. Plan de gouvernement imaginaire, où tout est parfaitement réglé pour le bonheur de chacun, et qui, dans la pratique, donne le plus souvent des résultats contraires à ce qu'on espérait (avec une minuscule). Se créer une utopie. De vaines utopies.</dictScrap>
+<dictScrap>Fig. Plan de gouvernement imaginaire, où tout est parfaitement réglé pour le bonheur de chacun, et qui, dans la pratique, donne le plus souvent des résultats contraires à ce qu'on espérait (avec une minuscule). Se créer une <oVar>utopie</oVar>. De vaines <oVar>utopies</oVar>.</dictScrap>
 <sense>
 <dictScrap>Projet imaginaire.</dictScrap>
 </sense>
@@ -13475,14 +13474,14 @@
 <sense n="1">
 <dictScrap>Qui a la forme d'un utricule.</dictScrap>
 <sense>
-<dictScrap>Terme de botanique. Tissu utriculaire, tissu cellulaire des plantes. Glandes utriculaires, petites loges qui ont la forme d'ampoules et contiennent un fluide aqueux ; on les trouve à la surface de certaines plantes ; exemple : la glaciale.</dictScrap>
+<dictScrap>Terme de botanique. Tissu <oVar>utriculaire</oVar>, tissu cellulaire des plantes. Glandes utriculaires, petites loges qui ont la forme d'ampoules et contiennent un fluide aqueux ; on les trouve à la surface de certaines plantes ; exemple : la glaciale.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Terme d'anatomie. Glandes utriculaires, follicules du gros intestin ou du col de l'utérus dont l'extrémité en cul-de-sac est renflée.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>S. f. Utriculaire, genre de plantes qui sert de type à la famille des utriculariées ; on y distingue l'utriculaire vulgaire, commune dans les eaux stagnantes</dictScrap>
+<dictScrap>S. f. <oVar>Utriculaire</oVar>, genre de plantes qui sert de type à la famille des utriculariées ; on y distingue l'<oVar>utriculaire</oVar> vulgaire, commune dans les eaux stagnantes</dictScrap>
 </sense>
 <etym>Utricule.</etym>
 </entry>
@@ -13508,7 +13507,7 @@
 <dictScrap>Renflement du labyrinthe membraneux de l'oreille.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Utricule prostatique, organe en forme de poche piriforme, situé sur la ligne médiane entre les deux canaux déférents, à la face uréthrale de la prostate.</dictScrap>
+<dictScrap><oVar>Utricule</oVar> prostatique, organe en forme de poche piriforme, situé sur la ligne médiane entre les deux canaux déférents, à la face uréthrale de la prostate.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -13605,7 +13604,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Mots latins qui signifient raisin d'ours, et dont on se sert parfois pour désigner l'arbousier raisin d'ours (éricacées), arctostaphylos uva ursi</dictScrap>
+<dictScrap>Terme de botanique. Mots latins qui signifient raisin d'ours, et dont on se sert parfois pour désigner l'arbousier raisin d'ours (éricacées), arctostaphylos <oVar>uva</oVar> ursi</dictScrap>
 </sense>
 </entry>
 <entry xml:id="uve">
@@ -13694,7 +13693,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide uvique, synonyme d'acide tartrique.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>uvique</oVar>, synonyme d'acide tartrique.</dictScrap>
 </sense>
 <etym>Lat. uva, raisin.</etym>
 </entry>

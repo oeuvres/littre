@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_y">
+<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_y">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -39,7 +38,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Dans les lettres numérales employées au moyen âge, Y valait 150 ; surmonté d'un trait, il valait 150 000.</dictScrap>
+<dictScrap>Dans les lettres numérales employées au moyen âge, <oVar>Y</oVar> valait 150 ; surmonté d'un trait, il valait 150 000.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Sert souvent en algèbre à désigner une inconnue.</dictScrap>
@@ -51,7 +50,7 @@
 <dictScrap>Sur les anciennes monnaies de France, marque celles qui ont été frappées à Bourges.</dictScrap>
 </sense>
 <sense n="6">
-<dictScrap>Poinçon d'acier au bout duquel est empreint un Y, pour frapper ou imprimer cette lettre.</dictScrap>
+<dictScrap>Poinçon d'acier au bout duquel est empreint un <oVar>Y</oVar>, pour frapper ou imprimer cette lettre.</dictScrap>
 </sense>
 <sense n="7">
 <dictScrap>Outil des glaciers.</dictScrap>
@@ -60,7 +59,7 @@
 <dictScrap>Espèce de papillon.</dictScrap>
 </sense>
 <sense n="9">
-<dictScrap>Embranchement en forme d'y.</dictScrap>
+<dictScrap>Embranchement en forme d'<oVar>y</oVar>.</dictScrap>
 <cit>
 <quote>Cette grande chaîne qui, en s'abaissant graduellement, vient aboutir à la Méditerranée, se divise là comme un y grec en deux branches inégales</quote>
 <bibl>
@@ -103,7 +102,7 @@
 <note>Ce mot est l'objet de la même discussion que en. Le Dict. de l'Académie le nomme adverbe relatif ; M. Jullien y voit un nom de lieu qui, rationnellement, est le cas attributif du nom abstrait ce, ceci, cela. Le fait est que y, représentant le latin ibi, est, d'abord et étymologiquement, un adverbe de lieu, ou, si l'on veut, plus exactement, un nom de lieu pris adverbialement. Après cette signification primitive, y, par extension, est employé à exprimer toute sorte de rapports. </note>
 </form>
 <sense n="1">
-<dictScrap>En cet endroit-là. Voulez-vous y aller? Rendez-vous-y. J'y cours.</dictScrap>
+<dictScrap>En cet endroit-là. Voulez-vous <oVar>y</oVar> aller? Rendez-vous-<oVar>y</oVar>. J'<oVar>y</oVar> cours.</dictScrap>
 <cit>
 <quote>La Provence est mon pays depuis que vous y êtes</quote>
 <bibl>
@@ -154,7 +153,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Y avec s'en retourner, s'en aller, s'en venir.</dictScrap>
+<dictScrap><oVar>Y</oVar> avec s'en retourner, s'en aller, s'en venir.</dictScrap>
 <cit>
 <quote>J'ai ici un honnête homme de Lyon, qui s'y en retournera après Pâques</quote>
 <bibl>
@@ -172,7 +171,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Du sens d'adverbe de lieu, y passe au rôle de pronom (comme où qui, du rôle d'adverbe de lieu, passe au rôle de pronom relatif dans : le bonheur où j'aspire), et signifie en ce, en ceci, en cela, en cette chose, en ces choses.</dictScrap>
+<dictScrap>Du sens d'adverbe de lieu, <oVar>y</oVar> passe au rôle de pronom (comme où qui, du rôle d'adverbe de lieu, passe au rôle de pronom relatif dans : le bonheur où j'aspire), et signifie en ce, en ceci, en cela, en cette chose, en ces choses.</dictScrap>
 <cit>
 <quote>Pour toutes les opinions que j'avais reçues jusques alors en ma créance, je ne pouvais mieux faire que d'entreprendre une bonne fois de les en ôter, afin d'y en remettre par après ou d'autres meilleures ou bien les mêmes...</quote>
 <bibl>
@@ -341,7 +340,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fiez-vous-y, se dit quelque fois par antiphrase et signifie : ne vous y fiez pas (ne vous fiez pas à cette personne, à cette chose).</dictScrap>
+<dictScrap>Fiez-vous-<oVar>y</oVar>, se dit quelque fois par antiphrase et signifie : ne vous <oVar>y</oVar> fiez pas (ne vous fiez pas à cette personne, à cette chose).</dictScrap>
 </sense>
 <sense>
 <dictScrap>Il se dit d'une façon analogue avec un nom de personne.</dictScrap>
@@ -376,7 +375,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Y employé pour à lui, à elle, à eux, à elles, en parlant de personnes.</dictScrap>
+<dictScrap><oVar>Y</oVar> employé pour à lui, à elle, à eux, à elles, en parlant de personnes.</dictScrap>
 <cit>
 <quote>Pour ébranler mon cœur, Est-ce peu de Camille? y joignez-vous ma sœur?</quote>
 <bibl>
@@ -471,11 +470,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>L'usage moderne tend beaucoup à restreindre cet emploi de y ; il devient très capricieux, et vraiment on ne voit plus pourquoi, disant : y répondre en parlant de lettres, de raisons, on ne dit pas : y ressembler en parlant de choses qui sont semblables l'une à l'autre. Au mot y, l'Académie ne donne aucun exemple de ces emplois, et ceux qui sont cités ci-dessus sont pris dans le cours de son dictionnaire ; il s'ensuit que ces exemples appartiennent aux anciennes rédactions, et que la nouvelle les a systématiquement écartés. C'est un tort ; il faut au contraire protéger l'emploi de y, qui reste si commode.</dictScrap>
+<dictScrap>L'usage moderne tend beaucoup à restreindre cet emploi de <oVar>y</oVar> ; il devient très capricieux, et vraiment on ne voit plus pourquoi, disant : <oVar>y</oVar> répondre en parlant de lettres, de raisons, on ne dit pas : <oVar>y</oVar> ressembler en parlant de choses qui sont semblables l'une à l'autre. Au mot <oVar>y</oVar>, l'Académie ne donne aucun exemple de ces emplois, et ceux qui sont cités ci-dessus sont pris dans le cours de son dictionnaire ; il s'ensuit que ces exemples appartiennent aux anciennes rédactions, et que la nouvelle les a systématiquement écartés. C'est un tort ; il faut au contraire protéger l'emploi de <oVar>y</oVar>, qui reste si commode.</dictScrap>
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Y représente quelquefois une locution tout entière.</dictScrap>
+<dictScrap><oVar>Y</oVar> représente quelquefois une locution tout entière.</dictScrap>
 <cit>
 <quote>C'est assez mériter d'être réduit en cendre, D'y voir réduit tout l'isthme....</quote>
 <bibl>
@@ -555,7 +554,7 @@
 </cit>
 </sense>
 <sense n="6">
-<dictScrap>Y représente chez quelqu'un, auprès de quelqu'un, avec quelqu'un.</dictScrap>
+<dictScrap><oVar>Y</oVar> représente chez quelqu'un, auprès de quelqu'un, avec quelqu'un.</dictScrap>
 <cit>
 <quote>Je vois ce qu'il prétend auprès de l'empereur ; De ce qu'il me demande il m'y ferait un crime</quote>
 <bibl>
@@ -620,7 +619,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Il y est, il n'y est pas, se dit d'une personne qui est ou qui n'est pas à son logis.</dictScrap>
+<dictScrap>Il <oVar>y</oVar> est, il n'<oVar>y</oVar> est pas, se dit d'une personne qui est ou qui n'est pas à son logis.</dictScrap>
 <cit>
 <quote>Voyez pour quel sujet le sot nous interrompt ; Dis qu'elles n'y sont pas. - Champagne : J'ai dit qu'elles y sont</quote>
 <bibl>
@@ -630,11 +629,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Je n'y suis pour personne, je ne reçois personne, je me renferme chez moi, sans vouloir recevoir personne.</dictScrap>
+<dictScrap>Je n'<oVar>y</oVar> suis pour personne, je ne reçois personne, je me renferme chez moi, sans vouloir recevoir personne.</dictScrap>
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Y, en termes de pratique ou dans un langage analogue, se construit avec un participe passé ou un adjectif. Lisez l'acte ; les personnes y nommées. Les pièces y afférentes.</dictScrap>
+<dictScrap><oVar>Y</oVar>, en termes de pratique ou dans un langage analogue, se construit avec un participe passé ou un adjectif. Lisez l'acte ; les personnes <oVar>y</oVar> nommées. Les pièces <oVar>y</oVar> afférentes.</dictScrap>
 <cit>
 <quote>Assurez-vous, je vous supplie, que les corrections y marquées [dans une épreuve] auront été faites très exactement</quote>
 <bibl>
@@ -644,7 +643,7 @@
 </cit>
 </sense>
 <sense n="8">
-<dictScrap>Il est quelquefois explétif. Il n'y voit pas, il n'y voit goutte.</dictScrap>
+<dictScrap>Il est quelquefois explétif. Il n'<oVar>y</oVar> voit pas, il n'<oVar>y</oVar> voit goutte.</dictScrap>
 <cit>
 <quote>Quand déjà l'on n'y voit guère, Quand on a peine à marcher</quote>
 <bibl>
@@ -653,10 +652,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Il y a, voy. <ref target="avoir1#var16">AVOIR 1, au n° 16</ref>.</dictScrap>
+<dictScrap>Il <oVar>y</oVar> a, voy. <ref target="avoir1#var16">AVOIR 1, au n° 16</ref>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Il y va, voy. <ref target="aller#var25">ALLER, n° 25</ref>. C'est peut-être cette raison de l'énergie qui a consacré le pléonasme en certaines façons de parler, comme quand on dit :</dictScrap>
+<dictScrap>Il <oVar>y</oVar> va, voy. <ref target="aller#var25">ALLER, n° 25</ref>. C'est peut-être cette raison de l'énergie qui a consacré le pléonasme en certaines façons de parler, comme quand on dit :</dictScrap>
 <cit>
 <quote>C'est une affaire où il y va du salut de l'État, ce qui est mieux que si l'on disait : C'est une affaire où il va etc. en supprimant y qui est inutile à cause de où</quote>
 <bibl>
@@ -667,9 +666,9 @@
 </sense>
 </sense>
 <sense n="9">
-<dictScrap>Vous n'y êtes pas, vous ne l'entendez pas, et aussi vous n'aurez pas ce que vous pensez.</dictScrap>
+<dictScrap>Vous n'<oVar>y</oVar> êtes pas, vous ne l'entendez pas, et aussi vous n'aurez pas ce que vous pensez.</dictScrap>
 <sense>
-<dictScrap>Vous y êtes, vous avez deviné.</dictScrap>
+<dictScrap>Vous <oVar>y</oVar> êtes, vous avez deviné.</dictScrap>
 <cit>
 <quote>Faire tirer des fusées, des feux d'artifices? - Vous n'y êtes pas</quote>
 <bibl>
@@ -693,7 +692,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Vous y êtes, j'y suis, vous êtes, je suis au point voulu ; vous y voilà, m'y voilà, vous voilà, me voilà au point voulu.</dictScrap>
+<dictScrap>Vous <oVar>y</oVar> êtes, j'<oVar>y</oVar> suis, vous êtes, je suis au point voulu ; vous <oVar>y</oVar> voilà, m'<oVar>y</oVar> voilà, vous voilà, me voilà au point voulu.</dictScrap>
 <cit>
 <quote>Elle.... [la grenouille] se travaille Pour égaler l'animal [le bœuf] en grosseur, Disant : regardez bien, ma sœur : Est-ce assez, dites-moi? n'y suis-je point encore? , -N, enni. - M'y voici donc? - Point du tout. - M'y voilà</quote>
 <bibl>
@@ -704,7 +703,7 @@
 </sense>
 </sense>
 <sense n="10">
-<dictScrap>Dans le langage des classes, on dit qu'un vers n'y est pas, pour exprimer qu'il pèche contre les règles de la versification.</dictScrap>
+<dictScrap>Dans le langage des classes, on dit qu'un vers n'<oVar>y</oVar> est pas, pour exprimer qu'il pèche contre les règles de la versification.</dictScrap>
 </sense>
 <note type="remarque">
 <p>1. Y se place avant le verbe : il y va ; y est-il? à l'impératif il se place après : allons-y, excepté quand la phrase est négative : n'y allons pas. Cependant, même dans une phrase affirmative, s'il y a deux impératifs qui se suivent, un second y peut être mis avant le verbe.  <cit><quote>Allez présentement en la grande ville de Ninive, et y prêchez</quote><bibl><author>SACI</author><biblScope>Bible, Jonas, I, 2</biblScope></bibl></cit> </p>
@@ -889,7 +888,7 @@
 <re ana="supplement">
 <form> 2. Y. - REM. Ajoutez : </form>
 <sense n="12">
-<dictScrap>Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un y pléonastique dans ce membre.</dictScrap>
+<dictScrap>Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.</dictScrap>
 <cit>
 <quote>Où il n'y a rien, le roi y perd ses droits, et la nature aussi</quote>
 <bibl>
@@ -1247,7 +1246,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Ordre de Saint-Yon, congrégation plus connue sous le nom de frères des écoles chrétiennes, et consacrée à l'éducation des enfants du premier âge.</dictScrap>
+<dictScrap>Ordre de Saint-<oVar>Yon</oVar>, congrégation plus connue sous le nom de frères des écoles chrétiennes, et consacrée à l'éducation des enfants du premier âge.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="youyou">
@@ -1313,7 +1312,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Oxyde d'yttrium. L'yttria, dite aussi pierre d'yttria, fut découverte en 1791 par Gadolin, d'où elle a été nommée gadolinite.</dictScrap>
+<dictScrap>Terme de chimie. Oxyde d'yttrium. L'<oVar>yttria</oVar>, dite aussi pierre d'<oVar>yttria</oVar>, fut découverte en 1791 par Gadolin, d'où elle a été nommée gadolinite.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="yttrique">
