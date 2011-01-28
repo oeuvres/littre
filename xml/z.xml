@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_z">
+<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_z">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -38,7 +37,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Familièrement, il est fait comme un z, se dit d'un homme tortu.</dictScrap>
+<dictScrap>Familièrement, il est fait comme un <oVar>z</oVar>, se dit d'un homme tortu.</dictScrap>
 <cit>
 <quote>Et ma tête se penchant sur mon estomac, je ne ressemble pas mal à un z</quote>
 <bibl>
@@ -49,16 +48,16 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Dans les lettres numérales, z vaut 2000, et, surmonté d'un trait, il vaut 2 millions.</dictScrap>
+<dictScrap>Dans les lettres numérales, <oVar>z</oVar> vaut 2000, et, surmonté d'un trait, il vaut 2 millions.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Sur les monnaies de France, indique qu'elles ont été frappées à Grenoble.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>Dans les manuscrits grecs, Z se met devant les passages suspects.</dictScrap>
+<dictScrap>Dans les manuscrits grecs, <oVar>Z</oVar> se met devant les passages suspects.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Poinçon d'acier, au bout duquel est gravé un Z, pour frapper ou imprimer cette lettre.</dictScrap>
+<dictScrap>Poinçon d'acier, au bout duquel est gravé un <oVar>Z</oVar>, pour frapper ou imprimer cette lettre.</dictScrap>
 </sense>
 <etym></etym>
 </entry>
@@ -143,7 +142,7 @@
 <gram>adj. m.</gram>
 </form>
 <sense>
-<dictScrap>Cheval zain, celui qui, quelle que soit sa robe, ne présente aucun poil blanc.</dictScrap>
+<dictScrap>Cheval <oVar>zain</oVar>, celui qui, quelle que soit sa robe, ne présente aucun poil blanc.</dictScrap>
 <cit>
 <quote>Ils [les Espagnols] estiment les chevaux zains autant que nous les méprisons</quote>
 <bibl>
@@ -188,7 +187,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Zamenis verte et jaune, sorte de couleuvre, coluber atro-virens, Schl.</dictScrap>
+<dictScrap><oVar>Zamenis</oVar> verte et jaune, sorte de couleuvre, coluber atro-virens, Schl.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zamet">
@@ -228,7 +227,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Personnage bouffon dans les comédies italiennes. Les zani sont proprement les bouffons des opérateurs et des troupes de danseurs de corde, qui attirent des spectateurs par leurs plaisanteries et leurs grimaces.</dictScrap>
+<dictScrap>Personnage bouffon dans les comédies italiennes. Les <oVar>zani</oVar> sont proprement les bouffons des opérateurs et des troupes de danseurs de corde, qui attirent des spectateurs par leurs plaisanteries et leurs grimaces.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -1011,10 +1010,10 @@
 <dictScrap>Le commentaire, l'explication de la révélation de Zoroastre, soit, dans un sens restreint, la traduction pehlvie de l'Avesta, soit, dans un sens général, tous les écrits qui peuvent donner de la révélation une connaissance plus complète.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Nom donné, à tort, par Anquetil-Duperron, à la langue dans laquelle Zoroastre a écrit ses livres et qu'il serait mieux de nommer langue bactrienne ou langue bactro-persique. Livres écrits en zend. Le zend est très voisin de l'idiome des inscriptions cunéiformes persiques de Darius, d'Artaxerce II et d'Artaxerce III ; il est aussi très voisin du sanscrit.</dictScrap>
+<dictScrap>Nom donné, à tort, par Anquetil-Duperron, à la langue dans laquelle Zoroastre a écrit ses livres et qu'il serait mieux de nommer langue bactrienne ou langue bactro-persique. Livres écrits en <oVar>zend</oVar>. Le <oVar>zend</oVar> est très voisin de l'idiome des inscriptions cunéiformes persiques de Darius, d'Artaxerce II et d'Artaxerce III ; il est aussi très voisin du sanscrit.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Adj. Qui appartient au zend. Des livres zends. La langue zende.</dictScrap>
+<dictScrap>Adj. Qui appartient au <oVar>zend</oVar>. Des livres zends. La langue zende.</dictScrap>
 </sense>
 <etym>Zend, zanti ( a long), connaissance, commentaire, livre ; de la racine zan, connaître ; sanscr. Jna ( a long); lat. gnoscere, noscere.</etym>
 </entry>
@@ -1560,7 +1559,7 @@
 <quote>Se réduire au zéro</quote>
 <bibl>
 <author>COTGRAVE</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 </p>
@@ -1600,7 +1599,7 @@
 <pron>zèst'</pron>
 </form>
 <sense n="1">
-<dictScrap>Interjection familière et ironique dont on se sert pour repousser ce que dit une personne. Il se vante de cela : zest!</dictScrap>
+<dictScrap>Interjection familière et ironique dont on se sert pour repousser ce que dit une personne. Il se vante de cela : <oVar>zest</oVar>!</dictScrap>
 <sense>
 <dictScrap>On trouve aussi zeste.</dictScrap>
 <cit>
@@ -1612,7 +1611,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Elle indique aussi la promptitude. Zest! me voilà rendu.</dictScrap>
+<dictScrap>Elle indique aussi la promptitude. <oVar>Zest</oVar>! me voilà rendu.</dictScrap>
 </sense>
 <sense>
 <dictScrap>On trouve aussi zeste.</dictScrap>
@@ -1647,7 +1646,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Familièrement. Être entre le zist et le zest, être fort incertain sur le parti qu'on doit prendre.</dictScrap>
+<dictScrap>Familièrement. Être entre le zist et le <oVar>zest</oVar>, être fort incertain sur le parti qu'on doit prendre.</dictScrap>
 <sense>
 <dictScrap>Il se dit aussi d'une chose qui n'est ni bonne ni mauvaise.</dictScrap>
 <cit>
@@ -1659,7 +1658,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Zist est la forme variée de zest ; et le zist et le zest, c'est, comme on dit, bonnet blanc et blanc bonnet.</dictScrap>
+<dictScrap>Zist est la forme variée de <oVar>zest</oVar> ; et le zist et le <oVar>zest</oVar>, c'est, comme on dit, bonnet blanc et blanc bonnet.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -1680,10 +1679,10 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Séparation membraneuse qui divise l'intérieur d'une noix. Le zeste d'une noix.</dictScrap>
+<dictScrap>Séparation membraneuse qui divise l'intérieur d'une noix. Le <oVar>zeste</oVar> d'une noix.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Écorce extérieure, jaune et colorante, de l'orange ou du citron, séparée de la peau blanche et amère qui est au-dessous. Des zestes confits. Couper un zeste.</dictScrap>
+<dictScrap>Écorce extérieure, jaune et colorante, de l'orange ou du citron, séparée de la peau blanche et amère qui est au-dessous. Des <oVar>zestes</oVar> confits. Couper un <oVar>zeste</oVar>.</dictScrap>
 <cit>
 <quote>On dit qu'un Allemand a fait un livre sur un zeste de citron ; j'en aurais fait un sur chaque gramen des prés, sur chaque mousse des bois, sur chaque lichen qui tapisse les rochers</quote>
 <bibl>
@@ -1716,7 +1715,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Familièrement. Cela ne vaut pas un zeste, je n'en donnerais pas un zeste, se dit d'une chose de peu de valeur.</dictScrap>
+<dictScrap>Familièrement. Cela ne vaut pas un <oVar>zeste</oVar>, je n'en donnerais pas un <oVar>zeste</oVar>, se dit d'une chose de peu de valeur.</dictScrap>
 </sense>
 </sense>
 <etym>Wallon, zess ; du lat. schistus ; du grec, fendu, d'après Diez.</etym>
@@ -1788,7 +1787,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de rhétorique. Figure d'élocution plus connue sous le nom d'adjonction. Le zeugme a lieu quand un mot, déjà exprimé dans une proposition, est sous-entendu dans une autre proposition analogue à la première et attachée à celle-ci.</dictScrap>
+<dictScrap>Terme de rhétorique. Figure d'élocution plus connue sous le nom d'adjonction. Le <oVar>zeugme</oVar> a lieu quand un mot, déjà exprimé dans une proposition, est sous-entendu dans une autre proposition analogue à la première et attachée à celle-ci.</dictScrap>
 <cit>
 <quote>Le zeugme est simple quand le mot sous-entendu est exactement celui qui a été exprimé, par exemple : Je renonce à la Grèce, à Sparte, à mon empire, à ma famille</quote>
 <bibl>
@@ -1880,7 +1879,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Adj. Martre zibeline.</dictScrap>
+<dictScrap>Adj. Martre <oVar>zibeline</oVar>.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -1938,7 +1937,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme populaire. Celui qui a de l'entrain, de la gaieté dans le caractère, de la rondeur et de la simplicité dans les allures. Un bon zig.</dictScrap>
+<dictScrap>Terme populaire. Celui qui a de l'entrain, de la gaieté dans le caractère, de la rondeur et de la simplicité dans les allures. Un bon <oVar>zig</oVar>.</dictScrap>
 </sense>
 <etym>Suivant M. Maxime Du Camp, le peuple dit un bon zig comme synonyme d'un bon bougre ; or, quand les Bulgares (Bougres) envahirent le nord de l'empire d'Orient, ils étaient accompagnés d'une tribu nommée les Zigs.</etym>
 </entry>
@@ -1985,7 +1984,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On dit dans un sens analogue : aller, marcher en zigzag.</dictScrap>
+<dictScrap>On dit dans un sens analogue : aller, marcher en <oVar>zigzag</oVar>.</dictScrap>
 <cit>
 <quote>Un chemin tracé en zigzag</quote>
 <bibl>
@@ -2012,23 +2011,23 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Cet ivrogne fait des zigzags en marchant, il va tantôt d'un côté, tantôt d'un autre.</dictScrap>
+<dictScrap>Cet ivrogne fait des <oVar>zigzags</oVar> en marchant, il va tantôt d'un côté, tantôt d'un autre.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Zigzag dorsal, nom donné à une ligne brisée qui se trouve sur le dos de certaines espèces de vipères.</dictScrap>
+<dictScrap><oVar>Zigzag</oVar> dorsal, nom donné à une ligne brisée qui se trouve sur le dos de certaines espèces de vipères.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Petite machine, composée de tringles mobiles et disposées en losange, qui s'allongent ou se resserrent, suivant le mouvement qu'on lui donne par deux branches qui servent à la tenir. Donner une lettre par le moyen d'un zigzag.</dictScrap>
+<dictScrap>Petite machine, composée de tringles mobiles et disposées en losange, qui s'allongent ou se resserrent, suivant le mouvement qu'on lui donne par deux branches qui servent à la tenir. Donner une lettre par le moyen d'un <oVar>zigzag</oVar>.</dictScrap>
 <sense>
-<dictScrap>L'usage le plus remarquable du zigzag est l'emploi qu'on en fait dans le dévidoir.</dictScrap>
+<dictScrap>L'usage le plus remarquable du <oVar>zigzag</oVar> est l'emploi qu'on en fait dans le dévidoir.</dictScrap>
 </sense>
 <sense>
 <dictScrap>On emploie aussi ce système pour composer un jouet d'enfant, en faisant porter par chaque axe de rotation une petite figure de soldat.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Ornement en forme de zigzag.</dictScrap>
+<dictScrap>Ornement en forme de <oVar>zigzag</oVar>.</dictScrap>
 <cit>
 <quote>Les jambes [des femmes costumées à la grecque sous le Directoire] étaient toutes nues, les pieds chaussés d'un cothurne avec des zigzags à jour et en galon rouge, et ceci montait jusqu'à mi-jambe</quote>
 <bibl>
@@ -2072,7 +2071,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Métal qui existe, dans la nature, combiné avec le soufre dans la blende, et à l'état d'hydrate et d'oxyde dans la calamine. Couvrir un toit en zinc.</dictScrap>
+<dictScrap>Métal qui existe, dans la nature, combiné avec le soufre dans la blende, et à l'état d'hydrate et d'oxyde dans la calamine. Couvrir un toit en <oVar>zinc</oVar>.</dictScrap>
 <cit>
 <quote>On coule le zinc dans des moules de fer pour le réduire en saumons, qui pèsent depuis 50 jusqu'à 70 livres ; dans cet état les mineurs le nomment zinc arco, et dans le commerce on le nomme zinc en navettes</quote>
 <bibl>
@@ -2101,7 +2100,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fleurs de zinc, zinc sublimé par le feu.</dictScrap>
+<dictScrap>Fleurs de <oVar>zinc</oVar>, <oVar>zinc</oVar> sublimé par le feu.</dictScrap>
 </sense>
 <sense>
 <dictScrap>On a écrit zing.</dictScrap>
@@ -2170,12 +2169,12 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide zincique. Oxydes zinciques.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>zincique</oVar>. Oxydes zinciques.</dictScrap>
 <sense>
 <dictScrap>Se dit aussi des sels que forme cet oxyde.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Sulfure zincique, sulfure de zinc.</dictScrap>
+<dictScrap>Sulfure <oVar>zincique</oVar>, sulfure de zinc.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -2273,7 +2272,7 @@
 <sense>
 <dictScrap>Petite plante d'ornement.</dictScrap>
 <sense>
-<dictScrap>Au plur. Des Zinnia.</dictScrap>
+<dictScrap>Au plur. Des <oVar>Zinnia</oVar>.</dictScrap>
 </sense>
 </sense>
 <etym>Du nom de Godefroy Zinn, botaniste allemand.</etym>
@@ -2285,7 +2284,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Couleur d'un violet rougeâtre. C'est du zinzolin.</dictScrap>
+<dictScrap>Couleur d'un violet rougeâtre. C'est du <oVar>zinzolin</oVar>.</dictScrap>
 <cit>
 <quote>Ce grand serpent long de deux aunes, Tout parsemé de taches jaunes, De bleu, vert, gris, noir, zinzolin, Avait le regard très malin</quote>
 <bibl>
@@ -2294,7 +2293,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Adj. Zinzolin, zinzoline. Taffetas zinzolin.</dictScrap>
+<dictScrap>Adj. <oVar>Zinzolin</oVar>, zinzoline. Taffetas <oVar>zinzolin</oVar>.</dictScrap>
 <cit>
 <quote>Que l'aurore au visage gai D'une lumière zinzoline Enzinzolina la marine</quote>
 <bibl>
@@ -2398,7 +2397,7 @@
 <dictScrap>Se dit aussi des sels que forme cet oxyde.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Sulfure zirconique, sulfure de zirconium.</dictScrap>
+<dictScrap>Sulfure <oVar>zirconique</oVar>, sulfure de zirconium.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -2441,7 +2440,7 @@
 <sense>
 <dictScrap>Voy. <ref target="zest">ZEST</ref>.</dictScrap>
 <sense>
-<dictScrap>Quelques-uns appellent zist l'écorce intérieure des oranges ou l'enveloppe blanche qui est au-dessous du zeste.</dictScrap>
+<dictScrap>Quelques-uns appellent <oVar>zist</oVar> l'écorce intérieure des oranges ou l'enveloppe blanche qui est au-dessous du zeste.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -2489,7 +2488,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la zizanie aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la zizanie palustre, dite folle avoine et riz du Canada.</dictScrap>
+<dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la <oVar>zizanie</oVar> aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la <oVar>zizanie</oVar> palustre, dite folle avoine et riz du Canada.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -2532,7 +2531,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide zizyphique, acide cristallisable de l'extrait de jujubier.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>zizyphique</oVar>, acide cristallisable de l'extrait de jujubier.</dictScrap>
 </sense>
 <etym>Du grec jujube.</etym>
 </entry>
@@ -2545,7 +2544,7 @@
 <sense>
 <dictScrap>Nom donné par Blainville à un ordre de la classe des polypes, embranchement des rayonnés.</dictScrap>
 <sense>
-<dictScrap>Zoanthaires pierreux, les madrépores, les coraux, etc.</dictScrap>
+<dictScrap><oVar>Zoanthaires</oVar> pierreux, les madrépores, les coraux, etc.</dictScrap>
 </sense>
 </sense>
 <etym>Zoo..., et du grec fleur.</etym>
@@ -2598,7 +2597,7 @@
 <sense>
 <dictScrap>Qui appartient au zodiaque. Les signes zodiacaux.</dictScrap>
 <sense>
-<dictScrap>Lumière zodiacale, lumière de forme lenticulaire qui s'appuie sur l'horizon, et qui apparaît après le coucher du soleil à l'époque de l'équinoxe du printemps, et avant son lever à l'époque de l'équinoxe d'automne.</dictScrap>
+<dictScrap>Lumière <oVar>zodiacale</oVar>, lumière de forme lenticulaire qui s'appuie sur l'horizon, et qui apparaît après le coucher du soleil à l'époque de l'équinoxe du printemps, et avant son lever à l'époque de l'équinoxe d'automne.</dictScrap>
 <cit>
 <quote>Il [Cassini] a le premier observé et fait connaître la lumière zodiacale</quote>
 <bibl>
@@ -2630,7 +2629,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme d'astronomie. Zone de la sphère céleste s'étendant à huit degrés de part et d'autre de l'écliptique et dans laquelle sont toujours comprises les planètes anciennement connues. Le zodiaque est divisé en douze parties égales par de grands cercles perpendiculaires à l'écliptique, à partir de l'équinoxe du printemps ; ces douze parties sont les signes du zodiaque ; ils ont reçu les noms des constellations les plus rapprochées ; ces noms sont contenus dans ces deux vers mnémoniques : Sunt Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libraque, Scorpius, Arcitenens, Caper, Amphora, Pisces.</dictScrap>
+<dictScrap>Terme d'astronomie. Zone de la sphère céleste s'étendant à huit degrés de part et d'autre de l'écliptique et dans laquelle sont toujours comprises les planètes anciennement connues. Le <oVar>zodiaque</oVar> est divisé en douze parties égales par de grands cercles perpendiculaires à l'écliptique, à partir de l'équinoxe du printemps ; ces douze parties sont les signes du <oVar>zodiaque</oVar> ; ils ont reçu les noms des constellations les plus rapprochées ; ces noms sont contenus dans ces deux vers mnémoniques : Sunt Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libraque, Scorpius, Arcitenens, Caper, Amphora, Pisces.</dictScrap>
 <cit>
 <quote>On divisa, dit-il [Albategni], d'abord le zodiaque en quatre par les solstices et les équinoxes</quote>
 <bibl>
@@ -2654,7 +2653,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>La représentation du zodiaque. Le zodiaque de Dendérah.</dictScrap>
+<dictScrap>La représentation du <oVar>zodiaque</oVar>. Le <oVar>zodiaque</oVar> de Dendérah.</dictScrap>
 <cit>
 <quote>Champollion, qui.... s'était promis en 1828 de me rapporter d'Égypte des zodiaques pharaoniques, fut bien obligé de m'avouer à son retour qu'après avoir fouillé tous les monuments de ces anciennes époques.... il n'en avait nulle part découvert de vestiges</quote>
 <bibl>
@@ -2664,7 +2663,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Zodiaque des comètes, partie du ciel où la plupart des comètes ont leur mouvement.</dictScrap>
+<dictScrap><oVar>Zodiaque</oVar> des comètes, partie du ciel où la plupart des comètes ont leur mouvement.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -2802,7 +2801,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de géographie. Chacune des cinq grandes divisions du globe terrestre, que l'on conçoit séparées par des cercles parallèles à l'équateur. La surface de la terre est divisée en cinq zones : 1° deux zones glaciales, qui s'étendent des pôles jusqu'aux cercles polaires, à la distance de 23° 28', quantité égale à l'inclinaison de l'équateur sur l'écliptique ; pour tous les points de ces zones, le soleil reste, à certaines époques de l'année, sans se lever ou se coucher ; 2° une zone torride, qui s'étend jusqu'à 23° 28' de part et d'autre de l'équateur ; pour tous les points de cette zone, le soleil passe au zénith à certaines époques de l'année ; 3° deux zones tempérées, comprises entre la zone torride et les zones glaciales ; pour tous les points de ces zones, le soleil se lève et se couche chaque jour, sans jamais passer au zénith.</dictScrap>
+<dictScrap>Terme de géographie. Chacune des cinq grandes divisions du globe terrestre, que l'on conçoit séparées par des cercles parallèles à l'équateur. La surface de la terre est divisée en cinq <oVar>zones</oVar> : 1° deux <oVar>zones</oVar> glaciales, qui s'étendent des pôles jusqu'aux cercles polaires, à la distance de 23° 28', quantité égale à l'inclinaison de l'équateur sur l'écliptique ; pour tous les points de ces <oVar>zones</oVar>, le soleil reste, à certaines époques de l'année, sans se lever ou se coucher ; 2° une <oVar>zone</oVar> torride, qui s'étend jusqu'à 23° 28' de part et d'autre de l'équateur ; pour tous les points de cette <oVar>zone</oVar>, le soleil passe au zénith à certaines époques de l'année ; 3° deux <oVar>zones</oVar> tempérées, comprises entre la <oVar>zone</oVar> torride et les <oVar>zones</oVar> glaciales ; pour tous les points de ces <oVar>zones</oVar>, le soleil se lève et se couche chaque jour, sans jamais passer au zénith.</dictScrap>
 <cit>
 <quote>Le loup, qui, dans cette zone tempérée, est peut-être de tous les animaux le plus féroce, n'est pas, à beaucoup près, aussi terrible, aussi cruel que le tigre, la panthère, le lion de la zone torride, ou l'ours blanc, le loup cervier, l'hyène de la zone glacée</quote>
 <bibl>
@@ -2818,11 +2817,11 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fig. Passer la zone torride, traverser un endroit où le soleil est brûlant et où il n'y a pas d'ombre.</dictScrap>
+<dictScrap>Fig. Passer la <oVar>zone</oVar> torride, traverser un endroit où le soleil est brûlant et où il n'y a pas d'ombre.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Parties du ciel qui répondent aux divisions du globe terrestre appelées zones.</dictScrap>
+<dictScrap>Parties du ciel qui répondent aux divisions du globe terrestre appelées <oVar>zones</oVar>.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Région considérée par rapport à sa température.</dictScrap>
@@ -2847,14 +2846,14 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Particulièrement. La partie visible des couches superposées dont certaines pierres, certains terrains sont formés. Dans l'onyx on voit plusieurs zones. Des zones concentriques.</dictScrap>
+<dictScrap>Particulièrement. La partie visible des couches superposées dont certaines pierres, certains terrains sont formés. Dans l'onyx on voit plusieurs <oVar>zones</oVar>. Des <oVar>zones</oVar> concentriques.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Terme de physique. Zone lumineuse, phénomène qui accompagne l'aurore boréale, et qui consiste en une sorte d'arc-en-ciel étroit et souvent irrégulier.</dictScrap>
+<dictScrap>Terme de physique. <oVar>Zone</oVar> lumineuse, phénomène qui accompagne l'aurore boréale, et qui consiste en une sorte d'arc-en-ciel étroit et souvent irrégulier.</dictScrap>
 </sense>
 <sense n="7">
-<dictScrap>Il se dit d'un espace plus ou moins étendu que l'on compare à une bande, à une zone.</dictScrap>
+<dictScrap>Il se dit d'un espace plus ou moins étendu que l'on compare à une bande, à une <oVar>zone</oVar>.</dictScrap>
 <cit>
 <quote>Daniel Bernoulli nous a donné un savant mémoire où il cherche par quelle raison les orbites des planètes sont renfermées dans une très petite zone parallèle à l'écliptique, et qui n'est que la dix-septième partie de la sphère</quote>
 <bibl>
@@ -2884,7 +2883,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Terme de marine. Zone des vents alizés, des vents variables, etc., la partie du globe où ces vents règnent habituellement.</dictScrap>
+<dictScrap>Terme de marine. <oVar>Zone</oVar> des vents alizés, des vents variables, etc., la partie du globe où ces vents règnent habituellement.</dictScrap>
 <cit>
 <quote>Il me paraît qu'on pourrait diviser les vents par zones</quote>
 <bibl>
@@ -2894,16 +2893,16 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Terme de géologie. Zone houillère, certain nombre de bassins houillers qui se rattachent les uns aux autres dans une direction à peu près constante.</dictScrap>
+<dictScrap>Terme de géologie. <oVar>Zone</oVar> houillère, certain nombre de bassins houillers qui se rattachent les uns aux autres dans une direction à peu près constante.</dictScrap>
 </sense>
 </sense>
 <sense n="8">
-<dictScrap>Terme de ponts et chaussées. Zone des frontières, espace plus ou moins étendu, le long des frontières de terre et de mer, sur lequel les travaux publics de routes et de canaux doivent être soumis au contrôle d'une commission mixte.</dictScrap>
+<dictScrap>Terme de ponts et chaussées. <oVar>Zone</oVar> des frontières, espace plus ou moins étendu, le long des frontières de terre et de mer, sur lequel les travaux publics de routes et de canaux doivent être soumis au contrôle d'une commission mixte.</dictScrap>
 <sense>
-<dictScrap>Zone des servitudes militaires, espace limité en dehors et en dedans des fortifications des places de guerre, sur lequel il est défendu de bâtir ou de modifier le relief du sol.</dictScrap>
+<dictScrap><oVar>Zone</oVar> des servitudes militaires, espace limité en dehors et en dedans des fortifications des places de guerre, sur lequel il est défendu de bâtir ou de modifier le relief du sol.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Zone militaire, terrain compris dans les fortifications des places de guerre, et appartenant à l'État.</dictScrap>
+<dictScrap><oVar>Zone</oVar> militaire, terrain compris dans les fortifications des places de guerre, et appartenant à l'État.</dictScrap>
 </sense>
 </sense>
 <sense n="9">
@@ -2913,12 +2912,12 @@
 </sense>
 </sense>
 <sense n="10">
-<dictScrap>Terme d'anatomie. Zone tendineuse, cercle blanchâtre que l'on observe au pourtour de l'orifice auriculo-ventriculaire du côté droit du cœur.</dictScrap>
+<dictScrap>Terme d'anatomie. <oVar>Zone</oVar> tendineuse, cercle blanchâtre que l'on observe au pourtour de l'orifice auriculo-ventriculaire du côté droit du cœur.</dictScrap>
 <sense>
-<dictScrap>Zone transparente, la membrane vitelline.</dictScrap>
+<dictScrap><oVar>Zone</oVar> transparente, la membrane vitelline.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de chirurgie. Zone dangereuse, région qui, ayant la région claviculaire pour centre, s'étend à 14 ou 18 centimètres sur le cou, le bras et la poitrine, et fait courir le danger d'introduction de l'air dans les veines lorsqu'on les ouvre pendant les opérations chirurgicales.</dictScrap>
+<dictScrap>Terme de chirurgie. <oVar>Zone</oVar> dangereuse, région qui, ayant la région claviculaire pour centre, s'étend à 14 ou 18 centimètres sur le cou, le bras et la poitrine, et fait courir le danger d'introduction de l'air dans les veines lorsqu'on les ouvre pendant les opérations chirurgicales.</dictScrap>
 </sense>
 </sense>
 <sense n="11">
@@ -3007,7 +3006,7 @@
 </p>
 </note>
 </entry>
-<entry xml:id="zoo-" type="prefixe">
+<entry type="prefixe" xml:id="zoo-">
 <form>
 <orth>ZOO-</orth>
 <gram>préfixe</gram>
@@ -3280,7 +3279,7 @@
 <sense>
 <dictScrap>Partie de l'histoire naturelle qui a pour objet les animaux.</dictScrap>
 <sense>
-<dictScrap>Zoologie médicale, partie de la zoologie qui décrit les animaux fournissant des matières utilisées en médecine et ceux qui sont nuisibles à l'homme, tels que les animaux venimeux, les poissons vénéneux et les parasites.</dictScrap>
+<dictScrap><oVar>Zoologie</oVar> médicale, partie de la <oVar>zoologie</oVar> qui décrit les animaux fournissant des matières utilisées en médecine et ceux qui sont nuisibles à l'homme, tels que les animaux venimeux, les poissons vénéneux et les parasites.</dictScrap>
 </sense>
 </sense>
 <etym>Zoo..., et du grec traité.</etym>
@@ -3301,7 +3300,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Géographie zoologique, partie de la géographie qui s'occupe de la distribution des animaux sur le globe.</dictScrap>
+<dictScrap>Géographie <oVar>zoologique</oVar>, partie de la géographie qui s'occupe de la distribution des animaux sur le globe.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -3494,7 +3493,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Colonne zoophorique, colonne surmontée d'une figure d'animal.</dictScrap>
+<dictScrap>Colonne <oVar>zoophorique</oVar>, colonne surmontée d'une figure d'animal.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zoophytaire">
@@ -3504,7 +3503,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui a rapport aux zoophytes. Les envahissements de l'Océan par la vie zoophytaire.</dictScrap>
+<dictScrap>Qui a rapport aux zoophytes. Les envahissements de l'Océan par la vie <oVar>zoophytaire</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zoophyte">
@@ -3831,7 +3830,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Substantivement. La religion des zoroastriens.</dictScrap>
+<dictScrap>Substantivement. La religion des <oVar>zoroastriens</oVar>.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -3883,7 +3882,7 @@
 <pron>zot'</pron>
 </form>
 <sense>
-<dictScrap>Au diable zot, voy. <ref target="diablezot">DIABLEZOT</ref>.</dictScrap>
+<dictScrap>Au diable <oVar>zot</oVar>, voy. <ref target="diablezot">DIABLEZOT</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zouave">
@@ -3972,7 +3971,7 @@
 <gram>interj.</gram>
 </form>
 <sense>
-<dictScrap>très familière par laquelle on exprime que les efforts faits pour atteindre un but sont en pure perte, que les assertions, les promesses sont vaines, et surtout qu'on s'en moque. Il voulait m'entraîner avec lui, mais zut. Il y a là beaucoup d'argent à gagner : voulez-vous que nous fassions d'affaire ensemble? - Ah! zut.</dictScrap>
+<dictScrap>très familière par laquelle on exprime que les efforts faits pour atteindre un but sont en pure perte, que les assertions, les promesses sont vaines, et surtout qu'on s'en moque. Il voulait m'entraîner avec lui, mais <oVar>zut</oVar>. Il y a là beaucoup d'argent à gagner : voulez-vous que nous fassions d'affaire ensemble? - Ah! <oVar>zut</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zuzare">
@@ -4086,19 +4085,19 @@
 <sense>
 <dictScrap>Terme d'anatomie. Qui appartient au zygoma, à la pommette.</dictScrap>
 <sense>
-<dictScrap>Arcade zygomatique, arcade osseuse, formée au bas de la tempe par le zygoma et le temporal.</dictScrap>
+<dictScrap>Arcade <oVar>zygomatique</oVar>, arcade osseuse, formée au bas de la tempe par le zygoma et le temporal.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Apophyse zygomatique, longue apophyse qui, de la cavité glénoïde de l'os temporal se dirige transversalement en devant pour s'articuler avec l'os malaire.</dictScrap>
+<dictScrap>Apophyse <oVar>zygomatique</oVar>, longue apophyse qui, de la cavité glénoïde de l'os temporal se dirige transversalement en devant pour s'articuler avec l'os malaire.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fosse zygomatique, espace compris entre le bord postérieur de l'aile externe de l'apophyse ptérygoïde et la crête qui descend de la tubérosité malaire au bord alvéolaire supérieur.</dictScrap>
+<dictScrap>Fosse <oVar>zygomatique</oVar>, espace compris entre le bord postérieur de l'aile externe de l'apophyse ptérygoïde et la crête qui descend de la tubérosité malaire au bord alvéolaire supérieur.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Muscles zygomatiques, les deux muscles qui amènent les coins de la bouche vers les oreilles, et qui agissent principalement dans l'action du rire. Le grand zygomatique. Le petit zygomatique.</dictScrap>
+<dictScrap>Muscles <oVar>zygomatiques</oVar>, les deux muscles qui amènent les coins de la bouche vers les oreilles, et qui agissent principalement dans l'action du rire. Le grand <oVar>zygomatique</oVar>. Le petit <oVar>zygomatique</oVar>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Nerf zygomatique, l'un des rameaux du facial.</dictScrap>
+<dictScrap>Nerf <oVar>zygomatique</oVar>, l'un des rameaux du facial.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -4180,7 +4179,7 @@
 <sense>
 <dictScrap>Qui concerne la fermentation.</dictScrap>
 <sense>
-<dictScrap>Acide zymique, synonyme d'acide lactique.</dictScrap>
+<dictScrap>Acide <oVar>zymique</oVar>, synonyme d'acide lactique.</dictScrap>
 </sense>
 </sense>
 <etym>Du grec levain.</etym>
@@ -4279,7 +4278,7 @@
 <dictScrap>Qui est propre à la fermentation.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Terme de médecine. Qui offre un caractère de trouble et de dissolution comparée à une fermentation. Les maladies zymotiques. La variole est une maladie zymotique.</dictScrap>
+<dictScrap>Terme de médecine. Qui offre un caractère de trouble et de dissolution comparée à une fermentation. Les maladies zymotiques. La variole est une maladie <oVar>zymotique</oVar>.</dictScrap>
 </sense>
 <etym>En grec, mettre en fermentation, du grec fermentation.</etym>
 </entry>

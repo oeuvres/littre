@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
+<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -38,10 +37,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Chez les Latins, qui ne le faisaient guère servir que de lettre numérale, K signifiait deux cent cinquante ; avec un tiret par-dessus, il signifiait deux cent cinquante mille.</dictScrap>
+<dictScrap>Chez les Latins, qui ne le faisaient guère servir que de lettre numérale, <oVar>K</oVar> signifiait deux cent cinquante ; avec un tiret par-dessus, il signifiait deux cent cinquante mille.</dictScrap>
 </sense>
 <sense>
-<dictScrap>K est la marque des monnaies frappées à Bordeaux.</dictScrap>
+<dictScrap><oVar>K</oVar> est la marque des monnaies frappées à Bordeaux.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Sur les anciennes médailles des empereurs, il signifie Constantin, et, dans les inscriptions du moyen âge, Karolus [Charles].</dictScrap>
@@ -67,7 +66,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="caaba">CAABA</ref>. Voltaire l'a fait masculin : Le Kaaba passait pour le plus ancien temple du monde, Mœurs, 7.</dictScrap>
+<dictScrap>Voy. <ref target="caaba">CAABA</ref>. Voltaire l'a fait masculin : Le <oVar>Kaaba</oVar> passait pour le plus ancien temple du monde, Mœurs, 7.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kab">
@@ -122,7 +121,7 @@
 <sense>
 <dictScrap>Nom des populations berbères, qui, conjointement avec les Arabes, occupent l'Afrique du nord, Maroc, Algérie, Tunisie.</dictScrap>
 <sense>
-<dictScrap>S. m. Le kabyle, langue parlée par les Kabyles, et qui paraît appartenir aux langues berbères.</dictScrap>
+<dictScrap>S. m. Le <oVar>kabyle</oVar>, langue parlée par les <oVar>Kabyles</oVar>, et qui paraît appartenir aux langues berbères.</dictScrap>
 </sense>
 </sense>
 <etym>Arabe, kabaïlyy ( le 2nd a avec un accent long), adjectif tiré de kabail (2nd a : a long), pluriel de kabilat (i long), tribu, famille, peuplade berbère.</etym>
@@ -244,7 +243,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Sorte de figue. [En Algérie] le plaqueminier du Japon, grand arbre dont le fruit ou figue kake, de la grosseur d'un abricot, se mange très mûr, un peu bletti, Journ. offic. 26 nov. 1874, p. 7813, 2e col.</dictScrap>
+<dictScrap>Sorte de figue. [En Algérie] le plaqueminier du Japon, grand arbre dont le fruit ou figue <oVar>kake</oVar>, de la grosseur d'un abricot, se mange très mûr, un peu bletti, Journ. offic. 26 nov. 1874, p. 7813, 2e col.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kakerlaque">
@@ -315,7 +314,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Espèce de soude à feuilles épineuses qui croît abondamment et sans culture sur les bords de la mer, dans toute l'Europe, salsola kali, L., chénopodées. C'est de la décoction de cette herbe maritime que les Arabes faisaient le sel qu'ils ont nommé alcali.</dictScrap>
+<dictScrap>Terme de botanique. Espèce de soude à feuilles épineuses qui croît abondamment et sans culture sur les bords de la mer, dans toute l'Europe, salsola <oVar>kali</oVar>, L., chénopodées. C'est de la décoction de cette herbe maritime que les Arabes faisaient le sel qu'ils ont nommé alcali.</dictScrap>
 <cit>
 <quote>Il fit semer du kali à Denainvilliers.... et pria M. Cadet d'examiner les sels que contenaient les cendres des kalis de Denainvilliers</quote>
 <bibl>
@@ -412,7 +411,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de zoologie. Grand oiseau noir de l'ordre des échassiers qui habite dans les marécages de la Guyane et du Brésil ; deux espèces : le kamichi cornu, et le kamichi fidèle qui garde les volailles comme un chien de berger (genre palamedea, L.).</dictScrap>
+<dictScrap>Terme de zoologie. Grand oiseau noir de l'ordre des échassiers qui habite dans les marécages de la Guyane et du Brésil ; deux espèces : le <oVar>kamichi</oVar> cornu, et le <oVar>kamichi</oVar> fidèle qui garde les volailles comme un chien de berger (genre palamedea, L.).</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kamis">
@@ -455,12 +454,12 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Mot qui signifie prince ou commandant, et qui est le titre de l'autorité souveraine en Tartarie. Le kan des Tartares. Le grand kan.</dictScrap>
+<dictScrap>Mot qui signifie prince ou commandant, et qui est le titre de l'autorité souveraine en Tartarie. Le <oVar>kan</oVar> des Tartares. Le grand <oVar>kan</oVar>.</dictScrap>
 <sense>
-<dictScrap>Dans l'empire ottoman, le sultan seul prend le titre de kan après son nom, tout en conservant celui de sultan placé devant le nom propre : Sultan Selim kan.</dictScrap>
+<dictScrap>Dans l'empire ottoman, le sultan seul prend le titre de <oVar>kan</oVar> après son nom, tout en conservant celui de sultan placé devant le nom propre : Sultan Selim <oVar>kan</oVar>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>En Perse, le titre de kan est porté aujourd'hui par les gouverneurs de provinces.</dictScrap>
+<dictScrap>En Perse, le titre de <oVar>kan</oVar> est porté aujourd'hui par les gouverneurs de provinces.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -505,7 +504,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Sorte de pin. À la Nouvelle-Zélande on ne trouverait pas un pin kandi de quelque valeur près de la côte, Rev. Britann. fév. 1876, p. 284.</dictScrap>
+<dictScrap>Sorte de pin. À la Nouvelle-Zélande on ne trouverait pas un pin <oVar>kandi</oVar> de quelque valeur près de la côte, Rev. Britann. fév. 1876, p. 284.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kandjar">
@@ -666,7 +665,7 @@
 <sense>
 <dictScrap>Transformer en kaolin.</dictScrap>
 <sense>
-<dictScrap>Se kaoliniser, v. réfl. Être transformé en kaolin. L'oligoclase se kaolinise facilement.</dictScrap>
+<dictScrap>Se <oVar>kaoliniser</oVar>, v. réfl. Être transformé en kaolin. L'oligoclase se kaolinise facilement.</dictScrap>
 </sense>
 </sense>
 <etym>Kaolin.</etym>
@@ -781,9 +780,9 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="carature">CARATURE</ref>. Karature blanche, opération par laquelle on allie l'argent à l'or, dans le monnayage ou la bijouterie.</dictScrap>
+<dictScrap>Voy. <ref target="carature">CARATURE</ref>. <oVar>Karature</oVar> blanche, opération par laquelle on allie l'argent à l'or, dans le monnayage ou la bijouterie.</dictScrap>
 <sense>
-<dictScrap>Karature rouge, opération des bijoutiers pour allier le cuivre à l'or.</dictScrap>
+<dictScrap><oVar>Karature</oVar> rouge, opération des bijoutiers pour allier le cuivre à l'or.</dictScrap>
 </sense>
 </sense>
 <etym>Karat.</etym>
@@ -832,7 +831,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Écriture karmatique, genre d'écriture des Arabes, qui ne porte pas de points diacritiques, mais qui est plus arrondie que l'écriture coufique.</dictScrap>
+<dictScrap>Écriture <oVar>karmatique</oVar>, genre d'écriture des Arabes, qui ne porte pas de points diacritiques, mais qui est plus arrondie que l'écriture coufique.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="karmesse">
@@ -897,7 +896,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Katran rouge de Pallas, racine rouge et ligneuse employée en Russie pour le tannage des peaux, et provenant du statice latifolia, Smith, famille des plombaginées.</dictScrap>
+<dictScrap><oVar>Katran</oVar> rouge de Pallas, racine rouge et ligneuse employée en Russie pour le tannage des peaux, et provenant du statice latifolia, Smith, famille des plombaginées.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kava">
@@ -1291,7 +1290,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Nom d'un tableau représentant une kermesse. Une Kermesse de Rubens (avec un grand K).</dictScrap>
+<dictScrap>Nom d'un tableau représentant une <oVar>kermesse</oVar>. Une <oVar>Kermesse</oVar> de Rubens (avec un grand K).</dictScrap>
 </sense>
 <etym>Flamand, kerk-misse, messe de l'église, de kerk, église, et misse, messe.</etym>
 </entry>
@@ -1350,7 +1349,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Nom du genre hibiscus, malvacées. Ketmie des jardins, joli arbrisseau nommé aussi mauve en arbre, hibiscus syriacus, L. Ketmie vésiculeuse, hibiscus trionium, L. Ketmie comestible, ou gombaut, hibiscus esculentus, L.</dictScrap>
+<dictScrap>Terme de botanique. Nom du genre hibiscus, malvacées. <oVar>Ketmie</oVar> des jardins, joli arbrisseau nommé aussi mauve en arbre, hibiscus syriacus, L. <oVar>Ketmie</oVar> vésiculeuse, hibiscus trionium, L. <oVar>Ketmie</oVar> comestible, ou gombaut, hibiscus esculentus, L.</dictScrap>
 </sense>
 <etym>Arabe, khathmiyy, sorte de mauve originaire d'Afrique.</etym>
 </entry>
@@ -1382,7 +1381,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>En Algérie, fonction d'un khalifa, ressort de son autorité. Son fils aîné, Sid Abou-Bekr, le remplaça à la tête du khalifalik du Sud, Rev. Africaine, 20e année, n° 117, mai-juin 1876, p. 180.</dictScrap>
+<dictScrap>En Algérie, fonction d'un khalifa, ressort de son autorité. Son fils aîné, Sid Abou-Bekr, le remplaça à la tête du <oVar>khalifalik</oVar> du Sud, Rev. Africaine, 20e année, n° 117, mai-juin 1876, p. 180.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="khalife">
@@ -1422,7 +1421,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Voy. CARATCH, où à l'étymologie, au lieu de mot turc, il faut mettre : arabe, kharadj ( 2nd a : a long), impôt annuel.</dictScrap>
+<dictScrap>Voy. CARATCH, où à l'étymologie, au lieu de mot turc, il faut mettre : arabe, <oVar>kharadj</oVar> ( 2nd a : a long), impôt annuel.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="khédive">
@@ -1729,7 +1728,7 @@
 <gram>adj. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide kinique, acide qu'on extrait du quinquina.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>kinique</oVar>, acide qu'on extrait du quinquina.</dictScrap>
 </sense>
 <etym>Kina.</etym>
 </entry>
@@ -1785,7 +1784,7 @@
 <gram>adj. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide kinovique, acide qu'on extrait d'une espèce de quinquina.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>kinovique</oVar>, acide qu'on extrait d'une espèce de quinquina.</dictScrap>
 </sense>
 <etym>Kina nova, dans l'écorce duquel on a découvert cet acide, (voy. <ref target="quinquina">QUINQUINA</ref>).</etym>
 </entry>
@@ -1850,7 +1849,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>voy. <ref target="kirsch-wasser">KIRSCH-WASSER</ref>.</dictScrap>
+<dictScrap>voy. <ref target="kirsch-wasser"><oVar>KIRSCH</oVar>-WASSER</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kirsch-wasser">
@@ -1907,7 +1906,7 @@
 <sense>
 <dictScrap>Terme de marine. Bâtiment anglais d'une vitesse remarquable.</dictScrap>
 <sense>
-<dictScrap>Tout bon navire de commerce analogue au klipper.</dictScrap>
+<dictScrap>Tout bon navire de commerce analogue au <oVar>klipper</oVar>.</dictScrap>
 </sense>
 </sense>
 <etym>Angl. to clip, couper, fendre ; comparez cutter, coupeur, autre nom donné à un navire de marche rapide. La bonne orthographe est donc clipper.</etym>
@@ -1934,7 +1933,7 @@
 <quote>Un petit nombre de coups de knout donnent la mort ; quatre à cinq suffisent pour ne faire qu'une plaie du corps du condamné</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope/>
+<biblScope></biblScope>
 </bibl>
 </cit>
 </sense>
@@ -1957,7 +1956,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Arbre des îles Sandwich. C'était une maison vaste et carrée, en bois de koa, dont la couleur rappelle celle de l'acajou, Revue des Deux-Mondes, 1er mai 1877, p. 108.</dictScrap>
+<dictScrap>Arbre des îles Sandwich. C'était une maison vaste et carrée, en bois de <oVar>koa</oVar>, dont la couleur rappelle celle de l'acajou, Revue des Deux-Mondes, 1er mai 1877, p. 108.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kobold">
@@ -2014,7 +2013,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Monnaie de cuivre russe valant à peu près quatre centimes de France. Cent kopecks font un rouble effectif ou rouble d'argent.</dictScrap>
+<dictScrap>Monnaie de cuivre russe valant à peu près quatre centimes de France. Cent <oVar>kopecks</oVar> font un rouble effectif ou rouble d'argent.</dictScrap>
 </sense>
 <re ana="supplement">
 <re>KOPECK. Ajoutez : - ÉTYM. Russe, kopeika, de kopye, lance, à cause qu'il y avait originairement sur cette monnaie un cavalier armé d'une lance. </re>
@@ -2081,7 +2080,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>La langue kourde, et, substantivement, le kourde, langue appartenant au groupe iranien et parlé par les Kourdes, peuple d'Asie.</dictScrap>
+<dictScrap>La langue <oVar>kourde</oVar>, et, substantivement, le <oVar>kourde</oVar>, langue appartenant au groupe iranien et parlé par les Kourdes, peuple d'Asie.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kourgan">
@@ -2187,7 +2186,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Nom d'un héros du Mahabhârata (grand poëme indien), qui est une incarnation de Vichnou ; krichna signifie proprement noir.</dictScrap>
+<dictScrap>Nom d'un héros du Mahabhârata (grand poëme indien), qui est une incarnation de Vichnou ; <oVar>krichna</oVar> signifie proprement noir.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kriss">
@@ -2205,7 +2204,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Nom indien exprimant la valeur de cent lacs ; le lac vaut cent mille roupies ; le krohor vaut donc dix millions de roupies ; la roupie vaut 2 fr. 50.</dictScrap>
+<dictScrap>Nom indien exprimant la valeur de cent lacs ; le lac vaut cent mille roupies ; le <oVar>krohor</oVar> vaut donc dix millions de roupies ; la roupie vaut 2 fr. 50.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="krona">
@@ -2311,7 +2310,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>L'idiome kymrique, ou, substantivement, le kymrique, idiome celtique qui a trois dialectes principaux, le welsh, ou gallois, ou kimrique proprement dit, parlé en Angleterre dans le pays de Galles, le cornique de la Cornouaille en Angleterre (il est éteint), et l'armoricain ou bas-breton parlé en France dans la Bretagne.</dictScrap>
+<dictScrap>L'idiome <oVar>kymrique</oVar>, ou, substantivement, le <oVar>kymrique</oVar>, idiome celtique qui a trois dialectes principaux, le welsh, ou gallois, ou kimrique proprement dit, parlé en Angleterre dans le pays de Galles, le cornique de la Cornouaille en Angleterre (il est éteint), et l'armoricain ou bas-breton parlé en France dans la Bretagne.</dictScrap>
 <sense>
 <dictScrap>On dit aussi le kymri.</dictScrap>
 </sense>
@@ -2378,7 +2377,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Kyrielle ou rime kyrielle est aussi une ancienne pièce de poésie française formée de vers octosyllabes à rimes plates, divisée en petits couplets égaux et terminés par le même mot qui servait de refrain.</dictScrap>
+<dictScrap><oVar>Kyrielle</oVar> ou rime <oVar>kyrielle</oVar> est aussi une ancienne pièce de poésie française formée de vers octosyllabes à rimes plates, divisée en petits couplets égaux et terminés par le même mot qui servait de refrain.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -2445,7 +2444,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Écriture kyriologique, nom par lequel saint Clément d'Alexandrie désigne l'une des deux sortes d'écritures hiéroglyphiques des Égyptiens : celle qui consiste à représenter les objets par la lettre initiale du nom qu'ils portaient dans la langue parlée.</dictScrap>
+<dictScrap>Écriture <oVar>kyriologique</oVar>, nom par lequel saint Clément d'Alexandrie désigne l'une des deux sortes d'écritures hiéroglyphiques des Égyptiens : celle qui consiste à représenter les objets par la lettre initiale du nom qu'ils portaient dans la langue parlée.</dictScrap>
 </sense>
 <etym>Kyriologie.</etym>
 </entry>
@@ -2479,7 +2478,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chirurgie. Qui appartient, qui a rapport au kyste. Cavité kystique.</dictScrap>
+<dictScrap>Terme de chirurgie. Qui appartient, qui a rapport au kyste. Cavité <oVar>kystique</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kystotome">
