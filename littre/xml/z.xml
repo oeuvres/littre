@@ -353,7 +353,7 @@
 <sense>
 <dictScrap>Qui est marqué de bandes foncées sur un fond clair, comme la robe du zèbre.</dictScrap>
 <sense>
-<dictScrap>Cheval zébré, cheval dont la robe présente des lignes noirâtres qui entourent l'avant-bras et la jambe.</dictScrap>
+<dictScrap>Cheval <oVar>zébré</oVar>, cheval dont la robe présente des lignes noirâtres qui entourent l'avant-bras et la jambe.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -364,7 +364,7 @@
 <gram>v. a.</gram>
 </form>
 <sense>
-<dictScrap>Produire sur quelque animal ou sur quelque objet des raies semblables à celles du zèbre.</dictScrap>
+<dictScrap>Produire sur quelque animal ou sur quelque objet des raies semblables à celles du <oVar>zèbre</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zébrure">
@@ -390,7 +390,7 @@
 <sense>
 <dictScrap>Nom vulgaire du bœuf indien, qui a sur le garrot une ou deux bosses charnues.</dictScrap>
 <sense>
-<dictScrap>Au plur. Des zébus.</dictScrap>
+<dictScrap>Au plur. Des <oVar>zébus</oVar>.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -414,7 +414,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la zédoaire ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la zédoaire longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
+<dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la <oVar>zédoaire</oVar> ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la <oVar>zédoaire</oVar> longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -457,7 +457,7 @@
 <gram>adj. m.</gram>
 </form>
 <sense>
-<dictScrap>Chêne zéen, espèce de chêne de l'Algérie, dit aussi chêne zang, dont le bois est remarquable par sa densité.</dictScrap>
+<dictScrap>Chêne <oVar>zéen</oVar>, espèce de chêne de l'Algérie, dit aussi chêne zang, dont le bois est remarquable par sa densité.</dictScrap>
 </sense>
 <re ana="supplement">
 <re>ZÉEN.  Ajoutez : - ÉTYM. <cit><quote>Arabe, zan ( a long), nom de ce chêne</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
@@ -548,7 +548,7 @@
 <sense n="3">
 <dictScrap>Titre d'office dans quelques ordres religieux, consistant à veiller avec zèle sur la conduite des novices et des jeunes profès.</dictScrap>
 <sense>
-<dictScrap>Zélatrice, nom, parmi les religieuses ursulines, d'un office qui répond à celui de procureur dans les communautés d'hommes.</dictScrap>
+<dictScrap><oVar>Zélatrice</oVar>, nom, parmi les religieuses ursulines, d'un office qui répond à celui de procureur dans les communautés d'hommes.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -653,7 +653,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Zèle indiscret, zèle inconsidéré, zèle qui n'est pas réglé par la prudence.</dictScrap>
+<dictScrap><oVar>Zèle</oVar> indiscret, <oVar>zèle</oVar> inconsidéré, <oVar>zèle</oVar> qui n'est pas réglé par la prudence.</dictScrap>
 <cit>
 <quote>Aux zèles indiscrets tout paraît légitime</quote>
 <bibl>
@@ -670,7 +670,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Dans le langage de l'Écriture. Le zèle de la maison de Dieu le dévore, il a un zèle extrême pour le service de Dieu.</dictScrap>
+<dictScrap>Dans le langage de l'Écriture. Le <oVar>zèle</oVar> de la maison de Dieu le dévore, il a un <oVar>zèle</oVar> extrême pour le service de Dieu.</dictScrap>
 <cit>
 <quote>Étant transporté du zèle de la loi, comme le fut Phinée lorsqu'il tua Zamri fils de Salomi</quote>
 <bibl>
@@ -680,14 +680,14 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Jugement de zèle, se dit, dans la législation de Moïse, du supplice de la lapidation, qu'on infligeait, sans aucune forme de procès, aux blasphémateurs, aux adultères, aux idolâtres, etc.</dictScrap>
+<dictScrap>Jugement de <oVar>zèle</oVar>, se dit, dans la législation de Moïse, du supplice de la lapidation, qu'on infligeait, sans aucune forme de procès, aux blasphémateurs, aux adultères, aux idolâtres, etc.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Faire du zèle, se montrer trop zélé, dépasser la mesure dans l'exécution d'un ordre, d'une mission, d'une fonction, aller plus loin qu'il ne convient à ceux qui ont donné l'ordre ou la fonction. Surtout, messieurs, pas de zèle, mot attribué à Talleyrand recevant les employés du ministère des affaires étrangères.</dictScrap>
+<dictScrap>Faire du <oVar>zèle</oVar>, se montrer trop zélé, dépasser la mesure dans l'exécution d'un ordre, d'une mission, d'une fonction, aller plus loin qu'il ne convient à ceux qui ont donné l'ordre ou la fonction. Surtout, messieurs, pas de <oVar>zèle</oVar>, mot attribué à Talleyrand recevant les employés du ministère des affaires étrangères.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Particulièrement, le zèle, le zèle pour la religion.</dictScrap>
+<dictScrap>Particulièrement, le <oVar>zèle</oVar>, le <oVar>zèle</oVar> pour la religion.</dictScrap>
 <cit>
 <quote>Ces gens.... Qui savent ajuster leur zèle avec leurs vices, Sont prompts, vindicatifs, sans foi, plein d'artifices</quote>
 <bibl>
@@ -738,7 +738,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Faux zèle, zèle aveugle et mal entendu pour la religion.</dictScrap>
+<dictScrap>Faux <oVar>zèle</oVar>, <oVar>zèle</oVar> aveugle et mal entendu pour la religion.</dictScrap>
 <cit>
 <quote>S'ils mêlent avec la dévotion.... le faux zèle de leurs intérêts, les vues et les intrigues de leur ambition</quote>
 <bibl>
@@ -851,7 +851,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Substantivement. Un zélé, une zélée.</dictScrap>
+<dictScrap>Substantivement. Un <oVar>zélé</oVar>, une <oVar>zélée</oVar>.</dictScrap>
 <cit>
 <quote>Ne vous représentez pas ici un de ces zélés fastueux qui n'aiment, pour ainsi dire, à placer leur argent [leurs charités] que sur le public....</quote>
 <bibl>
@@ -868,7 +868,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Faux zélé, celui qui est animé d'un zèle faux pour la religion.</dictScrap>
+<dictScrap>Faux <oVar>zélé</oVar>, celui qui est animé d'un zèle faux pour la religion.</dictScrap>
 <cit>
 <quote>Cent mille faux zélés, le fer en main courants</quote>
 <bibl>
@@ -915,7 +915,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Surnom donné à l'un des douze disciples de Jésus, appelé tour à tour dans le Nouveau Testament (Math. X, 4 ; Marc, III, 18 ; Luc, VI, 15 ; Act. I, 13) Simon le Zélote ou le Cananite (de l'hébreu chaldéen kannai, zélateur).</dictScrap>
+<dictScrap>Surnom donné à l'un des douze disciples de Jésus, appelé tour à tour dans le Nouveau Testament (Math. X, 4 ; Marc, III, 18 ; Luc, VI, 15 ; Act. I, 13) Simon le <oVar>Zélote</oVar> ou le Cananite (de l'hébreu chaldéen kannai, zélateur).</dictScrap>
 <cit>
 <quote>On nomme aussi parmi les disciples un Simon le Zélote, peut-être disciple de Juda le Gualonite</quote>
 <bibl>
@@ -1127,7 +1127,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui appartient au zénith. Les points zénithaux. La distance zénithale d'un point en un lieu est la distance angulaire de ce point et du zénith de ce lieu.</dictScrap>
+<dictScrap>Qui appartient au zénith. Les points zénithaux. La distance <oVar>zénithale</oVar> d'un point en un lieu est la distance angulaire de ce point et du zénith de ce lieu.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zénobie">
@@ -1219,7 +1219,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui appartient à la zéolithe. Minéral zéolithique.</dictScrap>
+<dictScrap>Qui appartient à la zéolithe. Minéral <oVar>zéolithique</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zéophage">
@@ -1251,10 +1251,10 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Nom que les anciens donnaient au vent d'occident (on met une majuscule). Le souffle du Zéphire.</dictScrap>
+<dictScrap>Nom que les anciens donnaient au vent d'occident (on met une majuscule). Le souffle du <oVar>Zéphire</oVar>.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Dans la Fable, le vent d'occident personnifié et qualifié de dieu (on met une majuscule). Les amours de Flore et de Zéphire.</dictScrap>
+<dictScrap>Dans la Fable, le vent d'occident personnifié et qualifié de dieu (on met une majuscule). Les amours de Flore et de <oVar>Zéphire</oVar>.</dictScrap>
 <cit>
 <quote>Le vent Eure et le vent Zéphire à cela n'eurent rien à dire</quote>
 <bibl>
@@ -1343,10 +1343,10 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Terme de danse. Pas de zéphire, pas qui se fait en se tenant sur un pied, et balançant l'autre en avant et en arrière.</dictScrap>
+<dictScrap>Terme de danse. Pas de <oVar>zéphire</oVar>, pas qui se fait en se tenant sur un pied, et balançant l'autre en avant et en arrière.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Nom donné, dans l'armée, à des soldats de compagnie de discipline qu'on envoie d'ordinaire en Algérie. Un zéphire. Des zéphires.</dictScrap>
+<dictScrap>Nom donné, dans l'armée, à des soldats de compagnie de discipline qu'on envoie d'ordinaire en Algérie. Un <oVar>zéphire</oVar>. Des zéphires.</dictScrap>
 </sense>
 <note type="remarque">
 <p>1. L'Académie distingue zéphire et zéphyr, disant que zéphire est le vent d'occident, et zéphyr tout vent doux et agréable. Cette distinction est illusoire et ne peut être admise ; les auteurs confondent perpétuellement zéphire et zéphyr, et il ne faut y voir qu'une variété d'orthographe. Il en est de même de la remarque de Vaugelas : " On dit en poésie zéphyr et zéphyre, au singulier, mais plus communément zéphyre. Au pluriel on dit au contraire zéphyrs plutôt que zéphyres. " </p>
@@ -1400,7 +1400,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On dit de même casimir zéphire, casimir fait avec la laine zéphire.</dictScrap>
+<dictScrap>On dit de même casimir <oVar>zéphire</oVar>, casimir fait avec la laine <oVar>zéphire</oVar>.</dictScrap>
 </sense>
 </sense>
 </re>
@@ -1435,7 +1435,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme d'arithmétique. Chiffre en forme d'O, qui de lui-même ne marque aucun nombre, mais qui, étant mis à la droite des autres, indique qu'ils prennent une valeur dix fois plus forte. Un 2 et trois zéros font deux mille [2000].</dictScrap>
+<dictScrap>Terme d'arithmétique. Chiffre en forme d'O, qui de lui-même ne marque aucun nombre, mais qui, étant mis à la droite des autres, indique qu'ils prennent une valeur dix fois plus forte. Un 2 et trois <oVar>zéros</oVar> font deux mille [2000].</dictScrap>
 <cit>
 <quote>Le zéro n'est pas du même genre que les nombres, parce qu'étant multiplié, il ne peut les surpasser ; de sorte que c'est un véritable indivisible de nombre, comme l'indivisible est un véritable zéro d'étendue</quote>
 <bibl>
@@ -1444,7 +1444,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Je ne veux pas qu'il y manque un zéro, je ne veux pas qu'il y manque rien.</dictScrap>
+<dictScrap>Je ne veux pas qu'il y manque un <oVar>zéro</oVar>, je ne veux pas qu'il y manque rien.</dictScrap>
 <cit>
 <quote>Le logis sera magnifique ; je ne veux pas qu'il y manque un zéro : je le ferais plutôt abattre deux ou trois fois</quote>
 <bibl>
@@ -1454,10 +1454,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Sa fortune est réduite à zéro, elle est réduite à rien, elle est complétement dissipée.</dictScrap>
+<dictScrap>Sa fortune est réduite à <oVar>zéro</oVar>, elle est réduite à rien, elle est complétement dissipée.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fig. Ajouter des zéros à un compte, l'amplifier, comme les zéros multiplient un nombre.</dictScrap>
+<dictScrap>Fig. Ajouter des <oVar>zéros</oVar> à un compte, l'amplifier, comme les <oVar>zéros</oVar> multiplient un nombre.</dictScrap>
 <cit>
 <quote>Combien un financier, pour être en équipage, De zéros criminels remplit-il une page?</quote>
 <bibl>
@@ -1477,7 +1477,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. Tout est zéro, rien ne vaut.</dictScrap>
+<dictScrap>Fig. Tout est <oVar>zéro</oVar>, rien ne vaut.</dictScrap>
 <cit>
 <quote>Rien n'est plus propre à me consoler des misères de cette vie, que de songer continuellement que tout est zéro</quote>
 <bibl>
@@ -1487,7 +1487,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. C'est un zéro, un vrai zéro, un zéro en chiffre, se dit d'un homme qui n'est d'aucune considération.</dictScrap>
+<dictScrap>Fig. C'est un <oVar>zéro</oVar>, un vrai <oVar>zéro</oVar>, un <oVar>zéro</oVar> en chiffre, se dit d'un homme qui n'est d'aucune considération.</dictScrap>
 <cit>
 <quote>Ce chef de parti [Conti] était un zéro, qui ne multipliait que parce qu'il était prince du sang</quote>
 <bibl>
@@ -1519,11 +1519,11 @@
 <dictScrap>(à une dame qui lui avait demandé pourquoi il n'était pas de l'Académie).</dictScrap>
 </sense>
 <sense>
-<dictScrap>Des grammairiens ont prétendu qu'il fallait dire non zéro en chiffre, mais zéro sans chiffre. Il est de fait qu'un zéro sans chiffre n'a aucune valeur, et que, mis avec des chiffres, un zéro les multiplie ; mais, dans cette locution, en chiffre signifie simplement dans la numération.</dictScrap>
+<dictScrap>Des grammairiens ont prétendu qu'il fallait dire non <oVar>zéro</oVar> en chiffre, mais <oVar>zéro</oVar> sans chiffre. Il est de fait qu'un <oVar>zéro</oVar> sans chiffre n'a aucune valeur, et que, mis avec des chiffres, un <oVar>zéro</oVar> les multiplie ; mais, dans cette locution, en chiffre signifie simplement dans la numération.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Point qui correspond à la température de la glace fondante dans le thermomètre de Réaumur et dans le thermomètre centigrade. Le thermomètre est descendu à zéro.</dictScrap>
+<dictScrap>Point qui correspond à la température de la glace fondante dans le thermomètre de Réaumur et dans le thermomètre centigrade. Le thermomètre est descendu à <oVar>zéro</oVar>.</dictScrap>
 <cit>
 <quote>Si le rayonnement des astres donnait à tous les points de l'espace planétaire la température d'environ 40 degrés au-dessous de zéro</quote>
 <bibl>
@@ -1532,7 +1532,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Zéro absolu, terme imaginaire, fiction mathématique commode à employer dans la mise en opération et le calcul des problèmes de la thermodynamique. On suppose que, à - 272°, un gaz incoercible et parfait n'exerce plus de pression sur le vase qui le renferme, que par son propre poids ; sa force vive est nulle.</dictScrap>
+<dictScrap><oVar>Zéro</oVar> absolu, terme imaginaire, fiction mathématique commode à employer dans la mise en opération et le calcul des problèmes de la thermodynamique. On suppose que, à - 272°, un gaz incoercible et parfait n'exerce plus de pression sur le vase qui le renferme, que par son propre poids ; sa force vive est nulle.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -1752,7 +1752,7 @@
 <sense>
 <dictScrap>Terme didactique. Qui concerne les recherches.</dictScrap>
 <sense>
-<dictScrap>La méthode zététique, ou, substantivement, la zététique, méthode dont on se sert pour résoudre un problème de mathématique ; et, en général, celle dont on se sert pour pénétrer la raison des choses.</dictScrap>
+<dictScrap>La méthode <oVar>zététique</oVar>, ou, substantivement, la <oVar>zététique</oVar>, méthode dont on se sert pour résoudre un problème de mathématique ; et, en général, celle dont on se sert pour pénétrer la raison des choses.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Philosophes zététiques, anciens philosophes qui doutaient de tout.</dictScrap>
@@ -1813,7 +1813,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Lépidoptère de la famille des nocturnes. Zeuzère du marronnier, zeuzera aesculi, d'après Lucas ; d'après d'autres, cossonus aesculi, papillon de nuit.</dictScrap>
+<dictScrap>Lépidoptère de la famille des nocturnes. <oVar>Zeuzère</oVar> du marronnier, zeuzera aesculi, d'après Lucas ; d'après d'autres, cossonus aesculi, papillon de nuit.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zézaiement">
@@ -3882,7 +3882,7 @@
 <pron>zot'</pron>
 </form>
 <sense>
-<dictScrap>Au diable <oVar>zot</oVar>, voy. <ref target="diablezot">DIABLEZOT</ref>.</dictScrap>
+<dictScrap>Au diable <oVar>zot</oVar>, voy. <ref target="diablezot">DIABLE<oVar>ZOT</oVar></ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zouave">
@@ -4108,7 +4108,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'anatomie. Qui appartient au zygoma et à l'oreille. Muscle zygomato-auriculaire.</dictScrap>
+<dictScrap>Terme d'anatomie. Qui appartient au zygoma et à l'oreille. Muscle <oVar>zygomato-auriculaire</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zygomato-labial">
@@ -4118,7 +4118,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui appartient au zygoma et aux lèvres. Muscle zygomato-labial, le muscle zygomatique.</dictScrap>
+<dictScrap>Qui appartient au zygoma et aux lèvres. Muscle <oVar>zygomato-labial</oVar>, le muscle zygomatique.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zygomato-maxillaire">
@@ -4128,7 +4128,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui appartient au zygoma et à la mâchoire. Muscle zygomato-maxillaire, le masséter.</dictScrap>
+<dictScrap>Qui appartient au zygoma et à la mâchoire. Muscle <oVar>zygomato-maxillaire</oVar>, le masséter.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zygophyllées">

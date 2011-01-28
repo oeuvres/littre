@@ -60,7 +60,7 @@
 <gram>adv.</gram>
 </form>
 <sense n="1">
-<dictScrap>Déjà.</dictScrap>
+<dictScrap>Dé<oVar>jà</oVar>.</dictScrap>
 <cit>
 <quote>Je l'ai jà dit d'autre façon</quote>
 <bibl>
@@ -93,7 +93,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Jà a vieilli dans les deux acceptions.</dictScrap>
+<dictScrap><oVar>Jà</oVar> a vieilli dans les deux acceptions.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -495,10 +495,10 @@
 <sense>
 <dictScrap>Terme de botanique. Espèce de plantes de la famille des composées, centaurea jacea, L.</dictScrap>
 <sense>
-<dictScrap>Petite jacée, la pensée sauvage.</dictScrap>
+<dictScrap>Petite <oVar>jacée</oVar>, la pensée sauvage.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Jacée des jardiniers, lychnide dioïque.</dictScrap>
+<dictScrap><oVar>Jacée</oVar> des jardiniers, lychnide dioïque.</dictScrap>
 </sense>
 </sense>
 <etym>Bas-latin, jacea, dans un glossaire du XIVe siècle.</etym>
@@ -531,10 +531,10 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>État d'une terre labourable qu'on n'a pas ensemencée, à l'effet de la laisser reposer pour la faire produire de nouveau plus abondamment. La jachère est absolue ou complète ou morte, lorsque le sol est au moins une année sans recevoir de semence ; elle est relative ou incomplète, dans le cas contraire ; celle-ci est distinguée en jachère d'été et jachère d'hiver. Dans nos pays une terre est ordinairement en jachère, mais aujourd'hui en jachère cultivée, de trois années l'une. On appelle jachère cultivée les cultures améliorantes qui, dans l'assolement de trois ans, remplacent l'ancienne jachère morte ou complète.</dictScrap>
+<dictScrap>État d'une terre labourable qu'on n'a pas ensemencée, à l'effet de la laisser reposer pour la faire produire de nouveau plus abondamment. La <oVar>jachère</oVar> est absolue ou complète ou morte, lorsque le sol est au moins une année sans recevoir de semence ; elle est relative ou incomplète, dans le cas contraire ; celle-ci est distinguée en <oVar>jachère</oVar> d'été et <oVar>jachère</oVar> d'hiver. Dans nos pays une terre est ordinairement en <oVar>jachère</oVar>, mais aujourd'hui en <oVar>jachère</oVar> cultivée, de trois années l'une. On appelle <oVar>jachère</oVar> cultivée les cultures améliorantes qui, dans l'assolement de trois ans, remplacent l'ancienne <oVar>jachère</oVar> morte ou complète.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>La terre même quand elle repose. Labourer des jachères.</dictScrap>
+<dictScrap>La terre même quand elle repose. Labourer des <oVar>jachères</oVar>.</dictScrap>
 <cit>
 <quote>On le trouve [le motteux] assez souvent dans les jachères et les friches, où il vole de pierre en pierre</quote>
 <bibl>
@@ -575,7 +575,7 @@
 <re ana="supplement">
 <form> JACHÈRE. Ajoutez : </form>
 <sense n="3">
-<dictScrap>Jachère en eau, se dit de la transformation en étangs de terres qu'on veut laisser reposer.</dictScrap>
+<dictScrap><oVar>Jachère</oVar> en eau, se dit de la transformation en étangs de terres qu'on veut laisser reposer.</dictScrap>
 <cit>
 <quote>L'ancien système de culture fondé sur la jachère labourée n'était plus possible alors ; les bras faisaient défaut.... la culture des étangs, c'est-à-dire la jachère en eau, lui fut substituée, afin de rétablir l'équilibre entre le travail à faire et les forces disponibles</quote>
 <bibl>
@@ -729,12 +729,12 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Nom vulgaire et spécifique du seneçon jacobée (synanthérées), dit encore grande jacobée.</dictScrap>
+<dictScrap>Terme de botanique. Nom vulgaire et spécifique du seneçon <oVar>jacobée</oVar> (synanthérées), dit encore grande <oVar>jacobée</oVar>.</dictScrap>
 <sense>
-<dictScrap>Jacobée élégante, nom donné par Moench au seneçon pseudo-élégant de Lesson, qui n'est pas le seneçon élégant de Linné.</dictScrap>
+<dictScrap><oVar>Jacobée</oVar> élégante, nom donné par Moench au seneçon pseudo-élégant de Lesson, qui n'est pas le seneçon élégant de Linné.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Jacobée maritime, un des noms vulgaires de la cinéraire maritime de Linné (synanthérées), appelée absolument la cinéraire, LEGOARANT.</dictScrap>
+<dictScrap><oVar>Jacobée</oVar> maritime, un des noms vulgaires de la cinéraire maritime de Linné (synanthérées), appelée absolument la cinéraire, LEGOARANT.</dictScrap>
 </sense>
 </sense>
 <etym>Jacobus, nom latin de Jacques, le seneçon jacobée étant dit vulgairement herbe de Saint-Jacques.</etym>
@@ -2010,7 +2010,7 @@
 <gram>part. passé de jalonner</gram>
 </form>
 <sense>
-<dictScrap>Un terrain jalonné.</dictScrap>
+<dictScrap>Un terrain <oVar>jalonné</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="jalonnement">
@@ -2032,7 +2032,7 @@
 <pron>ja-lo-né</pron>
 </form>
 <sense n="1">
-<dictScrap>V. n. Planter des jalons. On a jalonné toute la journée d'hier.</dictScrap>
+<dictScrap>V. n. Planter des jalons. On a <oVar>jalonné</oVar> toute la journée d'hier.</dictScrap>
 </sense>
 <sense n="2">
 <dictScrap>V. a. <oVar>Jalonner</oVar> une allée, y planter des jalons pour la dresser.</dictScrap>
@@ -4241,7 +4241,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui a la jambe faite d'une certaine façon. Il est bien jambé, mal jambé.</dictScrap>
+<dictScrap>Qui a la jambe faite d'une certaine façon. Il est bien <oVar>jambé</oVar>, mal <oVar>jambé</oVar>.</dictScrap>
 </sense>
 <etym>Jambe.</etym>
 </entry>
@@ -4335,7 +4335,7 @@
 <sense n="5">
 <dictScrap>S. f. Jambière, partie de l'ancienne armure qui couvrait les jambes.</dictScrap>
 <sense>
-<dictScrap>Aujourd'hui, espèce de guêtre dont on s'enveloppe les jambes. Les cantonniers, quand ils cassent les pierres, ont des jambières en bois.</dictScrap>
+<dictScrap>Aujourd'hui, espèce de guêtre dont on s'enveloppe les jambes. Les cantonniers, quand ils cassent les pierres, ont des <oVar>jambières</oVar> en bois.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -4619,7 +4619,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Nom, en Normandie, d'un lieu planté de jan ou ajonc. La majeure partie en labour et le surplus en jannière, l'Avranchin, 17 nov. 1872, aux annonces.</dictScrap>
+<dictScrap>Nom, en Normandie, d'un lieu planté de jan ou ajonc. La majeure partie en labour et le surplus en <oVar>jannière</oVar>, l'Avranchin, 17 nov. 1872, aux annonces.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="janrinette">
@@ -4769,11 +4769,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Il se dit aussi de la rigueur en toute autre chose. Delille se proclamait le janséniste de la rime.</dictScrap>
+<dictScrap>Il se dit aussi de la rigueur en toute autre chose. Delille se proclamait le <oVar>janséniste</oVar> de la rime.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Adj. Qui tient au jansénisme. Les principes jansénistes. La morale janséniste.</dictScrap>
+<dictScrap>Adj. Qui tient au jansénisme. Les principes <oVar>jansénistes</oVar>. La morale <oVar>janséniste</oVar>.</dictScrap>
 <cit>
 <quote>C'est saint Augustin qui m'a dit tout cela [que le Saint-Esprit prie en nous] ; je le trouve bien janséniste, et saint Paul aussi</quote>
 <bibl>
@@ -4797,7 +4797,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>À la janséniste, d'une manière rigide, austère.</dictScrap>
+<dictScrap>À la <oVar>janséniste</oVar>, d'une manière rigide, austère.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>S. f. Espèce de mitaine qui couvrait la partie du bras que la manche courte laisse à nu.</dictScrap>
@@ -5052,7 +5052,7 @@
 <sense>
 <dictScrap>Qui est de la descendance de Japhet.</dictScrap>
 <sense>
-<dictScrap>Race japhétique, race d'hommes qu'on suppose issue d'une même souche, qui occupait avant les temps historiques les plateaux de l'Asie occidentale, et qu'on nomme aussi race indo-européenne, aryenne.</dictScrap>
+<dictScrap>Race <oVar>japhétique</oVar>, race d'hommes qu'on suppose issue d'une même souche, qui occupait avant les temps historiques les plateaux de l'Asie occidentale, et qu'on nomme aussi race indo-européenne, aryenne.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -6914,7 +6914,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Qui contient du jarre. Laines jarrées. Feutre jarré.</dictScrap>
+<dictScrap>Qui contient du jarre. Laines jarrées. Feutre <oVar>jarré</oVar>.</dictScrap>
 </sense>
 <etym>Jarre 2.</etym>
 </entry>
@@ -7046,7 +7046,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de vétérinaire. Qui a les jambes de derrière tournées en dedans, de façon que les deux jarrets se touchent presque en marchant. Mulet jarreté.</dictScrap>
+<dictScrap>Terme de vétérinaire. Qui a les jambes de derrière tournées en dedans, de façon que les deux jarrets se touchent presque en marchant. Mulet <oVar>jarreté</oVar>.</dictScrap>
 <sense>
 <dictScrap>Il se dit du cheval dont le jarret ou l'angle formé par le calcanéum et le tibia comprend plus de 45°. Jument jarretée.</dictScrap>
 </sense>
@@ -7061,7 +7061,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Il se dit, en architecture, d'une surface qui a un jarret. Pilastre jarreté. Voûte jarretée.</dictScrap>
+<dictScrap>Il se dit, en architecture, d'une surface qui a un jarret. Pilastre <oVar>jarreté</oVar>. Voûte jarretée.</dictScrap>
 </sense>
 <etym>Jarret.</etym>
 </entry>
@@ -7114,7 +7114,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Les jarretières de la mariée, jarretières que les garçons de noces dérobaient autrefois et dérobent encore dans quelques provinces à la mariée.</dictScrap>
+<dictScrap>Les <oVar>jarretières</oVar> de la mariée, <oVar>jarretières</oVar> que les garçons de noces dérobaient autrefois et dérobent encore dans quelques provinces à la mariée.</dictScrap>
 <cit>
 <quote>Et la jarretière de la mariée, l'aurons-nous ?</quote>
 <bibl>
@@ -7131,17 +7131,17 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. et familièrement. Il ne lui va pas à la jarretière, il est bien loin de le valoir.</dictScrap>
+<dictScrap>Fig. et familièrement. Il ne lui va pas à la <oVar>jarretière</oVar>, il est bien loin de le valoir.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fig. et familièrement. Donner des jarretières à quelqu'un, lui donner des coups de sangle sur les jambes.</dictScrap>
+<dictScrap>Fig. et familièrement. Donner des <oVar>jarretières</oVar> à quelqu'un, lui donner des coups de sangle sur les jambes.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Je lui taillerai bien des jarretières, je lui donnerai de la besogne, je le ferai courir.</dictScrap>
+<dictScrap>Je lui taillerai bien des <oVar>jarretières</oVar>, je lui donnerai de la besogne, je le ferai courir.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Ordre de la Jarretière (on met un grand J), ordre de chevalerie institué par Édouard III d'Angleterre en 1349, à l'occasion de la jarretière de la comtesse de Salisbury, sa maîtresse, qu'il releva dans un bal, en disant : Honni soit qui mal y pense. L'ordre de la Jarretière, qui se nomme aussi de Saint-Georges, porte une image de ce saint, enchâssée dans un cercle d'or garni de diamants, et attachée à un cordon bleu qu'on passe, en forme d'écharpe, de l'épaule gauche à la hanche droite.</dictScrap>
+<dictScrap>Ordre de la <oVar>Jarretière</oVar> (on met un grand J), ordre de chevalerie institué par Édouard III d'Angleterre en 1349, à l'occasion de la <oVar>jarretière</oVar> de la comtesse de Salisbury, sa maîtresse, qu'il releva dans un bal, en disant : Honni soit qui mal y pense. L'ordre de la <oVar>Jarretière</oVar>, qui se nomme aussi de Saint-Georges, porte une image de ce saint, enchâssée dans un cercle d'or garni de diamants, et attachée à un cordon bleu qu'on passe, en forme d'écharpe, de l'épaule gauche à la hanche droite.</dictScrap>
 <cit>
 <quote>Il [Jacques II] a donné l'ordre de la Jarretière à M. de Lauzun</quote>
 <bibl>
@@ -7165,7 +7165,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Espèce de dartre farineuse entourant la jambe en manière de jarretière.</dictScrap>
+<dictScrap>Espèce de dartre farineuse entourant la jambe en manière de <oVar>jarretière</oVar>.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>Terme d'ichthyologie. Nom vulgaire du genre épidope, de la famille des ténioïdes.</dictScrap>
@@ -7894,7 +7894,7 @@
 <re ana="supplement">
 <form> JASPÉ. Ajoutez : </form>
 <sense n="2">
-<dictScrap>Trempe au jaspé, trempe jaspée, opération par laquelle on pratique des jaspures.</dictScrap>
+<dictScrap>Trempe au <oVar>jaspé</oVar>, trempe jaspée, opération par laquelle on pratique des jaspures.</dictScrap>
 <cit>
 <quote>C'est avec la savate et les os de mouton qu'on fait les trempes jaspées que l'on voit sur les armes de luxe</quote>
 <bibl>
@@ -8090,7 +8090,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Plein une jatte. Une jattée de lait.</dictScrap>
+<dictScrap>Plein une jatte. Une <oVar>jattée</oVar> de lait.</dictScrap>
 </sense>
 <etym>Jatte ; picard, gatée.</etym>
 </entry>
@@ -8217,7 +8217,7 @@
 <gram>part. passé de jauger</gram>
 </form>
 <sense>
-<dictScrap>Un tonneau jaugé à la barrière.</dictScrap>
+<dictScrap>Un tonneau <oVar>jaugé</oVar> à la barrière.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="jaugeage">
@@ -8252,11 +8252,11 @@
 <sense n="1">
 <dictScrap>Prendre la <oVar>jauge</oVar> d'un vase quelconque.</dictScrap>
 <sense>
-<dictScrap>Fig. et populairement. Apprécier la capacité d'un homme. Je l'ai jaugé tout de suite.</dictScrap>
+<dictScrap>Fig. et populairement. Apprécier la capacité d'un homme. Je l'ai <oVar>jaugé</oVar> tout de suite.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Mesurer un navire pour en connaître la capacité. On a jaugé ce bâtiment, il est de cinq cents tonneaux.</dictScrap>
+<dictScrap>Mesurer un navire pour en connaître la capacité. On a <oVar>jaugé</oVar> ce bâtiment, il est de cinq cents tonneaux.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap><oVar>Jauger</oVar> une source, une pompe, etc. mesurer la quantité d'eau fournie par une source, par une pompe, etc. dans un temps déterminé.</dictScrap>
@@ -9216,7 +9216,7 @@
 <gram>part. passé de javeler</gram>
 </form>
 <sense>
-<dictScrap>Mis en javelle. Du seigle javelé.</dictScrap>
+<dictScrap>Mis en javelle. Du seigle <oVar>javelé</oVar>.</dictScrap>
 <sense>
 <dictScrap>Avoines javelées, avoines dont le grain est devenu noir et pesant par la pluie qui les a mouillées tandis qu'elles étaient en javelle.</dictScrap>
 </sense>
@@ -10180,7 +10180,7 @@
 <sense>
 <dictScrap>Espèce d'aigle qu'on nomme aussi faucon français et chevalier blanche-queue (circaetus gallicus, Vieillot).</dictScrap>
 <sense>
-<dictScrap>Au plur. Des jean-le-blanc.</dictScrap>
+<dictScrap>Au plur. Des <oVar>jean-le-blanc</oVar>.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -10275,7 +10275,7 @@
 <sense>
 <dictScrap>Terme d'anatomie. Qui appartient au foie.</dictScrap>
 <sense>
-<dictScrap>Veine jécoraire, et, substantivement, la jécoraire, veine de la main droite qu'on supposait avoir des rapports avec le foie.</dictScrap>
+<dictScrap>Veine <oVar>jécoraire</oVar>, et, substantivement, la <oVar>jécoraire</oVar>, veine de la main droite qu'on supposait avoir des rapports avec le foie.</dictScrap>
 </sense>
 </sense>
 <etym>Lat. jecorarius, de jecur, foie.</etym>
@@ -10331,7 +10331,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>L'assemblage de caractères qui représente ce nom. On a gravé un Jéhovah au-dessus de l'autel.</dictScrap>
+<dictScrap>L'assemblage de caractères qui représente ce nom. On a gravé un <oVar>Jéhovah</oVar> au-dessus de l'autel.</dictScrap>
 </sense>
 <etym>Mot hébreu signifiant l'existant.</etym>
 </entry>
@@ -10354,7 +10354,7 @@
 <sense>
 <dictScrap>Un des rois d'Israël.</dictScrap>
 <sense>
-<dictScrap>Compagnie de Jéhu, association qui se forma en France, dans le midi, après la chute de Robespierre, et qui égorgeait les partisans de la révolution ; c'est à tort qu'on l'a nommée compagnie de Jésus</dictScrap>
+<dictScrap>Compagnie de <oVar>Jéhu</oVar>, association qui se forma en France, dans le midi, après la chute de Robespierre, et qui égorgeait les partisans de la révolution ; c'est à tort qu'on l'a nommée compagnie de Jésus</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -10400,7 +10400,7 @@
 <sense>
 <dictScrap>Qui appartient à Jenner, médecin anglais, lequel a découvert la vaccine.</dictScrap>
 <sense>
-<dictScrap>Vaccin jennérien, vaccin pris bras à bras, par opposition au vaccin pris sur une vache.</dictScrap>
+<dictScrap>Vaccin <oVar>jennérien</oVar>, vaccin pris bras à bras, par opposition au vaccin pris sur une vache.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -10460,9 +10460,9 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Nom de la capitale de la Judée. La Jérusalem délivrée, titre d'un poëme célèbre du Tasse, où il chante la prise de la ville sainte par les croisés.</dictScrap>
+<dictScrap>Nom de la capitale de la Judée. La <oVar>Jérusalem</oVar> délivrée, titre d'un poëme célèbre du Tasse, où il chante la prise de la ville sainte par les croisés.</dictScrap>
 <sense>
-<dictScrap>Jérusalem céleste, Jérusalem nouvelle, se dit, dans le style mystique, du séjour des bienheureux.</dictScrap>
+<dictScrap><oVar>Jérusalem</oVar> céleste, <oVar>Jérusalem</oVar> nouvelle, se dit, dans le style mystique, du séjour des bienheureux.</dictScrap>
 <cit>
 <quote>Quelle Jérusalem nouvelle Sort du fond du désert, brillante de clartés ?</quote>
 <bibl>
@@ -10511,16 +10511,16 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Nom des membres de l'ordre religieux fondé, sous le nom de clercs réguliers de la compagnie de Jésus, par saint Ignace de Loyola en 1534 ; cet ordre porte aussi le nom de société de Jésus ; il fait profession d'élever la jeunesse et de s'employer aux missions. Le général des jésuites. Il étudia chez les jésuites. Les jésuites furent expulsés de France en 1764, supprimés par le pape Clément XIV le 21 juillet 1773, et rétablis le 14 août 1814 par le pape Pie VII.</dictScrap>
+<dictScrap>Nom des membres de l'ordre religieux fondé, sous le nom de clercs réguliers de la compagnie de Jésus, par saint Ignace de Loyola en 1534 ; cet ordre porte aussi le nom de société de Jésus ; il fait profession d'élever la jeunesse et de s'employer aux missions. Le général des <oVar>jésuites</oVar>. Il étudia chez les <oVar>jésuites</oVar>. Les <oVar>jésuites</oVar> furent expulsés de France en 1764, supprimés par le pape Clément XIV le 21 juillet 1773, et rétablis le 14 août 1814 par le pape Pie VII.</dictScrap>
 <sense>
-<dictScrap>Jésuite de robe courte, laïque affilié à l'ordre des jésuites.</dictScrap>
+<dictScrap><oVar>Jésuite</oVar> de robe courte, laïque affilié à l'ordre des <oVar>jésuites</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Fig. et familièrement. C'est un jésuite, c'est un hypocrite dont il faut se défier, locution tirée des restrictions mentales dont la morale des jésuites était accusée.</dictScrap>
+<dictScrap>Fig. et familièrement. C'est un <oVar>jésuite</oVar>, c'est un hypocrite dont il faut se défier, locution tirée des restrictions mentales dont la morale des <oVar>jésuites</oVar> était accusée.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Nom donné, dans quelques provinces, au dindon, qu'on croit, à tort, avoir été introduit par les jésuites en Europe.</dictScrap>
+<dictScrap>Nom donné, dans quelques provinces, au dindon, qu'on croit, à tort, avoir été introduit par les <oVar>jésuites</oVar> en Europe.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -10594,7 +10594,7 @@
 <dictScrap>Système de conduite des jésuites ou de leurs adhérents ; mais en mauvaise part et considéré par rapport à la morale relâchée et aux restrictions mentales qu'on leur attribue.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Conduite jésuitique. C'est du jésuitisme tout pur.</dictScrap>
+<dictScrap>Conduite jésuitique. C'est du <oVar>jésuitisme</oVar> tout pur.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -10627,10 +10627,10 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Dévotion au cœur de Jésus, à l'enfant Jésus, se dit d'une image représentant un cœur ou un enfant Jésus entouré d'une gloire.</dictScrap>
+<dictScrap>Dévotion au cœur de <oVar>Jésus</oVar>, à l'enfant <oVar>Jésus</oVar>, se dit d'une image représentant un cœur ou un enfant <oVar>Jésus</oVar> entouré d'une gloire.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Bon Jésus ! doux Jésus ! Jésus Maria, ou, simplement, Jésus ! exclamations d'admiration, de crainte, de joie.</dictScrap>
+<dictScrap>Bon <oVar>Jésus</oVar> ! doux <oVar>Jésus</oVar> ! <oVar>Jésus</oVar> Maria, ou, simplement, <oVar>Jésus</oVar> ! exclamations d'admiration, de crainte, de joie.</dictScrap>
 <cit>
 <quote>Cinq ou six laquais qui étaient derrière [le carrosse] criaient Jésus Maria ! et tremblaient déjà de peur</quote>
 <bibl>
@@ -10654,19 +10654,19 @@
 </cit>
 </sense>
 <sense n="4">
-<dictScrap>Ordre de Jésus, nom d'un ordre de chevaliers institué à Rome en 1459 par le pape Pie II pour s'opposer aux Turcs.</dictScrap>
+<dictScrap>Ordre de <oVar>Jésus</oVar>, nom d'un ordre de chevaliers institué à Rome en 1459 par le pape Pie II pour s'opposer aux Turcs.</dictScrap>
 <sense>
-<dictScrap>Paul V en institua un autre, en 1615, sous le nom de chevaliers de Jésus et de Marie, qui portaient une croix émaillée de bleu, orlée d'or, au milieu de laquelle il y avait un nom de Jésus en or.</dictScrap>
+<dictScrap>Paul V en institua un autre, en 1615, sous le nom de chevaliers de <oVar>Jésus</oVar> et de Marie, qui portaient une croix émaillée de bleu, orlée d'or, au milieu de laquelle il y avait un nom de <oVar>Jésus</oVar> en or.</dictScrap>
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Les filles de l'enfant Jésus, société de filles, établies à Rome, en 1661, au nombre de trente-trois, pour honorer les trente-trois années que Jésus-Christ a passées sur la terre.</dictScrap>
+<dictScrap>Les filles de l'enfant <oVar>Jésus</oVar>, société de filles, établies à Rome, en 1661, au nombre de trente-trois, pour honorer les trente-trois années que <oVar>Jésus</oVar>-Christ a passées sur la terre.</dictScrap>
 </sense>
 <sense n="6">
-<dictScrap>Compagnie ou société de Jésus, l'ordre des jésuites.</dictScrap>
+<dictScrap>Compagnie ou société de <oVar>Jésus</oVar>, l'ordre des jésuites.</dictScrap>
 </sense>
 <sense n="7">
-<dictScrap>Terme de papeterie. Papier nom de jésus, ou, simplement, papier jésus, sorte de papier de grand format, qui s'emploie principalement dans l'imprimerie, et dont la marque portait autrefois le nom de Jésus (I. H. S.).</dictScrap>
+<dictScrap>Terme de papeterie. Papier nom de <oVar>jésus</oVar>, ou, simplement, papier <oVar>jésus</oVar>, sorte de papier de grand format, qui s'emploie principalement dans l'imprimerie, et dont la marque portait autrefois le nom de <oVar>Jésus</oVar> (I. H. S.).</dictScrap>
 </sense>
 <etym>Nom hébreu qui signifie sauveur.</etym>
 </entry>
@@ -11058,7 +11058,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. et familièrement. Jeté au panier, aux ordures, au sac aux ordures, tenu à mépris.</dictScrap>
+<dictScrap>Fig. et familièrement. <oVar>Jeté</oVar> au panier, aux ordures, au sac aux ordures, tenu à mépris.</dictScrap>
 <cit>
 <quote>Il ne m'a pas paru que Mme de Schomberg ait encore pris ma place [auprès de Mme de la Fayette].... enfin je ne crois pas être tout à fait jetée au sac aux ordures</quote>
 <bibl>
@@ -11078,7 +11078,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>De l'argent jeté, de l'argent prodigué sans profit, sans utilité.</dictScrap>
+<dictScrap>De l'argent <oVar>jeté</oVar>, de l'argent prodigué sans profit, sans utilité.</dictScrap>
 <cit>
 <quote>J'approuve bien de supprimer les étrennes, c'est de l'argent jeté</quote>
 <bibl>
@@ -11133,7 +11133,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Jeté hors de soi-même, qui n'est plus maître de soi.</dictScrap>
+<dictScrap><oVar>Jeté</oVar> hors de soi-même, qui n'est plus maître de soi.</dictScrap>
 <cit>
 <quote>Égaré, subjugué, jeté hors de moi-même, Je ne suis plus à moi, ....j'aime</quote>
 <bibl>
@@ -11144,7 +11144,7 @@
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Terme militaire. Introduit, posté. Un régiment jeté dans la place.</dictScrap>
+<dictScrap>Terme militaire. Introduit, posté. Un régiment <oVar>jeté</oVar> dans la place.</dictScrap>
 <cit>
 <quote>On remarquait qu'on y avait marché [vers une position] languissamment ; qu'une division seule, jetée à trois lieues de tout secours, y avait été négligemment aventurée ; que les corps d'armée étaient restés hors de portée les uns des autres</quote>
 <bibl>
@@ -11162,7 +11162,7 @@
 <biblScope>Ois. t. XVII, p. 462</biblScope>
 </bibl>
 </cit>
-<dictScrap>Marbre jeté, voy. <ref target="marbre">MARBRE</ref>.</dictScrap>
+<dictScrap>Marbre <oVar>jeté</oVar>, voy. <ref target="marbre">MARBRE</ref>.</dictScrap>
 </sense>
 <sense n="6">
 <dictScrap>Mis dans une certaine position, en parlant d'une partie du corps.</dictScrap>
@@ -11175,7 +11175,7 @@
 </cit>
 </sense>
 <sense n="7">
-<dictScrap>Il se dit d'un vêtement mis à la hâte. Un manteau jeté sur ses épaules.</dictScrap>
+<dictScrap>Il se dit d'un vêtement mis à la hâte. Un manteau <oVar>jeté</oVar> sur ses épaules.</dictScrap>
 <sense>
 <dictScrap>Par analogie il se dit, en peinture et en sculpture, de la disposition des draperies.</dictScrap>
 <cit>
@@ -11187,7 +11187,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Terme de beaux-arts et de littérature. Cela est jeté, bien jeté, se dit de tout ce qui est fait d'un seul jet, d'une esquisse heureuse et rapide.</dictScrap>
+<dictScrap>Terme de beaux-arts et de littérature. Cela est <oVar>jeté</oVar>, bien <oVar>jeté</oVar>, se dit de tout ce qui est fait d'un seul jet, d'une esquisse heureuse et rapide.</dictScrap>
 <cit>
 <quote>Il faut voir comme cette figure est jetée</quote>
 <bibl>
@@ -11232,16 +11232,16 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Un des pas de la danse, mouvement par lequel on jette un pied en avant ou en arrière ou de côté, et on lève l'autre en même temps ; il se compose d'un plié et d'un tombé : une jambe se plie, et, en se redressant, lance le corps, qui retombe sur l'autre jambe. Jeté battu.</dictScrap>
+<dictScrap>Un des pas de la danse, mouvement par lequel on jette un pied en avant ou en arrière ou de côté, et on lève l'autre en même temps ; il se compose d'un plié et d'un tombé : une jambe se plie, et, en se redressant, lance le corps, qui retombe sur l'autre jambe. <oVar>Jeté</oVar> battu.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Au tricot, un jeté, le brin jeté sur l'aiguille avant de prendre la maille, ce qui fait une maille de plus si l'on veut.</dictScrap>
+<dictScrap>Au tricot, un <oVar>jeté</oVar>, le brin <oVar>jeté</oVar> sur l'aiguille avant de prendre la maille, ce qui fait une maille de plus si l'on veut.</dictScrap>
 </sense>
 <etym>Jeté 1.</etym>
 <re ana="supplement">
 <form> JETÉ. Ajoutez : </form>
 <sense n="10">
-<dictScrap>Néologisme. Jeté de, parsemé.</dictScrap>
+<dictScrap>Néologisme. <oVar>Jeté</oVar> de, parsemé.</dictScrap>
 <cit>
 <quote>Quelques menus dessins, jetés d'insectes ou de feuillages comme les Japonais en sèment à l'intérieur de leurs coffrets</quote>
 <bibl>
@@ -11259,19 +11259,19 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Construction de bois ou de pierre, faite pour redresser le lit d'un cours d'eau, pour protéger l'entrée d'un port. Jetée de fascinage. Jetée de charpente. Jetée de maçonnerie.</dictScrap>
+<dictScrap>Construction de bois ou de pierre, faite pour redresser le lit d'un cours d'eau, pour protéger l'entrée d'un port. <oVar>Jetée</oVar> de fascinage. <oVar>Jetée</oVar> de charpente. <oVar>Jetée</oVar> de maçonnerie.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Amas de pierres, de sable et de cailloux jetés dans un mauvais chemin pour le rendre plus praticable. On a fait une jetée dans ce chemin.</dictScrap>
+<dictScrap>Amas de pierres, de sable et de cailloux jetés dans un mauvais chemin pour le rendre plus praticable. On a fait une <oVar>jetée</oVar> dans ce chemin.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Terme de médecine. Jetée goutteuse, se dit quand la goutte se porte soit sur les articulations, soit sur quelque organe intérieur.</dictScrap>
+<dictScrap>Terme de médecine. <oVar>Jetée</oVar> goutteuse, se dit quand la goutte se porte soit sur les articulations, soit sur quelque organe intérieur.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>Chaque nouvel essaim d'abeilles.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Terme de chandelier. Jetée des chandelles, le nombre de chandelles qu'on peut mouler d'une seule fonte de suif.</dictScrap>
+<dictScrap>Terme de chandelier. <oVar>Jetée</oVar> des chandelles, le nombre de chandelles qu'on peut mouler d'une seule fonte de suif.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -11511,10 +11511,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Ce vêtement, cette draperie, etc. est jetée avec grâce, avec élégance, en parlant d'un vêtement, d'une draperie disposés avec quelque négligence mais non sans grâce.</dictScrap>
+<dictScrap>Ce vêtement, cette draperie, etc. est <oVar>jetée</oVar> avec grâce, avec élégance, en parlant d'un vêtement, d'une draperie disposés avec quelque négligence mais non sans grâce.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Terme de peinture. <oVar>Jeter</oVar> une draperie, donner une certaine disposition aux plis de la draperie dont on revêt une figure. Les plis de cette draperie sont bien jetés.</dictScrap>
+<dictScrap>Terme de peinture. <oVar>Jeter</oVar> une draperie, donner une certaine disposition aux plis de la draperie dont on revêt une figure. Les plis de cette draperie sont bien <oVar>jetés</oVar>.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig. <oVar>Jeter</oVar> un voile sur quelque chose, le passer sous silence.</dictScrap>
@@ -11655,7 +11655,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap><oVar>Jeter</oVar> se dit aussi au piquet, à l'écarté, des cartes que l'on écarte, dont on se défait pour en prendre d'autres. J'ai jeté les cœurs. J'aurais eu une quinte, mais j'ai jeté mon jeu. <oVar>Jeter</oVar> les cartes, cesser la partie.</dictScrap>
+<dictScrap><oVar>Jeter</oVar> se dit aussi au piquet, à l'écarté, des cartes que l'on écarte, dont on se défait pour en prendre d'autres. J'ai <oVar>jeté</oVar> les cœurs. J'aurais eu une quinte, mais j'ai <oVar>jeté</oVar> mon jeu. <oVar>Jeter</oVar> les cartes, cesser la partie.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Bassement et par un mauvais jeu de mots, <oVar>jeter</oVar> du cœur sur du carreau, <oVar>jeter</oVar> des fusées, vomir.</dictScrap>
@@ -11837,7 +11837,7 @@
 </sense>
 </sense>
 <sense n="12">
-<dictScrap><oVar>Jeter</oVar> une couleur sur, donner une couleur à. Le peintre a jeté une teinte grise sur son tableau.</dictScrap>
+<dictScrap><oVar>Jeter</oVar> une couleur sur, donner une couleur à. Le peintre a <oVar>jeté</oVar> une teinte grise sur son tableau.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -11910,7 +11910,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. <oVar>Jeter</oVar> les yeux sur quelqu'un, signifie quelquefois avoir sur quelqu'un des vues particulières. Il a jeté les yeux sur ce jeune homme pour en faire son gendre.</dictScrap>
+<dictScrap>Fig. <oVar>Jeter</oVar> les yeux sur quelqu'un, signifie quelquefois avoir sur quelqu'un des vues particulières. Il a <oVar>jeté</oVar> les yeux sur ce jeune homme pour en faire son gendre.</dictScrap>
 <cit>
 <quote>Par moi seule éloigné de l'hymen d'Octavie.... Silanus, sur qui Claude avait jeté les yeux....</quote>
 <bibl>
@@ -12237,7 +12237,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap><oVar>Jeter</oVar> des propos, avancer des propos qui vont indirectement à insinuer ou à découvrir quelque chose. Ce ministre a jeté des propos de paix, de guerre.</dictScrap>
+<dictScrap><oVar>Jeter</oVar> des propos, avancer des propos qui vont indirectement à insinuer ou à découvrir quelque chose. Ce ministre a <oVar>jeté</oVar> des propos de paix, de guerre.</dictScrap>
 <cit>
 <quote>Puisque le propos en est jeté, il faut que je le suive</quote>
 <bibl>
@@ -12456,7 +12456,7 @@
 </sense>
 </sense>
 <sense n="24">
-<dictScrap>Calculer avec des <oVar>jetons</oVar>. <oVar>Jetez</oVar> ces sommes-là ; je les ai jetées, et j'ai trouvé qu'elles montent à.... Apprendre à <oVar>jeter</oVar>.</dictScrap>
+<dictScrap>Calculer avec des <oVar>jetons</oVar>. <oVar>Jetez</oVar> ces sommes-là ; je les ai <oVar>jetées</oVar>, et j'ai trouvé qu'elles montent à.... Apprendre à <oVar>jeter</oVar>.</dictScrap>
 <sense>
 <dictScrap>Ce sens est vieilli. On disait <oVar>jeter</oVar>, parce qu'on se servait de jets ou <oVar>jetons</oVar>.</dictScrap>
 </sense>
@@ -12474,10 +12474,10 @@
 <dictScrap><oVar>Jeter</oVar> les dés, les lancer hors du cornet pour amener les points.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fig. Le dé en est jeté, le parti en est pris.</dictScrap>
+<dictScrap>Fig. Le dé en est <oVar>jeté</oVar>, le parti en est pris.</dictScrap>
 </sense>
 <sense>
-<dictScrap>On dit dans le même sens : Le sort en est jeté.</dictScrap>
+<dictScrap>On dit dans le même sens : Le sort en est <oVar>jeté</oVar>.</dictScrap>
 <cit>
 <quote>Le sort en est jeté, monsieur, n'en parlons plus</quote>
 <bibl>
@@ -12599,7 +12599,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. et familièrement. Il a jeté tout son venin, c'est-à-dire il a dit, dans l'emportement de sa colère, tout ce qu'il avait sur le cœur.</dictScrap>
+<dictScrap>Fig. et familièrement. Il a <oVar>jeté</oVar> tout son venin, c'est-à-dire il a dit, dans l'emportement de sa colère, tout ce qu'il avait sur le cœur.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Fig. et familièrement. <oVar>Jeter</oVar> son feu, tout son feu, voy. <ref target="feu#var38">FEU, n° 38</ref>.</dictScrap>
@@ -12622,7 +12622,7 @@
 </cit>
 </sense>
 <sense n="28">
-<dictScrap>En parlant des mouches à miel, produire et mettre dehors un nouvel essaim. Les mouches ont jeté deux essaims cette année.</dictScrap>
+<dictScrap>En parlant des mouches à miel, produire et mettre dehors un nouvel essaim. Les mouches ont <oVar>jeté</oVar> deux essaims cette année.</dictScrap>
 <cit>
 <quote>Quelques pleines que fussent les ruches prêtes à jeter leur essaim</quote>
 <bibl>
@@ -12631,11 +12631,11 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Absolument. Ces mouches n'ont point encore jeté.</dictScrap>
+<dictScrap>Absolument. Ces mouches n'ont point encore <oVar>jeté</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="29">
-<dictScrap>En parlant des arbres et des plantes, produire des bourgeons ou des scions. Cette vigne a bien jeté du bois. Cet arbre a jeté des scions.</dictScrap>
+<dictScrap>En parlant des arbres et des plantes, produire des bourgeons ou des scions. Cette vigne a bien <oVar>jeté</oVar> du bois. Cet arbre a <oVar>jeté</oVar> des scions.</dictScrap>
 <cit>
 <quote>Il accourt ; devant lui l'herbe jette des fleurs</quote>
 <bibl>
@@ -12650,7 +12650,7 @@
 <dictScrap><oVar>Jeter</oVar> de profondes racines, s'enraciner profondément. Les arbres <oVar>jettent</oVar> des racines plus profondes les uns que les autres.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fig. Cet abus avait jeté de si profondes racines qu'il était difficile de l'extirper.</dictScrap>
+<dictScrap>Fig. Cet abus avait <oVar>jeté</oVar> de si profondes racines qu'il était difficile de l'extirper.</dictScrap>
 </sense>
 </sense>
 <sense n="30">
@@ -12717,7 +12717,7 @@
 </sense>
 </sense>
 <sense n="34">
-<dictScrap>Se <oVar>jeter</oVar>, V. réfl. Être jeté. Les pierres qui se <oVar>jetaient</oVar> avec les frondes.</dictScrap>
+<dictScrap>Se <oVar>jeter</oVar>, V. réfl. Être <oVar>jeté</oVar>. Les pierres qui se <oVar>jetaient</oVar> avec les frondes.</dictScrap>
 </sense>
 <sense n="35">
 <dictScrap>Être prodigué, en parlant de l'argent.</dictScrap>
@@ -12939,7 +12939,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Se <oVar>jeter</oVar> sur quelque chose, signifie quelquefois s'y porter avidement. Les chasseurs mouraient de faim, ils se jetèrent sur un pâté qu'ils avaient apporté.</dictScrap>
+<dictScrap>Se <oVar>jeter</oVar> sur quelque chose, signifie quelquefois s'y porter avidement. Les chasseurs mouraient de faim, ils se <oVar>jetèrent</oVar> sur un pâté qu'ils avaient apporté.</dictScrap>
 <cit>
 <quote>Les archers français, prenant ce premier avantage pour le gain de la bataille, se jetèrent sur le bagage et se mirent à piller au lieu de combattre</quote>
 <bibl>
@@ -13140,7 +13140,7 @@
 </cit>
 </sense>
 <sense n="43">
-<dictScrap>Se <oVar>jeter</oVar> sur, se dit des humeurs, des maladies qui attaquent une partie du corps. La goutte s'est jetée sur l'estomac.</dictScrap>
+<dictScrap>Se <oVar>jeter</oVar> sur, se dit des humeurs, des maladies qui attaquent une partie du corps. La goutte s'est <oVar>jetée</oVar> sur l'estomac.</dictScrap>
 <cit>
 <quote>La furie de votre sang, qui vous a fait si souvent du ravage, m'empêche de rire quand il se jette ainsi dans votre gorge</quote>
 <bibl>
@@ -14140,7 +14140,7 @@
 </cit>
 </sense>
 <sense n="5">
-<dictScrap>Par substitution du sens de divertissement à celui d'un <oVar>jeu</oVar> spécial, c'est-à-dire substitution du sens de ludus à celui de jocus. Amusement soumis à des règles, où il s'agit de se divertir sans qu'il y ait aucun enjeu. Le <oVar>jeu</oVar> des barres. Le <oVar>jeu</oVar> de colin-maillard.</dictScrap>
+<dictScrap>Par substitution du sens de divertissement à celui d'un <oVar>jeu</oVar> spécial, c'est-à-dire substitution du sens de ludus à celui de jocus. Amusement soumis à des règles, où il s'agit de se divertir sans qu'il y ait aucun en<oVar>jeu</oVar>. Le <oVar>jeu</oVar> des barres. Le <oVar>jeu</oVar> de colin-maillard.</dictScrap>
 <cit>
 <quote>Les jeux qui naissent de la force et de l'adresse, sont toujours les premiers connus d'un peuple naissant</quote>
 <bibl>
@@ -14457,7 +14457,7 @@
 <dictScrap>Tenir le <oVar>jeu</oVar> de quelqu'un, jouer pour quelqu'un.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Mettre au <oVar>jeu</oVar>, donner, déposer son enjeu.</dictScrap>
+<dictScrap>Mettre au <oVar>jeu</oVar>, donner, déposer son en<oVar>jeu</oVar>.</dictScrap>
 <cit>
 <quote>J'y jouerais bien en cachette [à la roulette], Mais il faudrait mettre au jeu</quote>
 <bibl>
@@ -14967,10 +14967,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Tirer le <oVar>jeu</oVar>, décider par le sort quel sera le montant de l'enjeu.</dictScrap>
+<dictScrap>Tirer le <oVar>jeu</oVar>, décider par le sort quel sera le montant de l'en<oVar>jeu</oVar>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Faire le <oVar>jeu</oVar>, déposer les enjeux. Le <oVar>jeu</oVar> est-il fait ?</dictScrap>
+<dictScrap>Faire le <oVar>jeu</oVar>, déposer les en<oVar>jeux</oVar>. Le <oVar>jeu</oVar> est-il fait ?</dictScrap>
 </sense>
 <sense>
 <dictScrap><q>J'y vais du <oVar>jeu</oVar></q>, <q>j'y suis du <oVar>jeu</oVar></q>, et, par abréviation, <q>j'en suis</q>, se dit aux <oVar>jeux</oVar> de renvi, pour avertir que l'on joue une somme pareille à celle qui est sur le <oVar>jeu</oVar>.</dictScrap>
@@ -16275,7 +16275,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Abstinence d'aliments. Un trop long jeûne est nuisible à l'estomac.</dictScrap>
+<dictScrap>Abstinence d'aliments. Un trop long <oVar>jeûne</oVar> est nuisible à l'estomac.</dictScrap>
 <cit>
 <quote>Vous leur faites observer [à vos chevaux] des jeûnes si austères que ce ne sont plus rien que des idées ou des fantômes, des façons de chevaux</quote>
 <bibl>
@@ -16284,7 +16284,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fig. Toute espèce de privation. Ne pas pouvoir lire est un véritable jeûne pour l'esprit.</dictScrap>
+<dictScrap>Fig. Toute espèce de privation. Ne pas pouvoir lire est un véritable <oVar>jeûne</oVar> pour l'esprit.</dictScrap>
 <cit>
 <quote>Nous avons été jusqu'ici dans un jeûne effroyable de divertissements</quote>
 <bibl>
@@ -16333,7 +16333,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Le jeûne des catholiques, qui consiste à s'abstenir de viande en ne faisant qu'un repas dans toute la journée, soit à dîner avec une légère collation à souper, soit à souper avec une légère collation à dîner.</dictScrap>
+<dictScrap>Le <oVar>jeûne</oVar> des catholiques, qui consiste à s'abstenir de viande en ne faisant qu'un repas dans toute la journée, soit à dîner avec une légère collation à souper, soit à souper avec une légère collation à dîner.</dictScrap>
 <cit>
 <quote>Si j'ai vingt et un ans et qu'il soit demain jeûne</quote>
 <bibl>
@@ -16384,10 +16384,10 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Le jeûne chez les protestants, qui diffère de celui des catholiques en ce que les protestants peuvent manger de la viande, mais ne peuvent manger qu'après le soleil couché.</dictScrap>
+<dictScrap>Le <oVar>jeûne</oVar> chez les protestants, qui diffère de celui des catholiques en ce que les protestants peuvent manger de la viande, mais ne peuvent manger qu'après le soleil couché.</dictScrap>
 </sense>
 <sense>
-<dictScrap>On dit d'une chose qui ennuie, qu'elle est longue comme un jour de jeûne.</dictScrap>
+<dictScrap>On dit d'une chose qui ennuie, qu'elle est longue comme un jour de <oVar>jeûne</oVar>.</dictScrap>
 </sense>
 </sense>
 <re type="proverbe"><form>Il a bien fait des jeûnes qui n'étaient pas de commandement</form>, se dit de quelqu'un qui a souffert de grandes privations, beaucoup de misère. </re>
@@ -16496,7 +16496,7 @@
 <gram>v. n.</gram>
 </form>
 <sense n="1">
-<dictScrap>Manger moins qu'il ne faut, ou même ne point manger du tout, soit volontairement, soit par force. Faire jeûner ses domestiques.</dictScrap>
+<dictScrap>Manger moins qu'il ne faut, ou même ne point manger du tout, soit volontairement, soit par force. Faire <oVar>jeûner</oVar> ses domestiques.</dictScrap>
 <cit>
 <quote>Depuis que chez ma cousine Qui jeûnait en carnaval....</quote>
 <bibl>
@@ -16568,7 +16568,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>L'infinitif, pris substantivement. Le trop jeûner, le trop boire, et autres excès. DESC. l'Homme.</dictScrap>
+<dictScrap>L'infinitif, pris substantivement. Le trop <oVar>jeûner</oVar>, le trop boire, et autres excès. DESC. l'Homme.</dictScrap>
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
@@ -17221,7 +17221,7 @@
 <gram>s. m. et f.</gram>
 </form>
 <sense>
-<dictScrap>Celui, celle qui jeûne. C'est un grand jeûneur.</dictScrap>
+<dictScrap>Celui, celle qui jeûne. C'est un grand <oVar>jeûneur</oVar>.</dictScrap>
 <cit>
 <quote>Le jeûneur maudit son sort</quote>
 <bibl>
@@ -17455,7 +17455,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Société formée pour l'amélioration de la race chevaline. Les membres du Jockey-Club.</dictScrap>
+<dictScrap>Société formée pour l'amélioration de la race chevaline. Les membres du <oVar>Jockey-Club</oVar>.</dictScrap>
 <sense>
 <dictScrap>Nom d'un cercle à Paris.</dictScrap>
 </sense>
@@ -19233,9 +19233,9 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de vétérinaire. Cheval long-jointé, cheval dont les paturons sont allongés.</dictScrap>
+<dictScrap>Terme de vétérinaire. Cheval long-<oVar>jointé</oVar>, cheval dont les paturons sont allongés.</dictScrap>
 <sense>
-<dictScrap>Cheval court-jointé, cheval chez lequel les paturons sont courts.</dictScrap>
+<dictScrap>Cheval court-<oVar>jointé</oVar>, cheval chez lequel les paturons sont courts.</dictScrap>
 <cit>
 <quote>[En parlant d'un cheval] Point d'épaules non plus qu'un lièvre, court-jointé, Et qui fait dans son port voir sa vivacité</quote>
 <bibl>
@@ -19245,7 +19245,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Cheval bas-jointé, cheval chez lequel la direction du paturon se rapproche beaucoup de l'horizontale.</dictScrap>
+<dictScrap>Cheval bas-<oVar>jointé</oVar>, cheval chez lequel la direction du paturon se rapproche beaucoup de l'horizontale.</dictScrap>
 </sense>
 </sense>
 <etym>Jointe.</etym>
@@ -19257,7 +19257,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Autant qu'il peut être contenu dans le creux des deux mains jointes. Une jointée d'orge.</dictScrap>
+<dictScrap>Autant qu'il peut être contenu dans le creux des deux mains jointes. Une <oVar>jointée</oVar> d'orge.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -20288,7 +20288,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de botanique. Genre de plantes droites et flexibles qui sert de type à la famille des joncacées ; l'on y distingue : le <oVar>jonc</oVar> commun, ou <oVar>jonc</oVar> des champs, qui est le <oVar>jonc</oVar> aggloméré, juncus conglomeratus, L. ; le <oVar>jonc</oVar> maritime, différent du <oVar>jonc</oVar> marin, ajonc, et <oVar>jonc</oVar> épineux, qui est une légumineuse, ulex europoeanus, L. ; et le <oVar>jonc</oVar> des jardiniers, juncus glaucus, Ehr. Des paniers de <oVar>jonc</oVar>. Nattes de <oVar>jonc</oVar>. Une canne de <oVar>jonc</oVar>.</dictScrap>
+<dictScrap>Terme de botanique. Genre de plantes droites et flexibles qui sert de type à la famille des joncacées ; l'on y distingue : le <oVar>jonc</oVar> commun, ou <oVar>jonc</oVar> des champs, qui est le <oVar>jonc</oVar> aggloméré, juncus conglomeratus, L. ; le <oVar>jonc</oVar> maritime, différent du <oVar>jonc</oVar> marin, a<oVar>jonc</oVar>, et <oVar>jonc</oVar> épineux, qui est une légumineuse, ulex europoeanus, L. ; et le <oVar>jonc</oVar> des jardiniers, juncus glaucus, Ehr. Des paniers de <oVar>jonc</oVar>. Nattes de <oVar>jonc</oVar>. Une canne de <oVar>jonc</oVar>.</dictScrap>
 <cit>
 <quote>Et la faux à la main, parmi vos marécages, Allez couper vos joncs et presser vos laitages</quote>
 <bibl>
@@ -20543,7 +20543,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Grande quantité d'herbes, de fleurs et de branchages qu'on répand dans les rues, les églises, etc. pour quelque solennité. Faire une jonchée d'herbes et de fleurs.</dictScrap>
+<dictScrap>Grande quantité d'herbes, de fleurs et de branchages qu'on répand dans les rues, les églises, etc. pour quelque solennité. Faire une <oVar>jonchée</oVar> d'herbes et de fleurs.</dictScrap>
 </sense>
 <sense n="2">
 <dictScrap>Fig. Abatis, carnage.</dictScrap>
@@ -20556,7 +20556,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Petit fromage fait dans un panier de jonc. Une jonchée de crème.</dictScrap>
+<dictScrap>Petit fromage fait dans un panier de jonc. Une <oVar>jonchée</oVar> de crème.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -20681,7 +20681,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Étendre çà et là sur le sol en grande quantité. Les débris dont l'ouragan avait jonché le sol.</dictScrap>
+<dictScrap>Étendre çà et là sur le sol en grande quantité. Les débris dont l'ouragan avait <oVar>jonché</oVar> le sol.</dictScrap>
 <cit>
 <quote>Le champ de bataille était jonché de près de trente mille morts ou mourants</quote>
 <bibl>
@@ -20698,7 +20698,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Se <oVar>joncher</oVar>, être jonché. Les rues se jonchèrent rapidement de feuilles et de fleurs.</dictScrap>
+<dictScrap>Se <oVar>joncher</oVar>, être <oVar>jonché</oVar>. Les rues se jonchèrent rapidement de feuilles et de fleurs.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -21585,7 +21585,7 @@
 <gram>part. passé de jouer</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui est fait, en parlant d'un jeu, d'une partie, d'un coup. Une partie heureusement jouée.</dictScrap>
+<dictScrap>Qui est fait, en parlant d'un jeu, d'une partie, d'un coup. Une partie heureusement <oVar>jouée</oVar>.</dictScrap>
 <cit>
 <quote>Le plus grand jeu joué dans cette intention [de ne pas médire] Peut même devenir une bonne action</quote>
 <bibl>
@@ -21594,20 +21594,20 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Au jeu de dames, de trictrac, dame touchée, dame jouée, c'est-à-dire lorsqu'on a touché une dame, on est obligé de la jouer.</dictScrap>
+<dictScrap>Au jeu de dames, de trictrac, dame touchée, dame <oVar>jouée</oVar>, c'est-à-dire lorsqu'on a touché une dame, on est obligé de la jouer.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Hasardé au jeu. De grosses sommes jouées et perdues.</dictScrap>
+<dictScrap>Hasardé au jeu. De grosses sommes <oVar>jouées</oVar> et perdues.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Trompé, abusé. Indignement joué par une femme en qui il avait mis sa confiance.</dictScrap>
+<dictScrap>Trompé, abusé. Indignement <oVar>joué</oVar> par une femme en qui il avait mis sa confiance.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>Exécuté sur un instrument. Une sonate jouée sur le piano.</dictScrap>
+<dictScrap>Exécuté sur un instrument. Une sonate <oVar>jouée</oVar> sur le piano.</dictScrap>
 </sense>
 <sense n="5">
-<dictScrap>Représenté sur un théâtre. La pièce nouvelle jouée hier aux Français.</dictScrap>
+<dictScrap>Représenté sur un théâtre. La pièce nouvelle <oVar>jouée</oVar> hier aux Français.</dictScrap>
 <sense>
 <dictScrap>Il se dit d'un personnage.</dictScrap>
 <cit>
@@ -21637,7 +21637,7 @@
 </sense>
 </sense>
 <sense n="6">
-<dictScrap>Tourné en ridicule. Les médecins joués par Molière.</dictScrap>
+<dictScrap>Tourné en ridicule. Les médecins <oVar>joués</oVar> par Molière.</dictScrap>
 <cit>
 <quote>Tous ceux qui sont au fait de l'histoire littéraire de ce temps-là, savent que Ménage y est joué [dans les Femmes savantes] sous le nom de Vadius, et que Trissotin est le fameux abbé Cotin, si connu par les satires de Despréaux</quote>
 <bibl>
@@ -21654,9 +21654,9 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'architecture. Épaisseur du mur dans l'ouverture d'une porte, d'une fenêtre, d'un soupirail. Cette fenêtre a beaucoup de jouée.</dictScrap>
+<dictScrap>Terme d'architecture. Épaisseur du mur dans l'ouverture d'une porte, d'une fenêtre, d'un soupirail. Cette fenêtre a beaucoup de <oVar>jouée</oVar>.</dictScrap>
 <sense>
-<dictScrap>On dit dans un sens analogue : la jouée d'un abat-jour, d'une lucarne.</dictScrap>
+<dictScrap>On dit dans un sens analogue : la <oVar>jouée</oVar> d'un abat-jour, d'une lucarne.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Terme de tapissier. La partie d'étoffe avec laquelle on ferme l'espace qui reste vide entre le siége et les bras d'un fauteuil, d'un canapé.</dictScrap>
@@ -21884,7 +21884,7 @@
 <dictScrap>Fig. et familièrement. <oVar>Jouer</oVar> à qui perd gagne, se dit lorsqu'un désavantage apparent produit un avantage réel.</dictScrap>
 </sense>
 <sense>
-<dictScrap>À certains jeux de cartes, faire <oVar>jouer</oVar>, nommer la couleur dans laquelle le coup doit être joué. C'est lui qui fait <oVar>jouer</oVar>.</dictScrap>
+<dictScrap>À certains jeux de cartes, faire <oVar>jouer</oVar>, nommer la couleur dans laquelle le coup doit être <oVar>joué</oVar>. C'est lui qui fait <oVar>jouer</oVar>.</dictScrap>
 </sense>
 <sense>
 <dictScrap><oVar>Jouer</oVar> sans prendre, ou, simplement, <oVar>jouer</oVar> ; et faire <oVar>jouer</oVar> sans prendre, ou, simplement, faire <oVar>jouer</oVar>, signifie obliger l'adversaire à <oVar>jouer</oVar> sans écarter et sans prendre de nouvelles cartes.</dictScrap>
@@ -22247,7 +22247,7 @@
 <dictScrap>En termes de charpente, de menuiserie et d'ébénisterie, le bois <oVar>joue</oVar> quand, par suite de dilatations ou de contractions, un assemblage se dérange.</dictScrap>
 </sense>
 <sense n="12">
-<dictScrap>En termes de jardinage, on dit qu'une plante <oVar>joue</oVar> quand, grâce au vent ou aux insectes, les fleurs en sont fécondées par le pollen d'autres variétés, ce qui la rend hybride et lui ôte son caractère de pureté. Ces pensées ont joué. Avec tant de variétés à côté les unes des autres, vos potirons <oVar>joueront</oVar>.</dictScrap>
+<dictScrap>En termes de jardinage, on dit qu'une plante <oVar>joue</oVar> quand, grâce au vent ou aux insectes, les fleurs en sont fécondées par le pollen d'autres variétés, ce qui la rend hybride et lui ôte son caractère de pureté. Ces pensées ont <oVar>joué</oVar>. Avec tant de variétés à côté les unes des autres, vos potirons <oVar>joueront</oVar>.</dictScrap>
 </sense>
 <sense n="13">
 <dictScrap><oVar>Jouer</oVar>, en parlant des cascades, des jets d'eau, etc. qu'on fait jaillir.</dictScrap>
@@ -22266,7 +22266,7 @@
 </sense>
 </sense>
 <sense n="14">
-<dictScrap>Faire explosion. La mine, le fourneau <oVar>joua</oVar>. Quand le canon eut joué. Faire <oVar>jouer</oVar> une mine.</dictScrap>
+<dictScrap>Faire explosion. La mine, le fourneau <oVar>joua</oVar>. Quand le canon eut <oVar>joué</oVar>. Faire <oVar>jouer</oVar> une mine.</dictScrap>
 <cit>
 <quote>Des matelots, dans une de leurs réjouissances, s'approchèrent dans des barques sous le môle, dont l'artillerie devait les foudroyer ; elle ne joua point</quote>
 <bibl>
@@ -22319,7 +22319,7 @@
 <dictScrap><oVar>Jouer</oVar> le jeu, <oVar>jouer</oVar> suivant les règles du jeu. Vous ne <oVar>jouez</oVar> pas le jeu.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Fig. <oVar>Jouer</oVar> bien son jeu, se comporter adroitement en quelque affaire, savoir bien dissimuler pour arriver à ses fins. Il a bien joué son jeu.</dictScrap>
+<dictScrap>Fig. <oVar>Jouer</oVar> bien son jeu, se comporter adroitement en quelque affaire, savoir bien dissimuler pour arriver à ses fins. Il a bien <oVar>joué</oVar> son jeu.</dictScrap>
 </sense>
 <sense>
 <dictScrap><oVar>Jouer</oVar> un jeu, le savoir bien <oVar>jouer</oVar>, le <oVar>jouer</oVar> par préférence, être dans l'usage, dans l'habitude de le <oVar>jouer</oVar>.</dictScrap>
@@ -22379,7 +22379,7 @@
 </sense>
 </sense>
 <sense n="18">
-<dictScrap><oVar>Jouer</oVar> quelqu'un, <oVar>jouer</oVar> avec quelqu'un (uniquement en parlant des jeux de paume et de volant). Je l'ai joué du battoir. Il me gagne toujours, quoiqu'il me <oVar>joue</oVar> par-dessous la jambe, par-dessous jambe.</dictScrap>
+<dictScrap><oVar>Jouer</oVar> quelqu'un, <oVar>jouer</oVar> avec quelqu'un (uniquement en parlant des jeux de paume et de volant). Je l'ai <oVar>joué</oVar> du battoir. Il me gagne toujours, quoiqu'il me <oVar>joue</oVar> par-dessous la jambe, par-dessous jambe.</dictScrap>
 <sense>
 <dictScrap>Fig. et familièrement. <oVar>Jouer</oVar> quelqu'un par-dessous jambe, par-dessous la jambe, avoir facilement le dessus.</dictScrap>
 <cit>
@@ -22463,7 +22463,7 @@
 </sense>
 </sense>
 <sense n="20">
-<dictScrap>Représenter une pièce de théâtre. <oVar>Jouer</oVar> une tragédie, une comédie, un drame, un opéra. On a joué Andromaque de Racine. On <oVar>jouera</oVar> le Tartuffe de Molière.</dictScrap>
+<dictScrap>Représenter une pièce de théâtre. <oVar>Jouer</oVar> une tragédie, une comédie, un drame, un opéra. On a <oVar>joué</oVar> Andromaque de Racine. On <oVar>jouera</oVar> le Tartuffe de Molière.</dictScrap>
 <cit>
 <quote>Vous jouez une pièce nouvelle aujourd'hui</quote>
 <bibl>
@@ -22662,7 +22662,7 @@
 </sense>
 </sense>
 <sense n="22">
-<dictScrap><oVar>Jouer</oVar> un rôle, le représenter. Un tel a joué le rôle d'Oreste.</dictScrap>
+<dictScrap><oVar>Jouer</oVar> un rôle, le représenter. Un tel a <oVar>joué</oVar> le rôle d'Oreste.</dictScrap>
 <cit>
 <quote>Vous voilà tous bien malades d'avoir un méchant rôle à jouer !</quote>
 <bibl>
@@ -22671,7 +22671,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fig. <oVar>Jouer</oVar> un rôle, figurer dans quelque affaire. Il a joué un rôle dans cette misérable intrigue. Tous ceux qui jouèrent un rôle dans cette grande révolution. Il <oVar>joua</oVar> un grand rôle dans ces événements.</dictScrap>
+<dictScrap>Fig. <oVar>Jouer</oVar> un rôle, figurer dans quelque affaire. Il a <oVar>joué</oVar> un rôle dans cette misérable intrigue. Tous ceux qui <oVar>jouèrent</oVar> un rôle dans cette grande révolution. Il <oVar>joua</oVar> un grand rôle dans ces événements.</dictScrap>
 </sense>
 <sense>
 <dictScrap><oVar>Jouer</oVar> un grand rôle, occuper une grande place dans l'État.</dictScrap>
@@ -22694,7 +22694,7 @@
 </sense>
 </sense>
 <sense n="23">
-<dictScrap><oVar>Jouer</oVar> un personnage, le représenter. <oVar>Jouer</oVar> les pères nobles, les ingénues. Un tel a joué Oreste.</dictScrap>
+<dictScrap><oVar>Jouer</oVar> un personnage, le représenter. <oVar>Jouer</oVar> les pères nobles, les ingénues. Un tel a <oVar>joué</oVar> Oreste.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -23163,7 +23163,7 @@
 </cit>
 </sense>
 <sense n="33">
-<dictScrap>Se <oVar>jouer</oVar>, être joué, en parlant d'un jeu. Le whist se <oVar>joue</oVar> à quatre.</dictScrap>
+<dictScrap>Se <oVar>jouer</oVar>, être <oVar>joué</oVar>, en parlant d'un jeu. Le whist se <oVar>joue</oVar> à quatre.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -23176,7 +23176,7 @@
 </sense>
 </sense>
 <sense n="34">
-<dictScrap>Se <oVar>jouer</oVar>, être joué, en parlant d'un instrument de musique, d'un morceau de musique. Ceci se <oVar>joue</oVar> à quatre mains. Cet instrument se <oVar>joue</oVar> avec la bouche, avec les doigts.</dictScrap>
+<dictScrap>Se <oVar>jouer</oVar>, être <oVar>joué</oVar>, en parlant d'un instrument de musique, d'un morceau de musique. Ceci se <oVar>joue</oVar> à quatre mains. Cet instrument se <oVar>joue</oVar> avec la bouche, avec les doigts.</dictScrap>
 </sense>
 <sense n="35">
 <dictScrap>Se <oVar>jouer</oVar>, être représenté, en parlant d'une pièce de théâtre. Le Tartuffe se <oVar>joue</oVar> ce soir aux Français. </dictScrap>
@@ -28272,7 +28272,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui se fait chaque jour. C'est ma tâche journalière.</dictScrap>
+<dictScrap>Qui se fait chaque jour. C'est ma tâche <oVar>journalière</oVar>.</dictScrap>
 <cit>
 <quote>Il faut compter sur ce qui est réel et journalier, qui est que chaque nation cherche à prévaloir sur toutes les autres</quote>
 <bibl>
@@ -28322,7 +28322,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Une femme journalière, une femme capricieuse, et aussi, une femme qui un jour paraît belle et un autre jour paraît laide.</dictScrap>
+<dictScrap>Une femme <oVar>journalière</oVar>, une femme capricieuse, et aussi, une femme qui un jour paraît belle et un autre jour paraît laide.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Il se dit des animaux. Ces chiens ne chassent pas toujours de même force, ils sont <oVar>journaliers</oVar>.</dictScrap>
@@ -28506,7 +28506,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Il se prend aussi simplement pour jour. La journée fut belle, il ne tomba pas une goutte de pluie.</dictScrap>
+<dictScrap>Il se prend aussi simplement pour jour. La <oVar>journée</oVar> fut belle, il ne tomba pas une goutte de pluie.</dictScrap>
 <cit>
 <quote>Mais hier, quand elle sut qu'on avait pris journée, Et qu'enfin la bataille allait être donnée</quote>
 <bibl>
@@ -28550,13 +28550,13 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Au jour la journée, voy. <ref target="jour#var7">JOUR, n° 7</ref>.</dictScrap>
+<dictScrap>Au jour la <oVar>journée</oVar>, voy. <ref target="jour#var7">JOUR, n° 7</ref>.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Travail d'un ouvrier pendant un jour. Il travaille à la journée. Ce sont des hommes de journée. En été la journée est de six en six, c'est-à-dire de six heures du matin à six heures du soir.</dictScrap>
+<dictScrap>Travail d'un ouvrier pendant un jour. Il travaille à la <oVar>journée</oVar>. Ce sont des hommes de <oVar>journée</oVar>. En été la <oVar>journée</oVar> est de six en six, c'est-à-dire de six heures du matin à six heures du soir.</dictScrap>
 <sense>
-<dictScrap>Fig. À la journée, continuellement. Mentir à la journée.</dictScrap>
+<dictScrap>Fig. À la <oVar>journée</oVar>, continuellement. Mentir à la <oVar>journée</oVar>.</dictScrap>
 <cit>
 <quote>Je n'emploierai point, pour vous rassurer, les grandes phrases d'honneur et de dévouement dont on abuse à la journée</quote>
 <bibl>
@@ -28566,7 +28566,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>On a dit dans le même sens : à cœur de journée.</dictScrap>
+<dictScrap>On a dit dans le même sens : à cœur de <oVar>journée</oVar>.</dictScrap>
 <cit>
 <quote>Il avait.... un jeune valet qui le suivait toujours..., et qui se moquait de lui à cœur de journée</quote>
 <bibl>
@@ -28576,11 +28576,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Terme d'ancienne pratique. Journée bourgeoise, la journée de travail ordinaire.</dictScrap>
+<dictScrap>Terme d'ancienne pratique. <oVar>Journée</oVar> bourgeoise, la <oVar>journée</oVar> de travail ordinaire.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Salaire qu'on donne à un ouvrier pour le payer du travail qu'il a fait pendant un ou plusieurs jours. On lui doit quinze journées.</dictScrap>
+<dictScrap>Salaire qu'on donne à un ouvrier pour le payer du travail qu'il a fait pendant un ou plusieurs jours. On lui doit quinze <oVar>journées</oVar>.</dictScrap>
 <cit>
 <quote>Il tira de sa poche vingt sous enveloppés dans du papier ; et les posant sur la table : voilà, dit-il, ma journée</quote>
 <bibl>
@@ -28589,7 +28589,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>À la journée du roi, se disait d'un travail dont le prix ne peut être fixé absolument d'avance, mais sera réglé d'après les journées qui y auront été employées.</dictScrap>
+<dictScrap>À la <oVar>journée</oVar> du roi, se disait d'un travail dont le prix ne peut être fixé absolument d'avance, mais sera réglé d'après les <oVar>journées</oVar> qui y auront été employées.</dictScrap>
 <cit>
 <quote>Ce que la façon coûte d'un mât de telle longueur et grosseur.... soit que les ouvrages se fassent à forfait ou à la journée du roi</quote>
 <bibl>
@@ -28600,7 +28600,7 @@
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Chemin qu'on fait d'un lieu à un autre dans l'espace d'une journée.</dictScrap>
+<dictScrap>Chemin qu'on fait d'un lieu à un autre dans l'espace d'une <oVar>journée</oVar>.</dictScrap>
 <cit>
 <quote>Je m'en irai clopin, clopant, à petites journées jusqu'à Paris</quote>
 <bibl>
@@ -28630,7 +28630,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Faire tant par ses journées, locution vieillie qui a signifié primitivement : se diligenter en voyage.</dictScrap>
+<dictScrap>Faire tant par ses <oVar>journées</oVar>, locution vieillie qui a signifié primitivement : se diligenter en voyage.</dictScrap>
 <cit>
 <quote>L'avide Marmentier fit tant par ses journées qu'il arriva à la porte du château de la déesse Monopole</quote>
 <bibl>
@@ -28640,10 +28640,10 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. Faire tant par ses journées que..., faire en sorte par son travail, par ses soins, par son industrie, que.... Il a tant fait par ses journées qu'il est venu à bout de telle chose.</dictScrap>
+<dictScrap>Fig. Faire tant par ses <oVar>journées</oVar> que..., faire en sorte par son travail, par ses soins, par son industrie, que.... Il a tant fait par ses <oVar>journées</oVar> qu'il est venu à bout de telle chose.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Ironiquement. Il a tant fait par ses journées qu'il a été chassé de la cour.</dictScrap>
+<dictScrap>Ironiquement. Il a tant fait par ses <oVar>journées</oVar> qu'il a été chassé de la cour.</dictScrap>
 </sense>
 </sense>
 <sense n="6">
@@ -28708,7 +28708,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Les trois journées, ou les journées de juillet, les 27, 28 et 29 juillet 1830, où la branche aînée des Bourbons fut renversée du trône.</dictScrap>
+<dictScrap>Les trois <oVar>journées</oVar>, ou les <oVar>journées</oVar> de juillet, les 27, 28 et 29 juillet 1830, où la branche aînée des Bourbons fut renversée du trône.</dictScrap>
 <cit>
 <quote>À vous, enfants, ce fruit des trois journées</quote>
 <bibl>
@@ -28719,15 +28719,15 @@
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Division des pièces de l'ancien théâtre espagnol. Comédie en trois journées.</dictScrap>
+<dictScrap>Division des pièces de l'ancien théâtre espagnol. Comédie en trois <oVar>journées</oVar>.</dictScrap>
 </sense>
 <sense n="8">
-<dictScrap>Journée de terre, espace de terre labourable en un jour.</dictScrap>
+<dictScrap><oVar>Journée</oVar> de terre, espace de terre labourable en un jour.</dictScrap>
 </sense>
 <sense n="9">
-<dictScrap>Tenir la journée, se disait d'une espèce de capitulation par laquelle une place assiégée s'engageait à se rendre, si, dans un temps donné, un secours n'arrivait pas.</dictScrap>
+<dictScrap>Tenir la <oVar>journée</oVar>, se disait d'une espèce de capitulation par laquelle une place assiégée s'engageait à se rendre, si, dans un temps donné, un secours n'arrivait pas.</dictScrap>
 <sense>
-<dictScrap>Tenir la journée, se disait aussi d'un conseil qui s'assemblait pour délibérer sur quelque chose.</dictScrap>
+<dictScrap>Tenir la <oVar>journée</oVar>, se disait aussi d'un conseil qui s'assemblait pour délibérer sur quelque chose.</dictScrap>
 <cit>
 <quote>Le duc répondit qu'il ne concevait pas comment on proposait une trêve dans le temps même que le roi et les princes de l'Empire devaient tenir une journée à Metz pour convenir de la manière dont ils commenceraient la guerre dans les états de Bourgogne</quote>
 <bibl>
@@ -28940,7 +28940,7 @@
 <re ana="supplement">
 <form> JOURNÉE. Ajoutez : </form>
 <sense n="10">
-<dictScrap>Terme de turf. L'ensemble des courses courues dans la même journée.</dictScrap>
+<dictScrap>Terme de turf. L'ensemble des courses courues dans la même <oVar>journée</oVar>.</dictScrap>
 </sense>
 </re>
 </entry>
@@ -30003,7 +30003,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Lieu élevé dans une église en forme de galerie, et qui est ordinairement entre la nef et le chœur. Chanter l'évangile au jubé. Le jubé de l'église Saint-Étienne du Mont.</dictScrap>
+<dictScrap>Lieu élevé dans une église en forme de galerie, et qui est ordinairement entre la nef et le chœur. Chanter l'évangile au <oVar>jubé</oVar>. Le <oVar>jubé</oVar> de l'église Saint-Étienne du Mont.</dictScrap>
 <cit>
 <quote>On lisait autrefois les lettres de paix dans les jubés</quote>
 <bibl>
@@ -30012,7 +30012,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Fig. Venir à jubé, se soumettre, venir à la raison par contrainte, malgré qu'on en ait. Il viendra à jubé, je vous en réponds.</dictScrap>
+<dictScrap>Fig. Venir à <oVar>jubé</oVar>, se soumettre, venir à la raison par contrainte, malgré qu'on en ait. Il viendra à <oVar>jubé</oVar>, je vous en réponds.</dictScrap>
 <cit>
 <quote>Laissez-moi jouer mon personnage, je la ferai venir à jubé</quote>
 <bibl>
@@ -30135,7 +30135,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Solennité publique, chez les Juifs, qui, se célébrant de cinquante ans en cinquante ans, amenait la rémission de toutes sortes de dettes, la restitution de tous les héritages aux anciens propriétaires, et la mise en liberté de tous les esclaves. Les Juifs ne vendaient point leurs biens et leurs terres à perpétuité, mais seulement jusqu'à l'année du jubilé.</dictScrap>
+<dictScrap>Solennité publique, chez les Juifs, qui, se célébrant de cinquante ans en cinquante ans, amenait la rémission de toutes sortes de dettes, la restitution de tous les héritages aux anciens propriétaires, et la mise en liberté de tous les esclaves. Les Juifs ne vendaient point leurs biens et leurs terres à perpétuité, mais seulement jusqu'à l'année du <oVar>jubilé</oVar>.</dictScrap>
 <cit>
 <quote>Vous sanctifierez la cinquantième année, et vous publierez la liberté générale à tous les habitants du pays, parce que c'est l'année du jubilé</quote>
 <bibl>
@@ -30145,7 +30145,7 @@
 </cit>
 </sense>
 <sense n="2">
-<dictScrap>Dans la religion catholique, indulgence plénière, solennelle et générale, accordée par le pape en certains temps et en certaines occasions. La bulle du jubilé. Le jubilé fut établi en 1300 par Boniface VIII, et ne se célébrait d'abord que de cent en cent ans ; Clément VI le réduisit à cinquante, Urbain VI à trente-trois ans et Sixte IV à vingt-cinq.</dictScrap>
+<dictScrap>Dans la religion catholique, indulgence plénière, solennelle et générale, accordée par le pape en certains temps et en certaines occasions. La bulle du <oVar>jubilé</oVar>. Le <oVar>jubilé</oVar> fut établi en 1300 par Boniface VIII, et ne se célébrait d'abord que de cent en cent ans ; Clément VI le réduisit à cinquante, Urbain VI à trente-trois ans et Sixte IV à vingt-cinq.</dictScrap>
 <cit>
 <quote>Le jubilé est une indulgence plénière d'autant plus certaine et d'autant plus efficace qu'elle est accordée par notre saint-père le pape pour cause publique, avec une réflexion plus particulière sur les besoins de la chrétienté, et qu'elle est universelle</quote>
 <bibl>
@@ -30182,7 +30182,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Faire son jubilé, faire toutes les pratiques de dévotion ordonnées par la bulle du jubilé.</dictScrap>
+<dictScrap>Faire son <oVar>jubilé</oVar>, faire toutes les pratiques de dévotion ordonnées par la bulle du <oVar>jubilé</oVar>.</dictScrap>
 <cit>
 <quote>Je serais très bien disposée pour faire.... mon jubilé</quote>
 <bibl>
@@ -30192,17 +30192,17 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Terme de jeu. Faire jubilé, brouiller le jeu, de manière qu'il n'y ait ni perdants ni gagnants.</dictScrap>
+<dictScrap>Terme de jeu. Faire <oVar>jubilé</oVar>, brouiller le jeu, de manière qu'il n'y ait ni perdants ni gagnants.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Fête religieuse et domestique, qu'on célèbre souvent au bout de cinquante ans d'exercice d'une fonction, au bout de cinquante ans de mariage. Ce professeur célèbre cette année son jubilé ; il a 50 ans de services.</dictScrap>
+<dictScrap>Fête religieuse et domestique, qu'on célèbre souvent au bout de cinquante ans d'exercice d'une fonction, au bout de cinquante ans de mariage. Ce professeur célèbre cette année son <oVar>jubilé</oVar> ; il a 50 ans de services.</dictScrap>
 <sense>
-<dictScrap>Mariage de jubilé, mariage célébré de nouveau après cinquante ans de durée.</dictScrap>
+<dictScrap>Mariage de <oVar>jubilé</oVar>, mariage célébré de nouveau après cinquante ans de durée.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Adj. Il se dit d'un religieux, d'un chanoine, d'un docteur qui l'est depuis 50 ans. Ce père n'a plus qu'une année de théologie à enseigner, et puis il sera lecteur jubilé.</dictScrap>
+<dictScrap>Adj. Il se dit d'un religieux, d'un chanoine, d'un docteur qui l'est depuis 50 ans. Ce père n'a plus qu'une année de théologie à enseigner, et puis il sera lecteur <oVar>jubilé</oVar>.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -30304,7 +30304,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Terme d'art vétérinaire. Cheval juché, cheval dont le boulet se porte tellement en avant, qu'il marche et repose sur la pince. Un cheval, un mulet juché.</dictScrap>
+<dictScrap>Terme d'art vétérinaire. Cheval <oVar>juché</oVar>, cheval dont le boulet se porte tellement en avant, qu'il marche et repose sur la pince. Un cheval, un mulet <oVar>juché</oVar>.</dictScrap>
 <sense>
 <dictScrap>On dit plutôt bouleté, lorsqu'il s'agit des pieds de devant.</dictScrap>
 </sense>
@@ -30480,13 +30480,13 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Fig. Trop étroitement asservi à la règle. Des observances judaïques.</dictScrap>
+<dictScrap>Fig. Trop étroitement asservi à la règle. Des observances <oVar>judaïques</oVar>.</dictScrap>
 <sense>
-<dictScrap>Interprétation judaïque, interprétation qui s'attache à la lettre, lorsque le sens évident est autre ou plus étendu.</dictScrap>
+<dictScrap>Interprétation <oVar>judaïque</oVar>, interprétation qui s'attache à la lettre, lorsque le sens évident est autre ou plus étendu.</dictScrap>
 </sense>
 </sense>
 <sense n="4">
-<dictScrap>Terme d'histoire naturelle. Pierres judaïques, nom donné à des pointes d'oursins fossiles, ainsi qu'à des articles de crinoïdes également fossiles ; ces pierres ont été ainsi nommées parce qu'on les trouve en Judée ; mais on les trouve aussi ailleurs.</dictScrap>
+<dictScrap>Terme d'histoire naturelle. Pierres <oVar>judaïques</oVar>, nom donné à des pointes d'oursins fossiles, ainsi qu'à des articles de crinoïdes également fossiles ; ces pierres ont été ainsi nommées parce qu'on les trouve en Judée ; mais on les trouve aussi ailleurs.</dictScrap>
 <sense>
 <dictScrap>S. f.</dictScrap>
 <cit>
@@ -30499,7 +30499,7 @@
 </sense>
 </sense>
 <sense n="5">
-<dictScrap>Herbe judaïque, voy. <ref target="stachyde">STACHYDE</ref>.</dictScrap>
+<dictScrap>Herbe <oVar>judaïque</oVar>, voy. <ref target="stachyde">STACHYDE</ref>.</dictScrap>
 </sense>
 <note type="historique">
 <p>
@@ -30833,7 +30833,7 @@
 <pron>ju-di-ka-tom'-sol-vi</pron>
 </form>
 <sense>
-<dictScrap>Caution judicatum solvi, caution qu'on peut obliger un étranger à fournir lorsqu'il veut intenter une action devant les tribunaux de France contre un Français.</dictScrap>
+<dictScrap>Caution <oVar>judicatum solvi</oVar>, caution qu'on peut obliger un étranger à fournir lorsqu'il veut intenter une action devant les tribunaux de France contre un Français.</dictScrap>
 </sense>
 <etym>Lat. judicatum solvi, ce qui sera jugé sera payé ; de judicatum, chose jugée (voy. <ref target="juger">JUGER</ref>), et solvi, être payé, de solvere, payer, délier (voy. <ref target="solution">SOLUTION</ref>).</etym>
 </entry>
@@ -30903,7 +30903,7 @@
 <sense n="2">
 <dictScrap>Qui se fait en justice, par autorité de justice. Les formes <oVar>judiciaires</oVar>. Enquête <oVar>judiciaire</oVar>.</dictScrap>
 <sense>
-<dictScrap>Acte <oVar>judiciaire</oVar>, celui qui se fait en présence ou sous la surveillance d'un juge, par opposition à acte extrajudiciaire.</dictScrap>
+<dictScrap>Acte <oVar>judiciaire</oVar>, celui qui se fait en présence ou sous la surveillance d'un juge, par opposition à acte extra<oVar>judiciaire</oVar>.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Témoin <oVar>judiciaire</oVar>, toute personne appelée à déposer en justice.</dictScrap>
@@ -31714,9 +31714,9 @@
 <gram>part. passé de juger</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui a été l'objet d'un jugement, en parlant des personnes. Les voleurs jugés et condamnés.</dictScrap>
+<dictScrap>Qui a été l'objet d'un jugement, en parlant des personnes. Les voleurs <oVar>jugés</oVar> et condamnés.</dictScrap>
 <sense>
-<dictScrap>Substantivement. Les jugés, les condamnés au jugement dernier.</dictScrap>
+<dictScrap>Substantivement. Les <oVar>jugés</oVar>, les condamnés au jugement dernier.</dictScrap>
 <cit>
 <quote>Quand je viens à penser que ces personnes peuvent tomber et être au nombre malheureux des jugés</quote>
 <bibl>
@@ -31726,13 +31726,13 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Fig. C'est un homme jugé, se dit, dans un sens péjoratif, d'un homme dont on connaît le peu de valeur intellectuelle ou morale. On dit dans le même sens : cela est jugé.</dictScrap>
+<dictScrap>Fig. C'est un homme <oVar>jugé</oVar>, se dit, dans un sens péjoratif, d'un homme dont on connaît le peu de valeur intellectuelle ou morale. On dit dans le même sens : cela est <oVar>jugé</oVar>.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
 <dictScrap>Qui a été l'objet d'un jugement, en parlant des choses. Affaire jugée en première instance.</dictScrap>
 <sense>
-<dictScrap>Terme de jurisprudence. La chose jugée, point de contestation qui a été jugé par les tribunaux.</dictScrap>
+<dictScrap>Terme de jurisprudence. La chose jugée, point de contestation qui a été <oVar>jugé</oVar> par les tribunaux.</dictScrap>
 <cit>
 <quote>Combien de fois s'est-on plaint que les affaires n'avaient ni de règle ni de fin ; que la force des choses jugées n'était presque plus connue... !</quote>
 <bibl>
@@ -31745,13 +31745,13 @@
 <dictScrap>Jugement passé en force de chose jugée, décision qui ne peut plus être réformée par aucune voie légale.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Bien jugé, mal appelé ; mal jugé, bien appelé, formules employées dans les arrêts quand un juge supérieur confirme ou casse la sentence d'un juge subalterne.</dictScrap>
+<dictScrap>Bien <oVar>jugé</oVar>, mal appelé ; mal <oVar>jugé</oVar>, bien appelé, formules employées dans les arrêts quand un juge supérieur confirme ou casse la sentence d'un juge subalterne.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Substantivement, le bien jugé, jugement bien rendu. Maintenir le bien jugé.</dictScrap>
+<dictScrap>Substantivement, le bien <oVar>jugé</oVar>, jugement bien rendu. Maintenir le bien <oVar>jugé</oVar>.</dictScrap>
 </sense>
 <sense>
-<dictScrap>En sens contraire, le mal jugé, jugement défectueux. Il faut prouver le mal jugé, quand on appelle d'une sentence, d'un premier jugement. Le mal jugé n'est pas un moyen de cassation.</dictScrap>
+<dictScrap>En sens contraire, le mal <oVar>jugé</oVar>, jugement défectueux. Il faut prouver le mal <oVar>jugé</oVar>, quand on appelle d'une sentence, d'un premier jugement. Le mal <oVar>jugé</oVar> n'est pas un moyen de cassation.</dictScrap>
 <cit>
 <quote>Nous verrons si le bien jugé, qui n'a passé que de deux voix, n'est pas le plus infernalement mal jugé [dans l'affaire du jeune la Barre et de ses amis]</quote>
 <bibl>
@@ -32638,7 +32638,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Absolument. Ne <oVar>jugez</oVar> point si vous ne voulez être jugé.</dictScrap>
+<dictScrap>Absolument. Ne <oVar>jugez</oVar> point si vous ne voulez être <oVar>jugé</oVar>.</dictScrap>
 <cit>
 <quote>....Le plus souvent l'apparence déçoit ; Il ne faut pas toujours juger sur ce qu'on voit</quote>
 <bibl>
@@ -33047,10 +33047,10 @@
 </sense>
 </sense>
 <sense n="18">
-<dictScrap>Croire quelque chose sur son propre compte. Il s'était jugé digne d'une récompense.</dictScrap>
+<dictScrap>Croire quelque chose sur son propre compte. Il s'était <oVar>jugé</oVar> digne d'une récompense.</dictScrap>
 </sense>
 <sense n="19">
-<dictScrap>Être jugé. Le procès se <oVar>jugera</oVar> demain.</dictScrap>
+<dictScrap>Être <oVar>jugé</oVar>. Le procès se <oVar>jugera</oVar> demain.</dictScrap>
 </sense>
 <sense n="20">
 <dictScrap>Terme de médecine. Une maladie se <oVar>juge</oVar> par des sueurs, par une diarrhée, etc. quand une amélioration sensible et soutenue se manifeste à la suite d'une évacuation quelconque.</dictScrap>
@@ -34121,10 +34121,10 @@
 <dictScrap>Fortifié par des jumelles.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>S. f. pl. Terme de construction. Jumelées, assemblage de deux pièces de bois s'ajustant longitudinalement l'une contre l'autre.</dictScrap>
+<dictScrap>S. f. pl. Terme de construction. <oVar>Jumelées</oVar>, assemblage de deux pièces de bois s'ajustant longitudinalement l'une contre l'autre.</dictScrap>
 </sense>
 <sense n="3">
-<dictScrap>Terme de blason. Pièce jumelée, pièce formée de deux jumelles.</dictScrap>
+<dictScrap>Terme de blason. Pièce <oVar>jumelée</oVar>, pièce formée de deux jumelles.</dictScrap>
 </sense>
 <note type="remarque">L'Académie n'a jumelé que comme terme de blason. </note>
 </entry>
@@ -34607,7 +34607,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Néologisme. Qui a le caractère dominateur, impérieux de Jupiter. La contraction jupitérienne de ses sourcils, son regard de lion, DE BALZAC, Histoire des treize, la Duchesse de Langeais.</dictScrap>
+<dictScrap>Néologisme. Qui a le caractère dominateur, impérieux de Jupiter. La contraction <oVar>jupitérienne</oVar> de ses sourcils, son regard de lion, DE BALZAC, Histoire des treize, la Duchesse de Langeais.</dictScrap>
 </sense>
 <re ana="supplement">
 <re>JUPITÉRIEN. Ajoutez : </re>
@@ -34814,7 +34814,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Ennemi juré, ennemi irréconciliable et déclaré.</dictScrap>
+<dictScrap>Ennemi <oVar>juré</oVar>, ennemi irréconciliable et déclaré.</dictScrap>
 <cit>
 <quote>Il importe à l'État qu'un ennemi juré....</quote>
 <bibl>
@@ -34832,15 +34832,15 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Autrefois, qui dans les corporations avait fait les serments requis par la maîtrise. Juré vendeur de volaille. Écrivain juré. Jurée lingère.</dictScrap>
+<dictScrap>Autrefois, qui dans les corporations avait fait les serments requis par la maîtrise. <oVar>Juré</oVar> vendeur de volaille. Écrivain <oVar>juré</oVar>. <oVar>Jurée</oVar> lingère.</dictScrap>
 <sense>
-<dictScrap>Chirurgiens jurés, titre que l'on donnait aux chirurgiens, à cause du serment qu'ils prêtaient entre les mains du magistrat.</dictScrap>
+<dictScrap>Chirurgiens <oVar>jurés</oVar>, titre que l'on donnait aux chirurgiens, à cause du serment qu'ils prêtaient entre les mains du magistrat.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Médecins jurés, médecins qui étaient établis dans les villes pour faire en justice les rapports.</dictScrap>
+<dictScrap>Médecins <oVar>jurés</oVar>, médecins qui étaient établis dans les villes pour faire en justice les rapports.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Grammairiens jurés, nom donné par plaisanterie aux membres de l'Académie française.</dictScrap>
+<dictScrap>Grammairiens <oVar>jurés</oVar>, nom donné par plaisanterie aux membres de l'Académie française.</dictScrap>
 <cit>
 <quote>Eux seuls peuvent prétendre au rare privilége D'aller au Louvre en corps commenter l'alphabet, Grammairiens jurés, immortels par brevet</quote>
 <bibl>
@@ -34858,7 +34858,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Dans les corps d'artisans, hommes préposés pour faire observer les statuts et règlements à ceux de leur métier. Les maîtres jurés.</dictScrap>
+<dictScrap>Dans les corps d'artisans, hommes préposés pour faire observer les statuts et règlements à ceux de leur métier. Les maîtres <oVar>jurés</oVar>.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -34877,7 +34877,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Substantivement. Il était juré de sa communauté.</dictScrap>
+<dictScrap>Substantivement. Il était <oVar>juré</oVar> de sa communauté.</dictScrap>
 <cit>
 <quote>Je ne sais quels écrits qui devant les jurés du métier ne passent que pour....</quote>
 <bibl>
@@ -34888,7 +34888,7 @@
 </sense>
 </sense>
 <sense n="3">
-<dictScrap>Écolier juré, celui qui avait fait ses études de philosophie dans l'université, et qui en avait le certificat, pour être ensuite reçu maître ès arts.</dictScrap>
+<dictScrap>Écolier <oVar>juré</oVar>, celui qui avait fait ses études de philosophie dans l'université, et qui en avait le certificat, pour être ensuite reçu maître ès arts.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>S. m. Autrefois, échevin, membre du conseil de la commune.</dictScrap>
@@ -34925,15 +34925,15 @@
 </cit>
 </sense>
 <sense n="6">
-<dictScrap>Aujourd'hui, en France, à l'imitation de l'Angleterre, chacun des douze citoyens appelés, dans les assises, à prononcer sur la culpabilité d'un accusé. La liste des jurés.</dictScrap>
+<dictScrap>Aujourd'hui, en France, à l'imitation de l'Angleterre, chacun des douze citoyens appelés, dans les assises, à prononcer sur la culpabilité d'un accusé. La liste des <oVar>jurés</oVar>.</dictScrap>
 <sense>
-<dictScrap>Juré en matière d'expropriation, membre d'un jury chargé de fixer les indemnités dues aux propriétaires expropriés pour cause d'utilité publique.</dictScrap>
+<dictScrap><oVar>Juré</oVar> en matière d'expropriation, membre d'un jury chargé de fixer les indemnités dues aux propriétaires expropriés pour cause d'utilité publique.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Haut juré, juré qui faisait partie de la haute cour instituée par la constitution de 1791 et par celle de 1848.</dictScrap>
+<dictScrap>Haut <oVar>juré</oVar>, <oVar>juré</oVar> qui faisait partie de la haute cour instituée par la constitution de 1791 et par celle de 1848.</dictScrap>
 </sense>
 <sense>
-<dictScrap>Juré militaire, membre du jury dont la décision devait précéder le jugement de la cour martiale, d'après la constitution de 1791.</dictScrap>
+<dictScrap><oVar>Juré</oVar> militaire, membre du jury dont la décision devait précéder le jugement de la cour martiale, d'après la constitution de 1791.</dictScrap>
 </sense>
 </sense>
 <note type="historique">
@@ -34998,7 +34998,7 @@
 <re ana="supplement">
 <form> 2. JURÉ. Ajoutez : </form>
 <sense n="7">
-<dictScrap>Jurés, magistrats électifs des îles Normandes : chacune des deux îles de Jersey et de Guernesey en a douze, qui composent, avec le bailli, la cour royale, et sont membres des États. On les appelle aussi jurés-justiciers, jurés du roi (ou, aujourd'hui, jurés de la reine), jurés de la cour royale, etc. Il y a aussi une cour de jurés électifs dans l'île d'Aurigny, et il y en a eu une dans l'île de Serk.</dictScrap>
+<dictScrap><oVar>Jurés</oVar>, magistrats électifs des îles Normandes : chacune des deux îles de Jersey et de Guernesey en a douze, qui composent, avec le bailli, la cour royale, et sont membres des États. On les appelle aussi <oVar>jurés</oVar>-justiciers, <oVar>jurés</oVar> du roi (ou, aujourd'hui, <oVar>jurés</oVar> de la reine), <oVar>jurés</oVar> de la cour royale, etc. Il y a aussi une cour de <oVar>jurés</oVar> électifs dans l'île d'Aurigny, et il y en a eu une dans l'île de Serk.</dictScrap>
 </sense>
 </re>
 </entry>
@@ -35162,7 +35162,7 @@
 </sense>
 </sense>
 <sense n="2">
-<dictScrap>Assurer, promettre quelque chose par serment. <oVar>Jurer</oVar> fidélité au souverain. Il a juré de dire la vérité.</dictScrap>
+<dictScrap>Assurer, promettre quelque chose par serment. <oVar>Jurer</oVar> fidélité au souverain. Il a <oVar>juré</oVar> de dire la vérité.</dictScrap>
 <cit>
 <quote>Ils [les Vaudois] défendaient de jurer pour rendre témoignage à la vérité devant le magistrat ; et en même temps ils juraient tout ce qu'on voulait pour tenir leur secte et leur croyance cachées</quote>
 <bibl>
@@ -35275,7 +35275,7 @@
 <dictScrap>Blasphémer. Il ne fait que <oVar>jurer</oVar> le nom de Dieu. <oVar>Jurer</oVar> Dieu.</dictScrap>
 </sense>
 <sense n="6">
-<dictScrap>V. n. Faire serment. Il a juré faux.</dictScrap>
+<dictScrap>V. n. Faire serment. Il a <oVar>juré</oVar> faux.</dictScrap>
 <cit>
 <quote>Quiconque jure par le temple et par celui qui y habite</quote>
 <bibl>
@@ -40270,7 +40270,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Mettre hors d'inculpation, en parlant des choses. Il a justifié sa conduite. <oVar>Justifier</oVar> la mémoire de quelqu'un.</dictScrap>
+<dictScrap>Mettre hors d'inculpation, en parlant des choses. Il a <oVar>justifié</oVar> sa conduite. <oVar>Justifier</oVar> la mémoire de quelqu'un.</dictScrap>
 <cit>
 <quote>Je parle d'un homme sage qui ne sortit jamais de ses devoirs, qui n'a besoin de grâce ni d'apologie, et en qui il n'y a point eu d'erreur à plaindre ni de faute à justifier</quote>
 <bibl>
@@ -40380,7 +40380,7 @@
 </cit>
 </sense>
 <sense n="5">
-<dictScrap>Donner raison à, avec un nom de chose pour régime. Il n'a point justifié les espérances qu'on avait conçues de lui.</dictScrap>
+<dictScrap>Donner raison à, avec un nom de chose pour régime. Il n'a point <oVar>justifié</oVar> les espérances qu'on avait conçues de lui.</dictScrap>
 <cit>
 <quote>Je suis ravie que la suite ait si bien justifié votre goût</quote>
 <bibl>
@@ -40464,11 +40464,11 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>En termes de jurisprudence, on dit <oVar>justifier</oVar> de. Il devra <oVar>justifier</oVar> de sa qualité. Il a justifié du payement en montrant la quittance.</dictScrap>
+<dictScrap>En termes de jurisprudence, on dit <oVar>justifier</oVar> de. Il devra <oVar>justifier</oVar> de sa qualité. Il a <oVar>justifié</oVar> du payement en montrant la quittance.</dictScrap>
 </sense>
 </sense>
 <sense n="7">
-<dictScrap>Terme d'imprimerie. Donner à une ligne la longueur qu'elle doit avoir. Cette ligne n'a pas été bien justifiée.</dictScrap>
+<dictScrap>Terme d'imprimerie. Donner à une ligne la longueur qu'elle doit avoir. Cette ligne n'a pas été bien <oVar>justifiée</oVar>.</dictScrap>
 <sense>
 <dictScrap>Absolument. Cet ouvrier <oVar>justifie</oVar> avec exactitude.</dictScrap>
 </sense>
@@ -40524,7 +40524,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>Être justifié.</dictScrap>
+<dictScrap>Être <oVar>justifié</oVar>.</dictScrap>
 <cit>
 <quote>Sans craindre aucun reproche sur une conduite qui se justifiait assez d'elle-même</quote>
 <bibl>
@@ -40777,7 +40777,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Traduction juxtalinéaire, traduction qui consiste à ranger les mots du texte à traduire dans l'ordre logique de la langue dans laquelle on traduit, et à mettre la traduction dans la colonne à côté, de cette façon : Cano arma virumque.</dictScrap>
+<dictScrap>Traduction <oVar>juxtalinéaire</oVar>, traduction qui consiste à ranger les mots du texte à traduire dans l'ordre logique de la langue dans laquelle on traduit, et à mettre la traduction dans la colonne à côté, de cette façon : Cano arma virumque.</dictScrap>
 <sense>
 <dictScrap>Je chante les combats et le héros. Dans une traduction mot à mot on dirait : cano, je chante, arma, les combats etc.</dictScrap>
 </sense>
@@ -40791,9 +40791,9 @@
 <gram>part. passé de juxtaposer</gram>
 </form>
 <sense>
-<dictScrap>Molécules juxtaposées.</dictScrap>
+<dictScrap>Molécules <oVar>juxtaposées</oVar>.</dictScrap>
 <sense>
-<dictScrap>Terme de grammaire. Noms juxtaposés, substantifs réunis, par exemple : le peuple roi, et surtout ceux qui sont joints par des traits d'union : porte-crayon, arc-en-ciel.</dictScrap>
+<dictScrap>Terme de grammaire. Noms <oVar>juxtaposés</oVar>, substantifs réunis, par exemple : le peuple roi, et surtout ceux qui sont joints par des traits d'union : porte-crayon, arc-en-ciel.</dictScrap>
 </sense>
 </sense>
 </entry>
