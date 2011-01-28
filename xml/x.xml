@@ -40,7 +40,7 @@
 <dictScrap>Dans le comput ecclésiastique, marque le dimanche.</dictScrap>
 </sense>
 <sense n="4">
-<dictScrap>Sur les monnaies de France, indique qu'elles ont été frappées à Amiens, selon l'Encyclopédie, à Aix selon le dictionnaire de Trévoux.</dictScrap>
+<dictScrap>Sur les monnaies de France, indique qu'elles ont été frappées à Amiens, selon l'Encyclopédie, à Aix selon le dictionnaire de Trévou<oVar>x</oVar>.</dictScrap>
 </sense>
 <sense n="5">
 <dictScrap>En marge des anciens manuscrits, <oVar>X</oVar> est une note critique qui indique une expression inusitée ou une figure trop hardie.</dictScrap>
@@ -181,7 +181,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme de chimie. Acide xanthoprotéique, acide jaune, un des produits non cristallisables de la décomposition des substances organiques azotées par l'action de l'acide nitrique.</dictScrap>
+<dictScrap>Terme de chimie. Acide <oVar>xanthoprotéique</oVar>, acide jaune, un des produits non cristallisables de la décomposition des substances organiques azotées par l'action de l'acide nitrique.</dictScrap>
 </sense>
 <etym>Du grec, jaune, et protéine.</etym>
 </entry>
@@ -459,7 +459,7 @@
 <gram>adj. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'anatomie. Appendice xiphoïde, appendice allongé cartilagineux, qui termine inférieurement le sternum.</dictScrap>
+<dictScrap>Terme d'anatomie. Appendice <oVar>xiphoïde</oVar>, appendice allongé cartilagineux, qui termine inférieurement le sternum.</dictScrap>
 <cit>
 <quote>Quel plaisir je vais prendre à faire sur son corps une incision cruciale, et à lui ouvrir le ventre depuis le cartilage xiphoïde jusqu'aux os pubis!</quote>
 <bibl>
@@ -491,7 +491,7 @@
 <sense>
 <dictScrap>Terme d'anatomie. Qui a rapport à l'appendice xiphoïde.</dictScrap>
 <sense>
-<dictScrap>Ligament xiphoïdien ou costo-xiphoïdien, ligament étendu du cartilage de la septième côte à la face antérieure de l'appendice xiphoïde, où il s'insère en s'entre-croisant avec le ligament du côté opposé.</dictScrap>
+<dictScrap>Ligament <oVar>xiphoïdien</oVar> ou costo-<oVar>xiphoïdien</oVar>, ligament étendu du cartilage de la septième côte à la face antérieure de l'appendice xiphoïde, où il s'insère en s'entre-croisant avec le ligament du côté opposé.</dictScrap>
 </sense>
 </sense>
 </entry>
@@ -748,7 +748,7 @@
 <gram>adj.</gram>
 </form>
 <sense>
-<dictScrap>Terme d'architecture. Type xyloïdique, type supposé d'architecture en bois d'après lequel se serait faite l'architecture gothique.</dictScrap>
+<dictScrap>Terme d'architecture. Type <oVar>xyloïdique</oVar>, type supposé d'architecture en bois d'après lequel se serait faite l'architecture gothique.</dictScrap>
 </sense>
 <etym>Xyloïde.</etym>
 </entry>
