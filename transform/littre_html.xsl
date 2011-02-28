@@ -7,14 +7,25 @@
 >
   <xsl:output omit-xml-declaration="yes" encoding="UTF-8" method="xml"/>
 
-  <!-- coupé -->
-  <xsl:template match="tei:teiHeader">
-    <link rel="stylesheet" type="text/css" href="../theme/littre.css"/>
+  <!-- racine -->
+  <xsl:template match="tei:TEI">
+    <html>
+      <head>
+        <title>Littré</title>
+        <link rel="stylesheet" type="text/css" href="../theme/littre.css"/>
+      </head>
+      <body>
+        <xsl:apply-templates/>
+      </body>
+    </html>
   </xsl:template>
+  
   <!-- traversé -->
-  <xsl:template match="tei:TEI | tei:text | tei:body | tei:note/tei:p">
+  <xsl:template match="tei:text | tei:body | tei:note/tei:p">
     <xsl:apply-templates select="*"/>
   </xsl:template>
+  <!-- arrêté -->
+  <xsl:template match="tei:teiHeader"/>
   <!-- blocs génériques -->
   <xsl:template match="tei:entry | tei:sense | tei:note | tei:re ">
     <div>
