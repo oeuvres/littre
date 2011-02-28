@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
 <teiHeader>
 <fileDesc>
@@ -810,10 +810,10 @@
 <sense>
 <dictScrap>Autre orthographe de cari, voy. ce mot.</dictScrap>
 </sense>
-<re ana="supplement">
-<form> 2. KARI (ka-ri), s. m. </form>
+<re ana="supplement" orig=" 2. KARI (ka-ri), s. m. ">
+
 <dictScrap>Arbre de l'Australie. </dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Le tuart et le kari, deux eucalyptus d'une grosseur fabuleuse, sont des bois de haute futaie d'un très grand prix [en Australie]</quote>
 <bibl>
 <biblScope>Journ. offic. 21 nov. 1872, p. 7170, 2e col.</biblScope>
@@ -1520,10 +1520,10 @@
 <dictScrap>Terme de mécanique. Quantité de travail qui est capable d'élever à la hauteur d'un mètre un poids d'un kilogramme. Le <oVar>kilogrammètre</oVar> est l'unité de mesure du travail des machines et des moteurs. Un cheval vapeur est évalué à 200 kilogrammètres. Une calorie équivaut à 425 kilogrammètres.</dictScrap>
 </sense>
 <etym>Kilogramme, et mètre.</etym>
-<re ana="supplement">
-<form>KILOGRAMMÈTRE. </form>
+<re ana="supplement" orig="KILOGRAMMÈTRE. ">
+
 <dictScrap>Ajoutez : </dictScrap>
-<note type="remarque">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
+<note type="remarque" ana="supplement">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
 </re>
 </entry>
 <entry xml:id="kilolitre">
@@ -1580,8 +1580,8 @@
 <sense>
 <dictScrap>Qui appartient au kilomètre. Mesure <oVar>kilométrique</oVar>.</dictScrap>
 </sense>
-<re ana="supplement">
-<form>KILOMÉTRIQUE. </form>
+<re ana="supplement" orig="KILOMÉTRIQUE. ">
+
 <dictScrap>Ajoutez : </dictScrap>
 <re>Tonne kilométrique, voyageur kilométrique, tonne réduite, voyageur réduit, par hypothèse, à un kilomètre ; celle, celui qui en parcourent 10, 20, 30, etc., représentent 10, 20, 30, etc.  <cit><quote>tonnes ou voyageurs kilométriques</quote><bibl><author>P. BOITEAU</author><biblScope>Journ. des Débats, 8 juin 1877</biblScope></bibl></cit> </re>
 </re>
@@ -1756,10 +1756,10 @@
 <sense>
 <dictScrap>Substance dure, opaque et d'un rouge foncé, qui s'emploie souvent en médecine comme tonique, et dont l'origine est attribuée d'une manière incertaine à divers végétaux.</dictScrap>
 </sense>
-<re ana="supplement">
-<form>KINO. </form>
+<re ana="supplement" orig="KINO. ">
+
 <dictScrap>Ajoutez : </dictScrap>
-<etym>- ÉTYM. Mot des Indes orientales. </etym>
+<etym ana="supplement">- ÉTYM. Mot des Indes orientales. </etym>
 </re>
 </entry>
 <entry xml:id="kinovate">
@@ -1928,7 +1928,7 @@
 <quote>Un petit nombre de coups de knout donnent la mort ; quatre à cinq suffisent pour ne faire qu'une plaie du corps du condamné</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
 </sense>

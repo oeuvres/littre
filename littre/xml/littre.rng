@@ -263,6 +263,7 @@
 		    <choice>
   		    <ref name="sense2"/>
   		    <ref name="cit"/>
+          <ref name="dictScrap"/>
   				<ref name="note"/>
 		    </choice>
 		  </zeroOrMore>
@@ -461,11 +462,11 @@
     			<text/>
     		</element>
 		    <oneOrMore>
-		      <ref name="cit"/>
+		      <choice>
+  		      <ref name="cit"/>
+  		      <ref name="note"/>
+		      </choice>
 		    </oneOrMore>
-		    <optional>
-		      <ref name="note"/>
-		    </optional>
 		  </oneOrMore>
 		</element>
 	</define>
@@ -479,17 +480,15 @@
 	<define name="etym">
 		<element name="etym">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Étymologie</b></a:documentation>
-			<text/>
+		  <ref name="supplement"/>
 			<zeroOrMore>
 				<choice>
+    			<text/>
 					<ref name="cit"/>
 					<ref name="ref"/>
 				</choice>
 				<text/>
 			</zeroOrMore>
-			<optional>
-				<ref name="dictScrap"/>
-			</optional>
 		</element>
 	</define>
 
@@ -513,15 +512,15 @@
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-entrée en supplément</b>
 			</a:documentation>
+		  <optional>
+  		  <attribute name="orig"/>
+		  </optional>
 			<attribute name="ana">
 				<value>supplement</value>
 			</attribute>
 			<zeroOrMore>
 				<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
 			</zeroOrMore>
-			<optional>
-				<ref name="form"/>
-			</optional>
 			<optional>
 				<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
 			</optional>
