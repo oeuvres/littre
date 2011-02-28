@@ -1,0 +1,51 @@
+body {
+  padding:2em;
+}
+div.entry {
+  margin:2em 2em;
+  font-family: Arial,sans-serif;
+}
+
+div.sense1 b,
+div.sense2 b {
+  float:left;
+  margin-right:0.5ex;
+}
+
+div.sense1{
+  margin-bottom:1em;
+  margin-bottom:1ex;
+}
+div.sense2{
+  margin-left:1ex;
+  margin-bottom:1ex;
+}
+p {
+  margin:0.5ex 0 0.2ex 0;
+}
+p.dictScrap {
+  margin:1ex 0 1ex 0;
+}
+blockquote {
+  margin:0.8ex 0 0.8ex 6ex;
+  line-height:110%;
+}
+div.historique {
+  background:#eee;
+  padding:2px 1px 2px 0.7ex;
+  margin-top:1em;
+}
+div.historique blockquote {
+  margin-left:5.6ex;
+}
+div.sense2 blockquote {
+  margin-left:5ex;
+}
+.quote {
+  font-family: serif;
+  font-size:110%;
+}
+label {
+  font-size:80%;
+  float:left;
+}
