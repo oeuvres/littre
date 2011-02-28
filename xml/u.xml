@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_u">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_u">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -56,7 +59,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Je voy toutes les nations de l'Europe incliner en ceste opinion, et qu'il n'y a que nostre France où l'on prononce l'u comme nous faisons</quote>
@@ -65,7 +67,6 @@
 <biblScope>Lettres, t. I, p. 147</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>U latin.</etym>
 </entry>
@@ -246,7 +247,6 @@
 <dictScrap>Terme de médecine. Qui a la propriété d'ulcérer.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>La salamandre a une vertu chaude, corrosive et ulcerative</quote>
@@ -255,7 +255,6 @@
 <biblScope>XXIII, 28</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Ulcérer ; prov. ulceratiu ; esp. ulcerativo.</etym>
 </entry>
@@ -275,7 +274,6 @@
 <dictScrap>Ulcère superficiel.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>La cure universel et particulier de plaies et de contusions et de ulcerations</quote>
@@ -284,7 +282,6 @@
 <biblScope>f° 4</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. ulceracio ; espagn. ulceracion ; ital. ulcerazione ; du lat. ulcerationem, de ulcerare, ulcérer.</etym>
 </entry>
@@ -352,7 +349,6 @@
 <note type="remarque">Dans le XVIIe siècle, l'usage hésitait sur le genre de ce mot.  <cit><quote>M. Chapelain condamne ceux de la cour qui ont fait ulcère féminin ; il est masculin</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. II, p. 615, dans POUGENS</biblScope></bibl></cit> </note>
 <re type="nuance">ULCÈRE, PLAIE. La plaie résulte de l'action d'un corps étranger ; la cause de l'ulcère est inhérente à l'économie. La plaie est toujours idiopathique, l'ulcère toujours symptomatique. La plaie tend essentiellement à la guérison, parce que l'action de la cause a été instantanée ; l'ulcère tend, au contraire, à s'agrandir, avec perte de substance, parce que la cause en est subsistante. Le traitement de la plaie est purement chirurgical, celui de l'ulcère est plutôt médical. </re>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Le vice laisse comme un ulcere en la chair, une repentance en l'ame, qui tousjours s'esgratigne et s'ensenglante elle mesme</quote>
@@ -375,7 +371,6 @@
 <biblScope>Comm. il faut ouïr, 15</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. une ulcère ; du lat. ulcus, ulceris, qui tient au grec, ulcère.</etym>
 </entry>
@@ -470,7 +465,6 @@
 <dictScrap>S'<oVar>ulcérer</oVar>, v. réfl. Être <oVar>ulcéré</oVar>. La plaie s'est <oVar>ulcérée</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Aucune fois, par lonc procès de temps, se ulcere de soi meismes</quote>
@@ -479,8 +473,6 @@
 <biblScope>f° 97, verso.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Y a il quelque pensée.... qui vous ulcere, extraordinaire, indigestible ?</quote>
@@ -510,7 +502,6 @@
 <biblScope>V, 12</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et espagn. ulcerar ; ital. ulcerare ; du lat. ulcerare, de ulcus, ulcère.</etym>
 </entry>
@@ -537,7 +528,6 @@
 <dictScrap>Qui tient de la nature de l'ulcère. Plaie <oVar>ulcéreuse</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il contracte en son ame une disposition ulcereuse et catarreuse, qui à la fin luy cause une habitude de cholere</quote>
@@ -546,7 +536,6 @@
 <biblScope>Comment refrén. la colère, 31</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. ulceros ; espagn. et ital. ulceroso ; du lat. ulcerosus, de ulcus, ulcère.</etym>
 </entry>
@@ -864,7 +853,6 @@
 <dictScrap>Terme de médecine. Symptômes <oVar>ultimes</oVar>, symptômes qui annoncent la dissolution du malade.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Sur le point ultime de meschief prochain</quote>
@@ -873,7 +861,6 @@
 <biblScope>Expos. sur vér. mal prise.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. ultim ; esp. etital. ultimo ; du lat. ultimus, superlatif de ulter ou ultra (voy. <ref target="outre.2">OUTRE 2</ref>).</etym>
 </entry>
@@ -936,7 +923,7 @@
 </cit>
 </sense>
 <sense n="4">
-<dictScrap>Nec-plus-<oVar>ultra</oVar>, voy. <ref target="non-plus-ultra">NON-PLUS-<oVar>ULTRA</oVar></ref>.</dictScrap>
+<dictScrap>Nec-plus-<oVar>ultra</oVar>, voy. <ref target="non-plus-ultra">NON-PLUS-ULTRA</ref>.</dictScrap>
 </sense>
 <etym>Lat. ultra, au delà (voy. <ref target="outre.2">OUTRE 2</ref>).</etym>
 </entry>
@@ -1126,7 +1113,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Que nuls receveurs du roy ne soient ultramontains ou de Lombardie</quote>
@@ -1140,7 +1126,6 @@
 <biblScope>Arch. nation. jj74 (communiqué par M. Luce)</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. ultra, au delà, et mons, mont.</etym>
 </entry>
@@ -1301,7 +1286,7 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-<dictScrap>Cérès, Pallas, Junon, Vesta, etc. sont des planètes ultra-zodiacales, des astres ultra-zodiacaux, c'est-à-dire s'écartant à plus de huit degrés à droite et à gauche de l'écliptique.</dictScrap>
+<q>Cérès, Pallas, Junon, Vesta, etc. sont des planètes ultra-zodiacales, des astres ultra-zodiacaux, c'est-à-dire s'écartant à plus de huit degrés à droite et à gauche de l'écliptique.</q>
 </sense>
 </entry>
 <entry xml:id="ululation">
@@ -2307,7 +2292,7 @@
 <biblScope>Variat. préf.</biblScope>
 </bibl>
 </cit>
-<dictScrap>Pas <oVar>un</oVar> se dit avec la même signification sans ne.</dictScrap>
+<note>Pas <oVar>un</oVar> se dit avec la même signification sans ne.</note>
 <cit>
 <quote>Pas un seul petit morceau De mouche ou de vermisseau</quote>
 <bibl>
@@ -2466,7 +2451,6 @@
 <p>15. On dit un au pluriel : les uns. Cela paraît contradictoire avec le sens du mot.  <cit><quote>Voici la filiation de cet emploi : le latin mettait unus au pluriel, quand, malgré ce pluriel, il ne s'agissait que d'une seule chose : satis una superque Vidimus excidia</quote><bibl><author>VIRG.</author><biblScope>Aen. II</biblScope></bibl></cit> L'ancien français, qui avait du latin l'emploi de unus au pluriel, a étendu cet emploi, et fait de uns, unes, un article indéfini pluriel ; voy. ci-dessous dans Joinville : Unes très grans roches. Cet article indéfini pluriel est devenu sans peine les uns. </p>
 </note>
 <note type="historique">
-<p>
 <label>Xe s.</label>
 <cit>
 <quote>Ad une spede [épée] li roveret tolir lo chief</quote>
@@ -2486,8 +2470,6 @@
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>L'un fut Basan et li altres Basile</quote>
@@ -2525,8 +2507,6 @@
 <biblScope>ib. CCLV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Et de lor gent plus de l'une moitié</quote>
@@ -2577,8 +2557,6 @@
 <biblScope>Rois, p. 185</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Li messaige furent esleu, Mahius de Monmorenci en fu li uns, et Joffrois li mareschaus en fu li autres</quote>
@@ -2650,8 +2628,6 @@
 <biblScope>ms. p. 258, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Un et un [un à un] monte les degrez</quote>
@@ -2659,8 +2635,6 @@
 <biblScope>Ovide de arte, ms. de St-Germ. f° 95, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>On dit, et voir est, que tout edifice est ouvré et maçonné l'une pierre après l'autre</quote>
@@ -2718,8 +2692,6 @@
 <biblScope>I, 2</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>À contempler villes, chasteaulx, citez, Unes montans en grant preeminence, Aultres tumbans en basse decadence</quote>
@@ -2964,7 +2936,6 @@
 <biblScope>Coust. gén. t. I, p. 419</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. quel jour sommes-nous ? nous sommes le un ; Berry, ieun, ieune ; picard, ein ; bourg. ein, eun, et, devant une voyelle, ène ; wallon, on, et onk quand aucun mot ne suit ; provenç. uns, us, un, u, una ; espagn. un, uno ; port. um ; ital. uno ; du lat. unus ; anc. lat. oinus ; ombrien, enom ; allem. ein ; goth. ains ; angl. one ; sanscr, enas.</etym>
 <re ana="supplement">
@@ -3008,7 +2979,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>Xe s.</label>
 <cit>
 <quote>Seiets [soyez] unanimes in dei servitio</quote>
@@ -3016,8 +2986,6 @@
 <biblScope>Fragm. de Valenc. p. 469</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Que puis qu'ils estoient ensemble, et leurs volontés conformes et unanimes [il s'agit de deux personnes], il lui sembloit....</quote>
@@ -3033,7 +3001,6 @@
 <biblScope>IX, 5</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. unanimus, de unus, un, et animus, âme, cœur.</etym>
 </entry>
@@ -3047,7 +3014,6 @@
 <dictScrap>D'une commune voix, d'un commun sentiment. Ils votèrent <oVar>unanimement</oVar> la proposition.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Et tous unanimement louerent Dieu, de ce que. ..</quote>
@@ -3056,7 +3022,6 @@
 <biblScope>IV, 10</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Unanime, et le suffixe ment.</etym>
 </entry>
@@ -3101,7 +3066,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Unanimité ou concorde</quote>
@@ -3110,8 +3074,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ainsi en mariage doit avoir une egalité parfaite et unanimité la plus entiere qu'on puisse trouver</quote>
@@ -3120,7 +3082,6 @@
 <biblScope>p. 570</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. unanimitat ; espagn. unanimidad ; ital. unanimità ; du lat. unanimitatem, de unanimus, unanime.</etym>
 </entry>
@@ -3806,7 +3767,6 @@
 <dictScrap>Narval.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Unicorne est une fiere beste, auques resemblable à cheval de son cors, mais il a piez d'olifant et coe de cerf.... et enmi sa teste est une corne qui a bien quatre piez de lonc ; mais ele est si fors et si ague que il perce legierement quanque il ataint</quote>
@@ -3815,7 +3775,6 @@
 <biblScope>Trésor, p. 252</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. unicornis, de unus, un, et cornu, corne.</etym>
 </entry>
@@ -3904,7 +3863,6 @@
 <dictScrap>Faire un tout de plusieurs choses.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Unificare, unifier, faire un, unir</quote>
@@ -3913,8 +3871,6 @@
 <biblScope>unificare.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Le monde spirituel s'unifie avec le monde corporel, moyennant l'amour</quote>
@@ -3923,7 +3879,6 @@
 <biblScope>Biblioth. p. 263, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Un, et lat. facere, faire.</etym>
 </entry>
@@ -4089,7 +4044,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Mouvement uniforme</quote>
@@ -4098,7 +4052,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. uniformis, de unus, un, et forma, forme.</etym>
 </entry>
@@ -4234,7 +4187,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Uniformité de mouvement</quote>
@@ -4243,8 +4195,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il y eut bonne uniformité en ceci que les deux chefs [contraires] estoyent touchez d'un pareil desir de venir aux mains</quote>
@@ -4253,7 +4203,6 @@
 <biblScope>648</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. uniformitatem, de uniformis, uniforme.</etym>
 </entry>
@@ -4392,7 +4341,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Car Diex en lor commencement Les ame [les aime] tous onniement, Et donne raisonnables ames Ausinc as hommes cum as fames</quote>
@@ -4400,8 +4348,6 @@
 <biblScope>la Rose, 19812</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Les archers d'Angleterre traioient si ouniement et si espaissement, que à peine se osoient ceux qui defendoient montrer aux guerites</quote>
@@ -4410,8 +4356,6 @@
 <biblScope>I, I, 199</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Uniement [sans agitation, en parlant de l'eau]</quote>
@@ -4427,7 +4371,6 @@
 <biblScope>I, 214</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Unie, et le suffixe ment.</etym>
 </entry>
@@ -4691,7 +4634,6 @@
 <dictScrap>Terme de manége. Ensemble d'un cheval.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>C'est Dex.... Ki devisa, tout sans doutanche, En trois personnes sa sustanche ; Ne pour ceste devision Ne perdi pas Dex s'union</quote>
@@ -4700,8 +4642,6 @@
 <biblScope>Barl. et Jos. p. 41</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Grant unité ou union</quote>
@@ -4710,8 +4650,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>À grand peine se faisoient les chemins pour remplir les vallées et mettre à union, pour le charroy passer à leur aise</quote>
@@ -4727,8 +4665,6 @@
 <biblScope>Des vertus nécessaires au prince.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Union et concorde</quote>
@@ -4744,7 +4680,6 @@
 <biblScope>Introd. 22</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenc. unio ; espagn. union ; ital. unione ; du lat. unionem (voy. <ref target="unir">UNIR</ref>).</etym>
 <re ana="supplement">
@@ -5037,7 +4972,6 @@
 </sense>
 <note type="remarque">Corneille a dit le plus unique : Je verrai mon amant, mon plus unique bien, Mourir pour son pays, ou détruire le mien, Hor. I, 3. Voltaire a blâmé cet emploi. Cependant on le trouve aussi dans Bossuet, du moins avec uniquement : Il n'y a qu'à considérer avec attention les paroles de Jésus-Christ dans leur tout, et ensuite l'une après l'autre ; c'est ce que je ferai dans ce discours plus uniquement que jamais, 2e instr. pastor. sur les Promesses de J. C. I. </note>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ce tant louable labeur de traduire me semble moien unique et suffisant pour elever nostre vulgaire à l'égal des autres plus fameuses langues</quote>
@@ -5059,7 +4993,6 @@
 <biblScope>Nuits de Straparole, t. II, p. 153</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. unicus, dérivé de unus, un.</etym>
 </entry>
@@ -5114,7 +5047,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>En la premiere entrée de son pays il perd sa femme Rachel en travail d'enfant, laquelle il aimoit uniquement</quote>
@@ -5123,7 +5055,6 @@
 <biblScope>Instit. 331</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Unique, et le suffixe ment.</etym>
 </entry>
@@ -5425,7 +5356,6 @@
 </sense>
 <note type="remarque">M. Chapelain est du sentiment de M. de Vaugelas, et dit que ceux qui condamnent unir ensemble comme un pléonasme et une superfluité de mots, le font sans raison, VAUGEL. Rem. not. Th. Corn. t. I, p. 260, dans POUGENS. Cette observation est juste ; ensemble détermine unir, et ne fait pas pléonasme. </note>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Tuz dis [toujours] est unie et estable la volenté</quote>
@@ -5433,8 +5363,6 @@
 <biblScope>Rois, p. 54</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Ainsinc Barat a tout honni, Par qui les biens jadis onni [égaux] Furent as gens aproprié</quote>
@@ -5455,8 +5383,6 @@
 <biblScope>XXXI, 1</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Mais il laira ses gens ens ou païs onni</quote>
@@ -5471,8 +5397,6 @@
 <biblScope>appropriare.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et demeura Pietre du Bois, capitaine de Bruges, tant que ces portes, ces murs et ces fosses fussent mis à uni</quote>
@@ -5495,8 +5419,6 @@
 <biblScope>Œuvres, p. 521</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Le pape ne peut conferer ni unir hospitaux ou leproseries de ce royaume, et n'a lieu en iceux la reigle de pacificis</quote>
@@ -5540,7 +5462,6 @@
 <biblScope>III, 38</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et espagn. unir ; ital. unire ; du lat. unire, de unus, un.</etym>
 <re ana="supplement">
@@ -5732,7 +5653,6 @@
 </sense>
 <note type="remarque">Voltaire se moque de l'abus que, de son temps, on faisait de la locution à l'unisson, quand on la transportait à une conformité physique. Vous lirez dans nos livres nouveaux de philosophie qu'Épicure avait un extérieur à l'unisson de son âme, Dict. phil. Langues. </note>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Si je confere avecques une ame forte et un roide jousteur, il me presse les flancs.... l'unisson est qualité du tout ennuyeuse en la conference</quote>
@@ -5741,7 +5661,6 @@
 <biblScope>IV, 35</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. unisonus, de unus, un, unique, et sonus, son.</etym>
 </entry>
@@ -6092,7 +6011,6 @@
 <dictScrap><oVar>Unité</oVar> tactique, voy. <ref target="tactique">TACTIQUE</ref>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>L'ofices de nature est en acorder les choses descordans, en tel maniere que totes diversités retornent en unité</quote>
@@ -6101,8 +6019,6 @@
 <biblScope>Trésor, p. 104</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Si comme en geometrie un point, et en arismetique unité</quote>
@@ -6124,8 +6040,6 @@
 <biblScope>Guesclin. 8666</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Par confirmation d'amour et d'unité, ils [Flandre, Hainaut et Brabant] ordonnerent à faire forger une monnoie coursable dedans lesdits trois pays</quote>
@@ -6140,7 +6054,6 @@
 <biblScope>Perceforest, t. v, f° 4</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. unitat ; espagn. unidad ; ital. unità ; du lat. unitatem, de unus, un.</etym>
 <re ana="supplement">
@@ -6474,7 +6387,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Au salut des universes terres</quote>
@@ -6483,8 +6395,6 @@
 <biblScope>Charles V, I, 5</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Au roy du ciel et du monde univers</quote>
@@ -6507,7 +6417,6 @@
 <biblScope>I, 33</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. universus, tout entier, universum, l'univers, de unus, un, et vertere, tourner : rassemblé, mis en un. Primitivement univers est adjectif, conformément à l'étymologie.</etym>
 </entry>
@@ -6694,7 +6603,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>L'universalité d'esprit, par laquelle le sage jette sa veue et consideration sur tout l'univers</quote>
@@ -6703,7 +6611,6 @@
 <biblScope>Sagesse, II, 2</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. universalitatem, de universalis, universel.</etym>
 <etym>Voy. <ref target="universel">UNIVERSEL</ref>.</etym>
@@ -6977,7 +6884,6 @@
 </sense>
 <note type="remarque">Il ne faut pas en général donner de comparaison à universel ; cependant de bons écrivains l'ont fait.  <cit><quote>Une erreur si stupide et si brutale n'était pas seulement la plus universelle, mais....</quote><bibl><author>BOSSUET</author><biblScope>Hist. II, 3</biblScope></bibl></cit> <cit><quote>Rédemption la plus universelle dans son étendue : tous les hommes y sont compris ; tous en général, chacun en particulier</quote><bibl><author>BOURDAL.</author><biblScope>Pensées, t. III, p. 193</biblScope></bibl></cit> <cit><quote>L'aveuglement est, de toutes les peines du péché, la plus universelle</quote><bibl><author>MASS.</author><biblScope>Carême, Confession.</biblScope></bibl></cit> </note>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Savoir les universels choses n'est pas seure chose sanz l'esperience</quote>
@@ -6986,8 +6892,6 @@
 <biblScope>Trésor, p. 333</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Environ aucunes choses universeilz, et environ aucunes choses particulieres</quote>
@@ -7003,8 +6907,6 @@
 <biblScope>f° 84, verso.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>C'est luy [Dieu] par qui l'universel est fait</quote>
@@ -7012,8 +6914,6 @@
 <biblScope>les Triomphes de la noble dame, f° 123, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>L'edit de pacification fait devant Orleans avoit donné quasi à l'universel de la France beaucoup de contentement</quote>
@@ -7056,7 +6956,6 @@
 <biblScope>le Bureau du concile de Trente, p. 3</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et espagn. universal ; ital. universale ; du lat. universalis, dérivé de universus (voy. <ref target="univers">UNIVERS</ref>).</etym>
 </entry>
@@ -7108,7 +7007,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Induction est quant de plusieurs particuliers l'en conclut universellement</quote>
@@ -7117,8 +7015,6 @@
 <biblScope>Éth. XI, 17</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Pour les chasteneraies, c'est à dire les lieux complantés universellement de chastaniers</quote>
@@ -7127,7 +7023,6 @@
 <biblScope>641</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Universelle, et le suffixe ment ; provenç. universalment ; espagn. et ital. universalmente.</etym>
 </entry>
@@ -7229,7 +7124,6 @@
 <dictScrap>Aujourd'hui, corps enseignant, unique pour toute la France, placé sous la direction du ministre de l'instruction publique. L'<oVar>université</oVar> a été fondée par un décret de Napoléon Ier, du 17 mars 1808 ; elle porta d'abord le nom d'<oVar>université</oVar> impériale, puis celui d'<oVar>université</oVar> de France ; elle comprend : 1° les facultés ; 2° les lycées ou colléges de l'État ; 3° les colléges communaux ; 4° les écoles primaires ; et tout cela sous la direction d'une administration centrale. Grand-maître de l'<oVar>université</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Li clerc de Paris la citei, Je di de l'universitei</quote>
@@ -7244,8 +7138,6 @@
 <biblScope>la Rose, 11688</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et autres malefices que les universitez [communes], gens et habitans des villes de Thoulouze, Carcassonne, ont commis</quote>
@@ -7254,8 +7146,6 @@
 <biblScope>universitas.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>[Le roi Charles] manda et le recteur et les maistres et docteurs de l'université de Paris</quote>
@@ -7271,7 +7161,6 @@
 <biblScope>Poésies mss. f° 440</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. universitat ; espagn. universidad ; ital. università ; du latin universitatem, de universus (voy. <ref target="univers">UNIVERS</ref>). Universitas, au sens de corporation légale ; c'est de là que vient le nom d'université aux corps enseignants du moyen âge.</etym>
 <re ana="supplement">
@@ -7366,7 +7255,6 @@
 <dictScrap>Terme de musique. Consonnances univoques, celles qui portent le même nom, comme l'octave et ses répliques.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Cela fait, le fit despouiller nud, et ne trouva sur son corps aucun signe de lepre, tant univoque qu'equivoque</quote>
@@ -7375,7 +7263,6 @@
 <biblScope>XIX, 23</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. univocus, de unus, un, et vox, voix, mot, terme.</etym>
 </entry>
@@ -7800,7 +7687,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Œuvres urbaines et privées</quote>
@@ -7816,7 +7702,6 @@
 <biblScope>f° 89, verso.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. urbanus, de urbs, ville, de urvare ou urbare, tracer le sillon, faire la délimitation religieuse.</etym>
 </entry>
@@ -7923,7 +7808,6 @@
 </sense>
 <note type="remarque">On a attribué ce mot à Balzac ; mais il est beaucoup plus ancien ; seulement, c'est Balzac qui l'a introduit définitivement et autorisé. </note>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Il semble que selon chescune urbanité ou communicacion civile soit aucune espece d'amisté</quote>
@@ -7932,8 +7816,6 @@
 <biblScope>Éth. 248</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>C'est le fleuve d'amenité, Le torrent de toute lyesse, La source de felicité, Le cours d'extreme urbanité, La mer de fleurie jeunesse, C'est la riviere de promesse</quote>
@@ -7942,8 +7824,6 @@
 <biblScope>Sejour d'honneur dans CHEVRAEANA (Paris 1697), p. 58 et 59, Rev. de l'Instr. publique, 6 avr. 1865, p. 3</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Urbanité est une elegance, une courtoisie ou une gaillardise de deviser plaisamment, en resjouissant les assistans sans les fascher</quote>
@@ -7952,7 +7832,6 @@
 <biblScope>Couronne Margaritique, dans PEETERMANS, Annuaire de la société libre d'émulation de Liége pour 1859</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. urbanitatem, de urbanus, voy. <ref target="urbain">URBAIN</ref>.</etym>
 </entry>
@@ -8023,7 +7902,6 @@
 <dictScrap>Aurochs, taureau sauvage.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Je tuay grand nombre de ures, bœufs, beuffles, sangliers, cerfz</quote>
@@ -8031,7 +7909,6 @@
 <biblScope>Alector, roman, p. 60, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. urus, mot germanique introduit anciennement dans le latin : anc. haut-allem. ûr, ûro ; sanscrit, usra, taureau.</etym>
 </entry>
@@ -8129,7 +8006,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les reins ont connexion avec la vessie par les ureteres ou urinaires</quote>
@@ -8138,7 +8014,6 @@
 <biblScope>I, 26</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Du grec, uriner.</etym>
 </entry>
@@ -8424,7 +8299,6 @@
 <dictScrap>Qui ne souffre point de retardement, pressant.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Encores de present nous est force et necessité urgente pour la conduite de nostre armée de recouvrer grans sommes de deniers</quote>
@@ -8432,8 +8306,6 @@
 <biblScope>Lettre de Charles VIII, dans Bulletin du comité de la langue, t. III, p. 601</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Leurs objections ne sont pas si fortes ni si urgentes qu'il faille mettre grand peine à les refuter</quote>
@@ -8463,7 +8335,6 @@
 <biblScope>III, 249</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. urgentem, qui presse, de urgere, presser.</etym>
 </entry>
@@ -8510,7 +8381,6 @@
 <dictScrap>S. f. Pissenlit.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ces pierres descendent en la vessie par les vaisseaux urinaires</quote>
@@ -8519,7 +8389,6 @@
 <biblScope>XV, 35</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Urine.</etym>
 </entry>
@@ -8539,7 +8408,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Aportez moi un orinal, Et si verrai dedenz le mal</quote>
@@ -8547,8 +8415,6 @@
 <biblScope>Ren. 19509</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le medecin prend l'urinal et contre-mont le leve, et tourne et retourne l'urine, et puis va dire....</quote>
@@ -8557,7 +8423,6 @@
 <biblScope>Nouv. xx.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. urinal ; espagn. orinal ; ital. orinale ; du lat. urinal, pot de nuit, adj. urinalis, urinaire, de urina, urine. On trouve au XVIe siècle urinal pour urinaire.</etym>
 </entry>
@@ -8636,7 +8501,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Tant iert estreit mened [le peuple sera si étroitement mené], que li cuvendrad od vus mengier sa fiente demeine, e le urine beivre ki li isterad del cors</quote>
@@ -8644,8 +8508,6 @@
 <biblScope>Rois, p. 409</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Il ne faut jà vostre pousse [pouls] taster.... Vostre orine ne aussi regarder</quote>
@@ -8654,8 +8516,6 @@
 <biblScope>Ball. 83</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ceulx de Crete, assiegez par Metellus, se trouverent en telle disette de tout aultre bruvage, qu'ils eurent à se servir de l'urine de leurs chevaux</quote>
@@ -8664,7 +8524,6 @@
 <biblScope>I, 366</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Berry, orine ; provenç. urina ; espagn. orina ; portug. ourina ; ital. urina, orina ; du lat. urina, de même radical que le grec signifiant, urine, et du grec signifiant la partie séreuse du lait ; comparez le sanscr. vari, eau.</etym>
 </entry>
@@ -8688,7 +8547,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Illecques, oriner et pissier</quote>
@@ -8696,8 +8554,6 @@
 <biblScope>Archiv. nat. II, 107, p. 283</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>À cause de quoy ils ne peuvent uriner droit</quote>
@@ -8706,7 +8562,6 @@
 <biblScope>XV, 34</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Urine ; Berry, oriner ; provenç. urinar ; espagn. orinar ; ital. orinare.</etym>
 </entry>
@@ -9344,7 +9199,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Que por Dieu et por s'honour [elle] N'ait jà l'us de traïtour</quote>
@@ -9358,8 +9212,6 @@
 <biblScope>Th. le mart. 80</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et par tel convent li rendirent [la ville], qu'il les tenroit as us et as coutumes que li empereres Grieus les avoit tenus jusques à ore....</quote>
@@ -9368,8 +9220,6 @@
 <biblScope>CXVIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Mainstenus nous serons et de jours et de nuis Aux coustumes, aux us du bon roy saint Loys</quote>
@@ -9377,8 +9227,6 @@
 <biblScope>Guesclin. 21144</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Hipparchia ne feut receue en la societé de Crates, qu'en condition de suyvre en toutes choses les uz et coustumes de sa regle</quote>
@@ -9387,7 +9235,6 @@
 <biblScope>II, 352</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. us ; esp. et it. uso ; du lat. usus, usage, utor, se servir, user. Utor, archaïque oitor, se rattache au sanscr. uti, aide, secours.</etym>
 </entry>
@@ -10049,7 +9896,6 @@
 <note type="remarque">Au mot monté, l'Académie, au lieu de dire : il est dans l'usage de faire, dit : en usage de faire. Pautex blâme cette locution, à tort. Disant être dans l'usage de faire, il n'y a aucune raison pour ne pas dire être en usage de faire. </note>
 <re type="nuance">USAGE, COUTUME. Suivant l'étymologie propre à chacun de ces mots, usage exprime la manière d'user, de se servir des choses de la vie ; et coutume, les habitudes que l'on a de faire telle ou telle chose. Mais on dit indistinctement : c'est la coutume, ou c'est l'usage. </re>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Je l'aim et serf et aor [adore] par usage [par habitude] ; Si ne li os [ose] mon penser descouvrir</quote>
@@ -10057,8 +9903,6 @@
 <biblScope>Couci, XIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>La diference qui est entre coustume et uzage, si est que toutes coustumes font à tenir ; mais y a tex [tels] usages que qui vaurroit [voudrait] pledier encontre et mener dusques à jugement, li uzaiges seroit de nule valeur</quote>
@@ -10112,8 +9956,6 @@
 <biblScope>Liv. de jost. 56</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>En françois ces mos meur et moral ne sont pas en usage commun</quote>
@@ -10129,8 +9971,6 @@
 <biblScope>ib. 25</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le suppliant depuis se mist à bon usaige [s'amenda]</quote>
@@ -10139,8 +9979,6 @@
 <biblScope>usagium.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Pourquoy m'alleguez vous l'usage Et la coustume... ?</quote>
@@ -10205,7 +10043,6 @@
 <biblScope>709</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Berry, urage, terre communale ; wallon, uzeg ; prov. usatge ; espagn. usage ; ital. usaggio ; du bas-lat. usaticum, dérivé de usus, usage.</etym>
 </entry>
@@ -10219,7 +10056,6 @@
 <dictScrap>Terme familier. Qui a de l'usage. Les femmes les moins <oVar>usagées</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Usagés es faits d'armes</quote>
@@ -10228,7 +10064,6 @@
 <biblScope>II, II, 184</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <re ana="supplement">
 <re>USAGÉ. Ajoutez : 2° Qui a servi, qui a fait de l'usage.  <cit><quote>En tarif conventionnel, on applique aux sacs neufs importés vides..., aux sacs usagés, la franchise afférente aux articles d'emballage ayant servi</quote><bibl><biblScope>Douanes, Tarif de 1877, note 518</biblScope></bibl></cit> </re>
@@ -10250,7 +10085,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Quant aux usaigiers qui ont droit et coustume de prendre bois es forests</quote>
@@ -10265,8 +10099,6 @@
 <biblScope>usagium.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ainsi ne faut-il pas attendre cette prudence usagere, qui couste si cher, et qui est si longue à venir</quote>
@@ -10275,7 +10107,6 @@
 <biblScope>Préf. XI, 38</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Usage.</etym>
 </entry>
@@ -10312,7 +10143,6 @@
 <dictScrap>Terme forestier. <oVar>Usance</oVar> du bois, espace de temps qui s'est écoulé depuis qu'on a coupé un taillis. On dit dans le même sens : âge du bois.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Telle est l'usance des prelatz d'Allemaigne [marcher accompagné d'un homme armé]</quote>
@@ -10321,8 +10151,6 @@
 <biblScope>II, 7</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>C'est une usance qui aux nations où elle est observée....</quote>
@@ -10345,7 +10173,6 @@
 <biblScope>Thés. 26</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>User ; prov. uzansa ; esp. et it. usanza.</etym>
 </entry>
@@ -11003,7 +10830,6 @@
 <p>2. En user pour agir est correct, parce qu'on dit user de quelque chose. Mais en agir, par lequel quelques-uns remplacent en user, ne se dit pas, vu qu'on ne dit pas agir de quelque chose. </p>
 </note>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Il est mult vielz, si ad sun tens uset</quote>
@@ -11011,8 +10837,6 @@
 <biblScope>Ch. de Rol. XXXIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Dunc comença sun cors durement à grever, Et les grosses viandes, chous e nes à user</quote>
@@ -11026,8 +10850,6 @@
 <biblScope>ib. 102</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Une estoire vielle et usée</quote>
@@ -11084,8 +10906,6 @@
 <biblScope>Prov. t. II, p. 433</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Desirable chose, c'est user ou jouir de ce que l'on desire</quote>
@@ -11101,8 +10921,6 @@
 <biblScope>usuare.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Chers seigneurs, vous estes moult vaillans chevaliers et usés d'armes</quote>
@@ -11160,8 +10978,6 @@
 <biblScope>I, 10</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Si vostre plaisir est de me envoyer quelque lettre de change, j'espere n'en user que à votre service, et n'en estre ingrat on reste</quote>
@@ -11247,7 +11063,6 @@
 <biblScope>Cat. 11</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç et espagn. usar ; ital. usare ; verbe dérivé du latin usus, usage (voy. <ref target="us.1">US 1</ref>).</etym>
 </entry>
@@ -11317,7 +11132,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Se nos avons besoin de mairien à nos moulins et à nos autres wisines de Valenchienes</quote>
@@ -11326,8 +11140,6 @@
 <biblScope>usina.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>....mais ainsi comme En avez dit la verité, Vous ne forgez d'humanité Que l'elementaire machine, Sans mettre ce qui meut l'usine</quote>
@@ -11335,8 +11147,6 @@
 <biblScope>l'Alchim. à nat. 94</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Huisine et ediffice à molre, brasier et rechauffer waranche</quote>
@@ -11351,8 +11161,6 @@
 <biblScope>Poésies mss. f° 556</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Femme tenant l'usine ou boutique de son mary achetant et vendant publiquement peut contracter</quote>
@@ -11366,7 +11174,6 @@
 <biblScope>Nouv. coust. gén. t. II, p. 396</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Dérivé du lat. usus, comme ustrina, est dérivé de ustum (voy. <ref target="us.1">US 1</ref>)</etym>
 </entry>
@@ -11448,7 +11255,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Tous quatre moult puissants de corps, et bien usités et esprouvés en armes</quote>
@@ -11464,8 +11270,6 @@
 <biblScope>Prol.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Par ce qu'il n'est pas usité Ne commun, qu'une femme ou fille Sçaiche tant....</quote>
@@ -11495,7 +11299,6 @@
 <biblScope>Anton. 65</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. usitat ; espagn. usitado ; ital. usitato ; du lat. usitatus, usitare, fréquentatif de uti, se servir.</etym>
 </entry>
@@ -11601,7 +11404,6 @@
 </sense>
 <note type="remarque">Le genre de ce mot a varié : <cit><quote>Dont pour toute ustensile Pierre faisait subsister sa famille</quote><bibl><author>LA FONT.</author><biblScope>Jum.</biblScope></bibl></cit> <cit><quote>On abandonnait le lieu ; les ustensiles sacrées étaient perdues</quote><bibl><author>FONT.</author><biblScope>Oracles, II, 2</biblScope></bibl></cit> Aujourd'hui le mot est masculin. </note>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Leurs linges, meubles et autres utenciles</quote>
@@ -11624,14 +11426,12 @@
 <biblScope>287</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. utensile ; provenç. ustencilha ; du lat. utensilia, choses dont on peut se servir, de uti. La forme régulière serait utensille, au féminin, représentant le pluriel neutre, avec l'l mouillée. Quant à l's, elle est absolument barbare ; le XVIe siècle ne l'avait pas ; des parlers provinciaux ne l'ont pas non plus.</etym>
 <re ana="supplement">
 <re>USTENSILE. Ajoutez : 4° Au plur. <cit><quote>Dans l'exploitation du bois de flottage, indemnité de 30 francs que l'on donne au premier compagnon, quand le train est formé et prêt à partir</quote><bibl><biblScope>Mémoires de la Société centrale d'agriculture, 1873, p. 265</biblScope></bibl></cit> </re>
 <note type="remarque">Ajoutez : 2. La forme utensile se trouve encore au commencement du XVIIIe siècle.  <cit><quote>La vaisselle et les autres utensiles...</quote><bibl><author>GARCILASSO DE LA VEGA</author><biblScope>Hist. des Yncas, t. I, p. 345 (traduction de Baudoin, éd. de 1704).</biblScope></bibl></cit> </note>
 <note type="historique">
-<p>
 <dictScrap>Ajoutez : </dictScrap>
 <label>XVe s.</label>
 <cit>
@@ -11641,7 +11441,6 @@
 <biblScope>Lettres-missives originales du chartrier de Thouars, p. 8</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </re>
 </entry>
@@ -11684,7 +11483,6 @@
 <dictScrap>Terme de chirurgie. Action de brûler, d'appliquer le cautère actuel.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>On cure l'acrochordon par ligature, par section et par ustion</quote>
@@ -11693,7 +11491,6 @@
 <biblScope>V, 21</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. ustionem, de ustum, supin de urere, brûler ; sanscr. ush, brûler.</etym>
 </entry>
@@ -11841,7 +11638,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Retenu audit Pierrot le usfruit desdiz vingt sols parisis le cours de sa vie tant seulement.... et que ledit couvent ne puisse riens reclamer oudit usfruit</quote>
@@ -11850,8 +11646,6 @@
 <biblScope>usufructuare.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Cela nous admoneste en ces mois si plaisans De ne frauder en rien l'usufruit de nos ans</quote>
@@ -11860,7 +11654,6 @@
 <biblScope>Élég. 12</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. usufrug ; du lat. usufructus (QUICHERAT, Addenda), de usus, usage, et fructus, fruit.</etym>
 </entry>
@@ -11897,7 +11690,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ladicte vicontesse, usuffructuaire à cause de doualre</quote>
@@ -11905,8 +11697,6 @@
 <biblScope>Arch. nat. jj85, p. 155</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Se contentant de n'en estre investy, sinon comme usufructuaire, et comme ayant le bail, et jouyssant des fruits au nom de ses enfans ducs titulaires</quote>
@@ -11915,7 +11705,6 @@
 <biblScope>245</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Usufruit.</etym>
 </entry>
@@ -11970,7 +11759,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>En imposant [alléguant] le cas estre usuraire</quote>
@@ -11984,8 +11772,6 @@
 <biblScope>le Songe du vergier, I, 173</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Leur grand pere mourut bancquier, bulliste et usuraire à Lyon</quote>
@@ -12001,7 +11787,6 @@
 <biblScope>513</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. usurari ; espagn. et ital. usurario ; du lat. usurarius, de usura, usure.</etym>
 </entry>
@@ -12139,7 +11924,6 @@
 <dictScrap>Terme de pathologie. Atrophie, avec résorption complète, de la substance des dents, des cartilages ou des os pressés par certaines tumeurs, ou usés par le frottement.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Si comme s'il emprunte à uzures por le [la] defaute de paiement</quote>
@@ -12155,8 +11939,6 @@
 <biblScope>LXVIII, 2</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Laquelle debte se estoit multipliée par usures</quote>
@@ -12172,8 +11954,6 @@
 <biblScope>usaria.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quiconque donne aux poures preste à Dieu à usure</quote>
@@ -12189,7 +11969,6 @@
 <biblScope>533</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. espagn. et ital. usura, du lat. usura, de usum, supin de uti, se servir.</etym>
 </entry>
@@ -12203,7 +11982,6 @@
 <dictScrap>Faire l'usure.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Avarice a le mont [monde] sorpris ; S'il est clamez dolent, chetis, Ne rente n'a se il n'usure</quote>
@@ -12211,8 +11989,6 @@
 <biblScope>Ren. 195</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Jadis enssi qui s'aprestast D'usurer et deniers prestast As usures ...</quote>
@@ -12221,8 +11997,6 @@
 <biblScope>t. II, p. 82</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Contrat fait par gens qui fussent coustumiers d'usurer</quote>
@@ -12231,7 +12005,6 @@
 <biblScope>515</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="usurier">
@@ -12289,7 +12062,6 @@
 <re type="proverbe"><form>Il n'est pas usurier qui veut</form>. </re>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Cil Diex, se li vient à plaisir, Puet encore bien consentir à parler les bestes sauvages Et les usuriers fere larges</quote>
@@ -12311,8 +12083,6 @@
 <biblScope>Testam. 945</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Si estoit ainsi que les useriers avoient pourpensé une cautelle comment il pussent defrauder le pueple</quote>
@@ -12321,8 +12091,6 @@
 <biblScope>f° 38, verso</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Rarement est et peu souvent Le vieil usurier sans argent</quote>
@@ -12338,7 +12106,6 @@
 <biblScope>III, 149</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bourg. usurei ; prov. usurier ; esp. usurero ; ital. usuraio ; du lat. usurarius, de usura, usure.</etym>
 </entry>
@@ -12460,7 +12227,6 @@
 <dictScrap>La chose même qui est usurpée. La plupart des terres de cette seigneurie n'étaient que des usurpations.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il ne s'estoit point laissé aller à ceste violente usurpation de tyrannie par effrenée concupiscence de vivre à son plaisir</quote>
@@ -12476,7 +12242,6 @@
 <biblScope>dans LIVET, la Gramm. franç. p. 53</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. usurpatio ; espagn. usurpacion ; ital. usurpazione ; du lat. usurpationem, de usurpare, usurper.</etym>
 </entry>
@@ -12645,7 +12410,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>La commune renommée disoit qu'il vouloit usurper et avoir le royaume</quote>
@@ -12654,8 +12418,6 @@
 <biblScope>f° 30, recto.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>On ne doit nullement souffrir qu'en s'usurpant faussement l'honneur, ils violent la sainte institution de Jesus-Christ</quote>
@@ -12692,7 +12454,6 @@
 <biblScope>Préf XII, 39</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et espagn. usurpar ; ital. usurpare ; du latin usurpare, proprement s'emparer par l'usage, par la possession, sans droit à l'acquisition, de usus, possession par usage, et rapere, ravir, par l'intermédiaire d'une forme, telle que usurapus.</etym>
 </entry>
@@ -12788,7 +12549,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Une femme saine et bien reglée de ses purgations uterines</quote>
@@ -12811,7 +12571,6 @@
 <biblScope>XIX, 16</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. uterinus, de uterus (voy. <ref target="utérus">UTÉRUS</ref>).</etym>
 </entry>
@@ -12916,7 +12675,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>L'enfant a besoin quasi d'estre comme recuit et retenu dans l'uterus jusques à deux ou trois mois après</quote>
@@ -12925,7 +12683,6 @@
 <biblScope>XVIII, 15</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. esp. et it. utero, du latin uterus, matrice ; comparez le sanscr. udara, ventre.</etym>
 </entry>
@@ -13048,7 +12805,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Bien le sai que tu es prudum e utle e profitable à mun os [armée]</quote>
@@ -13056,7 +12812,6 @@
 <biblScope>Rois, p. 113</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et espagn. util ; ital. utile ; du latin utilis, de uti, se servir. Utle est la forme ancienne et correcte, utilis ayant l'accent sur u ; utile a été refait sur le latin.</etym>
 <re ana="supplement">
@@ -13264,7 +13019,6 @@
 <dictScrap>Au plur. Terme de théâtre. Les emplois, les rôles utiles et non brillants de la pièce.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Quel utilitet el mien sanc, dementres que [pendant que] je descent en corruptiun ?</quote>
@@ -13284,8 +13038,6 @@
 <biblScope>Job, p. 454</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Les utilités pour quoi les mendibles [mâchoires] desous se meuvent sans celes desus</quote>
@@ -13307,8 +13059,6 @@
 <biblScope>Bibl. des ch. 6e série, t. III, p. 594</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ces utilitez [de l'histoire] si notables sont partout accompagnées de delectation singulière</quote>
@@ -13331,7 +13081,6 @@
 <biblScope>Hist. II, 359</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. utilitat ; espagn. utilidad ; ital. utilità ; du lat. utilitatem, de utilis, utile</etym>
 </entry>
@@ -13358,7 +13107,6 @@
 <dictScrap>Mots latins qui s'emploient surtout en diplomatie pour dire : comme chacun possède. La base du traité fut l'<oVar>uti</oVar> possidetis, c'est-à-dire que chaque puissance conserverait ce dont elle était en possession.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Action de nouvelleté, comme vous tenez, que les clercs appellent uti possidetis</quote>
@@ -13367,7 +13115,6 @@
 <biblScope>Somme rural, titre XXVII, p. 161, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. uti, comme, possidetis, vous possédez. Uti possidetis est le commencement de la formule de l'interdit qui répond en droit à notre action possessoire.  <cit><quote>Uti nunc possidetis, quominus ita possideatis, vim fieri veto</quote><bibl><author>GAIUS</author><biblScope>IV, Instit. § 160</biblScope></bibl></cit></etym>
 </entry>
@@ -13387,7 +13134,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Finablement arrivarent au port de Utopie, distant de la ville des Amaurotes par trois lieues</quote>
@@ -13403,7 +13149,6 @@
 <biblScope>Anc. et nouv. police de Genève, p. 37</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Nom forgé par Thomas Morus, du grec, non, et, lieu, c'est-à-dire chose qui ne se rencontre en aucun lieu.</etym>
 </entry>
@@ -13638,7 +13383,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>La 3e tunique appelée uvée, pour la similitude qu'elle a en couleur avec un grain de raisin noir.... aucuns l'appellent choroïde, à raison qu'elle est tissue abondamment de veines et arteres, comme l'arriere-faix ou secondine des femmes</quote>
@@ -13647,7 +13391,6 @@
 <biblScope>IV, 6</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Dérivé du lat. uva, grain de raisin (voy. <ref target="uve">UVE</ref>).</etym>
 </entry>
