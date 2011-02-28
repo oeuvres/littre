@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -47,7 +50,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Parler vous doit on bien de K ; Iceste letre, pour Dieu, qu'a, Qui crie adès, quant on la nomme ?</quote>
@@ -55,7 +57,6 @@
 <biblScope>Senefiance de l'ABC, dans JUBINAL, t. II, p. 279</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. c ; le terme grec signifie le caf phénicien.</etym>
 </entry>
@@ -463,7 +464,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Il sont ydres [idolâtres], et font ardoir les corps mors, et sont au grant kaan</quote>
@@ -472,8 +472,6 @@
 <biblScope>p. 465</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Mon voisin je tiendrai un an Sur le vin, lorsque du grand chan Ou du soudan Je lui conte quelque fable</quote>
@@ -482,7 +480,6 @@
 <biblScope>XXXIII</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Persan, khan ( a long), qui est une altération d'un mot tartare.</etym>
 </entry>
@@ -1264,7 +1261,6 @@
 <dictScrap>Liqueur de table nommée aussi al<oVar>kermès</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Par ce mot, ilex, est aussi entendu l'arbrisseau portant la graine d'escarlate, ou vermillon ; les Arabes en appellent la graine kermes, et le vulgaire, cramoisie la couleur qu'elle fait, comme voulant dire kermesie</quote>
@@ -1273,7 +1269,6 @@
 <biblScope>795</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Arabe, kermes, cochenille, qui a donné aussi cramoisi (voy. ce mot). Kermes n'est pas d'origine arabe et il vient du sanscrit karmi, qui signifie un ver (voy. <ref target="ver">VER</ref>).</etym>
 </entry>
@@ -1849,7 +1844,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>voy. <ref target="kirsch-wasser"><oVar>KIRSCH</oVar>-WASSER</ref>.</dictScrap>
+<dictScrap>voy. <ref target="kirsch-wasser">KIRSCH-WASSER</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="kirsch-wasser">
@@ -2380,7 +2375,6 @@
 <dictScrap><oVar>Kyrielle</oVar> ou rime <oVar>kyrielle</oVar> est aussi une ancienne pièce de poésie française formée de vers octosyllabes à rimes plates, divisée en petits couplets égaux et terminés par le même mot qui servait de refrain.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Il n'est sequence n'alleluie, Bele note ne kyriele, Tant soit plaisans, ne tant soit bele, Que trop n'anuit, s'ele trop dure</quote>
@@ -2395,8 +2389,6 @@
 <biblScope>Ren. 2639</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le quel prieur mist la main à son espée et la tira toute nue, en reynyant [reniant] Dieu et la kyrielle qu'il tueroit....</quote>
@@ -2412,8 +2404,6 @@
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Kyrielle ou palinode est quand le vers final du premier couplet se repete à la fin des autres couplets, comme en la ballade ; et est bien seant aux chans lyriques et odes, dont se dit palinodes</quote>
@@ -2422,7 +2412,6 @@
 <biblScope>Poétique, p. 258, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Ce mot provient de la litanie, après, vient nombre de saints (voy. <ref target="kyrié">KYRIÉ</ref>).</etym>
 </entry>
@@ -2458,7 +2447,6 @@
 <dictScrap>Terme de pathologie. Membrane en forme de vessie sans ouverture, qui renferme des humeurs ou autres matières contre nature, et qui se développe accidentellement par dilatation des culs-de-sac ou des conduits excréteurs des diverses espèces de glandes dont l'orifice s'oblitère.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Souvent l'humeur se trouve enfermé en un kyst et membrane qui luy est propre</quote>
@@ -2467,7 +2455,6 @@
 <biblScope>V, 16</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Terme grec signifiant vessie, poche.</etym>
 </entry>

@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_q">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_q">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -9,8 +12,8 @@
 <idno>http://javacrim.svn.sourceforge.net/svnroot/javacrim/littre/xml/q.xml</idno>
 <publisher>http://javacrim.sourceforge.net/</publisher>
 <availability status="restricted">
-<p> Licence Creative Commons : <ref target="http://creativecommons.org/licenses/by-sa/2.0/fr/">Paternité – Partage des Conditions Initiales à l'Identique – 2.0 France</ref></p>
-<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.</p>
+<p>Licence Creative Commons : <ref target="http://creativecommons.org/licenses/by-sa/2.0/fr/">Paternité – Partage des Conditions Initiales à l'Identique – 2.0 France</ref></p> 
+<p>Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.</p>
 </availability>
 </publicationStmt>
 <sourceDesc>
@@ -54,7 +57,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Li q est lettre bestornée ; Ce derrier devant est tornée ; Se li q ne fust bestornés, En guise de p fust tornés, Senefiance de l'ABC</quote>
@@ -63,8 +65,6 @@
 <biblScope>t. I, p. 283</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>J'ay leu quelques vieux romans françois, esquels les autheurs plus hardiment, au lieu de q, à la suite duquel nous emploions l'u sans le proferer, usoient de k</quote>
@@ -73,7 +73,6 @@
 <biblScope>Recherches, liv. VIII, p. 555, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Q latin, qui est l'ancien koppa de l'alphabet dorien de Cumes, représentant le koph phénicien ; les Latins l'employaient pour rendre le kv.</etym>
 </entry>
@@ -187,7 +186,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>La premiere est triangle.... la deuxieme est quadrangle</quote>
@@ -196,7 +194,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadrangulus, de quatuor, quatre, et angulus, angle.</etym>
 </entry>
@@ -220,7 +217,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les autres muscles sont quadrangulaires, comme le rhomboïde de l'omoplate</quote>
@@ -229,7 +225,6 @@
 <biblScope>I, 8</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Voy. <ref target="quadrangle">QUADRANGLE</ref>.</etym>
 </entry>
@@ -385,7 +380,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>La querrure du cercle</quote>
@@ -394,8 +388,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Je trouvay que les glaçons du salpestre estoient formez par quadratures et pointes fort plaisantes</quote>
@@ -411,7 +403,6 @@
 <biblScope>II, 390</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadratura, de quadrare (voy. <ref target="carrer">CARRER</ref>).</etym>
 </entry>
@@ -907,7 +898,6 @@
 <dictScrap>Nom des unités de la sixième tranche d'un nombre. Le <oVar>quadrillion</oVar> vaut mille trillions.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Un quadrillion vaut mille milliers de trillions</quote>
@@ -916,7 +906,6 @@
 <biblScope>Arismetique, f° 7</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Voy. <ref target="billion">BILLION</ref>, pour la formation de ce mot, qui est par rapport à quadri comme billion est à bi, et pour l'explication de la valeur que l'on donnait, au XVIe siècle, à ces expressions, et qui est 1000 fois plus grande que celle que nous leur donnons.</etym>
 </entry>
@@ -1131,7 +1120,6 @@
 <dictScrap>La division supérieure des sept arts dans l'université du moyen âge, division qui venait après le trivium et qui comprenait l'arithmétique, la géométrie, la musique et l'astronomie.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Cil trois sevent [savent] trive, cadruve</quote>
@@ -1139,7 +1127,6 @@
 <biblScope>Bat. des sept arts, p. 25</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadrivium, proprement carrefour, de quadri..., préfixe, et lat. via, voie.</etym>
 </entry>
@@ -1366,7 +1353,6 @@
 <dictScrap>Terme de musique du moyen âge. Nom donné à des morceaux à quatre parties ; nous dirions quatuor.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Uns dyametres qui double à un autre fait l'aire quadruple à l'aire de celui</quote>
@@ -1374,8 +1360,6 @@
 <biblScope>Comput, f° 18</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ceux qui ont la plus clere gueule Chantent la tresble sans demeure, Et les plus petits le quadrouple</quote>
@@ -1384,8 +1368,6 @@
 <biblScope>dans Hist. litt. de la France, t. XXIV, p. 751</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les doublons et les quadruples de fin or du Perou sont esvanouis</quote>
@@ -1407,7 +1389,6 @@
 <biblScope>I, 216</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadruplus, de quadru.... ou quadri..., et un radical plus, en grec.</etym>
 </entry>
@@ -1438,7 +1419,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quadruplement</quote>
@@ -1447,7 +1427,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="quadrupler">
@@ -1477,7 +1456,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Doubler, tripler, quadrupler tous nombres</quote>
@@ -1486,7 +1464,6 @@
 <biblScope>Arismetique, f° 15</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadruplare, de quadruplus, quadruple.</etym>
 </entry>
@@ -1500,7 +1477,6 @@
 <dictScrap>Action de quadrupler. La <oVar>quadruplication</oVar> d'un nombre.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et après il baillent quadruplication [pièce judiciaire] au demandeur contre les triplications au defendeur</quote>
@@ -1509,7 +1485,6 @@
 <biblScope>VI, 1</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadruplicationem, de quadruplicare, quadrupler, autre forme de quadruplare.</etym>
 </entry>
@@ -1523,7 +1498,6 @@
 <dictScrap>Quatrième réplique dans un plaidoyer ou une discussion.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les parties ne peuvent, sur le principal de la matiere, plus avant escrire que jusqu'à tripliques pour le demandeur, et jusques à quadrupliques pour le defendeur si les parties le debattent</quote>
@@ -1531,7 +1505,6 @@
 <biblScope>Coust. gén. t. II, p. 861</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quadruplicare, quadrupler.</etym>
 </entry>
@@ -1578,7 +1551,6 @@
 <dictScrap>Se dit des berges dans un embarcadère de chemin de fer.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Ils trouverent [à Lécluse] une nef appareillée, et l'acheterent à leurs deniers, et se departirent, et vinrent arriver au quay de Londres</quote>
@@ -1587,8 +1559,6 @@
 <biblScope>II, II, 206</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Deux grandes salles, l'une au dessoubz elevée neantmoins sur un quay de huyct degrés, et l'autre au dessus</quote>
@@ -1596,7 +1566,6 @@
 <biblScope>Roman d'Alector, p. 133, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bas-lat. caium, quai, dans une charte de Philippe Auguste ; espagn. cayos, écueils ; portug. caes, quai ; holland. kaai ; angl. kay ; glose d'Isidore kai, cancelli, barreaux ; du celtique : kimry, kae, haie, barrière ; bas-breton, kaé, haie et quai. Les diverses significations caium, cayos et la glose d'Isidore se tiennent par un fil de significations que l'on suit sans peine. Diez se demande en présence de ces formes pourquoi le français n'a pas dit chai, et il se répond que sans doute c'est un mot qui fut emprunté au picard. La réponse est bonne, si l'on y ajoute que le mot fut emprunté avec le sens restreint ; car chai ou chais est dans le français et signifie cellier, en bas-latin, cayum.</etym>
 <re ana="supplement">
@@ -1981,7 +1950,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Je me saisy (qui fut le bon), Quand la voix me fut proferée, De la saincture de [du duc de] Bourbon Pour mieux calliffier le don ; Mais elle n'étoit pas ferrée</quote>
@@ -1990,8 +1958,6 @@
 <biblScope>Émaux, p. 197</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Et n'y a doute que plusieurs se voyans priez par des colonnels qualifiez ne fussent incitez d'accepter les charges qu'ils eussent autrement desdaignées</quote>
@@ -2033,7 +1999,6 @@
 <biblScope>Nouv. coust. gén. t. II, p. 98</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bas-lat. qualificare, de qualis, quel, et facere, faire.</etym>
 </entry>
@@ -2464,7 +2429,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Li juges de qui l'en [l'on] apele porra attemprer le terme selonc la loigneté [éloignement] des lieus et des contrées et selonc la qualité des tens</quote>
@@ -2472,8 +2436,6 @@
 <biblScope>Li ordinaires, f° 3</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>C'est la qualité d'un portefaix, non de la vertu, d'avoir les bras....</quote>
@@ -2510,7 +2472,6 @@
 <biblScope>II, 68</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. qualitat ; espagn. cualidad ; ital. qualità ; du latin qualitatem, de qualis, quel ; mot fait par Cicéron : Qualitates igitur appellavi, quas Graeci vocant, quod ipsum apud Graecos non est vulgi verbum, sed philosophorum, Acad. I, 7.</etym>
 <re ana="supplement">
@@ -2821,7 +2782,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>Xe s.</label>
 <cit>
 <quote>Une edre [un lierre] sor son cheue [chef, tête], quant umbre li fesist</quote>
@@ -2829,8 +2789,6 @@
 <biblScope>Fragm. de Valenc. p. 468</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Quant chascuns ert [sera] à son meillor repaire....</quote>
@@ -2838,8 +2796,6 @@
 <biblScope>Ch. de Rol. IV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Ah ! douce riens cruels, tant mar [je] vous vi, Quant pour ma mort nasquites sanz merci</quote>
@@ -2847,8 +2803,6 @@
 <biblScope>Couci, IX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Si [elle] me dit par felonie : Quant irez vous outre mer ?</quote>
@@ -2857,8 +2811,6 @@
 <biblScope>Romanc. p. 126</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et rendirent grands graces à Dieu de la belle journée qu'ils avoient eue, quand une poignée de gens qu'ils estoient, environ mille combattants.... en avoient deconfit plus de dix mille</quote>
@@ -2881,8 +2833,6 @@
 <biblScope>VI, 5</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Car quand il pleut, et [que] le soleil des cieux Ne reluit point, tout homme est soucieux</quote>
@@ -2947,7 +2897,6 @@
 <biblScope>IX, 15</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. tu partiras quand nous ; norm. quand nous, à quand nous, quand et nous, à quant et nous ; wallon, quant ; picard, quat, quaind, quandque ; provenç. quan, can ; catal. quand ; espagn. cuando ; ital. quando ; du lat. quando, que Corssen croit représenter quam-die, comment au jour ? l'i étant tombé comme dans pridem.</etym>
 <re ana="supplement">
@@ -3052,7 +3001,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Contes et dus i a bien, ne sai quanz</quote>
@@ -3060,8 +3008,6 @@
 <biblScope>Ch. de Rol. CLXXXVIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Seigneur, ce dict li bers [le preux, le vaillant], franche gent seigneurie, Quant sommes nous cascuns en nostre compaignie ?</quote>
@@ -3076,8 +3022,6 @@
 <biblScope>XV, 1</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Quant plus y en vendra [viendra], et plus y en morra</quote>
@@ -3085,8 +3029,6 @@
 <biblScope>Guesclin. 15580</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et luy demanday quantes batailles il avoit gaignées, il me dist neuf où il y avoit esté en personne</quote>
@@ -3095,8 +3037,6 @@
 <biblScope>IV, 10</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quantes heures sont ? - Neuf heures et dadvantaige</quote>
@@ -3126,7 +3066,6 @@
 <biblScope>Préf. VIII, 34</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quant, quan ; espagn. cuanto ; ital. quanto ; du lat. quantus, combien grand, combien de, que Bopp, Gramm. comp. § 409, explique par le sanscr. ka-vant, de ka, qui, et vant, suffixe signifiant pourvu, possédant.</etym>
 </entry>
@@ -3234,7 +3173,6 @@
 </sense>
 <note type="remarque">Ménage dit : " M. de Vaugelas permet quant à nous, quant à vous, et condamne seulement quant à moi, à cause de se mettre sur son quant-à-moi. Je suis plus sévère : toutes ces façons de parler ont vieilli, et ne sont plus du bel usage. " L'usage a rétabli ce que l'usage avait détruit, si tant est que Vaugelas et Ménage fussent ici les véritables interprètes de l'usage. </note>
 <note type="historique">
-<p>
 <label>IXe s.</label>
 <cit>
 <quote>In quant Deus savir et podir me dunat [donne]</quote>
@@ -3242,8 +3180,6 @@
 <biblScope>Serment</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Mès contraignance pas n'y fait, Ne quant à soi ne quant as hommes</quote>
@@ -3264,8 +3200,6 @@
 <biblScope>LVI, 2</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et quant à present soit determiné de science en ceste maniere....</quote>
@@ -3281,8 +3215,6 @@
 <biblScope>ib. Prol.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Je treuve, quant à moy, que les gens sont bien bestes, Qui ne se font plustost au vin rompre les testes, Qu'aux coups de coutelas, en cherchant du renom</quote>
@@ -3291,8 +3223,6 @@
 <biblScope>19</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quant est de vostre renson, je vous la donne entierement</quote>
@@ -3314,7 +3244,6 @@
 <biblScope>Contes d'Eutrapel, p. 104, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. quant, quan, cant ; espagn cuanto ; ital. quanto ; du lat. quantum (voy. <ref target="quant.1">QUANT 1</ref>).</etym>
 </entry>
@@ -3370,7 +3299,6 @@
 </sense>
 <note type="remarque">Ménage voulait qu'on dît : quantième du mois ? et non quel quantième du mois ? vu que quantième signifie par lui-même quel jour. Ménage avait raison ; l'usage, à tort, a décidé contre lui. </note>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Qu'elle me mande au plus vray le quantieme Du mois nasquit le roy Charles septieme</quote>
@@ -3393,7 +3321,6 @@
 <biblScope>IV, 107</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quant 1, avec la finale ordinale ième ; wallon, quantrême ; génev. le quantième avons-nous, tenons-nous ?</etym>
 </entry>
@@ -3532,7 +3459,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Puisque vous savés de l'eure de mangier, il convient savoir de la [la] quantité</quote>
@@ -3548,8 +3474,6 @@
 <biblScope>p. 700</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ceste très grant quantité de gens ci assemblés</quote>
@@ -3571,8 +3495,6 @@
 <biblScope>Somme rural, p. 875, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ce propous excederoyt la juste quantité d'une epistre</quote>
@@ -3588,7 +3510,6 @@
 <biblScope>I, 29, verso.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. quantitat, cantitat ; espagn. cuantitad ; ital. quantità ; du lat. quantitatem, de quantus (voy. <ref target="quant.1">QUANT 1</ref>).</etym>
 </entry>
@@ -3709,7 +3630,6 @@
 <dictScrap>Terme de marine. <oVar>Quarantaine</oVar> ou quarantenier, sorte de corde, de la grosseur du petit doigt, dont on se sert pour raccommoder les autres cordages.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>E quant la quaranteine des meis fust trespassée, E des semaines fu la quaranteine entrée, Dunc fu de tutes parz Engleterre troblée</quote>
@@ -3717,8 +3637,6 @@
 <biblScope>Th. le mart. 163</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Jà n'en vausist [il n'en voudrait pas] jour esparnier, Ne venredi, ne quarantaine [carême]</quote>
@@ -3734,8 +3652,6 @@
 <biblScope>Tr. 793</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Une heure m'est plus d'une quarantaine</quote>
@@ -3744,7 +3660,6 @@
 <biblScope>Bal. 103</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quarante ; provenç. quarantena, carantena ; espagn. cuarantena ; ital. quarantena, quarantana, quarantina.</etym>
 </entry>
@@ -3903,7 +3818,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Ensemble od lui de ses barons quarante</quote>
@@ -3911,8 +3825,6 @@
 <biblScope>Ch. de Rol. CCLXXXIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Bien aurons cent mile homes dedanz quarante jours</quote>
@@ -3920,7 +3832,6 @@
 <biblScope>Sax. XXVII</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. quaranta ; espagn. cuaranta ; ital. quaranta ; du lat. quadraginta, de quatuor, quatre.</etym>
 <re ana="supplement">
@@ -4182,7 +4093,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Naimes li dus puis establit la quarte [eschele, escadron]</quote>
@@ -4190,8 +4100,6 @@
 <biblScope>Ch. de Rol. CCXVII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>...ne verra passer le quint mois ne le quart</quote>
@@ -4199,8 +4107,6 @@
 <biblScope>Sax. XXIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Li senglers [le sanglier] est bien el quart an</quote>
@@ -4227,8 +4133,6 @@
 <biblScope>la Rose, 229</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>De pain secont vivoit mon maistre, Et cellui dont me faisoit paistre, Fut presque quart, nel vueil noier [nier]</quote>
@@ -4251,8 +4155,6 @@
 <biblScope>IV, 13</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Après avoir obtenu la dispense du parantaige du quart vis-à-vis [au 4e degré]</quote>
@@ -4268,7 +4170,6 @@
 <biblScope>Pant. II, 4</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. quart, cart ; espagn. cuarto ; ital. quarto ; du lat. quartus, de quatuor, quatre, avec le suffixe tu, qui est considéré par Bopp, Gramm. comp. § 321, comme l'abréviation de tama, sanscr. prathama, premier.</etym>
 </entry>
@@ -4615,13 +4516,10 @@
 <sense n="25">
 <dictScrap>Petite monnaie qui valait quatre deniers.</dictScrap>
 </sense>
-<note type="remarque">
-<p>1. Voy. <ref target="moitié">MOITIÉ</ref> pour l'accord de quart avec le verbe. </p>
-<p>2. On dit : une heure et un quart, et aussi une heure un quart, sans et. C'est une irrégularité du langage très familier, de dire une heure et quart. On dit de même. il est trois heures et un quart, ou trois heures un quart, etc. </p>
-<p>3. On dit une heure trois quarts, deux heures trois quarts, sans et. </p>
-</note>
+<note type="remarque">1. Voy. <ref target="moitié">MOITIÉ</ref> pour l'accord de quart avec le verbe.</note> 
+<note type="remarque">2. On dit : une heure et un quart, et aussi une heure un quart, sans et. C'est une irrégularité du langage très familier, de dire une heure et quart. On dit de même. il est trois heures et un quart, ou trois heures un quart, etc.</note> 
+<note type="remarque">3. On dit une heure trois quarts, deux heures trois quarts, sans et.</note>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Que teus [tel] se melle de Renart, Qui n'en sait le tierc ne le quart</quote>
@@ -4629,8 +4527,6 @@
 <biblScope>Ren. t. IV, p. 115</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et puis saqua l'espée qui tranche de randon, Et le tiers et le quart mit à secucion</quote>
@@ -4638,8 +4534,6 @@
 <biblScope>Hugues Capet, v. 855</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et commune renommée en couroit partout en Espaigne.... et sachez que on n'en disoit pas le quart au duc de Lancastre</quote>
@@ -4669,8 +4563,6 @@
 <biblScope>Codicille, Épistre en forme de ballade.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Un quart de lieue</quote>
@@ -4700,7 +4592,6 @@
 <biblScope>Mém. t. IV, p. 202</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quart 1 ; wallon, quar.</etym>
 <re ana="supplement">
@@ -4797,7 +4688,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Je me excusai vers li pour une quartaine [fièvre] que je avoie lors, et li priai que il me vousist souffrir</quote>
@@ -4806,8 +4696,6 @@
 <biblScope>299</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le prestre : Il m'a dit que presentement Vous confesse, et que payerez Très bien, et si me baillerez Argent pour dire une douzaine De messes. - Le pelletier : Sa fievre quartaine !</quote>
@@ -4815,8 +4703,6 @@
 <biblScope>le Nouveau Pathelin</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Tes fortes fiebvres quartaines, vieux fol, sot mal plaisant que tu es</quote>
@@ -4825,7 +4711,6 @@
 <biblScope>III, 25</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. quartana, cartana : du lat. quartana (febris), de quartus, quatrième (voy. <ref target="quart.1">QUART 1</ref>).</etym>
 </entry>
@@ -4859,7 +4744,6 @@
 <dictScrap>Terme de chasse. Sanglier de quatre ans.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Sanglier quadrannier</quote>
@@ -4868,7 +4752,6 @@
 <biblScope>p. 50, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quartan.</etym>
 </entry>
@@ -4932,7 +4815,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>En l'emine a deux bichots, ou bichot deux quartaux, ou quartault quatre quarte-ranches ou quatre boisseaux</quote>
@@ -4940,7 +4822,6 @@
 <biblScope>Coust. gén. t. I, p. 857</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bas-lat. quartale, de quartus (voy. <ref target="quart.1">QUART 1</ref>).</etym>
 </entry>
@@ -5030,7 +4911,6 @@
 <dictScrap>Terme d'ancienne coutume. Banlieue qui comprenait une étendue de quatre milles, ou qui était composée de quatre villages.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et chascun jor, de vin à chacun et à chacune des convers et converses, une quarte de vin, se la poent boire</quote>
@@ -5046,8 +4926,6 @@
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Une quarte dorée et esmaillée d'aymaux vers, à oiselès, avec l'aiguiere de meismes, pesant viij marcs, vi onces</quote>
@@ -5062,8 +4940,6 @@
 <biblScope>Liv. des mét. 160</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Une place de gentilhomme de la chambre des ordinaires, à 300 francs par quarte [par quartier]</quote>
@@ -5072,7 +4948,6 @@
 <biblScope>VI, 38</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quartus (voy. <ref target="quart.1">QUART 1</ref>).</etym>
 </entry>
@@ -5145,7 +5020,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Si vous remplissez un quartenaire [malade affecté de fièvre quarte] de viandes melancholiques, l'accès anticipera</quote>
@@ -5154,7 +5028,6 @@
 <biblScope>XX, 18</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="quartenier">
@@ -5184,7 +5057,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Jehan Eschart pour lors quartenier du quatriesme des vins vendus à detail</quote>
@@ -5193,8 +5065,6 @@
 <biblScope>quartanerius.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Lesquelz sont en nombre seize et nommez quarteniers, ayant charge expresse, chacun en son quartier, de regarder au fait de la dite ville</quote>
@@ -5202,8 +5072,6 @@
 <biblScope>Ordonn. jany. 1484</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>A Paris seize quarteniers, à Montfaucon seize pilliers, C'est à chacun son benefice</quote>
@@ -5211,7 +5079,6 @@
 <biblScope>Sat. Mén. p. 203</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bas-lat. quartanerius, de quartanus (voy. <ref target="quartaine">QUARTAINE</ref>).</etym>
 </entry>
@@ -5268,7 +5135,6 @@
 <re type="proverbe">Il ne faut point tant de beurre pour faire un quarteron, il ne faut pas tant de paroles.  <cit><quote>Vois-tu, il ne faut point tant de beurre pour faire un quarteron : si tu veux, tu seras ma femme, je serai ton mari</quote><bibl><author>MOL.</author><biblScope>G. Dand. II, 1</biblScope></bibl></cit> </re>
 <re type="proverbe"><form>Il n'y en a pas trois douzaines au quarteron</form>, se dit d'une chose qu'on estime, qu'on ménage. </re>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Appareillier et mettre par quarterons [le chanvre], por faire peser au pois le roi</quote>
@@ -5276,8 +5142,6 @@
 <biblScope>Liv. des mét. 148</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Six livres de froment et quarterons de vin</quote>
@@ -5286,8 +5150,6 @@
 <biblScope>f° 114</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Mentez, menteurs à quarterons</quote>
@@ -5303,8 +5165,6 @@
 <biblScope>liv. III, p. 341, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Trois quarterons d'espingles</quote>
@@ -5319,7 +5179,6 @@
 <biblScope>Coust. gén. t. II, p. 584</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bourguig. quateron ; provenç. cartayron, cartairo ; espagn. cuarteron ; ital. quarterone ; de quart 1, avec le suffixe eron composé de er et de on, qui est augmentatif, diminutif, péjoratif, etc.</etym>
 </entry>
@@ -6254,7 +6113,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>[Il] Fiert [frappe] l'amoraive [l'émir] sur l'escu de quarter</quote>
@@ -6274,8 +6132,6 @@
 <biblScope>Raoul de C. 89</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Quiconques est liniers à Paris, il puet et doit vendre soulement en gros par poignées, par pesiaus, par cartiers</quote>
@@ -6290,8 +6146,6 @@
 <biblScope>XXVI, 2</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Regardez si le cheval a piés gras et combles, piés fendus, faulx quartiers</quote>
@@ -6339,8 +6193,6 @@
 <biblScope>Nouv. XCIV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il [un habit] n'estoit pas si neuf comme il l'avoit prins ; car il l'avoit fait servir ses trois quartiers</quote>
@@ -6482,7 +6334,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bourguig. catei ; provenç. quartier, cartier ; du lat.quartarius, qui est proprement une certaine mesure, dérivé de quartus (voy. <ref target="quart.1">QUART 1</ref>).</etym>
 <re ana="supplement">
@@ -6597,7 +6448,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="in-quarto">IN-<oVar>QUARTO</oVar></ref>.</dictScrap>
+<dictScrap>Voy. <ref target="in-quarto">IN-QUARTO</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="quarto-déciman">
@@ -6786,7 +6637,6 @@
 </sense>
 <note type="remarque">Les puristes du XVIIe siècle déclaraient quasi un terme vieilli, bien qu'employé par les meilleurs auteurs. Aujourd'hui l'usage n'est pas complétement revenu en sa faveur ; toutefois il ne faut pas hésiter à s'en servir. </note>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Je n'en recognois quasy trace en moy</quote>
@@ -6816,7 +6666,6 @@
 <biblScope>Cam. 68</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bressan, quosi ; provenç quais, cais ; anc. catal. quaix ; espagn. casi ; ital. quasi ; du lat. quasi, de quam, que, et si. Quasi en français est un mot moderne qui paraît appartenir au XVIe siècle ; il a été tiré probablement de l'italien ; s'il était d'origine dans la langue, il aurait reçu une forme analogue à celle du provençal.</etym>
 <re ana="supplement">
@@ -6924,7 +6773,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il falloit plustost armer le diable de toutes pieces... et faire l'ange tout nud avec une robbe de quasimodo</quote>
@@ -6932,7 +6780,6 @@
 <biblScope>Moyen de parvenir, p. 90, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quasi modo, qui sont les deux premiers mots de l'introït de la messe du dimanche après Pâques, et qui ont servi à désigner, dans le langage vulgaire, ce dimanche.</etym>
 </entry>
@@ -7088,7 +6935,6 @@
 <dictScrap>Il s'est dit, dans la controverse, de quatre personnes, comme trinité se dit de trois. Quelques théologiens et même le fameux Pierre Lombard ont été accusés d'avoir donné par leurs explications l'idée d'une <oVar>quaternité</oVar> en Dieu.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ils se trompent en une autre illusion, c'est qu'il leur semble que nous establissons une quaternité</quote>
@@ -7097,7 +6943,6 @@
 <biblScope>Instit. 95</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quaternitatem, de quaternus (voy. <ref target="quaterne">QUATERNE</ref>).</etym>
 </entry>
@@ -7236,7 +7081,6 @@
 </sense>
 <note type="remarque">Chercher midi à quatorze heures a pour origine l'usage, encore en vigueur dans plusieurs villes de l'Italie, de compter les heures de 1 à 24, à partir du coucher du soleil. D'après cette notation, midi peut se trouver à 16 heures, à 17, à 18 et 20 ; mais il ne peut jamais se trouver à 14. Le vrai sens de cette locution est donc : chercher une chose impossible. </note>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Par serment nommé, ço est à savoir quatorze homes leals par nom</quote>
@@ -7244,8 +7088,6 @@
 <biblScope>Lois de Guill. 16</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Quatorze rois i ot à heure de souper</quote>
@@ -7253,8 +7095,6 @@
 <biblScope>Sax. XIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>De deux mille Turs que il y mena, il ne l'en demoura que quatorze vint, quant il se parti du champ</quote>
@@ -7263,7 +7103,6 @@
 <biblScope>271</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bourguig. quetorze ; provenç. quatorze ; catal. catorse ; espagn. catorce ; ital. quattordici ; du latin quatuórdecim, de quatuor, quatre, et decem, dix.</etym>
 </entry>
@@ -7306,7 +7145,6 @@
 <dictScrap>S. f. Terme de musique. Réplique ou octave de la septième.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Rois quatorsimes par escris Est nombrés cis Theodoris</quote>
@@ -7315,8 +7153,6 @@
 <biblScope>ms. p. 46, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Tant d'impositions, treziesme et quatorziesme....</quote>
@@ -7325,8 +7161,6 @@
 <biblScope>Hist. de Guesclin. p. 458, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il est du quatorzieme benedicite [c'est un imbécile]</quote>
@@ -7335,7 +7169,6 @@
 <biblScope>Curios. franç.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quatorze ; provenç. quatorcen, catorzen ; catal. catorsé ; anc. espagn. catorceno ; ital. quattordecimo.</etym>
 </entry>
@@ -7384,7 +7217,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Tant en quatrins, dixains, rondeaux, ballades</quote>
@@ -7393,7 +7225,6 @@
 <biblScope>II, 223</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quatre.</etym>
 </entry>
@@ -7417,7 +7248,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Faisant sa cavalcade, jettoit, par toutes les rues où il passoit, monnoye, c'est à savoir deniers qu'on appelle quatrins et mailles de Florence</quote>
@@ -7426,8 +7256,6 @@
 <biblScope>t. I, ch. 62</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>En vain tendons la main vers le nautonnier sourd.... Nous n'avons un quatrin pour payer le naulage</quote>
@@ -7436,7 +7264,6 @@
 <biblScope>VI, 8, recto.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Ital. quattrino, de quattro quatre.</etym>
 </entry>
@@ -7879,7 +7706,6 @@
 <dictScrap>Le <oVar>quatre</oVar> à la livre, variété de cerisier.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>D'or et d'argent quatre cenz muls chargez</quote>
@@ -7887,8 +7713,6 @@
 <biblScope>Ch. de Rol. III</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Mais on ne vous tient pas si saige Des quatre pars comme on souloit</quote>
@@ -7896,8 +7720,6 @@
 <biblScope>Patelin, 8</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Mais, monseigneur, ce que demander j'ose, Des quatre pars n'est pas si grande chose</quote>
@@ -7913,7 +7735,6 @@
 <biblScope>I, 4</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Wallon et bourguig. quate ; Berry, quat (t prononcé) ; provenç. quatre, catre ; espagn. cuatro ; ital. quattro ; du lat. quatuor ; comparez le grec ou, l'éolien, le gothique fidvor, le persan tchehâr, le russe tchetire, le sanscrit catur.</etym>
 </entry>
@@ -8123,7 +7944,6 @@
 </sense>
 <note type="remarque">L'habitude de compter par vingt (six-vingts, sept-vingts) a fait traiter vingt comme cent, et mettre une s quand il est multiplié par un autre nombre. Cela se conçoit. Mais la suppression de l's dans certains cas n'est qu'une abréviation orthographique et n'a rien de syntaxique. </note>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Le saint roy fut à Corbeil à une Penthecouste, là où il ot quatrevins chevaliers</quote>
@@ -8132,7 +7952,6 @@
 <biblScope>195</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quatre, et vingt.</etym>
 <re ana="supplement">
@@ -8228,7 +8047,6 @@
 <note type="remarque">Conformément à l'usage antique, Malherbe a encore fait quatrième de trois syllabes : à peine la quatrième lune Achève de faire son tour, MALH. III, 2. Voy. la </note>
 <note type="remarque">À R. </note>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Ce sont impositions, gabelles, subsides, dimes, quatriemes et toutes extorsions sur le peuple</quote>
@@ -8244,8 +8062,6 @@
 <biblScope>I, I, 309</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>La sœur du roy a la tierce partie ; Toy la quatriesme ; or ils donnent leurs droicts à ton mary....</quote>
@@ -8268,7 +8084,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quatre ; bourg. quatreime.</etym>
 </entry>
@@ -8433,7 +8248,6 @@
 <dictScrap>Droit que payent les marchands pour étaler leurs marchandises sur un quai, sur un port.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et à lui appartiegne et doie appartenir le droit de prendre le kayage et le proffit desdiz kais et de la vase</quote>
@@ -8442,7 +8256,6 @@
 <biblScope>kaagium.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quai.</etym>
 </entry>
@@ -9464,12 +9277,10 @@
 <sense n="16">
 <dictScrap>En dépit qu'il en ait, voy. <ref target="dépit.1">DÉPIT 1</ref>, n° 2, et la remar<oVar>que</oVar> 2.</dictScrap>
 </sense>
-<note type="remarque">
-<p>1. On dit : Faites ce que bon vous semblera, et non ce qui bon vous semblera. La construction est : Faites ce que bon vous semblera de faire. </p>
-<p>2. Que signifiant combien est un adverbe de quantité qui ne peut modifier un mot précédé d'un des adverbes bien, très , fort, extrêmement.  <cit><quote>Ainsi il y aura faute dans les vers suivants : Hélas ! après les pleurs que j'ai versés pour vous, Que cet heureux instant me doit être bien doux !</quote><bibl><author>CRÉBILLON</author><biblScope>dans GIRAULT-DUVIVIER</biblScope></bibl></cit> </p>
+<note type="remarque">1. On dit : Faites ce que bon vous semblera, et non ce qui bon vous semblera. La construction est : Faites ce que bon vous semblera de faire.</note>
+<note type="remarque">2. Que signifiant combien est un adverbe de quantité qui ne peut modifier un mot précédé d'un des adverbes bien, très , fort, extrêmement.  <cit><quote>Ainsi il y aura faute dans les vers suivants : Hélas ! après les pleurs que j'ai versés pour vous, Que cet heureux instant me doit être bien doux !</quote><bibl><author>CRÉBILLON</author><biblScope>dans GIRAULT-DUVIVIER</biblScope></bibl></cit>
 </note>
 <note type="historique">
-<p>
 <label>IXe s.</label>
 <cit>
 <quote>Si Lodwighs sagrament quae son fradre Karle jurat, conservat...</quote>
@@ -9483,8 +9294,6 @@
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>Xe s.</label>
 <cit>
 <quote>E de cel peril que super els metreiet</quote>
@@ -9498,8 +9307,6 @@
 <biblScope>ib. p. 468</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Ce dist Rolans : compainz, que faites-vous ?</quote>
@@ -9537,8 +9344,6 @@
 <biblScope>St-Alexis, LIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Mult fait l'amours que vilaine Qui comence por faillir</quote>
@@ -9558,8 +9363,6 @@
 <biblScope>Sax. VII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Tout droit en ce termine que je ici vous di</quote>
@@ -9615,8 +9418,6 @@
 <biblScope>ib. LIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Il n'y a rien que metre ne que oster [aux œuvres bien faites]</quote>
@@ -9637,8 +9438,6 @@
 <biblScope>ib. 13544</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Pour voir qu'on [ce qu'on] voudroit faire du roi, qui en prison estoit [Edouard II]</quote>
@@ -9687,8 +9486,6 @@
 <biblScope>Les 15 joyes de mariage, p. 24</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Dont dist Gargantua : que diantre ! vous estes maulvais chevaulcheurs</quote>
@@ -9907,7 +9704,6 @@
 <biblScope>X, 8</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quod, neutre de qui (voy. <ref target="qui">QUI</ref>). On peut penser que que représente quem, quam, quae aussi bien que quod ; mais la forme qued nous ramène à quod. Dans quelques cas qui n'ont pas prévalu, on a dit que pour qui, comme l'italien che.</etym>
 <re ana="supplement">
@@ -9924,7 +9720,7 @@
 <biblScope>Sat. XV</biblScope>
 </bibl>
 </cit>
-<dictScrap>Au mot QUI, n° 13, comparez un emploi tout semblable.</dictScrap>
+<note>Au mot QUI, n° 13, comparez un emploi tout semblable.</note>
 </sense>
 </re>
 </entry>
@@ -10955,7 +10751,7 @@
 <biblScope>Élég. XVII</biblScope>
 </bibl>
 </cit>
-<dictScrap>Ne.... <oVar>que</oVar>, avec un comparatif ou avec trop, sert à affirmer plus fortement.</dictScrap>
+<note>Ne.... <oVar>que</oVar>, avec un comparatif ou avec trop, sert à affirmer plus fortement.</note>
 <cit>
 <quote>Il n'y a que trop longtemps que vous trompez le monde, et que vous abusez de la créance qu'on avait en vos impostures</quote>
 <bibl>
@@ -11269,12 +11065,11 @@
 <dictScrap>Cette tournure a vieilli ; pourtant elle est indispensable quand la construction amènerait deux <oVar>que</oVar> de suite : il vaut mieux tuer le diable, <oVar>que</oVar> non pas <oVar>que</oVar> le diable nous tue (voy. <ref target="non#var5">NON, n° 5</ref>).</dictScrap>
 </sense>
 </sense>
-<note type="remarque">
-<p>1. " à Rome, il n'y avait pas que les esclaves qui fissent le métier de gladiateurs. Construction barbare, bien que fort usitée aujourd'hui. On n'en trouverait pas un seul exemple dans toute la littérature française avant la fin du XVIIIe siècle. Le plus ancien que j'aie rencontré est de Maurice Dupin, petit-fils du maréchal de Saxe et père de Mme Sand. C'est dans une lettre qu'il écrit à sa mère en 1798. Je ne connais, avant cette date, aucun exemple de pareille faute dans les écrivains français. Grammaticalement, cette construction signifie précisément le contraire de ce qu'on veut lui faire dire quand on l'emploie aujourd'hui. Je n'en veux pour preuve que les vers de Corneille (voy. ci-dessus, n° 11 : Ils ne l'auront point vue obéir qu'à son prince, c'est-à-dire si ce n'est à son prince). Tel est le sens français et correct de cette tournure, quoique aujourd'hui un grand nombre de personnes et même d'écrivains l'emploient fréquemment dans le sens opposé. Pour eux, le vers de Corneille voudrait dire : ils ne l'auront point vue obéir seulement à son prince ; c'est justement tout le contraire. Voici d'où vient la confusion : ils s'imaginent que cette tournure il n'y a pas que, est l'opposé de il n'y a que ; tandis qu'au fond, soit grammaticalement, soit logiquement, ces deux tournures ne sont qu'une ; témoin le vers de Corneille. En effet, en ajoutant simplement le mot pas à la tournure il n'y a que, on croit ajouter une seconde négation à la première, ce qui serait nécessaire pour que l'une des tournures signifiât le contraire de l'autre ; mais, en réalité, on n'y ajoute rien du tout, si ce n'est le mot pas, mot purement explétif, qui, soit qu'on le mette, soit qu'on l'omette, fait virtuellement partie de la première négation, et ne saurait, à lui tout seul, en constituer une seconde (voy. ci-dessous un exemple de Marot où pas joue exactement le rôle que lui attribue M. Deschanel en cette locution). Ne tout seul, ou, à volonté, ne pas n'est qu'une seule et même négation. Corneille a bien dit ce qu'il voulait dire ; mais les auteurs d'à présent, se servant de la même tournure pour signifier le contraire, font un barbarisme de phrase et un non-sens, " DESCHANEL, Journ. des Débats, 23 août 1860. En place de la construction vicieuse : Il n'y a pas que lui qui ait fait cela, on dira : Il n'y a pas seulement lui qui a fait cela, ou mieux Il n'est pas le seul qui ait fait cela ; Je n'ai pas vu que lui, dites : Il n'est pas le seul que j'aie vu. C'est par une autre tournure heureuse et juste que la Fontaine a exprimé ce que nous rendons par cette locution barbare de ne.... pas.... que : <cit><quote>Moins d'ennemis attaquent leur pudeur [des femmes du monde] ; Les autres [les cloîtrées] n'ont pour un seul adversaire : Tentation, fille d'oisiveté !</quote><bibl><author>LA FONT.</author><biblScope>Mazet.</biblScope></bibl></cit> </p>
-<p>2. Je voudrais qu'il vienne ou qu'il vînt. L'imparfait exprime une contemporanéité : Quand j'avais de l'argent, je le dépensais. Semblablement, le conditionnel exprimant une contemporanéité avec la condition, on met à l'imparfait le verbe du membre où la condition est exprimée : Si j'avais de l'argent, je le dépenserais. Semblablement enfin on met l'imparfait du subjonctif dans le membre subordonné : Si j'avais de l'argent, je le dépenserais de manière qu'il profitât. Mais cela est une pure affaire d'oreille ; la syntaxe n'y est pour rien ; bien plus l'idée est non d'un passé, mais d'un futur ; et il serait peu usité, mais non fautif de dire : de manière qu'il profite. Cette liberté devient encore plus effective quand le conditionnel est pris absolument et sans condition exprimée ; alors il est non-seulement permis de mettre le présent du subjonctif, mais, la plupart du temps, cela vaut mieux que l'imparfait et est moins apprêté et moins puriste : Je voudrais qu'il vienne ou qu'il vînt ; il me serait agréable que cela se fasse ou se fît ; je désirerais que vous passiez chez moi, et non que vous passassiez, etc. </p>
-</note>
+<note type="remarque">1. " à Rome, il n'y avait pas que les esclaves qui fissent le métier de gladiateurs. Construction barbare, bien que fort usitée aujourd'hui. On n'en trouverait pas un seul exemple dans toute la littérature française avant la fin du XVIIIe siècle. Le plus ancien que j'aie rencontré est de Maurice Dupin, petit-fils du maréchal de Saxe et père de Mme Sand. C'est dans une lettre qu'il écrit à sa mère en 1798. Je ne connais, avant cette date, aucun exemple de pareille faute dans les écrivains français. Grammaticalement, cette construction signifie précisément le contraire de ce qu'on veut lui faire dire quand on l'emploie aujourd'hui. Je n'en veux pour preuve que les vers de Corneille (voy. ci-dessus, n° 11 : Ils ne l'auront point vue obéir qu'à son prince, c'est-à-dire si ce n'est à son prince). Tel est le sens français et correct de cette tournure, quoique aujourd'hui un grand nombre de personnes et même d'écrivains l'emploient fréquemment dans le sens opposé. Pour eux, le vers de Corneille voudrait dire : ils ne l'auront point vue obéir seulement à son prince ; c'est justement tout le contraire. Voici d'où vient la confusion : ils s'imaginent que cette tournure il n'y a pas que, est l'opposé de il n'y a que ; tandis qu'au fond, soit grammaticalement, soit logiquement, ces deux tournures ne sont qu'une ; témoin le vers de Corneille. En effet, en ajoutant simplement le mot pas à la tournure il n'y a que, on croit ajouter une seconde négation à la première, ce qui serait nécessaire pour que l'une des tournures signifiât le contraire de l'autre ; mais, en réalité, on n'y ajoute rien du tout, si ce n'est le mot pas, mot purement explétif, qui, soit qu'on le mette, soit qu'on l'omette, fait virtuellement partie de la première négation, et ne saurait, à lui tout seul, en constituer une seconde (voy. ci-dessous un exemple de Marot où pas joue exactement le rôle que lui attribue M. Deschanel en cette locution). Ne tout seul, ou, à volonté, ne pas n'est qu'une seule et même négation. Corneille a bien dit ce qu'il voulait dire ; mais les auteurs d'à présent, se servant de la même tournure pour signifier le contraire, font un barbarisme de phrase et un non-sens, " DESCHANEL, Journ. des Débats, 23 août 1860. En place de la construction vicieuse : Il n'y a pas que lui qui ait fait cela, on dira : Il n'y a pas seulement lui qui a fait cela, ou mieux Il n'est pas le seul qui ait fait cela ; Je n'ai pas vu que lui, dites : Il n'est pas le seul que j'aie vu. C'est par une autre tournure heureuse et juste que la Fontaine a exprimé ce que nous rendons par cette locution barbare de ne.... pas.... que : <cit><quote>Moins d'ennemis attaquent leur pudeur [des femmes du monde] ; Les autres [les cloîtrées] n'ont pour un seul adversaire : Tentation, fille d'oisiveté !</quote><bibl><author>LA FONT.</author><biblScope>Mazet.</biblScope></bibl></cit></note> <note type="remarque">2. Je voudrais qu'il vienne ou qu'il vînt. L'imparfait exprime une contemporanéité : Quand j'avais de l'argent, je le dépensais. Semblablement, le conditionnel exprimant une contemporanéité avec la condition, on met à l'imparfait le verbe du membre où la condition est exprimée : Si j'avais de l'argent, je le dépenserais. Semblablement enfin on met l'imparfait du subjonctif dans le membre subordonné : Si j'avais de l'argent, je le dépenserais de manière qu'il profitât. Mais cela est une pure affaire d'oreille ; la syntaxe n'y est pour rien ; bien plus l'idée est non d'un passé, mais d'un futur ; et il serait peu usité, mais non fautif de dire : de manière qu'il profite. Cette liberté devient encore plus effective quand le conditionnel est pris absolument et sans condition exprimée ; alors il est non-seulement permis de mettre le présent du subjonctif, mais, la plupart du temps, cela vaut mieux que l'imparfait et est moins apprêté et moins puriste : Je voudrais qu'il vienne ou qu'il vînt ; il me serait agréable que cela se fasse ou se fît ; je désirerais que vous passiez chez moi, et non que vous passassiez, etc.</note>
+<note type="remarque" ana="supplement">3. L'usage ancien admettait en certains cas un que explétif, que l'usage moderne rejette.  <cit><quote>Il me fit.... L'honneur que d'approuver mon petit jugement</quote><bibl><author>RÉGNIER</author><biblScope>Sat. VIII</biblScope></bibl></cit> </note> 
+ <note type="remarque" ana="supplement">4. Régnier a dit : <cit><quote>Mais étant mauvais peintre ainsi que mauvais poëte, Et que j'ai la cervelle et la main maladroite</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> Et que représente et étant. Cette tournure n'est plus en usage. </note> 
+  <note type="remarque" ana="supplement">5. Je meure, s'est dit pour que je meure.  <cit><quote>C'est cela, ou je meure, interrompit le sultan : continuez, vous avez réellement bien de l'esprit</quote><bibl><author>CRÉBILLON</author><biblScope>fils, le Sopha, ch. II</biblScope></bibl></cit> Cette locution n'est pas bonne ; elle prêterait à trop d'amphibologie.</note>
 <note type="historique">
-<p>
 <label>Xe s.</label>
 <cit>
 <quote>Elle n'out escoltet les mals conseilliers, Qu'elle Deo raneiet [renie]</quote>
@@ -11300,8 +11095,6 @@
 <biblScope>ib. p. 469</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Par le sien Deu, qu'il ait mercit de mei</quote>
@@ -11351,8 +11144,6 @@
 <biblScope>ib. CXLIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Entre ci que as portes n'i ot arrestoison [de l'ennemi]</quote>
@@ -11378,8 +11169,6 @@
 <biblScope>ib. XXVII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Bien i ot vint mile home que femes que enfans</quote>
@@ -11496,8 +11285,6 @@
 <biblScope>237</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ainsi furent ils trois jours et trois nuits sans pain.... et après, par l'espace de quatre jours, qu'il leur convenoit acheter un pain mal cuit six esterlins, qui ne dust valoir qu'un parisis....</quote>
@@ -11610,8 +11397,6 @@
 <biblScope>VII, 8</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ô que bien heureux feut celluy qui....</quote>
@@ -11830,12 +11615,11 @@
 <biblScope>Hist. II, 334</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Picard, eq, eque ; provenç. et espagn. que ; ital. che ; du lat. quod (voy. <ref target="que.1">QUE 1</ref>).</etym>
 <re ana="supplement">
 <form> 2. QUE. Ajoutez : </form>
-<sense n="9">
+<sense n="9" ana="supplement">
 <dictScrap><oVar>Que</oVar>, seul avec le verbe au subjonctif, signifiant s'il arrive <oVar>que</oVar>....</dictScrap>
 <cit>
 <quote>Taisez-vous, Lui dis-je, ou que je vous entende !</quote>
@@ -11844,9 +11628,8 @@
 <biblScope>Le troisième mari</biblScope>
 </bibl>
 </cit>
-<dictScrap>C'est une sorte de menace : si je vous entends, je me fâcherai.</dictScrap>
+<note>C'est une sorte de menace : si je vous entends, je me fâcherai.</note>
 </sense>
-<note type="remarque"> Ajoutez : <p>3. L'usage ancien admettait en certains cas un que explétif, que l'usage moderne rejette.  <cit><quote>Il me fit.... L'honneur que d'approuver mon petit jugement</quote><bibl><author>RÉGNIER</author><biblScope>Sat. VIII</biblScope></bibl></cit> </p> <p>4. Régnier a dit : <cit><quote>Mais étant mauvais peintre ainsi que mauvais poëte, Et que j'ai la cervelle et la main maladroite</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> Et que représente et étant. Cette tournure n'est plus en usage. </p> <p>5. Je meure, s'est dit pour que je meure.  <cit><quote>C'est cela, ou je meure, interrompit le sultan : continuez, vous avez réellement bien de l'esprit</quote><bibl><author>CRÉBILLON</author><biblScope>fils, le Sopha, ch. II</biblScope></bibl></cit> Cette locution n'est pas bonne ; elle prêterait à trop d'amphibologie. </p> </note>
 </re>
 </entry>
 <entry xml:id="que.3">
@@ -12143,12 +11926,9 @@
 <dictScrap><oVar>Quel</oVar> que, quelle que, voy. <oVar>QUEL</oVar> QUE à son rang alphabétique. </dictScrap>
 <re type="proverbe"><form>Quel pour moi, tel pour toi</form>. </re>
 </sense>
-<note type="remarque">
-<p>1. Cet adjectif interrogatif, suivi d'un substantif, peut être avec ce substantif le régime direct du verbe qui le suit : et alors le participe est variable, d'après la règle générale qui veut que le participe s'accorde quand il est précédé de son régime direct. Quelle nouvelle m'avez-vous apportée ? </p>
-<p>2. De Paris à Lyon quelle est ma route ? peut signifier trois choses : la route en tant que désignant les lieux par où je passerai ; la route par rapport à ses qualités : agréable, variée, triste ; la route par rapport à sa longueur. Quelle est votre maison ? peut signifier laquelle de ces maisons est la vôtre, ou de quelle façon est votre maison. Le sens de quel est devenu très confus : la cause en est dans la perte que la langue a faite de plusieurs excellentes tournures : on ne peut plus dire qui au sujet, en parlant d'une chose ; qui est cette maison ? n'est plus français ; l'adjectif quant, quantes a péri ; quantième n'est plus que substantif. De la sorte, quel en est venu, bon gré mal gré, à remplacer tous ces mots. </p>
-</note>
+<note type="remarque">1. Cet adjectif interrogatif, suivi d'un substantif, peut être avec ce substantif le régime direct du verbe qui le suit : et alors le participe est variable, d'après la règle générale qui veut que le participe s'accorde quand il est précédé de son régime direct. Quelle nouvelle m'avez-vous apportée ?</note> 
+<note type="remarque">2. De Paris à Lyon quelle est ma route ? peut signifier trois choses : la route en tant que désignant les lieux par où je passerai ; la route par rapport à ses qualités : agréable, variée, triste ; la route par rapport à sa longueur. Quelle est votre maison ? peut signifier laquelle de ces maisons est la vôtre, ou de quelle façon est votre maison. Le sens de quel est devenu très confus : la cause en est dans la perte que la langue a faite de plusieurs excellentes tournures : on ne peut plus dire qui au sujet, en parlant d'une chose ; qui est cette maison ? n'est plus français ; l'adjectif quant, quantes a péri ; quantième n'est plus que substantif. De la sorte, quel en est venu, bon gré mal gré, à remplacer tous ces mots.</note>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>En quel mesure en pourrai estre fiz [certain] ?</quote>
@@ -12162,8 +11942,6 @@
 <biblScope>ib. II</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Mais [je] ne sai pas encor certainement Quel guerredon ele me voudra rendre</quote>
@@ -12197,8 +11975,6 @@
 <biblScope>Rois, p. 217</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>[Elle] Ne sut quel part aler, tousjours se traist en sus</quote>
@@ -12212,8 +11988,6 @@
 <biblScope>ib. LXXVI</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et par consequent queles sont les parties ou les communicacions politiques, teles sont les amistés</quote>
@@ -12222,8 +11996,6 @@
 <biblScope>Eth. 245</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ayant aesles cartilagineuses (quelles sont es souris chaulves), fort longues et larges</quote>
@@ -12260,7 +12032,6 @@
 <biblScope>VIII, 18</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Berry, queu, queulle, queux au pluriel ; bourguig. quei ; provenç. qual, cal ; espagn. cual ; ital. quale ; du lat. qualis, formé du relatif, et de lis, que Bopp, Gr. comp. § 419, rapproche du suffixe grec signifiant ressemblance ; ainsi qualis serait : semblable à qui.</etym>
 </entry>
@@ -12287,7 +12058,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Tutes genz quelesquunques tu fesis, vendrunt [viendront], e aorerunt devant tei</quote>
@@ -12295,8 +12065,6 @@
 <biblScope>Liber psalm. p. 122</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Cil jurerent sur sains au conte Baudoin de Flandres.... qu'il assembleroient à l'ost de Venise et à lui, en quelconque lieu qu'il oroient [ouïroient] dire qu'il tourneroit</quote>
@@ -12305,8 +12073,6 @@
 <biblScope>XXX.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et quelconques choses sont faites ou pour paour de plus granz malx eviter, ou pour aucun grant bien obtenir</quote>
@@ -12322,8 +12088,6 @@
 <biblScope>ib. VIII, 14</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>En tel train d'estude le meit, que il ne perdoyt heure quelconque du jour</quote>
@@ -12360,7 +12124,6 @@
 <biblScope>ib. 1196</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. qualiscunque, de qualis, et cunque signifiant partout, n'importe où. Cunque se décompose en quum, ancien accusatif de qui, et que, où, lequel vient aussi de qui.</etym>
 </entry>
@@ -12388,7 +12151,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et ne leur chaut ou ne curent quelconque personne, ne quellement ils contristent</quote>
@@ -12397,8 +12159,6 @@
 <biblScope>Eth. 130</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>À la fin j'en suis venu à bout tellement quellement</quote>
@@ -12407,7 +12167,6 @@
 <biblScope>Mor. Épîtr, p. 15</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quelle, et le suffixe ment.</etym>
 </entry>
@@ -12471,7 +12230,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Quel part qu'il aille, ne puet mie cheïr [tomber]</quote>
@@ -12479,8 +12237,6 @@
 <biblScope>Ch. de R. CXLIX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Je m'en vois [vais], dame ; à Dieu le creator [je] Commant vo cors [votre personne], en quel lieu que je soie</quote>
@@ -12507,8 +12263,6 @@
 <biblScope>Rois, p. 148</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Très bien vous servirai, quel peine que j'en aie</quote>
@@ -12540,8 +12294,6 @@
 <biblScope>Chr. de Rains, 24</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Si bouta sa teste hors d'une basse fenestre qui là estoit, et fit signe qu'il vouloit parler au quel que fust de l'ost</quote>
@@ -12557,8 +12309,6 @@
 <biblScope>I, I, 144</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Viande ne feust appourtée, quel que feust, en laquelle n'y eust abundance de farce magistrale</quote>
@@ -12595,7 +12345,6 @@
 <biblScope>945</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quel, et que.</etym>
 <re ana="supplement">
@@ -12824,7 +12573,6 @@
 </sense>
 <note type="remarque">L'e final de quelque ne s'élide que devant un, une : quelqu'un, quelqu'une. </note>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Ou nuisent par detraccion, Ou par faulce accusacion, Ou par quiexque malaventures</quote>
@@ -12832,8 +12580,6 @@
 <biblScope>la Rose, 5493</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Se je dis huy aultre parole à vous n'a quelque aultre personne....</quote>
@@ -12855,8 +12601,6 @@
 <biblScope>I, 6</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Pantagruel, quelque jour, se pourmenoyt vers les faulx-bourgs St-Marceau</quote>
@@ -12914,7 +12658,6 @@
 <biblScope>Conformité, p. 19</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quel, et que ; picard, quite ; Berry, queuque ; norm. queuque, quèque ; bourguig. quieque ; provenç. qualque, calque ; espagn. cualque ; ital. qualche.</etym>
 </entry>
@@ -13064,12 +12807,9 @@
 </cit>
 </sense>
 </sense>
-<note type="remarque">
-<p>1. On notera l'accord dans : quelques bonnes raisons qu'il ait données, tandis qu'il faut écrire, sans accord : quelque bonnes que soient les raisons qu'il ait données. Au XVIe siècle cette distinction n'était point admise, comme on peut voir à l'historique, et l'on aurait écrit : quelques bonnes que soient les raisons ; c'est ce que Corneille a fait encore dans ces vers : ....Et n'oser de ses feux, Quelques ardents qu'ils soient, se promettre autant qu'eux [les rivaux], Pulch. II, 1. Dans l'usage actuel il y a un moyen, qu'on peut dire matériel, de reconnaître si quelque devant un adjectif s'accorde ou ne s'accorde pas : quelque est indéclinable toutes les fois que l'adjectif est construit avec le verbe être, ou avec des verbes qui permettent de sous-entendre être : Quelque beaux que je les trouve ; Quelque faux que vous les jugiez (trouve être ; jugiez être). </p>
-<p>2. Si l'on essaye de pénétrer dans la nature et les rapports de quel que et quelque ....que, l'ancienne langue nous apprend aussitôt que c'est un seul et même mot, qu'autrefois on disait quel.... que et non quelque.... que, et qu'à une certaine époque une erreur de langage ajouta indûment un que à quel, et produisit le barbarisme quelque.... que. L'usage acceptant le fait accompli consacra la nouvelle locution, et en tira devant les adjectifs un certain parti, une distinction : quelque devint adverbe ; et, tandis que quel que resté adjectif ne pouvait signifier que quelque soit, quel que ....que devenu adverbe signifia, si l'on peut parler ainsi : quellement que. Aussi des grammairiens ont-ils dit, non sans fondement, qu'il fallait distinguer : quelque désobligeantes paroles que vous m'ayez dites, et quelques paroles désobligeantes que vous m'ayez dites ; que le premier signifie : quellement désobligeantes que soient les paroles ; et le second : quelles que soient les paroles désobligeantes. </p>
-</note>
+<note type="remarque">1. On notera l'accord dans : quelques bonnes raisons qu'il ait données, tandis qu'il faut écrire, sans accord : quelque bonnes que soient les raisons qu'il ait données. Au XVIe siècle cette distinction n'était point admise, comme on peut voir à l'historique, et l'on aurait écrit : quelques bonnes que soient les raisons ; c'est ce que Corneille a fait encore dans ces vers : ....Et n'oser de ses feux, Quelques ardents qu'ils soient, se promettre autant qu'eux [les rivaux], Pulch. II, 1. Dans l'usage actuel il y a un moyen, qu'on peut dire matériel, de reconnaître si quelque devant un adjectif s'accorde ou ne s'accorde pas : quelque est indéclinable toutes les fois que l'adjectif est construit avec le verbe être, ou avec des verbes qui permettent de sous-entendre être : Quelque beaux que je les trouve ; Quelque faux que vous les jugiez (trouve être ; jugiez être).</note>
+<note type="remarque">2. Si l'on essaye de pénétrer dans la nature et les rapports de quel que et quelque ....que, l'ancienne langue nous apprend aussitôt que c'est un seul et même mot, qu'autrefois on disait quel.... que et non quelque.... que, et qu'à une certaine époque une erreur de langage ajouta indûment un que à quel, et produisit le barbarisme quelque.... que. L'usage acceptant le fait accompli consacra la nouvelle locution, et en tira devant les adjectifs un certain parti, une distinction : quelque devint adverbe ; et, tandis que quel que resté adjectif ne pouvait signifier que quelque soit, quel que ....que devenu adverbe signifia, si l'on peut parler ainsi : quellement que. Aussi des grammairiens ont-ils dit, non sans fondement, qu'il fallait distinguer : quelque désobligeantes paroles que vous m'ayez dites, et quelques paroles désobligeantes que vous m'ayez dites ; que le premier signifie : quellement désobligeantes que soient les paroles ; et le second : quelles que soient les paroles désobligeantes.</note>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>En quel que lieu que la vaine [veine] tende....</quote>
@@ -13085,8 +12825,6 @@
 <biblScope>f. I, verso.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Gargantua ne pouvoit dormir, en quelque faczon que il se meist</quote>
@@ -13165,7 +12903,6 @@
 <biblScope>744</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quelque, et que.</etym>
 <re ana="supplement">
@@ -13227,7 +12964,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Mais quelquefoys [une fois] qu'ung grand ours que nourrissoyt son pere eschappa, et luy venoyt lescher le visaige, il....</quote>
@@ -13243,7 +12979,6 @@
 <biblScope>Instit. 806</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quelque, et fois.</etym>
 </entry>
@@ -13400,7 +13135,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Dit alors à quelcung de ses privez</quote>
@@ -13409,8 +13143,6 @@
 <biblScope>I, 3</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>En tous siecles il y en a eu quelcuns, qui par la conduite de nature ont aspiré en toute leur vie à vertus</quote>
@@ -13447,7 +13179,6 @@
 <biblScope>Conformité, p. 21</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quelque, et un ; bourg. quécun ; norm. queuqu'un.</etym>
 </entry>
@@ -13468,7 +13199,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Un homme querant et demandant l'aumosne, qui estoit vestuz d'un manteau tout plain de paleteaulx, comme un coquin ou caimant</quote>
@@ -13477,8 +13207,6 @@
 <biblScope>coquinus.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Hola, hola, soupir, on vous oit bien ; Vous vous cuidez embler trop coyement, Contrefaisant ung peu le cayement</quote>
@@ -13494,7 +13222,6 @@
 <biblScope>Geste des nobles, p. 109</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Origine inconnue. Le mot est de trois syllabes, comme on le voit par le vers de Charles d'Orléans. Les étymologies, si on en rencontre, doivent satisfaire à cette condition.</etym>
 </entry>
@@ -13559,7 +13286,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quenaille</quote>
@@ -13568,7 +13294,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Ce paraît être une autre prononciation de canaille. Mais M. Boucherie, d'Angoulême, le tire du saintongeois quener, vagir.</etym>
 </entry>
@@ -13697,7 +13422,6 @@
 <dictScrap>Nom marchand d'une coquille univalve, dite aussi <oVar>quenotte</oVar> sanglante (du genre nérite).</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Par barat preïs son fromage, Et tu de lui eüs tel gage, Que tu lui ostas à tes canes Quatre de ses plus beles panes</quote>
@@ -13711,7 +13435,6 @@
 <biblScope>ib. 7344</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Diminutif, comme on voit par l'historique, de l'anc. fr. quenne ou cane ; de l'isl. kenna, mâchoire. Dans un texte de 1238 cité par du Cange, un mot quenneya, kenée, signifie un coup sur la joue. Il faut donc rejeter l'étymologie par le saintongeois quener, vagir.</etym>
 </entry>
@@ -13809,7 +13532,6 @@
 <dictScrap>Coquille univalve du genre fuseau.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Jà conperrez [vous le payerez], se Dex me saut, Se ma conoille ne me faut</quote>
@@ -13830,8 +13552,6 @@
 <biblScope>conucula.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ledit Guiot print une quelongne de cane, de laquelle il la feri plusieurs coups</quote>
@@ -13840,8 +13560,6 @@
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Hasples, ne fuseaus, ne keneules</quote>
@@ -13857,8 +13575,6 @@
 <biblScope>Nouv. LII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>En danger de porter deux quenouilles et une mitre, peine ordinaire de ceux qui ont eu deux femmes tout à la fois</quote>
@@ -13881,7 +13597,6 @@
 <biblScope>Hist. II, 397</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. cologne ; wallon, kinoie ; namur. conoie ; Hainaut, quéneule ; Berry, quenoille, quouneille ; bourguig. quelogne, quenoille ; ital. conocchia ; bas-lat. conucula et colucula, diminutif de colus, quenouille. On voit que, parmi les formes, celles qui ont l'l sont les plus voisines du latin.</etym>
 <re ana="supplement">
@@ -14332,7 +14047,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et aussi en pesa au soudant ; car il avoit plus en la queriele que tout li autre</quote>
@@ -14353,8 +14067,6 @@
 <biblScope>I, 4</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Artevelle, qui preschoit sa querelle de desheriter le comte Louis leur naturel seigneur.... et heriter le fils du roi d'Angleterre</quote>
@@ -14377,7 +14089,6 @@
 <biblScope>Hist. I, 341</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bourguig. quairaille, quairelle ; provenç. querela, querella ; ital. querela ; du lat. querela, plainte, de queri, se plaindre, avec le suffixe e-la formant des noms d'action et de chose agissante, loquela, sequela, candela, etc.</etym>
 </entry>
@@ -14593,7 +14304,6 @@
 </sense>
 <re type="nuance">QUERELLER, GRONDER. On querelle ceux qu'on n'a pas le droit de gronder ; on gronde ses amis, ses enfants, ses gens. Gronder suppose une sorte d'autorité, de supériorité, ou du moins de droit ; il faut que celui que l'on gronde soit au moins censé avoir tort. Pour quereller, il suffit d'avoir de l'humeur ; on querelle son égal et même son supérieur : " On querelle les malheureux, dit Vauvenargues, pour se dispenser de les plaindre. " Celui qu'on gronde ne peut répondre que par des excuses ; celui que l'on querelle peut quereller à son tour (GUIZOT). </re>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Cil qui mesfait as clers, Deus le het e querele</quote>
@@ -14613,8 +14323,6 @@
 <biblScope>ib. 115</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le roy luy restitua toutes ses terres et toutes celles qu'il querelloit</quote>
@@ -14623,8 +14331,6 @@
 <biblScope>V, 15</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Pallas, querellant le patronage du païs d'Attique à l'encontre de Neptune, produisit l'olivier</quote>
@@ -14654,7 +14360,6 @@
 <biblScope>Prov. t. II, p. 379</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. querelhar ; espagn. querellar ; ital. querelare ; du lat. querelare, de querela (voy. <ref target="querelle">QUERELLE</ref>).</etym>
 </entry>
@@ -14705,7 +14410,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Querelleres [celui qui a un procès]</quote>
@@ -14714,7 +14418,6 @@
 <biblScope>querela.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Querelle.</etym>
 </entry>
@@ -14742,7 +14445,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et certe pour moi conseille je, que chascun laisse avant de sa raison, que il soit riotous ne querelous</quote>
@@ -14750,8 +14452,6 @@
 <biblScope>Ass. de J. 103</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Afin que quelque quereleux ne prenne matiere de combatre encore contre nous....</quote>
@@ -14774,7 +14474,6 @@
 <biblScope>IV, 97</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Querelle. L'ancienne forme querelous prouve que querelleux n'est pas une simple prononciation différente de querelleur.</etym>
 <re ana="supplement">
@@ -14820,7 +14519,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les querimonies pleines d'indignations, par lesquelles Dieu accuse souvent l'ingratitude des Juifs</quote>
@@ -14829,7 +14527,6 @@
 <biblScope>Inst. 516</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. querimonia, de queri, se plaindre (voy. <ref target="querelle">QUERELLE</ref>).</etym>
 </entry>
@@ -14876,7 +14573,6 @@
 </sense>
 <note type="remarque">L'infinitif ancien de ce verbe était querre, qui se trouve encore dans la Fontaine : Messieurs, dit-il, en ce lieu n'ont que querre ; Les augustins sont serviteurs du roi, Ballade des Augustins. Querre est la forme régulière, du lat. quaerere, qui a l'accent sur quae. Querir ne se montre que dans le XVe siècle. La conjugaison régulière était : je quier, je queroie, querant, quis. </note>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Que il querreient que Rolans fust ocis</quote>
@@ -14890,8 +14586,6 @@
 <biblScope>ib. CCLXXIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Un don (Je) vous quier, c'est le cor de Rollant</quote>
@@ -14905,8 +14599,6 @@
 <biblScope>Couci, XII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Ainsi fu envoiés querre le marchis, et il vint au jor que il li orent mis</quote>
@@ -14921,8 +14613,6 @@
 <biblScope>la Rose, 5145</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Si fut tasté et quis, et la lettre trouvée sur lui</quote>
@@ -14938,8 +14628,6 @@
 <biblScope>I, 4</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Dond venez vous ? où allez vous ? que querez vous ?</quote>
@@ -14962,7 +14650,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Wallon, quéri ; namur. quêre ; Berry et norm. kri ; provenç. querer, querir, querre ; espagn. querer ; ital. chiedere ; du lat. quaerere, quaes-itum, sanscr. çish, chercher.</etym>
 </entry>
@@ -14986,7 +14673,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Si vous di qu'en cele fontaine Luit uns charboncles merveillables Sur toutes merveilleuses pieres, Trestous reons et à trois quierres</quote>
@@ -14994,7 +14680,6 @@
 <biblScope>la Rose, 20730</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Le même que carre.</etym>
 </entry>
@@ -15008,7 +14693,6 @@
 <dictScrap>Nom donné par les paysannes des environs de Valenciennes à un panier large et profond, dans lequel elles apportent au marché leurs légumes.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Pour un cretin.... en quoy on porta les juyaus dessus dis....</quote>
@@ -15017,7 +14701,6 @@
 <biblScope>Régence d'Aubert de Bavière, p. 73</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="qu_es-aco">
@@ -15147,7 +14830,6 @@
 <dictScrap>Aujourd'hui, dans certains corps, membre chargé de surveiller les dépenses.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Vous serés mout boins amparliers [avocat].... Car mout savés parler parfont Ensement que cil quester [avocats] font</quote>
@@ -15156,7 +14838,6 @@
 <biblScope>p. 110</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quaestorem, de quaestum ou quaesitum, de quaerere (voy. <ref target="querir">QUERIR</ref>).</etym>
 </entry>
@@ -15603,7 +15284,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Et quant il aveit bien solu ses questions</quote>
@@ -15611,8 +15291,6 @@
 <biblScope>Th. le mart. 58</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Chascuns doit obeir simplement, sans noise et sans question</quote>
@@ -15621,8 +15299,6 @@
 <biblScope>Trésor, p. 433</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>En tex [tels] cas et semblables, il est doubte et question se telles choses doivent estre dites voluntaires ou involuntaires</quote>
@@ -15658,8 +15334,6 @@
 <biblScope>f° 26, verso.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Il y avoit eu aucunes questions [différends] entre lesdits roy et duc de Bourgogne</quote>
@@ -15668,8 +15342,6 @@
 <biblScope>Hist. de Charles VII, p. 723, dans LACURNE.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>C'est se desborder par trop, de mettre en question ce que chacun voit à l'œil</quote>
@@ -15706,7 +15378,6 @@
 <biblScope>I, 151</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. questio, question ; espagn. question ; ital. questione ; du lat. quaestionem, de quaestum, supin de quaerere (voy. <ref target="querir">QUERIR</ref>).</etym>
 <re ana="supplement">
@@ -15772,7 +15443,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il fut six sepmaines prisonnier dans un engein de bois poinctu par le bas, que les questionnaires appellent chausse d'hypocras</quote>
@@ -15781,7 +15451,6 @@
 <biblScope>Hist. I, 75</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quaestionarius, de quaestio, question.</etym>
 </entry>
@@ -15890,7 +15559,6 @@
 </sense>
 <re type="nuance">QUESTIONNER, INTERROGER. Questionner se dit surtout quand on veut obtenir des renseignements : un espion questionne les gens ; un général questionne un prisonnier pour savoir ce que fait l'ennemi. Interroger se dit surtout quand les réponses qu'on peut obtenir sont un moyen d'apprécier celui qui les fait : un juge interroge un accusé ; un professeur interroge un élève. </re>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et ge si le questionai, De gramaire li demandai</quote>
@@ -15898,7 +15566,6 @@
 <biblScope>Ren. 21127</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Question ; provenç. questionar ; ital. questionare.</etym>
 </entry>
@@ -16088,7 +15755,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et s'ele [la demande] est niée, li sires puet [peut] fere enquerre de sa autorité, et par sa queste fere le amender</quote>
@@ -16096,8 +15762,6 @@
 <biblScope>Liv. de just. 12</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Si te diray les quatre manieres d'aller en queste [à la chasse]</quote>
@@ -16112,8 +15776,6 @@
 <biblScope>Livre de chasse, ch. 28</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Je m'en irai costoyant ces vallées pour ouïr et savoir si j'aurai nulles nouvelles de Geronnet, qui nous a mis en celle queste</quote>
@@ -16122,8 +15784,6 @@
 <biblScope>II, III, 99</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Pourtant, plaideurs aux amoureuses questes, Allez ailleurs presenter vos requestes</quote>
@@ -16159,7 +15819,6 @@
 <biblScope>Coust. gén. t. II, p. 431</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. questa, quista ; espagn. questa ; ital. chiesta ; du lat. quaesitus, cherché (voy. <ref target="querir">QUERIR</ref>).</etym>
 </entry>
@@ -16303,7 +15962,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Pourront quester et sur eux faire queste [sorte d'impôt] en quatre cas</quote>
@@ -16312,8 +15970,6 @@
 <biblScope>auxilium.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Questant tousjours jusques à l'origine de cette opinion</quote>
@@ -16336,7 +15992,6 @@
 <biblScope>II, 167</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quête 1.</etym>
 </entry>
@@ -16373,7 +16028,6 @@
 <dictScrap>Adj. Chien <oVar>quêteur</oVar>, celui qui quête, qui cherche le gibier.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>De nului nous n'aurons confort, Ne plus que ung povre questeux</quote>
@@ -16381,8 +16035,6 @@
 <biblScope>Myst. du siége d'Orléans, p. 748</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Six administrateurs du commun des pauvres, avec pareil nombre de questeurs des aumosnes en chacun quartier</quote>
@@ -16390,7 +16042,6 @@
 <biblScope>Nouv. coust. gén. t. I, p. 551</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quêter ; bourguig. quaiteur.</etym>
 </entry>
@@ -16766,6 +16417,7 @@
 <biblScope>Comm. Œuv. aut. Henr.</biblScope>
 </bibl>
 </cit>
+<sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
 <quote>La vertu ne s'abaisse jamais à porter la queue</quote>
@@ -16774,6 +16426,7 @@
 <biblScope>le Traité des bienf. de Sénèque, IV, 2</biblScope>
 </bibl>
 </cit>
+</sense>
 </sense>
 <sense n="16">
 <dictScrap>Terme de construction. La partie la plus large du giron d'une marche tournante.</dictScrap>
@@ -17164,7 +16817,6 @@
 <re type="proverbe">Quand on parle du loup, on en voit la queue, on parlait d'une personne et au moment même elle est arrivée. </re>
 <re type="proverbe">À la queue gît le venin, le venin est à la queue, proverbe né de la croyance populaire au venin de la queue de certains serpents, et tout naturellement du venin de la queue des scorpions, des guêpes ; on le dit quand on prévoit que la fin d'une chose présente des difficultés, recèle des dangers.  <cit><quote>Le serpent a deux parties Du genre humain ennemies, Tête et queue....</quote><bibl><author>LA FONT.</author><biblScope>Fabl. VII, 17</biblScope></bibl></cit> </re>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Blanche la cue, et la crignete jalne</quote>
@@ -17172,8 +16824,6 @@
 <biblScope>Ch. de Rol. CXIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Bien [il] m'a le nu [nœud] fait en la coe ; Juglé [trompé] m'a e envilani</quote>
@@ -17194,8 +16844,6 @@
 <biblScope>Job, p. 448</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>De ma fable faz tel defin, Que chascuns se gart de la soe [femme], Q'ele ne li face la coe</quote>
@@ -17242,8 +16890,6 @@
 <biblScope>222</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et fist dire moult hautement.... De rendre Bretaigne com soue [sienne]. N'est celui qui meuve la coue, Car là estoint bien atrapez</quote>
@@ -17257,8 +16903,6 @@
 <biblScope>Déclaration du roi du 8 mars 1396</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et à leur departement [au départ des soldats anglais] feirent lesdits Parisiens grant huée en criant à la queue</quote>
@@ -17286,8 +16930,6 @@
 <biblScope>II, 2</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Messire Jean Chapperon et ledit seigneur d'Auton meirent cinq cents hommes de guerre en leurs vaisseaulx, c'est à savoir quatre cents dedans la nau du dict Chapperon, et cent dedans la barque du seigneur d'Auton, et se meirent sur mer à queue de vache [l'un derrière l'autre]</quote>
@@ -17407,7 +17049,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Berry, coue ; bourg. quoue ; saintong. coue ; wallon, cowe ; namur. cawe ; prov. coa, coda, coza ; catal. coa, cua ; port. cauda ; ital. coda ; du latin cauda, que Corssen, Beiträge, p. 446, croit être, d'après Meyer, pour skauda, radical sansc. ska, couvrir, dresser, lever en l'air.</etym>
 <re ana="supplement">
@@ -17463,7 +17104,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Autant doit la queue comme li tonneaus</quote>
@@ -17471,8 +17111,6 @@
 <biblScope>Liv. des mét. 301</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le marechal de Bourgogne et le comte de Vaudemont firent par devant leur bataille dresser sur le fonds deux queues de vin qu'ils avoient amenées</quote>
@@ -17481,7 +17119,6 @@
 <biblScope>II, 108</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Origine inconnue. Serait-ce un représentant irrégulier du lat. cadus, tonneau ?</etym>
 </entry>
@@ -17596,7 +17233,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>...Kueus [cuisiniers] Avoient aiguisié à keus Leur coutiaus....</quote>
@@ -17604,8 +17240,6 @@
 <biblScope>Bl. et Jeh. 4598</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Un grant queux à aiguiser sarpes</quote>
@@ -17614,8 +17248,6 @@
 <biblScope>quauria.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Qu'il ressembloit à la queu, qui rendoit le cousteau aiguisé et prest à couper, elle ne le pouvant faire</quote>
@@ -17638,7 +17270,6 @@
 <biblScope>Poésies, p. 186, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Berry, cous, masculin ; saintong. coue ; picard, keuche, keusse, queusse ; Hainaut, keuche, kuèche ; wallon, keûs ; provenç. cot ; ital. cote ; du lat. cotem ; sansc. ço, aiguiser, et çana, queux. On trouve dans des textes officiels la forme provinciale queusche : Queusches le 100 pesant payera 3 sols, Tarif, 18 sept. 1664.</etym>
 </entry>
@@ -17669,7 +17300,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Sil [ainsi il le] comandat as cous de la maison</quote>
@@ -17677,8 +17307,6 @@
 <biblScope>Ch. de Rol. CXXXV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Ydunkes fu ocis e al cœu fu livrez ; Li keus manja le cuer ; quant li fu demandez, Fist al seignur acreire que senz quer estoit nez</quote>
@@ -17686,8 +17314,6 @@
 <biblScope>Th. le mart. 31</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Por ce vous dis-je ; quar li hon Qui est ses kex [son cuisinier] a assez paine</quote>
@@ -17696,8 +17322,6 @@
 <biblScope>II, 39</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>En yver, du feu, du feu, Et en esté, boire, boire... Chaulx morceaux fais de bon queu, Fault en froit temps, voire, voire, En chault, froide pomme, ou poire, C'est l'ordonnance de Dieu</quote>
@@ -17706,7 +17330,6 @@
 <biblScope>Rond.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Ital. cuoco ; du lat. coquus, de coquere, cuire (voy. <ref target="cuire">CUIRE</ref>).</etym>
 </entry>
@@ -18190,7 +17813,7 @@
 <biblScope>Andr. V, 2</biblScope>
 </bibl>
 </cit>
-<dictScrap>Cette construction est moins bonne dans les exemples suivants.</dictScrap>
+<note>Cette construction est moins bonne dans les exemples suivants.</note>
 <cit>
 <quote>Il lui faut aussi un cheval pour monter son valet, qui coûtera bien trente pistoles</quote>
 <bibl>
@@ -18807,7 +18430,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>IXe s.</label>
 <cit>
 <quote>Nul plaid, qui cist mon fradre Karle in damno sit</quote>
@@ -18815,8 +18437,6 @@
 <biblScope>Serment</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>Xe s.</label>
 <cit>
 <quote>Qu'elle Deo raneiet [renie] chi maent [réside] sus en ciel</quote>
@@ -18830,8 +18450,6 @@
 <biblScope>Frag. de Valenc. p. 469</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>N'i ad castel ki devant lui remaigne</quote>
@@ -18881,8 +18499,6 @@
 <biblScope>ib. XVII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Cume le fust [l'arbre] qued est planted de juste les ewes</quote>
@@ -18950,8 +18566,6 @@
 <biblScope>Sax. XXVII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Dieux ! tant avons esté preus par huiseuse [dans l'oisiveté] ; Or verra-on qui à certes ert [sera] preus</quote>
@@ -19036,8 +18650,6 @@
 <biblScope>la Rose, 5192</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Item chescune chose qui est, elle est aucun bien</quote>
@@ -19052,8 +18664,6 @@
 <biblScope>Guesclin. 18273</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et se partirent par une autre porte que par celle devant qui les Flamands estoient venus</quote>
@@ -19137,8 +18747,6 @@
 <biblScope>Grand testam.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Tout vient à point qui peut attendre</quote>
@@ -19434,7 +19042,6 @@
 <biblScope>973</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Saintong. chi ; provenç. qui ; ital. chi ; du lat. qui ; goth. hvas. Dans l'ancienne langue, la règle est de mettre qui pour le sujet, et cui pour le régime ; mais, comme ces mots se prononçaient probablement de même, l'orthographe les confond souvent. Dans les plus anciens textes, on trouve une forme que, qued, employée avec les noms de chose, et qui répond au quod latin.</etym>
 <re ana="supplement">
@@ -19476,7 +19083,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quand les lavandieres sont à quia et au bout du rollet de leurs injures</quote>
@@ -19492,7 +19098,6 @@
 <biblScope>Siege de Boulogne, p. 34</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quia, parce que. Être à quia représente la situation de celui à qui dans la controverse on pose une question cur ou quare, et qui répond quia, parce que, sans pouvoir aller plus loin.</etym>
 </entry>
@@ -19523,7 +19128,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Premiere assiette : pastés de veel.... et pastés norrois de quibus [quibus désigne ici un mets]</quote>
@@ -19531,8 +19135,6 @@
 <biblScope>Ménagier, II, 4</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Car qui ne fonce de quibus [qui ne fournit de l'argent comptant]....</quote>
@@ -19541,8 +19143,6 @@
 <biblScope>Plaid. de la simple.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ne faictes fourbir vos coquilles à seigneurs ne a coquibus, S'ils ne vous baillent des quibus</quote>
@@ -19551,7 +19151,6 @@
 <biblScope>Sermon pour une nopce.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Il a du quibus, c'est-à-dire des écus de quibus fiunt omnia, LE DUCHAT. On peut rapprocher quibus de de quoi dans la locution il a de quoi.</etym>
 </entry>
@@ -19741,7 +19340,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Kikiunkes sunt paien, ensi servent....</quote>
@@ -19755,8 +19353,6 @@
 <biblScope>Rois, p. 290</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Quiconques est esqueliers à Paris, il puet avoir tant de vallés et de aprentis comme il li plaist</quote>
@@ -19764,8 +19360,6 @@
 <biblScope>Livre des mét. 112</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quiconque n'en sçait autre chose, Aussi peu qu'une taupe il voit</quote>
@@ -19823,7 +19417,6 @@
 <biblScope>189</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quicumque.</etym>
 <re ana="supplement">
@@ -19881,7 +19474,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>En ce temps fut escript par ung quidem en la chambre de monseigneur de Guienne ce qui s'ensuit</quote>
@@ -19889,8 +19481,6 @@
 <biblScope>Bibl. des ch. 4e série, t. I, p. 427</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Un quidam delibera de surprendre ma maison et moy</quote>
@@ -19899,7 +19489,6 @@
 <biblScope>IV, 226</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quidam, un certain.</etym>
 </entry>
@@ -19920,7 +19509,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Qui veut honnestement passer le repaire de vie humaine doit vivre droitement par raison, et considerer et entendre la nature des choses, leurs qualités, quantités, quidités et dignités</quote>
@@ -19928,7 +19516,6 @@
 <biblScope>Les triomphes de la noble dame, f° 6, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. de la scolastique, quidditatem, de quid, quoi (voy. ce mot).</etym>
 </entry>
@@ -19994,7 +19581,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Une mort recueillie en soy, quiete et solitaire</quote>
@@ -20003,7 +19589,6 @@
 <biblScope>IV, 11</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quietus (voy. <ref target="coi">COI</ref>) ; sanscr. çi, gésir.</etym>
 </entry>
@@ -20017,7 +19602,6 @@
 <dictScrap>D'une façon quiète.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Et des principaux estudes de ma vie, c'est que le bout s'en porte bien, c'est à dire quietement et sourdement</quote>
@@ -20026,7 +19610,6 @@
 <biblScope>I, 68</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="quiétisme">
@@ -20211,7 +19794,6 @@
 <dictScrap>Terme rural. Tas de lin couvert de chaume, qu'on laisse quelque temps dans les champs.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Les faulcons perchent [dans les falaises] sur une plate pierre, ou sur un esquigon [roche pointue].... s'il perche sur ung esquigon, il empoigne l'esquigon des piez</quote>
@@ -20219,8 +19801,6 @@
 <biblScope>Modus, f°. CXXII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Maistre, visez nos deux pignons, Avecques leur quatre quignons Seront bien l'un cy, l'autre çà</quote>
@@ -20228,8 +19808,6 @@
 <biblScope>Mir. de Ste Genev.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>La femme de Pierrot un quignon de pain coupe</quote>
@@ -20237,7 +19815,6 @@
 <biblScope>Plaisir des champs, p. 107</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. tignon ; espagn. quiñon ; port. quinhao, ration, part ; dérivé du latin cuneus, coin à fendre le bois (voy. <ref target="coin">COIN</ref>), ainsi dit par assimilation.</etym>
 </entry>
@@ -20337,7 +19914,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il brisa et gasta les quilles et carenes de tous les vaisseaux de Candie, à fin que l'on ne les peust soubdainement poursuivre</quote>
@@ -20353,7 +19929,6 @@
 <biblScope>Hist. II, 96</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Espagn, quilla ; ital. chiglia ; du germanique : anc. haut-allem. kiol ; anc. scand. kiolr ; anglo-sax. ceol ; allem. Kiel ; angl. keel.</etym>
 </entry>
@@ -20464,7 +20039,6 @@
 <dictScrap>Populairement et fig. Les <oVar>quilles</oVar>, les jambes.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Plusieurs compaignons se prindrent à jouer amiablement et par esbatement au jeu des grosses quilles, auquel jeu l'en gette de loin pour ferir lesdittes quilles d'un baston de la longueur ou environ d'une aulne</quote>
@@ -20493,8 +20067,6 @@
 <biblScope>Mistere de la Resurrection de nostre Seigneur Jesucrist, Paris (pour Antoine Verard), sans date</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Et autant de petits princes et potentats qui s'y feussent voulu opposer, il en eust autant abattu comme de quilles</quote>
@@ -20516,7 +20088,6 @@
 <biblScope>Œuv. p. 152, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Génev. guille ; de l'anc. haut-allem. kegil ; allem. Kegel, objet allongé en forme conique, quille.</etym>
 <re ana="supplement">
@@ -20576,7 +20147,6 @@
 <dictScrap>V. a. Populairement. Jeter des pierres, des quilles ou des bâtons dans les jambes de quelqu'un, ou, simplement, viser un objet et chercher à l'atteindre avec quelque projectile que ce soit.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Le suppliant demanda aux compaignons qui jouoient à la quille, s'il quilleroit point avec eulx</quote>
@@ -20585,7 +20155,6 @@
 <biblScope>quillia.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quille 2.</etym>
 </entry>
@@ -20639,7 +20208,6 @@
 <dictScrap>Nombre valant 1000 quadrillions ; on dit aujourd'hui quintillion.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Un quillion vaut mille milliers de quadrillons</quote>
@@ -20648,7 +20216,6 @@
 <biblScope>Arismetique, f° 7</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Mot formé du lat. quinque, cinq, comme billion l'est de bis (voy. aussi BILLION pour la manière de compter au XVIe siècle).</etym>
 </entry>
@@ -20684,7 +20251,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Voy. <ref target="quinquina">QUIN<oVar>QUINA</oVar></ref>.</dictScrap>
+<dictScrap>Voy. <ref target="quinquina">QUINQUINA</ref>.</dictScrap>
 <cit>
 <quote>Et toi que le quina guérit si promptement, Colbert, je ne dois point te taire</quote>
 <bibl>
@@ -20692,7 +20259,7 @@
 <biblScope>Quinquina, II</biblScope>
 </bibl>
 </cit>
-<dictScrap>La Fontaine a dit aussi le quin :</dictScrap>
+<note>La Fontaine a dit aussi le quin :</note>
 <cit>
 <quote>Nous lui devons Condé.... Le quin fera longtemps durer ses destinées</quote>
 <bibl>
@@ -20794,7 +20361,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Voulez vous payer ung bussart de vin breton, si je vous foys quinault en ce propous ?</quote>
@@ -20816,7 +20382,6 @@
 <biblScope>Contes de Cholières, f° 146, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Anciennement, quine, grimace, faire la quine, se moquer. Quine à son tour est un abrégé de quine-mine qui se disait d'une espèce de grimace moqueuse faite en appuyant le pouce contre la joue et en battant la main ouverte comme une aile ; du lat. quini, cinq, à cause que les cinq doigts étaient employés dans la quine-mine.</etym>
 </entry>
@@ -20867,7 +20432,6 @@
 <dictScrap>Par mépris, la monnaie de cuivre. Pourquoi me donnez-vous cette <oVar>quincaille</oVar> ?</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>[Vieux deniers] il ne chantoit plus ; il ne songeoit plus qu'en ce pot de quincaille</quote>
@@ -20897,7 +20461,6 @@
 <biblScope>Dialogues, p. 12, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Dit pour clinquaille (voy. <ref target="clinquant">CLINQUANT</ref>).</etym>
 </entry>
@@ -20931,7 +20494,6 @@
 <dictScrap>Terme de serrurerie. Tout ouvrage servant aux ferrures et fermetures des portes et croisées et provenant de diverses fabriques.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Tous marchans vendans quinquaillerie, come pots de terre, escuelles, plataux, vans.... doivent chascun.... quatre deniers parisis</quote>
@@ -20939,7 +20501,6 @@
 <biblScope>Liv. des mét. 440</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quincaillier</etym>
 </entry>
@@ -20970,7 +20531,6 @@
 <dictScrap>Marchand de quincaille.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>1er rang, qui sont des meilleurs mestiers.... mercier grossier.... vendant bagues, quinquallerie d'armes et chenets.... 4e rang, qui sont des mestiers d'entre les mediocres et petits : tailleur de pierres ; vanier quinquallier d'osier</quote>
@@ -20978,7 +20538,6 @@
 <biblScope>Édit avril 1597</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quincaille ; génev. clinquaillier, crincaillier.</etym>
 </entry>
@@ -21026,7 +20585,6 @@
 </sense>
 <note type="remarque">Rollin écrivait, à la latine, quincunx : La richesse des vergers plantés en quincunx, Hist. anc. Œuv. t. IV, p. 107, dans POUGENS. </note>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Et les arrange-on en ligne droicte des deux costés, comme arbres plantés à la quin qu'once</quote>
@@ -21035,7 +20593,6 @@
 <biblScope>76</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quinquncem, de quinque, cinq, et uncia, once ; le quinqunx était une monnaie valant cinq onces ou cinq douzièmes d'as ; cinq boules y étaient représentées pour en marquer la valeur.</etym>
 </entry>
@@ -21213,7 +20770,6 @@
 <dictScrap>Au loto, cinq numéros marqués sur la même ligne horizontale.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>[Au jeu de dés] Et deux et deux giettent es carnes Et ambessas et le tiers ternes, à la foiée giettent quines</quote>
@@ -21221,7 +20777,6 @@
 <biblScope>Brut, addit. au f° 80, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quini, cinq ; génev. une quine.</etym>
 </entry>
@@ -21368,7 +20923,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Jouer au quinola [au reversi]</quote>
@@ -21377,7 +20931,6 @@
 <biblScope>Mém. t. I, p. 140, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Origine inconnue.</etym>
 </entry>
@@ -21436,7 +20989,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ce moyen a esté par moy heureusement pratiqué en la personne d'un homme quinquagenaire</quote>
@@ -21445,7 +20997,6 @@
 <biblScope>V, 28</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quinquagenarius, de quinquageni, cinquante.</etym>
 </entry>
@@ -21949,7 +21500,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Li quint [le cinquième tour] après lur est pesant et gref</quote>
@@ -21957,8 +21507,6 @@
 <biblScope>Ch. de Rol. CXXV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Il ne verra passer le qint mois ne le quart</quote>
@@ -21973,8 +21521,6 @@
 <biblScope>XXVII, 7</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les propres, ou du moins les deux tiers, ou quatre quints d'iceux demeureront francs et quittes aux parents lignagers</quote>
@@ -21983,7 +21529,6 @@
 <biblScope>329</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. quint ; espagn. et ital. quinto ; du lat. quintus, cinquième, de quinque, cinq.</etym>
 </entry>
@@ -22044,7 +21589,6 @@
 <dictScrap>Action de courir le quintan.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Sire Bernier, dist Raoul li senez, En la quintaine por moi amor ferrez [vous frapperez pour l'amour de moi]</quote>
@@ -22052,8 +21596,6 @@
 <biblScope>Raoul de C. 24</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Quintaine [ils] font dresser en un bel pré fleuri ; Dux Naymes et li autre, chascuns d'eus i feri</quote>
@@ -22061,8 +21603,6 @@
 <biblScope>Berte, CVIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Quittaines fist drecier, et joustes y faisoit, Et donnoit un bel pris celui qui mieulx joustoit</quote>
@@ -22070,8 +21610,6 @@
 <biblScope>Guesclin. 214</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Où demeurent nos femmes et nos enfans ? nous les laissons pour servir de quintaines à la barbarie de nos ennemis</quote>
@@ -22080,7 +21618,6 @@
 <biblScope>Hist. I, 140</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et ital. quintana ; bas-lat. quintana, quintena. Origine inconnue.</etym>
 <re ana="supplement">
@@ -22120,7 +21657,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Elles [les nefs des Chinois] sont moult grans, si que chascune porte bien XI m. à XII m. quintaux pesant</quote>
@@ -22129,8 +21665,6 @@
 <biblScope>p. 478</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et comme en divisant la praie [proie, butin de deux villes], il y eust trouvé quarante quintaus tant d'or comme d'argent</quote>
@@ -22139,8 +21673,6 @@
 <biblScope>f° 24, verso.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>De mesme firent ceux de Bourges, qui, aiant conté les enfermez pour n'en sauver aucuns, les mirent à quintaux en les tuant</quote>
@@ -22155,7 +21687,6 @@
 <biblScope>Coust. génér. t. II, p. 721</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. espagn. et portug. quintal ; ital. quintale ; bas-lat. quintale, quintallus, quintile ; de l'arabe quintâr, poids de cent.</etym>
 <re ana="supplement">
@@ -22183,7 +21714,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Tireront leur coup de pistolet en courant contre la teste d'un chevalier qui sera peint en façon de quintan</quote>
@@ -22192,7 +21722,6 @@
 <biblScope>Théât. d'hon. t. I, p. 547, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Le même que quintaine.</etym>
 </entry>
@@ -22206,7 +21735,6 @@
 <dictScrap>Terme de médecine. Fièvre <oVar>quintane</oVar>, fièvre intermittente, qui revient tous les cinq jours, et dans laquelle il y a par conséquent trois jours d'apyrexie.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Fievres quintaines, sextaines</quote>
@@ -22215,7 +21743,6 @@
 <biblScope>Introd. 6</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quintanus, de quintus (voy. <ref target="quint">QUINT</ref>).</etym>
 </entry>
@@ -22322,7 +21849,6 @@
 <dictScrap>Adj. Terme de médecine. Fièvre <oVar>quinte</oVar>, on dit maintenant fièvre quintane (voy. <ref target="quintane">QUINTANE</ref>).</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Nottes terçoyées, quintes et doublées</quote>
@@ -22331,7 +21857,6 @@
 <biblScope>Poésies mss. f° 394</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. et ital quinta ; de quintus, cinquième.</etym>
 </entry>
@@ -22373,7 +21898,6 @@
 <dictScrap>Terme de manége. Mouvement désordonné que fait le cheval sous le cavalier</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Un beau matin que sa quinte le point</quote>
@@ -22394,7 +21918,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Namurois, quinke ; Hainaut, avoir des kins, être quinteux ; Aix, queute, caprice, mauvaise humeur. On a dit que c'était la quinte des musiciens, qui, lorsqu'ils se fâchent et s'emportent, prennent la quinte ; d'où quinte, mauvaise humeur, caprice. Il est plus probable que c'est la quinte, accès de toux, qui est devenu la quinte, accès d'humeur.</etym>
 <re ana="supplement">
@@ -22436,7 +21959,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quinte-fueille, ce nom procede des cinq fueilles que ceste herbe porte en chacune queue</quote>
@@ -22445,7 +21967,6 @@
 <biblScope>615</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quinquefolium, de quinque, cinq, et folium, feuille.</etym>
 </entry>
@@ -22598,7 +22119,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ce est le ciel que l'en appelle la quinte essence, qui est plus divine et plus precieuse pour ce que elle est plus haut que les elemens</quote>
@@ -22607,8 +22127,6 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Ô quintessence de pommier [le cidre] ! Se toujours j'en buvoy de telle !</quote>
@@ -22617,8 +22135,6 @@
 <biblScope>XI</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Huile de fenoil, extraite par quinteessence</quote>
@@ -22634,7 +22150,6 @@
 <biblScope>I, 213</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bas-lat. quinta essentia, de quinta, cinquième, et essentia, essence, parce que, selon les anciens, il y avait quatre éléments contenus dans leurs sphères respectives, la terre, l'eau, l'air et le feu ; et, au-dessus de la sphère du feu, une substance plus pure et plus subtile encore qui n'avait pas de nom propre, et qu'on appelait la quinte essence (5e substance).</etym>
 <re ana="supplement">
@@ -22714,7 +22229,6 @@
 <dictScrap>Qui a rapport à la quintessence.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les eaux et huiles quintessentielles des herbes chaudes, seiches et aromatiques se tirent par alembic</quote>
@@ -22723,7 +22237,6 @@
 <biblScope>t. III, p. 637</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="quintessencier">
@@ -22749,7 +22262,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quintessencer</quote>
@@ -22758,7 +22270,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quintessence.</etym>
 </entry>
@@ -23025,7 +22536,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Ilz seront le quintuple du tiers</quote>
@@ -23034,7 +22544,6 @@
 <biblScope>Arismetique, f. 63</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quintuplex.</etym>
 </entry>
@@ -23109,7 +22618,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Au Mans avons sofert doulereuse quinzaine</quote>
@@ -23117,8 +22625,6 @@
 <biblScope>Sax. XXX</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Dedanz la quinzeine de la saint Remei qui vient</quote>
@@ -23126,7 +22632,6 @@
 <biblScope>Bibl. des ch. 6e série, t. III, p. 574</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quinze ; provenç. quinzena ; catal. quinsena ; espagn. quincena.</etym>
 </entry>
@@ -23232,7 +22737,6 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>De dulce France i a quinze milliers</quote>
@@ -23246,8 +22750,6 @@
 <biblScope>ib. CXLI</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Quinze jours [ils] l'ont requise [Berte], mais ne l'ont pas trouvée</quote>
@@ -23255,8 +22757,6 @@
 <biblScope>Berte, CIV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Deux jeunes marchandes d'auprès Ste-Oportune, nous leur avons vu faire leurs quinze tours dans St-Denis ; puis elles sont allées achever le reste de leur voyage dans le bois de Nostre Dame des Vertus, où je me recommande</quote>
@@ -23264,7 +22764,6 @@
 <biblScope>Caquets de l'accouchée, p. 62, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. quinze ; cat. quinse ; espagn. quince ; ital. quindici ; du latin quindecim, de quinque, cinq, et decem, dix (l'accent est sur quin).</etym>
 </entry>
@@ -23341,7 +22840,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Les aveugles que fonda saint Loys, Qui quinze vins sont en une maison</quote>
@@ -23350,7 +22848,6 @@
 <biblScope>Poésies mss. f° 286</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quinze fois vingt, ou trois cents.</etym>
 </entry>
@@ -23386,7 +22883,6 @@
 <dictScrap>S. f. Terme de musique. La <oVar>quinzième</oVar>, la double octave ; un registre de l'orgue.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Cis fu quinzimes rois par conte, Que la mors donta qui tot donte</quote>
@@ -23395,7 +22891,6 @@
 <biblScope>ms. p. 48, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. quinzen ; catal. quinsé ; espagn. quinceno ; ital. quindecimo ; du lat. quindecimus (voy. <ref target="quinze">QUINZE</ref>).</etym>
 </entry>
@@ -23520,7 +23015,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>S'il est licite de transfigurer ainsi toutes choses, il y aura de terribles qui pro quod</quote>
@@ -23543,7 +23037,6 @@
 <biblScope>Apol. d'Hérod. p. 214, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quid, pro, et quod : prendre un quid pour un quod.</etym>
 </entry>
@@ -23638,7 +23131,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Si rouva [il demanda] qu'il eüssent paix, Toute paix et quittance eüssent</quote>
@@ -23646,8 +23138,6 @@
 <biblScope>Brut, ms. f° 20, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Qu'il aient pes de tote rien Et de costume [impôt] la quitance [exemption]</quote>
@@ -23662,8 +23152,6 @@
 <biblScope>XXXIV, 21</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Et dou quart de lor penitance Lor fait moult boinement quitance</quote>
@@ -23672,8 +23160,6 @@
 <biblScope>t. III, p. 10</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et dist à son dit mary que il convenoit fere une quictance comment il confessoit avoir receu la dicte somme</quote>
@@ -23688,7 +23174,6 @@
 <biblScope>I, I, 95</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenc. quittansa ; catal. quitança ; espagn. et ital quitanza ; bas-lat. quietantia. La forme propre est quietantia, action d'apaiser, de quietare (voy. <ref target="quitte">QUITTE</ref>).</etym>
 </entry>
@@ -23971,7 +23456,6 @@
 <re type="proverbe"><form>Quitte à quitte et bons amis</form>. </re>
 </sense>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Bien sont asouz, quites de lur pecchez</quote>
@@ -23979,8 +23463,6 @@
 <biblScope>Ch. de Rol. LXXXVIII</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>De mil souspirs que je li doi par dete [elle] Ne m'en veut pas un seul quite clamer</quote>
@@ -23988,8 +23470,6 @@
 <biblScope>Couci, VI</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Dis et soulas et joie m'ont bien clamée quite</quote>
@@ -24024,8 +23504,6 @@
 <biblScope>250</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Ne sai se me devez, ou se nous vous devons ; Or soit tout quite quite, puisque nous departons</quote>
@@ -24040,8 +23518,6 @@
 <biblScope>t. III, p. 57</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et ainsi pareillement ferai tout le voyage durant ; et serai quitte pour faire devant chacun juge une fois lesdites armes</quote>
@@ -24063,8 +23539,6 @@
 <biblScope>le Jouvencel, f° 83, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>S'en ira il quitte, ayant assailli ma teste ?</quote>
@@ -24094,7 +23568,6 @@
 <biblScope>Conn. de Bourbon.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenç. quiti ; catal. quiti ; espagn. quito ; ital. quite ; du lat. quietus, tranquille (voy. <ref target="coi">COI</ref>), et, par extension, quitte. C'est de la même façon que le lat. pacare, apaiser, a signifié payer.</etym>
 </entry>
@@ -24131,7 +23604,6 @@
 <dictScrap>Ancien terme de palais, employé dans cette locution : franchement et <oVar>quittement</oVar>, c'est-à-dire sans charge ni hypothèque. On m'a vendu ce bien franchement et <oVar>quittement</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Li reis.... fist par ban crier, C'um laissast quitement lui e les suens aler</quote>
@@ -24139,8 +23611,6 @@
 <biblScope>Th. le mart. 46</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Il li doit garantir son fief quitement et franquement</quote>
@@ -24149,8 +23619,6 @@
 <biblScope>XV, 7</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Or sont depuis les choses muées autrement ; car tout le royaume de Castille demoura quittement et paisiblement au roy Henry son frere</quote>
@@ -24159,7 +23627,6 @@
 <biblScope>II, III, 34</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quitte, et le suffixe ment ; provenç. quitamen ; anc. catal. quitiament ; anc. espag. quitamente.</etym>
 </entry>
@@ -24987,7 +24454,6 @@
 <re type="proverbe">Qui quitte sa place la perd, on ne retrouve plus sa place une fois qu'on l'a quittée. </re>
 <re type="proverbe"><form>Il ne quitte rien du sien</form>, se dit de celui qui renonce à une chose où il n'avait point de droit. </re>
 <note type="historique">
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>Se [elle] ne me veut retenir ou quiter</quote>
@@ -24995,8 +24461,6 @@
 <biblScope>Couci, VI</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Je quit amours, et à Dieu les commant</quote>
@@ -25019,8 +24483,6 @@
 <biblScope>261</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Je vous quitte votre prison, et vous pouvez partir demain</quote>
@@ -25036,8 +24498,6 @@
 <biblScope>V, 16</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Celui qui, sans rien recevoir, liberalement et franchement quitte la dette</quote>
@@ -25116,7 +24576,6 @@
 <biblScope>Démosth. 32</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Provenc. quitar ; anc. catal. quietar ; espagn. quitar ; ital. quietare, quitare ; bas-latin, quietare, de quietus (voy. <ref target="quitte">QUITTE</ref>) : mot à mot rendre tranquille, de là exempter, renoncer, laisser. On entend souvent les paysans dire : Quitte-moi tranquille, quitte-moi en repos.</etym>
 </entry>
@@ -25140,7 +24599,6 @@
 <dictScrap>Celui, celle qui quitte, qui abandonne.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quitteur</quote>
@@ -25149,7 +24607,6 @@
 <biblScope>Dict.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="quitus">
@@ -25162,7 +24619,6 @@
 <dictScrap>Terme de finance. Arrêté ou jugement définitif d'un compte. Avoir le <oVar>quitus</oVar> d'un compte.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quittus</quote>
@@ -25171,7 +24627,6 @@
 <biblScope></biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quitus et quittus est le latin des comptes et des chartes pour rendre quitte.</etym>
 </entry>
@@ -25194,7 +24649,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Une sentinelle parla d'assez loin ; on repondit à son qui-va-là que....</quote>
@@ -25203,7 +24657,6 @@
 <biblScope>Hist. II, 264</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Qui, va, là.</etym>
 </entry>
@@ -25262,7 +24715,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Il respondit Vezins au qui vive</quote>
@@ -25271,7 +24723,6 @@
 <biblScope>Hist. II, 352</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Qui ? et vivre.</etym>
 <re ana="supplement">
@@ -25311,7 +24762,6 @@
 <dictScrap>Synonyme de quodlibétique.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Nos docteurs n'y trouvent que rire ny que frire ; car ils n'ont pas les questions quolibetaires si frequentes ; plus ne se passent tant de bacheliers</quote>
@@ -25319,7 +24769,6 @@
 <biblScope>Sat. Mén. p. 81</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <re ana="supplement">
 <re>QUODLIBÉTAIRE. Ajoutez : <cit><quote>Enfin, arrivait [pour les étudiants en médecine] le tour des thèses quodlibétaires, sur un sujet à la convenance des candidats</quote><bibl><biblScope>Journ. offic. 8 déc. 1873, p. 7574. 1re col.</biblScope></bibl></cit> </re>
@@ -25912,7 +25361,7 @@
 <biblScope>ib. p. 64</biblScope>
 </bibl>
 </cit>
-<dictScrap>Il est dommage que cette tournure soit tombée en désuétude.</dictScrap>
+<note>Il est dommage que cette tournure soit tombée en désuétude.</note>
 </sense>
 <sense n="12">
 <dictScrap><oVar>Quoi</oVar> interrogatif, quelle chose ? En <oVar>quoi</oVar> différons-nous d'avis ? à <oVar>quoi</oVar> de fâcheux devons-nous nous attendre ?</dictScrap>
@@ -26050,12 +25499,9 @@
 <dictScrap>On y ajoute quelquefois l'interjection eh. Eh <oVar>quoi</oVar> ! vous n'êtes pas encore parti !</dictScrap>
 </sense>
 </sense>
-<note type="remarque">
-<p>1. Ce pronom quoi a donné occasion à plusieurs de la compagnie de demander si cette manière de parler ordinaire à plusieurs auteurs : quoi de plus noble ? quoi de plus glorieux ? devait être tolérée, Acad. observ. sur Vaugel. p. 68, dans POUGENS. L'Académie condamna cette locution ; condamnation qui n'a pas été ratifiée. </p>
-<p>2. Corneille l'a dit d'une personne, avec un sens indéterminé : <cit><quote>On vous les a nommés, mais sans vous les prescrire ; On vous obéira, quoi qu'il vous plaise élire</quote><bibl><author>CORN.</author><biblScope>D. Sanche, I, 2</biblScope></bibl></cit> Voy. à l'historique des exemples de cet emploi dans Perceforest, dans Commines et dans Montaigne. </p>
-</note>
+<note type="remarque">1. Ce pronom quoi a donné occasion à plusieurs de la compagnie de demander si cette manière de parler ordinaire à plusieurs auteurs : quoi de plus noble ? quoi de plus glorieux ? devait être tolérée, Acad. observ. sur Vaugel. p. 68, dans POUGENS. L'Académie condamna cette locution ; condamnation qui n'a pas été ratifiée.</note>
+<note type="remarque">2. Corneille l'a dit d'une personne, avec un sens indéterminé : <cit><quote>On vous les a nommés, mais sans vous les prescrire ; On vous obéira, quoi qu'il vous plaise élire</quote><bibl><author>CORN.</author><biblScope>D. Sanche, I, 2</biblScope></bibl></cit> Voy. à l'historique des exemples de cet emploi dans Perceforest, dans Commines et dans Montaigne.</note>
 <note type="historique">
-<p>
 <label>XIe s.</label>
 <cit>
 <quote>Et dist al rei : de quei avez pesance [chagrin] ?</quote>
@@ -26063,8 +25509,6 @@
 <biblScope>Ch. de Rol. LXV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIe s.</label>
 <cit>
 <quote>N'ai fil ne fille de quoi fasse mon hoir</quote>
@@ -26096,8 +25540,6 @@
 <biblScope>Sax. XXIV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Ma volonté ferez, quoi qu'il doie couster</quote>
@@ -26136,8 +25578,6 @@
 <biblScope>212</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>À quoi le savez-vous ? dist la dame erranment ; Et celle li a dist : je le sais vraiement.</quote>
@@ -26145,8 +25585,6 @@
 <biblScope>Guesclin. 148</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Ceux de Calais virent bien que le secours en quoi ils avoient fiance leur estoit failli</quote>
@@ -26216,8 +25654,6 @@
 <biblScope>le Jouvencel, f° 66, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Diogenes interrogé à quelle heure doibt l'homme repaistre, respondit : Le riche, quand il aura faim ; le paoure, quand il aura de quoy</quote>
@@ -26351,7 +25787,6 @@
 <biblScope>Coust. génér. t. II, p. 976</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bourg. quei ; du lat. quid (portant l'accent tonique), neutre de quis, qui.</etym>
 </entry>
@@ -26443,15 +25878,16 @@
 <dictScrap>Peut-être la locution doit-elle s'interpréter autrement : quoi que ça, quoi que ça soit !</dictScrap>
 </sense>
 </sense>
-<note type="remarque">
-<p>1. L'e de quoique ne s'élide que lorsqu'il est suivi de il, ils, elle, elles, on, un, une. Mais on écrit sans apostrophe : Quoique amis, ils ne se voient pas souvent. </p>
-<p>2. Quoique s'unit avec un participe présent : Quoique souffrant, je suis sorti ; mais l'usage n'admet pas qu'il s'unisse à un participe passé. On ne dit pas : Quoique n'ayant pu le voir, je... mais : Quoique je n'aie pu le voir, je.... </p>
-<p>3. On a dit qu'il ne doit pas non plus se construire avec le participe passé, et qu'il ne faut pas dire : quoique aimé de tous, mais : quoiqu'il soit aimé. Cette remarque n'est pas fondée ; car ce qui empêche la construction avec le participe présent, c'est qu'on ne peut sous-entendre le verbe être ; cette raison n'existe pas pour le participe passé.  <cit><quote>Seigneur, ainsi qu'à vous la liberté m'est chère : Quoique né sous un roi, j'en goûte les appas</quote><bibl><author>VOLT.</author><biblScope>Brut. II, 2</biblScope></bibl></cit> </p>
-<p>4. Vaugelas a employé quoique avec le conditionnel : Quoique quelques-uns seraient d'avis, etc. On le trouve aussi avec le futur : En attendant, on laissera tout faire au cardinal, quoique l'on parera plusieurs de ses coups les plus impertinents et les plus nuisibles, Mém. d'Argenson, t. III, p. 357 (in-8°, 1860). </p>
-<p>5. Dans le XVIIe siècle, on le trouve quelquefois avec l'indicatif ; ce qui n'est plus usité.  <cit><quote>Il [Ménage] apporte un endroit de M. d'Ablancourt où quoique est mis avec l'indicatif d'une manière agréable, mais c'est qu'il y a deux ou trois mots entre quoique et le verbe : Quoiqu'à dire vrai je ne suis guère en état de le faire</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. I, p. 144, dans POUGENS</biblScope></bibl></cit> <cit><quote>Quoiqu'il est superflu de dire</quote><bibl><author>BUSSY</author><biblScope>Hist. amour. des Gaules, t. I, p. 50 (éd. in-12).</biblScope></bibl></cit> <cit><quote>La mienne, quoique aux yeux elle n'est pas si forte</quote><bibl><author>MOL.</author><biblScope>Éc. des f. IV, 9</biblScope></bibl></cit> (dans les éditions du vivant de Molière ; les éditions posthumes de 1682 ont corrigé elle semble moins forte).  <cit><quote>Jamais les Pères ne l'ont reprochée [une certaine loi], ni pendant la vie ni après la mort, ni à Valentinien, ni à Justine, cette prétendue seconde femme, quoique, devenue arienne et persécutrice des catholiques, elle n'avait pas mérité d'être flatée</quote><bibl><author>BOSSUET</author><biblScope>Déf. Var. 1er disc. 63</biblScope></bibl></cit> </p>
+<note type="remarque">1. L'e de quoique ne s'élide que lorsqu'il est suivi de il, ils, elle, elles, on, un, une. Mais on écrit sans apostrophe : Quoique amis, ils ne se voient pas souvent.</note> 
+<note type="remarque">2. Quoique s'unit avec un participe présent : Quoique souffrant, je suis sorti ; mais l'usage n'admet pas qu'il s'unisse à un participe passé. On ne dit pas : Quoique n'ayant pu le voir, je... mais : Quoique je n'aie pu le voir, je....</note>
+<note type="remarque">3. On a dit qu'il ne doit pas non plus se construire avec le participe passé, et qu'il ne faut pas dire : quoique aimé de tous, mais : quoiqu'il soit aimé. Cette remarque n'est pas fondée ; car ce qui empêche la construction avec le participe présent, c'est qu'on ne peut sous-entendre le verbe être ; cette raison n'existe pas pour le participe passé.  <cit><quote>Seigneur, ainsi qu'à vous la liberté m'est chère : Quoique né sous un roi, j'en goûte les appas</quote><bibl><author>VOLT.</author><biblScope>Brut. II, 2</biblScope></bibl></cit></note>
+<note type="remarque">4. Vaugelas a employé quoique avec le conditionnel : Quoique quelques-uns seraient d'avis, etc. On le trouve aussi avec le futur : En attendant, on laissera tout faire au cardinal, quoique l'on parera plusieurs de ses coups les plus impertinents et les plus nuisibles, Mém. d'Argenson, t. III, p. 357 (in-8°, 1860).</note>
+<note type="remarque">5. Dans le XVIIe siècle, on le trouve quelquefois avec l'indicatif ; ce qui n'est plus usité.  
+<cit><quote>Il [Ménage] apporte un endroit de M. d'Ablancourt où quoique est mis avec l'indicatif d'une manière agréable, mais c'est qu'il y a deux ou trois mots entre quoique et le verbe : Quoiqu'à dire vrai je ne suis guère en état de le faire</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. I, p. 144, dans POUGENS</biblScope></bibl></cit> <cit><quote>Quoiqu'il est superflu de dire</quote><bibl><author>BUSSY</author><biblScope>Hist. amour. des Gaules, t. I, p. 50 (éd. in-12).</biblScope></bibl></cit>
+<cit><quote>La mienne, quoique aux yeux elle n'est pas si forte</quote><bibl><author>MOL.</author><biblScope>Éc. des f. IV, 9</biblScope></bibl></cit> (dans les éditions du vivant de Molière ; les éditions posthumes de 1682 ont corrigé elle semble moins forte).
+<cit><quote>Jamais les Pères ne l'ont reprochée [une certaine loi], ni pendant la vie ni après la mort, ni à Valentinien, ni à Justine, cette prétendue seconde femme, quoique, devenue arienne et persécutrice des catholiques, elle n'avait pas mérité d'être flatée</quote><bibl><author>BOSSUET</author><biblScope>Déf. Var. 1er disc. 63</biblScope></bibl></cit>
 </note>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Hé, m'amie, dist-il, hé car ne m'oubliez, Quoique je soie pauvre et mal enlinagiez</quote>
@@ -26459,8 +25895,6 @@
 <biblScope>Baud. de Seb. III, 89</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Quoi qu'il fust là armé et en grand arroy, si ne veoit-il goute et estoit aveugle</quote>
@@ -26476,8 +25910,6 @@
 <biblScope>I, 1</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quoyqu'elles en prennent divers moyens</quote>
@@ -26486,7 +25918,6 @@
 <biblScope>I, 69</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Quoi et que ; bourguig. queique. C'est la locution quoi que (quoi qu'il fasse) qui est devenue une conjonction adversative.</etym>
 </entry>
@@ -26551,7 +25982,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Et quant les preescheurs et les cordeliers qui là estoient li ramentevoient aucun livre qu'il oyst volentiers, il leur disoit : Vous ne me lirez point ; car il n'est si bon livre, après manger, comme quolibez ; c'est à dire que chascun die ce que il veut</quote>
@@ -26560,8 +25990,6 @@
 <biblScope>290</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Les quolibets de taverne, et les saletez de cabarets</quote>
@@ -26569,7 +25997,6 @@
 <biblScope>Sat. Mén. p. 226</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Bas-lat. quodlibetum, du latin quod libet, ce qui plaît.</etym>
 </entry>
@@ -26651,7 +26078,6 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Nous avons.... no quote partie à cascun lot de vin que on vendera....</quote>
@@ -26660,8 +26086,6 @@
 <biblScope>Régence d'Aubert de Bavière, p. 83</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Venir à division legitime, avec touts les aultres hommes, de ce tas de maulx, et en prendre sa quote part</quote>
@@ -26670,7 +26094,6 @@
 <biblScope>IV, 85</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. cota, cotta ; espagn. cota, cuota ; du latin quotus, quel et lequel en ordre ou en nombre, venant de quot, combien, autant qu'il y en a, qui est de même radical que le relatif qui.</etym>
 </entry>
@@ -26722,7 +26145,6 @@
 <dictScrap>S. m. Le <oVar>quotidien</oVar>, s'est dit, dans certains chapitres, des distributions manuelles et des petits émoluments.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XIIIe s.</label>
 <cit>
 <quote>Onques fievres n'eüs si males, Ne cotidianes, ne quartes</quote>
@@ -26730,8 +26152,6 @@
 <biblScope>la Rose, 2291</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XIVe s.</label>
 <cit>
 <quote>Il ne despent pas grandement en son usage cotidien, mes il le fait volentiers en choses communes</quote>
@@ -26740,8 +26160,6 @@
 <biblScope>Eth. 116</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVe s.</label>
 <cit>
 <quote>Et aussi pourront amener vins et toutes autres denrées pour vendre, sauf qu'ils n'en mettront rien dedans ladite ville et chastel pour le ravitailler, sinon pour la quotidienne du temps qu'ils y doivent estre</quote>
@@ -26750,8 +26168,6 @@
 <biblScope>II, 12</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Raisons et experiences quotidianes</quote>
@@ -26767,7 +26183,6 @@
 <biblScope>I, 241</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Prov. cotidian, cotedian ; catal. cotidiá ; espagn. cotidiano ; ital. quotidiano ; du latin quotidianus, de quotidie, chaque jour, de quotus, chaque (voy. <ref target="quote">QUOTE</ref>), et dies, jour.</etym>
 </entry>
@@ -26781,7 +26196,6 @@
 <dictScrap>Tous les jours.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Quotidiennement</quote>
@@ -26789,7 +26203,6 @@
 <biblScope>les Triomphes de la noble dame, f°245, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 </entry>
 <entry xml:id="quotidienneté">
@@ -26812,7 +26225,6 @@
 <dictScrap>Terme d'arithmétique et d'algèbre. Résultat d'une division. Le <oVar>quotient</oVar> de 12 divisé par 3 est 4, de ab divisé par b est a.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Lequel nombre s'appelle la part ou le quotiens, pourtant qu'il demonstre quantesfois le partiteur est contenu ou [au] nombre à partir</quote>
@@ -26821,7 +26233,6 @@
 <biblScope>Arismetique, f° 9, verso.</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quotiens, combien de fois, de quotus (voy. <ref target="quote">QUOTE</ref>).</etym>
 </entry>
@@ -26871,7 +26282,6 @@
 <dictScrap>Aujourd'hui, en matière électorale, la <oVar>quotité</oVar> du cens, la somme d'impôts qu'il fallait payer en France et qu'il faut payer en certains pays pour être électeur.</dictScrap>
 </sense>
 <note type="historique">
-<p>
 <label>XVIe s.</label>
 <cit>
 <quote>Pareillement les meubles et acquets s'en iront en deux lignes par moitié, en maniere que, s'il y a aucun qui soit conjoint des deux costez du deffunt, il succedera esdites deux lignes pour sa cottité</quote>
@@ -26886,7 +26296,6 @@
 <biblScope>III, 14</biblScope>
 </bibl>
 </cit>
-</p>
 </note>
 <etym>Lat. quotus (voy. <ref target="quote">QUOTE</ref>).</etym>
 </entry>
