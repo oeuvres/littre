@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_w">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_w">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -315,7 +318,7 @@
 <dictScrap>Épée <oVar>wallonne</oVar>, épée à lame droite et large, à deux tranchants dont était armée la cavalerie sous Louis XIII et Louis XIV.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XIVe s.</label>
 <cit>
 <quote>Lequel Flament appellant ledit Perrin sanglant François Wallrin, il respondit que les François et li Wallin estoient aussi bons comme les Flamens</quote>
@@ -331,8 +334,8 @@
 <biblScope>ib.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVIe s.</label>
 <cit>
 <quote>Aux Pays-Bas ils se disent parler le walon, et que nous parlons le roman</quote>
@@ -341,7 +344,7 @@
 <biblScope>Rech. VIII, p. 655, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Bas-lat. wallus ; voy. (VELCHE).</etym>
 </entry>
@@ -626,13 +629,13 @@
 <biblScope>Monit. univ. 24 avril 1868, p. 552, 6e col.</biblScope>
 </bibl>
 </cit>
-</sense>
-<etym>Flamand, wateringen, de water, eau.</etym>
-<re ana="supplement">
-<form> WATERINGUE. Ajoutez : </form>
-<sense n="2">
+</sense><sense n="2">
 <dictScrap>Se dit quelquefois pour désigner la direction qui administre une <oVar>wateringue</oVar>.</dictScrap>
 </sense>
+<etym>Flamand, wateringen, de water, eau.</etym>
+<re ana="supplement" orig=" WATERINGUE. Ajoutez : ">
+
+
 <re>Dans l'étymologie, au lieu de wateringen, lisez watering. </re>
 </re>
 </entry>

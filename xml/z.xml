@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_z">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_z">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -59,7 +62,7 @@
 <sense n="5">
 <dictScrap>Poinçon d'acier, au bout duquel est gravé un <oVar>Z</oVar>, pour frapper ou imprimer cette lettre.</dictScrap>
 </sense>
-<etym></etym>
+<etym/>
 </entry>
 <entry xml:id="za">
 <form>
@@ -111,7 +114,7 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>[Cesar Borgia] fut tué d'une zagaye par ses ennemis sortans d'une embuscade, non sans avoir bravement combattu</quote>
@@ -120,7 +123,7 @@
 <biblScope>Capit. Estrang. t. II, p. 234</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Espagn. et portug. azagaya, d'après Defrémery, du berbère zagâya, avec l'article arabe al. M. Dozy (Gloss des mots espagn. et portug. tirés de l'arabe) cite d'anciennes formes françaises, agaye, azegaye, azagaye.</etym>
 </entry>
@@ -230,7 +233,7 @@
 <dictScrap>Personnage bouffon dans les comédies italiennes. Les <oVar>zani</oVar> sont proprement les bouffons des opérateurs et des troupes de danseurs de corde, qui attirent des spectateurs par leurs plaisanteries et leurs grimaces.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>[Catherine de Médicis fit jouer] des comedies et tragicomedies, et mesme celles de zany et pantalons, y prenoit plaisir, et y rioit son saoul comme une autre</quote>
@@ -246,7 +249,7 @@
 <biblScope>p. 411, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Ital. zani, autre prononciation de gianni, abrégé de Giovanni, Jean.</etym>
 </entry>
@@ -417,7 +420,7 @@
 <dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la <oVar>zédoaire</oVar> ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la <oVar>zédoaire</oVar> longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Autres prennent au matin, par precaution, de la racine d'enule campane, ou zedoar, ou angelique, en les maschant et tenant en la bouche</quote>
@@ -426,7 +429,7 @@
 <biblScope>XXIV, 8</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Provenç. zeduari ; portug. zeduaria ; ital. zettovario ; de l'arabe zedwâr.</etym>
 </entry>
@@ -552,7 +555,7 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVe s.</label>
 <cit>
 <quote>Zelateurs du bien publique</quote>
@@ -560,8 +563,8 @@
 <biblScope>Preuv. sur le meurtre du duc de Bourg. p. 328, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVIe s.</label>
 <cit>
 <quote>Ciceron, ce grand zelateur du bien publicque</quote>
@@ -577,7 +580,7 @@
 <biblScope>72</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Lat. zelatorem, de zelus, zèle.</etym>
 </entry>
@@ -763,7 +766,7 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Quant à ceux qui ont des zeles inconsiderez, qui souvent les esmeuvent à des jugemens et condamnations iniques, qu'ils se souviennent de ce que dit saint Paul</quote>
@@ -793,7 +796,7 @@
 <biblScope>Tragiques, éd. LALANNE, p. 136</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Lat. zelus, du grec jalousie, du grec bouillir ; sansc. yas, suer, s'efforcer.</etym>
 <re ana="supplement">
@@ -886,7 +889,7 @@
 </sense>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Tel seize qui de foy se vante Ne voudroit ainsy mettre en vente Son corps par pieces estallé, Et veut qu'on l'estime zelé</quote>
@@ -894,7 +897,7 @@
 <biblScope>Sat. Ménippée, l'âne ligueur</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Zèle.</etym>
 </entry>
@@ -963,13 +966,13 @@
 <biblScope>le Protestant libéral, 9 juin 1870, 9e col.</biblScope>
 </bibl>
 </cit>
-</sense>
-<etym>Du grec zélateur, du grec zèle.</etym>
-<re ana="supplement">
-<form> ZÉLOTISME. Ajoutez : </form>
-<sense n="2">
+</sense><sense n="2">
 <dictScrap>Terme d'histoire ancienne. Parti de ceux des Juifs qui, sous la domination romaine, voulaient à tout prix secouer le joug étranger.</dictScrap>
 </sense>
+<etym>Du grec zélateur, du grec zèle.</etym>
+<re ana="supplement" orig=" ZÉLOTISME. Ajoutez : ">
+
+
 </re>
 </entry>
 <entry xml:id="zemb">
@@ -1107,7 +1110,7 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
+
 <label>XIVe s.</label>
 <cit>
 <quote>Le point du ciel qui est tout droit sus nostre teste est appellé cenith</quote>
@@ -1116,7 +1119,7 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Corruption de l'arabe semt, chemin droit, point vertical.</etym>
 </entry>
@@ -1347,13 +1350,24 @@
 </sense>
 <sense n="5">
 <dictScrap>Nom donné, dans l'armée, à des soldats de compagnie de discipline qu'on envoie d'ordinaire en Algérie. Un <oVar>zéphire</oVar>. Des zéphires.</dictScrap>
+</sense><sense n="5">
+<dictScrap>Sorte de laine.</dictScrap>
+<cit>
+<quote>En mars dernier, les laines zéphire, pour tapisserie, qu'on appelle en France laines Ternaux, se vendaient en couleurs ordinaires 15 francs le kilo à Berlin, tandis qu'à Paris il serait impossible de les établir au-dessous de 20 à 22 francs</quote>
+<bibl>
+<biblScope>Enquête, Traité de comm. avec l'Anglet. t. III, p. 517</biblScope>
+</bibl>
+</cit>
+<sense>
+<dictScrap>On dit de même casimir <oVar>zéphire</oVar>, casimir fait avec la laine <oVar>zéphire</oVar>.</dictScrap>
+</sense>
 </sense>
 <note type="remarque">
 <p>1. L'Académie distingue zéphire et zéphyr, disant que zéphire est le vent d'occident, et zéphyr tout vent doux et agréable. Cette distinction est illusoire et ne peut être admise ; les auteurs confondent perpétuellement zéphire et zéphyr, et il ne faut y voir qu'une variété d'orthographe. Il en est de même de la remarque de Vaugelas : " On dit en poésie zéphyr et zéphyre, au singulier, mais plus communément zéphyre. Au pluriel on dit au contraire zéphyrs plutôt que zéphyres. " </p>
 <p>2. On ne voit pas pourquoi l'Académie écrit zéphire par un i, et zéphyr par un y. Le mieux serait de mettre aux deux l'y grec étymologique, gardant les deux formes sans e et avec e pour l'usage de la versification. </p>
 </note>
 <note type="historique">
-<p>
+
 <label>XVe s.</label>
 <cit>
 <quote>Aurora.... encores, pour son esbat, Chacier faisoit par Zepherus Les tenebres de Hesperus</quote>
@@ -1362,8 +1376,8 @@
 <biblScope>Espin. amour.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVIe s.</label>
 <cit>
 <quote>Je veux changer mes pensers en oyseaux, Mes doux soupirs en zephyres nouveaux</quote>
@@ -1386,23 +1400,12 @@
 <biblScope>Angelique, 1</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Provenç. zephir ; portug. zefeyro ; ital. zefiro ; du lat. zephirus, du grec vent d'ouest.</etym>
-<re ana="supplement">
-<form> ZÉPHIRE. Ajoutez : </form>
-<sense n="5">
-<dictScrap>Sorte de laine.</dictScrap>
-<cit>
-<quote>En mars dernier, les laines zéphire, pour tapisserie, qu'on appelle en France laines Ternaux, se vendaient en couleurs ordinaires 15 francs le kilo à Berlin, tandis qu'à Paris il serait impossible de les établir au-dessous de 20 à 22 francs</quote>
-<bibl>
-<biblScope>Enquête, Traité de comm. avec l'Anglet. t. III, p. 517</biblScope>
-</bibl>
-</cit>
-<sense>
-<dictScrap>On dit de même casimir <oVar>zéphire</oVar>, casimir fait avec la laine <oVar>zéphire</oVar>.</dictScrap>
-</sense>
-</sense>
+<re ana="supplement" orig=" ZÉPHIRE. Ajoutez : ">
+
+
 </re>
 </entry>
 <entry xml:id="zéphiriser">
@@ -1553,16 +1556,16 @@
 </sense>
 <note type="remarque">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Se réduire au zéro</quote>
 <bibl>
 <author>COTGRAVE</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Génev. zère ; espagn. cero ; ital. zero. L'ital. zero est une altération de zefiro, déjà constatée en italien dans l'ouvrage de Philippe Calender sur l'arithmétique, Florence, 1491. Zefiro est l'arabe cifron, nom du zéro, signifiant vide et zéro. Zéro et chiffre sont le même mot ; il est curieux de constater ainsi deux formes se différenciant pour signifier des choses très différentes.</etym>
 </entry>
@@ -1882,7 +1885,7 @@
 <dictScrap>Adj. Martre <oVar>zibeline</oVar>.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XIe s.</label>
 <cit>
 <quote>Afublez est d'un mantel sabelin</quote>
@@ -1890,8 +1893,8 @@
 <biblScope>Ch. de Rol. XXXIV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XIIIe s.</label>
 <cit>
 <quote>Jà por lor mantiaus sabelins, Ne por sorcos, ne por coteles</quote>
@@ -1906,8 +1909,8 @@
 <biblScope>p. 751</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVIe s.</label>
 <cit>
 <quote>Et luy aporterent un grand cercle d'or auquel pendoient deux douzaines et demie de martres subelines</quote>
@@ -1916,7 +1919,7 @@
 <biblScope>X, 15</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Provenç. sembelin, sebelin, fourrure ; espagn. et portug. cebellina, zebellina ; ital. zibellino ; du bas-lat. sabellum, martre ; le mot paraît être slave ; esclavon, zable, martre zibeline.</etym>
 </entry>
@@ -2491,7 +2494,7 @@
 <dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la <oVar>zizanie</oVar> aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la <oVar>zizanie</oVar> palustre, dite folle avoine et riz du Canada.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVe s.</label>
 <cit>
 <quote>Fut semé certain langage par gens pleins de zizanie, et disoit on qu'on vouloit empoisonner le roy</quote>
@@ -2500,8 +2503,8 @@
 <biblScope>Hist. de Charles VII, p. 316, dans LACURNE</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVIe s.</label>
 <cit>
 <quote>Le diable seme des zizanies pour corrompre la semence de la vie eternelle</quote>
@@ -2510,7 +2513,7 @@
 <biblScope>Instit. 112</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Provenç. zizania ; espagn. zizaña ; ital. zizzania ; du lat. zizania, qui provient du grec, lequel à son tour tient au syriaque ziuano ( a long).</etym>
 </entry>
@@ -2666,7 +2669,7 @@
 <dictScrap><oVar>Zodiaque</oVar> des comètes, partie du ciel où la plupart des comètes ont leur mouvement.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XIVe s.</label>
 <cit>
 <quote>Le zodiaque est comme une large rengée, noblement parée des ymages des signes....</quote>
@@ -2682,7 +2685,7 @@
 <biblScope>Émaux, p. 548</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Provenç. zodiac ; espagn. et ital. zodiaco, du lat. zodiacus, qui vient du grec signifiant, petit animal, dimin. du grec (voy. zoo...,) ainsi dit parce que plusieurs représentations d'animaux figurent dans les constellations zodiacales.</etym>
 </entry>
@@ -2934,7 +2937,7 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
+
 <label>XIVe s.</label>
 <cit>
 <quote>L'espere [la sphère] du ciel est divisée en v parties par les IV mendres [moindres] cercles, et ces parties sont appelées zones</quote>
@@ -2943,8 +2946,8 @@
 <biblScope>Thèse de MEUNIER.</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVe s.</label>
 <cit>
 <quote>Je leur donrray, n'en doubtez mie, Pour douce odeur grant punesie ; Pour la belle zone [ceinture] averont Or funicle et s'en couverront</quote>
@@ -2953,7 +2956,7 @@
 <biblScope>Poésies mss. f° 532</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Prov. esp. et ital. zona ; du lat. zona, qui est le grec ceinture, du grec ceindre, sanscr. Junami (a long), joindre, lier, de la racine ju.</etym>
 </entry>
@@ -2994,7 +2997,7 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Zon dessus l'œil, zon sur le groin, Zon sur le dos du Sagouyn</quote>
@@ -3003,7 +3006,7 @@
 <biblScope>II, 201</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 </entry>
 <entry type="prefixe" xml:id="zoo-">
@@ -3550,7 +3553,7 @@
 <dictScrap>Cuvier a fait à tort ce mot synonyme d'animaux rayonnés.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Entre les plantes et les animaux sont les zoophytes, c'est à dire, plantes-bestes, qui ont sentiment et mouvement</quote>
@@ -3559,7 +3562,7 @@
 <biblScope>Animaux, 21</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Du grec animal, et du grec plante.</etym>
 </entry>
@@ -3882,7 +3885,7 @@
 <pron>zot'</pron>
 </form>
 <sense>
-<dictScrap>Au diable <oVar>zot</oVar>, voy. <ref target="diablezot">DIABLE<oVar>ZOT</oVar></ref>.</dictScrap>
+<dictScrap>Au diable <oVar>zot</oVar>, voy. <ref target="diablezot">DIABLEZOT</ref>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zouave">
@@ -4004,7 +4007,7 @@
 <dictScrap>Membre d'une secte fondée au XVIe siècle par Zwingle, curé de Zurich.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Zwingli emporta le tiltre de cela [doctrine sur l'eucharistie] ; et furent nommez les sectateurs de cela les zwingliens et sacramentaires, de la bende duquel nous sommes</quote>
@@ -4013,7 +4016,7 @@
 <biblScope>Advis et devis, p. 147</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 </entry>
 <entry xml:id="zygène">
@@ -4063,7 +4066,7 @@
 <dictScrap>Terme d'anatomie. Os de la pommette, dit aussi os jugal, os malaire.</dictScrap>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Le zygoma, qui a esté fait de nature pour la conservation du muscle temporal</quote>
@@ -4072,7 +4075,7 @@
 <biblScope>IV, 1</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Du grec jonction, du grec joindre, qui vient du grec joug (voy. <ref target="joug">JOUG</ref>) ; cet os est ainsi dit parce qu'il joint la face aux parties latérales du crâne.</etym>
 </entry>

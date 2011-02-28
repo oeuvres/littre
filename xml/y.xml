@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_y">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_y">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -82,7 +85,7 @@
 <p>4. Voici une règle empirique, qui peut être d'une grande utilité pour savoir quand il faut un y ou un i dans certains mots tirés du grec. Une foule de gens écrivent Hyppolite, Hyppocrate. Toutes les fois qu'il y a deux p à hip, il ne faut pas d'y grec ; au contraire, il en faut un quand il n'y a qu'un p : Hippolyte, Hippocrate, Hippias, et hypothèse, hyperbole, hypothèque. </p>
 </note>
 <note type="historique">
-<p>
+
 <label>XIVe s.</label>
 <cit>
 <quote>Un petit fermail d'or, a un Y gregeois ou milieu, et autour a x perles</quote>
@@ -91,7 +94,7 @@
 <biblScope>Émaux, p. 546</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Lat. y, répondant à l'upsilon grec.</etym>
 </entry>
@@ -704,6 +707,16 @@
 </sense>
 <sense n="10">
 <dictScrap>Dans le langage des classes, on dit qu'un vers n'<oVar>y</oVar> est pas, pour exprimer qu'il pèche contre les règles de la versification.</dictScrap>
+</sense><sense n="12">
+<dictScrap>Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.</dictScrap>
+<cit>
+<quote>Où il n'y a rien, le roi y perd ses droits, et la nature aussi</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Lett. en vers et en prose, 162</biblScope>
+</bibl>
+</cit>
+<dictScrap>Aujourd'hui ce pléonasme n'est plus admis.</dictScrap>
 </sense>
 <note type="remarque">
 <p>1. Y se place avant le verbe : il y va ; y est-il? à l'impératif il se place après : allons-y, excepté quand la phrase est négative : n'y allons pas. Cependant, même dans une phrase affirmative, s'il y a deux impératifs qui se suivent, un second y peut être mis avant le verbe.  <cit><quote>Allez présentement en la grande ville de Ninive, et y prêchez</quote><bibl><author>SACI</author><biblScope>Bible, Jonas, I, 2</biblScope></bibl></cit> </p>
@@ -718,7 +731,7 @@
 <p>11. Y ne doit pas faire hiatus en poésie.  <cit><quote>Il y a de l'adresse à bien cueillir des roses</quote><bibl><author>THÉOPHILE</author><biblScope>dans MALHERBE, édit. MÉNAGE, p. 274</biblScope></bibl></cit> <cit><quote>Tant y a qu'il n'est rien que votre chien ne prenne</quote><bibl><author>RAC.</author><biblScope>Plaid. III, 3</biblScope></bibl></cit> </p>
 </note>
 <note type="historique">
-<p>
+
 <label>IXe s.</label>
 <cit>
 <quote>In nulla aiudha contra Lodhuwig non li vi er [je ne lui y serai]</quote>
@@ -726,8 +739,8 @@
 <biblScope>Serment</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XIe s.</label>
 <cit>
 <quote>Si alcuns crieve l'oil à l'altre, si amendera LXX solz ; e si la purnele i est remese [restée], si ne rendra lui que moité [moitié]</quote>
@@ -747,8 +760,8 @@
 <biblScope>ib. LXXIV</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XIIe s.</label>
 <cit>
 <quote>Il prist un livre, si i lit sans faillance</quote>
@@ -774,8 +787,8 @@
 <biblScope>Sax. v</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XIIIe s.</label>
 <cit>
 <quote>.... Se [je] vouloie conter Toutes leur aventures, [je] n'i pourroie assener</quote>
@@ -807,8 +820,8 @@
 <biblScope>Ass. de Jérus. I, 95</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XIVe s.</label>
 <cit>
 <quote>Li contes de Monfort y mist et ordena Ung chevalier engloiz qui grant renon ot jà ; Cappitaine le fist de ce chastel y-là</quote>
@@ -816,8 +829,8 @@
 <biblScope>Guesclin. 835</biblScope>
 </bibl>
 </cit>
-</p>
-<p>
+
+
 <label>XVIe s.</label>
 <cit>
 <quote>Reculant toujours à mettre la main à l'œuvre, pour autant qu'ilz avoient faulte de choses y necessaires</quote>
@@ -882,22 +895,12 @@
 <biblScope>I, 296</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Provenç. i, hi, y ; ital. vi, ivi ; du lat. ibi, là, qui est un ancien datif (comparez tibi) du thème pronominal i, conservé dans is, ea, id.</etym>
-<re ana="supplement">
-<form> 2. Y. - REM. Ajoutez : </form>
-<sense n="12">
-<dictScrap>Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.</dictScrap>
-<cit>
-<quote>Où il n'y a rien, le roi y perd ses droits, et la nature aussi</quote>
-<bibl>
-<author>VOLT.</author>
-<biblScope>Lett. en vers et en prose, 162</biblScope>
-</bibl>
-</cit>
-<dictScrap>Aujourd'hui ce pléonasme n'est plus admis.</dictScrap>
-</sense>
+<re ana="supplement" orig=" 2. Y. - REM. Ajoutez : ">
+
+
 </re>
 </entry>
 <entry xml:id="yac">
@@ -1158,7 +1161,7 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>L'yeuse ressemble plus au roure qu'au chesne.... il est aussi appelé en France chesne-vert.... Le plus grand desquels yeuses tiendra rang en la forest</quote>
@@ -1167,7 +1170,7 @@
 <biblScope>795</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Ital. leccio ; du lat. iliceus, qui tient de l'yeuse, dérivé de ilex, ilicem, yeuse (lequel a donné directement l'italien elce qui existe à côté de leccio).</etym>
 </entry>

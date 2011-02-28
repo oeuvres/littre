@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_u">
 <teiHeader>
 <fileDesc>
@@ -1283,7 +1283,7 @@
 <quote>Il se dit principalement des planètes dont l'orbite n'est pas comprise dans la largeur du zodiaque, qui est d'environ huit degrés de chaque côté de l'écliptique, largeur calculée pour contenir les orbites de Mercure, Vénus, Mars, Jupiter et Saturne, les seules planètes connues des anciens avec la terre dont l'orbite est l'écliptique</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
 <q>Cérès, Pallas, Junon, Vesta, etc. sont des planètes ultra-zodiacales, des astres ultra-zodiacaux, c'est-à-dire s'écartant à plus de huit degrés à droite et à gauche de l'écliptique.</q>
@@ -4632,6 +4632,14 @@
 </sense>
 <sense n="12">
 <dictScrap>Terme de manége. Ensemble d'un cheval.</dictScrap>
+</sense><sense n="13">
+<dictScrap>Nom donné à des articles résultant de matières différentes unies dans la fabrication, Enquête, Traité de comm. avec l'Angl. t. III, p. 445.</dictScrap>
+<cit>
+<quote>Bas et chaussettes union (fil laine et fil coton retordus en un fil),.... jupons, ceintures et vêtements de dessous union, à côtes et unis</quote>
+<bibl>
+<biblScope>ib. p. 347</biblScope>
+</bibl>
+</cit>
 </sense>
 <note type="historique">
 <label>XIIIe s.</label>
@@ -4682,17 +4690,9 @@
 </cit>
 </note>
 <etym>Provenc. unio ; espagn. union ; ital. unione ; du lat. unionem (voy. <ref target="unir">UNIR</ref>).</etym>
-<re ana="supplement">
-<form> UNION. Ajoutez : </form>
-<sense n="13">
-<dictScrap>Nom donné à des articles résultant de matières différentes unies dans la fabrication, Enquête, Traité de comm. avec l'Angl. t. III, p. 445.</dictScrap>
-<cit>
-<quote>Bas et chaussettes union (fil laine et fil coton retordus en un fil),.... jupons, ceintures et vêtements de dessous union, à côtes et unis</quote>
-<bibl>
-<biblScope>ib. p. 347</biblScope>
-</bibl>
-</cit>
-</sense>
+<re ana="supplement" orig=" UNION. Ajoutez : ">
+
+
 </re>
 </entry>
 <entry xml:id="unionisme">
@@ -7278,7 +7278,7 @@
 <quote>Genre de la famille des anonacées ; l'on y distingue : 1° l'unone éthiopique ou unone d'une seule couleur, dite poivre de Guinée, poivre des Maures, poivre d'Éthiopie ou de singe, et à tort maniguette ; 2° l'unone odorante, dite bois de lance bâtard, et appelée bois de banane à Maurice et à Bourbon ; c'est l'uvaire odorante de Lamarck ; on la nomme à Sumatra canang et cananga, ainsi que d'autres espèces du genre unone ; 3° l'unone aromatique, qui est le canang aromatique de certains auteurs et l'uvaire aromatique de Lamark ; ses graines sont parfois appelées poivre d'Éthiopie et maniguette, quoique ce dernier mot doive être réservé pour désigner les graines de l'amome graine de paradis ; cette unone est dite aussi bois d'écorce</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
 </sense>
@@ -8763,8 +8763,8 @@
 <dictScrap><oVar>Urne</oVar> épineuse, coquille du genre volute.</dictScrap>
 </sense>
 <etym>Lat. urna, urne.</etym>
-<re ana="supplement">
-<form> URNE. </form>
+<re ana="supplement" orig=" URNE. ">
+
 <re>Ajoutez : 10° Vider les urnes, s'est dit, à un certain moment du langage révolutionnaire, pour vider les verres.  <cit><quote>Après que chaque partie du programme [d'une fête en l'honneur de Marat] est accomplie, il est prescrit, dans le style étrange de l'époque, de vider les urnes, ce qui veut dire de vider les verres</quote><bibl><author>H. BAUDRILLART</author><biblScope>Rev. des Deux-Mondes, 1er juillet 1872, p. 126</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -9284,7 +9284,7 @@
 <quote>Toute montre devient mauvaise par cela seul que la matière est usable ; et cette même raison doit faire abandonner la recherche du mouvement perpétuel</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
 </sense>
@@ -11430,11 +11430,11 @@
 <etym>Génev. utensile ; provenç. ustencilha ; du lat. utensilia, choses dont on peut se servir, de uti. La forme régulière serait utensille, au féminin, représentant le pluriel neutre, avec l'l mouillée. Quant à l's, elle est absolument barbare ; le XVIe siècle ne l'avait pas ; des parlers provinciaux ne l'ont pas non plus.</etym>
 <re ana="supplement">
 <re>USTENSILE. Ajoutez : 4° Au plur. <cit><quote>Dans l'exploitation du bois de flottage, indemnité de 30 francs que l'on donne au premier compagnon, quand le train est formé et prêt à partir</quote><bibl><biblScope>Mémoires de la Société centrale d'agriculture, 1873, p. 265</biblScope></bibl></cit> </re>
-<note type="remarque">Ajoutez : 2. La forme utensile se trouve encore au commencement du XVIIIe siècle.  <cit><quote>La vaisselle et les autres utensiles...</quote><bibl><author>GARCILASSO DE LA VEGA</author><biblScope>Hist. des Yncas, t. I, p. 345 (traduction de Baudoin, éd. de 1704).</biblScope></bibl></cit> </note>
+<note type="remarque" ana="supplement">Ajoutez : 2. La forme utensile se trouve encore au commencement du XVIIIe siècle.  <cit><quote>La vaisselle et les autres utensiles...</quote><bibl><author>GARCILASSO DE LA VEGA</author><biblScope>Hist. des Yncas, t. I, p. 345 (traduction de Baudoin, éd. de 1704).</biblScope></bibl></cit> </note>
 <note type="historique">
 <dictScrap>Ajoutez : </dictScrap>
 <label>XVe s.</label>
-<cit>
+<cit ana="supplement">
 <quote>Et lui faictes rendre compte des utensilles de la maison et autres choses par lui receues son temps durant (1430)</quote>
 <bibl>
 <author>MARCHEGAY</author>
@@ -11580,7 +11580,7 @@
 <quote>Le douaire coutumier était un droit usufructuaire, attendu qu'il consistait dans l'usufruit de la moitié des biens du mari</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
 </sense>

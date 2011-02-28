@@ -1,4 +1,7 @@
-<?xml version="1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_x">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_x">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -422,7 +425,7 @@
 <quote>Ce sont les os frontaux, et non la mâchoire, qui se trouvent prolongés en forme de lame tranchante des deux côtés et terminée en pointe aiguë ; cette sorte d'épée sert d'arme offensive</quote>
 <bibl>
 <author>LEGOARANT</author>
-<biblScope></biblScope>
+<biblScope/>
 </bibl>
 </cit>
 <sense>
@@ -469,7 +472,7 @@
 </cit>
 </sense>
 <note type="historique">
-<p>
+
 <label>XVIe s.</label>
 <cit>
 <quote>Le cartilage xiphoïde, dit la fourchette</quote>
@@ -478,7 +481,7 @@
 <biblScope>I, 2</biblScope>
 </bibl>
 </cit>
-</p>
+
 </note>
 <etym>Du grec, qui ressemble à une épée, de, épée, et, forme ; ainsi dit à cause de sa forme en pointe.</etym>
 </entry>
