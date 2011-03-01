@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ne marche à travers l'http 
+<!-- ne marche à travers l'http -->
 <?xml-stylesheet type="text/xsl" href="http://subversion.cru.fr/diple/trunk/modules/xrem/rng_html.xsl"?>
--->
 <grammar xmlns="http://relaxng.org/ns/structure/1.0"
 	ns="http://www.tei-c.org/ns/1.0"
 	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
