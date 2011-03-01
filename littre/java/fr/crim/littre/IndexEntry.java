@@ -1,4 +1,4 @@
-package net.sf.javacrim.littre;
+package fr.crim.littre;
 
 import java.io.File;
 import java.io.FileInputStream;

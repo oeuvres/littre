@@ -49,7 +49,7 @@
 <dictScrap>Sur les anciennes médailles des empereurs, il signifie Constantin, et, dans les inscriptions du moyen âge, Karolus [Charles].</dictScrap>
 </sense>
 </sense>
-<note type="historique">
+<note type="H">
 <label>XIIIe s.</label>
 <cit>
 <quote>Parler vous doit on bien de K ; Iceste letre, pour Dieu, qu'a, Qui crie adès, quant on la nomme ?</quote>
@@ -324,7 +324,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="remarque">L'Académie écrit alcali par un c, et kali par un k ; il y a discordance. </note>
+<note type="R">L'Académie écrit alcali par un c, et kali par un k ; il y a discordance. </note>
 <etym>Arabe, kaly, la soude.</etym>
 </entry>
 <entry xml:id="kali.2">
@@ -463,7 +463,7 @@
 <dictScrap>En Perse, le titre de <oVar>kan</oVar> est porté aujourd'hui par les gouverneurs de provinces.</dictScrap>
 </sense>
 </sense>
-<note type="historique">
+<note type="H">
 <label>XIIIe s.</label>
 <cit>
 <quote>Il sont ydres [idolâtres], et font ardoir les corps mors, et sont au grant kaan</quote>
@@ -1260,7 +1260,7 @@
 <sense n="3">
 <dictScrap>Liqueur de table nommée aussi al<oVar>kermès</oVar>.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 <label>XVIe s.</label>
 <cit>
 <quote>Par ce mot, ilex, est aussi entendu l'arbrisseau portant la graine d'escarlate, ou vermillon ; les Arabes en appellent la graine kermes, et le vulgaire, cramoisie la couleur qu'elle fait, comme voulant dire kermesie</quote>
@@ -1523,7 +1523,7 @@
 <re ana="supplement" orig="KILOGRAMMÈTRE. ">
 
 <dictScrap>Ajoutez : </dictScrap>
-<note type="remarque" ana="supplement">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
+<note type="R" ana="supplement">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
 </re>
 </entry>
 <entry xml:id="kilolitre">
@@ -1704,7 +1704,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="remarque">Il faut écrire King's-Charles, et non King-Charles.  <cit><quote>Cette espèce est en effet non le roi Charles, mais le chien du roi Charles ; il y a donc faute dans le texte suivant : On peut encore, lorsque le renard s'est terré, faire usage de chiens de très petite dimension, de bassets à jambes torses et à poils très rudes, de petits doguins griffons, de terriers d'Écosse, ou même de King-Charles</quote><bibl><author>J. LA VALLÉE</author><biblScope>la Chasse à courre en France, 1859, t. IV, p. 153, 2e éd.</biblScope></bibl></cit> </note>
+<note type="R">Il faut écrire King's-Charles, et non King-Charles.  <cit><quote>Cette espèce est en effet non le roi Charles, mais le chien du roi Charles ; il y a donc faute dans le texte suivant : On peut encore, lorsque le renard s'est terré, faire usage de chiens de très petite dimension, de bassets à jambes torses et à poils très rudes, de petits doguins griffons, de terriers d'Écosse, ou même de King-Charles</quote><bibl><author>J. LA VALLÉE</author><biblScope>la Chasse à courre en France, 1859, t. IV, p. 153, 2e éd.</biblScope></bibl></cit> </note>
 </entry>
 <entry xml:id="kinine">
 <form>
@@ -2374,7 +2374,7 @@
 <sense n="3">
 <dictScrap><oVar>Kyrielle</oVar> ou rime <oVar>kyrielle</oVar> est aussi une ancienne pièce de poésie française formée de vers octosyllabes à rimes plates, divisée en petits couplets égaux et terminés par le même mot qui servait de refrain.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 <label>XIIIe s.</label>
 <cit>
 <quote>Il n'est sequence n'alleluie, Bele note ne kyriele, Tant soit plaisans, ne tant soit bele, Que trop n'anuit, s'ele trop dure</quote>
@@ -2446,7 +2446,7 @@
 <sense>
 <dictScrap>Terme de pathologie. Membrane en forme de vessie sans ouverture, qui renferme des humeurs ou autres matières contre nature, et qui se développe accidentellement par dilatation des culs-de-sac ou des conduits excréteurs des diverses espèces de glandes dont l'orifice s'oblitère.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 <label>XVIe s.</label>
 <cit>
 <quote>Souvent l'humeur se trouve enfermé en un kyst et membrane qui luy est propre</quote>

@@ -113,7 +113,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -232,7 +232,7 @@
 <sense>
 <dictScrap>Personnage bouffon dans les comédies italiennes. Les <oVar>zani</oVar> sont proprement les bouffons des opérateurs et des troupes de danseurs de corde, qui attirent des spectateurs par leurs plaisanteries et leurs grimaces.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -419,7 +419,7 @@
 <sense>
 <dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la <oVar>zédoaire</oVar> ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la <oVar>zédoaire</oVar> longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -554,7 +554,7 @@
 <dictScrap><oVar>Zélatrice</oVar>, nom, parmi les religieuses ursulines, d'un office qui répond à celui de procureur dans les communautés d'hommes.</dictScrap>
 </sense>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVe s.</label>
 <cit>
@@ -765,7 +765,7 @@
 </cit>
 </sense>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -888,7 +888,7 @@
 </cit>
 </sense>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -1109,7 +1109,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XIVe s.</label>
 <cit>
@@ -1212,7 +1212,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="remarque">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
+<note type="R">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
 <etym>Du grec bouillir, et du grec pierre.</etym>
 </entry>
 <entry xml:id="zéolithique">
@@ -1362,11 +1362,11 @@
 <dictScrap>On dit de même casimir <oVar>zéphire</oVar>, casimir fait avec la laine <oVar>zéphire</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="remarque">
+<note type="R">
 <p>1. L'Académie distingue zéphire et zéphyr, disant que zéphire est le vent d'occident, et zéphyr tout vent doux et agréable. Cette distinction est illusoire et ne peut être admise ; les auteurs confondent perpétuellement zéphire et zéphyr, et il ne faut y voir qu'une variété d'orthographe. Il en est de même de la remarque de Vaugelas : " On dit en poésie zéphyr et zéphyre, au singulier, mais plus communément zéphyre. Au pluriel on dit au contraire zéphyrs plutôt que zéphyres. " </p>
 <p>2. On ne voit pas pourquoi l'Académie écrit zéphire par un i, et zéphyr par un y. Le mieux serait de mettre aux deux l'y grec étymologique, gardant les deux formes sans e et avec e pour l'usage de la versification. </p>
 </note>
-<note type="historique">
+<note type="H">
 
 <label>XVe s.</label>
 <cit>
@@ -1554,8 +1554,8 @@
 <sense n="4">
 <dictScrap>Terme de musique. Signe qui, mis au-dessus d'une note, dans une partie d'instrument à cordes et à manche, indique que cette note doit être touchée à vide.</dictScrap>
 </sense>
-<note type="remarque">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
-<note type="historique">
+<note type="R">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -1884,7 +1884,7 @@
 <sense n="3">
 <dictScrap>Adj. Martre <oVar>zibeline</oVar>.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XIe s.</label>
 <cit>
@@ -2493,7 +2493,7 @@
 <sense n="3">
 <dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la <oVar>zizanie</oVar> aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la <oVar>zizanie</oVar> palustre, dite folle avoine et riz du Canada.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVe s.</label>
 <cit>
@@ -2668,7 +2668,7 @@
 <sense n="3">
 <dictScrap><oVar>Zodiaque</oVar> des comètes, partie du ciel où la plupart des comètes ont leur mouvement.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XIVe s.</label>
 <cit>
@@ -2740,7 +2740,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="remarque"><cit><quote>On prétend que ce fut l'envie qui l'engagea à écrire contre Homère, et que c'est ce qui a fait que tous les envieux ont depuis été appelés du nom de Zoïles</quote><bibl><author>BOILEAU</author><biblScope>Réfl. crit. sur Longin, Réfl. V</biblScope></bibl></cit> M. A. Pierron, Iliade, t. II, p. 582, Append VI, rectifie ainsi le dire de Boileau : Le nom de Zoïlus en latin est synonyme d'envieux (Martial, Epigr. IV, 77). Mais le Zoïle grec n'était point un envieux, c'était un mauvais critique. Ce sont les Latins qui ont fait l'antonomase de Zoïle mauvais critique en critique envieux. La seule signification légitime de ce mot, comme nom commun, est mauvais critique. </note>
+<note type="R"><cit><quote>On prétend que ce fut l'envie qui l'engagea à écrire contre Homère, et que c'est ce qui a fait que tous les envieux ont depuis été appelés du nom de Zoïles</quote><bibl><author>BOILEAU</author><biblScope>Réfl. crit. sur Longin, Réfl. V</biblScope></bibl></cit> M. A. Pierron, Iliade, t. II, p. 582, Append VI, rectifie ainsi le dire de Boileau : Le nom de Zoïlus en latin est synonyme d'envieux (Martial, Epigr. IV, 77). Mais le Zoïle grec n'était point un envieux, c'était un mauvais critique. Ce sont les Latins qui ont fait l'antonomase de Zoïle mauvais critique en critique envieux. La seule signification légitime de ce mot, comme nom commun, est mauvais critique. </note>
 </entry>
 <entry xml:id="zoïodine">
 <form>
@@ -2936,7 +2936,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XIVe s.</label>
 <cit>
@@ -2996,7 +2996,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -3552,7 +3552,7 @@
 <sense n="3">
 <dictScrap>Cuvier a fait à tort ce mot synonyme d'animaux rayonnés.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -4006,7 +4006,7 @@
 <sense>
 <dictScrap>Membre d'une secte fondée au XVIe siècle par Zwingle, curé de Zurich.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
@@ -4065,7 +4065,7 @@
 <sense>
 <dictScrap>Terme d'anatomie. Os de la pommette, dit aussi os jugal, os malaire.</dictScrap>
 </sense>
-<note type="historique">
+<note type="H">
 
 <label>XVIe s.</label>
 <cit>
