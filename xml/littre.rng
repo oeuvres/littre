@@ -31,7 +31,10 @@
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Corps du document</b></a:documentation>
 			<element name="body">
 				<oneOrMore>
-					<ref name="entry"/>
+				  <choice>
+  					<ref name="entry"/>
+				    <ref name="entryFree"/>
+				  </choice>
 				</oneOrMore>
 			</element>
 		</element>
@@ -46,11 +49,51 @@
 					<ul>
 						<li>une forme simple, auquel cas il s'agit du lemme de ce mot, éventuellement suivi d'un point et d'un indice numérique afin de différencier deux entrées portant sur le même lemme<br/><i>exemple : @xml:id="abrégé.1" et xml:id="abrégé.2" ;</i></li>
 						<li>une forme composée – type locution – transcrite telle quelle<br/><i>exemple : @xml:id="te_deum" et @xml:id="vaque_à_tout" ;</i></li>
-						<li>un préfixe, auquel cas sa forme sera suivie d'un tiret court, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="andr-" ;</i></li>
-						<li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="acé" ;</i></li>
 					</ul>
 				</p>
 			</a:documentation>
+			<attribute name="xml:id"/>
+		  <ref name="ana"/>
+			<ref name="form"/>
+		  <!-- TODO. entrées particulières codant participes passés, pluriels, etc. -->
+			<optional>
+				<ref name="plan"/>
+			</optional>
+			<oneOrMore>
+				<ref name="sense"/>
+			</oneOrMore>
+			<zeroOrMore>
+				<ref name="proverbe"/>
+			</zeroOrMore>
+ 		  <optional>
+		    <ref name="remarque"/>
+		  </optional>
+ 		  <zeroOrMore>
+		    <ref name="nuance"/>
+		  </zeroOrMore>
+		  <optional>
+		    <ref name="histoire"/>
+		  </optional>
+		  <zeroOrMore>
+		    <!-- Il y a parfois un complément d'étymologie en supplément -->
+		    <ref name="etym"/>
+		  </zeroOrMore>
+		  <optional>
+  			<ref name="supplement"/>
+		  </optional>
+		</element>
+	</define>
+
+  <!-- Mot dérivé -->
+  <define name="entryFree">
+    <element name="entryFree">
+      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Renvoi, préfixe, suffixe, forme fléchie…</b>
+<p>Cet élément permet de distinguer les entrées courtes.</p>
+<ul>
+  <li>un préfixe, auquel cas sa forme sera suivie d'un tiret court, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="andr-" ;</i></li>
+	<li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="acé" ;</i></li>
+</ul>      
+      </a:documentation>
 			<attribute name="xml:id"/>
 			<optional>
 				<attribute name="type">
@@ -60,89 +103,13 @@
 					</choice>
 				</attribute>
 			</optional>
-			<choice>
-				<group> <!-- entrées particulières codant participes passés, pluriels, etc. -->
-					<ref name="form"/>
-					<zeroOrMore>
-						<ref name="cit"/>
-					</zeroOrMore>
-					<optional>
-						<choice>
-							<ref name="remarque"/>
-							<ref name="histoire"/>
-						</choice>
-					</optional>
-					<optional>
-						<ref name="re-supplement"/>
-					</optional>
-				</group>
-				<group>
-					<ref name="form"/>
-					<optional>
-						<ref name="note-plan"/>
-					</optional>
-					<optional>
-						<ref name="remarque"/>
-					</optional>
-					<oneOrMore>
-						<ref name="sense"/>
-					</oneOrMore>
-					<zeroOrMore>
-						<ref name="proverbe"/>
-					</zeroOrMore>
-					<optional>
-						<ref name="etym"/>
-					</optional>
-					<optional>
-						<ref name="re-supplement"/>
-					</optional>
-					<zeroOrMore>
-						<ref name="remarque"/>
-					</zeroOrMore>
-					<zeroOrMore>
-						<ref name="nuance"/>
-					</zeroOrMore>
-					<optional>
-						<ref name="histoire"/>
-					</optional>
-					<optional>
-						<choice>
-						<ref name="nuance"/>
-						<ref name="proverbe"/>
-					</choice>
-					</optional>
-					<zeroOrMore>
-						<ref name="etym"/>
-					</zeroOrMore>
-					<optional>
-						<ref name="nuance"/>
-					</optional>
-					<optional>
-						<ref name="histoire"/>
-					</optional>
-					<optional>
-						<ref name="remarque"/>
-					</optional>
-					<optional>
-						<ref name="histoire"/>
-					</optional>
-					<optional>
-						<ref name="etym"/>
-					</optional>
-					<optional>
-						<ref name="re-supplement"/>
-					</optional>
-					<optional>
-						<choice>
-							<ref name="nuance"/> <!-- erreur xml : devrait être contenu dans supplément ?-->
-							<ref name="histoire"/> <!-- erreur xml idem ? -->
-							<ref name="remarque"/> <!-- erreur xml idem ? -->
-						</choice>
-					</optional>
-				</group>
-			</choice>
-		</element>
-	</define>
+		  <ref name="ana"/>
+			<ref name="form"/>
+      <optional>
+        <ref name="sense"/>
+      </optional>
+    </element>
+  </define>
 
 	<!-- description de <form> -->
 
@@ -254,7 +221,7 @@
 					<data type="positiveInteger"/>
 				</attribute>
 			</optional>
-		  <ref name="supplement"/>
+		  <ref name="ana"/>
 		  <choice>
         <ref name="dictScrap"/>
 	      <ref name="cit"/>	    
@@ -264,7 +231,6 @@
   		    <ref name="sense2"/>
   		    <ref name="cit"/>
           <ref name="dictScrap"/>
-  				<ref name="note"/>
 		    </choice>
 		  </zeroOrMore>
 		  <zeroOrMore>
@@ -281,6 +247,7 @@
 		<element name="sense">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-acception</b>
 			</a:documentation>
+		  <ref name="ana"/>
 			<zeroOrMore>
 				<choice>
 					<ref name="cit"/>
@@ -295,7 +262,7 @@
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Contenu mixte</b>
 				<p>« Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches : presque point d'alinéas ; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition ; les vers revêtent la forme et le caractère de la prose. »<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i>, 1865)</p>
 			</a:documentation>
-		  <ref name="supplement"/>
+		  <ref name="ana"/>
 		  <zeroOrMore>
 		    <choice>
   				<text/>
@@ -315,7 +282,7 @@
 	<define name="cit">
 		<element name="cit">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation</b></a:documentation>
-		  <ref name="supplement"/>
+		  <ref name="ana"/>
 			<element name="quote">
 			  <zeroOrMore>
 			    <choice>
@@ -368,9 +335,9 @@
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Remarque</b></a:documentation>
 			<attribute name="type">
-				<value>remarque</value>
+				<value>R</value>
 			</attribute>
-		  <ref name="supplement"/>
+		  <ref name="ana"/>
 			<choice>
 				<group>
 					<optional>
@@ -411,7 +378,7 @@
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Proverbe</b></a:documentation>
 			<attribute name="type">
-				<value>proverbe</value>
+				<value>P</value>
 			</attribute>
 		  <zeroOrMore>
 		    <choice>
@@ -434,7 +401,7 @@
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Nuance</b></a:documentation>
 			<attribute name="type">
-				<value>nuance</value>
+				<value>S</value>
 			</attribute>
 		  <zeroOrMore>
 		    <choice>
@@ -455,7 +422,7 @@
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Information historique</b></a:documentation>
 			<attribute name="type">
-				<value>historique</value>
+				<value>H</value>
 			</attribute>
 		  <oneOrMore>
     		<element name="label">
@@ -480,7 +447,7 @@
 	<define name="etym">
 		<element name="etym">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Étymologie</b></a:documentation>
-		  <ref name="supplement"/>
+		  <ref name="ana"/>
 			<zeroOrMore>
 				<choice>
     			<text/>
@@ -498,7 +465,7 @@
 		<h2>Supplément</h2>
 	</a:documentation>
 
-  <define name="supplement">
+  <define name="ana">
     <optional>
       <attribute name="ana">
   			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Issu du supplément</b>
@@ -508,7 +475,7 @@
     </optional>
   </define>
 
-	<define name="re-supplement"> <!-- TODO ajouter @ana="supplement" aux fils direct -->
+	<define name="supplement"> <!-- TODO ajouter @ana="supplement" aux fils direct -->
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-entrée en supplément</b>
 			</a:documentation>
@@ -519,25 +486,8 @@
 				<value>supplement</value>
 			</attribute>
 			<zeroOrMore>
-				<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
-			</zeroOrMore>
-			<optional>
-				<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
-			</optional>
-			<zeroOrMore>
 				<choice>
-					<ref name="cit"/>
-					<ref name="etym"/>
-					<ref name="remarque"/>
-					<ref name="dictScrap"/> <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
-					<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
-				</choice>
-			</zeroOrMore>
-			<zeroOrMore>
-				<ref name="sense"/>
-			</zeroOrMore>
-			<zeroOrMore>
-				<choice>
+  				<ref name="sense"/>
 					<ref name="cit"/>
 					<ref name="dictScrap"/> <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
 					<ref name="etym"/>
@@ -548,9 +498,6 @@
 					<ref name="proverbe"/>
 				</choice>
 			</zeroOrMore>
-			<zeroOrMore>
-				<ref name="sense"/>
-			</zeroOrMore>
 		</element>
 	</define>
 
@@ -560,7 +507,7 @@
 		<h2>Plan</h2>
 	</a:documentation>
 
-	<define name="note-plan">
+	<define name="plan">
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Plan des acceptions</b>
 			</a:documentation>

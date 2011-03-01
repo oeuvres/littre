@@ -30,12 +30,12 @@ blockquote {
   margin:0.8ex 0 0.8ex 6ex;
   line-height:110%;
 }
-div.historique {
+div.H {
   background:#eee;
   padding:2px 1px 2px 0.7ex;
   margin-top:1em;
 }
-div.historique blockquote {
+div.H blockquote {
   margin-left:5.6ex;
 }
 div.sense2 blockquote {
