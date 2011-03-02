@@ -1848,7 +1848,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Terme juridique. Vols <oVar>qualifiés</oVar>, vols accompagnés de qualifications aggravantes : effraction, escalade, etc. qui, pour les majeurs, déterminent la compétence de la cour d'assises.</dictScrap>
 <cit>
 <quote>Aveu qualifié, en matière civile, aveu qui n'est pas pur et simple, mais qui est restreint ; en matière criminelle, celui qui s'explique sur les circonstances du fait imputé au prévenu et avoué par lui</quote>
@@ -1858,10 +1859,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" QUALIFIÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="qualifier">
 <form>
@@ -2780,19 +2777,7 @@
 <biblScope>Trad. d'Hérod.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>La locution <oVar>quand</oVar> et a été employée sans et.</dictScrap>
-<cit>
-<quote>Que l'on change de point de vue, et la formule deviendra une loi, en vertu de laquelle deux quantités ou deux grandeurs sont liées entre elles et changent l'une quand l'autre</quote>
-<bibl>
-<author>COURNOT</author>
-<biblScope>Consid. sur la marche des idées, Paris, 1872, t. I, p. 265</biblScope>
-</bibl>
-</cit>
-</sense>
-<sense>
+<sense ana="supplement">
 <dictScrap>Cette locution n'est pas fautive ; même on pourrait l'interpréter autrement que par la suppression de et, en y voyant une ellipse : et changent, l'une [changeant] <oVar>quand</oVar> l'autre [change].</dictScrap>
 </sense>
 </sense>
@@ -3816,7 +3801,8 @@
 <biblScope>Précis d'hist. de France, ch. 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="9">
+</sense>
+<sense ana="supplement" n="9">
 <dictScrap>L'arbre aux <oVar>quarante</oVar> écus, le gingko biloba, Chine, BAILLON, Dict. de bot. p. 248 (ainsi nommé parce que le premier pied introduit en France fut payé cette somme).</dictScrap>
 </sense>
 <note type="H">
@@ -3836,10 +3822,6 @@
 </cit>
 </note>
 <etym>Provenç. quaranta ; espagn. cuaranta ; ital. quaranta ; du lat. quadraginta, de quatuor, quatre.</etym>
-<re ana="supplement" orig=" QUARANTE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="quarante-langues">
 <form>
@@ -3964,7 +3946,8 @@
 <biblScope>Manuel de bot. forestière, p. 307, Nancy, 1873</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Nom, dans la Seine-Inférieure, d'une mesure contenant vingt-deux bottes de foin, de cinq kilogrammes.</dictScrap>
 <cit>
 <quote>Ce fourrage ne dépassera pas le prix de cinq à six francs la quarre, chiffre minimum de bon marché...</quote>
@@ -3973,11 +3956,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" QUARRE. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="quarré">
 <form>
@@ -4517,7 +4495,8 @@
 <dictScrap>Petite monnaie qui valait quatre deniers.</dictScrap>
 </sense><sense n="26" ana="supplement">
 <dictScrap>Terme de pêche du hareng. <oVar>Quart</oVar> de poche, bouée fixée par la martingale ou bassouin au halin ou haussière, et servant à maintenir le filet.</dictScrap>
-</sense><sense n="27">
+</sense>
+<sense ana="supplement" n="27">
 <dictScrap>Dans les filatures, <oVar>quart</oVar> de pouce, instrument qui sert à évaluer le nombre de fils dans un espace donné.</dictScrap>
 <cit>
 <quote>Est-ce avec l'instrument dit quart de pouce que l'on peut découvrir le nombre des fils de la chaîne [du drap] ?</quote>
@@ -5309,6 +5288,9 @@
 </sense>
 <sense>
 <dictScrap>Le dresser des quatre faux <oVar>quartiers</oVar>, le plier des quatre coins, un peu en biaisant.</dictScrap>
+</sense>
+<sense ana="supplement">
+<dictScrap>Le cinquième <oVar>quartier</oVar>, nom donné à Paris aux issues des animaux de boucherie, Journ. offic. 19 janv. 1872, p. 410, 2e col. Pour le cinquième <oVar>quartier</oVar>, composé des suif, cuir et abats rouges, Extr du Journ. d'Agr. prat. dans Journ. offic. 17 fév. 1874, p. 1319, 2e col.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -6111,11 +6093,6 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Le cinquième <oVar>quartier</oVar>, nom donné à Paris aux issues des animaux de boucherie, Journ. offic. 19 janv. 1872, p. 410, 2e col. Pour le cinquième <oVar>quartier</oVar>, composé des suif, cuir et abats rouges, Extr du Journ. d'Agr. prat. dans Journ. offic. 17 fév. 1874, p. 1319, 2e col.</dictScrap>
-</sense>
 </sense>
 <note type="H">
 <label>XIIe s.</label>
@@ -6341,10 +6318,6 @@
 </cit>
 </note>
 <etym>Bourguig. catei ; provenç. quartier, cartier ; du lat.quartarius, qui est proprement une certaine mesure, dérivé de quartus (voy. <ref target="quart.1">QUART 1</ref>).</etym>
-<re ana="supplement" orig=" QUARTIER. ">
-
-
-</re>
 </entry>
 <entry xml:id="quartier-maître">
 <form>
@@ -7941,7 +7914,8 @@
 </sense>
 <sense n="6">
 <dictScrap>S. m. <oVar>Quatre-vingts</oVar>, sorte de chien, voy. <ref target="issois">ISSOIS</ref>.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>Nom d'un papillon de nuit, portant sur ses ailes supérieures le chiffre 80, noctua octogesima.</dictScrap>
 </sense>
 <note type="R">L'habitude de compter par vingt (six-vingts, sept-vingts) a fait traiter vingt comme cent, et mettre une s quand il est multiplié par un autre nombre. Cela se conçoit. Mais la suppression de l's dans certains cas n'est qu'une abréviation orthographique et n'a rien de syntaxique. </note>
@@ -7956,10 +7930,6 @@
 </cit>
 </note>
 <etym>Quatre, et vingt.</etym>
-<re ana="supplement" orig=" QUATRE-VINGTS. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="quatrième">
 <form>
@@ -9278,7 +9248,8 @@
 <dictScrap>En dépit qu'il en ait, voy. <ref target="dépit.1">DÉPIT 1</ref>, n° 2, et la remar<oVar>que</oVar> 2.</dictScrap>
 </sense><sense n="3" ana="supplement">
 <dictScrap>Arrivé qu'il fut.., cette tournure est condamnée par Vaugelas, bien, dit-il, qu'une infinité de gens s'en servent, et en parlant et en écrivant. Malgré l'arrêt de Vaugelas, cette tournure est bonne et mérite d'être conservée.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap><oVar>Que</oVar>, dans l'usage ancien, pouvait être rapporté, non, comme à présent où cela est nécessaire, au verbe de la proposition subordonnée, mais au verbe, quand il s'en trouvait, d'une incise précédant le verbe de la proposition subordonnée.</dictScrap>
 <cit>
 <quote>Je fais des vers qu'encor qu'Apollon les avoue, Dedans la cour peut-être on leur fera la moue</quote>
@@ -9287,7 +9258,7 @@
 <biblScope>Sat. XV</biblScope>
 </bibl>
 </cit>
-<note>Au mot QUI, n° 13, comparez un emploi tout semblable.</note>
+<dictScrap>Au mot QUI, n° 13, comparez un emploi tout semblable.</dictScrap>
 </sense>
 <note type="R">1. On dit : Faites ce que bon vous semblera, et non ce qui bon vous semblera. La construction est : Faites ce que bon vous semblera de faire.</note>
 <note type="R">2. Que signifiant combien est un adverbe de quantité qui ne peut modifier un mot précédé d'un des adverbes bien, très , fort, extrêmement.  <cit><quote>Ainsi il y aura faute dans les vers suivants : Hélas ! après les pleurs que j'ai versés pour vous, Que cet heureux instant me doit être bien doux !</quote><bibl><author>CRÉBILLON</author><biblScope>dans GIRAULT-DUVIVIER</biblScope></bibl></cit>
@@ -9718,11 +9689,6 @@
 </cit>
 </note>
 <etym>Lat. quod, neutre de qui (voy. <ref target="qui">QUI</ref>). On peut penser que que représente quem, quam, quae aussi bien que quod ; mais la forme qued nous ramène à quod. Dans quelques cas qui n'ont pas prévalu, on a dit que pour qui, comme l'italien che.</etym>
-<re ana="supplement" orig=" 1. QUE. - REM. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="que.2">
 <form>
@@ -10751,7 +10717,7 @@
 <biblScope>Élég. XVII</biblScope>
 </bibl>
 </cit>
-<note>Ne.... <oVar>que</oVar>, avec un comparatif ou avec trop, sert à affirmer plus fortement.</note>
+<dictScrap>Ne.... <oVar>que</oVar>, avec un comparatif ou avec trop, sert à affirmer plus fortement.</dictScrap>
 <cit>
 <quote>Il n'y a que trop longtemps que vous trompez le monde, et que vous abusez de la créance qu'on avait en vos impostures</quote>
 <bibl>
@@ -11072,8 +11038,8 @@
 <author>BÉRANGER</author>
 <biblScope>Le troisième mari</biblScope>
 </bibl>
-</cit>
 <note>C'est une sorte de menace : si je vous entends, je me fâcherai.</note>
+</cit>
 </sense>
 <note type="R">1. " à Rome, il n'y avait pas que les esclaves qui fissent le métier de gladiateurs. Construction barbare, bien que fort usitée aujourd'hui. On n'en trouverait pas un seul exemple dans toute la littérature française avant la fin du XVIIIe siècle. Le plus ancien que j'aie rencontré est de Maurice Dupin, petit-fils du maréchal de Saxe et père de Mme Sand. C'est dans une lettre qu'il écrit à sa mère en 1798. Je ne connais, avant cette date, aucun exemple de pareille faute dans les écrivains français. Grammaticalement, cette construction signifie précisément le contraire de ce qu'on veut lui faire dire quand on l'emploie aujourd'hui. Je n'en veux pour preuve que les vers de Corneille (voy. ci-dessus, n° 11 : Ils ne l'auront point vue obéir qu'à son prince, c'est-à-dire si ce n'est à son prince). Tel est le sens français et correct de cette tournure, quoique aujourd'hui un grand nombre de personnes et même d'écrivains l'emploient fréquemment dans le sens opposé. Pour eux, le vers de Corneille voudrait dire : ils ne l'auront point vue obéir seulement à son prince ; c'est justement tout le contraire. Voici d'où vient la confusion : ils s'imaginent que cette tournure il n'y a pas que, est l'opposé de il n'y a que ; tandis qu'au fond, soit grammaticalement, soit logiquement, ces deux tournures ne sont qu'une ; témoin le vers de Corneille. En effet, en ajoutant simplement le mot pas à la tournure il n'y a que, on croit ajouter une seconde négation à la première, ce qui serait nécessaire pour que l'une des tournures signifiât le contraire de l'autre ; mais, en réalité, on n'y ajoute rien du tout, si ce n'est le mot pas, mot purement explétif, qui, soit qu'on le mette, soit qu'on l'omette, fait virtuellement partie de la première négation, et ne saurait, à lui tout seul, en constituer une seconde (voy. ci-dessous un exemple de Marot où pas joue exactement le rôle que lui attribue M. Deschanel en cette locution). Ne tout seul, ou, à volonté, ne pas n'est qu'une seule et même négation. Corneille a bien dit ce qu'il voulait dire ; mais les auteurs d'à présent, se servant de la même tournure pour signifier le contraire, font un barbarisme de phrase et un non-sens, " DESCHANEL, Journ. des Débats, 23 août 1860. En place de la construction vicieuse : Il n'y a pas que lui qui ait fait cela, on dira : Il n'y a pas seulement lui qui a fait cela, ou mieux Il n'est pas le seul qui ait fait cela ; Je n'ai pas vu que lui, dites : Il n'est pas le seul que j'aie vu. C'est par une autre tournure heureuse et juste que la Fontaine a exprimé ce que nous rendons par cette locution barbare de ne.... pas.... que : <cit><quote>Moins d'ennemis attaquent leur pudeur [des femmes du monde] ; Les autres [les cloîtrées] n'ont pour un seul adversaire : Tentation, fille d'oisiveté !</quote><bibl><author>LA FONT.</author><biblScope>Mazet.</biblScope></bibl></cit></note> <note type="R">2. Je voudrais qu'il vienne ou qu'il vînt. L'imparfait exprime une contemporanéité : Quand j'avais de l'argent, je le dépensais. Semblablement, le conditionnel exprimant une contemporanéité avec la condition, on met à l'imparfait le verbe du membre où la condition est exprimée : Si j'avais de l'argent, je le dépenserais. Semblablement enfin on met l'imparfait du subjonctif dans le membre subordonné : Si j'avais de l'argent, je le dépenserais de manière qu'il profitât. Mais cela est une pure affaire d'oreille ; la syntaxe n'y est pour rien ; bien plus l'idée est non d'un passé, mais d'un futur ; et il serait peu usité, mais non fautif de dire : de manière qu'il profite. Cette liberté devient encore plus effective quand le conditionnel est pris absolument et sans condition exprimée ; alors il est non-seulement permis de mettre le présent du subjonctif, mais, la plupart du temps, cela vaut mieux que l'imparfait et est moins apprêté et moins puriste : Je voudrais qu'il vienne ou qu'il vînt ; il me serait agréable que cela se fasse ou se fît ; je désirerais que vous passiez chez moi, et non que vous passassiez, etc.</note>
 <note type="R" ana="supplement">3. L'usage ancien admettait en certains cas un que explétif, que l'usage moderne rejette.  <cit><quote>Il me fit.... L'honneur que d'approuver mon petit jugement</quote><bibl><author>RÉGNIER</author><biblScope>Sat. VIII</biblScope></bibl></cit> </note> 
@@ -11627,10 +11593,6 @@
 </cit>
 </note>
 <etym>Picard, eq, eque ; provenç. et espagn. que ; ital. che ; du lat. quod (voy. <ref target="que.1">QUE 1</ref>).</etym>
-<re ana="supplement" orig=" 2. QUE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="que.3">
 <form>
@@ -13530,7 +13492,8 @@
 </sense>
 <sense n="8">
 <dictScrap>Coquille univalve du genre fuseau.</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense ana="supplement" n="9">
 <dictScrap>Terme de fondeur. Nom donné à des bouchons qui ferment des tubes communiquant avec la cavité du moule et qu'on enlève, quand le métal fondu y arrive, pour permettre à l'air de s'en échapper.</dictScrap>
 </sense>
 <note type="H">
@@ -13601,10 +13564,6 @@
 </cit>
 </note>
 <etym>Génev. cologne ; wallon, kinoie ; namur. conoie ; Hainaut, quéneule ; Berry, quenoille, quouneille ; bourguig. quelogne, quenoille ; ital. conocchia ; bas-lat. conucula et colucula, diminutif de colus, quenouille. On voit que, parmi les formes, celles qui ont l'l sont les plus voisines du latin.</etym>
-<re ana="supplement" orig=" QUENOUILLE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="quenouillée">
 <form>
@@ -14653,9 +14612,9 @@
 </note>
 <etym>Wallon, quéri ; namur. quêre ; Berry et norm. kri ; provenç. querer, querir, querre ; espagn. querer ; ital. chiedere ; du lat. quaerere, quaes-itum, sanscr. çish, chercher.</etym>
 </entry>
-<entry xml:id="querre.1">
+<entryFree xml:id="querre.1">
 <form><orth>QUERRE</orth><pron>kê-r'</pron>, infinitif de querir (voy. <ref target="querir">QUERIR</ref>, à la remarque). </form>
-</entry>
+</entryFree>
 <entry xml:id="querre.2">
 <form>
 <orth>QUERRE</orth>
@@ -15282,7 +15241,8 @@
 <sense>
 <dictScrap>Il ne faut pas lui donner la <oVar>question</oVar> pour lui faire dire tout ce qu'il sait, il parle légèrement et dit ses secrets.</dictScrap>
 </sense>
-</sense><sense n="8">
+</sense>
+<sense ana="supplement" n="8">
 <dictScrap>Sorte de jouet composé d'anneaux ou de boules embrouillées, et destiné à occuper l'enfant pour les débrouiller ; ces jouets ont été ainsi dénommés en raison de <oVar>questions</oVar> politiques (par exemple, dans le temps, la <oVar>question</oVar> romaine), qui demeuraient sans solution. La <oVar>question</oVar> de la place que la logique occupe parmi les sciences m'a toujours rappelé ces jouets ingénieux qu'on fabriquait naguère sous le nom de <oVar>question</oVar> romaine, <oVar>question</oVar> d'Orient, etc.</dictScrap>
 <cit>
 <quote>; c'est un divertissement philosophique plutôt qu'un problème sérieux</quote>
@@ -15389,10 +15349,6 @@
 </cit>
 </note>
 <etym>Provenç. questio, question ; espagn. question ; ital. questione ; du lat. quaestionem, de quaestum, supin de quaerere (voy. <ref target="querir">QUERIR</ref>).</etym>
-<re ana="supplement" orig=" QUESTION. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="questionnaire.1">
 <form>
@@ -15411,7 +15367,8 @@
 <biblScope>Enquête sur le taux de l'intérêt de l'argent, Imprimerie impériale, 1865, t. I, p. 10</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Adj. Qui est en forme de questions.</dictScrap>
 <cit>
 <quote>Bien des gens souhaiteraient que cette philosophie questionnaire [la philosophie scolastique] qui règne depuis longtemps dans nos écoles en fût bannie entièrement</quote>
@@ -15421,10 +15378,6 @@
 </cit>
 </sense>
 <etym>Question.</etym>
-<re ana="supplement" orig=" 1. QUESTIONNAIRE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="questionnaire.2">
 <form>
@@ -16838,7 +16791,8 @@
 <biblScope>Journ. offic. 20 sept. 1873, p. 5976, 2e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="36">
+</sense>
+<sense ana="supplement" n="36">
 <dictScrap><oVar>Queue</oVar> fourchue vulgaire, ou grande <oVar>queue</oVar> fourchue, bombyx vinula ; la <oVar>queue</oVar> fourchue dite hermine, bombyx herminea ; la petite <oVar>queue</oVar> fourchue, bombyx furcula. Ces noms proviennent de deux appendices un peu divergents, situés au bas des ailes.</dictScrap>
 </sense>
 <re type="P">Mi-mai, queue d'hiver. </re>
@@ -17083,13 +17037,6 @@
 </cit>
 </note>
 <etym>Berry, coue ; bourg. quoue ; saintong. coue ; wallon, cowe ; namur. cawe ; prov. coa, coda, coza ; catal. coa, cua ; port. cauda ; ital. coda ; du latin cauda, que Corssen, Beiträge, p. 446, croit être, d'après Meyer, pour skauda, radical sansc. ska, couvrir, dresser, lever en l'air.</etym>
-<re ana="supplement" orig=" 1. QUEUE. ">
-
-
-
-
-
-</re>
 </entry>
 <entry xml:id="queue.2">
 <form>
@@ -17813,7 +17760,7 @@
 <biblScope>Andr. V, 2</biblScope>
 </bibl>
 </cit>
-<note>Cette construction est moins bonne dans les exemples suivants.</note>
+<dictScrap>Cette construction est moins bonne dans les exemples suivants.</dictScrap>
 <cit>
 <quote>Il lui faut aussi un cheval pour monter son valet, qui coûtera bien trente pistoles</quote>
 <bibl>
@@ -19540,15 +19487,7 @@
 <sense>
 <dictScrap>Il se dit aussi quelquefois, en français, des lettres qui ne se prononcent pas devant les consonnes, et qui sonnent sur la voyelle suivante.</dictScrap>
 </sense>
-</sense>
-<sense n="2">
-<dictScrap>Terme de scolastique. Propriétés quiescentes, celles qui ne sont pas causes directes d'actes, mais seulement conditions d'actes.</dictScrap>
-</sense>
-<sense n="3">
-<dictScrap>Ancien terme de chimie. Affinités quiescentes se disait, par opposition à affinités divellentes, des affinités de deux acides pour leurs bases respectives, affinités qui ne permettaient pas la double décomposition.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>Terme de grammaire arabe.</dictScrap>
 <cit>
 <quote>Syllabes quiescentes, syllabes formées d'une consonne dépourvue de voyelle, par opposition à syllabes mues, syllabes formées d'une consonne et d'une voyelle</quote>
@@ -19558,11 +19497,12 @@
 </cit>
 </sense>
 </sense>
-<etym>Lat. quiescere, se reposer (voyez QUIET).</etym>
-<re ana="supplement" orig=" QUIESCENT. ">
-
-
-</re>
+<sense n="2">
+<dictScrap>Terme de scolastique. Propriétés quiescentes, celles qui ne sont pas causes directes d'actes, mais seulement conditions d'actes.</dictScrap>
+</sense>
+<sense n="3">
+<dictScrap>Ancien terme de chimie. Affinités quiescentes se disait, par opposition à affinités divellentes, des affinités de deux acides pour leurs bases respectives, affinités qui ne permettaient pas la double décomposition.</dictScrap>
+</sense><etym>Lat. quiescere, se reposer (voyez QUIET).</etym>
 </entry>
 <entry xml:id="quiet">
 <form>
@@ -20039,7 +19979,8 @@
 <dictScrap>Populairement et fig. Les <oVar>quilles</oVar>, les jambes.</dictScrap>
 </sense><sense n="6" ana="supplement">
 <dictScrap>Dans les chablis, la portion de l'arbre brisé restée debout ; on dit aussi chandelier ou tronc, BAGNERIS, Manuel de sylviculture, p. 6, Nancy, 1873.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>Sorte de jambe de force.</dictScrap>
 <cit>
 <quote>Il sera adapté au train de derrière des cabriolets à deux roues une jambe de force en fer, dite quille</quote>
@@ -20259,7 +20200,7 @@
 <biblScope>Quinquina, II</biblScope>
 </bibl>
 </cit>
-<note>La Fontaine a dit aussi le quin :</note>
+<dictScrap>La Fontaine a dit aussi le quin :</dictScrap>
 <cit>
 <quote>Nous lui devons Condé.... Le quin fera longtemps durer ses destinées</quote>
 <bibl>
@@ -20968,14 +20909,14 @@
 <dictScrap>Terme de chimie. Radical composé qui est le produit de la distillation de l'acide quinique.</dictScrap>
 </sense>
 </entry>
-<entry type="prefixe" xml:id="quinqu-">
+<entryFree type="prefixe" xml:id="quinqu-">
 <form>
 <orth>QUINQU- ou QUINQUÉ-</orth>
 </form>
 <sense>
 <dictScrap>Mot qui s'ajoute pour signifier cinq, et qui vient du latin quinque, cinq.</dictScrap>
 </sense>
-</entry>
+</entryFree>
 <entry xml:id="quinquagénaire">
 <form>
 <orth>QUINQUAGÉNAIRE</orth>
@@ -21225,13 +21166,17 @@
 <biblScope>Virg. VII</biblScope>
 </bibl>
 </cit>
-</sense>
+<cit ana="supplement">
+<quote>Ne citez plus dans le palais D'autres livres que Rabelais ; Jugez le monde à quinquenove ; Qui pourra se sauver se sauve</quote>
+<bibl>
+<biblScope>Remontrance burlesque au Parlement, p. 7, 1649, dans CH. NISARD, Parisianismes, p. 184</biblScope>
+</bibl>
+</cit>
+<sense ana="supplement">
+<dictScrap>On le trouve aussi écrit quinquenauve, à tort.</dictScrap>  <cit ana="supplement"><quote>Avec lui marchait son fils Lauze, Jouvenceau frais comme une rose.... Rude danseur de tricotets, Musicien d'air et de motets, Adroit joueur de quinquenauve, Mais d'un poil tirant sur le fauve</quote><bibl><author>SCARR.</author><biblScope>Virg. trav. VII</biblScope></bibl></cit></sense>
+ </sense>
 <etym>Lat. quinque, cinq, et novem, neuf ; ital. cinquenove.</etym>
-<re ana="supplement">
-<re>QUINQUENOVE. Ajoutez : Ne citez plus dans le palais D'autres livres que Rabelais ; Jugez le monde à quinquenove ; Qui pourra se sauver se sauve, Remontrance burlesque au Parlement, p. 7, 1649, dans CH. NISARD, Parisianismes, p. 184. </re>
-<re>On le trouve aussi écrit quinquenauve, à tort.  <cit><quote>Avec lui marchait son fils Lauze, Jouvenceau frais comme une rose.... Rude danseur de tricotets, Musicien d'air et de motets, Adroit joueur de quinquenauve, Mais d'un poil tirant sur le fauve</quote><bibl><author>SCARR.</author><biblScope>Virg. trav. VII</biblScope></bibl></cit> </re>
-</re>
-<etym>Esp. cinco et nueve, cinq et neuf.</etym>
+<etym ana="supplement">Esp. cinco et nueve, cinq et neuf.</etym>
 </entry>
 <entry xml:id="quinquépartite">
 <form>
@@ -22037,6 +21982,16 @@
 <biblScope>Exist. 43</biblScope>
 </bibl>
 </cit>
+<sense ana="supplement">
+<dictScrap>Fig.</dictScrap>
+<cit>
+<quote>M. de Chastillon est ici, qui s'en va chez lui [en une sorte d'exil] ; c'est le même que nous l'avons cru, beaucoup de masse et peu de quintessence</quote>
+<bibl>
+<author>RICHELIEU</author>
+<biblScope>Lettr. etc. t. VI, p. 153 (1638).</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>Dans l'ancienne chimie, la partie la plus subtile extraite de quelque corps.</dictScrap>
@@ -22117,18 +22072,6 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Fig.</dictScrap>
-<cit>
-<quote>M. de Chastillon est ici, qui s'en va chez lui [en une sorte d'exil] ; c'est le même que nous l'avons cru, beaucoup de masse et peu de quintessence</quote>
-<bibl>
-<author>RICHELIEU</author>
-<biblScope>Lettr. etc. t. VI, p. 153 (1638).</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <note type="H">
 <label>XIVe s.</label>
@@ -22164,10 +22107,6 @@
 </cit>
 </note>
 <etym>Bas-lat. quinta essentia, de quinta, cinquième, et essentia, essence, parce que, selon les anciens, il y avait quatre éléments contenus dans leurs sphères respectives, la terre, l'eau, l'air et le feu ; et, au-dessus de la sphère du feu, une substance plus pure et plus subtile encore qui n'avait pas de nom propre, et qu'on appelait la quinte essence (5e substance).</etym>
-<re ana="supplement" orig=" QUINTESSENCE. ">
-
-
-</re>
 </entry>
 <entry xml:id="quintessenciation">
 <form>
@@ -25361,7 +25300,7 @@
 <biblScope>ib. p. 64</biblScope>
 </bibl>
 </cit>
-<note>Il est dommage que cette tournure soit tombée en désuétude.</note>
+<dictScrap>Il est dommage que cette tournure soit tombée en désuétude.</dictScrap>
 </sense>
 <sense n="12">
 <dictScrap><oVar>Quoi</oVar> interrogatif, quelle chose ? En <oVar>quoi</oVar> différons-nous d'avis ? à <oVar>quoi</oVar> de fâcheux devons-nous nous attendre ?</dictScrap>
