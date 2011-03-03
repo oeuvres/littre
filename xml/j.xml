@@ -235,13 +235,13 @@
 </note>
 <etym>Origine inconnue.</etym>
 </entry>
-<entry xml:id="jablé">
+<entryFree xml:id="jablé">
 <form>
 <orth>JABLÉ, ÉE</orth>
 <pron>ja-blé, blée</pron>
 <gram>part. passé de jabler</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="jabler">
 <form>
 <orth>JABLER</orth>
@@ -364,6 +364,7 @@
 <form>
 <orth>JABOTER</orth>
 <pron>ja-bo-té</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. Parler beaucoup, d'une voix peu élevée et de choses peu intéressantes. Entendez-vous comme ces petites filles jabotent ?</dictScrap>
@@ -545,7 +546,8 @@
 <biblScope>Ois. t. IX, p. 343</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap><oVar>Jachère</oVar> en eau, se dit de la transformation en étangs de terres qu'on veut laisser reposer.</dictScrap>
 <cit>
 <quote>L'ancien système de culture fondé sur la jachère labourée n'était plus possible alors ; les bras faisaient défaut.... la culture des étangs, c'est-à-dire la jachère en eau, lui fut substituée, afin de rétablir l'équilibre entre le travail à faire et les forces disponibles</quote>
@@ -583,10 +585,6 @@
 
 </note>
 <etym>Picard, gachières, gakières ; wallon, jouhîre ; namur. giciêre ; Hainaut, gaquiere ; bas-lat. gascaria, dans un texte du XIIe siècle. Origine inconnue. On ne sait même pas, vu la divergence des orthographes, si l's est primitive ou accidentelle, et, par conséquent, si le latin jacere ( 1er e long), gésir, y est pour quelque chose.</etym>
-<re ana="supplement" orig=" JACHÈRE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jachéré">
 <form>
@@ -775,7 +773,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Terme de cuisine. Soupe à la <oVar>jacobine</oVar>, espèce de potage, fait de bouillon d'amande, de hachis de perdrix, d'œufs et de fromage.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Nom d'une variété de pigeons.</dictScrap>
 <cit>
 <quote>Viennent ensuite les jacobins, dont les plumes du cou relevées forment un capuchon</quote>
@@ -816,10 +815,6 @@
 </cit>
 
 </note>
-<re ana="supplement" orig=" JACOBIN. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jacobine">
 <form>
@@ -918,6 +913,7 @@
 <form>
 <orth>JAÇOIT QUE</orth>
 <pron>ja-soi-ke</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Ancienne conjonction signifiant quoique, bien que.</dictScrap>
@@ -1151,10 +1147,15 @@
 </note>
 </entry>
 <entry xml:id="jacquet.1">
-<form><orth>JACQUET</orth><pron>ja-kè</pron>, nom propre employé dans cette locution populaire : Il s'est levé dès le patron Jacquet, c'est-à-dire il s'est levé de très bonne heure. </form>
+<form>
+<orth>JACQUET</orth>
+<pron>ja-kè</pron>
+<gram>n. p.</gram>
+</form>
 <sense>
-<dictScrap>ÉTYM. En Normandie, <oVar>jacquet</oVar>, qui d'ailleurs est le diminutif de Jacques, est le nom de l'écureuil ; et à Valognes on dit ; se lever dès le paître au <oVar>jacquet</oVar> ; ce qui signifierait se lever dès le moment où l'écureuil va chercher sa nourriture. Il est fort possible que patron soit une corruption de paître au ; comme on dit aussi dès le patron minet (voy. <ref target="patron">PATRON</ref>).</dictScrap>
+<dictScrap>Nom propre employé dans cette locution populaire : Il s'est levé dès le patron Jacquet, c'est-à-dire il s'est levé de très bonne heure.</dictScrap>
 </sense>
+<etym>En Normandie, <oVar>jacquet</oVar>, qui d'ailleurs est le diminutif de Jacques, est le nom de l'écureuil ; et à Valognes on dit ; se lever dès le paître au <oVar>jacquet</oVar> ; ce qui signifierait se lever dès le moment où l'écureuil va chercher sa nourriture. Il est fort possible que patron soit une corruption de paître au ; comme on dit aussi dès le patron minet (voy. <ref target="patron">PATRON</ref>).</etym>
 </entry>
 <entry xml:id="jacquet.2">
 <form>
@@ -1286,7 +1287,11 @@
 <etym>Provenç. jactacio ; du lat. jactationem, de jactare, jeter souvent (voy. <ref target="jactance">JACTANCE</ref>).</etym>
 </entry>
 <entry xml:id="jacter">
-<form><orth>JACTER (SE)</orth><pron>ja-kté</pron>, V. réfl. </form>
+<form>
+<orth>JACTER (SE)</orth>
+<pron>ja-kté</pron>
+<gram>V. réfl.</gram>
+</form>
 <sense>
 <dictScrap>Terme peu usité, pris du latin pour dire se vanter.</dictScrap>
 <cit>
@@ -2033,6 +2038,7 @@
 <form>
 <orth>JALONNER</orth>
 <pron>ja-lo-né</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. Planter des jalons. On a <oVar>jalonné</oVar> toute la journée d'hier.</dictScrap>
@@ -5038,13 +5044,10 @@
 <biblScope>Hist. I, 2</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Nom d'un des satellites de la planète Saturne.</dictScrap>
 </sense>
-<re ana="supplement" orig=" JAPHET. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="japhétique">
 <form>
@@ -5435,6 +5438,7 @@
 <entry xml:id="jaquerie">
 <form>
 <orth>JAQUERIE</orth>
+<pron/>
 <gram>s. f.</gram>
 </form>
 <sense>
@@ -5528,7 +5532,8 @@
 </form>
 <sense>
 <dictScrap>Un des noms vulgaires de la pie.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Partie d'un canon.</dictScrap>
 <cit>
 <quote>On a augmenté de 3 pieds sa longueur d'âme et renforcé sa frette de culasse ou jaquette</quote>
@@ -5537,10 +5542,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" JAQUETTE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jaquier">
 <form>
@@ -6000,6 +6001,7 @@
 <form>
 <orth>JARDINER</orth>
 <pron>jar-di-né</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. Travailler au jardin, en parlant de personnes pour qui ce genre de travail est un amusement.</dictScrap>
@@ -6754,7 +6756,12 @@
 </sense>
 </entry>
 <entry xml:id="jarnac">
-<form><orth>JARNAC</orth><pron>COUP DE</pron>, voy. <ref target="coup#var6">COUP, n° 6</ref>. </form>
+<form>
+<orth>JARNAC (COUP DE)</orth>
+<pron/>
+<gram/>
+<xr>voy. <ref target="coup#var6">COUP, n° 6</ref></xr>
+</form>
 <sense>
 <dictScrap>ÉTYM. Gui de Chabot <oVar>Jarnac</oVar>, dans un duel, le 10 juillet 1547, fendit d'un revers de son épée le jarret à son adversaire François de Vivonne, seigneur de la Chateigneraie. Ce coup fut trouvé très habile et fournit une expression proverbiale, qui a pris un sens odieux ; mais c'est un tort de l'usage, car le coup de <oVar>Jarnac</oVar> n'eut rien que de loyal, et le duel se passa dans toutes les règles de l'honneur. À la suite de cela, un <oVar>jarnac</oVar> s'est dit aussi pour un poignard.</dictScrap>
 </sense>
@@ -6763,6 +6770,7 @@
 <form>
 <orth>JARNIDIEU et JARNIBLEU et, par ellipse, JARNI</orth>
 <pron>jar-ni-dieu et jar-ni-bleu et jar-ni</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Sorte de jurement.</dictScrap>
@@ -6787,8 +6795,13 @@
 <etym>Corruption de je renie Dieu. On trouve au XVIe siècle harnibieu ; Vitet l'a employé (les États de Blois, sc. 4) : Harnibieu ! Sire, comptez-vous que je vais l'attendre au coin d'une haie ?</etym>
 </entry>
 <entry xml:id="jarnonce">
-<form><orth>JARNONCE</orth><pron>jar-non-s'</pron>, sorte de jurement comique.  </form>
+<form>
+<orth>JARNONCE</orth>
+<pron>jar-non-s'</pron>
+<gram/>
+</form>
 <sense>
+<dictScrap>Sorte de jurement comique</dictScrap>
 <cit>
 <quote>Et jarnonce ! quand il dirait vrai pour la baronne, comment se tirerait-il d'affaire pour votre nièce ?</quote>
 <bibl>
@@ -6812,7 +6825,17 @@
 </sense>
 </entry>
 <entry xml:id="jarosse">
-<form><orth>JAROSSE</orth><pron>ja-ro-s'</pron>, JAROUFLE (ja-rou-fl'), JAROUGE (ja-rou-j'), JAROUSSE (ja-rou-s'), s. f. </form>
+<form>
+<orth>JAROSSE</orth>
+<pron>ja-ro-s'</pron>
+<orth>JAROUFLE</orth>
+<pron>ja-rou-fl'</pron> 
+<orth>JAROUGE</orth>
+<pron>ja-rou-j'</pron>
+<orth>JAROUSSE</orth>
+<pron>ja-rou-s'</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Noms vulgaires de la gesse chiche et gesse vulgaire, et de la vesce craque qu'on sème pour la couper en vert (Poitou et Vendée).</dictScrap>
 </sense>
@@ -6876,9 +6899,7 @@
 </sense>
 </sense>
 <etym>Origine inconnue.</etym>
-<re ana="supplement" orig=" 2. JARRE. Ajoutez : - ÉTYM. Dans Cotgrave, il est dit que le jarre est une herbe qui enveloppe les autres plantes et se roule autour ; c'est la cuscute. Ainsi le jarre, laine ou poil, a été dit d'après le jarre plante. Sans savoir d'où vient le jarre plante, on recule du moins utilement d'un degré l'étymologie. ">
-
-</re>
+<etym ana="supplement">Dans Cotgrave, il est dit que le jarre est une herbe qui enveloppe les autres plantes et se roule autour ; c'est la cuscute. Ainsi le jarre, laine ou poil, a été dit d'après le jarre plante. Sans savoir d'où vient le jarre plante, on recule du moins utilement d'un degré l'étymologie.</etym>
 </entry>
 <entry xml:id="jarre.3">
 <form>
@@ -7071,7 +7092,9 @@
 <entry xml:id="jarreter">
 <form>
 <orth>JARRETER</orth>
-<pron>ja-re-té. Le t se double quand la syllabe qui suit est muette : je jarrette, et non, comme on dit souvent, je jarte</pron>
+<pron>ja-re-té</pron>
+<note>Le t se double quand la syllabe qui suit est muette : je jarrette, et non, comme on dit souvent, je jarte</note>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. a. Mettre des jarretières. Être mal jarreté. Être jarreté avec recherche.</dictScrap>
@@ -7175,7 +7198,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme de marine. Sorte d'amarrage, tel que celui qui fixe aux mâts l'aiguilletage de l'appareil avec lequel on mâte un navire.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense ana="supplement" n="6">
 <dictScrap>Petit cordage employé dans les manœuvres de force.</dictScrap>
 </sense>
 <note type="R">On a dit, quelquefois, au commencement du XVIIe siècle, jartière : <cit><quote>Sa ceinture honorable, ainsi que ses jartières</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> </note>
@@ -7225,10 +7249,6 @@
 
 </note>
 <etym>Jarret ; picard, gartier ; bourg. jateire ; Berry, jarretier ; norm. jarretier ; angl. garter.</etym>
-<re ana="supplement" orig=" JARRETIÈRE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jarreux">
 <form>
@@ -7719,7 +7739,8 @@
 <dictScrap>Variété de poire.</dictScrap>
 </sense><sense n="8" ana="supplement">
 <dictScrap><oVar>Jasmin</oVar> d'Arabie, nom vulgaire d'un arbrisseau de l'Inde orientale, le sampac ou champac (voy. ce dernier mot au Supplément).</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense ana="supplement" n="9">
 <dictScrap>Fig. Valet de pied, laquais.</dictScrap>
 <cit>
 <quote>On sera obligé de payer quand on voudra avoir des jasmins derrière sa voiture</quote>
@@ -7762,11 +7783,6 @@
 
 </note>
 <etym>Espagn. jasmin ; ital. gelsimo ; de l'arabe, iâsmin, jasmin.</etym>
-<re ana="supplement" orig=" JASMIN. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="jasminées">
 <form>
@@ -7893,7 +7909,8 @@
 <biblScope>Orient. 26</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Trempe au <oVar>jaspé</oVar>, trempe jaspée, opération par laquelle on pratique des jaspures.</dictScrap>
 <cit>
 <quote>C'est avec la savate et les os de mouton qu'on fait les trempes jaspées que l'on voit sur les armes de luxe</quote>
@@ -7902,10 +7919,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" JASPÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jasper">
 <form>
@@ -8158,7 +8171,8 @@
 <biblScope>Enquête, Traité de comm. avec l'Angl. t. IV, p. 721</biblScope>
 </bibl>
 </cit>
-</sense><sense n="11">
+</sense>
+<sense ana="supplement" n="11">
 <dictScrap>Nom, dans le pyromètre de Wedgwood, d'une plaque de cuivre sur laquelle sont soudées deux règles de cuivre légèrement convergentes.</dictScrap>
 </sense>
 <note type="H">
@@ -8207,11 +8221,6 @@
 
 </note>
 <etym>Origine inconnue. Diez propose soit le verbe latin aequalificare, rapporter à une mesure commune, soit qualificare, fixer les conditions de la mesure, montrant que l'allemand eichen, jauger, vient du latin aequare. Cela est ingénieux, mais les intermédiaires manquent pour qu'on puisse s'y fier. Le vieux français jale ou jalaie, baquet, vase de bois, qui a donné jalagium, droit de jaugeage, et qui a été proposé, reste l'étymologie la plus vraisemblable ; il tient à gallon 1.</etym>
-<re ana="supplement" orig=" JAUGE. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="jaugé">
 <form>
@@ -8618,7 +8627,8 @@
 <sense>
 <dictScrap>Grosse <oVar>jaune</oVar>, espèce de figue.</dictScrap>
 </sense>
-</sense><sense n="11">
+</sense>
+<sense ana="supplement" n="11">
 <dictScrap>Le <oVar>jaune</oVar>, nom d'une maladie de la vigne causée par les pluies froides.</dictScrap>
 </sense>
 <note type="H">
@@ -8849,6 +8859,7 @@
 <form>
 <orth>JAUNIR</orth>
 <pron>jô-nir</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. Devenir jaune.</dictScrap>
@@ -9098,15 +9109,14 @@
 <dictScrap>Espèce de champignon du genre agaric.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jautereau">
+<entryFree xml:id="jautereau">
 <form>
 <orth>JAUTEREAU</orth>
+<pron/>
 <gram>s. m.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="jotterau">JOTTERAU</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="jotterau">JOTTERAU</ref>.</xr>
+</entryFree>
 <entry xml:id="javanais">
 <form>
 <orth>JAVANAIS, AISE</orth>
@@ -9203,14 +9213,11 @@
 </sense>
 <sense n="2">
 <dictScrap>Dessiccation complète d'une plante, à l'air libre, au milieu des champs.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Opération, dite aussi battage, qui consiste à détacher le sel des tables, et à le mettre en tas appelés javelles, Enquête sur les sels, t. II, p. 510.</dictScrap>
 </sense>
 <etym>Javeler.</etym>
-<re ana="supplement" orig=" JAVELAGE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="javelé">
 <form>
@@ -9228,7 +9235,9 @@
 <entry xml:id="javeler">
 <form>
 <orth>JAVELER</orth>
-<pron>ja-ve-lé. L'l se double quand la syllabe qui suit est muette : je javelle, je javellerai</pron>
+<pron>ja-ve-lé</pron>
+<note>L'l se double quand la syllabe qui suit est muette : je javelle, je javellerai</note>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>v. a. Terme d'agriculture. Mettre les blés en javelle, c'est-à-dire coucher sur le sol, séparées et étendues, les poignées de céréales qui viennent d'être coupées par le moissonneur.</dictScrap>
@@ -9258,7 +9267,8 @@
 </form>
 <sense>
 <dictScrap>Terme d'agriculture. Celui, celle qui javelle.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Engin qui javelle.</dictScrap>
 <cit>
 <quote>En Angleterre d'abord, en France ensuite, on a armé la moissonneuse d'un organe nouveau, qu'on a appelé un javeleur, pour remplacer l'homme chargé de jeter par petits tas hors du tablier les tiges que les ailes y faisaient tomber</quote>
@@ -9281,10 +9291,6 @@
 
 </note>
 <etym>Javeler.</etym>
-<re ana="supplement" orig=" JAVELEUR. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="javeline.1">
 <form>
@@ -9450,9 +9456,7 @@
 <sense>
 <dictScrap>Eau de <oVar>javelle</oVar>, ainsi dite du moulin de Javel près Paris où cette eau se fabriquait primitivement. L'eau de <oVar>javelle</oVar> est du chlorure de potassium en dissolution dans l'eau.</dictScrap>
 </sense>
-<re ana="supplement" orig=" 2. JAVELLE (EAU DE). Ajoutez : - REM. Plus exactement, l'eau de javelle résulte de la dissolution dans l'eau d'un mélange de chlorure de potassium et d'hypochlorite de potasse. ">
-
-</re>
+<note type="R" ana="supplement">Plus exactement, l'eau de javelle résulte de la dissolution dans l'eau d'un mélange de chlorure de potassium et d'hypochlorite de potasse.</note>
 </entry>
 <entry xml:id="javelot">
 <form>
@@ -9579,7 +9583,11 @@
 </sense>
 </entry>
 <entry xml:id="je">
-<form><orth>JE</orth><pron>je</pron>, pronom personnel de la première personne, du singulier et des deux genres. </form>
+<form>
+<orth>JE</orth>
+<pron>je</pron>
+<gram>pronom personnel de la première personne, du singulier et des deux genres.</gram>
+</form>
 <sense n="1">
 <dictScrap>Il s'emploie toujours comme sujet de la proposition, et jamais comme régime ou complément : <oVar>je</oVar> dis, <oVar>je</oVar> fais, <oVar>je</oVar> lirai, <oVar>je</oVar> hais.</dictScrap>
 <sense>
@@ -10082,7 +10090,8 @@
 </cit>
 </sense><sense n="20" ana="supplement">
 <dictScrap><oVar>Jean</oVar> l'Enfumé, jambon.</dictScrap>
-</sense><sense n="21">
+</sense>
+<sense ana="supplement" n="21">
 <dictScrap><oVar>Jean</oVar> du Houx, bâton.</dictScrap>
 </sense>
 <note type="H">
@@ -11020,7 +11029,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de vétérinaire. Écoulement, par les naseaux du cheval, d'un mucus plus ou moins abondant et de qualités variables.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Action de jeter le bois de chauffage dans les cours d'eau, afin de le faire flotter.</dictScrap>
 <cit>
 <quote>C'est vers la fin de novembre, au premier gonflement des sources, que l'on se met en mouvement pour commencer le jetage ou flottage des bois déposés près des rivières et ruisseaux</quote>
@@ -11030,10 +11040,6 @@
 </cit>
 </sense>
 <etym>Jeter.</etym>
-<re ana="supplement" orig=" JETAGE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jeté.1">
 <form>
@@ -11227,6 +11233,16 @@
 </bibl>
 </cit>
 </sense>
+<sense n="10" ana="supplement">
+<dictScrap>Néologisme. <oVar>Jeté</oVar> de, parsemé.</dictScrap>
+<cit>
+<quote>Quelques menus dessins, jetés d'insectes ou de feuillages comme les Japonais en sèment à l'intérieur de leurs coffrets</quote>
+<bibl>
+<author>KARL STEEN</author>
+<biblScope>Journ. offic. 29 mars 1876, p. 2238, 1re col.</biblScope>
+</bibl>
+</cit>
+</sense>
 </entry>
 <entry xml:id="jeté.2">
 <form>
@@ -11239,21 +11255,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Au tricot, un <oVar>jeté</oVar>, le brin <oVar>jeté</oVar> sur l'aiguille avant de prendre la maille, ce qui fait une maille de plus si l'on veut.</dictScrap>
-</sense><sense n="10">
-<dictScrap>Néologisme. <oVar>Jeté</oVar> de, parsemé.</dictScrap>
-<cit>
-<quote>Quelques menus dessins, jetés d'insectes ou de feuillages comme les Japonais en sèment à l'intérieur de leurs coffrets</quote>
-<bibl>
-<author>KARL STEEN</author>
-<biblScope>Journ. offic. 29 mars 1876, p. 2238, 1re col.</biblScope>
-</bibl>
-</cit>
 </sense>
 <etym>Jeté 1.</etym>
-<re ana="supplement" orig=" JETÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jetée">
 <form>
@@ -14202,8 +14205,8 @@
 </sense>
 <sense>
 <dictScrap><oVar>Jeu</oVar> de main, se dit aussi de l'action de lutter, de se porter des coups réciproques en plaisantant.</dictScrap>
-</sense>
 <re type="P"><form>Jeux de main, jeux de vilain, ou, au singulier, jeu de main, jeu de vilain</form>, c'est-à-dire les jeux de main ne conviennent qu'à des gens mal élevés, et aussi ils finissent souvent par des querelles. </re>
+</sense>
 <sense>
 <dictScrap><oVar>Jeux</oVar> d'esprit, certains petits <oVar>jeux</oVar> qui demandent quelque facilité, quelque agrément d'esprit.</dictScrap>
 <cit>
@@ -15357,7 +15360,8 @@
 </sense>
 <sense n="30">
 <dictScrap>Terme de féodalité. <oVar>Jeu</oVar> de fief, aliénation d'un fief, sous la réserve de la foi, et avec l'imposition d'un devoir domanial et seigneurial.</dictScrap>
-</sense><sense n="31">
+</sense>
+<sense ana="supplement" n="31">
 <dictScrap>Terme de turf. Un cheval fait le <oVar>jeu</oVar>, quand, dès le départ, il prend la tête du train, forçant ainsi ses concurrents à développer, dès le début, leur maximum de vitesse.</dictScrap>
 <sense>
 <dictScrap>Quand deux chevaux d'une même écurie sont engagés dans une course, l'un d'eux est réservé à faire le <oVar>jeu</oVar> de son camarade, c'est-à-dire à fatiguer les concurrents jusqu'au moment où son camarade d'écurie peut prendre place et terminer victorieusement la course.</dictScrap>
@@ -16143,7 +16147,8 @@
 <sense>
 <dictScrap>Terme de physiologie. Le <oVar>jeune</oVar> des mammifères, des oiseaux, etc. mammifère, oiseau peu avancé dans la vie, et n'ayant pas encore sa taille, son pelage, son plumage, etc. permanents.</dictScrap>
 </sense>
-</sense><sense n="11">
+</sense>
+<sense ana="supplement" n="11">
 <dictScrap>Les <oVar>jeunes</oVar>, ancien nom de certaines confréries d'artisans dans le Midi.</dictScrap>
 </sense>
 <re type="P"><form>Jeune procureur et vieil avocat</form>, c'est-à-dire un procureur doit être actif et un avocat réfléchi. On dit aussi dans un sens analogue : Vieux médecin, jeune chirurgien. </re>
@@ -16266,10 +16271,6 @@
 
 </note>
 <etym>Berry, jenne ; nivernais, zeune ; wallon, jône ; namur. et picard, jone ; provenç. jove ; espagn. joven ; ital. giovine, giovane ; du lat. juvenis ; allem. jung ; russe, ioúni ; persan, djuvan ; sanscr. yuvan. Yuvan paraît être pour yavan, par assimilation du v sur a ; et on l'a rapproché des yavanas (voy. <ref target="ioniens">IONIENS</ref>) ; de sorte que les jeunes, juvenes, seraient ceux qui combattent, repoussent, aident.</etym>
-<re ana="supplement" orig=" JEUNE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jeûne">
 <form>
@@ -17056,7 +17057,8 @@
 <biblScope>289, 196</biblScope>
 </bibl>
 </cit>
-</sense><sense n="10">
+</sense>
+<sense ana="supplement" n="10">
 <dictScrap>La grande <oVar>jeunesse</oVar>, ancien nom de certaines confréries d'artisans dans le Midi.</dictScrap>
 </sense>
 <re type="P"><form>La jeunesse revient de loin</form>, c'est-à-dire les personnes jeunes reviennent de maladies dangereuses ou de longues erreurs, de grands égarements. </re>
@@ -17158,10 +17160,6 @@
 
 </note>
 <etym>Jeune, et la finale substantive esse. comme sagesse, de sage, etc.</etym>
-<re ana="supplement" orig=" JEUNESSE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jeunet">
 <form>
@@ -17472,10 +17470,8 @@
 </form>
 <sense>
 <dictScrap>Terme d'histoire naturelle. Espèce de singe qu'on nomme aussi pongo.</dictScrap>
+<cit ana="supplement"><quote>En 1847, on chantait dans les rues : On vient d'quitter subito Mod's francai's et mod's anglaises, Et, jusqu'aux marchands d'coco, Tout s'habille à la jocko</quote><bibl><author>E. DE LA BÉDOLLIÈRE</author><biblScope>Hist. de la mode, ch. XVI</biblScope></bibl></cit>
 </sense>
-<re ana="supplement">
-<re>JOCKO.  Ajoutez : <cit><quote>En 1847, on chantait dans les rues : On vient d'quitter subito Mod's francai's et mod's anglaises, Et, jusqu'aux marchands d'coco, Tout s'habille à la jocko</quote><bibl><author>E. DE LA BÉDOLLIÈRE</author><biblScope>Hist. de la mode, ch. XVI</biblScope></bibl></cit> </re>
-</re>
 <etym>Altéré de engeco, nom donné par André Battell, et duquel Buffon dit : jocko, enjocko, nom de cet animal à Congo, que nous avons adopté ; en est l'article que nous avons retranché, HUXLEY, De la place de l'homme dans la nature, trad. franç. p. 114.</etym>
 </entry>
 <entry xml:id="joconde">
@@ -18167,7 +18163,8 @@
 <biblScope>33, 31</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Adv. Tout <oVar>joignant</oVar>, tout auprès.</dictScrap>
 <cit>
 <quote>Mme Nevers répondit, mais ce fut si bas que, encore que je fusse tout joignant,... je n'en pus rien ouïr</quote>
@@ -18196,13 +18193,14 @@
 
 </note>
 <etym>C'est le participe présent de joindre.</etym>
-<re ana="supplement" orig=" JOIGNANT. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="joindre">
-<form><orth>JOINDRE</orth><pron>join-dr'</pron>, je joins, nous joignons ; je joignais, nous joignions ; je joignis ; je joindrai ; je joindrais ; joins ; joignons ; que je joigne, que nous joignions ; que je joignisse ; joignant ; joint 	<gram>v. a.</gram></form>
+<form>
+<orth>JOINDRE</orth>
+<pron>join-dr'</pron>
+<note>je joins, nous joignons ; je joignais, nous joignions ; je joignis ; je joindrai ; je joindrais ; joins ; joignons ; que je joigne, que nous joignions ; que je joignisse ; joignant ; joint</note> 	
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Mettre des choses l'une à côté de l'autre, en sorte qu'elles se touchent ou qu'elles tiennent ensemble. <oVar>Joindre</oVar> deux planches avec de la colle forte, avec des chevilles. <oVar>Joindre</oVar> deux morceaux d'étoffe en les cousant ensemble.</dictScrap>
 <sense>
@@ -19098,6 +19096,9 @@
 <sense>
 <dictScrap><oVar>Joint</oVar> brisé ou universel, organe de transmission de mouvement composé de deux axes qui se croisent à angle droit.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>Organe employé pour transmettre la rotation d'un arbre à un autre. <oVar>Joint</oVar> de Oldham, s'emploie dans le cas où les deux arbres sont parallèles et très rapprochés. <oVar>Joint</oVar> de Cardan, ou <oVar>joint</oVar> hollandais, ou <oVar>joint</oVar> universel ; les deux arbres sont dans un même plan et se coupent sous un angle très obtus.</dictScrap>
+</sense>
 </sense>
 <sense n="3">
 <dictScrap>Endroit où se joignent des pierres, des pièces de menuiserie. Remplir les <oVar>joints</oVar> des pierres.</dictScrap>
@@ -19141,11 +19142,6 @@
 <sense>
 <dictScrap><oVar>Joint</oVar> de stratification, espace vide qui sépare les strates d'un ensemble de roches stratifiées.</dictScrap>
 </sense>
-</sense><sense n="2">
-<dictScrap>Terme de mécanique. Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Organe employé pour transmettre la rotation d'un arbre à un autre. <oVar>Joint</oVar> de Oldham, s'emploie dans le cas où les deux arbres sont parallèles et très rapprochés. <oVar>Joint</oVar> de Cardan, ou <oVar>joint</oVar> hollandais, ou <oVar>joint</oVar> universel ; les deux arbres sont dans un même plan et se coupent sous un angle très obtus.</dictScrap>
-</sense>
 </sense>
 <note type="H">
 
@@ -19160,10 +19156,6 @@
 
 </note>
 <etym>Joint 1.</etym>
-<re ana="supplement" orig=" 2. JOINT. ">
-
-
-</re>
 </entry>
 <entry xml:id="jointe">
 <form>
@@ -19353,13 +19345,13 @@
 <dictScrap>Terme de construction. Action de jointoyer, remplissage en mortier des joints d'une maçonnerie.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="jointoyé">
+<entryFree xml:id="jointoyé">
 <form>
 <orth>JOINTOYÉ, ÉE</orth>
 <pron>join-to-ié, iée</pron>
 <gram>part. passé de jointoyer</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="jointoyer">
 <form>
 <orth>JOINTOYER</orth>
@@ -20343,7 +20335,8 @@
 <sense>
 <dictScrap>Le <oVar>jonc</oVar> des tonneliers, le scirpus lacustris ; le <oVar>jonc</oVar> à balais, le phragmites communis.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Sorte de fromage.</dictScrap>
 <cit>
 <quote>Le fromage de Fontjoncousse ou fromage de jonc est fabriqué dans les basses Corbières du département de l'Aude ; on le sale et on le fait sécher</quote>
@@ -20400,20 +20393,11 @@
 <biblScope>Les 15 joyes du mariage, p. 125</biblScope>
 </bibl>
 </cit>
+<label>XVIe s.</label>
+<cit ana="supplement"><quote>Pour en faire brief et ne cercher point le neud dans le jonc...</quote><bibl><biblScope>Arrest memorable du parlement de Tholose, contenant histoire prodigieuse d'un supposé mary, Paris, 1572, p. 26</biblScope></bibl></cit>
 
 </note>
 <etym>Provenç. junc, jonc ; espagn. junco ; ital. giunco ; du lat. juncus, qui fait penser à jungere, car c'est un lien.</etym>
-<re ana="supplement" orig=" 1. JONC. Ajoutez : ">
-
-
-<note type="H">
-<dictScrap>Ajoutez : </dictScrap>
-
-<label>XVIe s.</label>
-<cit><quote>Pour en faire brief et ne cercher point le neud dans le jonc...</quote><bibl><biblScope>Arrest memorable du parlement de Tholose, contenant histoire prodigieuse d'un supposé mary, Paris, 1572, p. 26</biblScope></bibl></cit>
-
-</note>
-</re>
 </entry>
 <entry xml:id="jonc.2">
 <form>
@@ -20474,6 +20458,7 @@
 <entry xml:id="joncaginées">
 <form>
 <orth>JONCAGINÉES</orth>
+<pron/>
 <gram>s. f. pl.</gram>
 </form>
 <sense>
@@ -20704,7 +20689,7 @@
 <dictScrap>Se <oVar>joncher</oVar>, être <oVar>jonché</oVar>. Les rues se jonchèrent rapidement de feuilles et de fleurs.</dictScrap>
 </sense>
 <note type="H">
-
+<label>XIe s.</label>
 <cit>
 <quote>Là veïssiez la terre si junchée....</quote>
 <bibl>
@@ -21183,14 +21168,11 @@
 </form>
 <sense>
 <dictScrap>Un des noms vulgaires de la bette, dans plusieurs provinces.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Nom, dans le Loiret, du sinapis arvensis, dit aussi moutardon, les Primes d'honneur, Paris, 1869, p. 193.</dictScrap>
 </sense>
 <etym>C'est une des formes de joue (voy. ce mot, à l'étymologie).</etym>
-<re ana="supplement" orig=" JOTTE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jottereau">
 <form>
@@ -21232,13 +21214,10 @@
 </sense>
 <sense n="2">
 <dictScrap>On dit d'un morceau de musique qu'il n'est pas <oVar>jouable</oVar>, quand il présente des difficultés qu'on ne peut surmonter.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>On dit aussi aux cartes, à l'écarté par exemple : je vous donne gagné, mon jeu n'est pas <oVar>jouable</oVar>.</dictScrap>
 </sense>
-<re ana="supplement" orig=" JOUABLE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jouail">
 <form>
@@ -21681,6 +21660,7 @@
 <form>
 <orth>JOUER</orth>
 <pron>jou-é</pron>
+<gram norm="V"/>
 </form>
 <note type="plan">
 <list>
@@ -23183,7 +23163,7 @@
 </sense>
 <sense n="35">
 <dictScrap>Se <oVar>jouer</oVar>, être représenté, en parlant d'une pièce de théâtre. Le Tartuffe se <oVar>joue</oVar> ce soir aux Français. </dictScrap>
-<re type="P"><form>Qui a joué jouera</form>, c'est-à-dire on ne quitte pas ses vieilles habitudes.  </re>
+<re type="P"><form>Qui a joué jouera</form>, c'est-à-dire on ne quitte pas ses vieilles habitudes.  
 <cit>
 <quote>Quiconque aime, aimera, Et quiconque a joué, toujours joue et jouera : Certain docteur l'a dit</quote>
 <bibl>
@@ -23191,7 +23171,9 @@
 <biblScope>le Joueur, IV, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="36">
+</re>
+</sense>
+<sense ana="supplement" n="36">
 <dictScrap>S. m. Le bien <oVar>jouer</oVar>, l'action de bien <oVar>jouer</oVar>.</dictScrap>
 <cit>
 <quote>Le bien jouer à la paume ne consiste pas en l'esprit</quote>
@@ -23519,10 +23501,6 @@
 
 </note>
 <etym>Wallon, jower ; bourg. jué ; provenç. jogar ; espagn. jugar ; ital. giuocare ; du lat. jocari, jouer. jocus, jeu.</etym>
-<re ana="supplement" orig=" JOUER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jouereau">
 <form>
@@ -27462,7 +27440,8 @@
 <biblScope>Port-Royal, t. VI, p. 267, 3e éd.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="34">
+</sense>
+<sense ana="supplement" n="34">
 <dictScrap>Espèce de dentelle faite à l'aiguille au milieu d'un dessin de broderie, soit qu'on enlève l'étoffe tout à fait, soit qu'on tire des fils sur l'étoffe pour former le <oVar>jour</oVar> avec les fils laissés et l'aiguille, soit qu'on fasse un dessin avec du fil de dentelle si l'étoffe est du tulle.</dictScrap>
 </sense>
 <re type="P"><form>À chaque jour suffit sa peine, suffit son mal</form>, c'est-à-dire il ne faut pas se tourmenter inutilement sur l'avenir, se faire des chagrins d'avance. </re>
@@ -28346,7 +28325,8 @@
 <sense>
 <dictScrap>Ce bâtiment est au <oVar>journalier</oVar>, se dit quand, n'ayant pas encore ses provisions ou ne voulant pas les entamer, il achète au jour le jour.</dictScrap>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Un journal, un récit quotidien.</dictScrap>
 <cit>
 <quote>La bibliothèque municipale de Reims possède le manuscrit autographe des mémoires, ou, pour mieux dire, du journalier écrit par un bourgeois de cette ville depuis l'année 1649 jusqu'à l'année 1668</quote>
@@ -28397,10 +28377,6 @@
 
 </note>
 <etym>Journal ; Berry, jornailler.</etym>
-<re ana="supplement" orig=" JOURNALIER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="journaliser">
 <form>
@@ -28739,7 +28715,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="10">
+</sense>
+<sense ana="supplement" n="10">
 <dictScrap>Terme de turf. L'ensemble des courses courues dans la même <oVar>journée</oVar>.</dictScrap>
 </sense>
 <note type="R">Voltaire a critiqué l'expression de Corneille : prendre journée. Mais journée se dit quelquefois au lieu de jour ; on verra à l'historique que cette locution est ancienne. </note>
@@ -28942,10 +28919,6 @@
 
 </note>
 <etym>Jour, par l'ancienne forme jorn, jorn-ée ; Berry, jornée ; bourguig. jonée ; provenç. et espagn. jornada ; ital. giornata. Dans le XVIe siècle, on avait jornade ou journade sur le modèle de l'espagnol pour signifier un surtout, une casaque.</etym>
-<re ana="supplement" orig=" JOURNÉE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="journel">
 <form>
@@ -30062,7 +30035,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Il est quelquefois synonyme de jubilé, n° 4. Docteur <oVar>jubilaire</oVar>.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Qui est relatif à une célébration publique ou domestique revenant au bout de cinquante ans.</dictScrap>
 <cit>
 <quote>S. M. [le roi de Prusse] assistera à la fête jubilaire des grenadiers du roi</quote>
@@ -30072,10 +30046,6 @@
 </cit>
 </sense>
 <etym>Voy. <ref target="jubilé">JUBILÉ</ref>.</etym>
-<re ana="supplement" orig=" JUBILAIRE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jubilant">
 <form>
@@ -30317,6 +30287,7 @@
 <form>
 <orth>JUCHER</orth>
 <pron>ju-ché</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. En parlant des poules et de quelques autres oiseaux, être perché sur une branche, sur une perche pour dormir. Les poules <oVar>juchent</oVar> dans le poulailler. Les faisans <oVar>juchent</oVar> sur les arbres.</dictScrap>
@@ -30834,6 +30805,7 @@
 <form>
 <orth>JUDICATUM SOLVI</orth>
 <pron>ju-di-ka-tom'-sol-vi</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Caution <oVar>judicatum solvi</oVar>, caution qu'on peut obliger un étranger à fournir lorsqu'il veut intenter une action devant les tribunaux de France contre un Français.</dictScrap>
@@ -31018,11 +30990,27 @@
 
 </note>
 <etym>Provenç. juditiari ; espagn. judiciario ; ital. giudiciario ; du lat. judiciarius, de judex, judicis, juge.</etym>
-<re ana="supplement" orig=" 2. JUDICIAIRE (ju-di-si-ê-r'), s. m. Ancien terme de coutume. Assesseur. En ce présent volume sont rédigées par écrit les Chroniques de feu maistre Jehan Molinet, en son temps judiciaire et historiographe de très illustres maisons d'Austrice et de Bourgoigne, Catalogue de la Bibl. de M. Dancoisne, mss. n° 2383 (note communiquée par M. Noël, bibliothécaire à Saint-Omer, qui remarque que les textes de Molinet portent ordinairement indiciaire, ce qui est une fausse lecture). Voy. JUDICIAIRE à l'historique. ">
-
-</re>
 </entry>
-<entry xml:id="judiciairement">
+<entry xml:id="judiciaire.2" ana="supplement">
+<form>
+<orth>JUDICIAIRE</orth>
+<pron>ju-di-si-ê-r'</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
+<dictScrap>Ancien terme de coutume. Assesseur.</dictScrap>
+<cit>
+<quote>En ce présent volume sont rédigées par écrit les Chroniques de feu maistre Jehan Molinet, en son temps judiciaire et historiographe de très illustres maisons d'Austrice et de Bourgoigne</quote>
+<bibl>
+<biblScope>Catalogue de la Bibl. de M. Dancoisne, mss. n° 2383</biblScope>
+</bibl>
+<note>note communiquée par M. Noël, bibliothécaire à Saint-Omer, qui remarque que les textes de Molinet portent ordinairement indiciaire, ce qui est une fausse lecture</note>
+</cit>
+<xr>Voy. <ref target="judiciaire">JUDICIAIRE</ref> à l'historique.</xr>
+</sense>
+</entry>
+  
+  <entry xml:id="judiciairement">
 <form>
 <orth>JUDICIAIREMENT</orth>
 <pron>ju-di-si-ê-re-man</pron>
@@ -31605,7 +31593,8 @@
 <sense>
 <dictScrap><oVar>Juge</oVar>-garde, fonctionnaire qui veillait à la fabrication des monnaies.</dictScrap>
 </sense>
-</sense><sense n="16">
+</sense>
+<sense ana="supplement" n="16">
 <dictScrap>Le mot <oVar>juge</oVar> a pris diverses significations spéciales dans les îles Normandes : A Jersey et à Guernesey, <oVar>juge</oVar> délégué, personne désignée pendant la vacance de l'office de bailli, pour en exercer provisoirement les fonctions. A Aurigny et à Serk, autrefois, <oVar>juge</oVar>, le premier des jurés chargé de la présidence de la cour. À Aurigny, aujourd'hui, le <oVar>juge</oVar> fonctionnaire nommé par la couronne, président de la cour et des États de l'île. Lieutenant-<oVar>juge</oVar>, personne désignée pour exercer les fonctions du <oVar>juge</oVar> en son absence. Enfin le nom de <oVar>juge</oVar> est souvent donné aujourd'hui aux jurés de Jersey.</dictScrap>
 </sense>
 <re type="P"><form>De fou juge briève sentence</form>, c'est-à-dire les ignorants décident sans examiner. <cit><quote>On a vingt-quatre heures au palais pour maudire ses juges</quote><bibl><author>BEAUMARCH.</author><biblScope>Barb. de Sév. II, 2</biblScope></bibl></cit> </re>
@@ -31705,10 +31694,6 @@
 
 </note>
 <etym>Provenç. jutge ; espagn. juez ; portug. juiz ; ital. giudice ; du lat. judicem, de jus, droit, et dex, celui qui dit, de dicere. Il est vrai que l'on a dicere ( i long) et judicis ( 1er i bref) ; mais on doit remarquer que tous les mots tels que dicare ( i bref), causidicus ( 2nd i bref), etc. ont di ( i bref) ; d'ailleurs on sait que l'ancienne forme de dicere ( avec un i long) est deicere, lequel est un gouna du radical diç, montrer, dire.</etym>
-<re ana="supplement" orig=" JUGE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jugé">
 <form>
@@ -33342,6 +33327,7 @@
 <form>
 <orth>JUGULAIRE</orth>
 <pron>ju-gu-lê-r'</pron>
+<gram/>
 </form>
 <sense n="1">
 <dictScrap>Adj. Terme d'anatomie. Qui appartient à la gorge.</dictScrap>
@@ -33976,9 +33962,7 @@
 <sense>
 <dictScrap>Terme de cuisine. Potage fait avec plusieurs sortes d'herbes et de légumes. Servir une <oVar>julienne</oVar>. Potage à la <oVar>julienne</oVar>.</dictScrap>
 </sense>
-<re ana="supplement" orig=" 2. JULIENNE. Ajoutez : - REM. On lit dans le Courrier de Vaugelas, 15 déc. 1875, p. 124 : &quot; La julienne, qu'on appelle dans le patois de Genève la soupe à la bataille, n'est mentionnée ni dans Taillevent, ni dans le Ménagier de Paris (1393), ni dans le Dictionnaire français-anglais de Cotgrave (1660), ni dans le Cuisinier françois de La Varenne (1670) ; c'est seulement dans le Cuisinier royal et bourgeois (1722) qu'on la trouve pour la première fois, ce qui me fait présumer que ce potage n'est guère connu que depuis le commencement du XVIIIe siècle. On a dit d'abord potage à la julienne, comme le montrent ces exemples : Potage à la Julienne en maigre, Cuisinier roy. et bourg. t. II, p. 163. On fait aussi des potages à la Julienne de poictrine de veau, chapon, poularde, pigeons et autres viandes, ib. t. II, p. 392. Puis on a supprimé potage, ce qui a réduit l'expression à Julienne, qui s'est employé alors sans majuscule : Potage ou julienne de poulets farcis, ib. t. II, p. 123. ">
-
-</re>
+<note ana="supplement" type="R">On lit dans le Courrier de Vaugelas, 15 déc. 1875, p. 124 : &quot; La julienne, qu'on appelle dans le patois de Genève la soupe à la bataille, n'est mentionnée ni dans Taillevent, ni dans le Ménagier de Paris (1393), ni dans le Dictionnaire français-anglais de Cotgrave (1660), ni dans le Cuisinier françois de La Varenne (1670) ; c'est seulement dans le Cuisinier royal et bourgeois (1722) qu'on la trouve pour la première fois, ce qui me fait présumer que ce potage n'est guère connu que depuis le commencement du XVIIIe siècle. On a dit d'abord potage à la julienne, comme le montrent ces exemples : Potage à la Julienne en maigre, Cuisinier roy. et bourg. t. II, p. 163. On fait aussi des potages à la Julienne de poictrine de veau, chapon, poularde, pigeons et autres viandes, ib. t. II, p. 392. Puis on a supprimé potage, ce qui a réduit l'expression à Julienne, qui s'est employé alors sans majuscule : Potage ou julienne de poulets farcis, ib. t. II, p. 123.</note>
 </entry>
 <entry xml:id="julienne.3">
 <form>
@@ -34177,14 +34161,11 @@
 <sense>
 <dictScrap>Au sing. Nom d'une ancienne pièce de canon qui avait deux bouches et une seule lumière.</dictScrap>
 </sense>
-</sense><sense n="8">
+</sense>
+<sense ana="supplement" n="8">
 <dictScrap>Épées <oVar>jumelles</oVar>, se dit de deux épées symétriques, disposées de manière à pouvoir être placées dans un même fourreau.</dictScrap>
 </sense>
 <etym>Jumeau.</etym>
-<re ana="supplement" orig=" JUMELLES. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jument">
 <form>
@@ -34567,7 +34548,8 @@
 <sense>
 <dictScrap>Sel de <oVar>Jupiter</oVar>, le chlorhydrate d'étain.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Terme de charpente. Trait de <oVar>Jupiter</oVar>, voy. TRAIT, 1, n° 20.</dictScrap>
 </sense>
 <note type="H">
@@ -34598,10 +34580,6 @@
 
 </note>
 <etym>Lat. Jupiter, de Ju (d'où le génitif Jovis, le datif osque Djovei), qui est le sanscrit dyu, ciel, et pitar, père : le ciel-père.</etym>
-<re ana="supplement" orig=" JUPITER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jupitérien">
 <form>
@@ -34938,7 +34916,8 @@
 <sense>
 <dictScrap><oVar>Juré</oVar> militaire, membre du jury dont la décision devait précéder le jugement de la cour martiale, d'après la constitution de 1791.</dictScrap>
 </sense>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap><oVar>Jurés</oVar>, magistrats électifs des îles Normandes : chacune des deux îles de Jersey et de Guernesey en a douze, qui composent, avec le bailli, la cour royale, et sont membres des États. On les appelle aussi <oVar>jurés</oVar>-justiciers, <oVar>jurés</oVar> du roi (ou, aujourd'hui, <oVar>jurés</oVar> de la reine), <oVar>jurés</oVar> de la cour royale, etc. Il y a aussi une cour de <oVar>jurés</oVar> électifs dans l'île d'Aurigny, et il y en a eu une dans l'île de Serk.</dictScrap>
 </sense>
 <note type="H">
@@ -35000,10 +34979,6 @@
 
 </note>
 <etym>Juré 1.</etym>
-<re ana="supplement" orig=" 2. JURÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="jurée">
 <form>
@@ -39718,7 +39693,10 @@
 </sense>
 </entry>
 <entry xml:id="justicier.1">
-<form><orth>JUSTICIER</orth><pron>ju-sti-si-é</pron>, je justiciais, nous justiciions, vous justiciiez ; que je justicie, que nous justiciions, que vous justiciiez), v. a. </form>
+<form><orth>JUSTICIER</orth><pron>ju-sti-si-é</pron>
+<note>je justiciais, nous justiciions, vous justiciiez ; que je justicie, que nous justiciions, que vous justiciiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense>
 <dictScrap>Punir quel qu'un d'une peine corporelle, en exécution de sentence ou d'arrêt. On fit <oVar>justicier</oVar> ces voleurs.</dictScrap>
 </sense>
@@ -40171,7 +40149,12 @@
 </sense>
 </entry>
 <entry xml:id="justifier">
-<form><orth>JUSTIFIER</orth><pron>ju-sti-fi-é</pron>, je justifiais, nous justifiions, vous justifiiez ; que je justifie, que nous justifiions, que vous justifiiez), v. a. </form>
+<form>
+<orth>JUSTIFIER</orth>
+<pron>ju-sti-fi-é</pron>
+<note>je justifiais, nous justifiions, vous justifiiez ; que je justifie, que nous justifiions, que vous justifiiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Faire qu'une chose soit juste.</dictScrap>
 <cit>

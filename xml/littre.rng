@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ne marche à travers l'http, en local ou en ligne
-<?xml-stylesheet type="text/xsl" href="http://subversion.cru.fr/diple/trunk/modules/xrem/rng_html.xsl"?>
--->
+<!-- ne marche à travers l'http -->
+<?xml-stylesheet type="text/xsl" href="../../diple/modules/xrem/rng_html.xsl"?>
 <grammar xmlns="http://relaxng.org/ns/structure/1.0"
 	ns="http://www.tei-c.org/ns/1.0"
 	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
@@ -10,7 +9,7 @@
 
 	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
 		<title>Schéma d'encodage du Littré</title>
-		<h1>SCHÉMA D'ENCODAGE DU LITTRÉ</h1>
+		<h1><i>Littré</i>, structure.</h1>
 		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> conçue par François Gannaz (<a href="http://francois.gannaz.free.fr/Littre/accueil.php">version 1.3</a>) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
 	</a:documentation>
 
@@ -55,7 +54,6 @@
 			<attribute name="xml:id"/>
 		  <ref name="ana"/>
 			<ref name="form"/>
-		  <!-- TODO. entrées particulières codant participes passés, pluriels, etc. -->
 			<optional>
 				<ref name="plan"/>
 			</optional>
@@ -66,7 +64,7 @@
 				<ref name="proverbe"/>
 			</zeroOrMore>
  		  <zeroOrMore>
-		    <ref name="remarque"/>
+		    <ref name="rem"/>
 		  </zeroOrMore>
  		  <zeroOrMore>
 		    <ref name="nuance"/>
@@ -104,10 +102,24 @@
 				</attribute>
 			</optional>
 		  <ref name="ana"/>
-			<ref name="form"/>
-      <optional>
-        <ref name="sense"/>
-      </optional>
+      <element name="form">
+        <ref name="orth"/>
+        <optional>
+          <ref name="pron"/>
+        </optional>
+        <optional>
+          <ref name="gram"/>
+        </optional>
+      </element>
+      <zeroOrMore>
+        <choice>
+          <ref name="xr"/>
+          <ref name="etym"/>
+          <ref name="dictScrap"/>
+          <ref name="def"/>
+          <ref name="rem"/>
+        </choice>
+      </zeroOrMore>
     </element>
   </define>
 
@@ -123,39 +135,26 @@
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Forme de la vedette</b>
 			<p>Au minimum, ces informations se résument à la représentation graphique du mot (<b>orth</b>), éventuellement enrichie d'indications grammaticales (<b>gram</b>) ou sur la prononciation de l'item (<b>pron</b>). Ces indications, le cas échéant, peuvent être enrichies de discussions ou remarques critiques de l'auteur (<b>note</b>), notamment sur la prononciation ou des particularités grammaticales.</p>
 			</a:documentation>
-			<choice>
-				<group> <!-- <form> qui ne sont pas des fils directs de <entry> -->
-					<text/>
-					<optional>
-						<ref name="ref"/>
-						<text/>
-					</optional>
-				</group>
-				<group> <!-- <form> fils direct de <entry> -->
-					<ref name="orth"/>
-					<optional>
-						<ref name="pron"/>
-					</optional>
-					<optional>
-						<text/>
-					</optional>
-					<optional>
-						<ref name="ref"/>
-					</optional>
-					<zeroOrMore>
-						<ref name="cit"/>
-					</zeroOrMore>
-					<optional>
-						<ref name="gram"/>
-					</optional>
-					<optional>
-						<text/>
-					</optional>
-					<optional>
-						<ref name="note"/>
-					</optional>
-				</group>
-			</choice>
+		    <oneOrMore>
+    			<ref name="orth"/>
+    			<ref name="pron"/>
+    			<zeroOrMore>
+    				<ref name="note"/>
+    			</zeroOrMore>
+		      <optional>
+		        <ref name="gram"/>
+		      </optional>
+		    </oneOrMore>
+  			<ref name="gram"/>
+  			<optional>
+  				<ref name="xr"/>
+  			</optional>
+  			<zeroOrMore>
+  				<ref name="cit"/>
+  			</zeroOrMore>
+  			<optional>
+  				<ref name="note"/>
+  			</optional>
 		</element>
 	</define>
 
@@ -182,6 +181,9 @@
 	<define name="gram">
 		<element name="gram">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Indication grammaticale</b></a:documentation>
+		  <optional>
+		    <attribute name="norm"/>
+		  </optional>
 		  <zeroOrMore>
 		    <choice>
     			<text/>
@@ -215,6 +217,12 @@
 	<define name="sense">
 		<element name="sense">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Acception</b>
+			<p>La structure des acceptions formule cette hypothèses à valider :</p>
+			<ul>
+			  <li>Une acception est toujours introduite par une glose (ou citation de définition).</li>
+			  <li>Les sous-acceptions se succèdent en série stricte, sans insertions d'autres composants entre les items.</li>
+			  <li>Les proverbes et les renvois sont toujours renvoyés en fin d'acception.</li>
+			</ul>
 			</a:documentation>
 			<optional> <!-- @n absent si <entry> ne contient qu'un seul <sense>, obligatoire sinon -->
 				<attribute name="n">
@@ -226,18 +234,21 @@
         <ref name="dictScrap"/>
 	      <ref name="cit"/>	    
 		  </choice>
-		  <zeroOrMore>
-		    <choice>
-  		    <ref name="sense2"/>
-  		    <ref name="cit"/>
+	    <zeroOrMore>
+  	    <choice>
+    	    <ref name="cit"/>
           <ref name="dictScrap"/>
-		    </choice>
-		  </zeroOrMore>
+  	    </choice>
+	    </zeroOrMore>
+	    <!-- Avec sous-acception -->
+      <zeroOrMore>
+        <ref name="sense2"/>
+      </zeroOrMore>		    
 		  <zeroOrMore>
 		    <choice>
   		    <ref name="proverbe"/>
   		    <ref name="q"/>
-
+          <ref name="xr"/>
 		    </choice>
 		  </zeroOrMore>
 		</element>
@@ -246,14 +257,25 @@
 	<define name="sense2">
 		<element name="sense">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-acception</b>
+			<p>Est-ce qu'une sous-acception est toujours introduite par une glose (ou une citation de définition) ?</p>
 			</a:documentation>
 		  <ref name="ana"/>
+			<choice>
+				<ref name="cit"/>
+				<ref name="dictScrap"/>
+			</choice>
+		  <zeroOrMore>
+		    <choice>
+      		<ref name="cit"/>
+					<ref name="dictScrap"/>
+		    </choice>
+		  </zeroOrMore>
 			<zeroOrMore>
 				<choice>
-					<ref name="cit"/>
-					<ref name="dictScrap"/>
+				  <ref name="xr"/>
+  		    <ref name="proverbe"/>
 				</choice>
-			</zeroOrMore>
+			</zeroOrMore>		  
 		</element>
 	</define>
   
@@ -266,9 +288,38 @@
 		  <zeroOrMore>
 		    <choice>
   				<text/>
+  				<ref name="def"/>
   				<ref name="q"/>
 	   			<ref name="ref"/>
 	   			<ref name="oVar"/>
+		    </choice>
+		  </zeroOrMore>
+		</element>
+	</define>
+
+  <define name="def">
+    <element name="def">
+      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Définition</b>
+      </a:documentation>
+		  <zeroOrMore>
+		    <choice>
+		      <text/>
+		    </choice>
+		  </zeroOrMore>
+    </element>
+  </define>
+
+	<!-- appelé par <dictScrap> et <note type="rem"> -->
+	<define name="q">
+		<element name="q">
+			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Exemple, Locution</b>
+				<p>Cet élément, codant un discours à détacher de celui de l'auteur, dénote principalement des exemples, éventuellement des locutions figées voire des proverbes (la frontière est parfois mince).</p>
+				<p>Le besoin de sous-structuration de ces textes permet le repérage et l'analyse de nombreuses marques chères à l'auteur, révélant un texte très structuré, notamment dans la séparation entre les locutions et leur glose.<br/><i>exemple : « se dit de », « se dit quand », « c'est-à-dire ».</i></p>
+			</a:documentation>
+		  <zeroOrMore>
+		    <choice>
+		      <text/>
+		      <ref name="oVar"/>
 		    </choice>
 		  </zeroOrMore>
 		</element>
@@ -331,7 +382,7 @@
 		<p>Toujours suivant ce principe directeur de « combine[r] l'usage présent de la langue et son usage passé, afin de donner à l'usage présent toute la plénitude et la sûreté qu'il comporte », Littré éclaire certaines proscriptions contemporaines concernant des faits de langue pourtant attestés chez les grands auteurs classiques.</p>
 	</a:documentation>
 
-	<define name="remarque">
+	<define name="rem">
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Remarque</b></a:documentation>
 			<attribute name="type">
@@ -383,7 +434,9 @@
 		  <zeroOrMore>
 		    <choice>
   				<text/>
-		      <ref name="form"/>
+		      <element name="form">
+		        <text/>
+		      </element>
       		<ref name="cit"/>
       		<ref name="ref"/>
 		    </choice>
@@ -451,7 +504,9 @@
 			<zeroOrMore>
 				<choice>
     			<text/>
+					<ref name="oVar"/>
 					<ref name="cit"/>
+					<ref name="xr"/>
 					<ref name="ref"/>
 				</choice>
 				<text/>
@@ -492,7 +547,7 @@
 					<ref name="dictScrap"/> <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
 					<ref name="etym"/>
 					<ref name="histoire"/>
-					<ref name="remarque"/>
+					<ref name="rem"/>
 					<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
 					<ref name="nuance"/>
 					<ref name="proverbe"/>
@@ -548,23 +603,8 @@
 		</element>
 	</define>
 
-	<!-- appelé par <dictScrap> et <note type="remarque"> -->
-	<define name="q">
-		<element name="q">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Exemple, Locution</b>
-				<p>Cet élément, codant un discours à détacher de celui de l'auteur, dénote principalement des exemples, éventuellement des locutions figées voire des proverbes (la frontière est parfois mince).</p>
-				<p>Le besoin de sous-structuration de ces textes permet le repérage et l'analyse de nombreuses marques chères à l'auteur, révélant un texte très structuré, notamment dans la séparation entre les locutions et leur glose.<br/><i>exemple : « se dit de », « se dit quand », « c'est-à-dire ».</i></p>
-			</a:documentation>
-		  <zeroOrMore>
-		    <choice>
-		      <text/>
-		      <ref name="oVar"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
 
- <define name="ref"> <!-- TODO Encadrer de <xr>-->
+  <define name="ref"> <!-- TODO Encadrer de <xr>-->
 		<element name="ref">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Renvoi</b>
 			<p>Littré intègre à son <i>Dictionnaire de la langue française</i> de nombreux renvois entre différentes entrées, qu'il convient de structurer finement afin de mieux comprendre le squelette définitionnel des items. Cela permettrait de représenter systématiquement ce réseau voulu par l'auteur et donner ainsi au texte une vraie dimension électronique, une réelle épaisseur.<br/>Le lien entre le renvoi et sa référence est désormais assuré par la mise en place des attributs <b>@xml:id</b></p>
@@ -572,7 +612,21 @@
 			<attribute name="target"/> <!-- TODO ajouter <data type="anyURI"/> -->
 			<text/>
 		</element>
-	</define>
+  </define>
+  
+  <define name="xr">
+    <element name="xr">
+      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Corrélat</b>
+      <p>Contient un renvoi avec ses introducteurs</p>
+      </a:documentation>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="ref"/>
+        </choice>
+      </oneOrMore>
+    </element>  
+  </define>
 
 	<define name="re"> <!-- TODO supprimer <re> sans attribut -->
 		<element name="re">

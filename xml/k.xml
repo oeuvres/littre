@@ -70,15 +70,13 @@
 <dictScrap>Voy. <ref target="caaba">CAABA</ref>. Voltaire l'a fait masculin : Le <oVar>Kaaba</oVar> passait pour le plus ancien temple du monde, Mœurs, 7.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="kab">
+<entryFree xml:id="kab">
 <form>
 <orth>KAB</orth>
 <pron>kab</pron>
 </form>
-<sense>
-<dictScrap>Voy. CAB, mesure des Hébreux.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="cab">CAB</ref>, mesure des Hébreux.</xr>
+</entryFree>
 <entry xml:id="kabak">
 <form>
 <orth>KABAK</orth>
@@ -210,7 +208,12 @@
 </sense>
 </entry>
 <entry xml:id="kakatoës">
-<form><orth>KAKATOËS</orth><pron>ka-ka-toî</pron> (écrit par l'Académie elle-même KAKATOÈS, au mot CACATOIS), s. m. </form>
+<form>
+<orth>KAKATOËS</orth>
+<pron>ka-ka-toî</pron> 
+<note>(écrit par l'Académie elle-même KAKATOÈS, au mot CACATOIS)</note>
+<gram>s. m.</gram>
+</form>
 <sense>
 <dictScrap>Terme de zoologie. Genre de la famille des psittacidés, le genre cacatua, BRISSON.</dictScrap>
 <sense>
@@ -1477,15 +1480,13 @@
 </sense>
 <etym>Terme grec signifiant mille, et are.</etym>
 </entry>
-<entry xml:id="kilo-.1">
+<entryFree xml:id="kilo-.1">
 <form>
 <orth>KILO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Préfixe qui, dans le système métrique, signifie mille. D'origine grecque, kilo aurait dû, en conséquence, être écrit kilio, et mieux chilio.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="kilo.2">
 <form>
 <orth>KILO</orth>
@@ -2184,14 +2185,12 @@
 <dictScrap>Nom d'un héros du Mahabhârata (grand poëme indien), qui est une incarnation de Vichnou ; <oVar>krichna</oVar> signifie proprement noir.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="kriss">
+<entryFree xml:id="kriss">
 <form>
 <orth>KRISS</orth>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="criss">CRISS</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="criss">CRISS</ref>.</xr>
+</entryFree>
 <entry xml:id="krohor">
 <form>
 <orth>KROHOR</orth>

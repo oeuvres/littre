@@ -21,38 +21,78 @@
   </xsl:template>
   
   <!-- traversé -->
-  <xsl:template match="tei:text | tei:body | tei:note/tei:p">
+  <xsl:template match="tei:text | tei:note/tei:p">
     <xsl:apply-templates select="*"/>
+  </xsl:template>
+  <xsl:template match="tei:body">
+    <xsl:for-each select="*">
+      <xsl:apply-templates select="."/>
+      <hr/>
+    </xsl:for-each>
   </xsl:template>
   <!-- arrêté -->
   <xsl:template match="tei:teiHeader"/>
+  <!-- Article -->
+  <xsl:template match="tei:entry | tei:entryFree">
+    <div>
+      <xsl:call-template name="class"/>
+      <xsl:apply-templates select="tei:form"/>
+      <xsl:choose>
+        <xsl:when test="tei:sense[2]">
+          <ol>
+            <xsl:for-each select="tei:sense">
+              <li class="sense1">
+                <xsl:call-template name="sense1"/>
+              </li>
+            </xsl:for-each>
+          </ol>
+        </xsl:when>
+        <xsl:when test="tei:sense">
+          <xsl:for-each select="tei:sense">
+            <div class="sense1">
+              <xsl:call-template name="sense1"/>
+            </div>
+          </xsl:for-each>
+        </xsl:when>
+      </xsl:choose>
+      <xsl:apply-templates select="tei:note[not(@type='plan')] | tei:re | tei:etym"/>      
+    </div>
+  </xsl:template>
   <!-- blocs génériques -->
-  <xsl:template match="tei:entry | tei:sense | tei:note | tei:re ">
+  <xsl:template match="tei:note | tei:re ">
     <div>
       <xsl:call-template name="class"/>
       <xsl:apply-templates/>
     </div>
   </xsl:template>
   <!-- Sens (niv 1) -->
-  <xsl:template match="tei:sense">
-    <div class="sense1">
-      <xsl:if test="@n">
-        <b>
-          <xsl:value-of select="@n"/>
-          <xsl:text>.</xsl:text>
-        </b>
-        <xsl:text> </xsl:text>
-      </xsl:if>
-      <xsl:apply-templates/>
-    </div>
-  </xsl:template>
-  <!-- Sens (niv 2) -->
-  <xsl:template match="tei:sense/tei:sense">
-    <div class="sense2">
-      <b>♦</b>
+  <xsl:template match="tei:sense" name="sense1">
+    <!--
+    <xsl:if test="@n">
+      <b>
+        <xsl:value-of select="@n"/>
+        <xsl:text>.</xsl:text>
+      </b>
       <xsl:text> </xsl:text>
+    </xsl:if>
+    -->
+    <xsl:apply-templates select="tei:dictScrap | tei:cit"/>
+    <xsl:if test="tei:sense">
+      <ul>
+        <xsl:apply-templates select="tei:sense"/>
+      </ul>
+    </xsl:if>
+    <xsl:apply-templates select="tei:re | tei:q | tei:xr"/>
+  </xsl:template>
+  <!-- Sens (niv 2) 
+        <b>♦</b>
+      <xsl:text> </xsl:text>
+
+  -->
+  <xsl:template match="tei:sense/tei:sense">
+    <li class="sense2">
       <xsl:apply-templates/>
-    </div>
+    </li>
   </xsl:template>
   <!-- Rappel de la vedette -->
   <xsl:template match="tei:oVar">
@@ -62,24 +102,50 @@
   </xsl:template>
   <!-- texte génériques -->
   <xsl:template match="tei:author | tei:oVar | tei:biblScope | tei:gram | tei:quote | tei:quote/tei:note">
-    <span>
-      <xsl:call-template name="class"/>
-      <xsl:apply-templates/>
-    </span>
+    <xsl:if test="normalize-space(.)">
+      <span>
+        <xsl:call-template name="class"/>
+        <xsl:apply-templates/>
+      </span>
+    </xsl:if>
   </xsl:template>
   <!-- référence biblio -->
   <xsl:template match="tei:bibl">
     <xsl:text> </xsl:text>
-    <small class="bibl">(<xsl:apply-templates/>)</small>
+    <small class="bibl">
+      <xsl:text>(</xsl:text>
+      <xsl:for-each select="*">
+        <xsl:apply-templates/>
+        <xsl:choose>
+          <xsl:when test="position()=last()"/>
+          <xsl:otherwise>
+            <xsl:text> </xsl:text>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
+      <xsl:text>)</xsl:text>
+    </small>
   </xsl:template>
   <xsl:template match="tei:pron">
     <tt>(<xsl:apply-templates/>)</tt>
   </xsl:template>
   <!-- paragraphe générique -->
-  <xsl:template match="tei:form | tei:etym | tei:dictScrap">
+  <xsl:template match="tei:etym | tei:dictScrap">
     <p>
       <xsl:call-template name="class"/>
       <xsl:apply-templates/>
+    </p>      
+  </xsl:template>
+  <!-- Entête étymologique -->
+  <xsl:template match="tei:form">
+    <p class="form">
+      <xsl:for-each select="*[text()]">
+        <xsl:apply-templates select="."/>
+        <xsl:choose>
+          <xsl:when test="position() = last()"/>
+          <xsl:otherwise>, </xsl:otherwise>
+        </xsl:choose>        
+      </xsl:for-each>
     </p>      
   </xsl:template>
   <!-- -->
@@ -115,6 +181,16 @@
       <xsl:apply-templates/>
     </a>
   </xsl:template>
+  <xsl:template match="tei:xr">
+    <span class="xr">
+      <xsl:apply-templates/>
+    </span>
+  </xsl:template>
+  <xsl:template match="tei:note[@type='H']">
+    <div class="H">
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
   <!-- siècle dans la section historique -->
   <xsl:template match="tei:label">
     <label>
@@ -126,6 +202,12 @@
     <q>
       <xsl:apply-templates/>
     </q>
+  </xsl:template>
+  <!-- définition -->
+  <xsl:template match="tei:dfn">
+    <dfn>
+      <xsl:apply-templates/>
+    </dfn>
   </xsl:template>
   <!-- Citation -->
   <xsl:template match="tei:cit">

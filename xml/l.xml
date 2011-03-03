@@ -69,6 +69,7 @@
 <entry xml:id="la.1">
 <form>
 <orth>LA</orth>
+<pron/>
 <gram>article féminin</gram>
 </form>
 <sense>
@@ -78,6 +79,7 @@
 <entry xml:id="la.2">
 <form>
 <orth>LA</orth>
+<pron/>
 <gram>pronom relatif</gram>
 </form>
 <sense>
@@ -2619,7 +2621,8 @@
 <sense>
 <dictScrap>On dit qu'un chemin de fer a un mouvement de <oVar>lacet</oVar>, quand il éprouve en marchant un mouvement latéral de va-et-vient ou de roulis, causé par un manque d'adaptation et d'ajustement entre les roues et la largeur des rails.</dictScrap>
 </sense>
-</sense><sense n="10">
+</sense>
+<sense ana="supplement" n="10">
 <dictScrap>Sorte de coutil.</dictScrap>
 <cit>
 <quote>Coutils rayés pour literie, fantaisie pour stores, lacets bleus et blancs pour habillements...</quote>
@@ -2646,10 +2649,6 @@
 </cit>
 </note>
 <etym>Diminutif de lacs ; bourguig. laissô ; wallon, lèsète ; namur. lasète ; provenç. lassol.</etym>
-<re ana="supplement" orig=" LACET. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="laceur">
 <form>
@@ -3527,7 +3526,8 @@
 </sense>
 <sense n="13">
 <dictScrap>Dans un langage bas, se <oVar>lâcher</oVar>, ne pouvoir retenir un vent. Votre Majesté, je crois, s'est <oVar>lâchée</oVar>, Couplet ajouté à la chanson du roi Dagobert.</dictScrap>
-</sense><sense n="14">
+</sense>
+<sense ana="supplement" n="14">
 <dictScrap>S. m. Action de <oVar>lâcher</oVar>, de laisser aller.</dictScrap>
 <cit>
 <quote>Environ 100 pigeons avaient été apportés ; le lâcher a été fait dans la prairie</quote>
@@ -3633,10 +3633,6 @@
 </cit>
 </note>
 <etym>Berry, lâcher, cesser ; il ne lâche pas de parler ; provenç. laxar, laschar ; espagn. et portug. laxar ; ital. lasciare ; du lat. laxare, rendre lâche, détendu, qui vient de laxus, lâche.</etym>
-<re ana="supplement" orig=" LÂCHER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lachésis">
 <form>
@@ -3849,7 +3845,14 @@
 <etym>Lâcher.</etym>
 </entry>
 <entry xml:id="lacier">
-<form><orth>LACIER</orth><pron>la-sié</pron>, s. m. ou LACIÈRE (la-siè-r'), s. f. </form>
+<form>
+<orth>LACIER</orth>
+<pron>la-sié</pron>
+<gram>s. m.</gram> 
+<orth>LACIÈRE</orth>
+<pron>la-siè-r'</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Espèce de filet à manche pour la pêche.</dictScrap>
 <sense>
@@ -4069,7 +4072,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>S. m. Le <oVar>laconique</oVar>, le style <oVar>laconique</oVar>, en peu de paroles.</dictScrap>
 <cit>
 <quote>Nous avons lu et relu votre mémoire, c'est une pièce achevée ; il n'y fallait pas moins de paroles ; le laconique serait fort dangereux en pareille occasion</quote>
@@ -4813,7 +4817,8 @@
 </form>
 <sense>
 <dictScrap>Terme d'histoire naturelle. Qui offre ou contient des lacunes.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Qui contient des lacunes, en parlant d'un texte, d'un écrit, d'un livre.</dictScrap>
 <cit>
 <quote>Ce passage [ch. V et VI] est un de ceux pour lesquels le Codex Alexandrinus [qui contient les Épîtres de Clément Romain] est le plus lacuneux</quote>
@@ -5609,15 +5614,14 @@
 </note>
 <etym>Provenç. lais, lays ; angl. lay ; du celtique : kymri, llais, son, mélodie ; gaélique, laoith ; comparez le bas-latin leudus, sorte de chant guerrier qui se trouve dans Fortunat, et l'allemand Lied, chanson.</etym>
 </entry>
-<entry xml:id="laïc">
+<entryFree xml:id="laïc">
 <form>
 <orth>LAÏC</orth>
 <pron>la-ik</pron>
+<gram/>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="laïque">LAÏQUE</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="laïque">LAÏQUE</ref>.</xr>
+</entryFree>
 <entry xml:id="laiche">
 <form>
 <orth>LAICHE</orth>
@@ -5637,7 +5641,8 @@
 </form>
 <sense>
 <dictScrap>Nom d'une doctrine répandue au XVIe siècle en Angleterre, qui reconnaissait aux laïques le droit de gouverner l'Église.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>L'ensemble, le caractère des laïques.</dictScrap>
 <cit>
 <quote>Quelques prélats se sont déjà préoccupés de l'importance croissante que le laïcisme prend dans l'Église</quote>
@@ -6423,7 +6428,8 @@
 <biblScope>Enquête, Traité de comm. avec l'Anglet. t. III, p. 13</biblScope>
 </bibl>
 </cit>
-</sense><sense n="11">
+</sense>
+<sense ana="supplement" n="11">
 <dictScrap><oVar>Laine</oVar> artificielle, <oVar>laine</oVar> qu'on tire de vieux tissus.</dictScrap>
 <cit>
 <quote>C'est à Batley et à Dewsbury que l'on apporte toutes sortes de vieux chiffons,... et qu'à l'aide d'une machine puissante, ces chiffons sont ramenés à l'état de laine primitive ; dans l'origine, les laines artificielles ne servaient qu'à confectionner des doublures ; aujourd'hui on les emploie à la fabrication des velours, des droguets, des tapis, des couvertures de table et même des draps</quote>
@@ -6558,7 +6564,8 @@
 <sense>
 <dictScrap>S. f. Laineuse, machine qu'on a substituée aux têtes de chardon, aux brosses et aux cardes, pour lainer le drap.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Celui qui prépare la laine propre à la fabrication des châles et étoffes, Tarif des patentes, 1858.</dictScrap>
 </sense>
 <etym>Laine.</etym>
@@ -6608,7 +6615,8 @@
 <biblScope>ib. t. XI, p. 396</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
+</sense>
+<sense ana="supplement" n="6">
 <dictScrap>S. f. Espèce de chenille, la <oVar>laineuse</oVar> du cerisier, bombyx lanestris, la <oVar>laineuse</oVar> du chêne, bombyx catax.</dictScrap>
 </sense>
 <note type="H">
@@ -9412,7 +9420,8 @@
 <sense>
 <dictScrap><oVar>Lait</oVar> de montagne, variété terreuse de carbonate de chaux.</dictScrap>
 </sense>
-</sense><sense n="17">
+</sense>
+<sense ana="supplement" n="17">
 <dictScrap>Arbre à <oVar>lait</oVar> ou arbre à la vache, voy. ARBRE à LA VACHE dans le Supplément, au mot ARBRE.</dictScrap>
 </sense>
 <re type="P">Le vin est le lait des vieillards, il soutient leurs forces. </re>
@@ -9530,10 +9539,6 @@
 </cit>
 </note>
 <etym>Bourguig. laissea ; wallon, lèsai ; namur, lasia ; Hainaut, lachau, lassau ; bressan, lassay ; provenç. lach, lag, lait, layt ; catal. llet ; espagn. leche ; portug. leite ; ital. latte ; du lat. lactem, accusatif archaïque de lac. Comp. le celtique : kymri, llaeth ; irland. lacht ; bas-bret leaz. Les patois laissea, lèsai, etc. viennent d'un diminutif lactellum.</etym>
-<re ana="supplement" orig=" LAIT. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="laitage">
 <form>
@@ -9797,7 +9802,8 @@
 <biblScope>Min. t. VI, p. 184</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Huître <oVar>laiteuse</oVar>, huître fécondée.</dictScrap>
 <cit>
 <quote>Sur 435 huîtres d'un an.... il s'en est trouvé 35 laiteuses, c'est-à-dire ayant les œufs ou les jeunes en incubation dans le manteau, et à divers degrés de développement</quote>
@@ -10192,6 +10198,7 @@
 <form>
 <orth>LA LA</orth>
 <pron>la-la</pron>
+<gram/>
 </form>
 <sense n="1">
 <dictScrap>Espèce d'interjection employée pour apaiser, pour consoler, pour menacer. <oVar>La</oVar> <oVar>la</oVar>, rassurez-vous, il n'y a rien à craindre. <oVar>La</oVar> <oVar>la</oVar>, monsieur, ne continuez pas sur ce ton.</dictScrap>
@@ -10413,7 +10420,8 @@
 </form>
 <sense>
 <dictScrap>La onzième lettre de l'alphabet grec, de l'ordre des liquides ; c'est notre l.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Terme d'anatomie. La suture occipito-pariétale qui ressemble au <oVar>lambda</oVar> des Grecs.</dictScrap>
 <cit>
 <quote>La courbe occipito-frontale [sur un crâne de nègre] forme une légère ondulation sur le lambda</quote>
@@ -10634,6 +10642,7 @@
 <form>
 <orth>LAMBERT (SAINT-)</orth>
 <pron>sin-lan-bêr</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>C'est aujourd'hui la Saint-<oVar>Lambert</oVar>, Qui quitte sa place la perd ; locution qui vient, dit-on, de ce que la ville de Troyes, prise le jour de la Saint-<oVar>Lambert</oVar> en 1590, fut reprise presque aussitôt après. Il est aujourd'hui Saint-<oVar>Lambert</oVar> ; Qui sort de sa place il la pert, OUDIN, Curios. franç. Il serait possible que dans ce dicton la prise de Troyes ne fût pour rien, et qu'il n'y eût là qu'un jeu de rime ; ce qui porte à le croire, c'est que, quand on peut reprendre sa place, on dit : C'est aujourd'hui la Saint-Laurent, Qui perd sa place la reprend.</dictScrap>
@@ -10748,16 +10757,11 @@
 </sense>
 </sense><sense n="5" ana="supplement">
 <dictScrap>En fortification, pièce de bois de fort équarrissage employée pour la construction des plates-formes de mortiers.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense ana="supplement" n="6">
 <dictScrap>Terme d'exploitation houillère. Madrier que l'on place pour la construction d'un puits.</dictScrap>
 </sense>
 <etym>M. Scheler croit que lambourde tient à lambeau, mais sans preuves à l'appui.</etym>
-<re ana="supplement" orig=" 1. LAMBOURDE. Ajoutez : ">
-
-
-
-
-</re>
 </entry>
 <entry xml:id="lambourde.2">
 <form>
@@ -10908,7 +10912,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Nom donné à un sciage mince ou planches qui n'ont que 0m,014, 0m,018 ou 0m,020 d'épaisseur, 6, 8 ou 9 lignes, NANQUETTE, Exploit. débit et estim. des bois, Nancy, 1868, p. 87.</dictScrap>
 </sense>
 <note type="H">
@@ -10961,10 +10966,6 @@
 </cit>
 </note>
 <etym>Il y a un ancien mot lambre qui paraît bien être le radical de lambris. Diez le tire du latin lamina, lame, comme marbre, de marmor ; il faut alors admettre un changement de genre, car lambre est du masculin. Du Cange, au contraire, voit dans lambre ou lambris le latin ambrices ( i bref), de même sens ; mais alors il faut admettre que l'article s'y est agglutiné. Malgré cette difficulté, qui est grande pour le XIIIe siècle, on doit incliner à l'avis de Du Cange ; ambrices avec l'accent sur am, a donné ambre, d'où, si l'on admet l'agglutination, lambre. Lambrois et lambris sont des dérivés réguliers de lambre ; lambru en est un dérivé barbare.</etym>
-<re ana="supplement" orig=" LAMBRIS. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lambrissage">
 <form>
@@ -11354,8 +11355,9 @@
 <biblScope>Journ. des Débats, 28 sept. 1876, 3e page, 3e col.</biblScope>
 </bibl>
 </cit>
-<note>(voy. <ref target="redoune ">REDOUNE </ref>au Supplément).</note>
-</sense><sense n="15">
+<xr>(voy. <ref target="redoune ">REDOUNE </ref>au Supplément).</xr>
+</sense>
+<sense ana="supplement" n="15">
 <dictScrap>Terme d'anatomie. <oVar>Lame</oVar> criblée, partie de l'ethmoïde par laquelle les filets du nerf olfactif passent dans les fosses nasales.</dictScrap>
 </sense>
 <note type="H">
@@ -11443,11 +11445,6 @@
 </cit>
 </note>
 <etym>Provenç. espagn. et ital. lamina ; et aussi provenç. lama, laima ; ital. lama ; du lat. lamina, qui a l'accent sur la. On trouve déjà dans Horace, Odes, II, 2, la contraction lamna pour lamina.</etym>
-<re ana="supplement" orig=" LAME. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="lamé">
 <form>
@@ -11838,6 +11835,7 @@
 <form>
 <orth>LAMENTER</orth>
 <pron>la-man-té</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. a. Plaindre par lamentations.</dictScrap>
@@ -11975,15 +11973,14 @@
 </note>
 <etym>Wallon, se lammenter ; norm. guermenter ; Berry, se guementer ; du lat. lamentari. Il a donné dans les patois et l'ancien français gamenter, guementer, par le changement de l'l en g (comparez vomir et gomir, lièvre et gueuvre) ; puis guermenter, garmenter, avec l'épenthèse d'une r, comme arme pour âme, hurler pour uller, etc. Lamentari est le verbe dénominatif de lamentum, qui représente clamentum, par une chute du c qui n'est pas sans exemple en latin ; clamentum tient à clamare (voy. <ref target="clameur">CLAMEUR</ref>).</etym>
 </entry>
-<entry xml:id="lamentin">
+<entryFree xml:id="lamentin">
 <form>
 <orth>LAMENTIN</orth>
 <pron>la-man-tin</pron>
+<gram/>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lamantin">LAMANTIN</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lamantin">LAMANTIN</ref>.</xr>
+</entryFree>
 <entry xml:id="lamette">
 <form>
 <orth>LAMETTE</orth>
@@ -12050,13 +12047,10 @@
 </form>
 <sense>
 <dictScrap>Ouvrier qui prépare les lames d'or et d'argent pour les étoffes.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap><oVar>Lamier</oVar>-rotier, celui qui fait des lames (ou ros) pour les métiers à tisser, Tarif des patentes, 1858.</dictScrap>
 </sense>
-<re ana="supplement" orig=" 1. LAMIER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lamier.2">
 <form>
@@ -12089,6 +12083,8 @@
 <form>
 <orth>LAMINAIRE</orth>
 <pron>la-mi-nê-r'</pron>
+<gram norm="S"/>
+<gram norm="A"/>
 </form>
 <sense n="1">
 <dictScrap>Adj. Terme de minéralogie. Qui est composé de lames parallèles.</dictScrap>
@@ -12317,7 +12313,8 @@
 </form>
 <sense>
 <dictScrap>Terme de commerce. Huile lampante, huile bien claire et bien purifiée.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Il se dit du vin au sens de corsé, bon à boire, à lamper.</dictScrap>
 <cit>
 <quote>Que la progression [des vins dans un repas] soit des plus lampants aux plus parfumés</quote>
@@ -12327,10 +12324,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" LAMPANT. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lampas.1">
 <form>
@@ -12598,6 +12591,9 @@
 <sense n="8">
 <dictScrap>Cul-de-<oVar>lampe</oVar>, voy. <ref target="cul#var13">CUL, n° 13</ref>.</dictScrap>
 </sense>
+<sense n="9" ana="supplement">
+<dictScrap>Terme de boucherie. Région, dite aussi hampe, grasses, fras, œillet, les œillères, qui s'étend de la partie postérieure et latérale du ventre vers l'extrémité inférieure et antérieure de la cuisse.</dictScrap>
+</sense>
 <re type="P"><form>Il n'y a plus d'huile dans la lampe</form>, se dit d'une personne qui s'éteint par défaillance de nature, par le grand âge. </re>
 <re type="P"><form>Il ne faut pas mettre la lampe allumée sous le boisseau</form>, c'est-à-dire il ne faut ni ôter, ni refuser à autrui les moyens de s'éclairer, de s'instruire. </re>
 <note type="H">
@@ -12669,13 +12665,7 @@
 </form>
 <sense>
 <dictScrap>Terme de commerce. Espèce d'étamine que l'on fabriquait dans les environs d'Orléans.</dictScrap>
-</sense><sense n="9">
-<dictScrap>Terme de boucherie. Région, dite aussi hampe, grasses, fras, œillet, les œillères, qui s'étend de la partie postérieure et latérale du ventre vers l'extrémité inférieure et antérieure de la cuisse.</dictScrap>
 </sense>
-<re ana="supplement" orig=" LAMPE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lampé">
 <form>
@@ -12721,9 +12711,16 @@
 </sense>
 </sense>
 <etym>Forme nasalisée de laper.</etym>
-<re ana="supplement" orig=" 2. LAMPER (lan-pé), v. a. Se dit, en termes de marin, de la mer devenue phosphorescente. La mer lampe. la mer a lampé cette nuit. ">
-
-</re>
+</entry>
+<entry xml:id="lampe.2" ana="supplement">
+<form>
+<orth>LAMPER</orth>
+<pron>lan-pé</pron>
+<gram>v. a.</gram>
+</form>
+<sense>
+<dictScrap>Se dit, en termes de marin, de la mer devenue phosphorescente. La mer lampe. la mer a lampé cette nuit.</dictScrap>
+</sense>
 <etym>Lampe.</etym>
 </entry>
 <entry xml:id="lamperie">
@@ -12825,6 +12822,7 @@
 <form>
 <orth>LAMPISTE</orth>
 <pron>lan-pi-st'</pron>
+<gram norm="S"/>
 </form>
 <sense n="1">
 <dictScrap>S. m. Ouvrier qui fait et vend des lampes.</dictScrap>
@@ -13022,14 +13020,12 @@
 </sense>
 <etym>Terme grec signifiant lumineux, et mètre.</etym>
 </entry>
-<entry xml:id="lamproyon">
+<entryFree xml:id="lamproyon">
 <form>
 <orth>LAMPROYON</orth>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lamprillon">LAMPRILLON</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lamprillon">LAMPRILLON</ref>.</xr>
+</entryFree>
 <entry xml:id="lampsane">
 <form>
 <orth>LAMPSANE</orth>
@@ -13092,13 +13088,10 @@
 </form>
 <sense>
 <dictScrap>Terme de marine. Action de lancer un bâtiment à la mer.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Sous l'ancienne monarchie, droit perçu sur le premier voyage de chaque bateau neuf, BOISLISLE, Corresp. contrôl. gén. des finances, p. 343, 1693.</dictScrap>
 </sense>
-<re ana="supplement" orig=" LANÇAGE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lancastérien">
 <form>
@@ -13355,7 +13348,8 @@
 <dictScrap>Terme d'antiquité chrétienne. La sainte <oVar>lance</oVar>, instrument liturgique chez les Grecs ; c'est une espèce de couteau dont la lame a la forme de <oVar>lance</oVar>, et dont le manche allongé se termine par une croix ; il servait à séparer de la masse du pain offert l'hostie qui devait être consacrée.</dictScrap>
 </sense><sense n="21" ana="supplement">
 <dictScrap>Pièce métallique qui garnit l'extrémité du boyau des pompes à incendie : le pompier la tient à la main et s'en sert pour diriger le jet.</dictScrap>
-</sense><sense n="22">
+</sense>
+<sense ana="supplement" n="22">
 <dictScrap>En pyrotechnie, on donne le nom de <oVar>lances</oVar> à de petits cylindres en papier ou en carton mince, remplis de composition fusante ; ces cylindres sont placés à peu de distance les uns des autres et le long des lignes fixes des objets que l'on veut représenter dans les feux d'artifices.</dictScrap>
 <cit>
 <quote>Il fallait de toute nécessité, pour que ce spectacle offrît de tous les côtés le même attrait, renoncer aux pièces [d'artifice] dites en lances</quote>
@@ -13950,7 +13944,8 @@
 <biblScope>Enquête, Traité de comm. avec l'Anglet. t. III, p. 644</biblScope>
 </bibl>
 </cit>
-</sense><sense n="14">
+</sense>
+<sense ana="supplement" n="14">
 <dictScrap>S. m. Un <oVar>lancer</oVar>, une action de <oVar>lancer</oVar>.</dictScrap>
 <cit>
 <quote>Samedi a eu lieu à Marseille un lancer de vingt-sept pigeons voyageurs des sociétés colombophiles de Paris</quote>
@@ -14175,7 +14170,8 @@
 <biblScope>Journ. offic. 19 mars 1877, p. 2162, 1re col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <cit>
 <quote>Appareil qui lance un liquide ou un fluide</quote>
 <bibl>
@@ -14516,6 +14512,7 @@
 <form>
 <orth>LANDERIRÈTE</orth>
 <pron>lan-de-ri-rè-t'</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Mot de fantaisie qui se trouve dans le refrain de certaines chansons.</dictScrap>
@@ -14643,14 +14640,12 @@
 </sense>
 <etym>Lande.</etym>
 </entry>
-<entry xml:id="landit">
+<entryFree xml:id="landit">
 <form>
 <orth>LANDIT</orth>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lendit">LENDIT</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lendit">LENDIT</ref>.</xr>
+</entryFree>
 <entry xml:id="landsturm">
 <form>
 <orth>LANDSTURM</orth>
@@ -15447,7 +15442,8 @@
 </form>
 <sense>
 <dictScrap>Sorte d'écrevisse de mer, genre de crustacés décapodes macroures dont toutes les pattes sont monodactyles, et qui sont alimentaires ; la <oVar>langouste</oVar> diffère du homard en ce qu'elle n'a pas les deux grosses pinces du devant.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Anciennement, sauterelle.</dictScrap>
 <cit>
 <quote>Ceins d'un cuir de brebis ton corps, pour couverture Prends un rude poil de chameau, La langouste et le miel pour toute nourriture, Et pour tout breuvage un peu d'eau</quote>
@@ -15494,13 +15490,16 @@
 </cit>
 </note>
 <etym>Provenç. langosta, lengosta, lingosta ; anc. catal. lagosta, llangosta ; espagn. langosta ; portug. lagosta ; du lat. locusta, sauterelle, avec épenthèse de l'n, comme dans rendre, de reddere. Langouste, dans les anciens textes, signifie sauterelle ; nom qui, par assimilation, a passé à la langouste de mer ; c'est ainsi que les crevettes sur les côtes de Normandie sont appelées sauterelles.</etym>
-<re ana="supplement" orig=" LANGOUSTE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="langoustier">
-<form><orth>LANGOUSTIER</orth><pron>lan-gou-stié</pron>, s. m. et LANGOUSTIÈRE (lan-gou-stiè-r'), s. f. </form>
+<form>
+<orth>LANGOUSTIER</orth>
+<pron>lan-gou-stié</pron>
+<gram>s. m.</gram>
+<orth>LANGOUSTIÈRE</orth>
+<pron>lan-gou-stiè-r'</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Filet pour prendre les langoustes.</dictScrap>
 </sense>
@@ -16511,7 +16510,8 @@
 <biblScope>Oeuvres de Benvenuto Cellini, trad. L. Léclanché, Traité de l'orfévrerie, ch. XII, ou t. II, p. 325</biblScope>
 </bibl>
 </cit>
-</sense><sense n="24">
+</sense>
+<sense ana="supplement" n="24">
 <dictScrap>Anciennement, <oVar>langue</oVar> de bœuf, dague, miséricorde très large, portant souvent, dans sa gaîne, un petit couteau nommé bâtardeau.</dictScrap>
 </sense>
 <re type="P"><form>L'usage est le tyran des langues</form>, c'est-à-dire l'usage prévaut sur les règles de la grammaire. </re>
@@ -18191,20 +18191,19 @@
 <form>
 <orth>LANLAIRE</orth>
 <pron>lan-lê-r'</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Mot de fantaisie qu'on peut considérer comme une interjection devenue nom, et qui est usité dans cette locution populaire : Envoyer faire <oVar>lanlaire</oVar>, envoyer promener, se débarrasser sans cérémonie de quelqu'un qui importune.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="lans">
+<entryFree xml:id="lans">
 <form>
 <orth>LANS</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lan">LAN</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lan">LAN</ref>.</xr>
+</entryFree>
 <entry xml:id="lansac">
 <form>
 <orth>LANSAC</orth>
@@ -18215,15 +18214,13 @@
 <dictScrap>Variété de poire d'automne.</dictScrap>
 </sense>
 </entry>
-<entry xml:id="lanspessade">
+<entryFree xml:id="lanspessade">
 <form>
 <orth>LANSPESSADE</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lancepessade">LANCEPESSADE</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lancepessade">LANCEPESSADE</ref>.</xr>
+</entryFree>
 <entry xml:id="lansquenet">
 <form>
 <orth>LANSQUENET</orth>
@@ -18405,6 +18402,16 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap>Faire <oVar>lanterne</oVar>, se dit, en termes de peinture, d'ombres trop transparentes.</dictScrap>
+<cit>
+<quote>La moitié du corps est baignée d'une ombre illuminée de reflets un peu trop transparents peut-être et qui, en certains endroits, font ce qu'on appelle lanterne</quote>
+<bibl>
+<author>TH. GAUTIER</author>
+<biblScope>Moniteur universel, 9 mai 1868</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap><oVar>Lanterne</oVar> sourde, sorte de <oVar>lanterne</oVar> faite de manière que celui qui la porte voit sans être vu, et qu'il en cache entièrement la lumière à volonté.</dictScrap>
@@ -18572,18 +18579,6 @@
 </sense>
 <sense n="17">
 <dictScrap><oVar>Lanterne</oVar> d'Aristote, appareil de pièces calcaires qu'on trouve dans l'estomac des crustacés.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Faire <oVar>lanterne</oVar>, se dit, en termes de peinture, d'ombres trop transparentes.</dictScrap>
-<cit>
-<quote>La moitié du corps est baignée d'une ombre illuminée de reflets un peu trop transparents peut-être et qui, en certains endroits, font ce qu'on appelle lanterne</quote>
-<bibl>
-<author>TH. GAUTIER</author>
-<biblScope>Moniteur universel, 9 mai 1868</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <note type="H">
 <label>XIIe s.</label>
@@ -18635,10 +18630,6 @@
 </cit>
 </note>
 <etym>Provenç. esp. et ital. lanterna ; catal. llanterna ; du lat. lanterna ou laterna. On pourrait rapporter, et on a en effet rapporté laterna ( 1er a long) à latere (a bref, e long) ; ce serait lumière cachée, enfermée (Dux laterna viae clausis feror aurea flammis, MARTIAL, XIV, 61). Le suffixe erna se retrouverait dans cav-erna, etc. Mais l'a ( a long) fait grande difficulté, ainsi que an de lanterna. Pott préfère le tirer du mot grec signifiant flambeau.</etym>
-<re ana="supplement" orig=" LANTERNE. ">
-
-
-</re>
 </entry>
 <entry xml:id="lanterné">
 <form>
@@ -18664,6 +18655,7 @@
 <form>
 <orth>LANTERNER</orth>
 <pron>lan-tèr-né</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. Être irrésolu, perdre le temps.</dictScrap>
@@ -18956,13 +18948,13 @@
 </cit>
 </sense>
 </entry>
-<entry xml:id="lantiponné">
+<entryFree xml:id="lantiponné">
 <form>
 <orth>LANTIPONNÉ, ÉE</orth>
 <pron>lan-ti-po-ne, née</pron>
 <gram>part. passé de lantiponner</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="lantiponner">
 <form>
 <orth>LANTIPONNER</orth>
@@ -19226,7 +19218,8 @@
 <sense>
 <dictScrap>Terme de botanique. Plante <oVar>lapicide</oVar>, plante qui s'établit dans les interstices des roches.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>S. m. Celui qui grave les inscriptions sur la pierre.</dictScrap>
 <cit>
 <quote>Le lapicide ne comprenait pas ce qu'il était chargé de graver</quote>
@@ -19237,10 +19230,6 @@
 </cit>
 </sense>
 <etym>Lat. lapicida, qui taille la pierre, de lapis, pierre, et caedere, tailler.</etym>
-<re ana="supplement" orig=" LAPICIDE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lapidaire.1">
 <form>
@@ -19679,15 +19668,20 @@
 <re type="S">LAPIDIFICATION, PÉTRIFICATION. Bien que, étymologiquement, ces deux mots signifient la même chose, l'usage applique plus particulièrement le terme de pétrification à la transformation en pierre d'un fruit, d'une plante, d'un animal, etc. et lapidification à une masse, à une couche géologique. </re>
 <etym>Lapidifier.</etym>
 </entry>
-<entry xml:id="lapidifié">
+<entryFree xml:id="lapidifié">
 <form>
 <orth>LAPIDIFIÉ, ÉE</orth>
 <pron>la-pi-di-fi-é, ée</pron>
 <gram>part. passé de lapidifier</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="lapidifier">
-<form><orth>LAPIDIFIER</orth><pron>la-pi-di-fi-é</pron>, je lapidifiais, nous lapidifiions, vous lapidifiiez ; que je lapidifie, que nous lapidifiions, que vous lapidifiiez, v. a. </form>
+<form>
+<orth>LAPIDIFIER</orth>
+<pron>la-pi-di-fi-é</pron>
+<note>je lapidifiais, nous lapidifiions, vous lapidifiiez ; que je lapidifie, que nous lapidifiions, que vous lapidifiiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense>
 <dictScrap>Donner à une substance la consistance de la pierre.</dictScrap>
 <sense>
@@ -19858,7 +19852,8 @@
 <biblScope>Fabl. II, 8</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap><oVar>Lapin</oVar> bélier, espèce de gros <oVar>lapin</oVar>.</dictScrap>
 <cit>
 <quote>Il ne faut pas oublier.... les lapins béliers pesant 7 kil. 40</quote>
@@ -19888,10 +19883,6 @@
 </cit>
 </note>
 <etym>Wall. napai, lapin mâle ; anc. flam. lampe, lamper, lapin mâle. Origine incertaine. Scheler y voit un dérivé du radical lep, qui est dans le latin lepus, lièvre ; Diez, un dérivé de clap, clapier, avec suppression de c. De plus, la forme wallonne napai vient compliquer la question. Lap-in, lap-ereau indiquent un radical lap ; voilà tout ce qu'on peut dire.</etym>
-<re ana="supplement" orig=" LAPIN. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lapiner">
 <form>
@@ -20173,6 +20164,8 @@
 <form>
 <orth>LAQUE</orth>
 <pron>la-k'</pron>
+<gram norm="A"/>
+<gram norm="S"/>
 </form>
 <sense n="1">
 <dictScrap>Adj. Employé uniquement dans gomme <oVar>laque</oVar>, espèce de fécule rouge fournie par les semences de l'érythrine monosperme (légumineuses) et de la dalbergie à gousse ovale (légumineuses), et dite abusivement gomme, car c'est une résine.</dictScrap>
@@ -20222,22 +20215,19 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Arbre à la <oVar>laque</oVar>, du Malabar, le butea frondosa, ROXB. BAILLON, Dict. de bot. p. 247.</dictScrap>
 </sense>
 <etym>Provenç. et espag. laca ; ital. lacca ; du persan lak, teinture rouge ; sanscr. lâkshâ, insecte de la laque et la laque elle-même, laktaka, la laque.</etym>
-<re ana="supplement" orig=" LAQUE. Ajoutez : ">
-
-
-</re>
 </entry>
-<entry xml:id="laqué">
+<entryFree xml:id="laqué">
 <form>
 <orth>LAQUÉ, ÉE</orth>
 <pron>la-ké, kée</pron>
 <gram>part. passé de laquer</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="laquer">
 <form>
 <orth>LAQUER</orth>
@@ -20526,6 +20516,9 @@
 <sense>
 <dictScrap>Lardon. Omelette au <oVar>lard</oVar>. Salade au <oVar>lard</oVar>.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap><oVar>Lard</oVar> en planches, <oVar>lard</oVar> coupé en longues bandes. 200 000 kilos <oVar>lard</oVar> en planches, Journ. offic. 4 fév. 1872, p. 828, 1re col.</dictScrap>
+</sense>
 </sense>
 <sense n="4">
 <dictScrap>Il se dit de cette partie grasse qui est entre la peau et la chair de la baleine, du marsouin, etc. Du <oVar>lard</oVar> de baleine.</dictScrap>
@@ -20536,11 +20529,6 @@
 <sense n="6">
 <dictScrap>Pierre de <oVar>lard</oVar>, stéatite. </dictScrap>
 <re type="P"><form>Là où vous pensez qu'il y ait du lard, il n'y a pas seulement de cheville</form>, c'est-à-dire vous pensez que telle personne est riche, et elle manque des choses nécessaires ; locution tirée de l'habitude des bouchers et des charcutiers de suspendre les pièces de viande à une cheville. </re>
-</sense><sense n="3">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Lard</oVar> en planches, <oVar>lard</oVar> coupé en longues bandes. 200 000 kilos <oVar>lard</oVar> en planches, Journ. offic. 4 fév. 1872, p. 828, 1re col.</dictScrap>
-</sense>
 </sense>
 <note type="H">
 <label>XIIIe s.</label>
@@ -20590,10 +20578,6 @@
 </cit>
 </note>
 <etym>Provenç. lart, lar ; catal. llard ; esp. et ital. lardo ; du lat. lardum, laridum. À laridum dont le suffixe indique un adjectif, comparez le terme grec signifiant gras.</etym>
-<re ana="supplement" orig=" LARD. ">
-
-
-</re>
 </entry>
 <entry xml:id="lardacé">
 <form>
@@ -20654,13 +20638,10 @@
 </sense>
 <sense n="3">
 <dictScrap>Percé comme avec une lardoire. <oVar>Lardé</oVar> de coups d'épée.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Terme de boulangerie. Pain <oVar>lardé</oVar>, pain dans lequel il y a des parties non spongieuses ; c'est un défaut.</dictScrap>
 </sense>
-<re ana="supplement" orig=" LARDÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="larder">
 <form>
@@ -21112,9 +21093,7 @@
 </sense>
 <note type="R">Il ne faut pas confondre tout à fait lares et pénates. Les derniers, genii penates, sont les génies du foyer. Les lares sont les héros, c'est-à-dire les âmes des défunts de la famille. Mais le culte les associait et finit par les confondre. </note>
 <etym>Lat. lares, mot étrusque signifiant chef.</etym>
-<re ana="supplement" orig=" 1. LARE. - ÉTYM. Ajoutez : On disait lar Porsenna, Tite-Live, II, 9, lar Tolumnius, ID. IV, 17. ">
-
-</re>
+<etym ana="supplement">On disait lar Porsenna, Tite-Live, II, 9, lar Tolumnius, ID. IV, 17.</etym>
 </entry>
 <entry xml:id="lare.2">
 <form>
@@ -21280,6 +21259,23 @@
 </sense>
 <sense n="6">
 <dictScrap>Dans les arts du dessin. Qui n'a rien de mesquin, de timide. Des contours, des draperies, des lumières <oVar>larges</oVar>. Une touche, une manière <oVar>large</oVar>.</dictScrap>
+<sense ana="supplement">
+<dictScrap>Substantivement, le <oVar>large</oVar>.</dictScrap>
+<cit>
+<quote>M. Parrocel, d'autre part, l'emporte par le feu de l'imagination, par la vigueur du coloris, et par la facilité et le large du pinceau</quote>
+<bibl>
+<author>CH.-N. COCHIN</author>
+<biblScope>dans Mém. inéd. sur l'Acad. de peint. publiés par Dussieux, etc. t. II, p. 408</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il eut le sentiment du grand en même temps qu'il eut la chaleur et le large du faire qui caractérise le genre de l'histoire</quote>
+<bibl>
+<author>HAILLET DE COURONNE</author>
+<biblScope>ib. p. 430</biblScope>
+</bibl>
+</cit>
+</sense>
 <sense>
 <dictScrap>Il se dit en littérature dans un sens analogue.</dictScrap>
 <cit>
@@ -21495,25 +21491,6 @@
 <biblScope>l'Ét. IV, 7</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
-<dictScrap>Dans les arts du dessin. Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Substantivement, le <oVar>large</oVar>.</dictScrap>
-<cit>
-<quote>M. Parrocel, d'autre part, l'emporte par le feu de l'imagination, par la vigueur du coloris, et par la facilité et le large du pinceau</quote>
-<bibl>
-<author>CH.-N. COCHIN</author>
-<biblScope>dans Mém. inéd. sur l'Acad. de peint. publiés par Dussieux, etc. t. II, p. 408</biblScope>
-</bibl>
-</cit>
-<cit>
-<quote>Il eut le sentiment du grand en même temps qu'il eut la chaleur et le large du faire qui caractérise le genre de l'histoire</quote>
-<bibl>
-<author>HAILLET DE COURONNE</author>
-<biblScope>ib. p. 430</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <note type="H">
 <label>XIe s.</label>
@@ -22068,7 +22045,12 @@
 </sense>
 </entry>
 <entry xml:id="larguer">
-<form><orth>LARGUER</orth><pron>lar-ghé</pron>, je larguais, nous larguions, vous larguiez ; que je largue, que nous larguions, que vous larguiez, v. n. </form>
+<form>
+<orth>LARGUER</orth>
+<pron>lar-ghé</pron>
+<note>je larguais, nous larguions, vous larguiez ; que je largue, que nous larguions, que vous larguiez</note>
+<gram>v. n.</gram> 
+</form>
 <sense n="1">
 <dictScrap>Terme de marine. On dit qu'un navire <oVar>largue</oVar> lorsqu'il gouverne moins près ou qu'il laisse arriver.</dictScrap>
 <sense>
@@ -22824,7 +22806,8 @@
 <sense>
 <dictScrap><oVar>Larme</oVar>-du-Christ, le grémil.</dictScrap>
 </sense>
-</sense><sense n="11">
+</sense>
+<sense ana="supplement" n="11">
 <dictScrap>La Sainte <oVar>Larme</oVar> de Vendôme, relique célèbre dans le moyen âge conservée à Vendôme.</dictScrap>
 </sense>
 <re type="S">LARMES, PLEURS. Pleurs n'est synonyme de larmes qu'au pluriel. Un pleur, d'ailleurs usité seulement dans le style biblique et le style élevé, signifie lamentations ; et, au pluriel, il retient quelque chose de cette signification : Elle entendra mes pleurs, elle verra mes larmes, dit A. Chénier cité plus haut. Larme est proprement l'humeur limpide qui humecte les yeux, quelle que soit la cause qui la fasse couler. Pleurs indique toujours une émotion, et presque toujours une émotion triste. L'oignon coupé ou épluché fait venir des larmes dans les yeux et non des pleurs. </re>
@@ -24104,6 +24087,7 @@
 <form>
 <orth>LAS</orth>
 <pron>là</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Interjection plaintive.</dictScrap>
@@ -24169,9 +24153,16 @@
 </cit>
 </note>
 <etym>Le même que las 1, comme le prouve l'accord que donnait l'ancienne langue à ce mot, quand c'était une femme qui se plaignait.</etym>
-<re ana="supplement" orig=" 3. LAS (lâ), s. m. Endroit de la grange dans lequel on resserre les grains. ">
-
-</re>
+</entry>
+<entry xml:id="las.3">
+<form>
+<orth>LAS</orth>
+<pron>lâ</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
+<dictScrap>Endroit de la grange dans lequel on resserre les grains.</dictScrap>
+</sense>
 </entry>
 <entry xml:id="lascars">
 <form>
@@ -25054,12 +25045,14 @@
 </sense>
 <etym>Latéral, et le lat. seta, soie.</etym>
 </entry>
-<entry xml:id="latere">
-<form><orth>LATERE (À)</orth><pron>a-la-té-ré</pron>, voy. <ref target="légat">LÉGAT</ref>. </form>
-<sense>
-<dictScrap>ÉTYM. Lat. latus, lateris, côté.</dictScrap>
-</sense>
-</entry>
+<entryFree xml:id="latere">
+<form>
+<orth>LATERE (À)</orth>
+<pron>a-la-té-ré</pron>
+</form>
+<xr>voy. <ref target="légat">LÉGAT</ref></xr>
+<etym>ÉTYM. Lat. latus, lateris, côté.</etym>
+</entryFree>
 <entry xml:id="latéricomposé">
 <form>
 <orth>LATÉRICOMPOSÉ, ÉE</orth>
@@ -25620,6 +25613,7 @@
 <form>
 <orth>LATINISER</orth>
 <pron>la-ti-ni-zé</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. a. Donner une inflexion latine à un mot d'une autre langue.</dictScrap>
@@ -25636,7 +25630,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Familièrement. Affecter de parler latin.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Se <oVar>latiniser</oVar>, v. réfl. S'enfoncer dans l'étude du latin.</dictScrap>
 <cit>
 <quote>Montaigne.... se latinisant lit à cœur joie dès l'enfance....</quote>
@@ -25671,10 +25666,6 @@
 </cit>
 </note>
 <etym>Lat. latinizare, traduire en latin.</etym>
-<re ana="supplement" orig=" LATINISER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="latiniseur">
 <form>
@@ -26146,13 +26137,13 @@
 </note>
 <etym>Provenç. lata ; ital. latta ; de l'allem. Latte, latte ; angl. lath ; comp. le kimry llath, baguette. On trouve dans le XVIe siècle late ou latte, avec le sens de côté ; ce mot n'a rien de commun avec la latte, et vient du latin latus, lateris, côté.</etym>
 </entry>
-<entry xml:id="latté">
+<entryFree xml:id="latté">
 <form>
 <orth>LATTÉ, ÉE</orth>
 <pron>la-té, tée</pron>
 <gram>part. passé de latter</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="latter">
 <form>
 <orth>LATTER</orth>
@@ -26240,15 +26231,13 @@
 </note>
 <etym>Lat. laudes, louanges, à cause des louanges de Dieu contenues dans les psaumes que l'on chante à cette heure (voy. <ref target="louer">LOUER</ref>).</etym>
 </entry>
-<entry xml:id="lauracées">
+<entryFree xml:id="lauracées">
 <form>
 <orth>LAURACÉES</orth>
 <pron>lô-ra-sée</pron>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="laurinées">LAURINÉES</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="laurinées">LAURINÉES</ref>.</xr>
+</entryFree>
 <entry xml:id="laure">
 <form>
 <orth>LAURE</orth>
@@ -26682,7 +26671,8 @@
 </form>
 <sense>
 <dictScrap>Nom, dans la France méridionale, de plaques de micaschiste employées à divers usages.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Il se dit, en géologie, pour désigner les couches ou lames calcaires minces, aussi bien que les micaschistes, trachytes, etc.</dictScrap>
 <sense>
 <dictScrap>On écrit aussi lauze.</dictScrap>
@@ -27135,7 +27125,8 @@
 <biblScope>Émaux, p. 357</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Se dit des déjections des torrents.</dictScrap>
 <cit>
 <quote>Le torrent, qui, creusant son lit, emporte dans la vallée des quantités prodigieuses de déjections auxquelles on a donné le nom justement appliqué de laves, leur marche, leur couleur, leurs effets, présentant une certaine analogie avec les laves des volcans</quote>
@@ -27145,10 +27136,6 @@
 </cit>
 </sense>
 <etym>Ital. lava ; d'après Diez, du napolitain lava, qui veut dire averse, et qui vient du verbe lavare, laver, l'averse d'eau ayant été transportée à l'averse de matière enflammée.</etym>
-<re ana="supplement" orig=" LAVE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lavé">
 <form>
@@ -28273,13 +28260,13 @@
 </note>
 <etym>Provenç. laxetat ; esp. laxidad ; ital. laschità ; du lat. laxitatem, de laxus, lâche.</etym>
 </entry>
-<entry xml:id="layé">
+<entryFree xml:id="layé">
 <form>
 <orth>LAYÉ, ÉE</orth>
 <pron>lè-ié, iée</pron>
 <gram>part. passé de layer 1</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="layer.1">
 <form>
 <orth>LAYER</orth>
@@ -28558,14 +28545,12 @@
 </cit>
 </sense>
 </entry>
-<entry xml:id="lazuli">
+<entryFree xml:id="lazuli">
 <form>
 <orth>LAZULI</orth>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lapis">LAPIS</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lapis">LAPIS</ref>.</xr>
+</entryFree>
 <entry xml:id="lazulite">
 <form>
 <orth>LAZULITE</orth>
@@ -30282,7 +30267,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Il se dit, dans un sens analogue, des œuvres littéraires. Ouvrage trop <oVar>léché</oVar>.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Fig. Un ours non encore <oVar>léché</oVar>, un ouvrage auquel la dernière main n'a pas été mise.</dictScrap>
 <cit>
 <quote>Mon opéra, tout simple et n'étant, sans spectacle, Qu'un ours qui vient de naître, et non encor léché</quote>
@@ -30292,10 +30278,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" LÉCHÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lèche-doigt">
 <form>
@@ -31609,7 +31591,8 @@
 </form>
 <sense>
 <dictScrap>La partie du milieu d'un marais salant, autour de laquelle on creuse un fosse.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Dans les Landes, zone intermédiaire aux dunes et au terrein cultivé.</dictScrap>
 <cit>
 <quote>La lède, vaste désert plat de sable pur, maigre pâturage de bruyères, parcouru de temps immémorial par de maigres troupeaux, interrompu par ces grands lacs intérieurs.... le vent a commencé le boisement des lèdes, en semant au loin la graine des forêts des dunes</quote>
@@ -31618,10 +31601,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" 1. LÈDE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lède.2">
 <form>
@@ -32299,7 +32278,8 @@
 </sense>
 <sense n="6">
 <dictScrap>Titre que porte sur un plan d'architecture, sur une carte topographique, etc. la liste explicative des lettres, des signes, des couleurs par lesquels on en indique les différentes parties ou les endroits remarquables. Vous avez omis dans la <oVar>légende</oVar> les deux sabres en croix qui désignent les lieux où il s'est livré des batailles, LEGOARANT.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>Au XVIe siècle, nom donné par les calvinistes à des biographies circonstanciées de personnages catholiques, ainsi dites à cause de la catholicité des personnages et des faits extraordinaires dont elles prétendent donner la clef. La <oVar>légende</oVar> de Catherine de Médicis. La <oVar>légende</oVar> du cardinal de Lorraine.</dictScrap>
 </sense>
 <re type="S">LÉGENDE, MYTHE, TRADITION, CONTE. Tradition : histoires ou récits transmis oralement, non par écrit ni par documents authentiques. Mythe : récit composé d'éléments purement divins, sans fond historique, au moins pour le principal. Légende : récit populaire reposant sur un fond historique plus ou moins altéré, ou du moins prétendu historique. Conte : nul fond historique. Cependant il y a des légendes, en grand nombre, où le fond est purement imaginaire ; mais on le croit historique et on le donne comme tel. </re>
@@ -32345,10 +32325,6 @@
 </cit>
 </note>
 <etym>Provenç. legenda, legensa, ligenda ; catal. llegenda ; portug. lenda ; ital. leggenda ; du lat. leyendus, part. passif futur, devant être lu, de legere, lire.</etym>
-<re ana="supplement" orig=" LÉGENDE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="léger">
 <form>
@@ -34770,13 +34746,13 @@
 </note>
 <etym>Provenç. legat ; catal. llegat ; espag. legado ; ital. legato. Le français est un substantif abstrait formé du verbe léguer (voy. <ref target="léguer">LÉGUER</ref>), et qui s'est écrit au nominatif legs, les ou lais, et leg au régime ; la forme legs est une orthographe où l'ancienne s du nominatif s'est conservée.</etym>
 </entry>
-<entry xml:id="légué">
+<entryFree xml:id="légué">
 <form>
 <orth>LÉGUÉ, ÉE</orth>
 <pron>lé-ghé, ghée</pron>
 <gram>part. passé de léguer</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="léguer">
 <form>
 <orth>LÉGUER</orth>
@@ -34965,7 +34941,8 @@
 <sense>
 <dictScrap>Fruits légumiers, voy. <ref target="fruits">FRUITS</ref>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>S. m. Sorte de plat à légumes.</dictScrap>
 <cit>
 <quote>On y fait [en France, dans les fabriques de plaqué] tout ce qui a besoin d'éclat, des plateaux, des légumiers, quelques réchauds</quote>
@@ -34982,10 +34959,6 @@
 </cit>
 </sense>
 <etym>Légume.</etym>
-<re ana="supplement" orig=" LÉGUMIER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="léguminaire">
 <form>
@@ -35081,15 +35054,13 @@
 </sense>
 </sense>
 </entry>
-<entry type="prefixe" xml:id="leio-">
+<entryFree type="prefixe" xml:id="leio-">
 <form>
 <orth>LEIO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Préfixe qui doit être lio.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="leitus">
 <form>
 <orth>LEITUS</orth>
@@ -35556,15 +35527,20 @@
 </note>
 <etym>Berry, lendord, endormi, sans énergie ; wall. landrôie, paresseuse, souillon ; norm. lendorer, faire le lendore ; landreux, dans le dict. d'Oudin ; champen. lendras, endormi, paresseux, lander, landiner, fainéanter ; bas-bret. landar, paresseux, landrea, être paresseux. D'après Diez, lendore ne tient qu'en apparence à l'endormi ; ce que montrent les diverses formes ; il le rattache au flamand lenteren, être lent, nonchalant. Cette étymologie n'est pas bien assurée ; car pourquoi le d et non le t ? Il est vrai que ceux qui disent lendore comprennent l'endort, de endormir ; mais, si telle était l'étymologie, comment, au XVIe siècle (on n'a pas d'exemple plus ancien), a-t-on écrit par un e final lendore ?</etym>
 </entry>
-<entry xml:id="lénifié">
+<entryFree xml:id="lénifié">
 <form>
 <orth>LÉNIFIÉ, ÉE</orth>
 <pron>lé-ni-fi-é, ée</pron>
 <gram>part. passé de lénifier</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="lénifier">
-<form><orth>LÉNIFIER</orth><pron>lé-ni-fi-é</pron>, je lénifiais, nous lénifiions, vous lénifiiez ; que je lénifie, que nous lénifiions, que vous lénifiiez, v. a. </form>
+<form>
+<orth>LÉNIFIER</orth>
+<pron>lé-ni-fi-é</pron>
+<note>je lénifiais, nous lénifiions, vous lénifiiez ; que je lénifie, que nous lénifiions, que vous lénifiiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense>
 <dictScrap>Terme de médecine. Adoucir au moyen d'un lénitif.</dictScrap>
 <cit>
@@ -36308,17 +36284,15 @@
 <sense>
 <dictScrap>Terme de marine. Se dit des verres lenticulaires qu'on insère dans des trous pour transmettre de la lumière à l'intérieur.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap><oVar>Lentilles</oVar> divergentes : la <oVar>lentille</oVar> biconcave terminée par deux surfaces concaves ; la <oVar>lentille</oVar> plan-concave terminée par une surface plane et une surface concave ; la <oVar>lentille</oVar> convexe-concave ou ménisque divergent, semblable au ménisque convergent, mais dans laquelle la surface intérieure a une plus grande courbure que l'extérieure.</dictScrap>
+</sense>
 </sense>
 <sense n="5">
 <dictScrap>En horlogerie, <oVar>lentille</oVar> de pendule, poids de métal, de forme lenticulaire, qui est attaché à l'extrémité inférieure du pendule ou balancier et qui est destiné à en abaisser le centre de gravité.</dictScrap>
 </sense>
 <sense n="6">
 <dictScrap>S. f. pl. Taches de rousseur sur la peau, éphélides lentiformes, qui sont une espèce d'éphélides.</dictScrap>
-</sense><sense n="4">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Lentilles</oVar> divergentes : la <oVar>lentille</oVar> biconcave terminée par deux surfaces concaves ; la <oVar>lentille</oVar> plan-concave terminée par une surface plane et une surface concave ; la <oVar>lentille</oVar> convexe-concave ou ménisque divergent, semblable au ménisque convergent, mais dans laquelle la surface intérieure a une plus grande courbure que l'extérieure.</dictScrap>
-</sense>
 </sense>
 <note type="R">Au XVIIe siècle la prononciation provinciale nentille était en lutte avec la prononciation régulière lentille.  <cit><quote>Il faut dire de la poirée et des nentilles avec les Parisiens, et non pas des bettes et des lentilles avec les Angevins</quote><bibl><author>MÉNAGE</author><biblScope/></bibl></cit> <cit><quote>Plusieurs prononcent nentille, il faut dire lentille</quote><bibl><author>MARG. BUFFET</author><biblScope>Observ. p. 130</biblScope></bibl></cit> </note>
 <note type="H">
@@ -36353,10 +36327,6 @@
 </cit>
 </note>
 <etym>Berry et picard, nentille ; provenç. lentilla ; espagn. lenteja ; portug. lentilha ; ital. lenticchia ; du lat. lenticula, diminutif de lens, lentis lentille.</etym>
-<re ana="supplement" orig=" LENTILLE. ">
-
-
-</re>
 </entry>
 <entry xml:id="lentilleux">
 <form>
@@ -36472,7 +36442,8 @@
 <sense>
 <dictScrap>Fig. Une part <oVar>léonine</oVar>, la part du lion.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>En bonne part, qui a la force du lion.</dictScrap>
 <cit>
 <quote>M. Gladstone, qui a donné sa démission de chef de parti, mais qui fait des rentrées léonines dans les discussions et en prend d'emblée la direction</quote>
@@ -36493,10 +36464,6 @@
 </cit>
 </note>
 <etym>Provenç. leonin ; espagn. et ital. leonino ; du lat. leoninus, de leo, leonis, lion.</etym>
-<re ana="supplement" orig=" 1. LÉONIN. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="léonin.2">
 <form>
@@ -36799,15 +36766,13 @@
 </sense>
 <etym>En grec, écaille et commun : écailles communes à plusieurs fleurs. Lépicène signifie, dans la nomenclature d'A. Richard, les bractées extérieures contenant l'épillet des graminées, qui sont les glumes des autres auteurs.</etym>
 </entry>
-<entry type="prefixe" xml:id="lépid-">
+<entryFree type="prefixe" xml:id="lépid-">
 <form>
 <orth>LÉPID- ou LÉPIDO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Préfixe signifiant écaille, par exemple dans lépidoptère.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="lépidier">
 <form>
 <orth>LÉPIDIER</orth>
@@ -37187,15 +37152,13 @@
 </sense>
 <etym>Du grec, mince ; c'est le participe du grec : dépouillé d'écorce.</etym>
 </entry>
-<entry type="prefixe" xml:id="lepto-">
+<entryFree type="prefixe" xml:id="lepto-">
 <form>
 <orth>LEPTO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Préfixe qui signifie mince, ténu.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="leptologie">
 <form>
 <orth>LEPTOLOGIE</orth>
@@ -37230,7 +37193,14 @@
 <etym>Lepto..., et terme grec signifiant forme.</etym>
 </entry>
 <entry xml:id="lepton">
-<form><orth>LEPTON</orth><pron>l-pton</pron>, au plur. LEPTA (lè-pta), s. m. </form>
+<form>
+<orth>LEPTON</orth>
+<pron>l-pton</pron>
+<note>au plur.</note>
+<orth>LEPTA</orth> 
+<pron>lè-pta</pron> 
+<gram>s. m.</gram>
+</form>
 <sense>
 <dictScrap>Pièce de monnaie adoptée en Grèce, en même temps que le système décimal, et correspondant à notre centime.</dictScrap>
 </sense>
@@ -37280,7 +37250,12 @@
 <etym>Termes grecs ; l'un est dérivé du verbe signifiant atténuer, et l'autre se traduit par ténu (voy. <ref target="lepte">LEPTE</ref>).</etym>
 </entry>
 <entry xml:id="lequel">
-<form><orth>LEQUEL</orth><pron>le-kèl.  <cit><quote>Au XVIe siècle, lequel devant une consonne était prononcé lequé</quote><bibl><author>PALSGR.</author><biblScope>p. 62</biblScope></bibl></cit> 	</pron> LAQUELLE, (la-kè-l'), DUQUEL, DE LAQUELLE ; AUQUEL, à LAQUELLE ; pluriel, LESQUELS, LESQUELLES (lê-kèl, lê-kè-l'), DESQUELS, DESQUELLES, AUXQUELS, AUXQUELLES, pron. relatif synonyme de qui. </form>
+<form>
+<orth>LEQUEL</orth>
+<pron>le-kèl.</pron>  
+<cit><quote>Au XVIe siècle, lequel devant une consonne était prononcé lequé</quote><bibl><author>PALSGR.</author><biblScope>p. 62</biblScope></bibl></cit>
+<note>LAQUELLE, (la-kè-l'), DUQUEL, DE LAQUELLE ; AUQUEL, à LAQUELLE ; pluriel, LESQUELS, LESQUELLES (lê-kèl, lê-kè-l'), DESQUELS, DESQUELLES, AUXQUELS, AUXQUELLES, pron. relatif synonyme de qui.</note>
+</form>
 <sense n="1">
 <dictScrap>Il s'emploie en parlant des personnes et des choses, et presque toujours comme complément.</dictScrap>
 <cit>
@@ -37598,9 +37573,13 @@
 </sense>
 <etym>Diminutif de loir, soit qu'il vienne de ler qui est la prononciation de loir en Normandie, soit que le renforcement qui a fait loir du latin gliris se soit perdu, comme cela arrive plus d'une fois dans le diminutif.</etym>
 </entry>
-<entry xml:id="les">
-<form><orth>LES</orth><pron>lê</pron>, pluriel des articles le et la, ainsi que du pronom relatif de la troisième personne. Voyez LE 1 et 2. </form>
-</entry>
+<entryFree xml:id="les">
+<form>
+<orth>LES</orth>
+<pron>lê</pron>
+</form>
+<dictScrap>pluriel des articles le et la, ainsi que du pronom relatif de la troisième personne. Voyez LE 1 et 2.</dictScrap>
+</entryFree>
 <entry xml:id="lesbiaque">
 <form>
 <orth>LESBIAQUE</orth>
@@ -37989,15 +37968,13 @@
 </cit>
 </sense>
 </entry>
-<entry xml:id="lesse">
+<entryFree xml:id="lesse">
 <form>
 <orth>LESSE</orth>
 <gram>s. f.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="laisse">LAISSE</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="laisse">LAISSE</ref>.</xr>
+</entryFree>
 <entry xml:id="lessivage">
 <form>
 <orth>LESSIVAGE</orth>
@@ -38964,12 +38941,16 @@
 </form>
 <sense>
 <dictScrap>Nom donné dans les dunes de la Gironde à des amas d'eau qui se forment lors des pluies au fond des vallées sèches séparatives des dunes et qui s'évaporent par les chaleurs.</dictScrap>
+<cit ana="supplement"><quote>Les vallées [des dunes dans les landes de Gascogne] appelées lettes sont variables de largeur ; leur fond est plat et généralement marécageux quand les dunes sont nues</quote><bibl><author>G. BAGNERIS</author><biblScope>Man. de sylvic. p. 288, Nancy, 1873</biblScope></bibl></cit>
+<sense ana="supplement">
+<dictScrap>On trouve aussi écrit leyte.</dictScrap>
+<cit><quote>L'État ne justifie pas qu'avant 1789, la généralité des habitants de cette commune [Le Porge, arrondissement de Bordeaux] ait été simple usagère des dunes et leytes litigieuses.... que, vu l'extrême mobilité de ces dunes et leurs fréquents déplacements qui laissaient à découvert les espaces qu'elles avaient momentanément occupés, la possession des leytes a nécessairement compris la possession des dunes, tant que celles-ci n'ont pas été fixées par des plantations de pins commencées seulement au cours de l'année 1823</quote><bibl><biblScope>Arrêt de la Cour d'appel de Bordeaux, 1re chambre, 6 mai 1872, dans Gaz. des Trib. des 21 et 22 nov. 1872, p. 1033, 1re col.</biblScope></bibl></cit>
 </sense>
-<re ana="supplement">
-<re>LETTE. Ajoutez : <cit><quote>Les vallées [des dunes dans les landes de Gascogne] appelées lettes sont variables de largeur ; leur fond est plat et généralement marécageux quand les dunes sont nues</quote><bibl><author>G. BAGNERIS</author><biblScope>Man. de sylvic. p. 288, Nancy, 1873</biblScope></bibl></cit> </re>
-<re>On trouve aussi écrit leyte. <cit><quote>L'État ne justifie pas qu'avant 1789, la généralité des habitants de cette commune [Le Porge, arrondissement de Bordeaux] ait été simple usagère des dunes et leytes litigieuses.... que, vu l'extrême mobilité de ces dunes et leurs fréquents déplacements qui laissaient à découvert les espaces qu'elles avaient momentanément occupés, la possession des leytes a nécessairement compris la possession des dunes, tant que celles-ci n'ont pas été fixées par des plantations de pins commencées seulement au cours de l'année 1823</quote><bibl><biblScope>Arrêt de la Cour d'appel de Bordeaux, 1re chambre, 6 mai 1872, dans Gaz. des Trib. des 21 et 22 nov. 1872, p. 1033, 1re col.</biblScope></bibl></cit> </re>
-<re>Il se dit aussi de la vallée même où se rassemblent les eaux.  <cit><quote>Les collines de dunes boisées au pied desquelles s'étend Arcachon, les lettes ou vallées qu'elles renferment, l'antique faîte de la Teste, parsemé de vieux chênes, ont déjà quelque attrait</quote><bibl><author>CH. BROILLARD</author><biblScope>Rev. des Deux-Mondes, 1er avril 1877, p. 663</biblScope></bibl></cit> </re>
-</re>
+<sense ana="supplement">
+<dictScrap>Il se dit aussi de la vallée même où se rassemblent les eaux.</dictScrap>
+<cit><quote>Les collines de dunes boisées au pied desquelles s'étend Arcachon, les lettes ou vallées qu'elles renferment, l'antique faîte de la Teste, parsemé de vieux chênes, ont déjà quelque attrait</quote><bibl><author>CH. BROILLARD</author><biblScope>Rev. des Deux-Mondes, 1er avril 1877, p. 663</biblScope></bibl></cit>
+</sense>
+</sense>
 <etym>Origine inconnue. C'est le même mot que lède 1 (voy. ce mot au Dictionnaire et au Supplément).</etym>
 </entry>
 <entry xml:id="lette.2">
@@ -39219,6 +39200,9 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap>Pied de la <oVar>lettre</oVar>, bout ou extrémité opposée à l'œil ; on l'appelle pied, parce que c'est cette extrémité qui sert de point d'appui à la superficie et au corps de la <oVar>lettre</oVar>, qui peut être considérée dans son tout comme ayant trois parties distinctes, Encyclopédie, t. XII p. 565, 1re col.</dictScrap>
+</sense>
 </sense>
 <sense n="5">
 <dictScrap>Absolument, l'ensemble des caractères dont on se sert en imprimerie pour la composition d'un ouvrage. Nous n'avons plus de <oVar>lettre</oVar>, tout a été épuisé. La <oVar>lettre</oVar> manque.</dictScrap>
@@ -39355,6 +39339,9 @@
 <sense>
 <dictScrap>Ajouter à la <oVar>lettre</oVar>, dire quelque chose qui n'est pas dans ce qu'on lit, dire plus qu'il n'y a.</dictScrap>
 </sense>
+<sense  ana="supplement">
+<dictScrap>Locution figurée au pied de la <oVar>lettre</oVar> est mentionnée. M. Eman Martin, Courrier de Vaugelas, 15 février 1875, p. 169, dit qu'elle provient de pied de la <oVar>lettre</oVar>, terme d'imprimerie ; il a raison.</dictScrap>
+</sense>
 </sense>
 <sense n="9">
 <dictScrap>Épître, missive, dépêche. Entretenir un commerce de <oVar>lettres</oVar> avec quelqu'un. Le secret des <oVar>lettres</oVar>. <oVar>Lettres</oVar> de recommandation, d'avis.</dictScrap>
@@ -39457,6 +39444,9 @@
 <biblScope>Louis XIV, 21</biblScope>
 </bibl>
 </cit>
+</sense>
+<sense ana="supplement">
+<dictScrap>Dans le langage familier, une <oVar>lettre</oVar> à cheval, une <oVar>lettre</oVar> de reproche (une <oVar>lettre</oVar> à cheval, c'est-à-dire une <oVar>lettre</oVar> cavalière). Écrire à quelqu'un une <oVar>lettre</oVar> à cheval.</dictScrap>
 </sense>
 </sense>
 <sense n="10">
@@ -39898,19 +39888,6 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Pied de la <oVar>lettre</oVar>, bout ou extrémité opposée à l'œil ; on l'appelle pied, parce que c'est cette extrémité qui sert de point d'appui à la superficie et au corps de la <oVar>lettre</oVar>, qui peut être considérée dans son tout comme ayant trois parties distinctes, Encyclopédie, t. XII p. 565, 1re col.</dictScrap>
-</sense>
-<sense>
-<dictScrap>Plus loin dans l'article <oVar>LETTRE</oVar>, n° 8, la locution figurée au pied de la <oVar>lettre</oVar> est mentionnée. M. Eman Martin, Courrier de Vaugelas, 15 février 1875, p. 169, dit qu'elle provient de pied de la <oVar>lettre</oVar>, terme d'imprimerie ; il a raison.</dictScrap>
-</sense>
-</sense><sense n="9">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Dans le langage familier, une <oVar>lettre</oVar> à cheval, une <oVar>lettre</oVar> de reproche (une <oVar>lettre</oVar> à cheval, c'est-à-dire une <oVar>lettre</oVar> cavalière). Écrire à quelqu'un une <oVar>lettre</oVar> à cheval.</dictScrap>
-</sense>
 </sense>
 <note type="R">
 <p>1. On ne dit point : Cet homme a des belles-lettres ; on dit : Cet homme a des lettres, a de la littérature. </p>
@@ -40168,11 +40145,6 @@
 </cit>
 </note>
 <etym>Berry, létre ; bourguig. lôttre ; provenç. lettra, letra ; catal. lletra ; espagn. et portug. letra ; ital. lettera ; du latin littera, que L. Meyer dit être pour lictera, du radical sanscrit likh, graver, écrire, au lieu que Corssen le rattache à linea, ligne, linere, litum, enduire. La chose reste incertaine. Lettre au sens de missive, d'épître, vient du latin litterae, qui avait ce sens au pluriel.</etym>
-<re ana="supplement" orig=" LETTRE. ">
-
-
-
-</re>
 </entry>
 <entry xml:id="lettré">
 <form>
@@ -40256,15 +40228,13 @@
 </note>
 <etym>Bourguig. lottray ; provenç. letrat ; catal. lletrat ; espagn. letrado ; ital. letterato ; du lat. litteratus, de littera, lettre.</etym>
 </entry>
-<entry xml:id="lettrille">
+<entryFree xml:id="lettrille">
 <form>
 <orth>LETTRILLE</orth>
 <gram>s. f.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="letrille">LETRILLE</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="letrille">LETRILLE</ref>.</xr>
+</entryFree>
 <entry xml:id="lettrine">
 <form>
 <orth>LETTRINE</orth>
@@ -40294,16 +40264,13 @@
 <form>
 <orth>LEU</orth>
 <pron>leu</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Usité seulement dans cette locution familière : à la queue <oVar>leu</oVar> <oVar>leu</oVar>, à la suite les uns des autres.</dictScrap>
-<sense>
-<dictScrap>ÉTYM. Picard, <oVar>leu</oVar>, loup (voy. <ref target="loup">LOUP</ref>) ; locution qui vient de ce que les loups cheminent les uns derrière les autres.</dictScrap>
 </sense>
-</sense>
-<re ana="supplement">
-<re>LEU. - REM. Malgré le signe +, à la queue leu leu est dans le Dict. de l'Académie, au mot QUEUE. </re>
-</re>
+<note type="R" ana="supplement">Malgré le signe +, à la queue leu leu est dans le Dict. de l'Académie, au mot QUEUE. </note>
+<etym>Picard, <oVar>leu</oVar>, loup (voy. <ref target="loup">LOUP</ref>) ; locution qui vient de ce que les loups cheminent les uns derrière les autres.</etym>
 </entry>
 <entry xml:id="leu.2">
 <form>
@@ -40315,15 +40282,14 @@
 <dictScrap>Pierre tendre d'une excellente qualité, ainsi dite du lieu d'extraction Saint-<oVar>Leu</oVar>, village de Seine-et-Marne.</dictScrap>
 </sense>
 </entry>
-<entry type="prefixe" xml:id="leuc-">
+<entryFree type="prefixe" xml:id="leuc-">
 <form>
-<orth>LEUC- ou LEUCO-</orth>
+<orth>LEUC-</orth> 
+<orth>LEUCO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
-<dictScrap>Préfixe qui signifie blanc.</dictScrap>
-</sense>
-</entry>
+<def>Préfixe qui signifie blanc.</def>
+</entryFree>
 <entry xml:id="leucade">
 <form>
 <orth>LEUCADE</orth>
@@ -40580,6 +40546,7 @@
 <form>
 <orth>LEUR</orth>
 <pron>leur</pron>
+<gram/>
 </form>
 <sense n="1">
 <dictScrap>Pronom personnel pluriel des deux genres, qui signifie à eux, à elles. Il se place immédiatement devant le verbe, et se dit principalement des personnes. Il faut compter sur l'ingratitude des hommes et ne pas laisser de <oVar>leur</oVar> faire du bien. FÉN. Tél. XXIV.</dictScrap>
@@ -40610,14 +40577,15 @@
 </sense>
 </sense>
 <note type="R">Je leur suis parent, est une phrase populaire, qui n'est pas du bon usage, et qui rentre dans la locution populaire aussi : le fils à Pierre. </note>
-<note type="H">
-<label>et ÉTYM. Voy.</label>
-<ref target="leur.2">LEUR 2</ref>
-<label>. Leur, pronom, et leur, adj. possessif, qui sont grammaticalement deux mots différents, sont étymologiquement le même mot.</label>
-</note>
+<etym><xr>Voy. <ref target="leur.2">LEUR 2</ref></xr> Leur, pronom, et leur, adj. possessif, qui sont grammaticalement deux mots différents, sont étymologiquement le même mot.</etym>
 </entry>
 <entry xml:id="leur.2">
-<form><orth>LEUR</orth><pron>leur</pron> ; au plur. LEURS (leur, l's se lie : leur-z amis) 	<gram>adj. poss. des deux genres</gram> </form>
+<form>
+<orth>LEUR</orth>
+<pron>leur</pron>
+<note>au plur. LEURS (leur, l's se lie : leur-z amis</note> 	
+<gram>adj. poss. des deux genres</gram>
+</form>
 <sense n="1">
 <dictScrap>Il signifie d'eux, d'elles, qui appartient à eux, à elles ; il est ordinairement relatif aux personnes. Il est <oVar>leur</oVar> adversaire, mais il a <oVar>leur</oVar> estime.</dictScrap>
 <cit>
@@ -41301,7 +41269,8 @@
 <biblScope>Journ. offic. 7 fév. 1876, p. 1093, 2e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>Terme de pêche. Action d'enlever le poisson pour le livrer aux acheteurs.</dictScrap>
 <cit>
 <quote>Le 28 avril 1853, la commission et tous les armateurs, consignataires et mareyeurs de la place [Dieppe] se réunissent au bureau de la vente pour examiner un projet d'organisation du service du levage de poisson, dressé par les soins du chef écoreur, sur la demande des intéressés</quote>
@@ -41600,7 +41569,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Dans nos ports de la Méditerranée, nom donné au vent d'est. Le <oVar>levant</oVar> est opposé au ponant ou vent d'ouest.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Le <oVar>levant</oVar>, sorte de tabac à fumer, Réponses aux questions de l'enquête sur le monopole des tabacs et des poudres, p. 230, Paris, 1874.</dictScrap>
 </sense>
 <re type="S">1. LEVANT, ORIENT, EST. Levant et orient sont exactement synonymes, ne différant que par le style où on les emploie. Orient se dit plutôt dans le style élevé ; levant dans le style technique et de marine. L'est est un des points cardinaux ; dans son sens propre, il signifie le point de l'équateur céleste où le soleil se lève ; tandis que levant et orient désignent l'espace compris entre les deux tropiques ; aussi y a-t-il un levant d'hiver et un levant d'été, mais il n'y a qu'un est. </re>
@@ -41616,20 +41586,14 @@
 </cit>
 </note>
 <etym>Levant 1.</etym>
-<re ana="supplement" orig=" 2. LEVANT. Ajoutez : ">
-
-
-</re>
 </entry>
-<entry xml:id="levanti">
+<entryFree xml:id="levanti">
 <form>
 <orth>LEVANTI</orth>
 <pron>le-van-ti</pron>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="levantin">LEVANTIN</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="levantin">LEVANTIN</ref>.</xr>
+</entryFree>
 <entry xml:id="levantin">
 <form>
 <orth>LEVANTIN, INE</orth>
@@ -41880,6 +41844,15 @@
 </sense>
 <sense n="10">
 <dictScrap>Ordre qui fait cesser quelque punition ou défense. <oVar>Levée</oVar> des arrêts, de la prohibition.</dictScrap>
+<sense ana="supplement">
+<dictScrap>La <oVar>levée</oVar> d'une trêve, l'action de mettre fin à une trêve.</dictScrap>
+<cit>
+<quote>On ne sonne donc mot de la levée de la trêve ; comme tout cela est triste !</quote>
+<bibl>
+<biblScope>Corresp. du général Klinglin, Paris, pluviôse an VI, t. I, p. 566</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="11">
 <dictScrap>Collecte, perception, recette des impôts.</dictScrap>
@@ -41895,6 +41868,15 @@
 <dictScrap>Action de prendre chez un dépositaire. <oVar>Levée</oVar> de titres. <oVar>Levée</oVar> de cent barriques de vin.</dictScrap>
 <sense>
 <dictScrap><oVar>Levée</oVar> de numéraire, quantité plus ou moins considérable d'argent que le commerce prend dans une banque ou tout autre établissement de crédit.</dictScrap>
+</sense>
+<sense ana="supplement">
+<dictScrap>Action de prendre une certaine quantité sur un fond de marchandise.</dictScrap>
+<cit>
+<quote>Après une première levée de 100 kilogrammes, les particuliers qui feraient des exportations jouiraient du maximum de la prime sur toutes les quantités de tabacs, quelles qu'elles fussent, qu'ils achèteraient par la suite pour l'exportation</quote>
+<bibl>
+<biblScope>Circul. contrib. indir. 19 avril 1817, n° 12</biblScope>
+</bibl>
+</cit>
 </sense>
 </sense>
 <sense n="13">
@@ -41973,28 +41955,6 @@
 <dictScrap><oVar>Levée</oVar> des bandes, se dit des bandes que les vitriers lèvent avec le diamant pour se mettre de mesure.</dictScrap>
 <sense>
 <dictScrap>Se dit aussi des bandes de papier dont ils se servent pour faire des calfeutrages.</dictScrap>
-</sense>
-</sense><sense n="10" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>La <oVar>levée</oVar> d'une trêve, l'action de mettre fin à une trêve.</dictScrap>
-<cit>
-<quote>On ne sonne donc mot de la levée de la trêve ; comme tout cela est triste !</quote>
-<bibl>
-<biblScope>Corresp. du général Klinglin, Paris, pluviôse an VI, t. I, p. 566</biblScope>
-</bibl>
-</cit>
-</sense>
-</sense><sense n="12">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Action de prendre une certaine quantité sur un fond de marchandise.</dictScrap>
-<cit>
-<quote>Après une première levée de 100 kilogrammes, les particuliers qui feraient des exportations jouiraient du maximum de la prime sur toutes les quantités de tabacs, quelles qu'elles fussent, qu'ils achèteraient par la suite pour l'exportation</quote>
-<bibl>
-<biblScope>Circul. contrib. indir. 19 avril 1817, n° 12</biblScope>
-</bibl>
-</cit>
 </sense>
 </sense>
 <note type="R">Un levé pour une levée, au jeu de cartes, est une faute contre le bon usage actuel.  <cit><quote>Autrefois il se disait : Pour ce jeu nous ne volerons pas, car j'ay faict un levé</quote><bibl><author>RABEL.</author><biblScope>I, 5</biblScope></bibl></cit> </note>
@@ -42985,7 +42945,8 @@
 <dictScrap>Être <oVar>levé</oVar>, perçu. Ces impôts se <oVar>lèvent</oVar> difficilement.</dictScrap>
 </sense><sense n="29" ana="supplement">
 <dictScrap>Dans le canton de Vaud, <oVar>lever</oVar> la vigne, l'attacher à l'échalas.</dictScrap>
-</sense><sense n="30">
+</sense>
+<sense ana="supplement" n="30">
 <dictScrap>Terme de lapidaire.</dictScrap>
 <cit>
 <quote>Retirer la pierre de dessus la roue</quote>
@@ -43396,11 +43357,6 @@
 </cit>
 </note>
 <etym>Génev. lever la table, la desservir ; provenç. levar ; espagn. llevar ; ital. levare ; du lat. levare, qui est le dénominatif actif de levis (e bref), voulant dire d'abord alléger, puis delà, lever une chose en haut, la traiter comme une chose légère (voy. <ref target="léger">LÉGER</ref>).</etym>
-<re ana="supplement" orig=" 1. LEVER. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="lever.2">
 <form>
@@ -43535,7 +43491,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme de féodalité. Celui qui lève des droits seigneuriaux, des dîmes, des tailles, des impositions.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense ana="supplement" n="6">
 <dictScrap>Homme qui enlève le poisson pour le livrer à l'acheteur.</dictScrap>
 <cit>
 <quote>Qu'à l'avenir les leveurs relèveront de la commission de l'écorage, seront nommés par elle....</quote>
@@ -43935,13 +43892,13 @@
 </sense>
 <etym>Lat. laevus, gauche, et gyrare, tourner.</etym>
 </entry>
-<entry xml:id="levraudé">
+<entryFree xml:id="levraudé">
 <form>
 <orth>LEVRAUDÉ, ÉE</orth>
 <pron>le-vrô-dé, dée</pron>
 <gram>part. passé de levrauder</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="levrauder">
 <form>
 <orth>LEVRAUDER</orth>
@@ -44326,10 +44283,19 @@
 </sense>
 <sense n="2">
 <dictScrap>Espèce de coléoptère noir.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Nom, dans la Suisse romande, du mulot.</dictScrap>
 </sense>
+<note type="R" ana="supplement">Le féminin de lévrier était autrefois lévrière. <cit><quote>Monsieur de la Salle, j'entends que vous avés de beaux levriers ; et, pour ce que je n'ay que des levrieres, je suis en peine de retrouver des levriers</quote><bibl><biblScope>Lettres missives de Henri IV, 1576, t. I, p. 111</biblScope></bibl></cit> </note>
 <note type="H">
+<label>XIIe s.</label>
+<cit ana="supplement">
+<quote>Quant Karadeus si dut cocier La premiere nuit o s'amie, Cil [un enchanteur] ki l'amoit ne dormoit mie ; D'une luriele (var. levriere) que il prist Une autre damoisielle fist</quote>
+<bibl>
+<biblScope>Perceval le Gallois, V. 12466</biblScope>
+</bibl>
+</cit>
 <label>XVIe s.</label>
 <cit>
 <quote>En demandant à Querais une levrette, aussi bien, disoit-il, vous n'avez pas moyen de la nourrir</quote>
@@ -44340,21 +44306,6 @@
 </cit>
 </note>
 <etym>Voy. <ref target="lévrier">LÉVRIER</ref>.</etym>
-<re ana="supplement" orig=" LEVRETTE. Ajoutez : ">
-
-
-<note type="R" ana="supplement">Le féminin de lévrier était autrefois lévrière. <cit><quote>Monsieur de la Salle, j'entends que vous avés de beaux levriers ; et, pour ce que je n'ay que des levrieres, je suis en peine de retrouver des levriers</quote><bibl><biblScope>Lettres missives de Henri IV, 1576, t. I, p. 111</biblScope></bibl></cit> </note>
-<note type="H">
-<dictScrap>Ajoutez : </dictScrap>
-<label>XIIe s.</label>
-<cit ana="supplement">
-<quote>Quant Karadeus si dut cocier La premiere nuit o s'amie, Cil [un enchanteur] ki l'amoit ne dormoit mie ; D'une luriele (var. levriere) que il prist Une autre damoisielle fist</quote>
-<bibl>
-<biblScope>Perceval le Gallois, V. 12466</biblScope>
-</bibl>
-</cit>
-</note>
-</re>
 </entry>
 <entry xml:id="levretté">
 <form>
@@ -44572,8 +44523,6 @@
 <biblScope>Quadrup. t. I, p. 369</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
 <cit>
 <quote>Lévriers allongés sont propres pour la chasse ; Mais près des dames, non ; levrons en raccourci, Nichés auprès du feu, tiennent bien moins de place</quote>
 <bibl>
@@ -44602,10 +44551,6 @@
 </cit>
 </note>
 <etym>Voy. <ref target="lévrier">LÉVRIER</ref>.</etym>
-<re ana="supplement" orig=" LEVRON. ">
-
-
-</re>
 </entry>
 <entry xml:id="levronne">
 <form>
@@ -44634,15 +44579,12 @@
 </sense>
 <sense n="4">
 <dictScrap>Terme de chasse et de pêche. Demi-mailles par lesquelles on commence un filet.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Dans le canton de Vaud, action d'attacher la vigne à l'échalas.</dictScrap>
 </sense>
 <note type="R">On ne voit pas pourquoi l'Académie met un accent circonflexe sur levûre, tandis qu'elle n'en met pas sur balayure, lavure, etc. </note>
 <etym>Prov. et esp. levadura ; du lat. levare, lever.</etym>
-<re ana="supplement" orig=" LEVÛRE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lexiarque">
 <form>
@@ -46116,6 +46058,9 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme d'antiquité ecclésiastique, qui se disait de certains billets ou certificats, que plusieurs chrétiens prenaient des magistrats, pour se mettre à couvert de la persécution.</dictScrap>
+<sense ana="supplement">
+<dictScrap><oVar>Libelles</oVar> des martyrs, espèces de lettres de recommandation que les martyrs (chrétiens ayant souffert ou souffrant pour la foi) donnaient à ceux qui étaient sujets à la pénitence publique, pour les dispenser de la totalité ou d'une partie de leur peine.</dictScrap>
+</sense>
 </sense>
 <sense n="4">
 <dictScrap>Écrit, ordinairement de peu d'étendue, satirique, injurieux, diffamatoire.</dictScrap>
@@ -46168,11 +46113,6 @@
 <biblScope>Mère coup. V, 8</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
-<dictScrap>Terme d'antiquité chrétienne. Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Libelles</oVar> des martyrs, espèces de lettres de recommandation que les martyrs (chrétiens ayant souffert ou souffrant pour la foi) donnaient à ceux qui étaient sujets à la pénitence publique, pour les dispenser de la totalité ou d'une partie de leur peine.</dictScrap>
-</sense>
 </sense>
 <note type="H">
 <label>XIIIe s.</label>
@@ -46210,10 +46150,6 @@
 </cit>
 </note>
 <etym>Lat. libellus, diminutif de liber, livre.</etym>
-<re ana="supplement" orig=" LIBELLE. ">
-
-
-</re>
 </entry>
 <entry xml:id="libellé">
 <form>
@@ -49858,7 +49794,8 @@
 <biblScope>Germinie Lacerteux, ch. XLIX</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Dans la fortification du moyen âge, espace libre laissé entre l'enceinte extérieure et l'enceinte intérieure.</dictScrap>
 </sense>
 <note type="H">
@@ -49962,11 +49899,6 @@
 </cit>
 </note>
 <etym>Berry, lices, ensemble de poteaux formant une clôture continue ; provenç. laissa, layssa, lissa ; esp. liza ; ital. lizza, liccia ; bas-latin, licia, pieu, liciae, défense mise autour d'un camp, d'une ville. Origine incertaine. Du Cange le tire du latin licium, trame, à cause que les pieux sont rangés comme les fils dans une trame ; étymologie que Diez rejette parce que le sens n'est pas satisfaisant. Diez conjecture le moyen haut allemand letze, rempart, mais il remarque lui-même que le changement de l'e en i n'est pas facile. On a indiqué le bas-breton les, lice, mais on ne sait si les n'est pas un emprunt fait aux langues romanes ; d'après la Villemarqué, Contes bretons, t. II, p. 287, lis ! lis ! est encore en Bretagne le signal du combat au bâton qui se livre pendant la nuit des morts. Scheler remarquant qu'en anglais lice se dit list, propose de regarder lisse comme la bonne orthographe, et d'admettre que lisse est pour liste dans son sens primitif de barrière, clôture. Tout considéré, l'opinion de du Cange reste la meilleure et très probable.</etym>
-<re ana="supplement" orig=" 1. LICE. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="lice.2">
 <form>
@@ -50451,7 +50383,8 @@
 </sense>
 <sense n="2">
 <dictScrap>S. m. Celui qui a pris ses degrés de licence. <oVar>Licencié</oVar> ès lettres. <oVar>Licencié</oVar> ès sciences. <oVar>Licencié</oVar> en droit.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Celui auquel un brevet a cédé une licence pour l'exploitation de son privilége.</dictScrap>
 <cit>
 <quote>La cession d'une licence est un contrat par lequel le brevet concède au licencié la jouissance partielle du monopole dont il est investi</quote>
@@ -50487,7 +50420,12 @@
 <etym>Licencier.</etym>
 </entry>
 <entry xml:id="licencier">
-<form><orth>LICENCIER</orth><pron>li-san-si-é</pron>, je licenciais, nous licenciions, vous licenciiez ; que je licencie, que nous licenciions, que vous licenciiez, v. a. </form>
+<form>
+<orth>LICENCIER</orth>
+<pron>li-san-si-é</pron>
+<note>je licenciais, nous licenciions, vous licenciiez ; que je licencie, que nous licenciions, que vous licenciiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Congédier. Après la paix on <oVar>licencia</oVar> une partie de l'armée.</dictScrap>
 <cit>
@@ -50647,7 +50585,8 @@
 </form>
 <sense>
 <dictScrap>D'une manière licencieuse. Il a vécu <oVar>licencieusement</oVar>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>En prenant trop de licence.</dictScrap>
 <cit>
 <quote>Au premier concile grammatical.... il sera conclu (ou je n'y aurai point de voix) que vous n'abuserez plus des grands mots si licencieusement, et que ceux de magnanimité et de magnificence seront employés autres fois en de plus dignes occasions que celles que mes lettres vous font naître</quote>
@@ -50968,7 +50907,8 @@
 </form>
 <sense>
 <dictScrap>Terme de chimie. Acide <oVar>lichénique</oVar>, acide qu'on trouve à l'état de sel de chaux dans les lichens.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Terme de botanique. Qui appartient aux lichens.</dictScrap>
 <cit>
 <quote>Végétation lichénique</quote>
@@ -51965,7 +51905,8 @@
 <sense>
 <dictScrap>Terme de pratique. Engagé. <oVar>Lié</oVar> de mariage. Femme <oVar>liée</oVar> de mari.</dictScrap>
 </sense>
-</sense><sense n="10">
+</sense>
+<sense ana="supplement" n="10">
 <dictScrap>Terme de banque. Contrat <oVar>lié</oVar>, engagement envers le porteur d'une lettre de change acceptée par celui sur qui elle est tirée.</dictScrap>
 <cit>
 <quote>En matière de lettre de change, il n'y a contrat lié envers le porteur, que par l'acceptation du tiré</quote>
@@ -51974,10 +51915,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" LIÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="liée">
 <form>
@@ -52463,7 +52400,10 @@
 <etym>XVIe s.  <cit><quote>Le flux de ventre qui est tousjours mauvais est le lienterique, qui vient de boire trop, ou de....</quote><bibl><author>PARÉ</author><biblScope>XX bis, 19</biblScope></bibl></cit></etym>
 </entry>
 <entry xml:id="lier">
-<form><orth>LIER</orth><pron>li-é</pron>, je liais, nous liions, vous liiez ; que je lie, que nous liions, que vous liiez, v. a. </form>
+<form><orth>LIER</orth><pron>li-é</pron>
+<note>je liais, nous liions, vous liiez ; que je lie, que nous liions, que vous liiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Serrer avec une corde passée autour de quelqu'un ou de quelque chose. <oVar>Lier</oVar> un paquet, un faisceau.</dictScrap>
 <cit>
@@ -54624,7 +54564,8 @@
 <biblScope>Gil Blas, II, 3</biblScope>
 </bibl>
 </cit>
-</sense><sense n="25">
+</sense>
+<sense ana="supplement" n="25">
 <dictScrap>Terme de topographie. <oVar>Lieu</oVar> dit, <oVar>lieu</oVar> qui porte un nom particulier.</dictScrap>
 <cit>
 <quote>Le but vers lequel tend la publication actuelle n'est autre que d'attirer l'attention sur la valeur historique ou géographique des lieux dits, mis en place sur des tableaux, d'après les feuilles cadastrales, et dont la philologie essayera d'expliquer les noms si variés</quote>
@@ -54899,10 +54840,6 @@
 </cit>
 </note>
 <etym>Franc-comtois, luë ; bourg. leu, lei ; wallon, lué ; picard, liu ; provenç. loc, luoc, luec ; cat. lloc ; anc. esp. luego ; ital. loco, luogo ; du lat. locus, anciennement stlocus (dans Festus).</etym>
-<re ana="supplement" orig=" LIEU. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lieu.2">
 <form>
@@ -54932,9 +54869,11 @@
 </cit>
 <sense>
 <dictScrap>La <oVar>lieue</oVar> commune de France, ou <oVar>lieue</oVar> géographique, était de deux mille deux cent quatre-vingt-deux toises (4444 mètres et demi).</dictScrap>
+<dictScrap ana="supplement">Corrigez : La <oVar>lieue</oVar> commune de France, ou <oVar>lieue</oVar> de 25 au degré, était de deux mille deux cent quatre-vingt-une toises environ (4445 mètres).</dictScrap>
 </sense>
 <sense>
 <dictScrap><oVar>Lieue</oVar> de poste, <oVar>lieue</oVar> de deux mille toises.</dictScrap>
+<dictScrap ana="supplement"><oVar>Lieue</oVar> de poste, <oVar>lieue</oVar> de deux mille toises (3898 mètres). <oVar>Lieue</oVar> marine ou géographique, <oVar>lieue</oVar> de vingt au degré....</dictScrap>
 </sense>
 <sense>
 <dictScrap><oVar>Lieue</oVar> de pays, <oVar>lieue</oVar> qui diffère de la <oVar>lieue</oVar> commune et dont la longueur est déterminée par l'usage particulier de telle ou de telle contrée.</dictScrap>
@@ -55093,11 +55032,6 @@
 <dictScrap>Il n'écoute pas, il est à mille <oVar>lieues</oVar> d'ici, se dit d'un homme distrait et qui n'a pas d'attention à ce qu'on lui dit.</dictScrap>
 </sense>
 <re type="P"> Par tout pays il y a une lieue de mauvais chemin, on trouve partout des obstacles, des difficultés. </re>
-</sense><sense n="1">
-<dictScrap>Corrigez : La <oVar>lieue</oVar> commune de France, ou <oVar>lieue</oVar> de 25 au degré, était de deux mille deux cent quatre-vingt-une toises environ (4445 mètres).</dictScrap>
-<sense>
-<dictScrap><oVar>Lieue</oVar> de poste, <oVar>lieue</oVar> de deux mille toises (3898 mètres). <oVar>Lieue</oVar> marine ou géographique, <oVar>lieue</oVar> de vingt au degré....</dictScrap>
-</sense>
 </sense>
 <note type="H">
 <label>XIe s.</label>
@@ -55705,7 +55639,8 @@
 </sense>
 <sense n="6">
 <dictScrap>Lin de <oVar>lièvre</oVar>, voy. <ref target="lin">LIN</ref>.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>On dit qu'un cheval a une tête de <oVar>lièvre</oVar>, lorsque les oreilles sont rapprochées, le front et le chanfrein convexes et étroits</dictScrap>
 </sense>
 <re type="P">C'est vouloir prendre les lièvres au son du tambour, c'est entreprendre ouvertement et avec éclat ce qui se devrait faire en cachette et adroitement. </re>
@@ -55832,7 +55767,8 @@
 </sense>
 <sense n="3">
 <dictScrap>La partie qui réunit les deux valves des coquilles.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Terme d'astronomie. <oVar>Ligament</oVar> noir, voy. GOUTTE au Supplément.</dictScrap>
 </sense>
 <note type="H">
@@ -55968,7 +55904,8 @@
 </sense>
 <sense n="9">
 <dictScrap>Terme d'alchimie. Ce qui bouche exactement un vaisseau.</dictScrap>
-</sense><sense n="10">
+</sense>
+<sense ana="supplement" n="10">
 <dictScrap>En général, manière de lier un objet quelconque.</dictScrap>
 <cit>
 <quote>Démocrite prit à son service Protagoras pour lui apprendre la philosophie, ayant reconnu son bel esprit à la ligature d'un fagot de bûchettes industrieusement arrangées</quote>
@@ -55996,10 +55933,6 @@
 </cit>
 </note>
 <etym>Provenç. ligadura ; du lat. ligare, lier.</etym>
-<re ana="supplement" orig=" LIGATURE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="ligaturer">
 <form>
@@ -57050,7 +56983,8 @@
 </sense>
 </sense><sense n="36" ana="supplement">
 <dictScrap><oVar>Ligne</oVar> géodésique, la plus courte des <oVar>lignes</oVar> qu'on puisse mener d'un point à un autre sur une surface donnée.</dictScrap>
-</sense><sense n="37">
+</sense>
+<sense ana="supplement" n="37">
 <dictScrap>En topographie, <oVar>ligne</oVar> de faîte, <oVar>ligne</oVar> de partage des eaux.</dictScrap>
 </sense>
 <note type="H">
@@ -57311,7 +57245,8 @@
 <sense>
 <dictScrap>Terme de marine. <oVar>Ligner</oVar> une voile, la disposer, pli par pli, sur un de ses côtés, afin de la serrer convenablement.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Marquer d'une ligne.</dictScrap>
 <cit>
 <quote>Au loin, un mur s'allongeait, un mur de fermeture, tout droit, continuant toujours ; le filet de neige qui lignait son chaperon lui donnait une couleur de rouille sale</quote>
@@ -57332,10 +57267,6 @@
 </cit>
 </note>
 <etym>Ligne.</etym>
-<re ana="supplement" orig=" 1. LIGNER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="ligner.2">
 <form>
@@ -57422,7 +57353,8 @@
 <sense>
 <dictScrap>On dit aussi lignotier.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Vaisseau moruyer pêchant à la ligne.</dictScrap>
 <cit>
 <quote>Naufrage d'un ligneur : le vendredi 23 mai dernier, le bateau ligneur l'Hirondelle s'est perdu sur un banc à trois lieues en mer sous Hauteville et Mont-Martin</quote>
@@ -57764,7 +57696,12 @@
 </sense>
 </entry>
 <entry xml:id="liguer">
-<form><orth>LIGUER</orth><pron>li-ghé</pron>, je liguais, nous liguions, vous liguiez ; que je ligue, que nous liguions, que vous liguiez, v. a. </form>
+<form>
+<orth>LIGUER</orth>
+<pron>li-ghé</pron>
+<note>je liguais, nous liguions, vous liguiez ; que je ligue, que nous liguions, que vous liguiez</note>
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Mettre en <oVar>ligue</oVar>.</dictScrap>
 <cit>
@@ -58671,7 +58608,8 @@
 </sense>
 <sense n="8">
 <dictScrap>Terme de pêche. Se dit des endroits où la surface de l'eau est unie.</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense ana="supplement" n="9">
 <dictScrap>Variétés de <oVar>limes</oVar>.</dictScrap>
 <cit>
 <quote>Il y a trois classes de limes : les limes bâtardes ou rudes, les limes demi-douces, qui sont un peu plus fines, et les limes douces qui sont encore plus fines</quote>
@@ -58739,10 +58677,6 @@
 </cit>
 </note>
 <etym>Provenç. espagn. et ital. lima ; catal llima ; du lat. lima, qui se rapporte à limus, oblique, à cause de l'obliquité ou de la courbure des dents de la lime.</etym>
-<re ana="supplement" orig=" 1. LIME. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lime.2">
 <form>
@@ -59471,15 +59405,14 @@
 </sense>
 <etym>Terme grec signifiant d'eau douce, dérivé du mot étang.</etym>
 </entry>
-<entry xml:id="limnimètre">
+<entryFree xml:id="limnimètre">
 <form>
 <orth>LIMNIMÈTRE</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
-<dictScrap>Voy. ci-dessous LIMNOMÈTRE. <oVar>Limnimètre</oVar> est mal formé ; tous les mots composés du grec prennent limno.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. ci-dessous LIMNOMÈTRE.</xr> 
+<note type="R">Limnimètre est mal formé ; tous les mots composés du grec prennent limno.</note>
+</entryFree>
 <entry xml:id="limnomètre">
 <form>
 <orth>LIMNOMÈTRE</orth>
@@ -59990,14 +59923,12 @@
 </sense>
 <etym>Limonier 1.</etym>
 </entry>
-<entry xml:id="limonine">
+<entryFree xml:id="limonine">
 <form>
 <orth>LIMONINE</orth>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="limone">LIMONE</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="limone">LIMONE</ref>.</xr>
+</entryFree>
 <entry xml:id="limonite">
 <form>
 <orth>LIMONITE</orth>
@@ -60059,15 +59990,13 @@
 </sense>
 <etym>Il vient beaucoup de maçons du Limousin, qui représente Lemovices, nom gaulois du pays de Limoges.</etym>
 </entry>
-<entry xml:id="limousinage">
+<entryFree xml:id="limousinage">
 <form>
 <orth>LIMOUSINAGE</orth>
 <pron>li-mou-zi-na-j'</pron>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="limosinage">LIMOSINAGE</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="limosinage">LIMOSINAGE</ref>.</xr>
+</entryFree>
 <entry xml:id="limousine">
 <form>
 <orth>LIMOUSINE</orth>
@@ -61296,7 +61225,14 @@
 <etym>Terme grec signifiant habillé de lin, et dérivé de deux mots traduits par : lin et robe.</etym>
 </entry>
 <entry xml:id="linot">
-<form><orth>LINOT</orth><pron>li-no</pron>, s. m. ou LINOTTE (li-no-t'), s. f. </form>
+<form>
+<orth>LINOT</orth>
+<pron>li-no</pron>
+<gram>s. m.</gram>
+<orth>LINOTTE</orth>
+<pron>li-no-t'</pron>
+<gram>s. f.</gram>
+</form>
 <sense n="1">
 <dictScrap>Petit oiseau gris, à bec conique, dont le chant est très agréable.</dictScrap>
 </sense>
@@ -61449,15 +61385,13 @@
 </sense>
 <etym>Lat. linteus, de linge, de linum, lin.</etym>
 </entry>
-<entry type="prefixe" xml:id="lio-">
+<entryFree type="prefixe" xml:id="lio-">
 <form>
 <orth>LIO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
-<dictScrap>Préfixe venant du grec et qui signifie lisse, uni.</dictScrap>
-</sense>
-</entry>
+<def>Préfixe venant du grec et qui signifie lisse, uni.</def>
+</entryFree>
 <entry xml:id="liocarpe">
 <form>
 <orth>LIOCARPE</orth>
@@ -62548,7 +62482,12 @@
 </sense>
 </entry>
 <entry xml:id="liquéfier">
-<form><orth>LIQUÉFIER</orth><pron>li-ké-fi-é</pron>, je liquéfiais, nous liquéfiions, vous liquéfiiez ; que je liquéfie, que nous liquéfiions, que vous liquéfiiez, v. a. </form>
+<form>
+<orth>LIQUÉFIER</orth>
+<pron>li-ké-fi-é</pron>
+<note>je liquéfiais, nous liquéfiions, vous liquéfiiez ; que je liquéfie, que nous liquéfiions, que vous liquéfiiez</note> 
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Faire passer de l'état solide à l'état liquide, au moyen de la chaleur ou d'un agent chimique. Le feu <oVar>liquéfie</oVar> le plomb, l'argent. On peut <oVar>liquéfier</oVar> l'or au moyen de l'eau régale.</dictScrap>
 <sense>
@@ -62942,6 +62881,8 @@
 <sense n="8">
 <dictScrap>Terme de médecine. Boisson ou aliment <oVar>liquide</oVar>, tels que le lait, le bouillon, les consommés, etc. Couper le lait avec un autre <oVar>liquide</oVar>.</dictScrap>
 </sense>
+<re type="S">1. LIQUEUR, LIQUIDE., Autrefois on appelait liqueur toute substance liquide ; c'est ainsi que Pascal a écrit un livre de l'équilibre des liqueurs ; nous dirions aujourd'hui des liquides, c'est le terme générique ; liqueur ne s'emploie que pour certains liquides déterminés. </re>
+<re type="S">2. LIQUIDE, FLUIDE., Tout liquide est fluide ; mais tout fluide n'est pas liquide. Fluide s'applique aussi au gaz, tandis que liquide ne se dit que des corps qui restent comme l'eau dans le vase où on les met. </re>
 <note type="H">
 <label>XIVe s.</label>
 <cit>
@@ -62991,8 +62932,6 @@
 </bibl>
 </cit>
 </note>
-<re type="S">1. LIQUEUR, LIQUIDE., Autrefois on appelait liqueur toute substance liquide ; c'est ainsi que Pascal a écrit un livre de l'équilibre des liqueurs ; nous dirions aujourd'hui des liquides, c'est le terme générique ; liqueur ne s'emploie que pour certains liquides déterminés. </re>
-<re type="S">2. LIQUIDE, FLUIDE., Tout liquide est fluide ; mais tout fluide n'est pas liquide. Fluide s'applique aussi au gaz, tandis que liquide ne se dit que des corps qui restent comme l'eau dans le vase où on les met. </re>
 <etym>Provenç. liquid ; catal. lliquid, espagn. et ital. liquido ; du lat. liquidus (voy. <ref target="liqueur">LIQUEUR</ref>).</etym>
 </entry>
 <entry xml:id="liquidé">
@@ -63111,7 +63050,12 @@
 <etym>Liqueur.</etym>
 </entry>
 <entry xml:id="lire">
-<form><orth>LIRE</orth><pron>li-r'</pron>, je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent ; je lisais ; je lus ; je lirai ; je lirais, lis, lisons ; que je lise, que nous lisions ; que je lusse ; lisant ; lu, lue, v. a. </form>
+<form>
+<orth>LIRE</orth>
+<pron>li-r'</pron>
+<note>je lis, tu lis, il lit, nous lisons, vous lisez, ils lisent ; je lisais ; je lus ; je lirai ; je lirais, lis, lisons ; que je lise, que nous lisions ; que je lusse ; lisant ; lu, lue</note>
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Connaître les lettres et savoir les assembler en mots. Cet enfant commence à <oVar>lire</oVar> des phrases. Une écriture malaisée à <oVar>lire</oVar>.</dictScrap>
 <cit>
@@ -63944,7 +63888,8 @@
 </sense>
 <sense n="11">
 <dictScrap><oVar>Lis</oVar> de mer, espèce d'encrine.</dictScrap>
-</sense><sense n="12">
+</sense>
+<sense ana="supplement" n="12">
 <cit>
 <quote>Arbre aux lis, le tulipier et plusieurs magnolias de l'Amérique du nord</quote>
 <bibl>
@@ -64024,10 +63969,6 @@
 </cit>
 </note>
 <etym>Provenç. lili, liri, lis ; catal. lliri ; esp. lis et lirio ; ital. giglio ; du lat. lilium. Le français lis est l'ancien nominatif lis pour lils. On remarquera dans le XIIe siècle l'orthographe lilie par respect pour l'étymologie latine, bien que ce lilie fût monosyllabe.</etym>
-<re ana="supplement" orig=" 1. LIS. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lis.2">
 <form>
@@ -64590,7 +64531,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Dans les fabriques, bâti de charpente pour l'apprêt de certaines étoffes.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Terme d'artillerie. Dans les affûts de place, de côtes et de casemate, pièce qui réunit les deux côtés du grand châssis, et dans laquelle s'engage la cheville ouvrière.</dictScrap>
 <sense>
 <dictScrap><oVar>Lisoir</oVar> directeur, bâti qu'on substitue au grand châssis de ces affûts, lorsqu'on veut diminuer la hauteur de la pièce au-dessus de la plate-forme.</dictScrap>
@@ -64672,7 +64614,8 @@
 <sense>
 <dictScrap>Canon <oVar>lisse</oVar>, voy. <ref target="canon">CANON</ref>.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>S. m. Terme de filature.</dictScrap>
 <cit>
 <quote>Fil de coton retors à quatre, six, neuf fils et au-dessus, dit cordonnet ou lisse</quote>
@@ -64699,11 +64642,6 @@
 </cit>
 </note>
 <etym>Provenç. lis, liz ; esp. liso ; port. lizo ; ital. liscio ; du germanique : ancien haut allem. lîse, doux ; allem. mod. leise, d'après Diez. À la vérité, on pourrait introduire le terme grec traduit par lisse, poli. Mais, le terme grec n'ayant pas pénétré dans le latin, on ne voit pas comment il serait entré dans les langues romanes : l'étymologie germanique est donc préférable. D'ailleurs leise et le terme grec sont alliés.</etym>
-<re ana="supplement" orig=" 1. LISSE. ">
-
-
-
-</re>
 </entry>
 <entry xml:id="lisse.2">
 <form>
@@ -64905,7 +64843,8 @@
 <sense>
 <dictScrap>Celui, celle qui lisse des sucreries.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>S. f. Lisseuse, machine à lisser.</dictScrap>
 <cit>
 <quote>Une machine à dégraisser, à sécher et à lisser la laine peignée, dite lisseuse.... une machine à mettre en bobines les rubans sortant de la lisseuse</quote>
@@ -65105,7 +65044,7 @@
 <etym>Voy. <ref target="listel">LISTEL</ref>.</etym>
 </entry>
 <entry xml:id="listel">
-<form><orth>LISTEL</orth><pron>li-stèl</pron>, au plur. LISTEAUX (li-stô), s. m. </form>
+<form><orth>LISTEL</orth><pron>li-stèl</pron><note>au plur.</note> <orth>LISTEAUX</orth> <pron>li-stô</pron> <gram>s. m.</gram> </form>
 <sense n="1">
 <dictScrap>Terme d'architecture. Petite moulure carrée et unie qui couronne ou accompagne une autre moulure plus grande, ou bien qui est rapportée sur un champ uni.</dictScrap>
 <sense>
@@ -66036,7 +65975,8 @@
 <sense>
 <dictScrap>Terme de pêche. Mettre le poisson, le hareng, la morue, par lits dans les tonnes.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Se <oVar>liter</oVar>, v. réfl. Être rangés par lits, en parlant de poissons.</dictScrap>
 <cit>
 <quote>La quatrième espèce de hareng.... ce dernier ne se lite pas dans les barils, mais s'y met pêle-mêle, se paquant néanmoins et s'apprêtant comme les autres ; c'est ce hareng qu'on nomme communément hareng de droguerie ou de drogue</quote>
@@ -66048,10 +65988,6 @@
 </cit>
 </sense>
 <etym>Lit.</etym>
-<re ana="supplement" orig=" 1. LITER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="liter.2">
 <form>
@@ -66157,15 +66093,13 @@
 <note type="R">L'Académie écrit lithargiré par un i ; mais il est mieux de mettre l'y étymologique. </note>
 <etym>Lat. lithargyrus, litharge.</etym>
 </entry>
-<entry type="suffixe" xml:id="lithe">
+<entryFree type="suffixe" xml:id="lithe">
 <form>
 <orth>-LITHE</orth>
 <gram>suffixe</gram>
 </form>
-<sense>
-<dictScrap>Élément de composition qui signifie pierre, et qui forme partout des mots masculins, excepté dans chrysolithe, hippolithe, hystérolithe et quelques autres, exceptions sans bonne raison (voyez LITHO).</dictScrap>
-</sense>
-</entry>
+<def>Élément de composition qui signifie pierre, et qui forme partout des mots masculins, excepté dans chrysolithe, hippolithe, hystérolithe et quelques autres, exceptions sans bonne raison (voyez LITHO).</def>
+</entryFree>
 <entry xml:id="lithiase">
 <form>
 <orth>LITHIASE ou LITHIASIE</orth>
@@ -66212,14 +66146,12 @@
 <dictScrap>Terme de chimie. Métal qui fait la base de la lithine.</dictScrap>
 </sense>
 </entry>
-<entry type="prefixe" xml:id="litho-">
+<entryFree type="prefixe" xml:id="litho-">
 <form>
 <orth>LITHO-</orth>
 </form>
-<sense>
-<dictScrap>Élément de composition qui signifie pierre, et qui vient du grec.</dictScrap>
-</sense>
-</entry>
+<def>Élément de composition qui signifie pierre, et qui vient du grec.</def>
+</entryFree>
 <entry xml:id="lithocarpe">
 <form>
 <orth>LITHOCARPE</orth>
@@ -66431,11 +66363,11 @@
 </sense>
 </entry>
 <entry xml:id="lithographier">
-<form><orth>LITHOGRAPHIER</orth><pron>li-to-gra-fi-é</pron>, je lithographiais, nous lithographiions, vous lithographiiez ; que je lithographie, que nous lithographiions, que vous lithographiiez, v. a. </form>
-<sense>
-<dictScrap>Imprimer par les procédés de la lithographie.</dictScrap>
-<cit>
-<quote>Un libraire veut avoir mon portrait pour le faire lithographier : je l'ai envoyé promener</quote>
+<form><orth>LITHOGRAPHIER</orth><pron>li-to-gra-fi-é</pron><note>je lithographiais, nous lithographiions, vous lithographiiez ; que je lithographie, que nous lithographiions, que vous lithographiiez</note> <gram>v. a.</gram> </form>
+  <sense>
+    <dictScrap>Imprimer par les procédés de la lithographie.</dictScrap>
+    <cit>
+      <quote>Un libraire veut avoir mon portrait pour le faire lithographier : je l'ai envoyé promener</quote>
 <bibl>
 <author>P. L. COUR.</author>
 <biblScope>Lett. II, 192</biblScope>
@@ -68949,7 +68881,8 @@
 <biblScope>Mélite, I, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="17">
+</sense>
+<sense ana="supplement" n="17">
 <dictScrap>Terme de turf. <oVar>Livre</oVar> des paris, <oVar>livre</oVar> sur lequel on inscrit les paris.</dictScrap>
 <sense>
 <dictScrap>Faire un <oVar>livre</oVar>, parier contre tous les chevaux.</dictScrap>
@@ -69029,11 +68962,6 @@
 </cit>
 </note>
 <etym>Provenc. libre ; catal. llibre ; espagn. libro ; portug. livro ; ital. libro ; du lat. liber, proprement la pellicule entre le bois et l'écorce, pellicule qui a donné son nom au livre, attendu qu'on a écrit anciennement dessus.</etym>
-<re ana="supplement" orig=" 1. LIVRE. ">
-
-
-
-</re>
 </entry>
 <entry xml:id="livre.2">
 <form>
@@ -69094,7 +69022,8 @@
 </sense>
 </sense><sense n="5" ana="supplement">
 <dictScrap>Unité de mesure des marais salants, comprenant vingt aires et leurs dépendances, Enquête sur les sels, t. I, p. 510.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense ana="supplement" n="6">
 <dictScrap>Terme de préhistoire. <oVar>Livre</oVar> de beurre, rognon de silex.</dictScrap>
 <cit>
 <quote>Les gros rognons qui, à cause de leur forme, sont connus sous le nom de livres de beurre, ont soulevé de vives discussions ; ils ont ordinairement de 8 à 12 pouces de longueur et ressemblent à un bateau, une des extrémités étant fort large et l'autre se terminant en pointe</quote>
@@ -69114,11 +69043,6 @@
 </cit>
 </note>
 <etym>Lat. libra ; comp. le grec.</etym>
-<re ana="supplement" orig=" 2. LIVRE. Ajoutez : ">
-
-
-
-</re>
 </entry>
 <entry xml:id="livre.3">
 <form>
@@ -70172,7 +70096,8 @@
 <sense n="15">
 <dictScrap>Se <oVar>livrer</oVar>, être engagé, en parlant de bataille. Des combats violents se <oVar>livrent</oVar> entre les cerfs lors du rut. </dictScrap>
 <re type="P"><form>Tel vend qui ne livre pas</form>, c'est-à-dire on ne réussit pas toujours dans les mesures que l'on prend pour tromper quelqu'un. </re>
-</sense><sense n="16">
+</sense>
+<sense ana="supplement" n="16">
 <dictScrap>Se <oVar>livrer</oVar>, en termes de commerce, prendre livraison. Se <oVar>livrer</oVar> d'un chargement de blé.</dictScrap>
 </sense>
 <re type="S">LIVRER, DÉLIVRER (dans le sens de donner). Livrer, c'est remettre ce qui a été stipulé, convenu, vendu : le marchand livre la marchandise à celui qui l'a achetée. Délivrer n'implique pas cette idée ; c'est simplement remettre : un garde-magasin délivre tant de sacs de farine à celui qui est autorisé à venir les prendre. </re>
@@ -70307,10 +70232,6 @@
 </cit>
 </note>
 <etym>Provenç. liurar, lieurar, livrar ; catal. lliurar, livrar ; espagn. librar ; ital. librare, liberare ; du lat. liberare, rendre libre. " L'idée moderne, dit Scheler, se déduit naturellement du sens classique : affranchir, détacher une chose ou la laisser partir, la livrer, ne plus la retenir sont des idées qui se tiennent. " Cela est très juste. Liberare avec le sens de remettre se trouve dès les Capitulaires de Charles le Chauve.</etym>
-<re ana="supplement" orig=" LIVRER. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="livret">
 <form>
@@ -71492,10 +71413,11 @@
 <etym>Lat. loco, dans le lieu, et batteuse : batteuse sur lieu.</etym>
 </entry>
 <entry xml:id="loco.2">
-<form><orth>LOCO CITATO</orth><pron>lo-ko-si-ta-to</pron>, mots latins qu'on emploie pour dire : dans le lieu cité, à l'endroit cité précédemment. </form>
+<form><orth>LOCO CITATO</orth><pron>lo-ko-si-ta-to</pron><gram/></form>
 <sense>
-<dictScrap>ÉTYM. Lat. locus citatus, lieu cité.</dictScrap>
+  <dictScrap>mots latins qu'on emploie pour dire : dans le lieu cité, à l'endroit cité précédemment.</dictScrap>
 </sense>
+<etym>Lat. locus citatus, lieu cité.</etym>
 </entry>
 <entry xml:id="locomobile">
 <form>
@@ -72354,7 +72276,8 @@
 <biblScope>Sophon. I, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Qui est en fût, en caisse, en parlant d'une marchandise.</dictScrap>
 <cit>
 <quote>Vous avez décidé que la distinction entre l'absinthe logée dans les futailles et l'absinthe logée dans les bouteilles disparaîtrait</quote>
@@ -72369,10 +72292,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" LOGÉ, ÉE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="logeable">
 <form>
@@ -72481,7 +72400,8 @@
 </cit>
 </sense><sense n="6" ana="supplement">
 <dictScrap>Terme d'artillerie. Dégradation des bouches à feu en bronze ; c'est une dépression du métal produite à l'emplacement du projectile par la pression que les gaz de la poudre exercent sur lui en s'échappant.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>Terme de commerce. Emballage, récipient de marchandises.</dictScrap>
 <cit>
 <quote>... Que la gomme, aussitôt son entrée [en magasin], ayant été changée de logement [elle était d'abord logée en caisse] et mise en sacs, il ne restait plus aucune trace de ce cachet de provenance</quote>
@@ -72490,7 +72410,7 @@
 </bibl>
 </cit>
 </sense>
-<etym>LOGEMENT, APPARTEMENT. Logement se dit de toute espèce de logis dans une maison, grand ou petit ; appartement ne se dit que d'un logis composé de plusieurs pièces.</etym>
+<re type="S">LOGEMENT, APPARTEMENT. Logement se dit de toute espèce de logis dans une maison, grand ou petit ; appartement ne se dit que d'un logis composé de plusieurs pièces.</re>
 <note type="H">
 <label>XVe s.</label>
 <cit>
@@ -72986,15 +72906,14 @@
 </note>
 <etym>Logique ; provenç. logician.</etym>
 </entry>
-<entry type="suffixe" xml:id="logie">
+<entryFree type="suffixe" xml:id="logie">
 <form>
 <orth>-LOGIE</orth>
 <gram>suffixe</gram>
 </form>
-<sense>
-<dictScrap>Élément de composition qui représente le mot grec, signifiant doctrine, théorie, qui lui-même vient, en grec, de discours, traité (voy. <ref target="logos">LOGOS</ref>).</dictScrap>
-</sense>
-</entry>
+<def>Élément de composition qui représente le mot grec, signifiant doctrine, théorie, qui lui-même vient, en grec, de discours, traité</def>
+<xr>(voy. <ref target="logos">LOGOS</ref>)</xr>
+</entryFree>
 <entry xml:id="logique">
 <form>
 <orth>LOGIQUE</orth>
@@ -73291,14 +73210,12 @@
 <re>LOGIS. Ajoutez : - REM. Maréchal des logis correspond, dans les troupes à cheval, à sergent dans les troupes à pied ; et maréchal des logis chef à sergent-major. </re>
 </re>
 </entry>
-<entry type="suffixe" xml:id="logiste.1">
+<entryFree type="suffixe" xml:id="logiste.1">
 <form>
 <orth>-LOGISTE</orth>
 </form>
-<sense>
-<dictScrap>Snonyme de -LOGUE.</dictScrap>
-</sense>
-</entry>
+<def>Synonyme de -LOGUE.</def>
+</entryFree>
 <entry xml:id="logiste.2">
 <form>
 <orth>LOGISTE</orth>
@@ -73370,7 +73287,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Celui qui écrit aussi vite que la parole. On dit plutôt sténographe.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>À Athènes, rhéteur qui composait des discours, des plaidoyers pour un autre.</dictScrap>
 <cit>
 <quote>On lira d'ingénieuses conjectures sur le soin que devait s'imposer le logographe d'apprendre lui-même à son client comment débiter le discours qu'il lui fournissait</quote>
@@ -73381,10 +73299,6 @@
 </cit>
 </sense>
 <etym>En grec, terme dérivé de récit réel, par opposition à légende poétique, et verbe grec signifiant écrire.</etym>
-<re ana="supplement" orig=" LOGOGRAPHE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="logographie">
 <form>
@@ -73578,14 +73492,12 @@
 </sense>
 <etym>Termes grecs, l'un est dérivé de compte, et l'autre signifie poser, disposer.</etym>
 </entry>
-<entry type="suffixe" xml:id="logue">
+<entryFree type="suffixe" xml:id="logue">
 <form>
 <orth>-LOGUE</orth>
 </form>
-<sense>
 <dictScrap>Élément de composition qui répond à LOGIE, de telle sorte qu'il se dit des personnes qui pratiquent la science dont le nom correspondant est en logie, par ex. : ornithologie et ornitho<oVar>logue</oVar>.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="loguer">
 <form>
 <orth>LOGUER</orth>
@@ -77733,6 +77645,16 @@
 <sense>
 <dictScrap>On dit dans le même sens : de <oVar>long</oVar> en large.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>Aller de <oVar>long</oVar>, continuer.</dictScrap>
+<cit>
+<quote>Je l'ai trouvé [votre livre] si bien à mon goût, qu'il a fallu que je sois allé de long</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>Lexique, éd. L. Lalanne</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="13">
 <dictScrap>Au <oVar>long</oVar>, tout au <oVar>long</oVar>, loc. adv. Amplement, avec étendue, avec détail.</dictScrap>
@@ -78036,21 +77958,7 @@
 <biblScope>315, 109</biblScope>
 </bibl>
 </cit>
-</sense><sense n="12" ana="supplement">
-<dictScrap>De <oVar>long</oVar>. Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Aller de <oVar>long</oVar>, continuer.</dictScrap>
-<cit>
-<quote>Je l'ai trouvé [votre livre] si bien à mon goût, qu'il a fallu que je sois allé de long</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>Lexique, éd. L. Lalanne</biblScope>
-</bibl>
-</cit>
-</sense>
-</sense><sense n="19">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>Aller de <oVar>longue</oVar>, avancer.</dictScrap>
 <cit>
 <quote>Puisque je me suis mis dans le chemin de l'impudence, il faut aller de longue</quote>
@@ -78587,7 +78495,9 @@
 <entry xml:id="longer">
 <form>
 <orth>LONGER</orth>
-<pron>lon-jé. Le g prend un e devant a et o : longeant, longeons</pron>
+<pron>lon-jé.</pron> 
+<note>Le g prend un e devant a et o : longeant, longeons</note>
+<gram/>
 </form>
 <sense n="1">
 <dictScrap>V. a. Marcher le long de.</dictScrap>
@@ -78659,15 +78569,13 @@
 <dictScrap>Ligne de la plus grande pente des ardoises, dans la terre. C'est dans le <oVar>long-grain</oVar> que l'ardoise se casse le plus facilement.</dictScrap>
 </sense>
 </entry>
-<entry type="prefixe" xml:id="longi-">
+<entryFree type="prefixe" xml:id="longi-">
 <form>
 <orth>LONGI-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Préfixe qui signifie long, et qui vient du latin longus (voy. <ref target="long">LONG</ref>).</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="longicaude">
 <form>
 <orth>LONGICAUDE</orth>
@@ -79734,7 +79642,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="7">
+</sense>
+<sense ana="supplement" n="7">
 <dictScrap>Terme de turf. <oVar>Longueur</oVar> de tête, mesure de distance employée dans le langage des courses. Un cheval arrivé premier de deux <oVar>longueurs</oVar> est un cheval qui a atteint le poteau gagnant en dépassant le deuxième cheval de deux <oVar>longueurs</oVar> de tête de cheval.</dictScrap>
 </sense>
 <note type="H">
@@ -79822,15 +79731,13 @@
 </note>
 <etym>Portug. lohoc ; de l'arabe looq, du verbe laaka, lécher, sucer.</etym>
 </entry>
-<entry type="suffixe" xml:id="loph">
+<entryFree type="suffixe" xml:id="loph">
 <form>
 <orth>-LOPH ou -LOPHO</orth>
 <gram>suffixe</gram>
 </form>
-<sense>
 <dictScrap>Suffixe qui signifie aigrette, houppe, et qui vient du grec.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="lophie">
 <form>
 <orth>LOPHIE</orth>
@@ -80506,6 +80413,7 @@
 <form>
 <orth>LORETTE</orth>
 <pron>lo-rè-t'</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Chevaliers de Notre-Dame de <oVar>Lorette</oVar>, chevaliers, qui furent institués par le pape Sixte V en 1587, lorsqu'il érigea l'église de Notre-Dame de <oVar>Lorette</oVar>. Ces chevaliers devaient donner la chasse aux corsaires le long des côtes de la marche d'Ancône, aux voleurs de la Romagne et garder la ville de <oVar>Lorette</oVar>. On les nommait aussi loretans.</dictScrap>
@@ -80585,6 +80493,7 @@
 <form>
 <orth>LORGNER</orth>
 <pron>lor-gné</pron>
+<gram norm="V"/>
 </form>
 <sense n="1">
 <dictScrap>V. n. Loucher (sens tombé en désuétude).</dictScrap>
@@ -80705,9 +80614,6 @@
 <biblScope>p. 614</biblScope>
 </bibl>
 </cit>
-</note>
-<etym>Diez, d'après Frisch, citant le normand loriner, regarder, tire lorgner du germanique : allem. lauern, épier, regarder ; suisse, loren, luren ; suéd. lura. Cette étymologie ne tient aucun compte des anciens adjectifs lorgne et lour qui signifient louche et qui ne paraissent pas pouvoir être séparés de lorgner, tant pour la forme que pour le sens, lorgner étant, comme loucher, regarder de côté. Mais on peut concilier l'adjectif et le verbe, en dérivant l'adjectif lui-même de ces verbes germaniques qui, signifiant regarder, auront pris le sens de loucher. Cependant cela n'est pas tout à fait sûr. Tout l'Ouest dit calorgne pour borgne, et, en Normandie, pour louche ; patois lorrain, calougnâ, loucher, calougnâr, louche ; calorgne est sans doute formé de la particule péjorative ca, et de lorgner. Il y avait un autre lorgner qui signifiait frapper et qui paraît sans relation avec lorgner, regarder de côté.</etym>
-<note type="H">
 <label>XVe s.</label>
 <cit>
 <quote>On crye haro, qui vive, tue, Alarme, au guet, rens toy, ribault, Torsche, lorgne, depesche, rue, Frappe, combat, taille, remue</quote>
@@ -80727,6 +80633,7 @@
 <note>Ce lorgner se trouve encore dans Régnier : Ces gens à se piquer ardents, S'en vinrent du parler à tic tac, torche, lorgne ; Qui casse le museau, qui son rival éborgne, Sat. X.</note>
 </cit>
 </note>
+<etym>Diez, d'après Frisch, citant le normand loriner, regarder, tire lorgner du germanique : allem. lauern, épier, regarder ; suisse, loren, luren ; suéd. lura. Cette étymologie ne tient aucun compte des anciens adjectifs lorgne et lour qui signifient louche et qui ne paraissent pas pouvoir être séparés de lorgner, tant pour la forme que pour le sens, lorgner étant, comme loucher, regarder de côté. Mais on peut concilier l'adjectif et le verbe, en dérivant l'adjectif lui-même de ces verbes germaniques qui, signifiant regarder, auront pris le sens de loucher. Cependant cela n'est pas tout à fait sûr. Tout l'Ouest dit calorgne pour borgne, et, en Normandie, pour louche ; patois lorrain, calougnâ, loucher, calougnâr, louche ; calorgne est sans doute formé de la particule péjorative ca, et de lorgner. Il y avait un autre lorgner qui signifiait frapper et qui paraît sans relation avec lorgner, regarder de côté.</etym>
 </entry>
 <entry xml:id="lorgnerie">
 <form>
@@ -81005,19 +80912,19 @@
 <etym ana="supplement">Rectifiez l'étymologie d'après M. Gaston Paris : lormerie, de lormier, bas-lat. lorimarius, qui vient de loramen, dérivé de lorum, lien, courroie, Mém. de la Soc. de linguistiq. t. I, p. 290.</etym>
 </re>
 </entry>
-<entry xml:id="lorré">
+<entryFree xml:id="lorré">
 <form>
 <orth>LORRÉ</orth>
 <pron>lo-ré</pron>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="loré">LORÉ</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="loré">LORÉ</ref>.</xr>
+</entryFree>
 <entry xml:id="lors">
 <form>
 <orth>LORS</orth>
-<pron>lor ; l's ne se prononce et ne se lie jamais</pron>
+<pron>lor</pron> 
+<note>l's ne se prononce et ne se lie jamais</note>
+<gram/>
 </form>
 <sense n="1">
 <dictScrap>Sorte de nom de temps qui étymologiquement signifie l'heure, et qui ne se dit plus qu'avec certaines prépositions.</dictScrap>
@@ -81126,7 +81033,8 @@
 <biblScope>Sat. VIII</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap><oVar>Lors</oVar> que, <oVar>lors</oVar> même que, se dit au même sens qu'alors que, voy. <ref target="alors">ALORS</ref>.</dictScrap>
 </sense>
 <note type="H">
@@ -81481,7 +81389,8 @@
 <biblScope>Salon de 1765, Oeuvres, t. XIII, p. 357</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Terme de lapidaire.</dictScrap>
 <cit>
 <quote>Losanges ou plats, facettes qui viennent à la suite des dentelles et qui s'y trouvent conjointes, dans la taille des pierres fines</quote>
@@ -81725,7 +81634,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Ancienne mesure des liquides valant quatre pintes de Paris.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense ana="supplement" n="5">
 <dictScrap>Nom d'un papier-monnaie russe.</dictScrap>
 <cit>
 <quote>Les papiers à spéculation, tels que les lots</quote>
@@ -81758,13 +81668,6 @@
 <biblScope>Baud. de Seb. XII, 598</biblScope>
 </bibl>
 </cit>
-</note>
-<etym>Espagn. et portug. lote ; ital. lotto ; du germanique : anc. haut allem. hloz ; goth. hlauts ; allem. mod. Loos ; angl. lot, sort, part, lot.</etym>
-<re ana="supplement">
-<re>LOT. Ajoutez : </re>
-
-<note type="H">
-<dictScrap>Ajoutez :</dictScrap>
 <label>XVIe s.</label>
 <cit ana="supplement">
 <quote>Tacre de cuir [la tacre était de dix cuirs] et lot, pour ce qu'il y a deux tacres à chacun lot</quote>
@@ -81774,7 +81677,7 @@
 </bibl>
 </cit>
 </note>
-</re>
+<etym>Espagn. et portug. lote ; ital. lotto ; du germanique : anc. haut allem. hloz ; goth. hlauts ; allem. mod. Loos ; angl. lot, sort, part, lot.</etym>
 </entry>
 <entry xml:id="lotalite">
 <form>
@@ -82171,14 +82074,12 @@
 </sense>
 <etym>Lat. lotor, laveur ; ainsi dit parce qu'il a l'habitude de tremper dans l'eau ses aliments.</etym>
 </entry>
-<entry xml:id="lotos">
+<entryFree xml:id="lotos">
 <form>
 <orth>LOTOS</orth>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lotus">LOTUS</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lotus">LOTUS</ref>.</xr>
+</entryFree>
 <entry xml:id="lotte">
 <form>
 <orth>LOTTE</orth>
@@ -83362,7 +83263,8 @@
 <sense>
 <dictScrap>On dit aussi lochet.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <cit>
 <quote>Les instruments qui servent à dépecer la baleine sont la hache, la pique à gras, le sabre à deux tranchants et le louchet, espèce de pelle tranchante emmanchée d'une longue hampe</quote>
 <bibl>
@@ -83400,10 +83302,6 @@
 </cit>
 </note>
 <etym>Wallon, losè, sorte de bêche. Ce paraît être un diminutif de louche 2.</etym>
-<re ana="supplement" orig=" 1. LOUCHET. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="louchet.2">
 <form>
@@ -84243,7 +84141,8 @@
 <biblScope>Lettres de Colbert, etc. VI, 304</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap><oVar>Louis</oVar> de cinq sous, pièce d'argent frappée sous <oVar>Louis</oVar> XIII et <oVar>Louis</oVar> XIV.</dictScrap>
 <cit>
 <quote>Parmi les divisions de cette pièce de soixante sous [le louis d'argent] se trouvait le douzième ou louis de cinq sous, dont le module était celui de notre pièce de vingt francs</quote>
@@ -84254,11 +84153,6 @@
 </cit>
 </sense>
 <etym>Lat. Ludovicus, nom germanique, Hluodowîg, ou, pour les Francs, Chlodo-wech ou wich, composé de hluodo, lat. in-clutus, en grec, le terme se traduit par illustre, et wîg, combat : celui qui possède, qui a affronté des combats illustres, renommés.</etym>
-<re ana="supplement" orig=" LOUIS. ">
-
-
-
-</re>
 </entry>
 <entry xml:id="louise-bonne">
 <form>
@@ -84687,7 +84581,8 @@
 </sense>
 <sense n="23">
 <dictScrap>Tête de <oVar>loup</oVar>, grand manche de bois terminé par un balai rond, qui sert à nettoyer les plafonds.</dictScrap>
-</sense><sense n="24">
+</sense>
+<sense ana="supplement" n="24">
 <dictScrap>Dans l'argot du théâtre, défaut qui produit un vide dans l'enchaînement des scènes ; c'est une extension de <oVar>loup</oVar> en termes d'atelier (voy. <ref target="loup#var10">LOUP, n° 10</ref>).</dictScrap>
 <cit>
 <quote>Les auteurs ont fort bien senti qu'il y avait là un loup, comme on dit en style de coulisse, et ils ont essayé de le faire disparaître dans une histoire de cabinet noir de lettres escamotées à la poste</quote>
@@ -85119,11 +85014,20 @@
 <dictScrap>Terme populaire. Paresseux.</dictScrap>
 </sense>
 <etym>Louper.</etym>
-<re ana="supplement" orig=" 2. LOUPEUR (lou-peur), s. m. Nom, à Paris, des ouvriers qui vont dans toutes les forêts d'Europe et même de toutes les parties du monde chercher des loupes pour l'ébénisterie (voy. au Dictionnaire LOUPE, n° 2). ">
-
-</re>
 </entry>
-<entry xml:id="loupeux">
+<entry xml:id="loupeur.2">
+  <form>
+    <orth>LOUPEUR</orth>
+    <pron>lou-peur</pron>
+    <gram>s. m.</gram>
+  </form>
+  <sense>
+    <dictScrap>Nom, à Paris, des ouvriers qui vont dans toutes les forêts d'Europe et même de toutes les parties du monde chercher des loupes pour l'ébénisterie</dictScrap>
+    <xr>voy. au Dictionnaire LOUPE, n° 2</xr>
+  </sense>
+</entry>
+  
+  <entry xml:id="loupeux">
 <form>
 <orth>LOUPEUX, EUSE</orth>
 <pron>lou-peû, peû-z'</pron>
@@ -85446,7 +85350,8 @@
 <biblScope>ib. p. 658</biblScope>
 </bibl>
 </cit>
-</sense><sense n="9">
+</sense>
+<sense ana="supplement" n="9">
 <dictScrap>Terme de turf. La piste est <oVar>lourde</oVar>, quand le sol est très pâteux par suite des pluies.</dictScrap>
 </sense>
 <re type="S">LOURD, PESANT. Tout corps est pesant, parce que la pesanteur est la tendance générale des corps vers le centre ; mais on ne peut appeler lourds que ceux qui ont un poids considérable relativement à leur masse. Dans le sens figuré, et quand il s'agit de l'esprit, le mot lourd enchérit encore sur celui de pesant, l'esprit pesant conçoit avec peine, avance lentement et fait peu de progrès : l'esprit lourd ne conçoit rien et ne fait aucun progrès, BEAUZÉE. </re>
@@ -85837,7 +85742,8 @@
 <etym>Loure.</etym>
 </entry>
 <entry xml:id="lousseau">
-<form><orth>LOUSSEAU</orth><pron>lou-sô</pron>, LOUSSEC (lou-sèk), LOUSSET (lou-sè) ou LOSSE (lo-s'), s. m. </form>
+<form><orth>LOUSSEAU</orth><pron>lou-sô</pron>
+  <orth>LOUSSEC</orth> <pron>lou-sèk</pron> <orth>LOUSSET</orth> <pron>lou-sè</pron> <orth>LOSSE</orth> <pron>lo-s'</pron> <gram>s. m.</gram> </form>
 <sense>
 <dictScrap>Terme de marine. Petit réservoir pratiqué pour recevoir l'eau dans le fond des embarcations qui n'ont point de pompe. On dit aussi ousseau.</dictScrap>
 </sense>
@@ -85900,9 +85806,10 @@
 <form>
 <orth>LOUTRE</orth>
 <pron>lou-tr'</pron>
+<gram>S. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>S. f. Petit quadrupède carnassier de la famille des martres.</dictScrap>
+<dictScrap>Petit quadrupède carnassier de la famille des martres.</dictScrap>
 <cit>
 <quote>La loutre est un animal vorace, plus avide de poisson que de chair, qui ne quitte guère le bord des rivières ou des lacs et qui dépeuple quelquefois les étangs</quote>
 <bibl>
@@ -85923,7 +85830,8 @@
 <sense>
 <dictScrap>Cet emploi n'est plus guère en usage aujourd'hui. On dit : casquette de <oVar>loutre</oVar>, fourrure de <oVar>loutre</oVar>.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Race <oVar>loutre</oVar>, race anglaise de moutons (voy. <ref target="ancon">ANCON</ref> au Supplément).</dictScrap>
 </sense>
 <note type="H">
@@ -85950,10 +85858,6 @@
 </cit>
 </note>
 <etym>Anc. wallon, loths ; Berry, leûre, loure ; provenç. luria, luiria, loiria ; esp. lutria ; port. et ital. lontra ; du lat. lutra. D'après Varron (L. Lat. V, § 79), lutra est pour lythra, et vient du grec, parce qu'on dit que la loutre coupe les racines des arbres sur les rives ; mais ce mot ne se trouve pas en grec. Bien qu'on ne puisse s'empêcher de rapprocher les noms sanscrit udra et allemand Otter de cet animal, on ne voit pas comment l-utr a aurait pris un l prosthétique.</etym>
-<re ana="supplement" orig=" LOUTRE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="loutreur">
 <form>
@@ -86335,15 +86239,13 @@
 </sense>
 <etym>Diminutif de louve.</etym>
 </entry>
-<entry xml:id="louvette.2">
+<entryFree xml:id="louvette.2">
 <form>
 <orth>LOUVETTE</orth>
 <pron>lou-vè-t'</pron>
 </form>
-<sense>
 <dictScrap>Terme de marine. Synonyme de louvelle.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="louveur">
 <form>
 <orth>LOUVEUR</orth>
@@ -86600,15 +86502,13 @@
 <dictScrap>Terme de pêche. Matelot qui roue ou love les filets dans les bâtiments employés à la pêche du hareng dans la Manche.</dictScrap>
 </sense>
 </entry>
-<entry type="prefixe" xml:id="lox-">
+<entryFree type="prefixe" xml:id="lox-">
 <form>
 <orth>LOX- et LOXO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Préfixe qui, venant du grec, signifie oblique ; comparez le latin luxus, ôté de sa place, et voy. <ref target="luxer">LUXER</ref>.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="loxarthre">
 <form>
 <orth>LOXARTHRE</orth>
@@ -87363,13 +87263,20 @@
 <sense>
 <dictScrap>Un livre <oVar>lu</oVar> de tout le monde.</dictScrap>
 </sense>
-<re ana="supplement" orig=" 2. LU (lu), s. m. ">
-
+</entry>
+<entry xml:id="lu.2" ana="supplement">
+<form>
+<orth>LU</orth>
+<pron>lu</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
 <dictScrap>Nom, sur les côtes du Calvados, du poisson nommé lieu en Bretagne (voy. <ref target="lieu.2">LIEU 2</ref>). </dictScrap>
-</re>
+</sense>
 <etym>La forme lu, à côté de lieu, fait penser que ces deux mots pourraient venir du lat. luscius, en anc. franç. lus, sorte de poisson.</etym>
 </entry>
-<entry xml:id="luberne">
+  
+  <entry xml:id="luberne">
 <form>
 <orth>LUBERNE</orth>
 <pron>lu-bèr-n'</pron>
@@ -87540,9 +87447,11 @@
 </sense>
 </entry>
 <entry xml:id="lubrifier">
-<form><orth>LUBRIFIER</orth><pron>lu-bri-fi-é</pron>, je lubrifiais, nous lubrifiions, vous lubrifiiez ; que je lubrifie, que nous lubrifiions, que vous lubrifiiez, v. a. </form>
-<sense>
-<dictScrap>Terme didactique. Rendre glissant. La synovie <oVar>lubrifie</oVar> les articulations.</dictScrap>
+<form><orth>LUBRIFIER</orth><pron>lu-bri-fi-é</pron>
+  <note>je lubrifiais, nous lubrifiions, vous lubrifiiez ; que je lubrifie, que nous lubrifiions, que vous lubrifiiez</note>
+  <gram>v. a.</gram> </form>
+  <sense>
+    <dictScrap>Terme didactique. Rendre glissant. La synovie <oVar>lubrifie</oVar> les articulations.</dictScrap>
 </sense>
 <note type="H">
 <label>XVIe s.</label>
@@ -87776,7 +87685,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Nom, chez les premiers chrétiens, de puits qui donnèrent un accès libre aux catacombes, à partir du IVe siècle.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense ana="supplement" n="3">
 <dictScrap>Genre de la famille des actinies.</dictScrap>
 <cit>
 <quote>Anatomie et histologie de la lucernaire (lucernaria octoradiata)</quote>
@@ -88133,14 +88043,11 @@
 <biblScope>Idyll. Oaristys.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>La 146e planète télescopique, découverte en 1875 par M. Borrelly.</dictScrap>
 </sense>
 <etym>Lat. Lucina, de lucere, luire, proprement la lune, considérée dans son influence bienfaisante.</etym>
-<re ana="supplement" orig=" 1. LUCINE. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lucine.2">
 <form>
@@ -88802,6 +88709,7 @@
 <form>
 <orth>LUI</orth>
 <pron>lui</pron>
+<gram/>
 </form>
 <sense n="1">
 <dictScrap>Pronom de la 3e personne qui est des deux genres et qui sert de régime indirect. Vous connaissez cette dame ; parlez-<oVar>lui</oVar>. Vous <oVar>lui</oVar> remettrez cet argent, signifie également vous remettrez à un homme ou à une femme.</dictScrap>
@@ -89308,29 +89216,35 @@
 </note>
 <etym>Wall. lu. Diez le tire de illi-huic, forme pléonastique, comme oïl, de hoc-illud ; cela paraît certain. En effet, il faut le rapprocher de autrui et de l'ancien nului ; on a voulu les tirer de illius, alterius, nullius ; mais, si on dit à la fois illius ( 2nd i bref) et illius ( 2nd i long), on ne dit que alterius et nullius ( i bref dans ces deux derniers mots), de sorte que l'accent serait en défaut ; de plus, il serait singulier que l's eût disparu complétement. Tout cela parle en faveur de l'étymologie de Diez. C'est en raison de cette étymologie, que, à l'origine, dans l'ancienne langue lui, ainsi que autrui et nului, n'a jamais eu d'autre emploi que comme régime.</etym>
 </entry>
-<entry xml:id="lui.2">
+<entryFree xml:id="lui.2">
 <form>
 <orth>LUI</orth>
 <pron>lui</pron>
 <gram>part. passé indéclinable du verbe luire</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="luire">
-<form><orth>LUIRE</orth><pron>lui-r'</pron>, je luis, tu luis, il luit, nous luisons ; je luisais ; je luirai ; je luirais ; luis, luisons ; que je luise, que nous luisions ; luisant ; lui (l'Académie ne donne que les temps ci-dessus indiqués ; des grammairiens se sont plaints qu'elle eût ainsi restreint la conjugaison de ce verbe qui n'a rien de défectif ; et en effet rien n'empêche d'employer le parfait défini et l'imparfait du subjonctif : Jamais le jour ne luisit dans cet antre ; Je voudrais que de nouvelles clartés luisissent à nos yeux ; on en peut voir un exemple de Bossuet), v. n. </form>
-<sense n="1">
-<dictScrap>Répandre de la lumière.</dictScrap>
-<cit>
-<quote>Enfin ce jour pompeux, cet heureux jour nous luit</quote>
-<bibl>
-<author>CORN.</author>
-<biblScope>Rodog. I, 1</biblScope>
-</bibl>
-</cit>
-<cit>
-<quote>La lune, alors luisant, semblait contre le sire, Vouloir favoriser la dindonnière gent</quote>
-<bibl>
-<author>LA FONT.</author>
-<biblScope>Fabl. XII, 18</biblScope>
+<form>
+  <orth>LUIRE</orth>
+  <pron>lui-r'</pron>
+  <note>je luis, tu luis, il luit, nous luisons ; je luisais ; je luirai ; je luirais ; luis, luisons ; que je luise, que nous luisions ; luisant ; lui</note> 
+  <note>l'Académie ne donne que les temps ci-dessus indiqués ; des grammairiens se sont plaints qu'elle eût ainsi restreint la conjugaison de ce verbe qui n'a rien de défectif ; et en effet rien n'empêche d'employer le parfait défini et l'imparfait du subjonctif : Jamais le jour ne luisit dans cet antre ; Je voudrais que de nouvelles clartés luisissent à nos yeux ; on en peut voir un exemple de Bossuet</note>
+  <gram>v. n.</gram> 
+</form>
+  <sense n="1">
+    <dictScrap>Répandre de la lumière.</dictScrap>
+    <cit>
+      <quote>Enfin ce jour pompeux, cet heureux jour nous luit</quote>
+      <bibl>
+        <author>CORN.</author>
+        <biblScope>Rodog. I, 1</biblScope>
+      </bibl>
+    </cit>
+    <cit>
+      <quote>La lune, alors luisant, semblait contre le sire, Vouloir favoriser la dindonnière gent</quote>
+      <bibl>
+        <author>LA FONT.</author>
+        <biblScope>Fabl. XII, 18</biblScope>
 </bibl>
 </cit>
 <cit>
@@ -89755,24 +89669,20 @@
 <dictScrap>Terme de vénerie. Nom qu'on donne aux testicules du sanglier (voy. <ref target="suites">SUITES</ref>).</dictScrap>
 </sense>
 </entry>
-<entry xml:id="luiteur">
+<entryFree xml:id="luiteur">
 <form>
 <orth>LUITEUR</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lutteur">LUTTEUR</ref>.</dictScrap>
-</sense>
-</entry>
-<entry xml:id="luiton">
+<xr>Voy. <ref target="lutteur">LUTTEUR</ref>.</xr>
+</entryFree>
+<entryFree xml:id="luiton">
 <form>
 <orth>LUITON</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="lutin">LUTIN</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="lutin">LUTIN</ref>.</xr>
+</entryFree>
 <entry xml:id="lullisme">
 <form>
 <orth>LULLISME</orth>
@@ -91016,7 +90926,8 @@
 <biblScope>Mél. litt. à M. ***, auteur du livre intitulé, etc.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Terme de peinture. En pleine lumière.</dictScrap>
 <cit>
 <quote>Tout cela est peint lumineusement, avec une grande finesse de pinceau</quote>
@@ -91176,7 +91087,8 @@
 <sense>
 <dictScrap>Un principe fécond et <oVar>lumineux</oVar>, principe dont on tire abondamment des conséquences importantes.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>Qui paraît jeter de la lumière.</dictScrap>
 <cit>
 <quote>Ceux qui ont écrit ou inventé la guerre de Troie ont dépeint la beauté d'Hélène si éclatante et si lumineuse que...</quote>
@@ -92055,7 +91967,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Fig. et populairement. Être bien ou mal <oVar>luné</oVar>, être de bonne ou de mauvaise humeur (comp. LUNATIQUE, et LUNE, n° 6).</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense ana="supplement" n="4">
 <dictScrap>Terme de forestier.</dictScrap>
 <cit>
 <quote>Bois luné, bois affecté de lunure</quote>
@@ -92422,7 +92335,8 @@
 <dictScrap>Au billard, donner une paire de <oVar>lunettes</oVar>, c'est-à-dire livrer deux billes tellement rapprochées que l'adversaire ne peut manquer de caramboler.</dictScrap>
 </sense><sense n="16" ana="supplement">
 <dictScrap>La <oVar>lunette</oVar> de la guillotine, le trou par lequel passe la tête du condamné.</dictScrap>
-</sense><sense n="17">
+</sense>
+<sense ana="supplement" n="17">
 <dictScrap>Terme d'artillerie. Anneau d'acier qui sert à vérifier le calibre des projectiles ; on a deux <oVar>lunettes</oVar> pour chaque calibre, la grande et la petite, qui diffèrent d'une quantité égale à la limite de la tolérance accordée.</dictScrap>
 </sense>
 <re type="P">Chacun voit avec ses lunettes, chacun a sa manière de voir, de penser. </re>
@@ -92511,12 +92425,6 @@
 </cit>
 </note>
 <etym>Diminutif de lune, par assimilation de forme ; bourg. lugnôte.</etym>
-<re ana="supplement" orig=" LUNETTE. Ajoutez : ">
-
-
-
-
-</re>
 </entry>
 <entry xml:id="lunetté">
 <form>
@@ -94026,13 +93934,13 @@
 <re>LUTIN. - HIST. Ajoutez : XIIe s.  <cit><quote>Ne grant serpenz volanz, hisdous, Noituns [lutins] ne monstres perillous</quote><bibl><author>BENOIT</author><biblScope>Roman de Troie, V. 14679</biblScope></bibl></cit> </re>
 </re>
 </entry>
-<entry xml:id="lutiné">
+<entryFree xml:id="lutiné">
 <form>
 <orth>LUTINÉ, ÉE</orth>
 <pron>lu-ti-né, née</pron>
 <gram>part. passé de lutiner</gram>
 </form>
-</entry>
+</entryFree>
 <entry xml:id="lutiner">
 <form>
 <orth>LUTINER</orth>
@@ -94997,10 +94905,19 @@
 <sense>
 <dictScrap>Maladie des vers à soie ; le même que luisette.</dictScrap>
 </sense>
-<re ana="supplement" orig=" 2. LUZETTE (lu-zè-t'), s. f. Nom, dans l'Aunis, de la vesce sauvage, Gloss. aunisien, la Rochelle, 1870, p. 120 (voy. plus haut LOUISETTE). ">
-
-</re>
 </entry>
+<entry xml:id="luzette.2" ana="supplement">
+<form>
+<orth>LUZETTE</orth>
+<pron>lu-zè-t'</pron>
+<gram>s. f.</gram>
+</form>
+<sense>
+<dictScrap>Nom, dans l'Aunis, de la vesce sauvage, Gloss. aunisien, la Rochelle, 1870, p. 120</dictScrap>
+<xr>voy. plus haut LOUISETTE</xr>
+</sense>
+</entry>
+
 <entry xml:id="lycanthrope">
 <form>
 <orth>LYCANTHROPE</orth>
@@ -95726,7 +95643,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme d'anatomie. Surface inférieure de la voûte à trois piliers du cerveau, où l'on remarque deux lignes longitudinales auxquelles viennent se rendre d'autres lignes transversales ou obliques.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense ana="supplement" n="6">
 <dictScrap>Engin en forme de <oVar>lyre</oVar> destiné à suspendre quelque chose.</dictScrap>
 <cit>
 <quote>Suspensions et lyres pour lampes</quote>
@@ -95774,7 +95692,8 @@
 </form>
 <sense>
 <dictScrap>Terme de botanique. Se dit d'une feuille découpée en lobes plus petits que le dernier qui est très ample.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense ana="supplement" n="2">
 <dictScrap>En forme de lyre.</dictScrap>
 <cit>
 <quote>L'antilope à cornes lyrées,...</quote>
@@ -95784,10 +95703,6 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" LYRÉ. Ajoutez : ">
-
-
-</re>
 </entry>
 <entry xml:id="lyricomique">
 <form>
