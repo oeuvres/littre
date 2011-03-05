@@ -28,7 +28,7 @@ public void coucou(JspWriter out) throws IOException {
 }
 %>
 <%
-coucou(out);
+// coucou(out);
 
 
 String orth="";
