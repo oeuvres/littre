@@ -1,12 +1,13 @@
 body {
   padding:2em;
 }
-div.entry {
-  margin:2em 2em;
+div.entry,
+div.entryFree {
+  margin:2em 1ex;
   font-family: Arial,sans-serif;
 }
 .entry ol {
-  padding:0 0 0 3ex;
+  padding:0 0 0 2ex;
   margin: 1ex 0 1ex 0;
 }
 .entry ul {
@@ -34,8 +35,11 @@ p.dictScrap {
   margin:1ex 0 1ex 0;
 }
 blockquote {
-  margin:0.8ex 0 0.8ex 2ex;
+  margin:0.8ex 0 0.8ex 6ex;
   line-height:110%;
+}
+.sense2 blockquote {
+  margin-left:3ex;
 }
 div.H {
   background:#eee;
