@@ -35,7 +35,7 @@ String orth="";
 if(request.getParameter("orth") != null) orth=request.getParameter("orth");
 
 // si paramètre ?body=, pas d'emballage html
-if(request.getParameter("body") != null) {
+if(request.getParameter("body") == null) {
 %>
 <html>
   <head>
@@ -88,7 +88,7 @@ if (!"".equals(orth)) {
 
 }
 
-if(request.getParameter("body") != null) {
+if(request.getParameter("body") == null) {
 %>
   </body>
 </html>
