@@ -14,7 +14,6 @@ div.entryFree {
   margin-left:0;
   padding-left:2ex;
 }
-
 .sense1 b,
 .sense2 b {
   float:left;
@@ -28,11 +27,13 @@ div.entryFree {
   margin-left:1ex;
   margin-bottom:1ex;
 }
-p {
+.entry p {
   margin:0.5ex 0 0.2ex 0;
+  text-indent:0;
 }
 p.dictScrap {
   margin:1ex 0 1ex 0;
+  text-indent:0;
 }
 blockquote {
   margin:0.8ex 0 0.8ex 6ex;
