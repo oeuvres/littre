@@ -232,7 +232,8 @@
 		  <ref name="ana"/>
 		  <choice>
         <ref name="dictScrap"/>
-	      <ref name="cit"/>	    
+	      <ref name="cit"/>
+	      <ref name="xr"/>
 		  </choice>
 	    <zeroOrMore>
   	    <choice>
@@ -390,32 +391,17 @@
 			</attribute>
 		  <ref name="ana"/>
 			<choice>
-				<group>
-					<optional>
-						<choice>
-							<ref name="dictScrap"/> <!-- code "Ajoutez :" dans le texte -->
-							<text/>
-					</choice>
-					</optional>
-					<oneOrMore>
-						<ref name="p"/>
-					</oneOrMore>
-				</group>
-				<group>
-					<text/>
-					<zeroOrMore>
-						<ref name="q"/> <!-- pertinent ? -->
-						<text/>
-					</zeroOrMore>
-					<zeroOrMore>
+				<oneOrMore>
+					<ref name="p"/>
+				</oneOrMore>
+				<oneOrMore>
+				  <choice>
+  					<text/>
 						<ref name="cit"/>
-						<text/>
-					</zeroOrMore>
-					<zeroOrMore>
 						<ref name="ref"/>
-						<text/>
-					</zeroOrMore>
-				</group>
+						<ref name="oVar"/>
+          </choice>
+				</oneOrMore>
 			</choice>
 		</element>
 	</define>
