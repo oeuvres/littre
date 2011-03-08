@@ -6,6 +6,7 @@ Littré, nuances
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns="http://www.w3.org/1999/xhtml"
+  exclude-result-prefixes="tei"
 >
   <xsl:output  indent="no" method="xml" encoding="UTF-8"/>
   <xsl:param name="css">../transform/nuances.css</xsl:param>
@@ -36,16 +37,16 @@ ul.tree li {
   padding-left:0px !important;
 }
 li a.section {
-  padding:left:16px;
+  padding-left:16px;
 }
 li li a.section {
-  padding:left:32px;
+  padding-left:32px;
 }
 li li li a.section {
-  padding:left:48px;
+  padding-left:48px;
 }
 li li li li a.section {
-  padding:left:64px;
+  padding-left:64px;
 }
 p.entry {
   font-family:Garamond, serif;
@@ -479,15 +480,13 @@ p.entry {
 
   <!-- citation référencée -->
   <xsl:template match="tei:cit">
-    <xsl:apply-templates/>
+    <xsl:apply-templates select="*"/>
   </xsl:template>
 
   <!-- référence bibliographique -->
   <xsl:template match="tei:bibl">
     <cite>
-      <xsl:text>(</xsl:text>
       <xsl:apply-templates/>
-      <xsl:text>)</xsl:text>
     </cite>
   </xsl:template>
 
