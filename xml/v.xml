@@ -234,7 +234,8 @@
 </sense>
 <sense n="3">
 <dictScrap>S. m. Le <oVar>vacant</oVar>, dans l'ordre de Malte, le revenu entier d'une commanderie, après la mort du commandeur, pendant l'année qui suit ; il appartenait au trésor de l'ordre.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <cit>
 <quote>Nom, dans le Midi, de terres incultes ou improductives</quote>
 <bibl>
@@ -264,10 +265,7 @@
 
 </note>
 <etym>Voy. <ref target="vaquer">VAQUER</ref>. Rabelais a dit vacque : Estables vacques, Garg. I, 12.</etym>
-<re ana="supplement" orig=" VACANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vacarme">
 <form>
@@ -1035,7 +1033,8 @@
 <biblScope>Statistique des pêches maritimes, 1874, p. 115</biblScope>
 </bibl>
 </cit>
-</sense><sense n="25">
+</sense>
+<sense n="25" ana="supplement">
 <dictScrap>Fig. et populairement. Etre <oVar>vache</oVar>, n'être qu'une <oVar>vache</oVar>, être mou, paresseux.</dictScrap>
 </sense>
 <re type="P"><form>Quand chacun fait son métier, se mêle de son métier, les vaches sont bien gardées</form>, toutes choses vont bien lorsque chacun ne se mêle que de ce qu'il doit faire. </re>
@@ -1180,12 +1179,7 @@
 
 </note>
 <etym>Picard, vake ; wallon, vag ; Berry, ah ! il a eu nouvelles de ses vaches, se dit d'une personne qui est prise tout à coup de gaieté ; prov. et esp. vaca ; ital. vacca ; du latin vacca, vache ; sanscrit vaça, vache, rattaché au védique, vaçati, mugir.</etym>
-<re ana="supplement" orig=" VACHE. Ajoutez : ">
 
-
-
-
-</re>
 </entry>
 <entry xml:id="vache-biche">
 <form>
@@ -1235,7 +1229,8 @@
 </form>
 <sense>
 <dictScrap>Celui, celle qui mène paître les vaches et qui les garde.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Adj. <oVar>Vacher</oVar>, vachère, qui a rapport aux vaches.</dictScrap>
 <cit>
 <quote>La foire vachère de Saint-Hilaire, qui a eu lieu lundi dernier, a été favorisée par un beau temps</quote>
@@ -1266,10 +1261,7 @@
 
 </note>
 <etym>Vache ; wallon, vaglî, vacher, vaglir, vachère ; provenç. vaquier, au fém. vaquiera.</etym>
-<re ana="supplement" orig=" VACHER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vacherie">
 <form>
@@ -1907,7 +1899,8 @@
 </form>
 <sense>
 <dictScrap>Terme vieilli. Vin fait avant les autres. Défense d'aller cueillir des raisins avant les vendanges ouvertes, le ban donné et publié, pour faire du vin dit avant-vin ou <oVar>va-devant</oVar>, Arrêt du parlem. 14 août 1787, Pays de Testmilon.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <cit>
 <quote>Nom, dans les fermes de la Vienne, du premier domestique de culture</quote>
 <bibl>
@@ -1915,10 +1908,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VA-DEVANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vadrouille">
 <form>
@@ -2877,7 +2867,8 @@
 <biblScope>Journ. offic. 7 janvier 1873, p. 89, 3e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="11">
+</sense>
+<sense n="11" ana="supplement">
 <dictScrap>Subst. m. Un <oVar>vague</oVar>, un terrain non occupé, non planté.</dictScrap>
 <cit>
 <quote>De nombreux vides et des vagues considérables s'y rencontrent presque partout [dans les forêts du comté de Nice]</quote>
@@ -3516,7 +3507,8 @@
 <sense>
 <dictScrap>Cheval <oVar>vaillant</oVar>, se dit d'un cheval plein de feu et de vigueur.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>S. m. Nom vulgaire d'un gros d'argent au cavalier armé, qui se frappait en Flandre et dans le Hainaut, au XIIIe siècle et au commencement du XIVe.</dictScrap>
 </sense>
 <note type="H">
@@ -3586,10 +3578,7 @@
 
 </note>
 <etym>Part. présent de valoir ; esp. valiente.</etym>
-<re ana="supplement" orig=" 1. VAILLANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vaillant.2">
 <form>
@@ -4130,7 +4119,8 @@
 <sense>
 <dictScrap>Prendre le nom de Dieu en <oVar>vain</oVar>, l'employer dans un serment sans nécessité.</dictScrap>
 </sense>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap>Terme de forestier. Semence <oVar>vaine</oVar>, semence qui ne germe pas.</dictScrap>
 <cit>
 <quote>Il est prudent de rejeter les premières semences tombées : elles sont généralement piquées ou vaines</quote>
@@ -4235,10 +4225,7 @@
 
 </note>
 <etym>Provenç. van, va ; catal. va ; espagn. et ital. vano ; portug. vão ; du lat. vanus ; comparez le goth. vans ; anc. scand. vanr, défectueux.</etym>
-<re ana="supplement" orig=" VAIN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vaincre">
 <form><orth>VAINCRE</orth><pron>vin-kr'</pron>, je vaincs, tu vaincs, il vainc, nous vainquons, vous vainquez, ils vainquent ; je vainquais, nous vainquions ; je vaincrai ; je vaincrais ; je vainquis, nous vainquîmes ; vaincs, vainquons, vainquez ; que je vainque, que nous vainquions ; que je vainquisse ; vainquant, vaincu, v. a. </form>
@@ -5737,7 +5724,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Populairement. <oVar>Vaisselle</oVar> de poche, argent.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Vaisselle</oVar> vinaire, cuves, tonneaux, etc.</dictScrap>
 <cit>
 <quote>Villeneuve [Hérault] n'a pas été épargnée ; les bas quartiers ont été submergés ; la vaisselle vinaire, actuellement mise en usage dans presque tout notre département, a été emportée par le torrent...</quote>
@@ -6726,7 +6714,8 @@
 </sense>
 <sense n="16">
 <dictScrap><oVar>Valet</oVar> de caïman, espèce de crabier (Saint-Domingue).</dictScrap>
-</sense><sense n="17">
+</sense>
+<sense n="17" ana="supplement">
 <dictScrap>Dans le moyen âge et parmi les corporations ouvrières, nom de l'apprenti qui devenait ouvrier.</dictScrap>
 <cit>
 <quote>Après la rude épreuve de l'apprentissage, l'apprenti devenait valet ; à partir de ce moment, il était émancipé</quote>
@@ -6958,10 +6947,7 @@
 
 </note>
 <etym>Berry et Basse-Normandie, vâlet, domestique de ferme ; bourguig. vaulô ; wallon, valet, garçon qui n'est pas marié, vârlet, domestique ; génev. terme d'amitié qu'on donne aux petits garçons : viens, mon valet, que je t'embrasse ; provenç. vaslet, vaylet, vallet ; diminutif du bas-lat. vassus, vassal (voy. ce mot). Dans quelques provinces, les bergères disent à leur chien : viens, mon valet.</etym>
-<re ana="supplement" orig=" 1. VALET. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="valet.2">
 <form>
@@ -7498,7 +7484,8 @@
 </sense>
 <sense n="14">
 <dictScrap>Contre-<oVar>valeur</oVar>, voy. <ref target="contre-valeur">CONTRE-VALEUR</ref>.</dictScrap>
-</sense><sense n="15">
+</sense>
+<sense n="15" ana="supplement">
 <dictScrap>Manière d'apprécier le mérite des concurrents à l'École des beaux-arts.</dictScrap>
 <cit>
 <quote>Diplôme [d'architecte], que l'on n'obtient qu'après avoir remporté douze valeurs en première classe et à la suite d'épreuves...</quote>
@@ -7652,10 +7639,7 @@
 
 </note>
 <etym>Provenç. et espagn. valor ; ital. valore ; du lat. valorem (QUICHERAT, Addenda), de valere, être fort, valoir (voy. <ref target="valoir">VALOIR</ref>).</etym>
-<re ana="supplement" orig=" VALEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="valeureusement">
 <form>
@@ -7821,7 +7805,8 @@
 </sense>
 <sense n="3">
 <dictScrap>S. m. Au Havre on appelle ainsi la morue du commerce, quand elle est de qualité inférieure.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Il se dit quelquefois, substantivement, des hommes <oVar>valides</oVar>.</dictScrap>
 <cit>
 <quote>L'on remarque que plusieurs valides, trouvant le métier de gueuser bien plus doux que le leur [de laboureurs], demeurent dans la fainéantise</quote>
@@ -7850,10 +7835,7 @@
 
 </note>
 <etym>Lat. validus, fort, robuste, de même racine que valere, valoir.</etym>
-<re ana="supplement" orig=" VALIDE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="validé.1">
 <form>
@@ -8213,7 +8195,8 @@
 </sense>
 <sense n="6">
 <dictScrap>Poire de <oVar>Vallée</oVar>, sorte de poire.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Terme d'exploitation houillère. Galerie qui descend dans la couche de houille suivant la direction de son pendage, et qui aboutit à une coistresse.</dictScrap>
 </sense>
 <re type="S">VALLÉE, VALLON. Vallée signifie un espace plus étendu ; vallon en marque un plus resserré. </re>
@@ -8283,10 +8266,7 @@
 
 </note>
 <etym>Val ; bourguig. vaulée ; provenç. vallada, valeya ; ital. vallata.</etym>
-<re ana="supplement" orig=" VALLÉE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vallon">
 <form>
@@ -8429,7 +8409,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>V. réfl. Se <oVar>vallonner</oVar>, être creusé de vallons.</dictScrap>
 <cit>
 <quote>Aux environs d'Hermanli, le terrain se vallonne</quote>
@@ -8440,10 +8421,7 @@
 </cit>
 </sense>
 <etym>Vallon.</etym>
-<re ana="supplement" orig=" VALLONER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="valoir">
 <form><orth>VALOIR</orth><pron>va-loir</pron>, je vaux, tu vaux, il vaut, nous valons, vous valez, ils valent ; je valais ; je valus, nous valûmes ; je vaudrai ; je vaudrais ; valons, valez, qu'ils vaillent ; que je vaille, que nous valions, que vous valiez, qu'ils vaillent ; que je valusse ; valant ; valu, v. n. </form>
@@ -10705,7 +10683,8 @@
 </form>
 <sense n="1">
 <dictScrap>Terme de chimie. Principe qui préexiste dans les capsules de vanille, et qui cristallise à leur surface sous le nom de givre.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Substance qui constitue le principe odorant de la vanille et tirée soit de la vanille, soit des conifères.</dictScrap>
 <cit>
 <quote>Depuis quelque temps, on importe de divers pays, notamment d'Allemagne, une substance qui est désignée dans le commerce sous le nom de vanilline et dont l'arôme a la plus grande analogie avec celui de la vanille ; la vanilline, substance obtenue du suc des conifères traité par des agents oxydants (bichromate de potasse et acide sulfurique), n'est pas importée en nature...</quote>
@@ -10714,10 +10693,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VANILLINE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vanillon">
 <form>
@@ -13101,7 +13077,8 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Avoir un congé, en parlant d'un écolier.</dictScrap>
 <cit>
 <quote>De conseil pris avec M. de Montausier, je ferai la leçon demain ; et l'après-midi, monsieur, nous ferons vaquer Monseigneur [le Dauphin]</quote>
@@ -13186,10 +13163,7 @@
 
 </note>
 <etym>Provenç. vacar ; espagn. vagar ; ital. vacare ; du lat. vacare, être vide. Il y a dans l'ancienne langue des confusions entre vaguer et vaquer.</etym>
-<re ana="supplement" orig=" VAQUER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vaquette">
 <form>
@@ -13861,7 +13835,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap>Terme d'horlogerie. <oVar>Variation</oVar> du plat au pendu, différence de marche d'un chronomètre, lorsqu'on le place horizontalement, ou lorsqu'on le suspend verticalement, ce qui rend les conditions d'équilibre moins satisfaisantes.</dictScrap>
 </sense>
 <re type="S">VARIATION, CHANGEMENT. La variation consiste à être tantôt d'une façon, tantôt d'une autre ; le changement consiste seulement à cesser d'être le même. Le changement peut être du tout au tout ; la variation laisse subsister beaucoup de semblable. </re>
@@ -13910,10 +13885,7 @@
 
 </note>
 <etym>Prov. variacio ; esp. variacion ; ital. variazione, du lat. variationem, de variare, varier. L'ancienne langue disait aussi variement.</etym>
-<re ana="supplement" orig=" VARIATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="varice">
 <form>
@@ -14341,6 +14313,12 @@
 </sense>
 <sense n="2">
 <dictScrap>Au plur. Titres de certains recueils qui contiennent des morceaux sur différents sujets. <oVar>Variétés</oVar> littéraires. <oVar>Variétés</oVar> philosophiques.</dictScrap>
+<cit ana="supplement">
+<quote>Je suis convenu, par semaine, de sacrifier à des variétés une lettre quand je le pourrais, et que je n'aurais pas quelque sujet intéressant à traiter</quote>
+<bibl>
+<biblScope>L. du P. Duchêne, 176e lettre, p. 2</biblScope>
+</bibl>
+</cit>
 <sense>
 <dictScrap>Se dit aussi d'une division des journaux, dans laquelle on place les articles dont le sujet n'est pas directement relatif à l'objet principal du journal.</dictScrap>
 </sense>
@@ -14381,14 +14359,6 @@
 </sense>
 <sense n="4">
 <dictScrap>En chimie, <oVar>variétés</oVar>, individus d'une même espèce qui diffèrent, par la forme des cristaux, par les propriétés optiques, électriques ou autres propriétés secondaires, des échantillons choisis comme types de l'espèce.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>Je suis convenu, par semaine, de sacrifier à des variétés une lettre quand je le pourrais, et que je n'aurais pas quelque sujet intéressant à traiter</quote>
-<bibl>
-<biblScope>L. du P. Duchêne, 176e lettre, p. 2</biblScope>
-</bibl>
-</cit>
 </sense>
 <note type="H">
 
@@ -14439,10 +14409,7 @@
 
 </note>
 <etym>Provenç. varietat ; espagn. variedad ; ital. varietà ; du lat. varietatem, de varius, varié.</etym>
-<re ana="supplement" orig=" VARIÉTÉ. ">
 
-
-</re>
 </entry>
 <entry xml:id="varietur">
 <form>
@@ -15008,8 +14975,9 @@
 <biblScope>Hist. phil. XIII, 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+<sense ana="supplement">
 <dictScrap>Ver de <oVar>vase</oVar>, voy. <ref target="ver#var14">VER, n° 14</ref>, au Supplément.</dictScrap>
+</sense>
 </sense>
 <note type="H">
 
@@ -15031,10 +14999,7 @@
 
 </note>
 <etym>Norm. gaze ; portug. vasa ; du néerland. wase ; anglo-sax. vase, boue.</etym>
-<re ana="supplement" orig=" 1. VASE, s. f. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vase.2">
 <form>
@@ -18532,9 +18497,7 @@
 </sense>
 <sense n="2">
 <dictScrap>Par un passage du sens moral au sens physique, il se dit en parlant du vent. Le vent souffle avec <oVar>véhémence</oVar>.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Abreuver ce que la véhémence de la chaleur a desséché</quote>
 <bibl>
 <author>MALH.</author>
@@ -18577,10 +18540,7 @@
 
 </note>
 <etym>Provenç. vehemensia ; espagn. vehemencia ; ital. veemenzia ; du lat. vehementia, de vehemens, véhément.</etym>
-<re ana="supplement" orig=" VÉHÉMENCE. ">
 
-
-</re>
 </entry>
 <entry xml:id="véhément">
 <form>
@@ -21486,16 +21446,14 @@
 </sense>
 <sense n="2">
 <dictScrap>Instrument qui sert à jauger les tonneaux.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>On a imaginé, pour le jaugeage des tonneaux, différents instruments, dont le plus simple était la velte, nommée en quelques endroits verge, verle, verte ; c'est une règle de fer ou de bois, graduée..., elle marque le nombre de mesures que la futaille contient, selon que la règle se trouve plus ou moins plongée dans la liqueur ; ces mesures portaient précédemment le même nom que l'instrument ; ainsi l'on disait : la velte marque 32, le tonneau contient 32 veltes ; la velte ou setier était de 8 pintes</quote>
 <bibl>
 <author>S. A. TARBÉ</author>
 <biblScope>Manuel des poids et mesures, 1 vol. in-8°, Paris, 1813, p. 528</biblScope>
 </bibl>
 </cit>
-<sense>
+<sense ana="supplement">
 <dictScrap>On voit par là que la <oVar>velte</oVar>, au sens d'une certaine contenance, est consécutive à la <oVar>velte</oVar>, instrument de mesure. L'ordre des significations tel qu'il est donné dans le Dictionnaire doit être interverti.</dictScrap>
 </sense>
 </sense>
@@ -22303,7 +22261,8 @@
 <sense n="4">
 <dictScrap>Au plur. Par extension, temps où se fait la récolte des raisins. En août et en <oVar>vendanges</oVar> il n'y a ni fêtes ni dimanches. Passer les <oVar>vendanges</oVar> à la campagne. </dictScrap>
 <re type="P"><form>Adieu paniers, vendanges sont faites</form>, voy. <ref target="panier">PANIER</ref>. </re>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Dans le langage administratif, <oVar>vendange</oVar>, le raisin simplement écrasé dans des cuves, par opposition à moût, qui est le jus du raisin sortant du pressoir, Donanes, Tarif de 1877, note 475.</dictScrap>
 </sense>
 <note type="H">
@@ -28014,6 +27973,15 @@
 <sense>
 <dictScrap>Terme de marine. Coups de <oVar>vent</oVar>, <oVar>vents</oVar> très forts dont la direction varie peu.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>En coup de <oVar>vent</oVar>, signifie aussi : brusquement.</dictScrap>
+<cit>
+<quote>Sans vouloir en entendre davantage, madame de Vresles, indignée, a pris son chapeau et le reste, et est partie en coup de vent</quote>
+<bibl>
+<biblScope>Journ. amusant, 10 août 1872</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="3">
 <dictScrap><oVar>Vents</oVar> souterrains, <oVar>vents</oVar> qui se forment dans les concavités de la terre.</dictScrap>
@@ -28117,6 +28085,22 @@
 </sense>
 <sense>
 <dictScrap>Mi-<oVar>vent</oVar>, ou demi-<oVar>vent</oVar>, arbre fruitier à tige peu élevée abandonné à lui-même.</dictScrap>
+</sense>
+<sense ana="supplement">
+<dictScrap>Fendre le <oVar>vent</oVar>, signifie aussi se sauver, s'enfuir.</dictScrap>
+<cit>
+<quote>La nuit d'auparavant Vous sûtes faire Gille et fendîtes le vent</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Suite du Menteur, I, 1</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense  ana="supplement">
+<dictScrap>Proverbes, Ajoutez :</dictScrap>
+</sense>
+<sense  ana="supplement">
+<dictScrap><oVar>Vent</oVar> du midi les chiens au chenil ; <oVar>vent</oVar> du nord les chiens dehors.</dictScrap>
 </sense>
 </sense>
 <sense n="5">
@@ -28790,35 +28774,6 @@
 </sense>
 <sense n="19">
 <dictScrap>Nom de petits globules qui se forment entre les couches de blanc de dorure.</dictScrap>
-</sense><sense n="2" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>En coup de <oVar>vent</oVar>, signifie aussi : brusquement.</dictScrap>
-<cit>
-<quote>Sans vouloir en entendre davantage, madame de Vresles, indignée, a pris son chapeau et le reste, et est partie en coup de vent</quote>
-<bibl>
-<biblScope>Journ. amusant, 10 août 1872</biblScope>
-</bibl>
-</cit>
-</sense>
-</sense><sense n="4">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Fendre le <oVar>vent</oVar>, signifie aussi se sauver, s'enfuir.</dictScrap>
-<cit>
-<quote>La nuit d'auparavant Vous sûtes faire Gille et fendîtes le vent</quote>
-<bibl>
-<author>CORN.</author>
-<biblScope>Suite du Menteur, I, 1</biblScope>
-</bibl>
-</cit>
-</sense>
-<sense>
-<dictScrap>Proverbes, Ajoutez :</dictScrap>
-</sense>
-<sense>
-<dictScrap><oVar>Vent</oVar> du midi les chiens au chenil ; <oVar>vent</oVar> du nord les chiens dehors.</dictScrap>
-</sense>
 </sense>
 <re type="P"><form>Petite pluie abat grand vent</form>, une petite pluie fait ordinairement cesser un grand vent ; et fig. une cause légère, un petit incident fait cesser quelquefois de grands troubles. </re>
 <re type="P"><form>À brebis tondue Dieu mesure le vent</form>, la Providence proportionne nos maux à nos forces. </re>
@@ -29132,11 +29087,7 @@
 
 </note>
 <etym>Wallon, vain ; provenç. vent, ven ; catal. vent ; espagn. viento ; ital. vento ; du lat. ventus ; comparez le goth. wajan, allem. wehen, venter, sanscr. vata, vent, va (a long), souffler.</etym>
-<re ana="supplement" orig=" VENT. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="ventage">
 <form>
@@ -29638,7 +29589,8 @@
 <sense>
 <dictScrap>Qui est causé par les vents. Colique <oVar>venteuse</oVar>. Maladies <oVar>venteuses</oVar>.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Fig. Qui n'a que du vent, qui est sans réalité.</dictScrap>
 <cit>
 <quote>Laissez l'ambition, comme une chose bouffie, vaine, venteuse</quote>
@@ -29696,10 +29648,7 @@
 
 </note>
 <etym>Provenç. ventos ; espagn. et ital. ventoso ; du lat. ventosus, de ventus, vent.</etym>
-<re ana="supplement" orig=" VENTEUX. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ventilateur">
 <form>
@@ -30067,7 +30016,8 @@
 </sense>
 <sense n="5">
 <dictScrap><oVar>Ventouse</oVar> de chapeau, de casquette, petite ouverture pour l'aérer.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Creux ou vide qui se forme dans une chaussée ou une palissade.</dictScrap>
 <cit>
 <quote>On rechausse la dernière rangée de broussailles pour lui permettre de résister au vent.... et bien l'appliquer contre le sol, afin de ne donner aucune prise aux ventouses ; car, en une seule nuit, le travail de plusieurs jours peut être perdu [il s'agit de la fixation des dunes]</quote>
@@ -30107,10 +30057,7 @@
 
 </note>
 <etym>Provenç. espagn. et ital. ventosa ; du latin ventosa, ventouse, de ventosus, venteux.</etym>
-<re ana="supplement" orig=" VENTOUSE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ventousé">
 <form>
@@ -30697,9 +30644,7 @@
 <biblScope>Fourber. II, 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="16">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap><oVar>Ventre</oVar> de moi, sorte de juron.</dictScrap>
 <cit>
 <quote>Ventre de moi ! que deviendrai-je ?</quote>
@@ -30938,10 +30883,7 @@
 
 </note>
 <etym>Wallon, veintt ; provenç. ventre ; espagn. vientre ; ital. ventre ; du latin ventrem ; sanscr. udara ; lithuanien, vedara, estomac</etym>
-<re ana="supplement" orig=" VENTRE. ">
 
-
-</re>
 </entry>
 <entry xml:id="ventrebleu">
 <form>
@@ -32012,7 +31954,8 @@
 </cit>
 </sense><sense n="8" ana="supplement">
 <dictScrap>La <oVar>Vénus</oVar> attrape-mouches, dionaea muscipula, Journ. offic. 26 nov. 1876, p. 8720, 2e col.</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap>Populairement et fig. Coup de pied de <oVar>Vénus</oVar>, accident syphilitique.</dictScrap>
 <cit>
 <quote>Avec une autre drogue, on chasse le mal occasionné par des coups de pieds de Vénus</quote>
@@ -32041,11 +31984,7 @@
 
 </note>
 <etym>Lat. Venus, Veneris ; comparez le sanscrit védique vanas, charme, van, désirer ; le danois ven, joli, agréable ; anglo-sax. van, brillant.</etym>
-<re ana="supplement" orig=" VÉNUS. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="vénusté">
 <form>
@@ -32639,7 +32578,8 @@
 <biblScope>Panég. Ste Magdel.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="14">
+</sense>
+<sense n="14" ana="supplement">
 <dictScrap><oVar>Ver</oVar> de vase, larve d'un petit diptère, le chironome ; elle est rouge et est employée par les pêcheurs comme appât, E. BLANCHARD, Rev. des Deux-Mondes, 1er oct. 1874, p. 606</dictScrap>
 </sense>
 <note type="H">
@@ -32741,10 +32681,7 @@
 
 </note>
 <etym>Wallon, vièr ; bourguig. var ; saintong. var ; provenç. verm, masc. et verma, féminin ; portug. verme ; ital. verme, vermo ; du lat. vermem, de même radical que l'allem. Wurm ; angl. worm ; suéd. orm ; goth. vaurms ; le grec, comme le prouvent l'esprit rude et le sanscr. krimi, ver (voy. <ref target="cramoisi">CRAMOISI</ref>). Toutes ces formes supposent une forme primitive kverm, de la racine kram, aller, ramper.</etym>
-<re ana="supplement" orig=" VER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="véracité">
 <form>
@@ -34296,16 +34233,14 @@
 </form>
 <sense>
 <dictScrap>Un des noms du bruant.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Nom, dans la Vienne, d'un cépage blanc, les Primes d'honneur, Paris, 1872, p. 304.</dictScrap>
 <sense>
 <dictScrap>Gris <oVar>verdin</oVar>, nom d'un cépage de l'Orléanais, qui fournit de petites grappes à fruits noirs ou noir cendré, Acad. des sc. Comptes rend. t. LXXXIII, p. 728.</dictScrap>
 </sense>
 </sense>
-<re ana="supplement" orig=" VERDIN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="verdiot">
 <form>
@@ -35336,7 +35271,8 @@
 <biblScope>Gaz. des Trib. 28 oct. 1875, p. 1037, 4e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="21">
+</sense>
+<sense n="21" ana="supplement">
 <dictScrap><oVar>Verge</oVar> graduée, jauge.</dictScrap>
 <cit>
 <quote>Vous n'avez que deux moyens de procéder à cette vérification [des manquants] la jauge ou verge graduée, et le dépotage</quote>
@@ -35541,11 +35477,7 @@
 
 </note>
 <etym>Wallon, vég ; bourg. varge ; Berry, varge ; provenç. verga, vergua, verja ; espagn. et ital. verga ; du lat. virga.</etym>
-<re ana="supplement" orig=" VERGE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="vergé.1">
 <form>
@@ -35762,9 +35694,7 @@
 
 </note>
 <etym>Berry, varger ; prov. vergier, verdier ; it. verziere ; du lat. viridarium, de viridis, vert.</etym>
-<re ana="supplement" orig=" 1. VERGER. - ÉTYM. Ajoutez : La forme veridiarium se trouve dans Muratori, 1595, 3. ">
-
-</re>
+<etym ana="supplement">La forme veridiarium se trouve dans Muratori, 1595, 3.</etym>
 </entry>
 <entry xml:id="verger.2">
 <form>
@@ -35954,7 +35884,8 @@
 <sense>
 <dictScrap>Petites raies rougeâtres qui surviennent quelquefois après une forte distension de la peau ; taches scorbutiques violacées et linéaires.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Raie que présente la peau de certains animaux.</dictScrap>
 <cit>
 <quote>Il existe des individus [chevaux] qui offrent accidentellement une raie noire le long de l'épine dorsale ou des vergetures sur les flancs, indices de parenté du cheval, de l'âne, du zèbre, de l'hémione et du daw, chez lesquels cette raie ou ces vergetures sont constantes</quote>
@@ -35965,10 +35896,7 @@
 </cit>
 </sense>
 <etym>Vergette.</etym>
-<re ana="supplement" orig=" VERGETURE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vergeure">
 <form>
@@ -36091,7 +36019,8 @@
 <sense>
 <dictScrap>On dit aussi verne.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Digue de rivière construite artificiellement et à l'aide de pieux, fascines, etc.</dictScrap>
 <sense>
 <dictScrap>Ce sens est une extension de <oVar>vergne</oVar>, arbre qui se plante d'ordinaire le long des rivières.</dictScrap>
@@ -36117,10 +36046,7 @@
 
 </note>
 <etym>Pic., vergne, osier ; génev. vernet, lieu planté de vernes ; Berry, vargne. féminin ; prov. vern, vernha ; cat. vern ; du celtique : bas-breton, guern ; cornique, guernen, aune ; irl. fearne, aune.</etym>
-<re ana="supplement" orig=" VERGNE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vergner">
 <form>
@@ -37007,7 +36933,8 @@
 <form><orth>VÉRITAS</orth><pron>vé-ri-tas'</pron>, ou bureau véritas, s. m. </form>
 <sense>
 <dictScrap>Office international où l'on classe les navires et renseigne sur leur sort.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Le catalogue dressé et mis en vente par l'office <oVar>Véritas</oVar>.</dictScrap>
 <cit>
 <quote>Le Véritas, registre de l'état civil des navires de mer, distingue les navires neufs en trois classes</quote>
@@ -37022,10 +36949,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VÉRITAS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vérité">
 <form>
@@ -38498,7 +38422,8 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Il se dit des oiseaux faisant la chasse aux vers.</dictScrap>
 <cit>
 <quote>C'est un charmant oiseau que la gorge-bleue [M. Carteron dit avec un trait d'union le gorge-bleue] qui suit le cours des petites rivières en vermillant dans les buissons de saule marseau</quote>
@@ -38521,10 +38446,7 @@
 
 </note>
 <etym>Lat. vermiculus, petit ver, diminutif de vermis (voy. <ref target="ver">VER</ref>).</etym>
-<re ana="supplement" orig=" VERMILLER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vermillon">
 <form>
@@ -39501,7 +39423,8 @@
 <biblScope>Gaz. des Trib. 28 mars 1875, p. 302, 4e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap><oVar>Vernis</oVar> Martin, sorte de <oVar>vernis</oVar> employé en peinture.</dictScrap>
 <cit>
 <quote>Chardin en avait apporté de Perse les secrets, et c'est alors qu'apparut chez nous le vernis qu'on appela vernis Martin, du nom du peintre français qui en propagea l'usage</quote>
@@ -39575,11 +39498,7 @@
 
 </note>
 <etym>Wallon, vierni ; prov. vernis, vernitz ; cat. barnis ; esp. barniz ; port. verniz ; ital. vernice ; allem. Firniss ; angl. varnish ; bas-lat. vernicium, fernisium ; d'après Ménage, approuvé par Diez, d'un verbe fictif vitrinire, de vitrinus, qui a le caractère du verre, dérivé de vitrum, verre.</etym>
-<re ana="supplement" orig=" VERNIS. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="vernissage">
 <form>
@@ -40501,6 +40420,18 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap><oVar>Verre</oVar> plat, <oVar>verre</oVar> qui n'a pas de pied.</dictScrap>
+<cit>
+<quote>Dans le milieu du cercle de gauche, on voit un verre plat, dans l'autre, faisant pendant, un verre à pied</quote>
+<bibl>
+<biblScope>Gaz. des Trib. 5 nov. 1876, p. 1076, 1re col.</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense ana="supplement">
+<dictScrap>En ce sens, on dit d'ordinaire <oVar>verre</oVar> gobelet.</dictScrap>
+</sense>
 </sense>
 <sense n="11">
 <dictScrap>La liqueur que contient ou peut contenir un <oVar>verre</oVar>. Il avait quelques <oVar>verres</oVar> de vin dans la tête.</dictScrap>
@@ -40558,21 +40489,8 @@
 <sense>
 <dictScrap>Prov. Qui casse les <oVar>verres</oVar> les paye, celui qui fait quelque dommage doit le réparer ; et aussi chacun répond de ce qu'il fait.</dictScrap>
 </sense>
-</sense><sense n="10" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Verre</oVar> plat, <oVar>verre</oVar> qui n'a pas de pied.</dictScrap>
-<cit>
-<quote>Dans le milieu du cercle de gauche, on voit un verre plat, dans l'autre, faisant pendant, un verre à pied</quote>
-<bibl>
-<biblScope>Gaz. des Trib. 5 nov. 1876, p. 1076, 1re col.</biblScope>
-</bibl>
-</cit>
 </sense>
-<sense>
-<dictScrap>En ce sens, on dit d'ordinaire <oVar>verre</oVar> gobelet.</dictScrap>
-</sense>
-</sense><sense n="17">
+<sense n="17" ana="supplement">
 <cit>
 <quote>Verre étonné, verre précipité dans l'eau au moment de la fusion</quote>
 <bibl>
@@ -40705,11 +40623,7 @@
 
 </note>
 <etym>Bourguig. vare, vore ; wallon, veul ; provenç. veire ; cat. vidre ; espagn. vidrio ; port. vidro ; ital. vetro ; du lat. vitrum, que les étymologistes tirent de videre, voir : vitrum, pour vidtrum, le transparent, ce qui fait voir.</etym>
-<re ana="supplement" orig=" VERRE. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="verré">
 <form>
@@ -40885,7 +40799,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Grande fenêtre ornée de vitraux peints. Les <oVar>verrières</oVar> des cathédrales gothiques.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Espèce de seau ou bac en plaqué, qui sert à placer sur le comptoir des marchands de vin, cafetiers, etc. les verres propres</dictScrap>
 </sense>
 <note type="H">
@@ -40964,10 +40879,7 @@
 
 </note>
 <etym>Verre ; bourg. voraire, vouaixere, vitre, fenêtre ; prov. veiriera, ruche de verre ; it. vetriera.</etym>
-<re ana="supplement" orig=" VERRIÈRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="verrillon">
 <form>
@@ -42054,7 +41966,8 @@
 <sense>
 <dictScrap>Terme de zoologie. Se dit d'une coquille univalve dont l'ouverture a de la propension à être échancrée.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qui se verse, en parlant de cours d'eau.</dictScrap>
 <cit>
 <quote>La séparation des eaux versantes du côté du nord et du midi de la chaîne des Pyrénées</quote>
@@ -42064,10 +41977,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" 1. VERSANT, ANTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="versant.2">
 <form>
@@ -42137,9 +42047,7 @@
 <biblScope>Prom. 8</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
-<dictScrap>Ajoutez un exemple du XVIIe siècle.</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Comme il a un esprit versatile et qui s'impose facilement à lui-même</quote>
 <bibl>
 <biblScope>Journal de M. de Pontchâteau, dans SAINTE-BEUVE, Port-Royal, t V, p. 333, 3e éd.</biblScope>
@@ -42159,10 +42067,7 @@
 
 </note>
 <etym>Lat. versatilis, de versare, tourner (voy. <ref target="verser">VERSER</ref>).</etym>
-<re ana="supplement" orig=" VERSATILE. ">
 
-
-</re>
 </entry>
 <entry xml:id="versatilité">
 <form>
@@ -42308,7 +42213,8 @@
 <biblScope>1er dial.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Produit, en parlant de pièces de procédure.</dictScrap>
 <cit>
 <quote>Attendu qu'il résulte de l'enquête et des documents versés aux débats, la preuve que...</quote>
@@ -42317,10 +42223,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VERSÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="verseau.1">
 <form>
@@ -42670,6 +42573,15 @@
 <biblScope>ib. II, 17</biblScope>
 </bibl>
 </cit>
+<sense ana="supplement">
+<dictScrap><oVar>Verser</oVar> en fraude des denrées, les introduire pour la consommation intérieure, au lieu de les consommer ou de les garder à bord.</dictScrap>
+<cit>
+<quote>Le service doit veiller à ce que les vivres et provisions apportés de l'étranger ne soient pas versés en fraude</quote>
+<bibl>
+<biblScope>Douanes, Tarif de 1877, p. CXXI</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="13">
 <dictScrap>Renverser sur le côté une charrette, une voiture qui est en train de cheminer. Ce cocher a <oVar>versé</oVar> sa voiture.</dictScrap>
@@ -42785,17 +42697,6 @@
 <biblScope>Morceaux choisis par l'abbé Rolland, p. 90</biblScope>
 </bibl>
 </cit>
-</sense><sense n="12">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Verser</oVar> en fraude des denrées, les introduire pour la consommation intérieure, au lieu de les consommer ou de les garder à bord.</dictScrap>
-<cit>
-<quote>Le service doit veiller à ce que les vivres et provisions apportés de l'étranger ne soient pas versés en fraude</quote>
-<bibl>
-<biblScope>Douanes, Tarif de 1877, p. CXXI</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <re type="S">VERSER, RÉPANDRE. Verser exprime proprement un changement de direction dans la chose, et répandre un étalage de la chose. On verse en bas ; on répand en tous sens. Vous versez de l'eau dans un vase inférieur. L'odeur d'une fleur se répand dans les airs. L'idée propre de verser est l'effusion. L'idée propre de répandre est diffusion ou dispersion, ROUBAUD. </re>
 <note type="H">
@@ -42993,10 +42894,7 @@
 
 </note>
 <etym>Wallon, viersé ; prov. versar ; it. versare ; du lat. versare, fréquentatif de vertere, tourner.</etym>
-<re ana="supplement" orig=" VERSER. ">
 
-
-</re>
 </entry>
 <entry xml:id="verset">
 <form>
@@ -43989,7 +43887,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="21">
+</sense>
+<sense n="21" ana="supplement">
 <dictScrap>Couper sur le <oVar>vert</oVar>, cueillir un fruit avant la maturité.</dictScrap>
 <cit>
 <quote>L'expéditeur est obligé de les couper [les ananas exotiques] avant leur maturité, c'est-à-dire sur le vert</quote>
@@ -46962,7 +46861,8 @@
 </sense>
 <sense n="7">
 <dictScrap>Nom donné à la partie basse d'un alambic, où se mettent les liqueurs.</dictScrap>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <cit>
 <quote>Arbre à vessie, le baguenaudier, colutea arborescens</quote>
 <bibl>
@@ -47442,6 +47342,16 @@
 <sense>
 <dictScrap>Fig. Suivre les <oVar>vestiges</oVar> de quelqu'un, l'imiter.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>Aller sur les mêmes <oVar>vestiges</oVar>, suivre la même doctrine, la même conduite.</dictScrap>
+<cit>
+<quote>Les conciles allaient tous sur les mêmes vestiges</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Avert. 1</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>Marques, restes, débris d'édifices, de remparts, de maisons, etc. Il reste encore des <oVar>vestiges</oVar> de camps romains en cet endroit.</dictScrap>
@@ -47486,18 +47396,6 @@
 <biblScope>Expos. v, 3</biblScope>
 </bibl>
 </cit>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Aller sur les mêmes <oVar>vestiges</oVar>, suivre la même doctrine, la même conduite.</dictScrap>
-<cit>
-<quote>Les conciles allaient tous sur les mêmes vestiges</quote>
-<bibl>
-<author>BOSSUET</author>
-<biblScope>Avert. 1</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <re type="S">VESTIGE, TRACE. La seule différence qu'il y ait entre ces deux mots, c'est que vestige, moins usité, est du style soutenu, tandis que trace est de tous les styles. </re>
 <note type="H">
@@ -47513,10 +47411,7 @@
 
 </note>
 <etym>Provenç. vestigi ; espagn. et ital. vestigio ; du lat. vestigium.</etym>
-<re ana="supplement" orig=" VESTIGE. ">
 
-
-</re>
 </entry>
 <entry xml:id="vestimental">
 <form>
@@ -48113,7 +48008,8 @@
 <sense>
 <dictScrap>Par extension. Une dévotion <oVar>vétilleuse</oVar>.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Ombrageux, en parlant d'animaux.</dictScrap>
 <cit>
 <quote>Attendu que, d'un procès-verbal dressé sur les lieux de l'accident par un agent de police de Paris, il résulte que L.... avait été averti.... que cette vache était vétilleuse ; que cette expression, bien qu'elle soit d'un français douteux, contenait un avertissement pour L.... de se tenir sur ses gardes</quote>
@@ -48123,10 +48019,7 @@
 </cit>
 </sense>
 <etym>Vétille.</etym>
-<re ana="supplement" orig=" VÉTILLEUX. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vêtir">
 <form><orth>VÊTIR</orth><pron>vé-tir ; l'usage a changé, à l'infinitif, l'e ouvert en un e fermé</pron>, je vêts, tu vêts, il vêt, nous vêtons, vous vêtez, ils vêtent ; je vêtais ; je vêtis ; nous vêtimes ; je vêtirai ; je vêtirais ; vêts, vêtons, vêtez ; que je vête, que nous vêtions ; que je vêtisse ; vêtant ; vêtu, v. a. </form>
@@ -48515,7 +48408,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Action de fournir des vêtements. La <oVar>vêture</oVar> des enfants assistés.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Les vêtements eux-mêmes que l'on fournit à des indigents.</dictScrap>
 <cit>
 <quote>Il est déposé dans les bureaux du secrétariat général de l'Assistance publique un échantillon type de chacune des layettes et vêtures affectées au service des enfants assistés</quote>
@@ -48579,10 +48473,7 @@
 
 </note>
 <etym>Provenç. et espagn. vestidura ; ital. vestitura ; du lat. vestitura, de vestire, vêtir.</etym>
-<re ana="supplement" orig=" VÊTURE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vétuste">
 <form>
@@ -50433,7 +50324,8 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>En termes de théâtre, prononcer sans grasseyer.</dictScrap>
 <cit>
 <quote>Prononcer la lettre r sans grasseyement, c'est la faire rouler, c'est la faire vibrer ; on dit, en langage de théâtre, de quelqu'un qui ne grasseye pas : il vibre</quote>
@@ -50447,10 +50339,7 @@
 </sense>
 </sense>
 <etym>Lat. vibrare, être brandi, s'agiter, vibrer, qui se rapporte au sanscrit védique jivri, vacillant, branlant.</etym>
-<re ana="supplement" orig=" VIBRER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vibrion">
 <form>
@@ -52490,7 +52379,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Sous l'ancienne monarchie, en quelques lieux, <oVar>vicomte</oVar> n'était qu'un titre de judicature, et se disait d'un magistrat qui jugeait les procès d'une seigneurie, qu'elle eût, ou non, le titre de vicomté.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Fonctionnaire royal de l'île de Jersey, nommé par la couronne, chargé de l'exécution des sentences de justice, civiles et criminelles, et de quelques autres fonctions judiciaires.</dictScrap>
 <sense>
 <dictScrap>Député-<oVar>vicomte</oVar>, personne nommée par le <oVar>vicomte</oVar> de Jersey pour exercer ses fonctions en son absence.</dictScrap>
@@ -52555,10 +52445,7 @@
 
 </note>
 <etym>Vice 2, et comte.</etym>
-<re ana="supplement" orig=" VICOMTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vicomté">
 <form>
@@ -53783,7 +53670,8 @@
 <biblScope>Journ. des Débats, 25 juin 1876, Feuilleton, 1re page, 5e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Vider, en parlant de fosses d'aisance.</dictScrap>
 <cit>
 <quote>Ils s'engagent à continuer pendant un an de porter la totalité des matières liquides et solides, par eux vidangées, dans le premier cas à leurs voiries, dans le second au dépotoir</quote>
@@ -53793,11 +53681,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VIDANGER. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="vidangeur">
 <form>
@@ -54586,7 +54470,8 @@
 <sense>
 <dictScrap>Terme de métallurgie. Frapper à <oVar>vide</oVar>, frapper sur l'enclume, non sur la pièce.</dictScrap>
 </sense>
-</sense><sense n="23">
+</sense>
+<sense n="23" ana="supplement">
 <dictScrap>Terme de grammaire. Dans les langues isolantes, mot <oVar>vide</oVar>, mot qui, dans un composé, a perdu sa valeur propre et ne joue qu'un rôle de suffixe, par opposition à mot plein, mot qui, dans ce même composé, a gardé sa valeur.</dictScrap>
 </sense>
 <note type="H">
@@ -55170,7 +55055,8 @@
 <sense>
 <dictScrap>Ce chien se <oVar>vide</oVar>, il rend ses excréments.</dictScrap>
 </sense>
-</sense><sense n="14">
+</sense>
+<sense n="14" ana="supplement">
 <dictScrap>Terme juridique. <oVar>Vider</oVar> un délibéré, prononcer un jugement après avoir délibéré.</dictScrap>
 <cit>
 <quote>Aujourd'hui, la cour, vidant son délibéré, a confirmé le jugement de première instance qui ordonne...</quote>
@@ -55349,10 +55235,7 @@
 
 </note>
 <etym>Vide ; wallon, vûdi ; provenç. voiar, voyar, vueiar, vuiar, voidar ; cat. vuydar.</etym>
-<re ana="supplement" orig=" VIDER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="videur">
 <form>
@@ -55362,7 +55245,8 @@
 </form>
 <sense>
 <dictScrap>Celui qui vide. <oVar>Videur</oVar> de volailles.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Par extension, <oVar>videur</oVar> de poches, filou, pickpocket.</dictScrap>
 <cit>
 <quote>L'administration [de Nice], prévoyante et soucieuse des deniers de l'opulente clientèle qui fréquente ses salons, a pris soin de prévenir par des affiches conçues en diverses langues qu'il y a dans les salles de jeu des videurs de poches</quote>
@@ -55371,10 +55255,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VIDEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vidi">
 <form>
@@ -57123,6 +57004,16 @@
 <sense n="28">
 <dictScrap>Frères de la <oVar>vie</oVar> commune, société fondée par Gérard Groot en 1384, où des personnes de savoir et de piété, vivant en commun de leur apport, s'occupaient à instruire la jeunesse.</dictScrap>
 </sense>
+<sense ana="supplement" n="29">
+<dictScrap>Haute <oVar>vie</oVar>, la manière de vivre des hautes classes, traduction de l'anglais high life.</dictScrap>
+<cit>
+<quote>C'est ici que commence la partie la plus dramatique d'un épisode de ce qu'on nommerait aujourd'hui la haute vie au XVIIIe siècle</quote>
+<bibl>
+<author>J. CLARETIE</author>
+<biblScope>Journ. offic. 10 décembre 1876, p. 9200, 3e col.</biblScope>
+</bibl>
+</cit>
+</sense>
 <re type="P"><form>Telle vie, telle fin, ou telle vie, telle mort</form>, c'est-à-dire on meurt de la même manière qu'on a vécu. </re>
 <re type="P"><form>Vie de cochon</form>, courte et bonne vie passée dans la crapule, et abrégée par les excès. </re>
 <re type="P"><form>Qui a temps a vie</form>, on a chance de sauver sa vie, ses biens, quand on a devant soi du temps, du loisir. </re>
@@ -57459,21 +57350,9 @@
 </form>
 <sense>
 <dictScrap>Chemin dans un marais salant.</dictScrap>
-</sense><sense n="29">
-<dictScrap>Haute <oVar>vie</oVar>, la manière de vivre des hautes classes, traduction de l'anglais high life.</dictScrap>
-<cit>
-<quote>C'est ici que commence la partie la plus dramatique d'un épisode de ce qu'on nommerait aujourd'hui la haute vie au XVIIIe siècle</quote>
-<bibl>
-<author>J. CLARETIE</author>
-<biblScope>Journ. offic. 10 décembre 1876, p. 9200, 3e col.</biblScope>
-</bibl>
-</cit>
 </sense>
 <etym>Lat. via, chemin (voy. <ref target="voie">VOIE</ref>).</etym>
-<re ana="supplement" orig=" VIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="viédase">
 <form>
@@ -57932,7 +57811,15 @@
 <sense>
 <dictScrap>On dit aussi en ce sens : le <oVar>vieil</oVar> Adam.</dictScrap>
 </sense>
-</sense>
+<sense ana="supplement">
+<dictScrap>Cela est vieux comme le monde, cela est très ancien.</dictScrap>
+<cit>
+<quote>La commune russe est vieille comme le monde, dont elle porte aussi le nom (mir)</quote>
+<bibl>
+<biblScope>Journ. offic. 5 sept. 1872, p. 5865, 2e col.</biblScope>
+</bibl>
+</cit>
+</sense></sense>
 <sense n="11">
 <dictScrap>Suranné. Vieille mode. Vieille méthode.</dictScrap>
 <sense>
@@ -58076,17 +57963,6 @@
 <biblScope>Maison rust. t. I, p. 49, dans POUGENS</biblScope>
 </bibl>
 </cit>
-</sense><sense n="10">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Cela est vieux comme le monde, cela est très ancien.</dictScrap>
-<cit>
-<quote>La commune russe est vieille comme le monde, dont elle porte aussi le nom (mir)</quote>
-<bibl>
-<biblScope>Journ. offic. 5 sept. 1872, p. 5865, 2e col.</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <re type="P"><form>Les vieux amis et les vieux écus sont les meilleurs</form>, ou, plus brièvement, <form>vieux amis, vieux écus</form>. </re>
 <re type="P"><form>Jeune chair et vieux poisson</form>, les bêtes jeunes, qui sont plus tendres, et, au figuré, les femmes dans leur jeunesse, le poisson quand il est gros. </re>
@@ -58276,10 +58152,7 @@
 
 </note>
 <etym>Wallon, vî, vieux, vîll, vieille ; bourguign. veille, vieille ; provenç. vel, velh, vielh, vilh ; cat. vell ; espagn. viejo ; portug. velho ; ital. vecchio ; du lat. populaire veclus pour vetulus (vetulum, non veclum, dit l'Appendix Probi, dans Keil, v, 162). Vétulus est le diminutif de vetus, qui tient au grec, éolien, année, sanscr. vatsa, année, et signifie par conséquent proprement annuel. Les deux formes vieil et vieux s'expliquent par l'ancienne langue : vieil est le cas du régime, vieils ou vieux est celui du sujet ; ces deux sont restées dans la langue moderne, qui ne s'en est plus servie que pour des usages de prononciation. à côté de viel, l'ancienne langue avait aussi viez, pour les deux genres ; viez vient du lat. vetus. Viez se dit encore dans les campagnes de Normandie.</etym>
-<re ana="supplement" orig=" VIEIL ou VIEUX. ">
 
-
-</re>
 </entry>
 <entry xml:id="vieillard">
 <form>
@@ -60667,7 +60540,8 @@
 </sense>
 <sense n="21">
 <dictScrap>De <oVar>vive</oVar> force, loc. adv. Avec violence, en surmontant tous les obstacles. Il enleva le poste de <oVar>vive</oVar> force.</dictScrap>
-</sense><sense n="22">
+</sense>
+<sense n="22" ana="supplement">
 <dictScrap>Duvet <oVar>vif</oVar>, plume <oVar>vive</oVar>, duvet, plume pris sur l'oiseau vivant.</dictScrap>
 </sense>
 <note type="R">
@@ -60911,10 +60785,7 @@
 
 </note>
 <etym>Berry, vife au féminin : une couleur bien vife ; provenç. viu, vieu ; espagn. et ital vivo ; du lat. vivus (voy. <ref target="vivre">VIVRE</ref>).</etym>
-<re ana="supplement" orig=" VIF. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vif-argent">
 <form>
@@ -61064,7 +60935,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme d'argot. Voleur à la <oVar>vigie</oVar>, se dit de ceux qui commettent le vol comme voyageurs et sur l'impériale de la voiture.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Rochers en <oVar>vigie</oVar>, rochers détachés, isolés.</dictScrap>
 <cit>
 <quote>D'énormes rochers en vigie à une certaine distance du rivage ont été arrachés de leur base et roulés à plus de trente mètres</quote>
@@ -61074,10 +60946,7 @@
 </cit>
 </sense>
 <etym>Lat. vigilia, surveillance, veille (voy. <ref target="veille">VEILLE</ref>).</etym>
-<re ana="supplement" orig=" VIGIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vigier">
 <form>
@@ -61699,14 +61568,12 @@
 <sense>
 <dictScrap>On trouve aussi vignot.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Nom vulgaire de l'ajonc d'Europe.</dictScrap>
 </sense>
 <etym>Vigne. Le coquillage a été dénommé d'après le vigneau des jardins, à cause de son hélice.</etym>
-<re ana="supplement" orig=" VIGNEAU. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vigneron">
 <form>
@@ -61733,7 +61600,8 @@
 </sense>
 <sense n="2">
 <dictScrap><oVar>Vigneron</oVar> ou <oVar>vigneronne</oVar>, colimaçon.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Adj. <oVar>Vigneron</oVar>, <oVar>vigneronne</oVar>, qui appartient aux vignobles, aux <oVar>vignerons</oVar>.</dictScrap>
 <cit>
 <quote>Le buttage [de la vigne] s'exécute assez rapidement, et c'est là surtout que la charrue vigneronne peut recevoir une application facile et fournir des résultats incontestés</quote>
@@ -61787,10 +61655,7 @@
 
 </note>
 <etym>Bourguig. vaingneron ; de l'anc. verbe viner, cultiver la vigne ; ce verbe vient de vigne.</etym>
-<re ana="supplement" orig=" VIGNERON. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vigneronnage">
 <form>
@@ -61884,7 +61749,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Papier à <oVar>vignettes</oVar>, papier à lettres dont les bords sont ornés de petites guirlandes coloriées.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Nom vulgaire de la mercuriale annuelle.</dictScrap>
 </sense>
 <note type="H">
@@ -61919,10 +61785,7 @@
 
 </note>
 <etym>Dimin. de vigne, parce qu'à l'origine cet ornement représentait des branches et des feuilles de vigne.</etym>
-<re ana="supplement" orig=" VIGNETTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vignettiste">
 <form>
@@ -63932,7 +63795,12 @@
 <sense>
 <dictScrap>On dit de même : la <oVar>vileté</oVar> du prix. La <oVar>vileté</oVar> du prix des grains.</dictScrap>
 </sense>
-</sense>
+<cit ana="supplement">
+<quote>Quant à la dépense qu'elles [les troupes] feront au delà de leur solde, elle [Sa Majesté] estime que cela ne saurait monter à grand'chose à cause de la vileté du prix des denrées de votre province [la Bourgogne]</quote>
+<bibl>
+<biblScope>Lettres de Colbert, t. VI, p. 223</biblScope>
+</bibl>
+</cit></sense>
 <sense n="2">
 <dictScrap>Le peu d'importance d'une chose. La <oVar>vileté</oVar> de la matière.</dictScrap>
 </sense>
@@ -63950,14 +63818,6 @@
 <bibl>
 <author>MARMONTEL</author>
 <biblScope>Œuv. t. x, p. 438</biblScope>
-</bibl>
-</cit>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>Quant à la dépense qu'elles [les troupes] feront au delà de leur solde, elle [Sa Majesté] estime que cela ne saurait monter à grand'chose à cause de la vileté du prix des denrées de votre province [la Bourgogne]</quote>
-<bibl>
-<biblScope>Lettres de Colbert, t. VI, p. 223</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -64022,10 +63882,7 @@
 
 </note>
 <etym>Provenç. viltat, viutat ; ital. viltà ; du lat. vilitatem, de vilis, vil.</etym>
-<re ana="supplement" orig=" VILETÉ. ">
 
-
-</re>
 </entry>
 <entry xml:id="vilipendé">
 <form>
@@ -64169,7 +64026,8 @@
 <sense>
 <dictScrap>Au plur. De belles <oVar>villas</oVar>.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Sous les Mérovingiens et les Carlovingiens, nom de certains domaines ruraux.</dictScrap>
 <cit>
 <quote>Les rois francs possédaient dans diverses parties du pays beaucoup de ces domaines [isolés et indépendants de la couronne] ; plusieurs des villas de Charlemagne ont eu cette origine</quote>
@@ -64180,10 +64038,7 @@
 </cit>
 </sense>
 <etym>Lat. villa, maison de campagne (voy. <ref target="ville">VILLE</ref>).</etym>
-<re ana="supplement" orig=" VILLA. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="villace">
 <form>
@@ -65637,7 +65492,8 @@
 </sense>
 <sense n="12">
 <dictScrap>Terme d'alchimie. <oVar>Vin</oVar> des sages, le mercure.</dictScrap>
-</sense><sense n="13">
+</sense>
+<sense n="13" ana="supplement">
 <dictScrap><oVar>Vin</oVar> du glacier, <oVar>vin</oVar> renommé du Valais (Suisse), provenant d'un cépage nommé le rèse et qui, transporté dans les hautes vallées, acquiert, au contact de l'air des glaciers, un bouquet remarquable.</dictScrap>
 </sense>
 <re type="P"><form>À bon vin point d'enseigne</form>, ce qui est bon n'a pas besoin d'être prôné. </re>
@@ -65865,10 +65721,7 @@
 
 </note>
 <etym>Provenç. vin, vi ; catal. vi ; espagn. vino ; portug. vinho ; ital. vino ; du lat. vinum. Des étymologistes rattachent le grec, vinum au sanscrit védique vena, aimable, amical ; d'autres, à vitis, mais vitis aurait donné vitinum et non vinum. Il est bien plus naturel d'y voir l'hébreu iin, vin : de ioun, faire effervescence, les Sémites ayant précédé les Indo-Européens dans la connaissance du vin.</etym>
-<re ana="supplement" orig=" VIN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vinage">
 <form>
@@ -66119,7 +65972,8 @@
 <biblScope>Journ. offic. 7 juin 1876, p. 3926, 2e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Étui de cuir contenant un flacon de sels.</dictScrap>
 </sense>
 <note type="H">
@@ -66140,11 +65994,7 @@
 
 </note>
 <etym>Vinaigre.</etym>
-<re ana="supplement" orig=" VINAIGRETTE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="vinaigrier">
 <form>
@@ -66544,7 +66394,8 @@
 <biblScope>Maison rust. t. I, p. 159, dans POUGENS</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <cit>
 <quote>Branche à fruit conservée plus ou moins longue sur la vigne, dite aussi courgée, pleyon, archet, aste, sautelle, flèche, tiret, etc.</quote>
 <bibl>
@@ -66632,7 +66483,8 @@
 <biblScope>Courrier de l'Ain, n° 149</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>V. réfl. Se <oVar>viner</oVar>, prendre un goût vineux.</dictScrap>
 <cit>
 <quote>Cette bière [chauffée] peut se conserver indéfiniment dans le ballon sans jamais s'altérer ; elle s'évente à la longue, elle vieillit, se vine, mais elle ne devient ni sure, ni aigre, ni putride, malgré le contact de l'air extérieur</quote>
@@ -66655,10 +66507,7 @@
 
 </note>
 <etym>Vin. Dans l'ancienne langue viner signifie cultiver la vigne, débiter du vin.</etym>
-<re ana="supplement" orig=" VINER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vinerie">
 <form>
@@ -67019,6 +66868,9 @@
 <biblScope>VI</biblScope>
 </bibl>
 </cit>
+<sense ana="supplement">
+<dictScrap>En Savoie, dans le peuple, on dit trois vingts pour soixante. J'ai trois <oVar>vingt</oVar> et neuf ans, disait une vieille mendiante à Évian-les-Bains.</dictScrap>
+</sense>
 </sense>
 <sense n="7">
 <dictScrap>Les Quinze-Vingts, voy. <ref target="quinze">QUINZE</ref>.</dictScrap>
@@ -67080,11 +66932,6 @@
 <biblScope>Lett. de la Montagne, 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>En Savoie, dans le peuple, on dit trois vingts pour soixante. J'ai trois <oVar>vingt</oVar> et neuf ans, disait une vieille mendiante à Évian-les-Bains.</dictScrap>
-</sense>
 </sense>
 <note type="R">Vingt prend une s au pluriel quand on le multiplie par un autre nom de nombre cardinal. Quatre-vingts hommes, six vingts écus. Il prend aussi l's quand le substantif est sous-entendu. Ce vieillard a soixante-dix ans, et l'autre en a quatre-vingts. L's ne se met pas quand vingt précède un autre nombre auquel il est joint. Quatre-vingt-deux hommes. Quatre-vingt mille hommes. Enfin l's ne se met pas quand vingt suit cent ou mille. Cent vingt hommes. Mille vingt hommes. </note>
 <note type="H">
@@ -67154,10 +67001,7 @@
 
 </note>
 <etym>Wallon, veintt ; provenç. vint ; espagn. veinte ; portug. vinte ; du latin viginti ; dorien, laconien, grec ; sanscr. vinçati, qui est pour dvi-daçati, deux fois dix.</etym>
-<re ana="supplement" orig=" VINGT. ">
 
-
-</re>
 </entry>
 <entry xml:id="vingtain.1">
 <form>
@@ -67205,14 +67049,12 @@
 <sense>
 <dictScrap>Moyen cordage dont on se sert pour faire les échafauds et les verboquets.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Dans les îles Normandes (aujourd'hui à Jersey seulement), circonscription territoriale, division de la paroisse.</dictScrap>
 </sense>
 <etym>Vingt ; provenç. vingtena ; espagn. veintena ; ital. vintena.</etym>
-<re ana="supplement" orig=" VINGTAINE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vingt-deuxain">
 <form>
@@ -68809,7 +68651,8 @@
 <biblScope>la Place roy. I, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap><oVar>Violenter</oVar> de, contraindre à.</dictScrap>
 <cit>
 <quote>Il [le maréchal d'Ancre] fit emprisonner mon cousin, le prince de Condé, chassa les autres princes, me violenta d'aller en mon parlement pour les déclarer criminels</quote>
@@ -68820,10 +68663,7 @@
 </sense>
 <etym>XVIe s.  <cit><quote>Ce qui l'avoit faict ainsi violenter [agir violemment] en sa charge, et renverser toutes les anciennes ordonnances</quote><bibl><author>CARLOIX</author><biblScope>V, 48</biblScope></bibl></cit> <cit><quote>J'en avois fait serment ; mais je n'ai le pouvoir D'estre seigneur de moi ; tant mon triste courage, Violenté d'amour et conduit par usage [habitude], Y reconduit mes pieds....</quote><bibl><author>RONS.</author><biblScope>Amours, liv. II</biblScope></bibl></cit></etym>
 <etym>Violent.</etym>
-<re ana="supplement" orig=" VIOLENTER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="violer">
 <form>
@@ -69152,7 +68992,8 @@
 <sense>
 <dictScrap><oVar>Violet</oVar> d'évêque, espèce d'agaric. <oVar>Violet</oVar> pourpre, espèce de champignon qui se trouve sur les feuilles pourries.</dictScrap>
 </sense>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Sorte de bois, dit aussi bois de <oVar>violette</oVar> (voy. <ref target="violette#var5">VIOLETTE, n° 5</ref>, au Dictionnaire).</dictScrap>
 <cit>
 <quote>Les bois d'ébénisterie wacapou et violet, qui se payent 250 francs le mètre cube</quote>
@@ -69174,10 +69015,7 @@
 
 </note>
 <etym>Voy. <ref target="violette">VIOLETTE</ref>.</etym>
-<re ana="supplement" orig=" VIOLET. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="violeter">
 <form>
@@ -69771,7 +69609,8 @@
 <sense n="10">
 <dictScrap>Nom que les habitants de la Guyane ont quelquefois donné aux tatous. </dictScrap>
 <re type="P"> Du proverbe : sec comme rebec, nous avons fait : sec comme un violon, CASTIL-BLAZE, Molière musicien, t. I, p. 9. </re>
-</sense><sense n="11">
+</sense>
+<sense n="11" ana="supplement">
 <cit>
 <quote>Planche carrée qui est garnie de fils de fer parallèlement placés, comme le sont les cordes de l'instrument de musique dont elle a pris le titre ; chacun de ces fils correspond à une des boîtes de couleur ; on se sert du violon dans l'impression des tissus</quote>
 <bibl>
@@ -69799,10 +69638,7 @@
 
 </note>
 <etym>Dérivé de viole ; provenç. violon ; catal. violi ; espagn. violon ; ital. violino. Quant à violon, prison, Génin, Récréat. t. I, p. 226, dit que, dans le XIVe siècle, psaltérion, sorte d'instrument de musique, avait pris le sens de prison, parce que mettre au psaltérion, c'était mettre en pénitence pour chanter les psaumes avec le psaltérion, et que, le psaltérion ayant passé de mode, on y avait substitué le violon. D'autres ont dit que le violon était un local de la Conciergerie où l'on enfermait les perturbateurs pendant les audiences, en leur laissant la liberté de jouer du violon. M. Kastner, dans sa Parémiologie, remarque que le psaltérion était un cep en bois où l'on passait les pieds des gens que l'on condamnait à cette punition : Robert le fournier, pour le soupçon d'avoir robé Colin le varlet, rompu sa huche, et y prins onze solz tournois, fut mis ou cep dit salterion desdites prisons, Lett. de rémiss. 1377. Il remarque en outre qu'en allemand Fiedel ou Geige, qui signifie violon, a aussi le sens du cep des anciennes prisons. Il en conclut que violon a été dit, à l'imitation des Allemands, pour cep, qu'il a remplacé le psaltérion, et que du sens de cep le violon a passé au sens du lieu où était le cep. C'est de ce sens de cep que violon a pris celui de mauvais sujet.</etym>
-<re ana="supplement" orig=" VIOLON. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="violonar">
 <form>
@@ -70254,7 +70090,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de photographie. Opération qui consiste à mettre l'épreuve tremper dans une dissolution d'un sel d'or qui donne à l'épreuve plus d'intensité.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Action d'une couleur qui vire, qui change.</dictScrap>
 <cit>
 <quote>Le virage au rouge violet de la liqueur acide</quote>
@@ -70265,10 +70102,7 @@
 </cit>
 </sense>
 <etym>Virer.</etym>
-<re ana="supplement" orig=" VIRAGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="virago">
 <form>
@@ -70417,7 +70251,8 @@
 <biblScope>Exploitation, débit et estimation des bois, 1868, p. 252. Estimation par virée.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Dans l'Aunis, rang de ceps. Couper tous les raisins d'une <oVar>virée</oVar>, Gloss. aunisien, p. 158.</dictScrap>
 </sense>
 <note type="H">
@@ -70432,11 +70267,7 @@
 
 </note>
 <etym>Viré.</etym>
-<re ana="supplement" orig=" VIRÉE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="virelai">
 <form>
@@ -70637,7 +70468,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme de photographie. <oVar>Virer</oVar> une épreuve, lui faire subir le virage.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Contourner.</dictScrap>
 <cit>
 <quote>Les bouées que devaient virer les embarcations engagées pour les courses, distantes l'une de l'autre de 1500 mètres, étaient placées, l'une en amont l'autre en aval du pont</quote>
@@ -70725,10 +70557,7 @@
 
 </note>
 <etym>Provenç. virar ; espagn. birar ; du bas-latin virare, qui se trouve dans les lois barbares. Le g ne se changeant pas en v, on ne peut guère songer au latin gyrare, tourner. Aussi Diez pense que le radical de ce mot est dans le lat. viria, bracelet, viriola, d'où virole.</etym>
-<re ana="supplement" orig=" VIRER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vires">
 <form>
@@ -71972,7 +71801,8 @@
 </form>
 <sense>
 <dictScrap>Terme de médecine. Principe de transmission de plusieurs maladies contagieuses. Le <oVar>virus</oVar> syphilitique. Le <oVar>virus</oVar> variolique. Le <oVar>virus</oVar> vaccin. Le <oVar>virus</oVar> de la rage.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fig. <oVar>Virus</oVar> pénitentiaire, démoralisation que se communiquent les condamnés dans les prisons.</dictScrap>
 <cit>
 <quote>À cette contagion de ce qu'on a appelé le virus pénitentiaire, il n'y avait qu'un remède efficace à opposer, l'isolement</quote>
@@ -72002,10 +71832,7 @@
 
 </note>
 <etym>Lat. virus, suc, bave, poison ; sanscr. visha.</etym>
-<re ana="supplement" orig=" VIRUS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vis.1">
 <form>
@@ -75849,7 +75676,8 @@
 <sense>
 <dictScrap>Horizon <oVar>visuel</oVar>, l'étendue que le regard embrasse.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Plan <oVar>visuel</oVar>, croquis qui montre la vue d'un lieu.</dictScrap>
 <cit>
 <quote>Le juge-commissaire ne crut pas devoir faire de procès-verbal descriptif, ni dresser un plan visuel des lieux</quote>
@@ -75871,10 +75699,7 @@
 
 </note>
 <etym>Prov. vizual ; esp. visual ; ital. visuale ; du lat. visualis (QUICHERAT, Addenda), de visus, action de voir, supin visum, de videre, voir.</etym>
-<re ana="supplement" orig=" VISUEL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vital">
 <form>
@@ -76405,7 +76230,8 @@
 </form>
 <sense>
 <dictScrap>Terme de cuisine. Ruban de pâte accommodé à la sauce piquante ou cuit dans le lait.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Sorte de crochet.</dictScrap>
 <cit>
 <quote>Il offre aux regards divers systèmes de douilles assorties, de clous, de bagues, de vitelots, des portants à systèmes pour esquifs, tous les articles spéciaux au canotage...</quote>
@@ -76415,10 +76241,7 @@
 </cit>
 </sense>
 <etym>Le vitelot, décrit par le Dict. de Trévoux, est une pâtisserie longue et menue, ainsi dite par une assimilation obscène.</etym>
-<re ana="supplement" orig=" VITELOT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vitelotte">
 <form>
@@ -76819,7 +76642,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Collure des fils sur les asples des tours à dévider les cocons ; ce qui est un défaut.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Petit rideau de fenêtre, par opposition aux grands rideaux.</dictScrap>
 <cit>
 <quote>Vitrages brodés, vitrages guipure, vitrages tulle, application, etc.</quote>
@@ -76829,10 +76653,7 @@
 </cit>
 </sense>
 <etym>Vitrer.</etym>
-<re ana="supplement" orig=" VITRAGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vitrail">
 <form>
@@ -80877,7 +80698,8 @@
 <biblScope>le Chevalier à la mode, III, 6</biblScope>
 </bibl>
 </cit>
-</sense><sense n="23">
+</sense>
+<sense n="23" ana="supplement">
 <dictScrap>Le long <oVar>vivre</oVar>, l'action de <oVar>vivre</oVar> longtemps.</dictScrap>
 <cit>
 <quote>C'est un malheur du trop long vivre</quote>
@@ -81238,10 +81060,7 @@
 
 </note>
 <etym>Prov. viure, vieure ; catal. viurer ; esp. vivir ; portug. viver ; ital. vivere ; du latin vivere ; comparez le grec vie ; le gaél. beo, vivant ; kimry, byw, vivant ; sanscr. jiv, vivre. Le wallon dit viké ; au XIIe siècle on trouve une forme viscat.</etym>
-<re ana="supplement" orig=" 1. VIVRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vivre.2">
 <form>
@@ -81511,14 +81330,12 @@
 <sense>
 <dictScrap>On dit de même : il parle en <oVar>vizir</oVar>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Sorte de tabac à fumer, Réponses aux questions de l'enquête sur le monopole des tabacs et des poudres, p. 230, Paris, 1874.</dictScrap>
 </sense>
 <etym>Arabe, ouazîr, vizir, proprement porteur.</etym>
-<re ana="supplement" orig=" VIZIR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vizirat">
 <form>
@@ -81900,7 +81717,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de grammaire. Changement en voyelle. La <oVar>vocalisation</oVar> d'une consonne.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Système des voyelles d'une langue.</dictScrap>
 <cit>
 <quote>La vocalisation actuelle de l'hébreu telle que l'ont fixée les ponctuateurs</quote>
@@ -81911,10 +81729,7 @@
 </cit>
 </sense>
 <etym>Vocaliser.</etym>
-<re ana="supplement" orig=" VOCALISATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vocalise">
 <form>
@@ -82195,7 +82010,8 @@
 <biblScope>4 déc. 1673</biblScope>
 </bibl>
 </cit>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Terme de droit. <oVar>Vocation</oVar> testamentaire, droit conféré par un testament.</dictScrap>
 <cit>
 <quote>Qu'elle [la testatrice] avait non pas entendu soumettre la vocation des seconds institués à un cas spécial et déterminé, mais.... qu'il s'agit de décider si la vocation au legs universel s'est ouverte pour les mineurs</quote>
@@ -82277,10 +82093,7 @@
 
 </note>
 <etym>Provenç. vocatio ; espagn. vocacion ; ital. vocazione ; du lat. vocationem, de vocare, appeler (voy. <ref target="voyelle">VOYELLE</ref>).</etym>
-<re ana="supplement" orig=" VOCATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vocem">
 <form>
@@ -82783,7 +82596,8 @@
 <biblScope>Imagin. II</biblScope>
 </bibl>
 </cit>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap>à pleins vœux, autant que les vœux peuvent demander.</dictScrap>
 <cit>
 <quote>Que les peuples les plus puissants Dans nos souhaits à pleins vœux nous secondent</quote>
@@ -82886,10 +82700,7 @@
 
 </note>
 <etym>Provenç. vot ; espagn. et ital. voto ; du lat. votum, part. passé de vovere, qui se rattache au goth. vopjan, invoquer.</etym>
-<re ana="supplement" orig=" VŒU. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vogue">
 <form>
@@ -84314,7 +84125,8 @@
 <biblScope>Ém. II</biblScope>
 </bibl>
 </cit>
-</sense><sense n="23">
+</sense>
+<sense n="23" ana="supplement">
 <dictScrap>Hotte à claire-<oVar>voie</oVar>.</dictScrap>
 <cit>
 <quote>Ce sont les femmes qui récoltent les épinards, l'oseille, le persil, montent les voies.... le garçon qui conduit la voiture de légumes à la halle, décharge les voies, les mannes</quote>
@@ -84566,10 +84378,7 @@
 
 </note>
 <etym>Norm. vaie ; wall. vôie ; prov. esp. et it. via ; du lat. via, ou, dans le parler des gens de la campagne, veha, osque veia, chariot, qui se rapporte à vehere ; sanscr. vah, porter (voy. <ref target="véhicule">VÉHICULE</ref>).</etym>
-<re ana="supplement" orig=" VOIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="voilà">
 <form><orth>VOILÀ</orth><pron>voi-là ; vela dit par quelques-uns au XVIIe siècle, et condamné par Chifflet, Gramm. p. 201 ; c'est pour rendre cette prononciation, qui n'a pas disparu complétement, que Beaumarchais fait dire à Figaro : la v'là ! la v'là ! Barb. de Sév. I, 6 ; vela se disait aussi au XVIe siècle d'après H. Estienne</pron><gram>loc. prépos.</gram> qui est formée de l'impératif du verbe voir et de l'adverbe là : vois là. </form>
@@ -85173,6 +84982,16 @@
 <sense>
 <dictScrap>Prendre le <oVar>voile</oVar>, entrer au noviciat, prendre le <oVar>voile</oVar> que portent les novices.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>Le petit <oVar>voile</oVar>, <oVar>voile</oVar> que portent les femmes qui veulent être religieuses, avant de faire leurs vœux.</dictScrap>
+<cit>
+<quote>Elle [Salammbo] n'est qu'à demi prêtresse, ou plutôt elle n'est que dévote, et comme qui dirait, ayant le petit voile</quote>
+<bibl>
+<author>STE-BEUVE</author>
+<biblScope>Nouv. lundis, t. IV (Salammbo, par M. Flaubert, I).</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="5">
 <dictScrap>Par extension, l'étoffe dont se font les <oVar>voiles</oVar> des religieuses à quelque usage qu'on l'emploie. Un habit de <oVar>voile</oVar>. Manteau de <oVar>voile</oVar>.</dictScrap>
@@ -85450,19 +85269,8 @@
 <biblScope>1757</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Le petit <oVar>voile</oVar>, <oVar>voile</oVar> que portent les femmes qui veulent être religieuses, avant de faire leurs vœux.</dictScrap>
-<cit>
-<quote>Elle [Salammbo] n'est qu'à demi prêtresse, ou plutôt elle n'est que dévote, et comme qui dirait, ayant le petit voile</quote>
-<bibl>
-<author>STE-BEUVE</author>
-<biblScope>Nouv. lundis, t. IV (Salammbo, par M. Flaubert, I).</biblScope>
-</bibl>
-</cit>
 </sense>
-</sense><sense n="13">
+<sense n="13" ana="supplement">
 <dictScrap>Terme de photographie. Défectuosité de la couche sensible qui ne permet pas à la lumière d'agir sur elle.</dictScrap>
 <cit>
 <quote>Ces cristaux d'iodure d'argent réduit, quelquefois très abondants, constituent le voile, cause de fréquents insuccès [en photographie] ; ils se répandent souvent à la surface de la couche sensible comme un nuage impénétrable à la lumière</quote>
@@ -85523,11 +85331,7 @@
 
 </note>
 <etym>Prov. vel ; esp. et it. velo ; portug. veo ; du latin, velum, que l'on rattache au sanscr. var, couvrir, d'où le grec (voy. <ref target="élytre">ÉLYTRE</ref>).</etym>
-<re ana="supplement" orig=" 1. VOILE. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="voile.2">
 <form>
@@ -88394,7 +88198,8 @@
 <biblScope>Mis. II, 7</biblScope>
 </bibl>
 </cit>
-</sense><sense n="41">
+</sense>
+<sense n="41" ana="supplement">
 <dictScrap>Fig. Ne <oVar>voir</oVar> qu'un étang, ne plus savoir où l'on en est ; comme qui dirait : ne <oVar>voir</oVar> qu'un brouillard.</dictScrap>
 <cit>
 <quote>D'Aguesseau, dans sa surprise [quand il reçut du régent les sceaux, aux Tuileries], ne vit qu'un étang, et ne se remit que dans son carrosse en allant chez lui avec les sceaux</quote>
@@ -88876,10 +88681,7 @@
 
 </note>
 <etym>Wallon, veï ; Bresse, vay ; franc-comtois, voë ; bourguign. voi ; picard, vir ; norm. veir, prononcé tantôt vére, tantôt vé ; provenç. vezer ; catal. veurer ; espagn. ver ; ital. vedere ; du latin videre ; comparez le grec ; goth. veita ; sanscr. vid.</etym>
-<re ana="supplement" orig=" VOIR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="voire">
 <form>
@@ -89129,7 +88931,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Cour, dite aussi coche (voy. ce mot au Supplément), placée dans les abattoirs et destinée à recevoir la vidange des estomacs et des intestins des animaux.</dictScrap>
 </sense>
 <note type="H">
@@ -89197,10 +89000,7 @@
 
 </note>
 <etym>Voie.</etym>
-<re ana="supplement" orig=" VOIRIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="voirine">
 <form>
@@ -91570,7 +91370,8 @@
 <sense>
 <dictScrap><oVar>Vol</oVar> banneret, <oVar>vol</oVar> qui se met au cimier et qui est fait en bannière.</dictScrap>
 </sense>
-</sense><sense n="12">
+</sense>
+<sense n="12" ana="supplement">
 <dictScrap>En <oVar>vol</oVar>, s'est dit des volées des cloches.</dictScrap>
 <cit>
 <quote>Elle [la Georges-d'Amboise] fut sonnée en vol par seize hommes le 16 février 1502 ; et, à ce sujet, le Journal de Normandie du 25 juin 1762 fait cette réflexion : on y met à présent trente et même quarante hommes, qui n'ont pas la force de la sonner en vol</quote>
@@ -91646,10 +91447,7 @@
 
 </note>
 <etym>Voy. <ref target="voler.2">VOLER 2</ref>.</etym>
-<re ana="supplement" orig=" 1. VOL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vol.2">
 <form>
@@ -92355,7 +92153,8 @@
 <biblScope>Gaz. des Trib. 24 janv. 1877, p. 78, 3e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="15">
+</sense>
+<sense n="15" ana="supplement">
 <dictScrap>Terme de construction. Portée, longueur comprise entre les supports.</dictScrap>
 <cit>
 <quote>Un vaste grenier dont on a jeté les murs de refend par terre pour en faire une seule pièce, si grande maintenant, si disproportionnée, que le plancher a trop de volant, et qu'il s'effondrerait sur l'étage inférieur, si les enfants, toujours surveillés, n'étaient forcés de modérer leurs ébats</quote>
@@ -92400,13 +92199,7 @@
 
 </note>
 <etym>Voler 1.</etym>
-<re ana="supplement" orig=" 1. VOLANT. Ajoutez : ">
 
-
-
-
-
-</re>
 </entry>
 <entry xml:id="volant.2">
 <form>
@@ -92522,7 +92315,8 @@
 <biblScope>Gaz. des Trib. 9-10 mars 1874, p. 237, 1re col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Haut <oVar>volant</oVar>, instrument de boucherie.</dictScrap>
 <cit>
 <quote>Ils arrachent le vieillard de son lit, et lancent vers lui, l'un [boucher] plusieurs coups de son haut volant, l'autre de sa plane de sabotier</quote>
@@ -92567,11 +92361,7 @@
 </cit>
 
 </note>
-<re ana="supplement" orig=" 3. VOLANT. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="volante">
 <form>
@@ -93363,6 +93153,16 @@
 <biblScope>Lett. au roi de Prusse, 13 déc. 1782</biblScope>
 </bibl>
 </cit>
+<sense ana="supplement">
+<dictScrap>Être le premier de sa <oVar>volée</oVar>, être au premier rang parmi les gens de même âge, de même condition.</dictScrap>
+<cit>
+<quote>Il [Prévost-Paradol] en vint sans trop d'effort, au bout d'un an, à être le premier de sa volée, comme on disait autrefois</quote>
+<bibl>
+<author>STE-BEUVE</author>
+<biblScope>Nouv. lundis, t. I (M. Prévost-Paradol)</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="4">
 <dictScrap>Fig. Rang, qualité, élévation, mérite.</dictScrap>
@@ -93590,18 +93390,6 @@
 <biblScope>Mém. t. III, liv. IV, p. 209, dans POUGENS</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Être le premier de sa <oVar>volée</oVar>, être au premier rang parmi les gens de même âge, de même condition.</dictScrap>
-<cit>
-<quote>Il [Prévost-Paradol] en vint sans trop d'effort, au bout d'un an, à être le premier de sa volée, comme on disait autrefois</quote>
-<bibl>
-<author>STE-BEUVE</author>
-<biblScope>Nouv. lundis, t. I (M. Prévost-Paradol)</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <note type="H">
 
@@ -93819,10 +93607,7 @@
 
 </note>
 <etym>Voler 1 ; wallon, volaie ; provenç. volada ; ital. volata.</etym>
-<re ana="supplement" orig=" VOLÉE. ">
 
-
-</re>
 </entry>
 <entry xml:id="volement">
 <form>
@@ -95607,7 +95392,8 @@
 <biblScope>Hist. de la Révolution, t. III, p. 494</biblScope>
 </bibl>
 </cit>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Aujourd'hui, d'après la nouvelle loi militaire, jeune homme qui, passant avec succès un examen et versant une certaine somme, fait un an de service dans un régiment ; après quoi il appartient à la réserve.</dictScrap>
 </sense>
 <note type="H">
@@ -95704,10 +95490,7 @@
 
 </note>
 <etym>Prov. voluntairi ; esp. voluntario ; ital. volontario ; du lat. voluntarius (voy. <ref target="volonté">VOLONTÉ</ref>). L'ancienne langue avait volenteis, très usité.</etym>
-<re ana="supplement" orig=" VOLONTAIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="volontairement">
 <form>
@@ -97313,7 +97096,8 @@
 <sense>
 <dictScrap>S. f. Genre de plantes convolvulacées à fleurs en clochettes, synonyme vulgaire d'ipomée. On dit aussi volubilis.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fig. Qui se tourne suivant toutes les influences.</dictScrap>
 <cit>
 <quote>Les Grecs, déchus, privés de l'exercice des vertus publiques, devenaient, sauf de rares exceptions, plus légers, plus volubiles, plus sophistiques</quote>
@@ -97324,10 +97108,7 @@
 </cit>
 </sense>
 <etym>Lat. volubilis, qui s'enroule, de volvere, tourner (voy. <ref target="volume">VOLUME</ref>).</etym>
-<re ana="supplement" orig=" VOLUBILE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="volubilis">
 <form>
@@ -98057,7 +97838,8 @@
 <biblScope>Code civ. art. 1635</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qui ne se fait que pour le plaisir.</dictScrap>
 <cit>
 <quote>Les lieutenants de louveterie ne peuvent se livrer à une chasse purement voluptuaire</quote>
@@ -98086,10 +97868,7 @@
 
 </note>
 <etym>Lat. voluptuaris, de voluptas, volupté.</etym>
-<re ana="supplement" orig=" VOLUPTUAIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="voluptueusement">
 <form>
@@ -98425,14 +98204,12 @@
 </form>
 <sense>
 <dictScrap>Terme d'anatomie. Os impair qui forme la partie postérieure de la cloison des fosses nasales.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Genre de poissons acanthoptérygiens.</dictScrap>
 </sense>
 <etym>Lat. vomer, soc de charrue, à cause de la forme de cet os.</etym>
-<re ana="supplement" orig=" VOMER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vomi">
 <form>
@@ -99319,7 +99096,8 @@
 <sense>
 <dictScrap>Messe <oVar>votive</oVar>, messe dite dans une intention particulière, et qui n'est pas de l'office du jour.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fête <oVar>votive</oVar>, fête patronale, fête du patron à qui la localité est vouée.</dictScrap>
 <cit>
 <quote>À la fête votive des Bessons [Lozère]</quote>
@@ -99341,10 +99119,7 @@
 
 </note>
 <etym>Lat. votivus, de votum (voy. <ref target="vœu">VŒU</ref>).</etym>
-<re ana="supplement" orig=" VOTIF. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="votre">
 <form><orth>VOTRE</orth><pron>vo-tr'</pron>, au pluriel VOS (vô ; l's se lie : vô-z amis) 	<gram>adj. poss.</gram> </form>
@@ -99677,6 +99452,13 @@
 </sense>
 <sense n="2">
 <dictScrap>S. m. Ce qui vous appartient. Vous en serez du <oVar>vôtre</oVar>, vous perdrez tout ou partie de ce qui vous appartient.</dictScrap>
+<cit ana="supplement">
+<quote>Et quand la faim les poind, se prenant sur le vôtre</quote>
+<bibl>
+<author>RÉGNIER</author>
+<biblScope>Sat. II</biblScope>
+</bibl>
+</cit>
 <sense>
 <dictScrap>Ce qui vient de vous. Vous y avez mis du <oVar>vôtre</oVar>.</dictScrap>
 </sense>
@@ -99755,15 +99537,6 @@
 <bibl>
 <author>SÉV.</author>
 <biblScope>16</biblScope>
-</bibl>
-</cit>
-</sense><sense n="2">
-<dictScrap>Le <oVar>vôtre</oVar>, ce qui vous appartient. Ajoutez un exemple :</dictScrap>
-<cit>
-<quote>Et quand la faim les poind, se prenant sur le vôtre</quote>
-<bibl>
-<author>RÉGNIER</author>
-<biblScope>Sat. II</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -99850,10 +99623,7 @@
 
 </note>
 <etym>Picard, el veure, le vôtre, la vôtre ; du lat. vester (voy. <ref target="votre">VOTRE</ref>).</etym>
-<re ana="supplement" orig=" VÔTRE. ">
 
-
-</re>
 </entry>
 <entry xml:id="voué">
 <form>
@@ -101925,6 +101695,20 @@
 </sense>
 <sense n="2">
 <dictScrap>Qu'on a cherché à obtenir. Arriver au résultat <oVar>voulu</oVar>.</dictScrap>
+<cit ana="supplement">
+<quote>On donnera aux figures d'un tableau ou d'un groupe l'expression propre à l'action et voulue par la situation des personnages</quote>
+<bibl>
+<author>BOUTARD</author>
+<biblScope>Dict. des arts du dessin, verbo passion.</biblScope>
+</bibl>
+</cit>
+<cit ana="supplement">
+<quote>Des erreurs tantôt voulues, tantôt commises de bonne foi.... les erreurs voulues, autrement dit les iniquités qui surchargent les uns pour décharger les autres</quote>
+<bibl>
+<author>HORN</author>
+<biblScope>l'Écon. pol. avant les physiocr. ch. XI</biblScope>
+</bibl>
+</cit>
 <sense>
 <dictScrap>Terme de beaux-arts. Se dit de ce qui est fait dans une intention expresse et avec un soin particulier. Effet <oVar>voulu</oVar>.</dictScrap>
 <cit>
@@ -101969,23 +101753,8 @@
 <biblScope>1er dial.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>On donnera aux figures d'un tableau ou d'un groupe l'expression propre à l'action et voulue par la situation des personnages</quote>
-<bibl>
-<author>BOUTARD</author>
-<biblScope>Dict. des arts du dessin, verbo passion.</biblScope>
-</bibl>
-</cit>
-<cit>
-<quote>Des erreurs tantôt voulues, tantôt commises de bonne foi.... les erreurs voulues, autrement dit les iniquités qui surchargent les uns pour décharger les autres</quote>
-<bibl>
-<author>HORN</author>
-<biblScope>l'Écon. pol. avant les physiocr. ch. XI</biblScope>
-</bibl>
-</cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Bien <oVar>voulu</oVar>.  Ajoutez :</dictScrap>
 <cit>
 <quote>Après tout, une personne bien voulue a toujours de quoi vous contenter</quote>
@@ -101995,11 +101764,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" VOULU. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="vous">
 <form>
@@ -102706,6 +102471,12 @@
 </form>
 <sense n="1">
 <dictScrap>Fait en voûte. Un passage <oVar>voûté</oVar>.</dictScrap>
+<cit ana="supplement">
+<quote>Il [le prince Orlof] a fait creuser en automne les fondements d'une porte cochère, et, pendant les plus fortes gelées de l'hiver, il a fait remplir d'eau ces fondements, afin qu'elle se convertît en glace... au printemps on éleva dessus une porte cochère voûtée en briques et très solide ; elle existe depuis quatre ans, et elle existera, je crois, jusqu'à ce qu'on l'abatte</quote>
+<bibl>
+<biblScope>Lett. de Catherine II à Voltaire, 20 févr. (3 mars) 1773</biblScope>
+</bibl>
+</cit>
 <sense>
 <dictScrap>Terme d'histoire naturelle. Qui a la forme d'une voûte.</dictScrap>
 </sense>
@@ -102732,19 +102503,8 @@
 <sense>
 <dictScrap>Absolument. Courbé par l'âge. Il est déjà un peu <oVar>voûté</oVar>.</dictScrap>
 </sense>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>Il [le prince Orlof] a fait creuser en automne les fondements d'une porte cochère, et, pendant les plus fortes gelées de l'hiver, il a fait remplir d'eau ces fondements, afin qu'elle se convertît en glace... au printemps on éleva dessus une porte cochère voûtée en briques et très solide ; elle existe depuis quatre ans, et elle existera, je crois, jusqu'à ce qu'on l'abatte</quote>
-<bibl>
-<biblScope>Lett. de Catherine II à Voltaire, 20 févr. (3 mars) 1773</biblScope>
-</bibl>
-</cit>
 </sense>
-<re ana="supplement" orig=" VOÛTÉ. ">
 
-
-</re>
 </entry>
 <entry xml:id="voûter">
 <form>
@@ -103123,7 +102883,8 @@
 </sense>
 <sense n="7">
 <dictScrap>Anciennement, frais qu'on allouait à une partie ou à des témoins. Taxer les <oVar>voyages</oVar>.</dictScrap>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <cit>
 <quote>Autrefois, dans certains couvents, un voyage à Jérusalem, la prison perpétuelle à laquelle les religieux condamnaient un de leurs confrères, ainsi dit parce que, si on venait le demander, ils répondaient qu'il était allé faire un voyage à Jérusalem</quote>
 <bibl>
@@ -103223,10 +102984,7 @@
 
 </note>
 <etym>Berry, voyâge ; wallon, voyeg ; bourg. viaige ; mâconnais, vioge ; norm. viâge ; provenç. viatge ; espagn. viage ; portug. viagem ; ital. viaggio, du lat. viaticum, qui signifie provisions de voyage, mais qui est déjà pris au sens de voyage dans Venantius Fortunatus ; de via (voy. <ref target="voie">VOIE</ref>).</etym>
-<re ana="supplement" orig=" VOYAGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="voyageable">
 <form>
@@ -103564,7 +103322,8 @@
 <biblScope>Rev. des Deux-Mondes, 1er juill. 1872, p. 73</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Nom donné par les enfants aux graines de cha don que le vent meut dans l'air.</dictScrap>
 <cit>
 <quote>Pareils à ces vaporeuses graines des chardons que les enfants nomment des voyageurs</quote>
@@ -104811,9 +104570,16 @@
 
 </note>
 <etym>Provenç. verai ; du bas-lat. veragus qui se trouve dans un texte du VIIIe siècle, et qui provient du latin verus. L'ancienne langue disait aussi voire (voy. ce mot).</etym>
-<re ana="supplement" orig=" 2. VRAI (vrè), s. m. Nom vulgaire du varech. ">
-
-</re>
+</entry>
+<entry xml:id="vrai.2" ana="supplement">
+<form>
+<orth>VRAI</orth>
+<pron>vrè</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
+<dictScrap>Nom vulgaire du varech.</dictScrap>
+</sense>
 </entry>
 <entry xml:id="vraiment">
 <form>
@@ -105390,13 +105156,10 @@
 <sense>
 <dictScrap>Pirouetter en montant, suivant un mouvement hélicoïdal, comme certaines pièces d'artifice.</dictScrap>
 </sense>
-</sense><sense n="2">
+<sense ana="supplement">
 <dictScrap>V. n. Il se dit aussi d'un cordage, d'un cordonnet qui se tortille. Cette ralingue <oVar>vrille</oVar> toujours.</dictScrap>
 </sense>
-<re ana="supplement" orig=" VRILLER. ">
-
-
-</re>
+</sense>
 </entry>
 <entry xml:id="vrillerie">
 <form>
@@ -107340,7 +107103,8 @@
 <sense>
 <dictScrap>Terme de jeux. Être en <oVar>vue</oVar>, se dit quand, de l'endroit où est la boule, le joueur voit en plein l'archet de passe.</dictScrap>
 </sense>
-</sense><sense n="33">
+</sense>
+<sense n="33" ana="supplement">
 <dictScrap>à <oVar>vue</oVar> d'oiseau, de loin et de haut, comme voit l'oiseau qui plane dans l'air.</dictScrap>
 <cit>
 <quote>Il ne laissa pas de peindre à vue d'oiseau l'aspect de la chartreuse de Bourg-Fontaine et du pays des environs..., on l'employa aussi à peindre le couvent à vue d'oiseau</quote>
@@ -107524,10 +107288,7 @@
 
 </note>
 <etym>Vu ; wallon, veyow, veyaw, vuw ; Berry, vûte : il a perdu la vûte ; ital. veduta.</etym>
-<re ana="supplement" orig=" VUE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vulcain">
 <form>
@@ -107569,14 +107330,12 @@
 <biblScope>Rues de Paris, VIII</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+<sense ana="supplement">
 <dictScrap>Petite planète, qu'on croit exister entre Mercure et le soleil, et qui ferait sa révolution en quarante-deux jours et une demi-heure.</dictScrap>
 </sense>
+</sense>
 <etym>Lat. Vulcanus, que l'on compare au sanscr. védique ulkâ, feu, incendie.</etym>
-<re ana="supplement" orig=" VULCAIN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vulcanales">
 <form>
@@ -107890,7 +107649,8 @@
 </sense>
 <sense n="10">
 <dictScrap>Le <oVar>vulgaire</oVar>, nom donné aux langues romanes (langue d'oïl, langue d'oc, italien et espagnol), par opposition au latin qui était la langue savante.</dictScrap>
-</sense><sense n="11">
+</sense>
+<sense n="11" ana="supplement">
 <dictScrap>Terme de droit romain. Substitution <oVar>vulgaire</oVar>, substitution d'un héritier, faite par le testateur, à l'héritier institué, au cas qu'il ne se présente pas pour recueillir l'hérédité ; <oVar>vulgaire</oVar> signifie ici ordinaire, par opposition à la substitution pupillaire, dans laquelle le testateur substitue un héritier éventuel à son héritier réel, si ce dernier meurt impubère et avant d'avoir eu la capacité de tester lui-même (la substitution <oVar>vulgaire</oVar> est encore, sauf le nom, usitée en droit français ; la substitution pupillaire ne l'est plus).</dictScrap>
 <cit>
 <quote>Qu'à cet effet, elle [la testatrice] en avait institué deux [légataires] successivement, avec substitution vulgaire, le second devant éventuellement lui succéder à la place du premier..., les conditions jointes à la substitution vulgaire doivent être comprises lato sensu</quote>
@@ -107954,10 +107714,7 @@
 
 </note>
 <etym>Provenç. volgar, vulgar ; espagn. vulgar ; ital. volgare ; du latin, vulgaris, qui vient de vulgus, foule populaire ; comp. sanscr. varga, troupe, multitude. L'ancienne langue disait vulgal, et, à l'adverbe, vulgaument.</etym>
-<re ana="supplement" orig=" VULGAIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="vulgairement">
 <form>

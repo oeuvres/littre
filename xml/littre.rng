@@ -400,6 +400,7 @@
 						<ref name="cit"/>
 						<ref name="ref"/>
 						<ref name="oVar"/>
+						<ref name="xr"/>
           </choice>
 				</oneOrMore>
 			</choice>
