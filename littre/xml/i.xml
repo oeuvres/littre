@@ -1332,7 +1332,8 @@
 <biblScope>D. Juan, III, 2</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap><oVar>Ici</oVar>-haut, sur la terre, parmi les vivants.</dictScrap>
 <cit>
 <quote>Diogène là-bas est aussi riche qu'eux [les thésauriseurs], Et l'avare ici-haut comme lui vit en gueux</quote>
@@ -1451,10 +1452,7 @@
 
 </note>
 <etym>Bourg. iquy, icin ; pic. ichi, iki ; Berry, éci, écit ; norm. ichin ; prov. aici, aissi ; du lat. ecce hic, d'où eccic, d'après Diez, qui remarque que, dans des textes du VIIIe siècle, on avait, par un juste sentiment de l'étymologie, exprimé ici par ecce : parentes ecce habeo multos, j'ai ici beaucoup de parents. Ce qui assure cette étymologie, c'est qu'elle s'applique à ça, à icel, à iceste, et à toutes les formes congénères des langues sœurs.</etym>
-<re ana="supplement" orig=" ICI. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="icicane">
 <form>
@@ -2110,7 +2108,7 @@
 <sense>
 <dictScrap>Au plur. Faut-il dire des <oVar>idéals</oVar>, comme on dit des chorals, ou des <oVar>idéaux</oVar> ? L'usage n'a pas prononcé. L'adjectif fait <oVar>idéaux</oVar> au pluriel. Le substantif peut le suivre ; cependant il semble que les <oVar>idéals</oVar> conserve mieux le sens du mot et a une forme moins lourde ; en traduisant la pièce de Schiller intitulée die Ideale, ne vaudrait-il pas mieux dire les <oVar>Idéals</oVar> que les <oVar>Idéaux</oVar> ?</dictScrap>
 </sense>
-</sense><sense n="3">
+<sense ana="supplement">
 <dictScrap>Ajoutez : Sur la question, discutée au Dictionnaire, de savoir s'il faut dire, au pluriel, <oVar>idéaux</oVar> ou <oVar>idéals</oVar>, voici des exemples contradictoires.</dictScrap>
 <cit>
 <quote>On ne les aperçoit pas [le Christ et la Vierge] à la façon des personnages idéaux, reculés dans une antiquité lointaine, ou confinés dans un ciel supérieur : on les sent corporels</quote>
@@ -2119,8 +2117,16 @@
 <biblScope>Journ. des Débats, 18 nov. 1866</biblScope>
 </bibl>
 </cit>
-<dictScrap>Cette tendance réaliste..., qui consiste à déshabiller familièrement les <oVar>idéals</oVar> les mieux gardés par le charme ou le respect, AUBRYET, Monit. univ. 30 sept. 1867, p. 1257, 4e col. En prenant en considération les exemples du Dictionnaire et ceux du Supplément, on peut penser qu'il est préférable de dire, comme M. Taine, <oVar>idéaux</oVar> au pluriel de l'adjectif ; mais que, au pluriel du substantif, les <oVar>idéals</oVar> est admissible comme présentant plus rapidement à l'esprit le sens de ce mot, qui, en cet emploi, n'est pas ancien.</dictScrap>
+<cit>
+<quote>Cette tendance réaliste..., qui consiste à déshabiller familièrement les <oVar>idéals</oVar> les mieux gardés par le charme ou le respect</quote>
+<bibl>
+<author>AUBRYET</author>
+<biblScope>Monit. univ. 30 sept. 1867, p. 1257, 4e col</biblScope>
+</bibl>
+</cit>
 </sense>
+</sense>
+<note ana="supplement" type="R">En prenant en considération les exemples du Dictionnaire et ceux du Supplément, on peut penser qu'il est préférable de dire, comme M. Taine, <oVar>idéaux</oVar> au pluriel de l'adjectif ; mais que, au pluriel du substantif, les <oVar>idéals</oVar> est admissible comme présentant plus rapidement à l'esprit le sens de ce mot, qui, en cet emploi, n'est pas ancien.</note>
 <re type="S">IDÉAL, CHIMÈRE, UTOPIE. Gardons-nous de confondre l'idéal et la chimère ; la chimère est une fantaisie, une imagination sans raison, une conception contre nature ; les anciens en donnaient bien l'idée quand ils formaient leurs chimères de parties qui ne peuvent aller ensemble, le corps d'une chèvre, la tête d'un lion et la queue d'un dragon ; l'idéal n'est point cela : il n'est rien de monstrueux ; c'est proprement une chose existante prise dans sa perfection ; sans doute cette perfection n'est pas actuellement réalisée, mais la réalité y tend, c'est sa destinée, sa règle, l'ordre le meilleur où elle puisse être, et où elle s'efforce de se placer, c'est, dans la vie privée, la sainteté, dans la vie publique, la justice et la fraternité la plus complète, c'est-à-dire la perfection ; et il est également sûr que l'homme y tend et qu'il n'y arrivera jamais.  <cit><quote>On reconnaît ici quelle ligne délicate sépare l'idéal et l'utopie : il s'agit de décider à quel point de perfection il est permis d'atteindre, et de ne pas passer au delà ; or il n'est pas aisé de marquer ce point, car l'homme et la société ont causé et réservent encore plus d'une surprise à ceux qui prétendent les borner</quote><bibl><author>E. BERSOT</author><biblScope>J. Débats du 22 oct. 1864</biblScope></bibl></cit> </re>
 <note type="H">
 
@@ -4962,7 +4968,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Coquille du genre cérite.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>If</oVar> à bouteilles, instrument qui a une forme d'<oVar>if</oVar> et qui sert à mettre égoutter les bouteilles.</dictScrap>
 <cit>
 <quote>Fabricant de planches ou ifs à bouteilles</quote>
@@ -4993,10 +5000,7 @@
 
 </note>
 <etym>Bas-lat. ippus ; norm. i : un bel i ; espagn. et portug. iva ; de l'anc. h. allem. iwa ; allem. mod. Eibe ; ou du celtique qui ici se confond avec l'allemand : kimry, yw ; bas-bret. ivin ; cornouaille du IXe siècle, hivin ; angl. yew.</etym>
-<re ana="supplement" orig=" IF. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="iffle">
 <form>
@@ -7664,7 +7668,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme d'Église. Transport ou retour des reliques d'un saint.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Fig. Action d'inférer, conséquence.</dictScrap>
 <cit>
 <quote>Vous voyez assez clairement, par ce peu que je vous ai dit, et l'impiété de leur demande et l'impertinence de leur illation</quote>
@@ -7686,10 +7691,7 @@
 
 </note>
 <etym>Lat. illationem, de il pour in, dans, et latio, action de porter.</etym>
-<re ana="supplement" orig=" ILLATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="illec">
 <form>
@@ -7981,7 +7983,8 @@
 <sense>
 <dictScrap>Parti opposé à la légitimité, au droit des dynasties.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Injustice, déraison.</dictScrap>
 <cit>
 <quote>Sur cette question de l'immoralité et de l'illégitimité de la contrainte par corps</quote>
@@ -9066,7 +9069,8 @@
 <biblScope>Hist. de Nap. VIII, 11</biblScope>
 </bibl>
 </cit>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Tulle-<oVar>illusion</oVar>, voy. TULLE au Supplément.</dictScrap>
 </sense>
 <re type="S">ILLUSION, CHIMÈRE. L'illusion est l'effet d'une apparence trompeuse qui nous déçoit. La chimère est indépendante de toute apparence, et la cause en est purement imaginaire. Avoir une illusion, c'est voir d'une manière fausse des choses qui existent ou peuvent exister ; au lieu que les chimères sont sans aucun point de départ réel ou objectif. </re>
@@ -9227,7 +9231,8 @@
 </form>
 <sense>
 <dictScrap>Celui qui donne du lustre, de l'éclat.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Dessinateur pour les ouvrages illustrés.</dictScrap>
 <cit>
 <quote>L'illustrateur, qu'on nous pardonne ce néologisme qui n'en est presque plus un, ne doit voir qu'avec les yeux d'un autre</quote>
@@ -9259,10 +9264,7 @@
 
 </note>
 <etym>Illustrer.</etym>
-<re ana="supplement" orig=" ILLUSTRATEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="illustration">
 <form>
@@ -9952,6 +9954,12 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap><oVar>Image</oVar> réelle, celle qui est formée par des rayons lumineux qui se réunissent effectivement, et qu'on peut recevoir sur un écran.</dictScrap>
+</sense>
+<sense ana="supplement">
+<dictScrap><oVar>Image</oVar> virtuelle, celle qui serait déterminée par la rencontre des prolongements des rayons lumineux.</dictScrap>
+</sense>
 </sense>
 <sense n="3">
 <dictScrap>Représentation de quelque chose en sculpture, en peinture, en gravure, en dessin.</dictScrap>
@@ -10247,14 +10255,6 @@
 </sense>
 <sense n="11">
 <dictScrap>Terme d'entomologie. Nom de l'insecte qui a subi toutes ses métamorphoses.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Terme d'optique. Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Image</oVar> réelle, celle qui est formée par des rayons lumineux qui se réunissent effectivement, et qu'on peut recevoir sur un écran.</dictScrap>
-</sense>
-<sense>
-<dictScrap><oVar>Image</oVar> virtuelle, celle qui serait déterminée par la rencontre des prolongements des rayons lumineux.</dictScrap>
-</sense>
 </sense>
 <note type="H">
 
@@ -10372,10 +10372,7 @@
 
 </note>
 <etym>Berry et bourguign. imaige ; provenç. image, emage ; espagn. imagen ; portug. imagem ; ital. image, imagine ; du latin imaginem, dans lequel on aperçoit un rapport avec imitari, imiter, sans pouvoir remonter à un radical commun.</etym>
-<re ana="supplement" orig=" IMAGE. ">
 
-
-</re>
 </entry>
 <entry xml:id="imagé">
 <form>
@@ -13643,7 +13640,8 @@
 </form>
 <sense>
 <dictScrap>Qui ne mérite pas d'être rapporté, rappelé à la mémoire.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Il se dit aussi pour immémorial.</dictScrap>
 <cit>
 <quote>Le gouvernement, en leur imposant un serment de date presque immémorable,...</quote>
@@ -14673,7 +14671,8 @@
 </form>
 <sense>
 <dictScrap>Terme de jurisprudence. Action d'immobiliser; le résultat de cette action. <oVar>Immobilisation</oVar> de rentes sur l'Etat.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Dans le langage commun, action de rendre immobile, d'empêcher le mouvement, le progrès.</dictScrap>
 <cit>
 <quote>Il [Herder] n'a pas montré moins de sagacité, ni une intelligence moins sûre des conditions de l'art, en protestant contre l'immobilisation à laquelle semblaient le condamner Winckelmann et les admirateurs exclusifs de l'antiquité</quote>
@@ -14684,10 +14683,7 @@
 </cit>
 </sense>
 <etym>Immobiliser.</etym>
-<re ana="supplement" orig=" IMMOBILISATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="immobilisé">
 <form>
@@ -16357,7 +16353,8 @@
 <biblScope>Sermons, Mort, 2</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <cit>
 <quote>Arbre immortel, l'erythrina corallodendron, L., l'endrachium madagascariense</quote>
 <bibl>
@@ -16417,10 +16414,7 @@
 
 </note>
 <etym>Provenç. et espagn. immortal ; ital. immortale ; du lat. immortalis, de in négatif, et mortalis, mortel.</etym>
-<re ana="supplement" orig=" IMMORTEL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="immortelle">
 <form>
@@ -17044,12 +17038,10 @@
 <sense>
 <dictScrap>Jouer à pair ou <oVar>impair</oVar>, donner à deviner si des objets qu'on tient dans la main fermée sont en nombre pair ou <oVar>impair</oVar>.</dictScrap>
 </sense>
-</sense><sense n="3">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>Un double <oVar>impair</oVar>, action, quand on joue à l'<oVar>impair</oVar>, de le prendre deux fois.</dictScrap>
 </sense>
-<sense>
+<sense ana="supplement">
 <dictScrap>Fig.</dictScrap>
 <cit>
 <quote>Il est inexact.... que la préfecture de Seine-et-Oise soit décidément donnée à M. de K.... [du parti républicain], qui serait remplacé à Marseille par M. V.... [du même parti] ; ce serait là un double impair que ne fera pas le gouvernement</quote>
@@ -17072,10 +17064,7 @@
 
 </note>
 <etym>Im... négatif, et pair, lat. impar.</etym>
-<re ana="supplement" orig=" IMPAIR. ">
 
-
-</re>
 </entry>
 <entry xml:id="impairement">
 <form>
@@ -22779,7 +22768,8 @@
 <sense>
 <dictScrap>Absolument et impersonnellement. Il <oVar>implique</oVar> de dire que....</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>V. réfl. S'<oVar>impliquer</oVar>, s'embarrasser.</dictScrap>
 <cit>
 <quote>Comme tous ceux qui courent dans un labyrinthe, nous nous impliquons toujours davantage</quote>
@@ -22823,10 +22813,7 @@
 
 </note>
 <etym>Provenç. inplicar ; espagn. implicar ; ital. implicare ; du lat. implicare, de in, en, dans, et plicare (voy. <ref target="plier">PLIER</ref>).</etym>
-<re ana="supplement" orig=" IMPLIQUER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="implorable">
 <form>
@@ -23201,21 +23188,19 @@
 <biblScope>Mém. t. II, p. 81</biblScope>
 </bibl>
 </cit>
-<sense>
-<dictScrap>Il se dit aussi des choses. Réponse pleine d'<oVar>impolitesse</oVar>. Langage d'une <oVar>impolitesse</oVar> grossière.</dictScrap>
-</sense>
-</sense>
-<sense n="2">
-<dictScrap>Action, procédé contraire à la politesse. Il m'a fait une <oVar>impolitesse</oVar>. Je n'ai reçu de lui que des <oVar>impolitesses</oVar>.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>À moins d'être du peuple, on ne dit point ma femme ; C'est une impolitesse à faire rendre l'âme</quote>
 <bibl>
 <author>BOURSAULT</author>
 <biblScope>Mots à la mode, I, 3</biblScope>
 </bibl>
 </cit>
+<sense>
+<dictScrap>Il se dit aussi des choses. Réponse pleine d'<oVar>impolitesse</oVar>. Langage d'une <oVar>impolitesse</oVar> grossière.</dictScrap>
+</sense>
+</sense>
+<sense n="2">
+<dictScrap>Action, procédé contraire à la politesse. Il m'a fait une <oVar>impolitesse</oVar>. Je n'ai reçu de lui que des <oVar>impolitesses</oVar>.</dictScrap>
 </sense>
 <note type="R">Mot nouveau au XVIIe siècle.  <cit><quote>Quelques-uns emploient inaction, et je m'aperçois qu'impolitesse commence fort à s'établir</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. II, p. 1034</biblScope></bibl></cit> </note>
 <etym>Im...., et politesse.</etym>
@@ -23326,14 +23311,12 @@
 <sense>
 <dictScrap>Substantivement. Les <oVar>impondérables</oVar>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Sirop <oVar>impondérable</oVar>, nom donné à un sirop de glycose très concentré et devenu tellement visqueux que l'aréomètre ne peut plus y flotter librement ; les sirops <oVar>impondérables</oVar> sont très recherchés par les liquoristes, les confiseurs, etc.</dictScrap>
 </sense>
 <etym>Im...., et pondérable.</etym>
-<re ana="supplement" orig=" IMPONDÉRABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="impondéré">
 <form>
@@ -24794,7 +24777,8 @@
 <biblScope>Bérén. II, 4</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>S'<oVar>importuner</oVar>, être ennuyé, fatigué.</dictScrap>
 <cit>
 <quote>Chrysippe.... s'importunait tellement d'être salué, qu'il en était à la mort</quote>
@@ -24852,10 +24836,7 @@
 
 </note>
 <etym>Importun.</etym>
-<re ana="supplement" orig=" IMPORTUNER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="importunité">
 <form>
@@ -28203,7 +28184,8 @@
 <sense>
 <dictScrap>Faire <oVar>impression</oVar> se dit aussi, en termes militaires, de l'action du feu sur une troupe. Le feu de l'ennemi fit <oVar>impression</oVar> sur nos régiments.</dictScrap>
 </sense>
-</sense><sense n="11">
+</sense>
+<sense n="11" ana="supplement">
 <dictScrap>Au plur. Terme d'administration. Nom donné aux feuilles de papiers imprimés dont les employés se servent dans les diverses parties de leur service. Frais de transport des papiers timbrés, registres et <oVar>impressions</oVar>, Extrait de l'arrêté du Directeur général de l'enregistrement du 2 mars 1860 sur l'organisation de l'administration centrale.</dictScrap>
 </sense>
 <note type="H">
@@ -28304,10 +28286,7 @@
 
 </note>
 <etym>Provenç. empressio ; espagn. impressione ; du latin impressionem, de impressum, supin de imprimere (voy. <ref target="imprimer">IMPRIMER</ref>).</etym>
-<re ana="supplement" orig=" IMPRESSION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="impressionnabilité">
 <form>
@@ -28317,7 +28296,8 @@
 </form>
 <sense>
 <dictScrap>Néologisme. Qualité de ce qui est impressionnable ou susceptible d'impression.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Capacité à recevoir une impression physique.</dictScrap>
 <cit>
 <quote>Explication de l'impressionnabilité des faces noires du radiomètre</quote>
@@ -28327,10 +28307,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" IMPRESSIONNABILITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="impressionnable">
 <form>
@@ -30954,7 +30931,8 @@
 <biblScope>Phèdre, IV, 2</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Arbre <oVar>impudique</oVar> ou indécent, plusieurs pandanus, BAILLON, Dict. de bot. p. 247.</dictScrap>
 </sense>
 <note type="H">
@@ -30970,10 +30948,7 @@
 
 </note>
 <etym>Lat. impudicus, de in négatif, et pudicus, pudique.</etym>
-<re ana="supplement" orig=" IMPUDIQUE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="impudiquement">
 <form>
@@ -32832,14 +32807,12 @@
 <biblScope>Agathocle, II, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Qu'on ne peut acheter à cause du prix trop élevé. Ces étoffes sont inabordables.</dictScrap>
 </sense>
 <etym>In.... 1, et abordable.</etym>
-<re ana="supplement" orig=" INABORDABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inabordé">
 <form>
@@ -35307,7 +35280,8 @@
 </form>
 <sense>
 <dictScrap>Qui est sans art, non artificiel.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme de droit. Preuves inartificielles, preuves qu'il n'est pas besoin de raisonnement pour trouver.</dictScrap>
 <cit>
 <quote>Aristote distingue les preuves en artificielles et inartificielles ; cette distinction est adoptée par Cicéron, Quintilien et tous les rhéteurs : les premières sont celles qu'on tire du raisonnement ; les secondes sont celles que l'on trouve toutes faites, comme les lois, les actes, les dépositions des témoins, et que l'on ne fait que mettre en usage</quote>
@@ -35330,10 +35304,7 @@
 
 </note>
 <etym>Lat. inartificialis, de in (voy. in.... 1), et artificialis, artificiel.</etym>
-<re ana="supplement" orig=" INARTIFICIEL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inartificieux">
 <form>
@@ -38635,7 +38606,8 @@
 <dictScrap>Terme de grammaire. Qualité, nature d'une proposition incidente. Il ne faut pas confondre l'<oVar>incidence</oVar> avec la subordination.</dictScrap>
 </sense><sense n="4" ana="supplement">
 <dictScrap>Terme d'artillerie. L'angle d'<oVar>incidence</oVar> d'un projectile est l'angle que la tangente à sa trajectoire forme, au point de chute, avec le terrain.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Terme d'administration financière. Fait d'un impôt qui tombe, qui porte sur telle ou telle classe d'individus.</dictScrap>
 <cit>
 <quote>M. Léon Say a remarqué avec beaucoup de finesse et de sagacité que la loi n'est pas aussi maîtresse qu'on le croit généralement de régler l'incidence des impôts</quote>
@@ -38673,11 +38645,7 @@
 
 </note>
 <etym>Incident 2. Incidence dans l'historique veut dire incident.</etym>
-<re ana="supplement" orig=" INCIDENCE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="incident.1">
 <form>
@@ -43087,7 +43055,8 @@
 <sense>
 <dictScrap>Terme de droit canon. Se dit des offices et des charges qui ne peuvent être possédés en même temps par une même personne.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Absolument. Il est <oVar>incompatible</oVar>, il répugne, il ne se peut.</dictScrap>
 <cit>
 <quote>Je n'ose.... ni espérer ni promettre qu'en ma façon de vivre ordinaire il n'y ait encore je ne sais quoi qui a besoin de changement ; est-il incompatible aussi qu'en moi ne se rencontrent beaucoup de choses qu'il faut.... corriger ?</quote>
@@ -43155,10 +43124,7 @@
 
 </note>
 <etym>In.... 1, et compatible.</etym>
-<re ana="supplement" orig=" INCOMPATIBLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="incompatiblement">
 <form>
@@ -44075,7 +44041,8 @@
 <sense>
 <dictScrap>S. m. L'<oVar>inconditionnel</oVar>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>En général, qui n'est soumis à aucune condition.</dictScrap>
 <cit>
 <quote>Alors même qu'il serait démontré que T.... aurait, le 10 avril 1874, promis sa souscription inconditionnelle, il ne saurait être considéré comme ayant jamais été accepté ni inscrit à titre d'actionnaire</quote>
@@ -44085,10 +44052,7 @@
 </cit>
 </sense>
 <etym>In.... 1, et conditionnel.</etym>
-<re ana="supplement" orig=" INCONDITIONNEL, ELLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inconditionnellement">
 <form>
@@ -44823,14 +44787,12 @@
 </form>
 <sense>
 <dictScrap>Terme de psychologie. Qui n'a pas conscience de soi-même. Il y a dans le sommeil des actions <oVar>inconscientes</oVar>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>S. m. Terme de philosophie. L'<oVar>inconscient</oVar>, la partie des actions naturelles qui n'ont pas conscience d'elles-mêmes. La philosophie de l'<oVar>inconscient</oVar>, système de philosophie de M. de Hartmann.</dictScrap>
 </sense>
 <etym>In.... 1, et conscient.</etym>
-<re ana="supplement" orig=" INCONSCIENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inconséquemment">
 <form>
@@ -45246,7 +45208,8 @@
 </form>
 <sense>
 <dictScrap>Qui manque de consistance morale. Un homme <oVar>inconsistant</oVar>. Une conduite <oVar>inconsistante</oVar>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Au propre, sans fixité.</dictScrap>
 <cit>
 <quote>En temps de paix, les Lyssous passent leur temps à la chasse ou à l'agriculture ; mais leurs établissements agricoles sont inconsistants</quote>
@@ -45256,10 +45219,7 @@
 </cit>
 </sense>
 <etym>In.... 1, et consistant.</etym>
-<re ana="supplement" orig=" INCONSISTANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inconsolable">
 <form>
@@ -46747,7 +46707,8 @@
 <biblScope>Russie, I, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Terme anglais. Qui a reçu une charte, un titre d'institution.</dictScrap>
 <cit>
 <quote>Dès ce moment la Société protectrice pour les enfants des rues était définitivement instituée, et, trois ans après, elle était officiellement reconnue, incorporée par un acte de la législature de l'État de New-York</quote>
@@ -46764,10 +46725,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" INCORPORÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="incorporéité">
 <form>
@@ -47884,7 +47842,8 @@
 <biblScope>Phil. Newt. inst. phys. Expos.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Dans le langage général, ce qui vient s'ajouter.</dictScrap>
 <cit>
 <quote>La valeur, expression de la liberté, incrément de la personnalité du travailleur, est de toutes les choses humaines, celle qui répugne le plus à toute espèce de réglementation</quote>
@@ -47895,10 +47854,7 @@
 </cit>
 </sense>
 <etym>Lat. incrementum, accroissement, de in.... 2, et crescere, croître. Paré, XXII, 10, l'a employé au sens d'augment [d'une maladie].</etym>
-<re ana="supplement" orig=" INCRÉMENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="incriminable">
 <form>
@@ -52291,14 +52247,12 @@
 </sense>
 <sense n="5">
 <dictScrap>S. m. Genre d'oiseaux.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap><oVar>Indicateur</oVar> de Watt, instrument qui sert à déterminer la pression qui existe dans le cylindre d'une machine à vapeur.</dictScrap>
 </sense>
 <etym>Indiquer.</etym>
-<re ana="supplement" orig=" INDICATEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indicatif.1">
 <form>
@@ -52324,7 +52278,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Colonnes indicatives, celles qui servent à marquer les marées, sur les côtes de l'Océan.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>S. m. Terme de télégraphie électrique. Nom donné aux combinaisons employées pour désigner les bureaux télégraphiques.</dictScrap>
 <cit>
 <quote>Les indicatifs sont formés de la première lettre ou de la réunion de plusieurs des lettres formant le nom des bureaux : exemple, P. pour Paris, L. M. pour Le Mans</quote>
@@ -52356,10 +52311,7 @@
 
 </note>
 <etym>Provenç. indicatiu ; espagn. et ital. indicativo ; du lat. indicativus, de indicare, indiquer.</etym>
-<re ana="supplement" orig=" 1. INDICATIF. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indicatif.2">
 <form>
@@ -52551,7 +52503,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Synonyme peu usité d'index, au sens de catalogue imprimé des livres défendus à Rome.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Terme d'anthropologie. Moyen d'indiquer les dimensions du crâne.</dictScrap>
 <sense>
 <dictScrap><oVar>Indice</oVar> céphalique, rapport de la largeur maximum du crâne à sa longueur maximum, qui alors est toujours représentée par 100 ; lorsqu'on dit que l'<oVar>indice</oVar> céphalique est 83, on entend que la largeur du crâne est les 0,83 de sa longueur.</dictScrap>
@@ -52590,10 +52543,7 @@
 
 </note>
 <etym>Lat. indicium, de même racine que indicare, indiquer.</etym>
-<re ana="supplement" orig=" INDICE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indiciaire">
 <form>
@@ -53917,7 +53867,8 @@
 <biblScope>phys. du goût, 10e aphor.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>V. a. Causer une indigestion.</dictScrap>
 <cit>
 <quote>Témoin le docteur Malouet, qui en absorbait des quantités [de truffes] à indigérer un éléphant</quote>
@@ -53928,10 +53879,7 @@
 </cit>
 </sense>
 <etym>In.... 1, et digérer.</etym>
-<re ana="supplement" orig=" INDIGÉRER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indigeste">
 <form>
@@ -55249,7 +55197,8 @@
 <sense>
 <dictScrap>Particulièrement, marqué par quelques traits, sans dessin complet ou achevé. La forme n'est qu'<oVar>indiquée</oVar>.</dictScrap>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Homme <oVar>indiqué</oVar>, homme que sa situation, les circonstances désignent pour tel ou tel poste.</dictScrap>
 <cit>
 <quote>Vous n'avez pas eu le choix ; j'étais, ce qu'on appelle en termes vulgaires de la politique, indiqué ; vous n'avez pas hésité, je n'ai pas hésité davantage à accepter le fardeau</quote>
@@ -55259,10 +55208,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" INDIQUÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indiquer">
 <form><orth>INDIQUER</orth><pron>in-di-ké</pron>, j'indiquais, nous indiquions, vous indiquiez ; que j'indique, que nous indiquions, que vous indiquiez, v. a. </form>
@@ -55341,7 +55287,8 @@
 <biblScope>25 août 1677</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fixer la date d'une convocation.</dictScrap>
 <cit>
 <quote>Le roi commanda à M. le chancelier de l'indire [une assemblée du clergé] à Montargis, et de l'éloigner de Paris, pour éviter toutes les ligues et factions des esprits remuants</quote>
@@ -55352,10 +55299,7 @@
 </cit>
 </sense>
 <etym>Lat. Indicere ( le 2nd i est un i long), prescrire, de in.... 2, dans, et dicere, dire.</etym>
-<re ana="supplement" orig=" INDIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indirect">
 <form>
@@ -55785,7 +55729,8 @@
 </sense>
 <sense n="2">
 <dictScrap>D'une manière indiscrète, en laissant aller un secret. Il a parlé <oVar>indiscrètement</oVar>.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Sans réflexion, sans bien apprécier les choses.</dictScrap>
 <cit>
 <quote>La plupart du monde, voire même de ceux qui font profession de sagesse, n'estiment pas, comme ils doivent, les biens que les dieux nous ont faits, et en parlent indiscrètement</quote>
@@ -55825,10 +55770,7 @@
 
 </note>
 <etym>Indiscrète, et le suffixe ment.</etym>
-<re ana="supplement" orig=" INDISCRÈTEMENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="indiscrétion">
 <form>
@@ -56162,7 +56104,8 @@
 </form>
 <sense>
 <dictScrap>État d'une chose dont on ne peut disposer.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme d'administration. État d'une personne dont on ne peut disposer, qui est indisposée. Le nombre des journées d'<oVar>indisponibilité</oVar> par homme dans l'armée.</dictScrap>
 </sense>
 <re ana="supplement" orig=" INDISPONIBILITÉ. Ajoutez : ">
@@ -56186,7 +56129,8 @@
 <dictScrap>Terme de jurisprudence. Dont les lois ne permettent pas de disposer, en parlant des biens.</dictScrap>
 </sense><sense n="2" ana="supplement">
 <dictScrap>En général, dont on ne peut se servir, qu'on ne peut employer. Les cavaliers [non montés] ont pour mission.... de conduire en main les chevaux des officiers ou ceux qui étaient momentanément <oVar>indisponibles</oVar>, CHARRETON, Rapport sur la constitution des cadres et des effectifs de l'armée active et de l'armée territoriale, p. 93.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Terme d'administration militaire. Se dit des hommes dont on ne peut disposer pour le service.</dictScrap>
 <cit>
 <quote>Aux termes des instructions ministérielles sont seuls dispensés de répondre à cet appel [pour l'armée territoriale] les hommes classés dans la catégorie des indisponibles, c'est-à-dire les magistrats de l'ordre judiciaire, les commissaires de police, les employés des chemins de fer, des postes, des télégraphes, des établissements de la guerre et de la marine, et les sapeurs-pompiers des places fortes</quote>
@@ -56196,11 +56140,7 @@
 </cit>
 </sense>
 <etym>In.... 1, et disponible.</etym>
-<re ana="supplement" orig=" INDISPONIBLE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="indispos">
 <form>
@@ -56289,7 +56229,8 @@
 <biblScope>Sermons, 2e exhort. pour une visite</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Indisposer</oVar>, mal préparer à une chose.</dictScrap>
 <cit>
 <quote>Ne vous engouez point de certaines conversations de politique ou de joli badinage, qui vous dissipent, qui vous indisposent au recueillement et à l'oraison</quote>
@@ -56312,11 +56253,7 @@
 
 </note>
 <etym>In.... 1, et disposer.</etym>
-<re ana="supplement" orig=" INDISPOSER. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="indisposition">
 <form>
@@ -56679,12 +56616,7 @@
 </form>
 <sense n="1">
 <dictScrap>État de ce qui est indistinct.</dictScrap>
-</sense>
-<sense n="2">
-<dictScrap>Défaut de distinction dans l'air et les manières. L'<oVar>indistinction</oVar> de sa personne.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Cette indistinction de figures [dans la notation de la musique ancienne] dura, selon l'opinion commune, jusqu'en 1330</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
@@ -56692,11 +56624,11 @@
 </bibl>
 </cit>
 </sense>
+<sense n="2">
+<dictScrap>Défaut de distinction dans l'air et les manières. L'<oVar>indistinction</oVar> de sa personne.</dictScrap>
+</sense>
 <etym>In.... 1, et distinction.</etym>
-<re ana="supplement" orig=" INDISTINCTION. ">
 
-
-</re>
 </entry>
 <entry xml:id="indistingué">
 <form>
@@ -60926,9 +60858,7 @@
 <biblScope>Du caract.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap><oVar>Inégalité</oVar> de style en un sens favorable.</dictScrap>
 <cit>
 <quote>Il faut reconnaître que tout discours doit avoir des inégalités ; il faut être grand dans les grandes choses ; il faut être simple, sans être bas, dans les petites....</quote>
@@ -60983,10 +60913,7 @@
 
 </note>
 <etym>Inégal ; lat. inaequalitatem, de in.... 1, et aequalitas, égalité.</etym>
-<re ana="supplement" orig=" INÉGALITÉ. ">
 
-
-</re>
 </entry>
 <entry xml:id="inélastique">
 <form>
@@ -64801,7 +64728,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Les enfants, ce qui concerne les enfants (sens aujourd'hui inusité).</dictScrap>
 <cit>
 <quote>Il emmène toute l'infanterie de M. de Créquy</quote>
@@ -64838,10 +64766,7 @@
 
 </note>
 <etym>Ital. infanteria, le même que fanteria, dé rivé de fante, petit garçon, valet, fantassin ; fante est une apocope du lat. infantem, enfant (voy. <ref target="enfant">ENFANT</ref>).</etym>
-<re ana="supplement" orig=" INFANTERIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="infanticide.1">
 <form>
@@ -65357,9 +65282,7 @@
 </sense>
 <sense n="2">
 <dictScrap>Qui excite un dégoût moral, en parlant des personnes et des choses (emploi qui avait existé, comme on peut voir à l'historique, et que le langage moderne renouvelle). Tout cela est <oVar>infect</oVar>.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Un salmigondis infect d'absurdités et d'incohérences</quote>
 <bibl>
 <author>BABEUF</author>
@@ -67543,7 +67466,8 @@
 <biblScope>506, 154</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Exiguïté extrême, en parlant d'une valeur, d'un produit.</dictScrap>
 <cit>
 <quote>La médiocrité, l'infimité visible du chiffre de l'indemnité</quote>
@@ -67553,10 +67477,7 @@
 </cit>
 </sense>
 <etym>Lat. infimitatem, de infimus, infime.</etym>
-<re ana="supplement" orig=" INFIMITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="infini">
 <form>
@@ -70399,15 +70320,7 @@
 </bibl>
 </cit>
 </sense>
-</sense>
-<sense n="2">
-<dictScrap>Terme de jurisprudence. Qui n'est pas revêtu des formes prescrites. Cet acte est <oVar>informe</oVar>.</dictScrap>
-</sense>
-<sense n="3">
-<dictScrap>Ancien terme d'astronomie. Étoiles <oVar>informes</oVar>, dites aussi sparsiles, celles qui n'entrent pas dans les constellations.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>Substantivement.</dictScrap>
 <cit>
 <quote>Quand il [l'esprit] essaye d'y penser [à la matière] au moyen d'un certain raisonnement bâtard, il ne reçoit que l'impression de l'informe</quote>
@@ -70417,6 +70330,12 @@
 </bibl>
 </cit>
 </sense>
+</sense>
+<sense n="2">
+<dictScrap>Terme de jurisprudence. Qui n'est pas revêtu des formes prescrites. Cet acte est <oVar>informe</oVar>.</dictScrap>
+</sense>
+<sense n="3">
+<dictScrap>Ancien terme d'astronomie. Étoiles <oVar>informes</oVar>, dites aussi sparsiles, celles qui n'entrent pas dans les constellations.</dictScrap>
 </sense>
 <note type="H">
 
@@ -70431,10 +70350,7 @@
 
 </note>
 <etym>Lat. informis, de in.... 1, et forma, forme.</etym>
-<re ana="supplement" orig=" INFORME. ">
 
-
-</re>
 </entry>
 <entry xml:id="informé">
 <form>
@@ -70519,6 +70435,13 @@
 <bibl>
 <author>DIDER.</author>
 <biblScope>Opin. des anc. phil. (Égyptiens).</biblScope>
+</bibl>
+</cit>
+<cit ana="supplement">
+<quote>Platon enseigne avec l'immortalité des âmes leur passage de corps en corps qu'elles doivent informer successivement</quote>
+<bibl>
+<author>LA MOTHE LE VAYER</author>
+<biblScope>Vertu des païens, II, Platon</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -70638,15 +70561,6 @@
 <bibl>
 <author>VOLT.</author>
 <biblScope>Jeannot et Colin.</biblScope>
-</bibl>
-</cit>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>Platon enseigne avec l'immortalité des âmes leur passage de corps en corps qu'elles doivent informer successivement</quote>
-<bibl>
-<author>LA MOTHE LE VAYER</author>
-<biblScope>Vertu des païens, II, Platon</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -76480,16 +76394,14 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Se dit de pièces de bois dans les fibres desquelles on a introduit une substance métallique ou organique destinée à les protéger contre les actions de l'eau, des agents atmosphériques, etc.</dictScrap>
 <sense>
 <dictScrap>Se dit particulièrement des bois imprégnés de sulfate de cuivre, substance dont l'emploi est aujourd'hui le plus général, sinon le plus efficace. Fourniture de poteaux de bois <oVar>injectés</oVar> pour lignes télégraphiques.</dictScrap>
 </sense>
 </sense>
-<re ana="supplement" orig=" INJECTÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="injecter">
 <form>
@@ -76539,14 +76451,12 @@
 <sense>
 <dictScrap>Engin des appareils de ventilation, propre à introduire de l'air extérieur dans les lieux clos.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap><oVar>Injecteur</oVar> Giffard ou automoteur, appareil qui sert à alimenter d'eau, automatiquement, les chaudières des machines à vapeur ; le courant de vapeur qui sort de la chaudière. y détermine l'entrée de l'eau.</dictScrap>
 </sense>
 <etym>Injecter.</etym>
-<re ana="supplement" orig=" INJECTEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="injection">
 <form>
@@ -76605,7 +76515,8 @@
 </sense>
 <sense n="6">
 <dictScrap>Se dit de l'introduction de l'air extérieur dans les lieux clos à l'aide des appareils de ventilation.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Action d'injecter une substance dans les fibres d'une pièce de bois.</dictScrap>
 <sense>
 <dictScrap>Substance qu'on injecte. L'<oVar>injection</oVar> la plus générale est celle de sulfate de cuivre ; on fait aussi des <oVar>injections</oVar> de sulfate de fer, de créosote, etc.</dictScrap>
@@ -76634,10 +76545,7 @@
 
 </note>
 <etym>Lat. injectionem, de injicere (voy. <ref target="injecter">INJECTER</ref>).</etym>
-<re ana="supplement" orig=" INJECTION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="injonctif">
 <form>
@@ -77700,7 +77608,8 @@
 <sense>
 <dictScrap>S. m. Ce qui est <oVar>injuste</oVar>. La distinction du juste et de l'<oVar>injuste</oVar>.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Injuste</oVar> à, <oVar>injuste</oVar> à l'égard de quelqu'un ou de quelque chose.</dictScrap>
 <cit>
 <quote>Non, je ne serai pas, illustre Pellisson, Ingrat à tes bienfaits, injuste à ton beau nom</quote>
@@ -77723,10 +77632,7 @@
 
 </note>
 <etym>Provenç. injust ; espagn. injusto ; ital. ingiusto ; du lat. injustus, de in.... 1, et justus, juste.</etym>
-<re ana="supplement" orig=" INJUSTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="injustement">
 <form>
@@ -78162,20 +78068,18 @@
 </form>
 <sense>
 <dictScrap>État d'un endroit ou d'un cours d'eau innavigable.</dictScrap>
-<sense>
-<dictScrap>État de ce qui ne peut naviguer.</dictScrap>
-</sense>
-</sense><sense n="1" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>... Ni les fureurs d'un fleuve torrentiel dont l'innavigabilité ne tarde pas à s'imposer comme un fait éclatant d'évidence aux trois officiers de marine,...</quote>
 <bibl>
 <author>COMTE DE CARNÉ</author>
 <biblScope>Rev. des Deux-Mondes, 1er janv. 1872, p. 236</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
+<sense>
+<dictScrap>État de ce qui ne peut naviguer.</dictScrap>
+</sense>
+</sense>
+<sense n="2" ana="supplement">
 <cit>
 <quote>La capacité réellement utilisable de l'espace susceptible de contenir sans innavigabilité un nombre déterminé de tonneaux français de mer</quote>
 <bibl>
@@ -78189,11 +78093,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" INNAVIGABILITÉ. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="innavigable">
 <form>
@@ -78210,7 +78110,8 @@
 <biblScope>Dict. phil. Platon</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Il se dit d'un navire sur lequel on ne peut naviguer.</dictScrap>
 <cit>
 <quote>La moitié environ [des naufrages] est représentée par les bâtiments innavigables surchargés et mal conditionnés de la classe des charbonniers</quote>
@@ -78238,10 +78139,7 @@
 
 </note>
 <etym>Lat. innavigabilis, de in.... 1, et navigare, naviguer.</etym>
-<re ana="supplement" orig=" INNAVIGABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inné">
 <form>
@@ -83406,13 +83304,11 @@
 <sense>
 <dictScrap><oVar>Inscrits</oVar> provisoires, ceux qui n'appartiennent que provisoirement à l'inscription maritime. Faire sécher le poisson [la morue, à Terre-Neuve], l'étaler le matin au soleil sur des grèves de galets aplanies.... le retourner à midi, le remettre en tas le soir.... telle est la tâche des <oVar>inscrits</oVar> provisoires, Revue des Deux-Mondes, 1er fév. 1864, p. 735.</dictScrap>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Terme du turf. Cheval <oVar>inscrit</oVar>, cheval qui figure sur le programme officiel d'une course.</dictScrap>
 </sense>
-<re ana="supplement" orig=" INSCRIT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inscrivant">
 <form>
@@ -84696,7 +84592,8 @@
 <sense>
 <dictScrap>On appelle <oVar>inséparables</oVar> des perruches qui ne vivent en cage que par couples et dont, l'une morte ou enlevée, l'autre ne tarde pas à mourir (psittacula pullaria, Lesson).</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap><oVar>Inséparable</oVar> d'avec, qui ne peut être séparé d'une personne ou d'un objet.</dictScrap>
 <cit>
 <quote>Les maladies sont vices invétérés et endurcis, comme sont l'avarice et l'ambition trop grande, quand avec le temps elles ont pris tant de pouvoir sur un homme qu'elles semblent inséparables d'avec lui</quote>
@@ -84733,10 +84630,7 @@
 
 </note>
 <etym>Provenç. et espagn. inseparable ; ital. inseparabile ; du latin inseparabilis, de in.... 1, et separare, séparer.</etym>
-<re ana="supplement" orig=" INSÉPARABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inséparablement">
 <form>
@@ -87695,7 +87589,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Qui choque extrêmement. Vanité <oVar>insoutenable</oVar>. C'est un homme <oVar>insoutenable</oVar>. Il est <oVar>insoutenable</oVar> avec ses prétentions.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>à quoi on ne peut résister, qui ne peut être soutenu.</dictScrap>
 <cit>
 <quote>Il en résulte une concurrence qui le plus souvent est insoutenable pour les fabricants français</quote>
@@ -88759,7 +88654,8 @@
 <biblScope>Installat. de Mgr Darboy, archevêque de Paris, dans Journal des Débats, 23 avr. 1863</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Celui qui pose, établit quelque engin.</dictScrap>
 <cit>
 <quote>6e catégorie : zingueurs, installateurs de gaz et eaux, installateurs de sonnettes électriques, lampistes</quote>
@@ -88768,10 +88664,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" INSTALLATEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="installation">
 <form>
@@ -96250,7 +96143,8 @@
 <biblScope>Gaz. des Trib. 7 mars 1875, p. 233, 3e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>En <oVar>intention</oVar> de, avec l'<oVar>intention</oVar> de.</dictScrap>
 <cit>
 <quote>En quoi serait estimable celui qui fait plaisir, s'il ne le fait qu'en intention de le prêter ?</quote>
@@ -96392,11 +96286,7 @@
 
 </note>
 <etym>Provenç. entencio, entensio ; espagn. intencion ; ital. intenzione ; du lat. intentionem, action de tendre, tension, application, volonté, d'intensum, supin d'intendere, être attentif, vouloir (voy. <ref target="entendre">ENTENDRE</ref>).</etym>
-<re ana="supplement" orig=" INTENTION. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="intentionalité">
 <form>
@@ -100028,7 +99918,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Adjectivement, emploi qui n'appartient qu'à Mme de Sévigné et qui signifie : qui a des sous-entendus, des réticences.</dictScrap>
 <cit>
 <quote>Je vis hier Mme de Vins, qui reçut très agréablement votre souvenir et ce que vous dites de sa tendresse : elle avoue que ce jour-là elle ne fut pas interligne</quote>
@@ -100040,11 +99931,7 @@
 </sense>
 <note type="R">Dans le premier sens, interligne est du masculin parce que le genre tient ici à l'idée de ce qui est entre les lignes. Dans le second sens, il est féminin, parce que le genre tombe sur ligne : la ligne qui est entre. </note>
 <etym>Lat. inter, entre, et ligne.</etym>
-<re ana="supplement" orig=" INTERLIGNE. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="interligné">
 <form>
@@ -100052,10 +99939,7 @@
 <pron>in-tèr-li-gné, gnée</pron>
 <gram>part. passé d'interligner</gram>
 </form>
-<re ana="supplement" orig=" INTERLIGNÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="interligner">
 <form>
@@ -101959,9 +101843,7 @@
 </sense>
 <sense n="3">
 <dictScrap>Fig. Intervention, médiation, surtout en parlant d'une autorité supérieure. L'<oVar>interposition</oVar> de l'autorité du prince.</dictScrap>
-</sense><sense n="3">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>L'électeur de Trèves ayant eu recours à son interposition et assistance [de Louis XIII], Elle [Sa Majesté] le garantit de la ruine dont il était menacé par les armes du roi de Suède</quote>
 <bibl>
 <author>RICHELIEU</author>
@@ -101996,10 +101878,7 @@
 
 </note>
 <etym>Provenç. interpozicio ; espagn. interposicion ; ital. interposizione ; du latin interpositionem, de inter, entre, et positio, position.</etym>
-<re ana="supplement" orig=" INTERPOSITION. ">
 
-
-</re>
 </entry>
 <entry xml:id="interprétable">
 <form>
@@ -102119,7 +101998,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme de rhétorique. Sorte de répétition nommée autrement synonymie, figure analogue à l'insistance.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>En un sens néologique, manière dont une pièce de théâtre est jouée. À chaque génération d'artistes, les œuvres de Corneille, de Racine, de Glück, de Mozart, se sont en quelque sorte renouvelées, transfigurées par une <oVar>interprétation</oVar> nouvelle, répondant aux idées et aux aspirations de chaque époque, l'Opinion nationale, 16 octobre 1874, 2e page, 1re col.</dictScrap>
 </sense>
 <note type="H">
@@ -102174,10 +102054,7 @@
 
 </note>
 <etym>Provenç. interpretacio ; espagn. interpretacion ; ital. interpretazione, du latin interpretationem, de interpretari, interpréter.</etym>
-<re ana="supplement" orig=" INTERPRÉTATION. ">
 
-
-</re>
 </entry>
 <entry xml:id="interprétativement">
 <form>
@@ -104086,7 +103963,8 @@
 <biblScope>Mme de Maintenon, t. II, p. 196, dans POUGENS</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Terme de fortification. Lignes à <oVar>intervalles</oVar>, lignes dans lesquelles les obstacles sont séparés par des étendues de terrain abordable.</dictScrap>
 </sense>
 <note type="H">
@@ -104134,10 +104012,7 @@
 
 </note>
 <etym>Provenç. entreval ; espagn. intervalo ; ital. intervallo ; du lat. intervallum, de inter, entre, et vallus, pieu : proprement, l'espace entre deux palissades.</etym>
-<re ana="supplement" orig=" INTERVALLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="intervalvaire">
 <form>
@@ -107594,7 +107469,8 @@
 <biblScope>Gramm. 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Auteur d'une introduction.</dictScrap>
 <cit>
 <quote>Les ouvrages auxquels M. Guizot a mis son nom soit comme auteur, soit comme compilateur, soit comme traducteur, soit enfin comme introducteur</quote>
@@ -107605,10 +107481,7 @@
 </cit>
 </sense>
 <etym>Lat. introductorem, de introducere, introduire.</etym>
-<re ana="supplement" orig=" INTRODUCTEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="introductif">
 <form>
@@ -108646,7 +108519,8 @@
 <sense>
 <dictScrap>Par extension, connaissance des choses ordinaires comparée à l'<oVar>intuition</oVar> philosophique. Il a eu l'<oVar>intuition</oVar> des événements qui se préparaient.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Tableau d'<oVar>intuition</oVar>, tableau qui met sous le regard un objet de science, d'histoire, etc.</dictScrap>
 <cit>
 <quote>[Dans une école primaire belge].... une collection de tableaux d'intuition se rapportant à l'histoire de la Belgique</quote>
@@ -108656,10 +108530,7 @@
 </cit>
 </sense>
 <etym>Lat. intuitionem (QUICHERAT, Addenda), de intueri, regarder, de in, en, dans, et tueri, voir.</etym>
-<re ana="supplement" orig=" INTUITION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="intuitionniste">
 <form>
@@ -109657,7 +109528,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>État de l'homme invalide.</dictScrap>
 <cit>
 <quote>Assurance contre les infirmités de la vieillesse et l'état d'invalidité. Invalidité : B..., né le 13 novembre 1824, pension de 1528 francs</quote>
@@ -109679,10 +109551,7 @@
 
 </note>
 <etym>Invalide.</etym>
-<re ana="supplement" orig=" INVALIDITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="invariabilité">
 <form>
@@ -111144,7 +111013,8 @@
 <sense>
 <dictScrap>Ce qui agit plus quand quelque autre chose agit moins. Les fonctions des reins et du foie sont, en maintes circonstances, les <oVar>inverses</oVar> des fonctions du poumon et de la peau.</dictScrap>
 </sense>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>A l'<oVar>inverse</oVar> de, d'une façon absolument contraire.</dictScrap>
 </sense>
 <note type="H">
@@ -111169,10 +111039,7 @@
 
 </note>
 <etym>Provenç. envers, evers ; espagn. et ital. inverso ; du lat. inversus, renversé, de in, en, sur, et versus, tourné (voy. <ref target="version">VERSION</ref>).</etym>
-<re ana="supplement" orig=" INVERSE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inversement">
 <form>
@@ -111262,14 +111129,12 @@
 </sense>
 <sense n="4">
 <dictScrap>Terme de musique. Espèce d'imitation qui consiste à reproduire un trait de mélodie en prenant les notes dans un ordre renversé, ou différent de celui où co trait a été proposé.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Terme de chimie. Condition du sucre inverti.</dictScrap>
 </sense>
 <etym>Lat. inversionem, de invertere (voy. <ref target="inverse">INVERSE</ref>).</etym>
-<re ana="supplement" orig=" INVERSION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="invertébré">
 <form>
@@ -111300,13 +111165,11 @@
 <biblScope>Natch. VII</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme de chimie. Sucre <oVar>inverti</oVar>, le même que sucre interverti (voy. ce mot).</dictScrap>
 </sense>
-<re ana="supplement" orig=" INVERTI. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="invertir">
 <form>
@@ -112374,7 +112237,8 @@
 <biblScope>Brut. II, 3</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Inviolable</oVar> à, qui ne peut être violé par.</dictScrap>
 <cit>
 <quote>Les dieux.... en leur nature seule.... ont un magasin de toutes choses, qui les rend inviolables à tout effort extérieur</quote>
@@ -112418,10 +112282,7 @@
 
 </note>
 <etym>Espagn. inviolable ; ital. inviolabile ; du lat. inviolabilis, de in.... 1, et violare, violer.</etym>
-<re ana="supplement" orig=" INVIOLABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="inviolablement">
 <form>
@@ -112798,7 +112659,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Adj. Lettres invitatoires, lettres par lesquelles les papes invitaient les évêques des villes suburbicaires à se rendre à Rome, le jour anniversaire de leur sacre, afin d'y célébrer le concile romain.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>En général, lettre <oVar>invitatoire</oVar>, lettre qui invite.</dictScrap>
 <cit>
 <quote>La lettre invitatoire du Concile aux Bohémiens, du 15 octobre 1431</quote>
@@ -112851,7 +112713,8 @@
 <sense>
 <dictScrap>Contre-<oVar>invite</oVar>, carte qu'on rejoue dans la couleur de l'<oVar>invite</oVar> de la partie adverse, quand elle n'a pu faire la levée.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fig. Action d'engager à concourir.</dictScrap>
 <cit>
 <quote>Au lendemain du 25 février, alors que la république était encore chancelante, il n'y avait ni assez de promesses, ni assez d'invites, ni assez de cajoleries de la part du parti républicain envers les conservateurs</quote>
@@ -112861,10 +112724,7 @@
 </cit>
 </sense>
 <etym>Inviter.</etym>
-<re ana="supplement" orig=" INVITE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="invité">
 <form>
@@ -113160,7 +113020,8 @@
 <sense>
 <dictScrap>Terme de physiologie. Muscles et nerfs <oVar>involontaires</oVar>, muscles et nerfs qui appartiennent à la vie végétative, et qui sont indépendants de la volonté.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>S. m. S'est dit, par plaisanterie, des hommes qui servent dans l'armée malgré eux.</dictScrap>
 <cit>
 <quote>Et le succès est presque infaillible, puisque l'armée de Jourdan, quelque grosse qu'elle soit, n'est composée que d'involontaires, comme ici</quote>
@@ -113183,10 +113044,7 @@
 
 </note>
 <etym>Lat. involuntarius, de in.... 1, et voluntarius, volontaire.</etym>
-<re ana="supplement" orig=" INVOLONTAIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="involontairement">
 <form>
@@ -113326,7 +113184,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme de rhétorique. Style embarrassé, entortillé.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Terme de géométrie. On dit que six points donnés sur une droite sont en <oVar>involution</oVar>, lorsque le rapport anharmonique de quatre d'entre eux est égal au rapport anharmonique des quatre conjugués.</dictScrap>
 </sense>
 <note type="H">
@@ -113359,10 +113218,7 @@
 
 </note>
 <etym>Provenç. envolucio ; du lat. involutionem, de involvere (voy. <ref target="involucre">INVOLUCRE</ref>).</etym>
-<re ana="supplement" orig=" INVOLUTION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="invoqué">
 <form>
@@ -113580,7 +113436,8 @@
 <sense>
 <dictScrap>Le poste des <oVar>invulnérables</oVar>, s'est dit quelquefois pour mont pagnote (voy. <ref target="pagnote">PAGNOTE</ref>).</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap><oVar>Invulnérable</oVar> à, qui ne peut être blessé par.</dictScrap>
 <cit>
 <quote>Mon cœur à tous ses traits demeure invulnérable</quote>
@@ -113598,10 +113455,7 @@
 </cit>
 </sense>
 <etym>Lat. invulnerabilis, de in.... 1, et vulnerabilis, vulnérable.</etym>
-<re ana="supplement" orig=" INVULNÉRABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="invulnérablement">
 <form>
@@ -113624,13 +113478,11 @@
 </sense>
 <sense n="2">
 <dictScrap>S. m. Terme de zoologie. Espèce de papillon.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>La 85e planète télescopique, découverte en 1865 par M. Peters.</dictScrap>
 </sense>
-<re ana="supplement" orig=" IO. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="iodate">
 <form>
@@ -115000,7 +114852,8 @@
 <sense>
 <dictScrap>Ces couleurs elles-mêmes. De belles <oVar>irisations</oVar>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Certain état du verre et production de cet état.</dictScrap>
 <cit>
 <quote>Ils donneront également la composition des lames minces qui produisent l'irisation.... ces études ne sont pas seulement intéressantes au point de vue de l'irisation du verre, au point de vue de la production d'une substance vitreuse présentant l'aspect de la nacre...</quote>
@@ -115011,10 +114864,7 @@
 </cit>
 </sense>
 <etym>Iris 2.</etym>
-<re ana="supplement" orig=" IRISATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="irisé">
 <form>
@@ -115651,9 +115501,7 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de mathématique. Qui est sans commune mesure, sans quotient exprimable en nombre entier ou en fraction. Le rapport du diamètre à la circonférence est un nombre <oVar>irrationnel</oVar>.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Terme de mathématique. Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>Expression <oVar>irrationnelle</oVar>, expression qui renferme des radicaux.</dictScrap>
 </sense>
 </sense>
@@ -115677,10 +115525,7 @@
 
 </note>
 <etym>Provençal irrational ; espagn. irracional ; ital. irrazionale ; du lat. irrationalis, de in.... 1, et ratio, raison.</etym>
-<re ana="supplement" orig=" IRRATIONNEL. ">
 
-
-</re>
 </entry>
 <entry xml:id="irrationnellement">
 <form>
@@ -115933,7 +115778,8 @@
 <biblScope>Petit car. Exemp.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Irréconciliable</oVar> à, qui ne peut être réconcilié avec.</dictScrap>
 <cit>
 <quote>Nous pouvons bien avoir assez crié contre Baies, mais jamais assez contre les vices ; je vous prie, Lucilius, soyez leur irréconciliable</quote>
@@ -115969,10 +115815,7 @@
 
 </note>
 <etym>Ir..., et réconcilier.</etym>
-<re ana="supplement" orig=" IRRÉCONCILIABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="irréconciliablement">
 <form>
@@ -117266,7 +117109,8 @@
 <biblScope>Yolande de Monterby.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Au propre, qui ne peut être réparé, raccommodé. Ce navire, bien que maintenant à flot, est tout rompu et considéré comme <oVar>irréparable</oVar>, le Nouvelliste de l'arr. d'Avranches, 5 nov. 1876.</dictScrap>
 </sense>
 <note type="R">On a dit irréparable en parlant d'une personne : Eh ! ne comptez-vous pas comme un jour déplorable Celui qui vit tomber ce chef irréparable ? M. J. CHÉN. Tibère, III, 1. Mais cet emploi n'est pas à recommander ; ce n'est pas l'homme qui est irréparable, c'est sa perte. </note>
@@ -117898,7 +117742,8 @@
 <biblScope>Paling. XV, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qui ne peut être séparé en parties.</dictScrap>
 <cit>
 <quote>Nébuleuse irrésoluble</quote>
@@ -117908,10 +117753,7 @@
 </cit>
 </sense>
 <etym>Ir..., et résoluble.</etym>
-<re ana="supplement" orig=" IRRÉSOLUBLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="irrésolument">
 <form>
@@ -118453,7 +118295,8 @@
 </form>
 <sense>
 <dictScrap>Qualité de ce qui est irrévocable. L'<oVar>irrévocabilité</oVar> du passé.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qualité de celui qui ne peut être révoqué de ses fonctions.</dictScrap>
 <cit>
 <quote>Pour établir le principe de l'irrévocabilité des magistrats, il invoque tour à tour les lois et les usages de la Lorraine</quote>
@@ -118463,10 +118306,7 @@
 </cit>
 </sense>
 <etym>Irrévocable.</etym>
-<re ana="supplement" orig=" IRRÉVOCABILITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="irrévocable">
 <form>
@@ -119532,7 +119372,8 @@
 <sense>
 <dictScrap>Espèce de libellulidée dépendant du genre agrion.</dictScrap>
 </sense>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <cit>
 <quote>Nom d'un plant de vigne</quote>
 <bibl>
@@ -119555,10 +119396,7 @@
 </cit>
 </sense>
 <etym>On dit que l'archiduchesse Isabelle, fille de Philippe II, gouvernante des Pays-Bas, fit vœu, lors du siége d'Ostende (1601-1604), de ne pas changer de chemise jusqu'à ce que son mari fût victorieux, et que la couleur de cette chemise au bout du temps juré prit le nom de la princesse. Rien ne garantit cette historiette. En tout cas, Isabelle nom propre est Jézabel (Isebel), femme d'Achab.</etym>
-<re ana="supplement" orig=" ISABELLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="isadelphe">
 <form>
@@ -120558,7 +120396,8 @@
 </form>
 <sense>
 <dictScrap>Terme de physique. Voy. <ref target="isoloir">ISOLOIR</ref>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Petit appareil qui, dans une ligne télégraphique, isole les fils de fer.</dictScrap>
 <cit>
 <quote>Pendant la même année [1873, en Italie], on a employé pour la manutention des lignes 12453 poteaux, 35076 kilom. de fil, 72665 isolateurs et 17935 porte-isolateurs</quote>
@@ -120567,10 +120406,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" ISOLATEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="isolatif">
 <form>
@@ -120590,7 +120426,8 @@
 </form>
 <sense>
 <dictScrap>Terme de physique. Action d'isoler les corps que l'on veut électriser. L'<oVar>isolation</oVar> d'un fil télégraphique.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Dans le langage général, état d'une personne qu'on isole.</dictScrap>
 <cit>
 <quote>Je voudrais vous voir en tête un adversaire aussi violemment soutenu que le mien, à sa puissance formidable opposant votre dénûment, et votre isolation à ses entours</quote>
@@ -120601,10 +120438,7 @@
 </cit>
 </sense>
 <etym>Isoler.</etym>
-<re ana="supplement" orig=" ISOLATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="isolé">
 <form>
@@ -123670,7 +123504,8 @@
 </form>
 <sense>
 <dictScrap>Nom, dans la Bible, d'un oiseau que les commentateurs rapprochent du vautour</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Nom d'un oiseau de Java.</dictScrap>
 <cit>
 <quote>Le merveilleux instinct d'un oiseau originaire de Java, l'ixos erythrotis</quote>
@@ -123685,10 +123520,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" IXOS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="izémien">
 <form>

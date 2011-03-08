@@ -10365,6 +10365,14 @@
 <dictScrap>Mesure anglaise de capacité pour les liquides. Le <oVar>gallon</oVar> impérial d'Angleterre est de 4 litres 54, et en douane aux États-Unis de 3 litres 78 pour les liquides, et 4 litres 40 pour les matières sèches.</dictScrap>
 </sense>
 <note type="H">
+<label>XIIIe s.</label>
+<cit>
+<quote>Galon</quote>
+<bibl>
+<author>TOUGARD</author>
+<biblScope>Une page d'hist. locale, p. 12</biblScope>
+</bibl>
+</cit>
 <label>XIVe s.</label>
 <cit>
 <quote>Combien que le dit Jehan le Norrois eust justement perdu un galon de vin....</quote>
@@ -10383,8 +10391,7 @@
 </cit>
 </note>
 <etym>Angl. gallon ; bas-latin, galo, jalo, et aussi gillo, gelo, gellus, guillo. Ce mot contient un radical gal ou jal qui se trouve dans l'ancien français galoie, jalaie, sorte de mesure ; bas-lat. galida ; mots d'origine inconnue, au sujet desquels on a conjecturé le latin gaulus, vase à boire ; ou l'allemand Schale, écuelle, jatte. Mais Diez objecte que au accentué dans gaulus ne se serait pas atténué en a, et que Schale aurait donné chale.</etym>
-<re ana="supplement" orig=" 1. GALLON. - HIST. Ajoutez : XIIIe s. Galon, dans TOUGARD, Une page d'hist. locale, p. 12. ">
-</re>
+
 </entry>
 <entry xml:id="gallon.2">
 <form>
@@ -22315,6 +22322,7 @@
 <sense n="3">
 <dictScrap>Instrument de chirurgie pour comprimer l'artère principale d'un membre, en cas d'opération ou d'hémorrhagie.</dictScrap>
 </sense>
+<note ana="supplement" type="R">On a dit que le garrot était un projectile de bouche à feu, à la différence du carreau qui se tirait avec l'arbalète. Mais les textes ne justifient pas cette distinction. Il y avait cependant une différence entre le garrot et le carreau : il semble qu'elle consistait en ce que le garrot était muni d'ailettes d'airain, et le carreau d'ailettes de plume (voy. DU CANGE).</note>
 <note type="H">
 <label>XIVe s.</label>
 <cit>
@@ -22349,8 +22357,7 @@
 </cit>
 </note>
 <etym>Espagn. garrote. Origine inconnue. Il est très probable que le garrot, dard, et le garrot, bâton, sont le même mot. Maintenant, dans garrot, bâton, pourrait-on voir un radical garr qui serait dans le provençal garrig, chêne (voy. <ref target="garigue">GARIGUE</ref>) ?</etym>
-<re ana="supplement" orig=" 1. GARROT. Ajoutez : - REM. On a dit que le garrot était un projectile de bouche à feu, à la différence du carreau qui se tirait avec l'arbalète. Mais les textes ne justifient pas cette distinction. Il y avait cependant une différence entre le garrot et le carreau : il semble qu'elle consistait en ce que le garrot était muni d'ailettes d'airain, et le carreau d'ailettes de plume (voy. DU CANGE). ">
-</re>
+
 </entry>
 <entry xml:id="garrot.2">
 <form>
@@ -22471,9 +22478,9 @@
 <sense>
 <dictScrap>Terme de vétérinaire. Cheval <oVar>garrotté</oVar>, cheval blessé au garrot.</dictScrap>
 </sense>
+<note type="R" ana="supplement">Garrotté n'est pas seulement adjectif ; il y a aussi le verbe : garrotter un cheval, le blesser au garrot.</note>
 <etym>Garrot 2.</etym>
-<re ana="supplement" orig=" 2. GARROTTÉ. Ajoutez : - REM. Garrotté n'est pas seulement adjectif ; il y a aussi le verbe : garrotter un cheval, le blesser au garrot. ">
-</re>
+
 </entry>
 <entry xml:id="garrotter">
 <form>
@@ -24922,8 +24929,7 @@
 <dictScrap>Genre vitex, famille des verbénacées. Le gattilier commun est le vitex agnus castus, L.</dictScrap>
 </sense>
 <etym>Origine inconnue.</etym>
-<re ana="supplement" orig=" GATTILIER. - ÉTYM. Ajoutez : Ce mot est emprunté à l'espagn. sauz (salix) gatillo, agnus castus. Gatillo est le diminutif de gato, chat ; mais, comme nom de l'arbrisseau, il semble une altération populaire de agno castil, laquelle forme se trouve en portug. à côté de agno casto (BUGGE, Romania, juill.-oct. 1875, p. 357). ">
-</re>
+<etym ana="supplement">Ce mot est emprunté à l'espagn. sauz (salix) gatillo, agnus castus. Gatillo est le diminutif de gato, chat ; mais, comme nom de l'arbrisseau, il semble une altération populaire de agno castil, laquelle forme se trouve en portug. à côté de agno casto (BUGGE, Romania, juill.-oct. 1875, p. 357).</etym>
 </entry>
 <entry xml:id="gattine">
 <form>
@@ -46663,8 +46669,21 @@
 </cit>
 </note>
 <etym>Wallon, gèron ; namur. juron ; picard, gron, giron, tablier ; prov. giro ; esp. giron ; port. girão ; ital. gherone, garone ; du germanique : moyen haut-allem. gêre : anc. frison, gare, pan, pointe d'habit ; holl. geere, bande coupée en biais ; pour lesquels Diez suppose un ancien haut-allem. gêro, acc. gêrum, d'où les formes romanes giron, gherone. Diez pense que les mots germaniques viennent de gêr, pointe de lance, à cause de la forme de ces pans de vêtement ; à l'appui de cette transition de sens, il cite dans le bas-latin pilum vestimenti ; à quoi Scheler ajoute sagittas, dit pour pans de vêtement, et synonyme de girones. Ainsi l'ordre des sens est : dans l'ancienne langue, pan oblique, signification hors d'usage aujourd'hui et conservée dans le blason ; puis, par extension, les pans d'habit devenant le vêtement depuis la ceinture jusqu'au genou, et prenant même l'acception de côté ; enfin la marche de l'escalier ainsi dite à cause de sa forme oblique.</etym>
-<re ana="supplement" orig=" 2. GIRON (ji-ron), s. m. Nom, dans l'Aunis, du pied de veau, arum vulgare, Gloss. aunisien, p. 111. ">
-</re>
+</entry>
+<entry xml:id="giron.2" ana="supplement">
+<form>
+<orth>GIRON</orth>
+<pron>ji-ron</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
+<cit>
+<quote>Nom, dans l'Aunis, du pied de veau, arum vulgare</quote>
+<bibl>
+<biblScope>Gloss. aunisien, p. 111</biblScope>
+</bibl>
+</cit>
+</sense>
 </entry>
 <entry xml:id="gironde">
 <form>
@@ -63771,8 +63790,7 @@
 </cit>
 </note>
 <etym>Espagn. gubia ; portug. goiva ; ital. gorbia, bâton ferré ; gloses d'Isidore, guvia, gubia, gulvia, gulbia. Mot du reste inconnu, qu'on a rattaché au basque gubia signifiant dans cette langue un arc. Les mots de l'ancien français goi, goe, goye, sorte de serpe, avec le diminutif gouet, paraissent venir aussi de guvia et être le même mot que gouge.</etym>
-<re ana="supplement" orig=" 1. GOUGE. - ÉTYM. Ajoutez : &quot; Diez rattache gouge au basque gubia, arc, gubioa, gorge. Il me semble plutôt d'origine celtique : l'anc. gall. gilb est expliqué par foratorium vel rostrum, gilbin, par acumine, voy. ZEUSS-EBEL, Gramm. celt. p. 136139 ; golbin, rostrum, Revue celt. I, 365 ; gall. mod. gylf et gylfin, bec. Gilb est, je crois, issu d'une forme antérieure gulb. La voyelle originaire est conservée dans le vieil irland. gulpan, aculeum (ZEUSS-EBEL, p. 60), pour gulban, irland. moyen et mod. gulbba, génitif gulbhan, Gulbia, gulbium est la forme la plus ancienne du mot roman en question, dérivé d'un thème celtique gulba à l'aide du suffixe ia ou io, comme l'ital. bolgia, franc. bouge, du gaulois bulga. Avec le radical celtique je compare le grec, ciseler, &quot; BUGGE, Romania, juillet-octobre 1875, p. 358. ">
-</re>
+<etym ana="supplement">« Diez rattache gouge au basque gubia, arc, gubioa, gorge. Il me semble plutôt d'origine celtique : l'anc. gall. gilb est expliqué par foratorium vel rostrum, gilbin, par acumine, voy. ZEUSS-EBEL, Gramm. celt. p. 136139 ; golbin, rostrum, Revue celt. I, 365 ; gall. mod. gylf et gylfin, bec. Gilb est, je crois, issu d'une forme antérieure gulb. La voyelle originaire est conservée dans le vieil irland. gulpan, aculeum (ZEUSS-EBEL, p. 60), pour gulban, irland. moyen et mod. gulbba, génitif gulbhan, Gulbia, gulbium est la forme la plus ancienne du mot roman en question, dérivé d'un thème celtique gulba à l'aide du suffixe ia ou io, comme l'ital. bolgia, franc. bouge, du gaulois bulga. Avec le radical celtique je compare le grec, ciseler, » BUGGE, Romania, juillet-octobre 1875, p. 358.</etym>
 </entry>
 <entry xml:id="gouge.2">
 <form>
@@ -72907,9 +72925,8 @@
 <sense n="3">
 <dictScrap>Par assimilation à des restes de viande, restes ou rognures des marbres. Les <oVar>graillons</oVar> ne se vendent pas au pied, mais en bloc.</dictScrap>
 </sense>
+<note ana="supplement" type="R">Sentir le graillon, c'est sentir la graisse brûlée dans un pot de terre.</note>
 <etym>Probablement l'anc. franç. graille, grille, gril, voy. ces mots : c'est l'odeur de ce qui brûle sur la graille. Scheler est porté à y voir une contraction de gratillon, ce que l'on gratte au fond de la marmite.</etym>
-<re ana="supplement" orig=" 1. GRAILLON. Ajoutez : - REM. Sentir le graillon, c'est sentir la graisse brûlée dans un pot de terre. ">
-</re>
 </entry>
 <entry xml:id="graillon.2">
 <form>
@@ -78767,6 +78784,7 @@
 <sense n="9">
 <dictScrap>Adj. Garance <oVar>grappe</oVar>, garance en poudre que l'on vend dans le commerce pour l'employer à la teinture. On dit aussi <oVar>grappe</oVar> de Hollande, parce que la Zélande, qui en est une province, fournit une garance <oVar>grappe</oVar> fort recherchée.</dictScrap>
 </sense>
+<note type="R" ana="supplement">En artillerie, la grappe de raisin était un dispositif employé autrefois pour lancer des balles à l'aide des canons ; les balles étaient réunies autour d'un axe en fer, entre deux plateaux en bois, et maintenues par une toile et du fil de fer.</note>
 <note type="H">
 <label>XIIe s.</label>
 <cit>
@@ -78813,8 +78831,6 @@
 </cit>
 </note>
 <etym>Picard et champ. crape ; provenç. grapa, crochet ; espagn. grapo, crochet ; ital. grappo, crochet ; bas-lat. grapa, grappa, dans les Addenda de Quicherat ; de l'anc. haut-allem. chrapfo, crochet, allem. mod. Krappen ; comp. le kimry crap. La grappe a été ainsi dite parce qu'elle a quelque chose de crochu, d'accroché.</etym>
-<re ana="supplement" orig=" 1. GRAPPE. Ajoutez : - REM. En artillerie, la grappe de raisin était un dispositif employé autrefois pour lancer des balles à l'aide des canons ; les balles étaient réunies autour d'un axe en fer, entre deux plateaux en bois, et maintenues par une toile et du fil de fer. ">
-</re>
 </entry>
 <entry xml:id="grappe.2">
 <form>
@@ -82528,8 +82544,16 @@
 </cit>
 </note>
 <etym>Wallon, gravî, grève ; provenç. gravier ; de grave 2.</etym>
-<re ana="supplement" orig=" 2. GRAVIER (gra-vié), s. m. Nom donné à ceux qui, à Terre-Neuve, étalent au soleil la morue sur les graves ou grèves. ">
-</re>
+</entry>
+<entry xml:id="gravier.2" ana="supplement">
+<form>
+<orth>GRAVIER</orth>
+<pron>gra-vié</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
+<dictScrap>Nom donné à ceux qui, à Terre-Neuve, étalent au soleil la morue sur les graves ou grèves.</dictScrap>
+</sense>
 </entry>
 <entry xml:id="gravière">
 <form>
@@ -105056,6 +105080,7 @@
 <sense n="3">
 <dictScrap>Terme de marine. Morceau de fonte de fer qui est destiné à lester le navire. Il y a des <oVar>gueuses</oVar> de 25 kilogrammes, et d'autres de 50 kilogrammes.</dictScrap>
 </sense>
+<note ana="supplement" type="R">La forme triangulaire n'est pas caractéristique des gueuses de fonte. Elles peuvent avoir de tout autres formes.</note>
 <note type="H">
 <label>XVIe s.</label>
 <cit>
@@ -105067,8 +105092,6 @@
 </cit>
 </note>
 <etym>Génev. guise (prononcé ghize) ; Berry, guise ; milanais, ghisa ; de l'allem. Guss, fonte, de giessen, verser, couler ; Gusseisen, fer de fonte.</etym>
-<re ana="supplement" orig=" 1. GUEUSE. Ajoutez : - REM. La forme triangulaire n'est pas caractéristique des gueuses de fonte. Elles peuvent avoir de tout autres formes. ">
-</re>
 </entry>
 <entry xml:id="gueuse.2">
 <form>
@@ -106319,8 +106342,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" 2. GUIDEAU. Ajoutez : - ÉTYM. M. Meunier, Les composés qui contiennent un verbe à un mode personnel, p. 204, pense que l'origine de ce mot est la même que celle de 1. GUIDEAU, c'est-à-dire guider et eau. ">
-</re>
+<etym ana="supplement">M. Meunier, Les composés qui contiennent un verbe à un mode personnel, p. 204, pense que l'origine de ce mot est la même que celle de 1. GUIDEAU, c'est-à-dire guider et eau.</etym>
 </entry>
 <entry xml:id="guide-main">
 <form>
@@ -107343,8 +107365,7 @@
 <dictScrap>Se dit de la bière qui pousse la levûre au dehors.</dictScrap>
 </sense>
 <etym>Il y a goel, fermenter, dans le bas-breton ; étymologie plausible. Roullin y voit le verbe populaire giler, jaillir. Scheler croit que c'est une contraction pour guesiller, et le tire du wallon guêse, levûre de bière, du scandinave gâsa, fermenter, allemand gähren.</etym>
-<re ana="supplement" orig=" 1. GUILLER. - ÉTYM. Au lieu des étymologies proposées, M. Bugge, Bomania, n° 10, p. 152, met en avant le verbe hollandais gijlen, qui se dit de la fermentation de la bière ; dans l'Angleterre septentrionale, guilefat, tonneau où la bière guille Cette étymologie paraît préférable. ">
-</re>
+<etym ana="supplement">Au lieu des étymologies proposées, M. Bugge, Bomania, n° 10, p. 152, met en avant le verbe hollandais gijlen, qui se dit de la fermentation de la bière ; dans l'Angleterre septentrionale, guilefat, tonneau où la bière guille Cette étymologie paraît préférable.</etym>
 </entry>
 <entry xml:id="guiller.2">
 <form>
