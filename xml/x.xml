@@ -553,15 +553,13 @@
 </sense>
 <etym>Du grec, bois, et la finale ite.</etym>
 </entry>
-<entry type="prefixe" xml:id="xylo-">
+<entryFree type="prefixe" xml:id="xylo-">
 <form>
 <orth>XYLO-</orth>
 <gram>préfixe</gram>
 </form>
-<sense>
 <dictScrap>Mot qui sert de préfixe dans plusieurs termes techniques, et qui vient de deux mots grecs, l'un signifiant : bois de charpente, de menuiserie; l'autre racler.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="xylobalsame">
 <form>
 <orth>XYLOBALSAME</orth>

@@ -707,16 +707,6 @@
 </sense>
 <sense n="10">
 <dictScrap>Dans le langage des classes, on dit qu'un vers n'<oVar>y</oVar> est pas, pour exprimer qu'il pèche contre les règles de la versification.</dictScrap>
-</sense><sense n="12">
-<dictScrap>Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.</dictScrap>
-<cit>
-<quote>Où il n'y a rien, le roi y perd ses droits, et la nature aussi</quote>
-<bibl>
-<author>VOLT.</author>
-<biblScope>Lett. en vers et en prose, 162</biblScope>
-</bibl>
-</cit>
-<dictScrap>Aujourd'hui ce pléonasme n'est plus admis.</dictScrap>
 </sense>
 <note type="R">
 <p>1. Y se place avant le verbe : il y va ; y est-il? à l'impératif il se place après : allons-y, excepté quand la phrase est négative : n'y allons pas. Cependant, même dans une phrase affirmative, s'il y a deux impératifs qui se suivent, un second y peut être mis avant le verbe.  <cit><quote>Allez présentement en la grande ville de Ninive, et y prêchez</quote><bibl><author>SACI</author><biblScope>Bible, Jonas, I, 2</biblScope></bibl></cit> </p>
@@ -729,6 +719,16 @@
 <p>9. Vaugelas : " - J'ai remis les hardes de mon frère à un tel, afin qu'il les y donne, pour dire afin qu'il les lui donne. C'est une faute toute commune parmi nos courtisans. " La remarque de Vaugelas est juste, et, dans l'exemple qu'il a cité, y est une faute. Mais il n'en est pas moins vrai que y s'emploie aussi en parlant de personnes, voyez les exemples. Toutefois c'est une des choses les plus difficiles que d'indiquer la nuance qui permet ou défend cet emploi. En général, il semble que y ne peut pas être mis quand il s'agit d'une action matérielle, ainsi on ne dira pas : j'y donne, pour : je lui donne, j'y prends, pour je lui prends. Mais, pour peu que l'action puisse être considérée au sens moral ou abstrait, y peut être employé. </p>
 <p>10. Des grammairiens ont dit que, quand le verbe qui suit y commence par un i, on supprime ce pronom pour éviter la rencontre de deux i, qui formerait un son désagréable, et qu'ainsi, au lieu de : Il m'a dit qu'il y irait, il faut : il m'a dit qu'il irait. C'est une vaine délicatesse d'oreille.  <cit><quote>Du reste, voici des exemples de cette suppression : On m'écrivit que vous étiez à Paris.... pour moi, je n'irai pas cette campagne</quote><bibl><author>BUSSY-RABUTIN</author><biblScope>Lett. à Mme de Sévigné, 23 mai, 1667</biblScope></bibl></cit> <cit><quote>Ne vous étonnez pas si je prends Paris toujours plus en haine ; je n'irai jamais</quote><bibl><author>J. J. ROUSS.</author><biblScope>Lett. à Mme d'Épinay, jeudi, 1757</biblScope></bibl></cit> </p>
 <p>11. Y ne doit pas faire hiatus en poésie.  <cit><quote>Il y a de l'adresse à bien cueillir des roses</quote><bibl><author>THÉOPHILE</author><biblScope>dans MALHERBE, édit. MÉNAGE, p. 274</biblScope></bibl></cit> <cit><quote>Tant y a qu'il n'est rien que votre chien ne prenne</quote><bibl><author>RAC.</author><biblScope>Plaid. III, 3</biblScope></bibl></cit> </p>
+</note>
+ <note type="R" ana="supplement">12. Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.
+<cit>
+<quote>Où il n'y a rien, le roi y perd ses droits, et la nature aussi</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Lett. en vers et en prose, 162</biblScope>
+</bibl>
+</cit>
+Aujourd'hui ce pléonasme n'est plus admis.
 </note>
 <note type="H">
 
@@ -898,10 +898,7 @@
 
 </note>
 <etym>Provenç. i, hi, y ; ital. vi, ivi ; du lat. ibi, là, qui est un ancien datif (comparez tibi) du thème pronominal i, conservé dans is, ea, id.</etym>
-<re ana="supplement" orig=" 2. Y. - REM. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="yac">
 <form><orth>YAC</orth><pron>iak</pron> ou YAK, s. m. </form>

@@ -27,6 +27,7 @@
 <entry xml:id="u">
 <form>
 <orth>U</orth>
+<pron/>
 <gram>s. m.</gram>
 </form>
 <sense n="1">
@@ -4632,7 +4633,8 @@
 </sense>
 <sense n="12">
 <dictScrap>Terme de manége. Ensemble d'un cheval.</dictScrap>
-</sense><sense n="13">
+</sense>
+<sense n="13" ana="supplement">
 <dictScrap>Nom donné à des articles résultant de matières différentes unies dans la fabrication, Enquête, Traité de comm. avec l'Angl. t. III, p. 445.</dictScrap>
 <cit>
 <quote>Bas et chaussettes union (fil laine et fil coton retordus en un fil),.... jupons, ceintures et vêtements de dessous union, à côtes et unis</quote>
@@ -4690,10 +4692,7 @@
 </cit>
 </note>
 <etym>Provenc. unio ; espagn. union ; ital. unione ; du lat. unionem (voy. <ref target="unir">UNIR</ref>).</etym>
-<re ana="supplement" orig=" UNION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="unionisme">
 <form>
