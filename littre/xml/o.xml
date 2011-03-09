@@ -140,9 +140,7 @@
 
 </note>
 <etym>O, zéro.</etym>
-<re ana="supplement" orig=" 2. O. - ÉTYM. Ajoutez : D'après M. Eman Martin, Courrier de Vaugelas, 1er juin 1875, p. 19, les paysans de la Beauce et du Perche disent encore aujourd'hui : c'est un o en chiffre ; et zéro ne se serait substitué à o que dans le commencement du XVIIIe siècle. ">
-
-</re>
+<etym ana="supplement">D'après M. Eman Martin, Courrier de Vaugelas, 1er juin 1875, p. 19, les paysans de la Beauce et du Perche disent encore aujourd'hui : c'est un o en chiffre ; et zéro ne se serait substitué à o que dans le commencement du XVIIIe siècle.</etym>
 </entry>
 <entry xml:id="o.3">
 <form>
@@ -1427,7 +1425,8 @@
 <biblScope>Gaz. des Trib. 17 fév. 1876, p. 162, 1re col. (Cour d'appel de Rouen)</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>En style épistolaire, et comme formule finale : recevez mes obéissances.</dictScrap>
 </sense>
 <note type="H">
@@ -1500,11 +1499,7 @@
 
 </note>
 <etym>Obéissant.</etym>
-<re ana="supplement" orig=" OBÉISSANCE. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="obéissant">
 <form>
@@ -1755,14 +1750,12 @@
 </form>
 <sense>
 <dictScrap>Dans la féerie et la cabale, le roi des génies de l'air.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Nom donné au quatrième satellite d'Uranus, découvert par W. Herschel en 1787.</dictScrap>
 </sense>
 <etym>L'origine et la vraie orthographe est Auberon, dans Huon de Bordeaux. Selon la Villemarqué, suivi par Guessard (Préf. de Huon de Bordeaux), c'est un personnage de la féerie celtique : gwyn-Araun, c'est-à-dire le blanc Araun. Araun voudrait dire vapeur. Selon J. Grimm, die Mythol. p. 421, il est identique à un Alberich ou Elberich, roi des Elfes dans les Niebelungen, mythologie germanique. Selon Gaston Paris (Rev. germ. t. XVI, p. 381), ce serait un personnage légendaire des Francs mérovingiens, Alberic l'enchanteur, fils de Clodion " qui demeurait toujours dans les forêts, selon Hugues de Toul.... et renouvela la secte païenne.... " Cette opinion est la plus probable, car c'est dans le poëme français qu'Oberon apparaît d'abord. En tout cas l'origine est française, au moins sous la forme Oberon, et c'est au français que les Anglais et Shakespeare l'ont emprunté.</etym>
-<re ana="supplement" orig=" OBERON. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="obèse">
 <form>
@@ -3066,7 +3059,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Ancien nom de l'hostie.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Don ou aumône qu'on fait au prêtre, Journ. offic. 28 nov. 1876, p. 8752, 1re col.</dictScrap>
 </sense>
 <note type="H">
@@ -3107,10 +3101,7 @@
 
 </note>
 <etym>Lat. oblationem, de oblatum (voy. <ref target="oblat">OBLAT</ref>).</etym>
-<re ana="supplement" orig=" OBLATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="oblationnaire">
 <form>
@@ -4617,7 +4608,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="10">
+</sense>
+<sense n="10" ana="supplement">
 <dictScrap>En <oVar>oblique</oVar>, dans une direction <oVar>oblique</oVar>.</dictScrap>
 <cit>
 <quote>La route [de La Chapelle à Saint-Denis] sera couverte en oblique par ce pont de trois travées, dont la principale aura 35 mètres de portée</quote>
@@ -4673,10 +4665,7 @@
 
 </note>
 <etym>Provenç. oblic ; esp. et ital. obliquo ; du lat. obliquus, de ob, et liquis, vieux mot signifiant oblique. Comparez licinus bos, bœuf qui a les cornes courbées en avant, luxus, déjeté, luscus, louche ; terme grec signifiant oblique.</etym>
-<re ana="supplement" orig=" OBLIQUE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="obliquement">
 <form>
@@ -4706,9 +4695,7 @@
 </sense>
 <sense n="3">
 <dictScrap>Fig. Indirectement. Louer quelqu'un <oVar>obliquement</oVar>.</dictScrap>
-</sense><sense n="3">
-<dictScrap>Fig. Indirectement. Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Les recherches de la justice [dans un premier procès], pour arriver à établir les fraudes commises, amenèrent obliquement la constatation de certains faits qui, d'après l'accusation, constitueraient le crime de corruption de fonctionnaires publics</quote>
 <bibl>
 <biblScope>Gaz. des Trib. 4 juillet 1874, p. 635, 3e col.</biblScope>
@@ -4735,10 +4722,7 @@
 
 </note>
 <etym>Oblique, et le suffixe ment.</etym>
-<re ana="supplement" orig=" OBLIQUEMENT. ">
 
-
-</re>
 </entry>
 <entry xml:id="obliquer">
 <form>
@@ -7186,7 +7170,8 @@
 <biblScope>Exposé, V, 6</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qui doit être observé, obligatoire.</dictScrap>
 <cit>
 <quote>Cette société [des hommes entre eux].... est saintement et religieusement observable</quote>
@@ -7197,10 +7182,7 @@
 </cit>
 </sense>
 <etym>Observer</etym>
-<re ana="supplement" orig=" OBSERVABLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="observance">
 <form>
@@ -7332,7 +7314,8 @@
 <sense>
 <dictScrap>Frère mineur de l'<oVar>observance</oVar>, voy. <ref target="observantin">OBSERVANTIN</ref>.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Action d'observer, de surveiller.</dictScrap>
 <cit>
 <quote>Nous avons un esprit sacré, qui réside en nous pour la conservation de nos vies et l'observance de nos actions</quote>
@@ -7397,10 +7380,7 @@
 
 </note>
 <etym>Provenç. observancia, observansa ; esp. observancia ; ital. osservanzia ; du lat. observantia, qui vient de observare, observer.</etym>
-<re ana="supplement" orig=" OBSERVANCE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="observantin">
 <form>
@@ -7803,7 +7783,8 @@
 <sense>
 <dictScrap>Plaider par <oVar>observation</oVar>, débattre une affaire dans laquelle il ne s'agit que de statuer sur un incident de nature à entraîner peu de développement.</dictScrap>
 </sense>
-</sense><sense n="11">
+</sense>
+<sense n="11" ana="supplement">
 <dictScrap>Chose qui s'observe ; usage.</dictScrap>
 <cit>
 <quote>Cette observation est encore gardée aujourd'hui aux comédies</quote>
@@ -7849,10 +7830,7 @@
 
 </note>
 <etym>Lat. observationem, de observare, observer.</etym>
-<re ana="supplement" orig=" OBSERVATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="observatoire">
 <form>
@@ -9139,8 +9117,9 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
+<sense ana="supplement">
 <dictScrap><oVar>Obstiner</oVar> sa persévérance, pour persévérer obstinément, est une phrase de Malherbe : Qu'un amant flatté d'espérance <oVar>Obstine</oVar> sa persévérance, Lexique, éd. L. Lalanne.</dictScrap>
+</sense>
 </sense>
 <note type="R"><cit><quote>Cet imbécile de sir Thomas m'obstine que vous arriverez le dix</quote><bibl><author>Mme RICCOBONI</author><biblScope>Lett. de Fanny Butler, lett. 86</biblScope></bibl></cit> Cela signifie : me soutient obstinément que..., et est du langage populaire. </note>
 <note type="H">
@@ -9199,10 +9178,7 @@
 
 </note>
 <etym>Provenç. et espagn. obstinar ; ital. ostinare ; du latin obstinare, de ob, en face, et d'un radical stanare, qui est aussi dans destinare (voy. <ref target="destiner">DESTINER</ref>).</etym>
-<re ana="supplement" orig=" OBSTINER. - REM. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="obstructif">
 <form>
@@ -9788,7 +9764,8 @@
 <sense>
 <dictScrap>Ligament <oVar>obturateur</oVar>, membrane mince fixée à toute la circonférence du trou <oVar>obturateur</oVar>, excepté en haut.</dictScrap>
 </sense>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Dans les armes à feu se chargeant par la culasse, l'<oVar>obturateur</oVar> est la partie de la culasse mobile, en acier, en caoutchouc, etc. qui sert à empêcher toute fuite de gaz par la ligne de jonction de la culasse au canon.</dictScrap>
 </sense>
 <note type="H">
@@ -9811,10 +9788,7 @@
 
 </note>
 <etym>Lat. fictif, obturatorem, de obturare (voy. <ref target="obturant">OBTURANT</ref>).</etym>
-<re ana="supplement" orig=" OBTURATEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="obturation">
 <form>
@@ -11390,7 +11364,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme d'alchimie. La noirceur, qui est la première teinte de l'œuvre.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Fig. Chute, ruine.</dictScrap>
 <cit>
 <quote>Le chevalier de Guise, de qui on a vu précipiter le bel orient dans l'occident d'un déplorable désastre</quote>
@@ -11439,10 +11414,7 @@
 
 </note>
 <etym>Provenç. occident ; espagn. et ital. occidente ; du lat. occidentem, de occidere, se coucher, tomber, de ob, et cadere (voy. <ref target="choir">CHOIR</ref>).</etym>
-<re ana="supplement" orig=" OCCIDENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="occidental">
 <form>
@@ -14906,7 +14878,8 @@
 <sense>
 <dictScrap>Administration qui perçoit l'<oVar>octroi</oVar>. Aller à l'<oVar>octroi</oVar>. Il est dans l'<oVar>octroi</oVar>.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Octroi</oVar> de mer, taxe locale prélevée sur le littoral, au profit des communes et au prorata de la population.</dictScrap>
 </sense>
 <note type="H">
@@ -14962,10 +14935,7 @@
 
 </note>
 <etym>Voy. <ref target="octroyer">OCTROYER</ref> ; provenç. autrei.</etym>
-<re ana="supplement" orig=" OCTROI. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="octroiement">
 <form>
@@ -15447,7 +15417,8 @@
 </form>
 <sense>
 <dictScrap>Synonyme de ophthalmoiatrie.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Adj. Qui a rapport à la médecine des yeux, à l'ophthalmoiatrie.</dictScrap>
 <cit>
 <quote>La clinique oculistique y sera inaugurée [à Heidelberg] pour Pâques 1878</quote>
@@ -15457,10 +15428,7 @@
 </cit>
 </sense>
 <etym>Oculiste.</etym>
-<re ana="supplement" orig=" OCULISTIQUE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="oculo-musculaire">
 <form>
@@ -19964,6 +19932,28 @@
 <sense>
 <dictScrap>On dit aussi : acheter à l'<oVar>œil</oVar>, obtenir des marchandises à l'<oVar>œil</oVar>. Dans cette maison il a tout à l'<oVar>œil</oVar>, et même, elliptiquement, il a l'<oVar>œil</oVar>.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>Connaître à l'<oVar>œil</oVar>, connaître en vérifiant soi-même.</dictScrap>
+<cit>
+<quote>Il est important de connaître à l'œil le peu d'assurance qu'il y a aux citations de notre auteur [faites par Fénelon], surtout à celles de saint François de Sales, dont il fait son fort</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Préf. sur l'instr. past. de M. de Cambrai, 30</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense ana="supplement">
+<dictScrap>À l'<oVar>œil</oVar>, à crédit ; Ajoutez :</dictScrap>
+</sense>
+<sense ana="supplement">
+<dictScrap>S. m. Populairement, un <oVar>œil</oVar>, un crédit.</dictScrap>
+<cit>
+<quote>Il me dit qu'il avait fait un héritage, et j'ouvre l'œil jusqu'à vingt francs</quote>
+<bibl>
+<biblScope>Gaz. des Trib. 28 sept. 1863</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="38">
 <dictScrap>À vue d'<oVar>œil</oVar>, loc. adverb. Autant qu'on en peut juger par la vue seule. Je n'ai jugé cette distance qu'à vue d'<oVar>œil</oVar>.</dictScrap>
@@ -20141,31 +20131,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="37" ana="supplement">
-<dictScrap>À l'<oVar>œil</oVar>.</dictScrap>
-<sense>
-<dictScrap>Connaître à l'<oVar>œil</oVar>, connaître en vérifiant soi-même.</dictScrap>
-<cit>
-<quote>Il est important de connaître à l'œil le peu d'assurance qu'il y a aux citations de notre auteur [faites par Fénelon], surtout à celles de saint François de Sales, dont il fait son fort</quote>
-<bibl>
-<author>BOSSUET</author>
-<biblScope>Préf. sur l'instr. past. de M. de Cambrai, 30</biblScope>
-</bibl>
-</cit>
 </sense>
-<sense>
-<dictScrap>À l'<oVar>œil</oVar>, à crédit ; Ajoutez :</dictScrap>
-</sense>
-<sense>
-<dictScrap>S. m. Populairement, un <oVar>œil</oVar>, un crédit.</dictScrap>
-<cit>
-<quote>Il me dit qu'il avait fait un héritage, et j'ouvre l'œil jusqu'à vingt francs</quote>
-<bibl>
-<biblScope>Gaz. des Trib. 28 sept. 1863</biblScope>
-</bibl>
-</cit>
-</sense>
-</sense><sense n="45">
+<sense n="45" ana="supplement">
 <dictScrap>Faire les yeux blancs, tourner les yeux en haut, de manière qu'il n'en paraisse plus que le blanc. Faire la bouche en cœur et les yeux blancs.</dictScrap>
 <sense>
 <dictScrap>Populairement. Se faire les yeux blancs, se dit de deux personnes qui se regardent d'un air irrité, menaçant.</dictScrap>
@@ -21040,7 +21007,8 @@
 <dictScrap>Nom spécifique d'un poisson, le sparus palpebratus, L.</dictScrap>
 </sense><sense n="5" ana="supplement">
 <dictScrap>Partie du casque, voy. <ref target="vue">VUE</ref>.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Au plur. Terme de boucherie. Les œillères, région dite aussi hampe, grasset, fras, œillet, lampe, qui s'étend de la partie postérieure et latérale du ventre vers l'extrémité inférieure et antérieure de la cuisse.</dictScrap>
 </sense>
 <note type="H">
@@ -21097,15 +21065,14 @@
 <biblScope/>
 </bibl>
 </cit>
+<sense ana="supplement">
+<dictScrap>Œillet mort dans les marais salants, <oVar>œillet</oVar> jouant le rôle d'aderne.</dictScrap>
+</sense>
 </sense>
 <sense n="5">
 <dictScrap>Terme de marine. Sorte de ganse ou de bagues qu'on pratique au bout de diverses manœuvres pour y passer un cordage.</dictScrap>
-</sense><sense n="4" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>AElet mort dans les marais salants, <oVar>œillet</oVar> jouant le rôle d'aderne.</dictScrap>
 </sense>
-</sense><sense n="6">
+<sense n="6" ana="supplement">
 <dictScrap>Terme de boucherie. Région dite aussi hampe, grasset, fras, œillères, lampe, qui s'étend de la partie postérieure et latérale du ventre vers l'extrémité inférieure et antérieure de la cuisse.</dictScrap>
 </sense>
 <note type="H">
@@ -21121,11 +21088,7 @@
 
 </note>
 <etym>Diminutif de œil.</etym>
-<re ana="supplement" orig=" 1. ŒILLET. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="œillet.2">
 <form>
@@ -21281,14 +21244,12 @@
 </form>
 <sense>
 <dictScrap>Genre de la famille des ombellifères, dont plusieurs espèces sont vénéneuses, particulièrement l'<oVar>oenanthe</oVar> crocata, L., vulgairement ciguë aquatique.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Nom spécifique du motteux ou cul-blanc.</dictScrap>
 </sense>
 <etym>Terme grec dérivé de deux mots signifiant vigne et fleur.</etym>
-<re ana="supplement" orig=" OENANTHE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="oenanthine">
 <form>
@@ -21958,7 +21919,8 @@
 <sense>
 <dictScrap>Œuf de vanneau, autre coquille univalve.</dictScrap>
 </sense>
-</sense><sense n="16">
+</sense>
+<sense n="16" ana="supplement">
 <dictScrap>Œuf de Nuremberg, nom ancien d'une espèce de montre fabriquée en Allemagne.</dictScrap>
 <cit>
 <quote>Ce sont les ouvriers de Nuremberg qui firent les premières montres portatives que l'on avait à la cour de Charles IX et de Henri III.... les plus ordinaires, de forme ovale ou d'amande, étaient nommées à Paris, dit-on, des œufs de Nuremberg</quote>
@@ -22118,10 +22080,7 @@
 
 </note>
 <etym>Berry, œu ; bourg. eu ; wallon, oû ; picard, ué, œuf, u, œufs ; provenç. ov, uov, ueu ; cat. ou ; espagn. huevo ; port. ovo ; ital. uovo ; du lat. ovum ; all. Ei ; angl. egg. ; gaél. ubh ; bas-bret. ui ; irl. ugh. Comme on a pour le grec les formes dialectales argien et lesbien, on peut supposer, pour forme grecque primitive, répondant à ovum, et que Benfey, approuvé par Curtius, a conjecturé représenter en sanscrit un avyam, qui serait un adjectif venant d'avi, oiseau.</etym>
-<re ana="supplement" orig=" ŒUF. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="œufrier">
 <form>
@@ -23337,7 +23296,8 @@
 <biblScope>Quadrup. t. III, p. 101</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>S. m. Celui qui offense.</dictScrap>
 <cit>
 <quote>Nous avons trouvé à propos que l'offensant demandât pardon à l'offensé</quote>
@@ -23350,10 +23310,7 @@
 <dictScrap>C'est un synonyme d'offenseur.</dictScrap>
 </sense>
 </sense>
-<re ana="supplement" orig=" OFFENSANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="offense">
 <form>
@@ -24885,6 +24842,16 @@
 <sense n="12">
 <dictScrap>Les <oVar>Offices</oVar>, gli Uffizii, grand et célèbre musée à Florence. On dit aussi la galerie des <oVar>Offices</oVar>.</dictScrap>
 </sense>
+<sense n="13" ana="supplement">
+<dictScrap>Rendre <oVar>office</oVar>, s'est dit, au XVIIe siècle, pour présenter ses devoirs, ses hommages à quelque personnage.</dictScrap>
+<cit>
+<quote>Je lui avais écrit [à M. de Bonnecorse], afin qu'il rendît office à l'ambassadeur de Constantinople, qui devait passer à Marseille ; il a fait cela de si bonne grâce, que ce m'est un nouvel engagement de le protéger en la personne de son fils</quote>
+<bibl>
+<author>Mlle de Scudéry</author>
+<biblScope>p. 309, Rathéry et Boutron, Paris, 1873</biblScope>
+</bibl>
+</cit>
+</sense>
 <note type="R">Au mot office, l'Académie écrit saint office sans trait d'union ; mais à saint, à congrégation, à inquisition, à qualificateur, elle écrit saint-office avec un trait d'union. </note>
 <note type="H">
 
@@ -25073,15 +25040,6 @@
 <biblScope>Italie, Tivoli.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="13">
-<dictScrap>Rendre <oVar>office</oVar>, s'est dit, au XVIIe siècle, pour présenter ses devoirs, ses hommages à quelque personnage.</dictScrap>
-<cit>
-<quote>Je lui avais écrit [à M. de Bonnecorse], afin qu'il rendît office à l'ambassadeur de Constantinople, qui devait passer à Marseille ; il a fait cela de si bonne grâce, que ce m'est un nouvel engagement de le protéger en la personne de son fils</quote>
-<bibl>
-<author>Mlle de Scudéry</author>
-<biblScope>p. 309, Rathéry et Boutron, Paris, 1873</biblScope>
-</bibl>
-</cit>
 </sense>
 <note type="H">
 
@@ -25112,10 +25070,7 @@
 
 </note>
 <etym>Office 1, qui était aussi bien féminin que masculin (voy. l'historique).</etym>
-<re ana="supplement" orig=" OFFICE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="official">
 <form>
@@ -25197,7 +25152,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Aujourd'hui, conseil établi par le concordat de 1801 pour protéger le clergé du second ordre contre les empiétements et les abus de pouvoir de leurs supérieurs. Un évêque peut-il, sans monition préalable, de sa seule autorité et sans consulter son <oVar>officialité</oVar>, interdire un ecclésiastique de toutes ses fonctions ? Question soumise au Conseil d'État en 1836.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Caractère officiel.</dictScrap>
 <cit>
 <quote>Le zèle qu'ils mettent à soutenir M. V.... les signale comme de redoutables agents de l'administration et entache sa candidature d'officialité</quote>
@@ -25213,10 +25169,7 @@
 </cit>
 </sense>
 <etym>Official.</etym>
-<re ana="supplement" orig=" OFFICIALITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="officiant">
 <form>
@@ -25675,7 +25628,8 @@
 <biblScope>Lexique, éd. L. Lalanne.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="12">
+</sense>
+<sense n="12" ana="supplement">
 <cit>
 <quote>Nom, dans les cafés de Paris, du garçon attaché à l'office</quote>
 <bibl>
@@ -25721,12 +25675,7 @@
 
 </note>
 <etym>Office 1 ; provenç et cat. officier.</etym>
-<re ana="supplement" orig=" 2. OFFICIER. ">
 
-
-
-
-</re>
 </entry>
 <entry xml:id="officière">
 <form>
@@ -26855,7 +26804,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="12">
+</sense>
+<sense n="12" ana="supplement">
 <dictScrap><oVar>Offrir</oVar> que l'on fera, <oVar>offrir</oVar> de faire.</dictScrap>
 <cit>
 <quote>Je lui ai offert que... je la ferais exécuter [une prise de corps]</quote>
@@ -26993,10 +26943,7 @@
 
 </note>
 <etym>Provenç. offrir, ufrir ; cat. oferir ; ital. offerire ; corrompu du lat. offerre, de ob, et ferre, porter.</etym>
-<re ana="supplement" orig=" OFFRIR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="offuscation">
 <form>
@@ -27862,7 +27809,8 @@
 </sense>
 </sense><sense n="9" ana="supplement">
 <dictScrap><oVar>Oie</oVar> de mer, nom sur les côtes de Normandie, d'un petit cétacé, ainsi dit à cause de la forme de son museau.</dictScrap>
-</sense><sense n="10">
+</sense>
+<sense n="10" ana="supplement">
 <dictScrap>Les <oVar>oies</oVar> du frère Philippe, les femmes ; locution qui provient d'un conte de La Fontaine, lequel est tiré de Boccace, qui, à son tour, l'a emprunté à une pieuse légende du moyen âge : Un jeune homme élevé loin du monde voit pour la première fois des femmes ; le jeune homme, touché de cette vue, demande ce que c'est ; le vieillard répond : ce sont des <oVar>oies</oVar>.</dictScrap>
 </sense>
 <note type="H">
@@ -27967,11 +27915,7 @@
 
 </note>
 <etym>Berry, oche ; wallon, âwe ; namur. auwe ; anc. espagn. auca ; espagn. mod. et portug. oca ; bas-lat. auca, de avica, dérivé fictif de avis, oiseau. Le nom général avica, oiseau, a été réduit à un sens spécial, comme jumentum, bête de somme, a donné jument.</etym>
-<re ana="supplement" orig=" OIE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="oignard">
 <form><orth>OIGNARD</orth><pron>o-gnar</pron>, s. m. OIGNE (o-gn'), s. f. </form>
@@ -32040,7 +31984,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme de blason. Espèce de parasol que le doge de Venise mettait sur ses armes.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Terme d'antiquité. Parasol employé dans les cérémonies religieuses.</dictScrap>
 <cit>
 <quote>Les fêtes des Grecs où le port de l'ombelle était requis et sacré</quote>
@@ -32064,10 +32009,7 @@
 
 </note>
 <etym>Lat. umbella, parasol, diminutif du radical qui est dans umbra, ombre.</etym>
-<re ana="supplement" orig=" OMBELLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ombellé">
 <form>
@@ -32723,7 +32665,8 @@
 <biblScope>Helvét. III</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>S'<oVar>ombrager</oVar>, prendre de l'<oVar>ombrage</oVar>, du soupçon (locution vieillie).</dictScrap>
 <cit>
 <quote>La personne qui en est prévenue [de la jalousie], s'ombrage de l'air qui touche la personne qu'elle aime...</quote>
@@ -32761,10 +32704,7 @@
 
 </note>
 <etym>Ombrage. L'ancienne langue, en place d'ombrager, avait ombroier.</etym>
-<re ana="supplement" orig=" OMBRAGER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ombrageusement">
 <form>
@@ -34241,8 +34181,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="P"> Quand le soleil est couché, il y a bien des bêtes à l'ombre. </re>
-</sense><sense n="16">
+</sense>
+<sense n="16" ana="supplement">
 <dictScrap>Sauter au delà de son <oVar>ombre</oVar>, tenter l'impossible.</dictScrap>
 <cit>
 <quote>Le tempérament de la France et vos dispositions ne le permettent pas, et je ne veux pas sauter au delà de mon ombre</quote>
@@ -34251,6 +34191,7 @@
 </bibl>
 </cit>
 </sense>
+<re type="P"> Quand le soleil est couché, il y a bien des bêtes à l'ombre. </re>
 <note type="H">
 
 <label>Xe s.</label>
@@ -34606,7 +34547,8 @@
 <sense>
 <dictScrap>Terme de blason. Marquer les traits plus fortement, afin de faire ressortir la pièce.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>En termes de métier, tenir à l'<oVar>ombre</oVar>, ombrager. Claies pour <oVar>ombrer</oVar> les serres.</dictScrap>
 </sense>
 <note type="H">
@@ -34622,10 +34564,7 @@
 
 </note>
 <etym>Ombre.</etym>
-<re ana="supplement" orig=" OMBRER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ombrette">
 <form>
@@ -34817,7 +34756,8 @@
 <sense>
 <dictScrap>Fig. Cet écolier est toujours l'<oVar>oméga</oVar> de sa classe, il en est le dernier.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Le double <oVar>oméga</oVar>, papillon dit aussi tête bleue, bombyx caeruleocephala.</dictScrap>
 </sense>
 <etym>En grec, l'o grand, long.</etym>
@@ -35191,7 +35131,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Un <oVar>omnibus</oVar>, un homme qui fait toute sorte de services.</dictScrap>
 <cit>
 <quote>L'accusé n'avait pas dans la maison [un restaurant] d'emploi déterminé ; il servait d'aide ; c'était ce que nous appelons un omnibus</quote>
@@ -35201,10 +35142,7 @@
 </cit>
 </sense>
 <etym>Lat. omnibus, pour tous, datif pluriel de omnis, tout. Le peuple fait souvent omnibus du fémin, sous-entendant voiture.</etym>
-<re ana="supplement" orig=" OMNIBUS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="omnicolore">
 <form>
@@ -35485,15 +35423,12 @@
 <biblScope>Journ. offic. 16 octobre 1872, p. 6521, 2e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Terme de turf. Course affectée aux chevaux de toute provenance de trois ans et au-dessus. L'<oVar>omnium</oVar> se court au bois de Boulogne, à la réunion d'automne.</dictScrap>
 </sense>
 <etym>Lat. omnium, génitif pluriel de omnis, tout.</etym>
-<re ana="supplement" orig=" OMNIUM. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="omnivore">
 <form>
@@ -36484,10 +36419,8 @@
 <sense n="2">
 <dictScrap>Ancienne machine de guerre pour lancer des pierres.</dictScrap>
 </sense>
+<note ana="supplement" type="R">L'onagre, machine de guerre, était disposé d'une manière analogue à la baliste : la pièce de bois mobile, au lieu de frapper contre un trait, portait à son extrémité une sorte de cuiller dans laquelle on plaçait des projectiles, qu'elle lançait en s'échappant.</note>
 <etym>Lat. onager ; le terme grec vient de deux mots signifiant en français âne et sauvage.</etym>
-<re ana="supplement" orig=" 1. ONAGRE. Ajoutez : - REM. L'onagre, machine de guerre, était disposé d'une manière analogue à la baliste : la pièce de bois mobile, au lieu de frapper contre un trait, portait à son extrémité une sorte de cuiller dans laquelle on plaçait des projectiles, qu'elle lançait en s'échappant. ">
-
-</re>
 </entry>
 <entry xml:id="onagre.2">
 <form>
@@ -36765,6 +36698,7 @@
 </cit>
 </sense>
 </sense>
+<note type="R" ana="supplement"> D'après l'Annuaire du Bureau des longitudes, l'once d'Espagne ou quadruple a valu 83 fr. 93 c. de 1772 à 1786 ; mais, depuis 1786, elle ne vaut plus que 81 fr. 50 c.</note>
 <note type="H">
 
 <label>XIIe s.</label>
@@ -36804,9 +36738,6 @@
 
 </note>
 <etym>Picard, onche ; provenç. onsa ; cat. unsa ; espagn. onza ; ital. oncia ; du lat. uncia, mot sicilien.</etym>
-<re ana="supplement" orig=" 1. ONCE. Ajoutez : - REM. D'après l'Annuaire du Bureau des longitudes, l'once d'Espagne ou quadruple a valu 83 fr. 93 c. de 1772 à 1786 ; mais, depuis 1786, elle ne vaut plus que 81 fr. 50 c. ">
-
-</re>
 </entry>
 <entry xml:id="once.2">
 <form>
@@ -39022,7 +38953,8 @@
 <sense>
 <dictScrap>Terme de fauconnerie. Maladie qui survient à l'œil des oiseaux par l'effet d'un chaperon trop serré ou de quelque rhume.</dictScrap>
 </sense>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Coup d'<oVar>ongle</oVar>, coup porté avec l'<oVar>ongle</oVar>, égratignure.</dictScrap>
 <sense>
 <dictScrap>Fig.</dictScrap>
@@ -40025,7 +39957,8 @@
 <sense>
 <dictScrap>Adj. Une agate <oVar>onyx</oVar>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap><oVar>Onyx</oVar> de Tecali (au Mexique), matière minérale nouvellement importée en France, et employée à la fabrication de divers objets d'ornement, tels que coupes, guéridons, supports de pendule, etc.</dictScrap>
 <cit>
 <quote>; elle se rapproche beaucoup de l'albâtre onyx exploité en Afrique</quote>
@@ -40048,10 +39981,7 @@
 
 </note>
 <etym>Terme grec signifiant ongle, à cause de la comparaison avec la couleur de l'ongle.</etym>
-<re ana="supplement" orig=" ONYX. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="onyxis">
 <form>
@@ -40089,7 +40019,8 @@
 <biblScope>Émaux, p. 340</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Nom donné à Nantes, dans le XVIIe siècle, à certains chargements de sel transportés par eau.</dictScrap>
 <cit>
 <quote>La grande onzaine était de quatre à six muids ; la petite onzaine, de deux à quatre muids</quote>
@@ -40100,10 +40031,7 @@
 </cit>
 </sense>
 <etym>Onze.</etym>
-<re ana="supplement" orig=" ONZAINE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="onze">
 <form>
@@ -40550,7 +40478,8 @@
 <biblScope>Journ. offic. 1er sept. 1875, p. 7428, 3e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Verre <oVar>opale</oVar>, verre à reflets d'<oVar>opale</oVar>.</dictScrap>
 <cit>
 <quote>Le phosphate de chaux dont on se sert depuis longtemps pour fabriquer le verre opale à reflets rougeâtres</quote>
@@ -40573,11 +40502,7 @@
 
 </note>
 <etym>Lat. opalus, sanscr. upala, pierre précieuse.</etym>
-<re ana="supplement" orig=" OPALE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="opaler">
 <form>
@@ -40641,7 +40566,8 @@
 </form>
 <sense n="1">
 <dictScrap>Terme de minéralogie. Qui est converti en opale.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qui a une teinte opaline.</dictScrap>
 <cit>
 <quote>Un verre plus ou moins opalisé au lieu du verre éminemment limpide et éclatant qu'ils ont coutume de produire</quote>
@@ -40651,10 +40577,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" OPALISÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="opanki">
 <form>
@@ -40979,6 +40902,12 @@
 <sense>
 <dictScrap>Grand <oVar>Opéra</oVar>, se dit quelquefois pour Théâtre de l'<oVar>Opéra</oVar>, afin de le distinguer de celui de l'<oVar>Opéra</oVar>-Comique.</dictScrap>
 </sense>
+<cit ana="supplement">
+<quote>En 1716, Catherine Vanderberg, qui avait le privilége du théâtre de la foire Saint-Laurent, obtint la permission de représenter des pièces mêlées de chant, de danses et de symphonies ; ces sortes de vaudevilles prirent alors le nom d'opéras comiques, que Lesage avait donné à sa parodie de Télémaque</quote>
+<bibl>
+<biblScope>Journ. offic. 19 fév. 1877, p. 1267, 1re col.</biblScope>
+</bibl>
+</cit>
 </sense>
 <sense n="6">
 <dictScrap><oVar>Opéra</oVar> ballet, genre d'<oVar>opéra</oVar> mêlé de danses, fort à la mode à la fin du XVIIe siècle et au commencement du XVIIIe siècle. Le Dieu et la Bayadère de MM. Scribe et Auber est un <oVar>opéra</oVar> ballet.</dictScrap>
@@ -41046,21 +40975,10 @@
 <sense>
 <dictScrap>Faire <oVar>opéra</oVar>, au nain jaune, se défaire successivement de toutes ses cartes, sans en avoir été empêché par son adversaire ; se dit aussi au lansquenet, quand le banquier ou coupeur amène toutes les cartes retournées sur le tapis avant d'amener la sienne.</dictScrap>
 </sense>
-</sense><sense n="5">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>En 1716, Catherine Vanderberg, qui avait le privilége du théâtre de la foire Saint-Laurent, obtint la permission de représenter des pièces mêlées de chant, de danses et de symphonies ; ces sortes de vaudevilles prirent alors le nom d'opéras comiques, que Lesage avait donné à sa parodie de Télémaque</quote>
-<bibl>
-<biblScope>Journ. offic. 19 fév. 1877, p. 1267, 1re col.</biblScope>
-</bibl>
-</cit>
 </sense>
 <note type="R">On a longtemps écrit au pluriel opéra sans s.  <cit><quote>Bien que j'aie toujours entendu prononcer des opéras comme on dit des factums et des totons, je ne voudrais pas assurer qu'on le doive écrire, et je pourrais bien m'être trompé en l'écrivant de la sorte</quote><bibl><author>BOILEAU</author><biblScope>Réflexions crit. sur Longin, VIII</biblScope></bibl></cit> <cit><quote>Les opéra de Rameau commençaient à faire du bruit, et relevèrent ses ouvrages théoriques, que leur obscurité laissait à la portée de peu de gens</quote><bibl><author>J. J. ROUSS.</author><biblScope>Confess. V</biblScope></bibl></cit> Mais, depuis l'édition de 1835, l'Académie met l's au pluriel ; auparavant, plusieurs la mettaient aussi.  <cit><quote>J'écris opéras au pluriel, malgré la décision contraire, parce qu'il me semble que la dernière syllabe de ce mot est longue au pluriel</quote><bibl><author>D'ALEMB.</author><biblScope>Lib. de la mus. Œuvr. t. III, p. 358, note 1, dans POUGENS.</biblScope></bibl></cit> </note>
 <etym>Ital. opera, œuvre (voy. ce mot).</etym>
-<re ana="supplement" orig=" OPÉRA. ">
 
-
-</re>
 </entry>
 <entry xml:id="opérable">
 <form>
@@ -41404,14 +41322,12 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme de conchyliologie. Pierre calcaire ou cornée qui sert à fermer plus ou moins complétement l'ouverture de certaines coquilles univalves.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Terme d'artillerie. Plaque de métal qui, dans certains obus à balles, sépare la cavité où sont contenues les balles de celle qui renferme la poudre.</dictScrap>
 </sense>
 <etym>Lat. operculum, de operire, couvrir.</etym>
-<re ana="supplement" orig=" OPERCULE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="operculé">
 <form>
@@ -42718,7 +42634,8 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap><oVar>Opiner</oVar> de, donner son avis sur, décider de.</dictScrap>
 <cit>
 <quote>[Gens] qui opinent de nos biens et de nos vies et qui en ont la juridiction</quote>
@@ -42766,10 +42683,7 @@
 
 </note>
 <etym>Lat. opinari ; prov. opinar. Opinari, opinio, opinus, dans nec opinus, est rapporté avec vraisemblance par L. Meyer à la racine qu'on trouve dans le grec et qui est une transformation de la racine oc (d'où oculus, œil). Opinus, qui est ici le mot fondamental dont opinio et opinari sont dérivés, signifierait donc qui voit, qui s'aperçoit de. Corssen a adopté cette explication (Nachträge, 28).</etym>
-<re ana="supplement" orig=" OPINER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="opineur">
 <form>
@@ -43071,7 +42985,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Opiniâtrer</oVar> (avec un nom de chose pour sujet) quelqu'un dans quelque chose, faire qu'il s'y attache avec opiniâtreté.</dictScrap>
 <cit>
 <quote>Cette promesse opiniâtre ce prince dans sa résolution</quote>
@@ -43115,10 +43030,7 @@
 
 </note>
 <etym>Opiniâtre.</etym>
-<re ana="supplement" orig=" OPINIÂTRER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="opiniâtreté">
 <form>
@@ -43675,7 +43587,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Intention (sens vieilli).</dictScrap>
 <cit>
 <quote>Il eut opinion de les sauver</quote>
@@ -43885,10 +43798,7 @@
 
 </note>
 <etym>Prov. opinio ; espagn. opinion ; ital. opinione ; du lat. opinionem, de opinari, opiner.</etym>
-<re ana="supplement" orig=" OPINION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="opinioniste">
 <form>
@@ -44671,7 +44581,8 @@
 <sense>
 <dictScrap>En dialectique, les <oVar>opposés</oVar>, les termes <oVar>opposés</oVar>. Tous les contraires sont <oVar>opposés</oVar>, mais tous les <oVar>opposés</oVar> ne sont pas contraires.</dictScrap>
 </sense>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>L'<oVar>opposé</oVar>, le revers d'une monnaie.</dictScrap>
 <cit>
 <quote>En général, on distingue dans la monnaie sept caractères : la face appelée aussi avers, effigie ou droit, l'opposé ou revers...</quote>
@@ -44680,10 +44591,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" OPPOSÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="opposer">
 <form>
@@ -46826,14 +46734,12 @@
 <sense>
 <dictScrap>S. m. Instrument qui sert à écrire ainsi.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Instrument servant à dessiner ; c'est une vitre interposée entre l'objet à dessiner et l'œil du dessinateur ; on fait sur la vitre les contours de l'objet avec un crayon gras ; on décalque ensuite.</dictScrap>
 </sense>
 <etym>Optique, et du grec, pris passivement.</etym>
-<re ana="supplement" orig=" OPTICOGRAPHE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="optimatie">
 <form>
@@ -47616,8 +47522,9 @@
 <biblScope>Tart. II, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
-<dictScrap>Ajoutez : D'ores et déjà ou d'<oVar>ors</oVar> et déjà, dès maintenant. Quand les deux époux concourent au contrat, le consentement de la femme est certain, et rien ne s'opposait à ce qu'on la déclarât d'<oVar>ors</oVar> et déjà propriétaire de l'immeuble licité, Dissertation insérée au n° 2925 du Répertoire périodique de l'enregistrement.</dictScrap>
+</sense>
+<sense n="5" ana="supplement">
+<dictScrap>D'ores et déjà ou d'<oVar>ors</oVar> et déjà, dès maintenant. Quand les deux époux concourent au contrat, le consentement de la femme est certain, et rien ne s'opposait à ce qu'on la déclarât d'<oVar>ors</oVar> et déjà propriétaire de l'immeuble licité, Dissertation insérée au n° 2925 du Répertoire périodique de l'enregistrement.</dictScrap>
 </sense>
 <note type="H">
 
@@ -47739,10 +47646,7 @@
 
 </note>
 <etym>Provenç. ora, ara, aras, er, era, eras ; anc. cat. ara ; ital. or, ora ; du lat. hora (voy. <ref target="heure">HEURE</ref>). Le sens propre de ore, ores ou or est : à l'heure, alors, maintenant ; de là le passage est facile au sens actuel de or. Ore ou or est hora ; ores est horis.</etym>
-<re ana="supplement" orig=" 1. OR. ">
 
-
-</re>
 </entry>
 <entry xml:id="or.2">
 <form>
@@ -48436,6 +48340,16 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap>Le pesant d'<oVar>or</oVar>, au propre.</dictScrap>
+<cit>
+<quote>[Chez les barbares] le parricide devra se racheter en donnant tout son pesant d'or, ou deux fois son pesant d'argent</quote>
+<bibl>
+<author>MICHELET</author>
+<biblScope>Orig. du droit, p. 365</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="11">
 <dictScrap>Terme de mythologie. L'âge, le siècle d'<oVar>or</oVar>, les temps où, sous le règne de Saturne, les hommes vivaient dans l'innocence et le bonheur.</dictScrap>
@@ -48585,18 +48499,6 @@
 <biblScope>Lexique, éd. P. Mesnard</biblScope>
 </bibl>
 </cit>
-</sense><sense n="10">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Le pesant d'<oVar>or</oVar>, au propre.</dictScrap>
-<cit>
-<quote>[Chez les barbares] le parricide devra se racheter en donnant tout son pesant d'or, ou deux fois son pesant d'argent</quote>
-<bibl>
-<author>MICHELET</author>
-<biblScope>Orig. du droit, p. 365</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <re type="P"><form>C'est de l'or de Toulouse qui lui coûtera bien cher</form>, c'est-à-dire ce bien ne lui profitera pas ; locution tirée de l'or pillé à Toulouse par les Romains, et qui, d'après la légende, fut cause de malheur à ceux qui l'eurent (voy. JUSTIN, XII, 3). </re>
 <re type="P"><form>Or est qui or vaut</form>, c'est-à-dire nous estimons les gens à proportion du bien qu'ils nous procurent. </re>
@@ -48779,11 +48681,7 @@
 
 </note>
 <etym>Bourg. Ô, devant une consonne ; prov. aur ; espagn. oro ; portug. ouro ; ital. oro ; bas-lat. orum (quod rustici orum dicebant, POMP., FESTUS, p. 75) ; du lat. aurum ; comparez le slave : lith. auksas, or ; prussien, ausin ; la racine est le sanscrit ush, brûler et aussi briller, à cause de l'éclat de l'or ; comparez le lat. aurora ; lithuanien, auszra ; sanscrit, ushas.</etym>
-<re ana="supplement" orig=" 2. OR. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="oracle">
 <form>
@@ -50029,7 +49927,8 @@
 <sense>
 <dictScrap>Terme d'église. Se dit quelquefois pour salut. Aller à l'<oVar>oraison</oVar>.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>L'<oVar>oraison</oVar> dominicale, la prière, dite aussi le Pater, qui commence par ces mots : Notre père qui êtes aux cieux.</dictScrap>
 </sense>
 <note type="R">Au mot SANCTIFIER, l'Académie met un grand O à Oraison dominicale ; elle n'en met point à la même expression dans l'article ORAISON. </note>
@@ -50107,10 +50006,7 @@
 
 </note>
 <etym>Provenç. oratio, oraso, oration, orazon ; espagn. oracion ; ital. orazione ; du latin orationem, de orare, parler, dénominatif de os, oris, bouche.</etym>
-<re ana="supplement" orig=" ORAISON. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="oral">
 <form>
@@ -50546,7 +50442,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Lieu où l'on conserve les orangers pendant l'hiver, dans les climats où ces arbres ne peuvent supporter la température ambiante ; synonyme de serre froide.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Plantation d'orangers.</dictScrap>
 <cit>
 <quote>L'Algérie possède de belles orangeries ; celles de Blida et de Coléa comptaient, en 1852, 23 680 sujets d'un revenu annuel de 114 855 francs</quote>
@@ -50557,10 +50454,7 @@
 </cit>
 </sense>
 <etym>Oranger 1.</etym>
-<re ana="supplement" orig=" ORANGERIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="orangette">
 <form>
@@ -50818,7 +50712,8 @@
 </cit>
 </sense><sense n="5" ana="supplement">
 <dictScrap>Dans le XVIIe siècle, au théâtre, on appelait <oVar>orateur</oVar> l'acteur qui faisait l'annonce à la fin de la représentation, et qui, en proposant le programme du prochain spectacle, prenait véritablement l'avis de l'assemblée, se trouvant à la fois l'interprète des comédiens auprès du public, du public auprès des comédiens.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Chez les francs-maçons, un des officiers de la loge ; il y joue un rôle analogue à celui du ministère public dans les tribunaux</dictScrap>
 </sense>
 <note type="H">
@@ -55934,7 +55829,8 @@
 <biblScope>Journ. offic. 20 nov. 1871, p. 4554, 2e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="29">
+</sense>
+<sense n="29" ana="supplement">
 <dictScrap>Il s'est dit pour moyen de faire quelque chose.</dictScrap>
 <cit>
 <quote>Monsieur le Grand me commanda de faire des vers.... je fis ce que je pus pour m'en excuser, mais il n'y eut ordre</quote>
@@ -56238,11 +56134,7 @@
 
 </note>
 <etym>Bourg. odre ; Berry, orde, espèce, famille : ce chien est de la bonne orde ; prov. orde, horde, orden ; esp. orden ; port. ordem ; ital. ordine ; du lat. ordinem, ordre. Corssen (Beitr. p. 108) voit dans ordo le suffixe don, qui est dans dulce-do, cupido, et la racine or, de oriri ; comparez le verbe grec signifiant faire aller ; sanscr. ar, rinomi (1er i accent bref , o accent long ), se mettre en mouvement, aller : ordo serait donc la mise en mouvement, la façon d'aller.</etym>
-<re ana="supplement" orig=" ORDRE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="ordure">
 <form>
@@ -58091,7 +57983,8 @@
 <biblScope>Mém. t. III, p. 63, dans POUGENS</biblScope>
 </bibl>
 </cit>
-</sense><sense n="23">
+</sense>
+<sense n="23" ana="supplement">
 <dictScrap>Disposition des cheveux que l'on compare à une <oVar>oreille</oVar> de chien, parce qu'ils tombent sur les tempes.</dictScrap>
 <cit>
 <quote>Voici le Juif en longue lévite, avec ses bottes éculées, avec ses oreilles de chien en avant des tempes, ses rides multiples du front</quote>
@@ -59409,7 +59302,8 @@
 <dictScrap>Géométrie <oVar>organique</oVar>, l'art de décrire des courbes par le moyen d'instruments, et en général par un mouvement continu.</dictScrap>
 </sense><sense n="6" ana="supplement">
 <dictScrap>En linguistique, formations <oVar>organiques</oVar>, les formations régulières, et dont l'étymologie rend compte normalement, par opposition aux formations inorganiques qui sont irrégulières. Ainsi faeculentus est <oVar>organique</oVar>, venant de faecula, et sanguinolentus est inorganique, car il n'existe pas de mot comme sanguinolus (voy. au Supplément le suffixe....LENT).</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>S. m. L'<oVar>organique</oVar>, la substance organisée.</dictScrap>
 <cit>
 <quote>La nature ne tend pas à faire du brut, mais de l'organique.... en réfléchissant sur cette espèce de calcul, on se familiarisera avec cette idée singulière que l'organique est l'ouvrage le plus ordinaire de la nature</quote>
@@ -59432,11 +59326,7 @@
 
 </note>
 <etym>Lat. organicus, d'instrument, de organum, instrument, organe.</etym>
-<re ana="supplement" orig=" 1. ORGANIQUE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="organique.2">
 <form>
@@ -60293,7 +60183,8 @@
 <sense n="9">
 <dictScrap>Petite <oVar>orge</oVar>, cévadille </dictScrap>
 <re type="P"><form>Il faut mourir, petit cochon, il n'y a plus d'orge</form>, c'est-à-dire la mort est inévitable. </re>
-</sense><sense n="10">
+</sense>
+<sense n="10" ana="supplement">
 <dictScrap>Lancette en grain d'<oVar>orge</oVar>, lancette dont la lame a la forme d'un grain d'<oVar>orge</oVar>.</dictScrap>
 </sense>
 <note type="R">Orge était autrefois masculin et féminin. Bossuet l'a fait masculin : <cit><quote>La meule d'un moulin.... ne moudra que le grain qu'on aura mis dessous ; si c'est de l'orge, on aura de l'orge moulu</quote><bibl><author>BOSS.</author><biblScope>Élévat. sur myst. I, 8</biblScope></bibl></cit> L'Académie le fait féminin, sauf pour orge mondé, orge perlé, orge carré ; c'est évidemment une exception que rien ne justifie ; et les personnes qui écrivent orge mondée, orge perlée, orge carrée, ont raison. </note>
@@ -60379,10 +60270,7 @@
 
 </note>
 <etym>Wallon, woig, s. m. ; prov. ordi ; esp. orzuelo ; ital. orzo ; du lat. hordeum.</etym>
-<re ana="supplement" orig=" ORGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="orgé">
 <form>
@@ -62132,7 +62020,8 @@
 </form>
 <sense>
 <dictScrap>Celui qui est versé dans la connaissance des langues orientales. Un habile <oVar>orientaliste</oVar>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Peintre qui emprunte surtout ses sujets et ses couleurs à l'Orient. Il [E.</dictScrap>
 <cit>
 <quote>Fromentin] a conquis sa place chez les orientalistes à côté de Decamps et de Marilhat</quote>
@@ -62143,10 +62032,7 @@
 </cit>
 </sense>
 <etym>Oriental.</etym>
-<re ana="supplement" orig=" ORIENTALISTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="orientation">
 <form>
@@ -67924,7 +67810,8 @@
 </sense>
 <sense n="8">
 <dictScrap><oVar>Os</oVar> de seiche, grande coquille intérieure, dure et friable, qui soutient le dos de la seiche. <oVar>Os</oVar> de seiches, le cent payera 15 sous, Tarif, 18 sept. 1664.</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap><oVar>Os</oVar> verts, <oVar>os</oVar> provenant des boucheries et qu'on soumet à la cuisson pour en retirer la gélatine et la graisse.</dictScrap>
 </sense>
 <re type="P"><form>Jamais belle chair ne fut près des os</form>, se dit pour exprimer qu'une femme trop maigre n'est jamais belle. </re>
@@ -68067,10 +67954,7 @@
 
 </note>
 <etym>Berry, ous ; wallon, ohai ; namur. oucha ; Hainaut, oche ; provenç. os ; espagn. hueso ; ital. osso ; du lat. os, ossis (ossis, par assimilation, pour ostis) ; sanscrit, asthi. L'ancien français osses représente le pluriel ossa, et est du féminin comme c'est l'usage pour les noms formés de noms latins au neutre pluriel. L'espagnol et l'italien représentent une forme ossum. Enfin le wallon ohai représente un diminutif ossiculum.</etym>
-<re ana="supplement" orig=" OS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="osanore">
 <form>
@@ -68550,7 +68434,8 @@
 </sense>
 <sense n="2">
 <dictScrap><oVar>Oseille</oVar> de Guinée, un des noms sous lesquels on a désigné l'hibiscus acide (malvacées), originaire de Guinée, et qui est l'hibiscus sabdariffa de Linné.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Arbre à l'<oVar>oseille</oVar>, l'andromeda arborea, L., BAILLON, Dict. de botan. p. 257.</dictScrap>
 </sense>
 <note type="H">
@@ -68566,10 +68451,7 @@
 
 </note>
 <etym>Forme non latine oxalia, du lat. oxalis ; grec, terme signifiant oseille, dérivé du mot acide.</etym>
-<re ana="supplement" orig=" OSEILLE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="oser">
 <form>
@@ -69138,7 +69020,8 @@
 <sense>
 <dictScrap>On le dit, par extension, des Turcs en général.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Adj. Qui appartient aux Osmanlis, aux Turcs.</dictScrap>
 <cit>
 <quote>Et moi-même, quoique étranger, j'ai eu l'occasion de bénéficier de cette cordiale hospitalité osmanlie</quote>
@@ -69148,10 +69031,7 @@
 </cit>
 </sense>
 <etym>Turc, othmanli, descendant d'Othman.</etym>
-<re ana="supplement" orig=" OSMANLI. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="osmazôme">
 <form>
@@ -75115,7 +74995,8 @@
 </sense>
 <sense n="2">
 <dictScrap><oVar>Oublie</oVar>, la bulle lignaire qui porte ce nom, ainsi que ceux de gaufre roulée et papier roulé (coquille univalve).</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Pain d'autel préparé pour être consacré à la messe (c'est le sens primitif d'<oVar>oublie</oVar>).</dictScrap>
 </sense>
 <note type="H">
@@ -75170,10 +75051,7 @@
 
 </note>
 <etym>Génev. oubli, s. m. ; provenç. oblia ; bas-lat. oblata, de oblatus, offert (voy. <ref target="oblation">OBLATION</ref>), à cause que l'oublie était une sorte d'offrande que le vassal faisait à son seigneur.</etym>
-<re ana="supplement" orig=" OUBLIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="oublié">
 <form>
@@ -76285,9 +76163,16 @@
 
 </note>
 <etym>Bas-lat. olca, qui est dans Grégoire de Tours.</etym>
-<re ana="supplement" orig=" 2. OUCHE(ou-ch'), s. f. Entaille que le dresseur fait sur un canon de fusil pour indiquer la position et la profondeur d'un mal-égal qui doit être enlevé à la meule. ">
-
-</re>
+</entry>
+<entry xml:id="ouche.2" ana="supplement">
+<form>
+<orth>OUCHE</orth>
+<pron>ou-ch'</pron>
+<gram>s. f.</gram>
+</form>
+<sense>
+<dictScrap>Entaille que le dresseur fait sur un canon de fusil pour indiquer la position et la profondeur d'un mal-égal qui doit être enlevé à la meule.</dictScrap>
+</sense>
 </entry>
 <entry xml:id="oudenarde">
 <form>
@@ -76726,12 +76611,10 @@
 </sense>
 <sense n="8">
 <dictScrap>Langue d'<oVar>oui</oVar>, voy. <ref target="oïl">OÏL</ref>.</dictScrap>
-</sense><sense n="2" ana="supplement">
-<dictScrap>L'usage veut qu'à une interrogation affirmative on réponde par <oVar>oui</oVar>, et à une interrogation négative, par non. Avez-vous fait cela ? <oVar>oui</oVar>. N'avez-vous pas fait cela ? non. La raison en est que, dans les interrogations négatives, la réponse par <oVar>oui</oVar> serait amphibologique, et qu'on ne saurait si <oVar>oui</oVar> détruit la négation ou la confirme.</dictScrap>
-</sense><sense n="3">
-<dictScrap>Malherbe élidait l'e de le devant <oVar>oui</oVar> : En matière de choses futures, l'<oVar>oui</oVar> et le non trouvent des amis, qui parient les uns d'un côté, les autres d'un autre, Lexique, éd. L. Lalanne.</dictScrap>
 </sense>
 <note type="R">Dans la citation de Molière au n° 2, l'e muet du mot avant oui n'est pas élidé, et il l'est dans la citation de Gilbert au n° 3. </note>
+<note ana="supplement" type="R">2. L'usage veut qu'à une interrogation affirmative on réponde par <oVar>oui</oVar>, et à une interrogation négative, par non. Avez-vous fait cela ? <oVar>oui</oVar>. N'avez-vous pas fait cela ? non. La raison en est que, dans les interrogations négatives, la réponse par <oVar>oui</oVar> serait amphibologique, et qu'on ne saurait si <oVar>oui</oVar> détruit la négation ou la confirme.</note>
+<note type="R" ana="supplement">3. Malherbe élidait l'e de le devant <oVar>oui</oVar> : En matière de choses futures, l'<oVar>oui</oVar> et le non trouvent des amis, qui parient les uns d'un côté, les autres d'un autre, Lexique, éd. L. Lalanne.</note>
 <note type="H">
 
 <label>XIe s.</label>
@@ -76845,11 +76728,7 @@
 
 </note>
 <etym>La forme primitive est oïl, toujours dissyllabe, et formée du latin hoc illud, oui cela (hoc ayant pris le sens de oui : Ne dit ne o ne non, R. de Cambrai 264) ; oïl est donc fait comme nennil, qui représente non illud, non cela. Picard, awi ; Berry, voui ; wallon, awoi, dans lequel Grandgagnage regarde l'a comme prosthétique ; bourguig. vouei ; différents dialectes cités par Grandgagnage ai, âï, oï. On trouve dans les anciens textes, quoique rarement, des formes singulières de ce mot : oal, ouail, ol, odil.</etym>
-<re ana="supplement" orig=" OUI. - REM. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="ouï">
 <form>
@@ -82430,6 +82309,16 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap>Terme de comptabilité. à livre <oVar>ouvert</oVar>.</dictScrap>
+<cit>
+<quote>Le grand livre ou livre de comptes est un registre sur lequel on ouvre des comptes à toutes les personnes avec qui on fait des affaires ; chaque compte est dressé à livre ouvert, c'est-à-dire qu'il occupe deux pages, en regard l'une de l'autre.... la page de gauche reçoit les articles du doit ou débit ; celle de droite, les articles de l'avoir ou crédit</quote>
+<bibl>
+<author>SAINTOIN-LEROY</author>
+<biblScope>Comptabilité simplifiée, 3e éd. Paris, 1876, p. 12</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="14">
 <dictScrap>Guerre <oVar>ouverte</oVar>, guerre déclarée.</dictScrap>
@@ -82679,23 +82568,8 @@
 <sense>
 <dictScrap>S. m. pl. Se dit, à la paume, de certains intervalles garnis de filets qui sont placés entre le toit et les batteries, dans un jeu de dedans.</dictScrap>
 </sense>
-</sense><sense n="13">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Terme de comptabilité. à livre <oVar>ouvert</oVar>.</dictScrap>
-<cit>
-<quote>Le grand livre ou livre de comptes est un registre sur lequel on ouvre des comptes à toutes les personnes avec qui on fait des affaires ; chaque compte est dressé à livre ouvert, c'est-à-dire qu'il occupe deux pages, en regard l'une de l'autre.... la page de gauche reçoit les articles du doit ou débit ; celle de droite, les articles de l'avoir ou crédit</quote>
-<bibl>
-<author>SAINTOIN-LEROY</author>
-<biblScope>Comptabilité simplifiée, 3e éd. Paris, 1876, p. 12</biblScope>
-</bibl>
-</cit>
 </sense>
-</sense>
-<re ana="supplement" orig=" OUVERT. ">
 
-
-</re>
 </entry>
 <entry xml:id="ouverte">
 <form>
@@ -83865,7 +83739,8 @@
 <sense>
 <dictScrap>Machines d'<oVar>ouvraison</oVar>, celles qui, dans le dévidage de la soie, servent au doublage et au moulinage des gréges.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap><oVar>Ouvraison</oVar> se dit d'autre chose que de la soie.</dictScrap>
 <cit>
 <quote>L'ouvraison des cheveux est une industrie toute française</quote>
@@ -83875,10 +83750,7 @@
 </cit>
 </sense>
 <etym>Ouvrer.</etym>
-<re ana="supplement" orig=" OUVRAISON. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ouvrant">
 <form>
@@ -83923,7 +83795,8 @@
 </sense>
 <sense n="2">
 <dictScrap>S. m. Terme d'art du moyen âge. L'<oVar>ouvrant</oVar> se dit, dans certains tableaux, de tables qui s'ouvrent.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Synonyme de battant, en parlant d'une porte. Porte cochère à deux ou trois <oVar>ouvrants</oVar>. Dans la porte à trois <oVar>ouvrants</oVar>, les deux <oVar>ouvrants</oVar> latéraux sont ordinairement fixés par des attaches, et on ne fait jouer pour l'usage ordinaire que l'<oVar>ouvrant</oVar> du milieu.</dictScrap>
 </sense>
 <note type="H">
@@ -83939,10 +83812,7 @@
 
 </note>
 <etym>Ouvrir.</etym>
-<re ana="supplement" orig=" OUVRANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ouvré">
 <form>
@@ -84235,7 +84105,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Terme de papeterie. Ouvrier qui puise, avec la forme, la pâte du papier dans la cuve.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Ouvrier qui ouvre, écarte la soie, la laine.</dictScrap>
 <cit>
 <quote>Les gréges asiatiques, longtemps dédaignées, trouvent maintenant les ouvreurs mieux disposés</quote>
@@ -84245,10 +84116,7 @@
 </cit>
 </sense>
 <etym>Ouvrir.</etym>
-<re ana="supplement" orig=" OUVREUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ouvreuse">
 <form>
@@ -86332,7 +86200,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="20">
+</sense>
+<sense n="20" ana="supplement">
 <dictScrap><oVar>Ouvrir</oVar> la laine, en écarter les brins. Quand on refait un matelas, on <oVar>ouvre</oVar> la laine à la main.</dictScrap>
 <cit>
 <quote>Les opérations qui précèdent le filage proprement dit ont pour but d'ouvrir, de battre, de carder, de peigner, d'étirer sans torsion, puis avec torsion, les filaments...</quote>
@@ -86602,10 +86471,7 @@
 
 </note>
 <etym>Bourg. ôvri ; Berry, ovrir ; prov. ubrir, obrir ; anc. cat. ubrir ; anc. ital. oprire. Ce mot soulève de grandes difficultés. Il ne peut venir du latin aperire ; l'a latin ne se change pas en o ou u dans les langues romanes ; et, si on admettait en français ce changement à cause de l'exemple de orteil provenant d'articulus, il ne serait pas loisible d'étendre cette particularité au provençal, à l'ancien catalan, à l'ancien italien. L'espagnol et l'italien disent régulièrement abrir et aprire. Diez a essayé de lever la difficulté : suivant lui, ouvrir vient de de-operire, découvrir, de cette façon : ovrir est une contraction de a-ovrir, qui existe en effet et qui ne signifie rien de plus que ouvrir ; aovrir est une syncope du provençal adubrir, qui signifie ouvrir, et qui doit se décomposer non en ad-ubrir, mais en a-dubrir, lequel dubrir est de-operire. Ce dubrir est appuyé en effet par le provençal moderne durbi, le piémontais durvi, le wallon drovi, le lorrain deurvi, qui tous signifient ouvrir ; on dit aussi en basse Bourgogne : la porte, alle est douverte. Mais la conjecture de Diez ne paraît pas admissible ; en effet adubrir se décompose certainement en ad-uvrir, comme le français aovrir en a-ovrir ; c'est ce que prouvent tous les composés de ce genre aorner, aemplir, aüner, etc. Cette hypothèse écartée, la difficulté reparaît entière ; et, dans l'état actuel des documents, la seule explication qui se présente, c'est que ou bien la langue a confondu aperire et operire, confusion qui est commune au français, au provençal, et qui a même atteint jusqu'à un certain point le catalan et l'italien, ou bien, l'a latin ayant été changé en o, ce qui n'est pas impossible en français, c'est du français qu'il a passé au provençal et au catalan. Quant aux formes qui ont un d, on peut sans doute les rattacher à de-operire, mais on peut aussi y voir ouvrir composé avec de au sens augmentatif ; comparez à ÔTER un cas pareil où les patois ont un d. Quelques traces paraissent indiquer que avrir n'a pas été étranger très anciennement à la langue ; Génin, Roland, p. 516, cite porte averte, et, p. 517, avre les oilz, dans un texte de la Chanson de Roland, mais ce texte a été écrit en Italie avec beaucoup de formes causées par l'influence du pays, et dès lors prouve peu pour le français ; il y a beaucoup plus d'autorité dans : sepulcre avranz est li guatur d'icels (FR. MICHEL, Liber psalm. p. XVIII), qui est la traduction de : Sepulchrum patens est guttur eorum. Avrant semblerait montrer que, de même que la forme en o n'était pas tout à fait étrangère à l'Italie, la forme en a n'était pas tout à fait étrangère à la France.</etym>
-<re ana="supplement" orig=" OUVRIR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ouvroir">
 <form>
@@ -86808,6 +86674,13 @@
 <biblScope>Hist. astr. mod. t. II, p. 71</biblScope>
 </bibl>
 </cit>
+<cit ana="supplement">
+<quote>Une ovale de diamants [au milieu d'un bracelet]</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>Lexique</biblScope>
+</bibl>
+</cit>
 </sense>
 </sense>
 <sense n="3">
@@ -86820,15 +86693,6 @@
 <bibl>
 <author>DESC.</author>
 <biblScope>Méth. V, 5</biblScope>
-</bibl>
-</cit>
-</sense><sense n="2">
-<dictScrap>à l'emploi d'<oVar>ovale</oVar> au féminin ajoutez cet exemple :</dictScrap>
-<cit>
-<quote>Une ovale de diamants [au milieu d'un bracelet]</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>Lexique</biblScope>
 </bibl>
 </cit>
 </sense>
@@ -86847,10 +86711,7 @@
 
 </note>
 <etym>Lat. ovum, œuf.</etym>
-<re ana="supplement" orig=" 1. OVALE. ">
 
-
-</re>
 </entry>
 <entry xml:id="ovale.2">
 <form>
@@ -86919,13 +86780,11 @@
 </form>
 <sense>
 <dictScrap>Ouvrier, ouvrière qui prépare la soie ovalée ; synonyme de moulinier, moulinière.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Celui qui, au moyen d'un métier ayant la forme ovale, prépare les soies destinées à la fabrication des bas, des tulles et des ouvrages de passementerie, Tarif des patentes, 1858.</dictScrap>
 </sense>
-<re ana="supplement" orig=" OVALISTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ovalité">
 <form>

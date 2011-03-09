@@ -840,7 +840,8 @@
 <biblScope>Ém. V</biblScope>
 </bibl>
 </cit>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Anciennement, se mettre en <oVar>nage</oVar>, commencer une navigation.</dictScrap>
 <cit>
 <quote>Elle [Calypso] lui dit [à Ulysse] de se mettre en nage jusqu'au port des Phéaques.... il se mit à nage</quote>
@@ -930,7 +931,8 @@
 </sense>
 <sense n="4">
 <dictScrap>S. m. pl. Terme de zoologie. Ordre comprenant tous les mammifères privés d'extrémités postérieures, par exemple le phoque.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Qui nage.</dictScrap>
 <cit>
 <quote>La production de la chair nageante [les poissons] a son importance et touche à l'un des problèmes les plus gros de notre temps : la diminution de la cherté des vivres</quote>
@@ -940,10 +942,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NAGEANT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nagée">
 <form>
@@ -1548,7 +1547,8 @@
 <biblScope>Rev. des Deux-Mondes, 15 nov. 1876, p. 436</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Il s'est dit des poissons.</dictScrap>
 <cit>
 <quote>Ces nageurs marquetés</quote>
@@ -1602,11 +1602,7 @@
 
 </note>
 <etym>Nager. On trouve aussi noueur, au XIIIe siècle, pour rameur.</etym>
-<re ana="supplement" orig=" NAGEUR. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="nagor">
 <form>
@@ -1661,7 +1657,8 @@
 <biblScope>Gramm. 5</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap><oVar>Naguère</oVar> que, autrefois que, avec l'idée qu'il n'y a pas longtemps.</dictScrap>
 <cit>
 <quote>Naguère que j'oyais la tempête souffler.... Eussé-je osé prétendre à l'heureuse merveille D'en être garanti ?</quote>
@@ -1718,10 +1715,7 @@
 
 </note>
 <etym>Adverbe composé de trois mots : ne, a, guère, c'est-à-dire il n'y a guère [de temps].</etym>
-<re ana="supplement" orig=" NAGUÈRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nahuatl">
 <form>
@@ -1954,7 +1948,8 @@
 <biblScope>447, 277</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Au <oVar>naïf</oVar>, naïvement.</dictScrap>
 <cit>
 <quote>Vous les représentez [mes vertus] au naïf</quote>
@@ -2071,10 +2066,7 @@
 
 </note>
 <etym>Provenç. natiu ; espagn. et ital. nativo ; du lat. nativus, qui vient de natus, né.</etym>
-<re ana="supplement" orig=" NAÏF. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nain">
 <form>
@@ -4872,7 +4864,8 @@
 <sense n="11">
 <dictScrap>Nom que, dans la filature du coton par mécanique, on donne au coton sortant de la première carde. </dictScrap>
 <re type="P"><form>Celui qui met la nappe est toujours le plus foulé</form>, c'est-à-dire celui qui donne à manger est celui qui a le plus de frais et le plus de peine. </re>
-</sense><sense n="12">
+</sense>
+<sense n="12" ana="supplement">
 <dictScrap><oVar>Nappe</oVar> en étain, feuille d'étain qui recouvre les comptoirs des marchands de vin.</dictScrap>
 <cit>
 <quote>Comptoir avec nappe en étain</quote>
@@ -4941,10 +4934,7 @@
 
 </note>
 <etym>Bourg. naippe ; wallon, mape ; Berry, nappilloun, déguenillé ; du lat. mappa, par un changement de l'm en n, comme dans nèfle de mespilus.</etym>
-<re ana="supplement" orig=" NAPPE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="napperie">
 <form>
@@ -6216,7 +6206,8 @@
 </sense>
 <sense n="3">
 <dictScrap>S. m. Le <oVar>nasal</oVar>, partie d'un casque qui servait à garantir le nez.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Terme d'anthropologie. Indice <oVar>nasal</oVar>, voy. <ref target="indice#supplement">INDICE</ref> au Supplément.</dictScrap>
 </sense>
 <note type="R">Des grammairiens veulent qu'on dise des sons nasals ; mais l'usage admet le pluriel en aux. </note>
@@ -6241,10 +6232,7 @@
 
 </note>
 <etym>Prov. et esp. nasal, partie du casque ; ital. nasale ; du lat. nasalis, qui vient de nasus, nez.</etym>
-<re ana="supplement" orig=" NASAL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nasalement">
 <form>
@@ -6751,9 +6739,7 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-</sense><sense n="2">
-<dictScrap>Terme de vénerie. Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>Il se dit aussi du chien.</dictScrap>
 <cit>
 <quote>Un chasseur exposa un griffon magnifique ; qu'était ce griffon ? il passait les perdrix disséminées, il ne chassait jamais au vent, et nasillait</quote>
@@ -6777,10 +6763,7 @@
 
 </note>
 <etym>Nazille, ancienne forme de narine (voyez NARINE).</etym>
-<re ana="supplement" orig=" NASILLER. ">
 
-
-</re>
 </entry>
 <entry xml:id="nasilleur">
 <form>
@@ -7031,7 +7014,8 @@
 <sense>
 <dictScrap>Genre de mollusques gastéropodes pectinibranches, de la famille des purpurifères, ainsi dit de la forme de la coquille.</dictScrap>
 </sense>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Il s'est dit autrefois pour établissement de pêche.</dictScrap>
 <cit>
 <quote>En 1572, les habitants d'Irun ayant fait une nasse ou pêcherie qui touchait à la rive du côté de France, les Français en ayant fait plainte, portée à Philippe II, il ordonna au corrégidor de Guipuscoa de faire ôter cette nasse ; ce qui fut exécuté</quote>
@@ -7084,10 +7068,7 @@
 
 </note>
 <etym>Berry, nanse, lance ; génev. nanse ; wallon, nèse ; namur. nase ; du lat. nassa.</etym>
-<re ana="supplement" orig=" NASSE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nassier">
 <form>
@@ -8095,7 +8076,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Bois de <oVar>nattes</oVar>, voy. <ref target="nattier">NATTIER</ref>.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Nom donné à une petite pâtisserie faite en forme de <oVar>natte</oVar>.</dictScrap>
 </sense>
 <note type="H">
@@ -8120,10 +8102,7 @@
 
 </note>
 <etym>Ital. matta ; du lat. matta, par changement d'm en n, comme dans nappe, de mappa, nèfle, de mespilus, etc.</etym>
-<re ana="supplement" orig=" NATTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="natté">
 <form>
@@ -8389,7 +8368,8 @@
 <biblScope>Confér. Ambit. des clercs.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Préparer les dépouilles des animaux, pour leur rendre l'aspect naturel. J'ai porté chez le fourreur une belle peau de renard, pour en faire une descente de lit ; la tête sera naturalisée.</dictScrap>
 </sense>
 <note type="H">
@@ -8419,10 +8399,7 @@
 
 </note>
 <etym>Lat. naturalis, naturel.</etym>
-<re ana="supplement" orig=" NATURALISER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="naturalisme">
 <form>
@@ -8452,7 +8429,8 @@
 <biblScope>Suffis. de la rel. nat. n° 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Terme de beaux-arts. Système, pratique des artistes qui s'attachent à reproduire la nature telle qu'elle est.</dictScrap>
 <cit>
 <quote>Tandis que son contemporain et ami Ghiberti continue la tradition antique et païenne inaugurée par les Pisans.... Donatello entre résolument dans la route du naturalisme</quote>
@@ -8463,10 +8441,7 @@
 </cit>
 </sense>
 <etym>Naturel, par le latin naturalis.</etym>
-<re ana="supplement" orig=" NATURALISME. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="naturaliste">
 <form>
@@ -8517,7 +8492,8 @@
 <biblScope>Opin. des anc. philos. (naturalistes).</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Adj. Qui se rapporte à la nature, à la matière.</dictScrap>
 <cit>
 <quote>Autour de ce système religieux se groupait [chez les Phéniciens], dans le culte extérieur et public, le cortége de monstrueuses débauches, d'orgies, de prostitutions sacrées que nous avons déjà signalé à Babylone et qui accompagna tous les cultes naturalistes de l'antiquité</quote>
@@ -8540,10 +8516,7 @@
 
 </note>
 <etym>Natural ou naturel, représentant le latin naturalis, et la finale iste signifiant qui s'adonne à, qui s'occupe de.</etym>
-<re ana="supplement" orig=" NATURALISTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="naturalité">
 <form>
@@ -8586,7 +8559,8 @@
 <sense>
 <dictScrap>On dit aujourd'hui lettres de naturalisation.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Caractère naturel, par opposition à surnaturel. La <oVar>naturalité</oVar> d'un phénomène.</dictScrap>
 </sense>
 <note type="H">
@@ -8612,10 +8586,7 @@
 
 </note>
 <etym>Lat. naturalitatem, de naturalis, naturel.</etym>
-<re ana="supplement" orig=" NATURALITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="naturant">
 <form>
@@ -10910,7 +10881,8 @@
 <sense>
 <dictScrap>On dit aussi du bœuf <oVar>naturel</oVar>.</dictScrap>
 </sense>
-</sense><sense n="27">
+</sense>
+<sense n="27" ana="supplement">
 <dictScrap>Père <oVar>naturel</oVar>, par opposition à père adoptif.</dictScrap>
 <cit>
 <quote>Octavius était père d'Auguste ; mais, outre que sa condition n'était pas des plus illustres, la splendeur du père adoptif [Jules César] aida bien à supprimer aucunement le naturel</quote>
@@ -11115,10 +11087,7 @@
 
 </note>
 <etym>Provenç. naturel, naturau ; espagn natural ; ital. naturale ; du lat. naturalis, qui vient de natura, nature. Dans la langue ancienne, enfant naturel signifiait enfant légitime et enfant né hors mariage.</etym>
-<re ana="supplement" orig=" NATUREL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="naturellement">
 <form>
@@ -12226,7 +12195,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Nom marchand de plusieurs coquilles univalves.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap><oVar>Navet</oVar> de Suède, nom qui a été donné au rutabaga.</dictScrap>
 </sense>
 <note type="H">
@@ -12256,10 +12226,7 @@
 
 </note>
 <etym>Lat. napus, par l'intermédiaire d'un diminutif napetus.  <cit><quote>La tendance à changer le p en b ou v se trouve de très bonne heure : nabinam, navinam, dans la loi salique</quote><bibl><author>LASPEYRES</author><biblScope>p. 40</biblScope></bibl></cit> <cit><quote>Le simple existait dans l'ancienne langue : E les grasses viandes, chous e nes à user</quote><bibl><biblScope>Th. le mart. 93</biblScope></bibl></cit> <cit><quote>Il y avait aussi un autre diminutif : Li ewe où li naviel seront cuit assouage moult le pis [adoucit la poitrine]</quote><bibl><author>ALEBRANT</author><biblScope>f° 59</biblScope></bibl></cit> C'est de ce diminutif que viennent : Berry, naveaux, naviaux ; picard, naviau ; wallon, navai ; namur. navia.</etym>
-<re ana="supplement" orig=" NAVET. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="navetier">
 <form>
@@ -12413,7 +12380,8 @@
 </sense>
 <sense n="7">
 <dictScrap>Nom marchand de plusieurs coquilles.</dictScrap>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Nom, en Bretagne, d'une espèce d'échaudé faite de pâte de froment et en forme de navette.</dictScrap>
 </sense>
 <note type="H">
@@ -12439,10 +12407,7 @@
 
 </note>
 <etym>Bas-latin, naveta, petite barque (provenç. naveta ; ital. navetta, petite barque), diminutif du latin navis, nef. La navette d'église est ainsi dite à cause de sa forme comparée à celle d'une barque ; et la navette du tisserand, à cause de sa forme comparée à celle de la navette d'église. C'est à tort que Chateaubriand dit que la navette d'église a été dénommée d'après la navette de tisserand : L'urne qui renfermait les parfums imitait la forme d'une navette, Génie, IV, I, 2.</etym>
-<re ana="supplement" orig=" 2. NAVETTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="navicelle">
 <form>
@@ -12742,6 +12707,16 @@
 <sense>
 <dictScrap>Canal de <oVar>navigation</oVar>, canal qui porte des bateaux, par opposition à canal d'irrigation, lequel ne sert qu'à distribuer des eaux.</dictScrap>
 </sense>
+<sense ana="supplement">
+<dictScrap>Fig.</dictScrap>
+<cit>
+<quote>Mon esprit, dans quelle navigation étrangère t'engages-tu ?</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Lexique, éd. P. Mesnard.</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>La <oVar>navigation</oVar>, l'art de la <oVar>navigation</oVar>.</dictScrap>
@@ -12812,19 +12787,8 @@
 </sense>
 <sense n="6">
 <dictScrap><oVar>Navigation</oVar> aérienne, nom donné aux voyages qu'on fait en ballon.</dictScrap>
-</sense><sense n="1" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Fig.</dictScrap>
-<cit>
-<quote>Mon esprit, dans quelle navigation étrangère t'engages-tu ?</quote>
-<bibl>
-<author>RAC.</author>
-<biblScope>Lexique, éd. P. Mesnard.</biblScope>
-</bibl>
-</cit>
 </sense>
-</sense><sense n="7">
+<sense n="7" ana="supplement">
 <dictScrap><oVar>Navigation</oVar> par l'arc de grand cercle, voy. <ref target="orthodromie">ORTHODROMIE</ref> au Supplément.</dictScrap>
 </sense>
 <note type="H">
@@ -12850,11 +12814,7 @@
 
 </note>
 <etym>Lat. navigationem, de navigare, naviguer. On disait anciennement navigage, et plus anciennement encore naviage.</etym>
-<re ana="supplement" orig=" NAVIGATION. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="naviguer">
 <form><orth>NAVIGUER</orth><pron>na-vi-ghé</pron>, je naviguais, nous naviguions, vous naviguiez ; que je navigue, que nous naviguions, que vous naviguiez, v. n. </form>
@@ -13832,7 +13792,8 @@
 <biblScope>Mal. imag. II, 6</biblScope>
 </bibl>
 </cit>
-</sense><sense n="20">
+</sense>
+<sense n="20" ana="supplement">
 <dictScrap><oVar>Ne</oVar>, dans une phrase subordonnée par un que, peut avoir le sens de : s'empêcher de.</dictScrap>
 <cit>
 <quote>Je ne crois pas que je ne pleure quand je verrai ce courrier chargé de dépêches pour M. de Pompone [que je m'empêche de pleurer]</quote>
@@ -15548,6 +15509,13 @@
 <biblScope>Hist. anc. Œuvr. t. III, p. 646</biblScope>
 </bibl>
 </cit>
+<cit ana="supplement">
+<quote>Si, en quelque jour un peu moins <oVar>nébuleux</oVar> qu'il n'en fait en ce temps-ci, vous vouliez me donner deux heures de votre temps pour aller achever l'habit de votre portrait [Nanteuil à Mlle de Scudéry]</quote>
+<bibl>
+<author>Mlle de Scudéry</author>
+<biblScope>p. 502, par Rathery et Boutron, Paris, 1873</biblScope>
+</bibl>
+</cit>
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
@@ -15644,9 +15612,9 @@
 <sense>
 <dictScrap>Espèce de chouette.</dictScrap>
 </sense>
-</sense><sense n="1">
-<dictScrap>Ajoutez : Si, en quelque jour un peu moins <oVar>nébuleux</oVar> qu'il n'en fait en ce temps-ci, vous vouliez me donner deux heures de votre temps pour aller achever l'habit de votre portrait, Nanteuil à Mlle de Scudéry, dans Mlle de Scudéry, p. 502, par Rathery et Boutron, Paris, 1873.</dictScrap>
 </sense>
+  
+
 <note type="H">
 
 <label>XIIe s.</label>
@@ -16772,6 +16740,33 @@
 <dictScrap>Par nécessité, loc. adv. À cause d'un besoin pressant. Il vend sa bibliothèque par nécessité. </dictScrap>
 <re type="P"><form>Nécessité n'a point de loi</form>, c'est-à-dire un extrême péril, un extrême besoin, peuvent rendre excusables des actions blâmables en elles-mêmes. </re>
 </sense>
+<sense n="14" ana="supplement">
+<dictScrap>Manque.</dictScrap>
+<cit>
+<quote>Des armées réduites à la nécessité de toutes choses</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>Lexique, éd. L. Lalanne.</biblScope>
+</bibl>
+</cit>
+<sense>
+<dictScrap>Être en nécessité, être dans le besoin.</dictScrap>
+<cit>
+<quote>Le sage, encore qu'il se contente de soi-même, ne laisse pas de vouloir avoir un ami.... non point, disait Épicure, pour avoir qui.... l'assiste de moyens, s'il est en nécessité, mais...</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est une chose très fâcheuse de vivre en nécessité</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+</sense>
+</sense>
 <note type="H">
 
 <label>XIIe s.</label>
@@ -16988,37 +16983,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Rendu nécessaire, en parlant des choses. Une conduite nécessitée par les circonstances.</dictScrap>
-</sense><sense n="14">
-<dictScrap>Manque.</dictScrap>
-<cit>
-<quote>Des armées réduites à la nécessité de toutes choses</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>Lexique, éd. L. Lalanne.</biblScope>
-</bibl>
-</cit>
-<sense>
-<dictScrap>Être en nécessité, être dans le besoin.</dictScrap>
-<cit>
-<quote>Le sage, encore qu'il se contente de soi-même, ne laisse pas de vouloir avoir un ami.... non point, disait Épicure, pour avoir qui.... l'assiste de moyens, s'il est en nécessité, mais...</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>ib.</biblScope>
-</bibl>
-</cit>
-<cit>
-<quote>C'est une chose très fâcheuse de vivre en nécessité</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>ib.</biblScope>
-</bibl>
-</cit>
 </sense>
-</sense>
-<re ana="supplement" orig=" NÉCESSITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nécessiter">
 <form>
@@ -17145,7 +17111,8 @@
 <biblScope>Mém. V</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap><oVar>Nécessiteux</oVar> de, qui manque de.</dictScrap>
 <cit>
 <quote>Nécessiteux de toutes choses</quote>
@@ -17175,10 +17142,7 @@
 
 </note>
 <etym>Voy. <ref target="nécessité">NÉCESSITÉ</ref>.</etym>
-<re ana="supplement" orig=" NÉCESSITEUX. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nec">
 <form>
@@ -18378,7 +18342,8 @@
 <biblScope>le Temps, 6 mars 1877, 1re page, 4e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="12">
+</sense>
+<sense n="12" ana="supplement">
 <dictScrap>S. m. Un <oVar>négatif</oVar>, une épreuve <oVar>négative</oVar>, en photographie.</dictScrap>
 </sense>
 <note type="H">
@@ -18411,11 +18376,7 @@
 
 </note>
 <etym>Provenç. negatiu ; espagn. et ital. negativo ; du lat. negativus, de negare, nier.</etym>
-<re ana="supplement" orig=" NÉGATIF. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="négation">
 <form>
@@ -19913,7 +19874,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme de commerce. Trafic qui se fait d'un billet, d'une lettre de change, etc. par les banquiers, les marchands, etc. La <oVar>négociation</oVar> du papier.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Anciennement, le négoce, le commerce.</dictScrap>
 <cit>
 <quote>La négociation consiste à vendre et à acheter</quote>
@@ -19960,10 +19922,7 @@
 
 </note>
 <etym>Lat. negotiationem, de negotiari, négocier.</etym>
-<re ana="supplement" orig=" NÉGOCIATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="négocié">
 <form>
@@ -20010,6 +19969,16 @@
 <biblScope>l'H. aux 40 écus, Un bon souper.</biblScope>
 </bibl>
 </cit>
+<sense ana="supplement">
+<dictScrap>Fig.</dictScrap>
+<cit>
+<quote>Ceux qui semblent n'avoir point d'occupations [les philosophes] sont ceux qui en ont de plus dignes : ils négocient au ciel et en la terre</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>Lexique, éd. L. Lalanne.</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>V. a. Traiter une affaire avec quelqu'un.</dictScrap>
@@ -20091,18 +20060,6 @@
 <biblScope>Louis XIV, 9</biblScope>
 </bibl>
 </cit>
-</sense><sense n="1">
-<dictScrap>V. n. Faire négoce. Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Fig.</dictScrap>
-<cit>
-<quote>Ceux qui semblent n'avoir point d'occupations [les philosophes] sont ceux qui en ont de plus dignes : ils négocient au ciel et en la terre</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>Lexique, éd. L. Lalanne.</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense>
 <note type="H">
 
@@ -20134,10 +20091,7 @@
 
 </note>
 <etym>Lat. negotiari, de negotium (voy. <ref target="négoce">NÉGOCE</ref>).</etym>
-<re ana="supplement" orig=" NÉGOCIER. ">
 
-
-</re>
 </entry>
 <entry xml:id="nègre">
 <form>
@@ -20740,7 +20694,8 @@
 <biblScope>Tambour noct. I, 6</biblScope>
 </bibl>
 </cit>
-</sense><sense n="10">
+</sense>
+<sense n="10" ana="supplement">
 <dictScrap>Arbre de <oVar>neige</oVar>, plusieurs arbrisseaux à fleurs blanches nombreuses, tels que le viburnum opulus, BAILLON, Dict. de botan. p. 257.</dictScrap>
 </sense>
 <re type="P">Des neiges et un bon hiver mettent bien des biens à couvert. </re>
@@ -20836,10 +20791,7 @@
 
 </note>
 <etym>Wallon, nivaie ; namur. nive ; Hainaut, nive ; bourg. noge ; provenç. nicx, neu, nieu ; cat. neu ; esp. nieve ; port. et ital. neve ; du lat. nix, nivem, anc. lat. ninguis, dans Lucrèce ; grec, il neige. Comparez le goth. snaivs, l'anc. h. all. sneo, l'all. Schnee, l'angl. snow, l'anc. irl. sneachta. Les formes germaniques et celtiques annoncent qu'en latin et en grec une s initiale est tombée ; tout cela conduit au sanscrit snih, être humide. Le français a deux formes : neif, noif, qui vient de nix, nivem, et neige, qui vient de nivea, pris substantivement. Quant au wallon nivaie, il vient de nivalia.</etym>
-<re ana="supplement" orig=" NEIGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="neigé">
 <form>
@@ -21141,14 +21093,12 @@
 </sense>
 <sense n="2">
 <dictScrap>Titre d'un recueil de poésies satiriques composées sous le règne de Louis-Philippe par Barthélemy.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>La 128e planète télescopique, découverte en 1872 par M. Watson.</dictScrap>
 </sense>
 <etym>Terme grec signifiant proprement partage au sort, puis, dans la mythologie, la déesse du sort, et particulièrement la déesse du sort malheureux que les dieux envoient à l'homme par vengeance ou même par jalousie ; de là le sens de colère des dieux, et, en général, indignation, colère.</etym>
-<re ana="supplement" orig=" NÉMÉSIS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="némestrine">
 <form>
@@ -24405,7 +24355,8 @@
 <sense>
 <dictScrap>Terme d'écurie. Faire <oVar>net</oVar> ; nettoyer la mangeoire du cheval.</dictScrap>
 </sense>
-</sense><sense n="15">
+</sense>
+<sense n="15" ana="supplement">
 <dictScrap>Dans le langage des ouvriers, atelier <oVar>net</oVar>, atelier que des ouvriers mettent en interdit et où ils défendent que d'autres travaillent.</dictScrap>
 <cit>
 <quote>Il s'est adressé à B.... et lui a dit : Citoyen B...., pourquoi travailles-tu, puisque l'atelier est net ?</quote>
@@ -24562,10 +24513,7 @@
 
 </note>
 <etym>Bourg. nai ; provenç. net, ned, nede ; cat. net ; esp. neto ; port. nedeo ; ital. netto ; du lat. nitidus (qui a l'accent sur ni), brillant, poli, net.</etym>
-<re ana="supplement" orig=" NET. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nettement">
 <form>
@@ -26417,7 +26365,8 @@
 <sense>
 <dictScrap>Aujourd'hui, sels <oVar>neutres</oVar>, ceux, quelle qu'en soit d'ailleurs l'action sur les couleurs végétales, dans lesquels le rapport entre l'oxygène de la base et celui de l'acide est le même que le rapport qu'on observe dans les sels du même genre, qui, formés d'acide et de base énergiques, sont <oVar>neutres</oVar> aux papiers colorés ; par exemple, les sels à base de potasse et de soude. On appelle, en effet, sulfate <oVar>neutre</oVar> celui, quel qu'il soit, dans lequel la quantité d'oxygène de l'acide est triple de celle de la base, quelle que soit d'ailleurs sa réaction sur les couleurs végétales. Pour le dire des sulfites et des carbonates, il suffit que la quantité soit double ; pour le dire des azotates, il faut qu'elle soit quintuple, et ainsi des autres.</dictScrap>
 </sense>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Qui n'est ni bon ni mauvais.</dictScrap>
 <cit>
 <quote>C'est l'affection qui.... donne du prix à ce qui n'en a point ; les choses que les hommes désirent sont d'une nature neutre ; l'esprit de celui qui les possède.... leur donne la forme qu'il lui plaît</quote>
@@ -26460,10 +26409,7 @@
 
 </note>
 <etym>Provenç. neutri ; cat. neutre ; esp. et ital. neutro ; du lat. neuter, ni l'un ni l'autre, formé de ne, ni, et uter, l'un des deux.</etym>
-<re ana="supplement" orig=" NEUTRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="neutriflore">
 <form>
@@ -28319,7 +28265,8 @@
 <biblScope>Alm. Didot-Bottin, 1871-72, p. 779, 4e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="20">
+</sense>
+<sense n="20" ana="supplement">
 <dictScrap>Terme de zingueur. Quand on fait entrer des tuyaux de zinc les uns dans les autres, on y adapte des <oVar>nez</oVar> en zinc pour les arrêter à un endroit déterminé.</dictScrap>
 </sense>
 <re type="P">Un grand nez ne gâta jamais beau visage.  <cit><quote>Sur tous les autres nez son nez a l'avantage, Et jamais un grand nez n'orna mieux un visage</quote><bibl><author>Mme DESHOULIÈRES</author><biblScope>Portr. de Linières.</biblScope></bibl></cit> </re>
@@ -28498,12 +28445,7 @@
 
 </note>
 <etym>Wallon, nase ; namur. nâz' ; provenç. nas, naz ; ital. naso ; du lat. nasus ; russe, nós ; sanscr. nas, nasa (accent long sur les deux a).</etym>
-<re ana="supplement" orig=" NEZ. Ajoutez : ">
 
-
-
-
-</re>
 </entry>
 <entry xml:id="ni">
 <form><orth>NI</orth><pron>ni</pron><gram>conj.</gram> négative qui ne se dit jamais sans la particule négative ne précédant ou suivant, et qui est équivalente à et avec une négation. </form>
@@ -31933,14 +31875,12 @@
 </sense>
 <sense n="3">
 <dictScrap>Se dit quelquefois aussi de l'idéalisme absolu.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Forme que le socialisme a prise en Russie, doctrine qui met la destruction de l'organisme social au rang de ses plus pressantes obligations et qui, pour le moment du moins, n'entend y rien substituer.</dictScrap>
 </sense>
 <etym>Lat. nihil, rien, nulle chose, qui est composé de la négation ne et de hilum, point noir qui sert d'attache à la fève dans la cosse. On trouve dans le XVIe siècle nihilité.</etym>
-<re ana="supplement" orig=" NIHILISME. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nihiliste">
 <form>
@@ -31953,13 +31893,11 @@
 <sense>
 <dictScrap>Adj. Une philosophie <oVar>nihiliste</oVar>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Nom, en Russie, des partisans du nihilisme ou socialisme russe.</dictScrap>
 </sense>
-<re ana="supplement" orig=" NIHILISTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nihilité">
 <form>
@@ -32639,13 +32577,11 @@
 </form>
 <sense>
 <dictScrap>Terme de chimie. Conversion en nitrate.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Emploi du nitrate d'argent pour la coloration des tissus animaux en brun, des épithéliums surtout.</dictScrap>
 </sense>
-<re ana="supplement" orig=" NITRATATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nitrate">
 <form>
@@ -35218,7 +35154,8 @@
 <sense>
 <dictScrap><oVar>Noces</oVar> de diamant, fête de soixante ans de mariage.</dictScrap>
 </sense>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Bouillie de gruau d'avoine qu'on prépare en l'échaudant par cuillerées dans l'eau bouillante et qu'on mange avec du lait ou du beurre, en Bretagne et en basse Normandie.</dictScrap>
 </sense>
 <re type="P">Voyage de maître, noces de valets, c'est quand les maîtres sont absents que les domestiques s'amusent. </re>
@@ -35307,11 +35244,7 @@
 
 </note>
 <etym>Provenç. nossas ; espagn. et portug. nupcias ; ital. nozze ; du lat. nuptiae, de nuptum, supin de nubere, se marier (voy. <ref target="nubile">NUBILE</ref>).</etym>
-<re ana="supplement" orig=" NOCE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="nocer">
 <form>
@@ -35835,17 +35768,15 @@
 <sense>
 <dictScrap>Lignes <oVar>nodales</oVar>, ou, substantivement, les <oVar>nodales</oVar>, lignes qui se forment sur une plaque recouverte de sable qu'on fait vibrer.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme d'optique. Points nodaux d'une lentille, ou, plus généralement, d'un système réfringent formé de plusieurs milieux séparés par des surfaces sphériques ayant leurs centres en ligne droite, les deux points tels qu'à tout rayon incident dont la direction passe par le premier point <oVar>nodal</oVar> correspond un rayon émergent qui est parallèle au rayon incident et dont la direction passe par le second point <oVar>nodal</oVar>.</dictScrap>
 <sense>
 <dictScrap>Plans nodaux, plans menés par les points nodaux perpendiculairement à l'axe optique.</dictScrap>
 </sense>
 </sense>
 <etym>Lat. nodus, nœud.</etym>
-<re ana="supplement" orig=" NODAL. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nodicole">
 <form>
@@ -35896,16 +35827,14 @@
 <dictScrap>Terme de médecine. État de ce qui a des nodus.</dictScrap>
 <sense>
 <dictScrap>Les nodus mêmes. Les <oVar>nodosités</oVar> déforment les doigts des goutteux.</dictScrap>
-</sense>
-</sense><sense n="2">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Quand les nodosités sont toutes formées, et les nerfs si roides et si tendus qu'il n'y a plus moyen de marcher, à cette heure-là, par force, nous confessons que ce sont gouttes</quote>
 <bibl>
 <author>MALH.</author>
 <biblScope>Lexique, éd. L. Lalanne</biblScope>
 </bibl>
 </cit>
+</sense>
 </sense>
 <note type="H">
 
@@ -35920,10 +35849,7 @@
 
 </note>
 <etym>Provenç. nodiozitat ; ital. nodosità ; du lat. nodositatem, de nodosus, noueux.</etym>
-<re ana="supplement" orig=" NODOSITÉ ">
 
-
-</re>
 </entry>
 <entry xml:id="nodule">
 <form>
@@ -36859,7 +36785,8 @@
 </sense>
 <sense n="26">
 <dictScrap>Dans l'ancienne verrerie, gros bouton qui demeurait au milieu des plats de verre soufflé ; dit aussi nombril, boudine ou œil-de-bœuf.</dictScrap>
-</sense><sense n="27">
+</sense>
+<sense n="27" ana="supplement">
 <dictScrap>Énumération des différentes espèces de nœuds. <oVar>Nœud</oVar> simple. <oVar>nœud</oVar> résultant d'une boucle dans laquelle on a fait entrer le brin qui passe sur l'autre, en le faisant tourner sous ce même brin.</dictScrap>
 <sense>
 <dictScrap><oVar>Nœud</oVar> droit : faire successivement, avec les mêmes brins, deux nœuds simples l'un sur l'autre, en faisant en sorte que les brins du même côté soient tous deux en dessus, ou tous deux en dessous du brin qui les croise.</dictScrap>
@@ -36983,10 +36910,7 @@
 
 </note>
 <etym>Berry, noud ; picard, nou ; wallon, nouk ; namur. nuk ; prov. not, no ; cat. nu ; esp. nudo ; port. no, nodo ; ital. nodo et nocchio ; du lat. nodus pour gnodus, comme le montrent les formes germaniques : angl. knot ; all. Knoten ; anc. haut all. chnodo. Noiel, qui se trouve dans d'anciens textes, vient de nodellus, diminutif de nodus.</etym>
-<re ana="supplement" orig=" NŒUD. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noguet">
 <form>
@@ -38117,7 +38041,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="30">
+</sense>
+<sense n="30" ana="supplement">
 <dictScrap>Populairement, un petit <oVar>noir</oVar>.</dictScrap>
 <cit>
 <quote>Le 4 février, monsieur entre dans mon établissement, demande un petit noir.... M. le Président : Qu'est-ce qu'un petit noir ? - Le crémier : Une petite tasse de café noir</quote>
@@ -38268,10 +38193,7 @@
 
 </note>
 <etym>Wallon, neûr ; provenc. negre, nier, ner ; espagn. et ital. negro, nero ; du lat. niger.</etym>
-<re ana="supplement" orig=" NOIR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noirâtre">
 <form>
@@ -38556,7 +38478,8 @@
 <biblScope>Lett. à Volt. 2 juill. 1770</biblScope>
 </bibl>
 </cit>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Synonyme de nielle.</dictScrap>
 <cit>
 <quote>Beaucoup de pieds [de houblon] ont à peine atteint la moitié de la hauteur des perches ; d'autres ont tant souffert de la vermine et de la noirceur, qu'ils ne laissent plus espérer qu'un rendement fort minime</quote>
@@ -38598,10 +38521,7 @@
 
 </note>
 <etym>Dérivation irrégulière de noir (voy. <ref target="noircir">NOIRCIR</ref>). À côté de noirceur, il y avait neror, tiré directement du latin nigrorem, et noireté.</etym>
-<re ana="supplement" orig=" NOIRCEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noirci">
 <form>
@@ -38638,7 +38558,8 @@
 <biblScope>356, 200</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Teint en noir.</dictScrap>
 <cit>
 <quote>Un grand bureau dont se servait ledit défunt seigneur, en son cabinet, avec ses carrés ou tablettes sur icelui, le tout de bois de poirier noirci</quote>
@@ -38647,10 +38568,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NOIRCI. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noircir">
 <form>
@@ -39611,7 +39529,8 @@
 <sense n="14">
 <dictScrap><oVar>Noix</oVar> de mer, le pétoncle velu. </dictScrap>
 <re type="P"><form>Vous avez rangé tout cela comme des noix sur un bâton</form>, se dit d'un plan, d'une combinaison inexécutable. </re>
-</sense><sense n="15">
+</sense>
+<sense n="15" ana="supplement">
 <dictScrap><oVar>Noix</oVar> de gaïac, voy. <ref target="tonca">TONCA</ref>.</dictScrap>
 </sense>
 <note type="H">
@@ -39690,10 +39609,7 @@
 
 </note>
 <etym>Bourg. noei ; Berry, noue ; picard, nos ; wallon, lémoscade, némoscade, noix muscade ; provenç. notz ; catal. nou ; espagn. nuez ; portug. noz ; ital. noce ; du lat. nucem. L'anglo-saxon hnut ; anc. haut allem. hnuz font penser qu'ici, comme dans nosco, natus, le latin a perdu une initiale gutturale ; ce serait donc gnucem. Le latin et les formes germaniques rapprocheraient ce nom de nodus, gnodus ; et ce rapprochement s'applique bien à tous les fruits à coque ligneuse.</etym>
-<re ana="supplement" orig=" NOIX. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noix-chandelle">
 <form>
@@ -39724,12 +39640,7 @@
 </form>
 <sense n="1">
 <dictScrap>Balsamine <oVar>noli</oVar> me tangere, ou, simplement, le <oVar>noli</oVar> me tangere (balsaminées), plante dont les capsules, à l'époque de la maturité, s'ouvrent au moindre contact, et alors les graines s'élancent avec raideur, à la grande surprise de celui qui ignore ce phénomène ; on l'appelle aussi balsamine des bois et herbe de Sainte-Catherine (impatiens <oVar>noli</oVar> me tangere, L.), LEGOARANT.</dictScrap>
-</sense>
-<sense n="2">
-<dictScrap>Terme de chirurgie. Ulcère que les divers moyens thérapeutiques employés ne font qu'irriter.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>On donne aussi ce nom à une variété de capucine.</dictScrap>
 <cit>
 <quote>La variété de cette plante [la capucine] que les botanistes appellent le noli me tangere, à cause de la délicatesse de ses capsules qui, au moindre choc, se brisent et laissent échapper leurs graines</quote>
@@ -39738,6 +39649,9 @@
 </bibl>
 </cit>
 </sense>
+</sense>
+<sense n="2">
+<dictScrap>Terme de chirurgie. Ulcère que les divers moyens thérapeutiques employés ne font qu'irriter.</dictScrap>
 </sense>
 <note type="H">
 
@@ -39761,10 +39675,7 @@
 
 </note>
 <etym>Lat. noli, ne veuille pas (impératif de nolle, contraction de non velle), me, moi, et tangere, toucher : ne me touche pas.</etym>
-<re ana="supplement" orig=" NOLI ME TANGERE. ">
 
-
-</re>
 </entry>
 <entry xml:id="nolis">
 <form>
@@ -42304,7 +42215,8 @@
 <sense>
 <dictScrap>Nombre <oVar>nombré</oVar>, voy. <ref target="nombre#var1">NOMBRE, n° 1</ref>.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Prose nombrée, prose assujétie à une sorte de rhythme.</dictScrap>
 <cit>
 <quote>Quelquefois même le poëte se contente d'une prose brillante et nombrée qu'élèvent assez haut le souffle de l'inspiration et la grandeur des images</quote>
@@ -42314,10 +42226,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NOMBRÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nombrer">
 <form>
@@ -42491,7 +42400,8 @@
 <biblScope>Quadrup. t. III, p. 97</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>D'une manière nombreuse, harmonieuse, en parlant du style.</dictScrap>
 <cit>
 <quote>C'est judicieusement déduit et nombreusement pesé</quote>
@@ -42514,10 +42424,7 @@
 
 </note>
 <etym>Nombreuse, et le suffixe ment ; ital. numerosamente.</etym>
-<re ana="supplement" orig=" NOMBREUSEMENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nombreux">
 <form>
@@ -42859,7 +42766,8 @@
 <sense>
 <dictScrap>Recueil des noms d'hommes ou de lieux qui sont dans un auteur. Le <oVar>nomenclateur</oVar> cicéronien.</dictScrap>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Adj. <oVar>Nomenclateur</oVar>, nomenclatrice, qui donne un nom.</dictScrap>
 <cit>
 <quote>Après l'édit de Blois, la terre se trouva dépouillée de sa vertu anoblissante, mais elle ne perdit pas sa vertu nomenclatrice</quote>
@@ -42870,10 +42778,7 @@
 </cit>
 </sense>
 <etym>Lat. nomenclatorem, de nomen, nom, et calare, appeler (voy. <ref target="calendes">CALENDES</ref>). L'a est tombé, après s'être affaibli en u dans nomenculator, qu'on trouve chez Martial.</etym>
-<re ana="supplement" orig=" NOMENCLATEUR. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nomenclature">
 <form>
@@ -43048,7 +42953,8 @@
 </sense>
 </sense><sense n="6" ana="supplement">
 <dictScrap>Fête <oVar>nominale</oVar>, la fête pour le nom d'une personne.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Terme de commerce. Être <oVar>nominal</oVar>, se dit d'un objet de commerce que l'on cote pour la forme, et qui, pour le moment, ne trouve pas acheteur.</dictScrap>
 <cit>
 <quote>Depuis dix jours, les farines de consommation sont nominales aux cours ci-après</quote>
@@ -43073,11 +42979,7 @@
 
 </note>
 <etym>Lat. nominalis, de nomen, nom.</etym>
-<re ana="supplement" orig=" NOMINAL. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="nominalement">
 <form>
@@ -43087,7 +42989,8 @@
 </form>
 <sense>
 <dictScrap>De nom ; avec une valeur nominale. Cela n'existe que <oVar>nominalement</oVar>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>À un prix nominal.</dictScrap>
 <cit>
 <quote>On cote nominalement 54 fr. 50 les 50 kil. pour les suifs de la Plata</quote>
@@ -43096,10 +42999,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NOMINALEMENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nominalisme">
 <form>
@@ -43235,7 +43135,8 @@
 <biblScope>Pologne, 7</biblScope>
 </bibl>
 </cit>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Anciennement, action de nommer, de donner des noms.</dictScrap>
 <cit>
 <quote>Ce sont noms qu'il leur a donnés [aux Grâces] pour son plaisir ; aussi Homère, sans s'arrêter à cette nomination...</quote>
@@ -43257,10 +43158,7 @@
 
 </note>
 <etym>Provenç. nomination ; esp. nominacion ; ital. nominazione ; du lat. nominationem, de nominare, nommer.</etym>
-<re ana="supplement" orig=" NOMINATION. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nominativement">
 <form>
@@ -45492,7 +45390,8 @@
 <biblScope>Hist. Port-Royal, 2e part.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Redevance que les possesseurs de précaires ecclésiastiques payaient sous la seconde race.</dictScrap>
 <cit>
 <quote>Il fut déterminé par des capitulaires que les possesseurs de précaires ecclésiastiques payeraient toujours un cens, entre autres une redevance spéciale appelée none, consistant dans la neuvième partie du revenu</quote>
@@ -45548,10 +45447,7 @@
 
 </note>
 <etym>Lat. nona hora, la neuvième heure.</etym>
-<re ana="supplement" orig=" NONE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nones">
 <form>
@@ -47244,6 +47140,9 @@
 </form>
 <sense n="1">
 <dictScrap>Terme de géométrie. Ligne <oVar>normale</oVar>, ou, substantivement, une <oVar>normale</oVar>, droite passant par le point de tangence et perpendiculaire, soit à la tangente d'une courbe, soit au plan tangent d'une surface.</dictScrap>
+<sense ana="supplement">
+<dictScrap>Plan <oVar>normal</oVar>, plan qui passe par la <oVar>normale</oVar>.</dictScrap>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>Fig. Qui est conforme à la règle, régulier. État <oVar>normal</oVar></dictScrap>
@@ -47268,11 +47167,6 @@
 <sense>
 <dictScrap>Se dit des oiseaux dont le sternum n'est pas pourvu d'une carène.</dictScrap>
 </sense>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Plan <oVar>normal</oVar>, plan qui passe par la <oVar>normale</oVar>.</dictScrap>
-</sense>
 </sense>
 <note type="H">
 
@@ -47287,10 +47181,7 @@
 
 </note>
 <etym>Lat. normalis, de norma, équerre (voy. <ref target="norme">NORME</ref>).</etym>
-<re ana="supplement" orig=" NORMAL. ">
 
-
-</re>
 </entry>
 <entry xml:id="normalement">
 <form>
@@ -47526,7 +47417,8 @@
 <sense>
 <dictScrap>Fig. Cadet de <oVar>Normandie</oVar>, homme qui a peu de ressources ; locution qui vient de ce que la coutume de Caux en <oVar>Normandie</oVar> donnait tout à l'aîné et laissait une petite légitime aux cadets. Ah ! mon pauvre Thomas [Corneille], continuait M. Despréaux, tes vers comparés à ceux de ton frère aîné font bien voir que tu n'es qu'un cadet de <oVar>Normandie</oVar>, Boloeana, éd. de 1742, p. 130.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Une <oVar>normandie</oVar> (avec une petite n), nom dans le Nord d'un clos d'arbres fruitiers.</dictScrap>
 <cit>
 <quote>Le verger de M. Daubigny est ce qu'on appelle dans le Nord une normandie, c'est-à-dire un clos d'arbres fruitiers planté sur un tapis de gazon</quote>
@@ -47536,10 +47428,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NORMANDIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="normandisme">
 <form>
@@ -49197,7 +49086,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Se <oVar>noter</oVar>, s'infliger à soi-même une <oVar>note</oVar>, une marque. Louis, électeur palatin, s'y opposa [à la proposition de violer le sauf-conduit donné à Luther dans la diète de Worms], comme à une chose qui flétrirait éternellement la nation germanique, et dit avec indignation que l'on ne devait pas souffrir que, pour rendre service aux prêtres, toute l'Allemagne se notât d'infamie en manquant à la foi publique, Hist. du concile de Trente, de Fra Paolo, trad. de le Courayer, t. I, p. 33.</dictScrap>
 </sense>
 <note type="H">
@@ -49263,10 +49153,7 @@
 
 </note>
 <etym>Provenç. et espagn. notar ; ital. notare ; du lat. notare.</etym>
-<re ana="supplement" orig=" NOTER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noteur">
 <form>
@@ -51273,7 +51160,8 @@
 <biblScope>Journ. offic. 7 sept. 1875, p. 7642, 1re col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="13">
+</sense>
+<sense n="13" ana="supplement">
 <dictScrap>Se dit, dans le département de la Manche, des prairies et des terres labourables où les graminées, les plantes fourragères, les prairies artificielles viennent vite et ont un grand pouvoir d'engraissement.</dictScrap>
 <cit>
 <quote>Une belle et bonne ferme, sise en la commune de Plomb, d'une contenance d'environ 15 hectares, ayant des bâtiments, se fournissant de tout, avec un excellent nourri</quote>
@@ -51282,11 +51170,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NOURRI. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="nourrice">
 <form>
@@ -51449,7 +51333,8 @@
 <dictScrap><oVar>Nourrice</oVar> sèche, <oVar>nourrice</oVar> qui n'a point de lait, et qui élève les enfants au biberon et en leur donnant à manger, Journ. offic. 12 janv. 1876, p. 335, 1re col.</dictScrap>
 </sense><sense n="8" ana="supplement">
 <dictScrap>Terme de zoologie. Nom, dans la génération alternante, de l'individu qui, né d'un parent, ne lui ressemble pas, mais est destiné à produire par génération agame une progéniture semblable au premier parent et à mourir sans prendre les caractères de ce dernier.</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap>Compartiment qui termine la série des chauffoirs, Enquête sur les sels, 1868, t. I, p. 510</dictScrap>
 </sense>
 <note type="H">
@@ -51568,12 +51453,7 @@
 
 </note>
 <etym>Provenç. nuirissa, noyrissa, noirissa ; du lat. nutritia, de nutrire, nourrir. On serait tenté de le tirer de nutricem ; mais les noms en icem (i accent long) donnent is, et non pas ice : imperatricem, empereïs ; la forme en ice dans les mots qui dérivent de mots en icem est moderne.</etym>
-<re ana="supplement" orig=" NOURRICE. Ajoutez : ">
 
-
-
-
-</re>
 </entry>
 <entry xml:id="nourricerie">
 <form>
@@ -53211,7 +53091,8 @@
 <sense n="13">
 <dictScrap>Terme d'alchimie. <oVar>Nourriture</oVar> de la pierre, continuation du feu. </dictScrap>
 <re type="P"><form>Nourriture passe nature</form>, c'est-à-dire une bonne éducation peut corriger les mauvaises inclinations naturelles. </re>
-</sense><sense n="14">
+</sense>
+<sense n="14" ana="supplement">
 <dictScrap>Terme d'exploitation houillère.</dictScrap>
 <cit>
 <quote>Venue d'eau constante qui alimente un bain d'eau</quote>
@@ -53354,10 +53235,7 @@
 
 </note>
 <etym>Berry, nourreture ; provenç. noyritura, noiridura ; ital. nutritura ; du lat. nutritura, qui vient de nutritum, supin de nutrire, nourrir.</etym>
-<re ana="supplement" orig=" NOURRITURE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nous">
 <form><orth>NOUS</orth><pron>noû ; l's se lie : noû-z avons</pron>, pronom de la première personne au pluriel, qui est des deux genres, et qui sert soit de sujet soit de régime. </form>
@@ -53380,6 +53258,7 @@
 </sense>
 <sense n="2">
 <dictScrap>Quelquefois, par une répétition qui donne de l'énergie à la phrase, on place <oVar>nous</oVar>, sujet, avant et après le verbe. <oVar>Nous</oVar> voulons, <oVar>nous</oVar>, que telle chose se fasse.</dictScrap>
+<dictScrap ana="supplement">Pour l'emploi de <oVar>nous</oVar> comme pronom réfléchi, voy. SE, Rem. 3, 4, 5, 7, 8, 9 et 10.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap><oVar>Nous</oVar>, régime direct ou indirect, se place avant le verbe. Il <oVar>nous</oVar> conduit. Il <oVar>nous</oVar> a conduits. Il <oVar>nous</oVar> parlera. Il <oVar>nous</oVar> a parlé. Ne <oVar>nous</oVar> parlez pas. Ne <oVar>nous</oVar> reconduisez pas.</dictScrap>
@@ -53640,8 +53519,6 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
-<dictScrap>Pour l'emploi de <oVar>nous</oVar> comme pronom réfléchi, voy. SE, Rem. 3, 4, 5, 7, 8, 9 et 10.</dictScrap>
 </sense>
 <note type="R">Nous se joint par un trait d'union au verbe et aux particules en et y dans les phrases impératives. </note>
 <note type="H">
@@ -53688,10 +53565,7 @@
 
 </note>
 <etym>Bourguig. no ; picard, nos ; wallon, noisez ; provenç. nos ; espagn. et portug. nos ; ital. noi ; du latin nos ; grec au duel, sanscr. nas.</etym>
-<re ana="supplement" orig=" NOUS. - REM. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nouure">
 <form>
@@ -54768,12 +54642,8 @@
 <sense>
 <dictScrap>On dit aujourd'hui primeurs.</dictScrap>
 </sense>
-</sense><sense n="5" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>On appelle <oVar>nouveautés</oVar> les plantes chauffées, c'est-à-dire celles qui sont produites par les cultures forcées, Journ. offic. 31 mai 1875, p. 3869, 2e col.</dictScrap>
 </sense>
-</sense><sense n="9">
+<sense n="9" ana="supplement">
 <dictScrap>Locution vieillie. à la <oVar>nouveauté</oVar> que, dans le premier moment que.</dictScrap>
 <cit>
 <quote>Un étourdi se pourra bien revancher, et surtout à la nouveauté qu'on lui aura fait plaisir</quote>
@@ -54863,11 +54733,7 @@
 
 </note>
 <etym>Bourg. nôveàtai ; provenç. noveletat, noeletat ; du lat. novellitatem, qui vient de novellus (voy. <ref target="nouveau">NOUVEAU</ref>).</etym>
-<re ana="supplement" orig=" NOUVEAUTÉ. ">
 
-
-
-</re>
 </entry>
 <entry xml:id="nouvel">
 <form>
@@ -56029,10 +55895,18 @@
 <sense>
 <dictScrap>Terme didactique. Qui procède par le nombre neuf. Série <oVar>novénaire</oVar>.</dictScrap>
 </sense>
+<note type="H">
+<label>XVIe s.</label>
+<cit>
+<quote>Chronologie novenaire contenant l'histoire de la guerre sous Henri IV et les choses les plus memorables advenues par tout le monde depuis 1589 jusqu'en 1598</quote>
+<bibl>
+<author>Palma Cayet</author>
+<biblScope/>
+</bibl>
+</cit>
+</note>
 <etym>Lat. novenarius, de novem, neuf.</etym>
-<re ana="supplement" orig=" NOVENAIRE. Ajoutez : - HIST. XVIe s. Chronologie novenaire contenant l'histoire de la guerre sous Henri IV et les choses les plus memorables advenues par tout le monde depuis 1589 jusqu'en 1598, par Palma Cayet. ">
 
-</re>
 </entry>
 <entry xml:id="nover">
 <form>
@@ -56795,6 +56669,13 @@
 </form>
 <sense n="1">
 <dictScrap>Genre de la famille des juglandées.</dictScrap>
+<cit ana="supplement">
+<quote>La noix est, chez beaucoup de peuples, un des principaux symboles dans les cérémonies du mariage ; au siècle dernier, tout nouveau couple salinois devait planter un noyer aux environs de la ville</quote>
+<bibl>
+<author>CH. TOUBIN</author>
+<biblScope>Du culte des arbres, Paris, 1862, p. 15</biblScope>
+</bibl>
+</cit>
 <sense>
 <dictScrap>Le noyer commun, qui a plusieurs variétés, telles que le noyer à coque dure, le noyer à coque tendre ou noyer mésange, le noyer de jauge, le noyer à gros fruit long.</dictScrap>
 <cit>
@@ -56829,15 +56710,6 @@
 <sense>
 <dictScrap>Noyer vénéneux, le mancenillier (euphorbiacées).</dictScrap>
 </sense>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
-<quote>La noix est, chez beaucoup de peuples, un des principaux symboles dans les cérémonies du mariage ; au siècle dernier, tout nouveau couple salinois devait planter un noyer aux environs de la ville</quote>
-<bibl>
-<author>CH. TOUBIN</author>
-<biblScope>Du culte des arbres, Paris, 1862, p. 15</biblScope>
-</bibl>
-</cit>
 </sense>
 <note type="H">
 
@@ -56875,10 +56747,7 @@
 
 </note>
 <etym>Berry, nogier, nougier, nouère ; prov. noguier, nogier ; cat. noguer ; d'une forme fictive, nucarius, dérivée du latin nux, noix.</etym>
-<re ana="supplement" orig=" 1. NOYER. ">
 
-
-</re>
 </entry>
 <entry xml:id="noyer2">
 <form>
@@ -57284,7 +57153,8 @@
 <sense n="17">
 <dictScrap>Se noyer, au jeu de boules, pousser sa boule plus loin que la ligne qui est marquée au delà du but. </dictScrap>
 <re type="P"><form>Qui veut noyer son chien l'accuse de la rage, ou dit qu'il a la gale</form>, c'est-à-dire on ne manque pas de prétexte pour perdre les gens. </re>
-</sense><sense n="18">
+</sense>
+<sense n="18" ana="supplement">
 <dictScrap>Se noyer d'eau, boire de l'eau avec excès.</dictScrap>
 <cit>
 <quote>Je ne me noie plus d'eau comme je faisais</quote>
@@ -57459,10 +57329,7 @@
 
 </note>
 <etym>Wallon, nèi ; Hainaut, néier ; picard et Berry, neyer ; norm. neucher ; génev. nayer ; provenç. negar ; ital. negare ; du lat. necare, proprement tuer, sens qui se trouve dans quelques-uns de nos textes ; quant à faire mourir dans l'eau, ce sens se trouve dès les lois barbares ; et une inscription latine donne : Eufronia.... naufragio necta, Journ. des sav. fév. 1858, p. 91.</etym>
-<re ana="supplement" orig=" 2. NOYER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="noyeur">
 <form>
@@ -60003,7 +59870,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fig. en parlant de style.</dictScrap>
 <cit>
 <quote>Les paroles sont si justes et si bien placées, si pures et si nuées à leur sujet, que je ne craindrai point d'assurer que celui qui les emploie de la sorte possède l'atticisme de la cour</quote>
@@ -60013,10 +59881,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" NUÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nuée">
 <form>
@@ -62333,7 +62198,8 @@
 <biblScope>Fabl. III, 1</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme de droit. Avec le caractère de la nullité.</dictScrap>
 <cit>
 <quote>Une enquête faite nullement en première instance par la faute de la partie ou de son officier ministériel ne peut être recommencée en appel</quote>
@@ -62377,10 +62243,7 @@
 
 </note>
 <etym>Nulle, et le suffixe ment.</etym>
-<re ana="supplement" orig=" NULLEMENT. : Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="nullificateur">
 <form>

@@ -629,15 +629,12 @@
 <biblScope>Monit. univ. 24 avril 1868, p. 552, 6e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Se dit quelquefois pour désigner la direction qui administre une <oVar>wateringue</oVar>.</dictScrap>
 </sense>
 <etym>Flamand, wateringen, de water, eau.</etym>
-<re ana="supplement" orig=" WATERINGUE. Ajoutez : ">
-
-
-<re>Dans l'étymologie, au lieu de wateringen, lisez watering. </re>
-</re>
+<etym ana="supplement">au lieu de wateringen, lisez watering.</etym>
 </entry>
 <entry xml:id="waterman">
 <form>

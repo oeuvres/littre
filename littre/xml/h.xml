@@ -70,7 +70,8 @@
 <sense>
 <dictScrap>En musique, <oVar>H</oVar> chez les Allemands désigne le si.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Anciennement, être marqué à l'<oVar>H</oVar>, être battu. Prions seulement que cette ordonnance ne porte son appel en croupe, que les commissaires l'effectuent pour notre profit et pour notre consolation, et ainsi nous aurons la paix chez nous ; car, si elle est observée, nous aurons plus de biens et moins de coups ; nous sommes le plus souvent marquées à l'<oVar>H</oVar>, pour montrer que notre peau est tendre, la Réjouissance des femmes sur la défense des tavernes et cabarets, Paris, 1613, dans CH. NISARD, Parisianismes, p. 136, qui pense que cette locution provient d'une allusion aux lettres par lesquelles commencent le plus souvent des noms de coups et d'instruments servant à donner des coups : horion, heurt, hoche, hache, etc.</dictScrap>
 </sense>
 <note type="H">
@@ -85,10 +86,7 @@
 
 </note>
 <etym>H latin, H grec, heth phénicien. Le sens et la forme de heth sont d'accord pour signifier une haie, une clôture ; le signe hiéroglyphique de la haie est devenu le caractère de tous les mots commençant par le même son.</etym>
-<re ana="supplement" orig=" H. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="ha">
 <form>
@@ -1576,7 +1574,8 @@
 <sense>
 <dictScrap>Prise d'<oVar>habit</oVar>, entrée en religion.</dictScrap>
 </sense>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Se disait, dans l'ordre de Fontevrault, du logement des religieux de l'ordre qui servaient de chapelains et de confesseurs, par opposition au monastère, qui se disait de l'édifice occupé par les religieuses.</dictScrap>
 </sense>
 <re type="P"><form>L'habit ne fait pas le moine</form>, on ne doit pas juger des personnes par l'apparence. Cela se dit aussi des personnes dont la conduite n'est pas conforme à leur état. <cit><quote>Cette façon de parler est prise des auteurs du droit canon, traitant de la capacité ou incapacité de posséder des bénéfices ; elle veut dire au propre : Il faut être profès et non simple novice pour posséder un bénéfice régulier, par opposition aux bénéfices séculiers</quote><bibl><author>DE BRIEUX</author><biblScope/></bibl></cit> 
@@ -1694,10 +1693,7 @@
 
 </note>
 <etym>Bourg. haibi ; provenç. habit, abit ; cat. habit ; esp. habito ; ital. ábito ; du latin hábitus, qui veut dire proprement manière d'être, venant de habere, avoir, mais qui signifie aussi dans la meilleure latinité vêtement ; on comprend comment, de manière d'être, le passage s'est fait à vêtement ; ce passage appartient non au moyen âge scolastique, mais à l'antiquité latine. Habit, bien qu'il remonte au XIIIe siècle, est fait sur le latin ; habitus, ayant l'accent sur ha, aurait donné hate.</etym>
-<re ana="supplement" orig=" HABIT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="habitabilité">
 <form>
@@ -2853,6 +2849,16 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap><oVar>Habitué</oVar> se dit aussi adjectivement de celui qui a des habitudes en un lieu.</dictScrap>
+<cit>
+<quote>Un des convives plus habitué que les autres pénétra jusque dans les cuisines</quote>
+<bibl>
+<author>BRILLAT-SAVARIN</author>
+<biblScope>Phys. du goût, Méd. IV, 14</biblScope>
+</bibl>
+</cit>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>Prêtre <oVar>habitué</oVar>, ecclésiastique attaché au service d'une paroisse, sans avoir charge ni dignité dans l'église de cette paroisse.</dictScrap>
@@ -2873,23 +2879,7 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap><oVar>Habitué</oVar> se dit aussi adjectivement de celui qui a des habitudes en un lieu.</dictScrap>
-<cit>
-<quote>Un des convives plus habitué que les autres pénétra jusque dans les cuisines</quote>
-<bibl>
-<author>BRILLAT-SAVARIN</author>
-<biblScope>Phys. du goût, Méd. IV, 14</biblScope>
-</bibl>
-</cit>
 </sense>
-</sense>
-<re ana="supplement" orig=" HABITUÉ. ">
-
-
-</re>
 </entry>
 <entry xml:id="habituel">
 <form>
@@ -3929,7 +3919,8 @@
 <biblScope>Lett. d'Autrey, 6 sept. 1765</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fig. et par plaisanterie. Action de mettre en pièces par la critique une œuvre littéraire.</dictScrap>
 <cit>
 <quote>Si le docteur Heinsius est assez téméraire pour y répondre [à une lettre critique de Saumaise], quel bon plat sera ce hachis de sa tragédie [Herodes infanticida] que nous promet M. de Saumaise !</quote>
@@ -3940,10 +3931,7 @@
 </cit>
 </sense>
 <etym>Hacher.</etym>
-<re ana="supplement" orig=" HACHIS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hachoir">
 <form>
@@ -4021,14 +4009,12 @@
 </sense>
 <sense n="4">
 <dictScrap>Terme de blason. Traits ou points dont on se sert dans la gravure pour marquer la différence des couleurs ou émaux et des métaux. La <oVar>hachure</oVar> en pal ou de haut en bas désigne le gueules ; la <oVar>hachure</oVar> en fasce qui traverse l'écu, l'azur ; la <oVar>hachure</oVar> en pal, contre-hachée en fasce, le sable ; la <oVar>hachure</oVar> en bande, c'est-à-dire oblique de droite à gauche, le sinople ; et la <oVar>hachure</oVar> en barre, de gauche à droite, le pourpre. Les pièces d'argent n'ont point de <oVar>hachures</oVar> et sont toutes blanches, et les pièces d'or sont désignées par un pointillé.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Dans le massage, sorte de percussion linéaire exécutée avec les doigts s'entre-choquant brusquement en frappant la partie malade.</dictScrap>
 </sense>
 <etym>Hacher.</etym>
-<re ana="supplement" orig=" HACHURE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hadela">
 <form>
@@ -4681,6 +4667,9 @@
 <dictScrap>Terme de marine. Long banc d'écueil. Une <oVar>haie</oVar> de rochers. </dictScrap>
 <re type="P"><form>Plus la haie est basse, plus on y passe</form>, c'est-à-dire une humeur trop facile encourage les gens malintentionnés. </re>
 </sense>
+<sense n="7" ana="supplement">
+<dictScrap>Terme de turf. Un des obstacles usités dans les courses d'obstacles.</dictScrap>
+</sense>
 <note type="H">
 
 <label>XIIIe s.</label>
@@ -4803,13 +4792,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="7">
-<dictScrap>Terme de turf. Un des obstacles usités dans les courses d'obstacles.</dictScrap>
 </sense>
-<re ana="supplement" orig=" HAIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="haïe">
 <form>
@@ -6564,14 +6548,12 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de fauconnerie. Rompre quelques pennes à un oiseau de proie.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Donner aux canards de basse-cour un caractère de halbran, en les produisant par des couvées libres au bord des étangs voisins des fermes ; les canards ainsi obtenus ont la chair plus délicate et sont moins sujets aux maladies des basses-cours.</dictScrap>
 </sense>
 <etym>Halbran.</etym>
-<re ana="supplement" orig=" HALBRENER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="halcyon">
 <form>
@@ -8255,14 +8237,12 @@
 </form>
 <sense>
 <dictScrap>Terme de marine. Jets et <oVar>halins</oVar>, voy. <ref target="fune">FUNE</ref>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Au sing. Terme de pêche au hareng. Cordage, dit aussi haussière sur lequel sont attachés les filets.</dictScrap>
 </sense>
 <etym>Haler 1.</etym>
-<re ana="supplement" orig=" HALINS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="haliotide">
 <form>
@@ -8717,7 +8697,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Marchand qui étale aux halles.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Dans une tuilerie, ouvrier qui range et garde les tuiles dans un endroit spécial.</dictScrap>
 <cit>
 <quote>La fabrication des tuiles et briques dans les tuileries de Bourgogne comporte, dans ses diverses phases, l'emploi d'un certain nombre d'ouvriers, ayant tous un emploi distinct, savoir : un casseur, un marcheur, un mouleur, des porteurs et un hallier</quote>
@@ -8738,10 +8719,7 @@
 
 </note>
 <etym>Halle.</etym>
-<re ana="supplement" orig=" 1. HALLIER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hallier.2">
 <form>
@@ -9071,7 +9049,8 @@
 </form>
 <sense>
 <dictScrap>Terme de chasse. Trou de lapins dans une garenne.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>En Normandie, touffe de buisson, hallier, DELBOULLE, Gloss. de la vallée d'Yères, le Havre, 1876, p. 161.</dictScrap>
 </sense>
 <etym>Peut-être l'anglo-saxon hal, cavité.</etym>
@@ -9228,7 +9207,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Anciennement, droit de <oVar>halte</oVar> et gare, droit de halle perçu sur les blés, farines, avoines, orges, grenailles, charbons, foin et paille, Journ. offic. 3 déc. 1876, p. 8975, 3e col.</dictScrap>
 </sense>
 <note type="R">Au XVIIe siècle, on n'aspirait pas l'h (Chifflet, Gramm. p. 31) : <cit><quote>Alte un peu ; retenez l'ardeur qui vous emporte</quote><bibl><author>MOL.</author><biblScope>l'Ét. III, 4</biblScope></bibl></cit> " Dans tous les livres et dans toutes les relations qui se sont faits en ces dernières guerres, on n'a point vu halte imprimé ni écrit avec une h ; et ce n'est que depuis ce temps-là qu'on a commencé à écrire ce mot, dont M. Coëffeteau n'a jamais osé se servir, n'étant pas encore en usage dans le beau style, " VAUGELAS, Rem. t. II, p. 1004, dans POUGENS. Aujourd'hui halte a repris l'h étymologique. </note>
@@ -9268,10 +9248,7 @@
 
 </note>
 <etym>Espagn. et ital. alto ; de l'allem. halten, tenir, s'arrêter ; Halt, s. m., halte, station.</etym>
-<re ana="supplement" orig=" HALTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="halter">
 <form>
@@ -9605,7 +9582,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Terme de zoologie. <oVar>Hameçon</oVar> de mer, le leptocéphale morisien.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Sorte de papillon, bombyx hamula.</dictScrap>
 </sense>
 <note type="H">
@@ -10117,7 +10095,8 @@
 </sense>
 <sense n="6">
 <dictScrap>La partie arrondie d'un vase qui unit le fond aux parois. La <oVar>hanche</oVar> d'une chaudière.</dictScrap>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Les <oVar>hanches</oVar> d'une chèvre (machine) sont les deux grands côtés qui vont en se rapprochant, et entre les extrémités desquels est montée une poulie.</dictScrap>
 </sense>
 <note type="H">
@@ -10355,20 +10334,17 @@
 </bibl>
 </cit>
 </sense>
+<sense ana="supplement">
+<dictScrap>Se tenir comme des <oVar>hannetons</oVar>, être très étroitement unis.</dictScrap>
+</sense>
 </sense>
 <sense n="2">
 <dictScrap>En passementerie, soucis d'<oVar>hanneton</oVar>, franges qui portent de petites houppes imitant les deux cornes de cet insecte. L'Académie dit que, dans cette locution, l'h n'est pas aspirée.</dictScrap>
-</sense><sense n="1" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Se tenir comme des <oVar>hannetons</oVar>, être très étroitement unis.</dictScrap>
+<sense ana="supplement">
+<dictScrap>Comparez sourcil de <oVar>hanneton</oVar>, à SOURCIL.</dictScrap>
 </sense>
-</sense><sense n="2" ana="supplement">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Souci d'<oVar>hanneton</oVar>, comparez sourcil de <oVar>hanneton</oVar>, à SOURCIL.</dictScrap>
 </sense>
-</sense><sense n="3">
+<sense n="3" ana="supplement">
 <cit>
 <quote>Hanneton écailleux, nom vulgaire de l'hoplia farinosa, coléoptère très commun dans le midi de la France ; il est d'un beau bleu d'azur avec reflets violacés et argentés</quote>
 <bibl>
@@ -10436,12 +10412,7 @@
 
 </note>
 <etym>Dérivé, d'après Diez, de l'allemand Hahn, nom du hanneton en quelques provinces, proprement coq. Cette étymologie est très vraisemblable. Mahn a indiqué une dénomination très semblable du hanneton en anglais : cock-chafer, de cock, coq, et chafer, scarabée. Génin a confondu aneton, qui veut dire un jeune canard, avec haneton, qui s'est toujours écrit avec une h et qui a un tout autre sens ; l'étymologie qu'il en tire est sans valeur.</etym>
-<re ana="supplement" orig=" HANNETON. ">
 
-
-
-
-</re>
 </entry>
 <entry xml:id="hannetoner">
 <form>
@@ -11585,17 +11556,13 @@
 </form>
 <sense>
 <dictScrap>Charrette longue, étroite et sans ridelles, qui sert à voiturer du vin, des ballots, etc. Ni enlever et charger sur leurs charrettes et <oVar>haquets</oVar>, sans, au préalable, avoir vu l'acquit des droits de la dite ferme, Arrêt de la cour des aides, 10 oct. 1613.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Grande voiture qui sert à transporter les bateaux qui font partie des équipages de ponts militaires.</dictScrap>
-<sense>
-<dictScrap>Ajoutez : - REM. Le <oVar>haquet</oVar>, qui est de l'invention de Pascal, sert à voiturer du vin, des ballots, etc. Avant Pascal, ce nom s'appliquait à une voiture d'une forme analogue mais qui ne formait pas le plan incliné.</dictScrap>
 </sense>
-</sense>
+<note ana="supplement" type="R">Le <oVar>haquet</oVar>, qui est de l'invention de Pascal, sert à voiturer du vin, des ballots, etc. Avant Pascal, ce nom s'appliquait à une voiture d'une forme analogue mais qui ne formait pas le plan incliné.</note>
 <etym>Haquet a signifié petit cheval (Sus, sus, allez vous en, Jaquet, Et pensez le petit haquet, Et lui faites bien la litiere, COQUILLART, Monologue du puits), nom qui a passé à une sorte de charrette basse ; picard, haguette, petite jument servant de monture. Haquet est le diminutif de haque, qui a signifié cheval, du germanique hack ou hacke (voy. <ref target="haquenée">HAQUENÉE</ref>).</etym>
-<re ana="supplement" orig=" HAQUET. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="haquetier">
 <form>
@@ -12486,7 +12453,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Espèce de viorne.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Vaurien, garnement, la Gazette des halles, p. 7, 1649, dans CH. NISARD, Parisianismes, p. 141.</dictScrap>
 </sense>
 <etym>Diminutif de hart.</etym>
@@ -13996,14 +13964,12 @@
 </form>
 <sense>
 <dictScrap>Terme populaire. Spéculer mesquinement au jeu ou dans les affaires, faire des affaires minimes.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>En Normandie, se dit d'un cultivateur qui laboure avec des haridelles et n'avance point dans son travail ; d'où haricotier, pauvre homme qui n'arrive point à faire ses affaires, qui tire le diable par la queue, DELBOULLE, Gloss. de la vallée d'Yères, le Havre, 1876, p. 182.</dictScrap>
 </sense>
 <etym>Génin dit que haricoter est l'ancien verbe harigoter (voy. <ref target="haricot.1">HARICOT 1</ref>), qui signifiait déchiqueter. On a dit aussi que ce mot vient de l'usage de jouer en marquant avec des haricots.</etym>
-<re ana="supplement" orig=" HARICOTER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="haricoteur">
 <form>
@@ -18483,7 +18449,8 @@
 <dictScrap>Petite broche du métier des fabricants d'étoffes de soie.</dictScrap>
 </sense><sense n="3" ana="supplement">
 <dictScrap>Bijou en forme de broche ; on dit aussi hâtelette.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <cit>
 <quote>En Normandie, carré de côtelettes de porc qu'on fait rôtir à la broche</quote>
 <bibl>
@@ -18493,11 +18460,7 @@
 </cit>
 </sense>
 <etym>Diminutif de hâte 2.</etym>
-<re ana="supplement" orig=" HÂTELET. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="hâtelettes">
 <form>
@@ -19322,7 +19285,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de construction. Gros cordage qui sert à assujettir une chèvre ou toute autre machine à élever des fardeaux.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Nom donné par les marins à certaines formes de nuages.</dictScrap>
 <cit>
 <quote>Tout le monde a pu voir autour du soleil, lorsque le temps est couvert, des colonnes obscures partant des nuages qui l'entourent et qui se prolongent jusqu'à la mer ; les matelots appellent ces colonnes les haubans du soleil</quote>
@@ -19344,10 +19308,7 @@
 
 </note>
 <etym>Flamand, hobant, pour hoofband, de hoof, tête, et band, lien : lien de la tête, du sommet du mât ; un cordage qui entoure la tête du mât ne pouvait être mieux nommé que bande de tête.</etym>
-<re ana="supplement" orig=" HAUBAN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="haubaner">
 <form>
@@ -19417,7 +19378,8 @@
 <sense>
 <dictScrap>Fief de <oVar>haubert</oVar>, le plus noble fief après ceux de dignité et immédiatement au-dessous des baronies. Depuis qu'il n'y a plus ni fief ni <oVar>haubert</oVar> ; qu'affranchis, peu s'en faut, de l'antique servitude, nous travaillons pour nous quand l'impôt est payé, nous ne saurions chômer qu'à nos propres dépens, P. L. COUR., Pétition pour les villageois qu'on empêche de danser.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Grand <oVar>haubert</oVar>, blanc <oVar>haubert</oVar>, armure complète de mailles que les chevaliers avaient seuls le droit de porter, PENGUILLY L'HARIDON, Notice sur les armures.</dictScrap>
 </sense>
 <note type="H">
@@ -19472,10 +19434,7 @@
 
 </note>
 <etym>Provenç. ausberc ; ital. usbergo ; de l'anc. h. allem. halsberc ; anglo-sax. healsbeorg ; anc. scand. hâlsbiörg, de hals, cou, et berc, protection, allem. mod. bergen, cacher.</etym>
-<re ana="supplement" orig=" HAUBERT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="haudriette">
 <form>
@@ -19568,7 +19527,8 @@
 </sense>
 <sense n="9">
 <dictScrap>S. f. pl. Planches mobiles que l'on superpose sur les vannes pour hausser le niveau des eaux.</dictScrap>
-</sense><sense n="10">
+</sense>
+<sense n="10" ana="supplement">
 <dictScrap>Pièce de bois équarrie placée au-dessus de l'essieu de certaines voitures pour servir de point d'appui au fond.</dictScrap>
 </sense>
 <note type="H">
@@ -21712,6 +21672,13 @@
 </cit>
 <sense>
 <dictScrap>Par extension, <oVar>haut</oVar> le pied, sans être chargé. Renvoyer des chevaux <oVar>haut</oVar> le pied, les renvoyer sans être attelés ni montés.</dictScrap>
+<dictScrap ana="supplement">Substantivement, un <oVar>haut</oVar> le pied, un cheval qui n'est pas attelé. 40 voitures d'artillerie à 5 chevaux, compris le <oVar>haut</oVar> le pied, total 110 hommes et 200 chevaux, Corresp. de Napoléon Ier, t. XVIII, p. 416.</dictScrap>
+<cit ana="supplement">
+<quote>Que les chevaux étaient bien plus vite blessés dans les marches et les combats que les hommes, et qu'il serait plus rationnel d'admettre des chevaux haut le pied que des cavaliers non montés</quote>
+<bibl>
+<biblScope>Journ. offic. 12 nov. 1874, p. 7530, 3e col.</biblScope>
+</bibl>
+</cit>
 </sense>
 <sense>
 <dictScrap>Terme de chemin de fer et de messagerie. Train <oVar>haut</oVar> le pied, train vide de voyageurs. L'indemnité de 1, 875,000 francs allouée à la compagnie des services maritimes des messageries impériales pour frais de transport, en <oVar>haut</oVar> le pied, des navires affectés au service postal de l'Indo-Chine, Rapport du baron de Veauce au Corps législatif, séance du 17 avril 1863.</dictScrap>
@@ -22198,20 +22165,10 @@
 </sense>
 <sense n="41">
 <dictScrap>Aller par <oVar>haut</oVar> et par bas, vomir et aller à la selle.</dictScrap>
-</sense><sense n="27" ana="supplement">
-<dictScrap>Après : <oVar>Haut</oVar> le pied, sans être chargé. Renvoyer des chevaux <oVar>haut</oVar> le pied, les renvoyer sans être attelés ni montés. Ajoutez :</dictScrap>
-<sense>
-<dictScrap>Substantivement, un <oVar>haut</oVar> le pied, un cheval qui n'est pas attelé. 40 voitures d'artillerie à 5 chevaux, compris le <oVar>haut</oVar> le pied, total 110 hommes et 200 chevaux, Corresp. de Napoléon Ier, t. XVIII, p. 416.</dictScrap>
-<cit>
-<quote>Que les chevaux étaient bien plus vite blessés dans les marches et les combats que les hommes, et qu'il serait plus rationnel d'admettre des chevaux haut le pied que des cavaliers non montés</quote>
-<bibl>
-<biblScope>Journ. offic. 12 nov. 1874, p. 7530, 3e col.</biblScope>
-</bibl>
-</cit>
-</sense>
 </sense><sense n="42" ana="supplement">
 <dictScrap><oVar>Haute</oVar> vie, voy. VIE au Supplément.</dictScrap>
-</sense><sense n="43">
+</sense>
+<sense n="43" ana="supplement">
 <dictScrap>Familièrement et grossièrement. <oVar>Haut</oVar> le cul, lève-toi, levez-vous.</dictScrap>
 </sense>
 <note type="R">Il ne faut pas confondre haut à la main et haut la main : haut à la main est un adjectif qui signifie impérieux ; haut la main est une locution adverbiale qui signifie d'emblée, sans résistance. </note>
@@ -22755,12 +22712,7 @@
 
 </note>
 <etym>Berry, hiaut ; provenç. alt, aut ; cat. alt ; esp. port. et ital. alto ; du latin altus, qui, d'après Festus, serait le participe passif de alere, nourrir, et signifierait proprement accru par la nourriture. L'h est due à la tendance qu'a eue la langue pour la prosthèse d'une h : huile, huit, huître, hurler, etc.</etym>
-<re ana="supplement" orig=" HAUT. ">
 
-
-
-
-</re>
 </entry>
 <entry xml:id="haut-à-bas">
 <form>
@@ -23064,7 +23016,8 @@
 </form>
 <sense>
 <dictScrap>Bois vivant ou mort, mais beaucoup plus grand que l'échalas, et destiné à supporter la vigne dans certains pays. Vigne sur <oVar>hautain</oVar>.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Cep de vigne cultivé en hauteur.</dictScrap>
 <sense>
 <dictScrap>Le champ qui en est planté.</dictScrap>
@@ -23086,10 +23039,7 @@
 
 </note>
 <etym>Dérivé de haut ; génev. hutins, hutains.</etym>
-<re ana="supplement" orig=" 2. HAUTAIN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hautainement">
 <form>
@@ -24242,11 +24192,18 @@
 <sense>
 <dictScrap>Nom donné vulgairement à divers poissons de genres différents, savoir, une argentine, un corégone et un triptéronote.</dictScrap>
 </sense>
-<re ana="supplement" orig=" 2. HAUTIN (hô-tin, h aspirée), s. m. Autre orthographe de HAUTAIN 2 (voy. ce mot). ">
-
-</re>
 </entry>
-<entry xml:id="hautiné">
+<entryFree xml:id="hautin.2" ana="supplement">
+  <form>
+    <orth>HAUTIN</orth>
+    <pron>hô-tin</pron>
+    <note>h aspirée</note>
+    <gram>s. m.</gram>
+  </form>
+  <xr> Autre orthographe de HAUTAIN 2 (voy. ce mot).</xr>
+</entryFree>
+  
+  <entry xml:id="hautiné">
 <form>
 <orth>HAUTINÉ, ÉE</orth>
 <pron>hô-ti-né, née, h aspirée</pron>
@@ -25749,7 +25706,8 @@
 <biblScope>543</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Rendre insensible.</dictScrap>
 <cit>
 <quote>C'est de cette façon que se passent les gouttes [la goutte]..., quand elles ont hébété la partie malade, à force de la tourmenter</quote>
@@ -26011,7 +25969,8 @@
 </form>
 <sense>
 <dictScrap>Forte planche qu'on pose sur la vendange avant de la soumettre à l'action du pressoir.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>En Normandie, la partie inférieure d'une porte coupée en deux, et aussi la petite porte, susceptible de déplacement, à claire-voie, que l'on place, durant le jour, à l'entrée des habitations dans les fermes, pour empêcher les volailles et les animaux de basse-cour d'y pénétrer, H. MOISY, Noms de famille normands, p. 191.</dictScrap>
 </sense>
 <note type="H">
@@ -26083,14 +26042,12 @@
 <sense>
 <dictScrap>Espèce de papillon.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>La 100e planète télescopique, découverte en 1868 par M. Watson.</dictScrap>
 </sense>
 <etym/>
-<re ana="supplement" orig=" HÉCATE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hécatombe">
 <form>
@@ -26758,14 +26715,12 @@
 <biblScope>dans JAL</biblScope>
 </bibl>
 </cit>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>La 101e planète télescopique, découverte en 1868 par Watson.</dictScrap>
 </sense>
 <etym>Terme grec que Max Müller a identifiée avec la Saramâ védique, la déesse de l'aurore, et que Curtius au contraire rapproche du mot grec signifiant torche.</etym>
-<re ana="supplement" orig=" HÉLÈNE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hélénie">
 <form>
@@ -26945,7 +26900,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Nom qu'on donne à la Grande Ourse parce qu'on la voit toujours tourner autour du pôle dans un petit cercle.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Terme de géométrie. Courbe à double courbure tracée sur un cylindre quelconque, jouissant de la propriété de se transformer en ligne droite lorsqu'on fait le développement de la surface du cylindre.</dictScrap>
 </sense>
 <note type="H">
@@ -26961,10 +26917,7 @@
 
 </note>
 <etym>Du grec, enrouler, primitif de, tourner, courber ; l'esprit doux suppose un digamma, d'où le rapprochement naturel avec le latin volvo, sanscrit var, envelopper.</etym>
-<re ana="supplement" orig=" HÉLICE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hélicé">
 <form>
@@ -27036,7 +26989,8 @@
 </form>
 <sense>
 <dictScrap>Terme d'anatomie. Disposé en hélice. Organes hélicoïdaux.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Qui se rapporte à l'hélicoïde. Surface <oVar>hélicoïdale</oVar>.</dictScrap>
 </sense>
 <re ana="supplement" orig=" HÉLICOÏDAL. Ajoutez : ">
@@ -27062,20 +27016,15 @@
 </sense>
 <sense n="2">
 <dictScrap>S. m. Un <oVar>hélicoïde</oVar>, surface engendrée par une droite horizontale qui s'appuie constamment sur une hélice et sur l'axe vertical du cylindre droit où est tracée cette courbe.</dictScrap>
-</sense><sense n="2">
-<dictScrap>S. m. Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap><oVar>Hélicoïde</oVar> développable, surface engendrée par une droite mobile qui glisse sur une hélice en lui demeurant constamment tangente.</dictScrap>
 </sense>
-<sense>
+<sense ana="supplement">
 <dictScrap><oVar>Hélicoïde</oVar> gauche, surface engendrée par une droite mobile qui glisse sur une hélice et sur son axe, en faisant avec cet axe un angle constant.</dictScrap>
 </sense>
 </sense>
 <etym>Hélice, et forme (en grec).</etym>
-<re ana="supplement" orig=" HÉLICOÏDE. ">
 
-
-</re>
 </entry>
 <entry xml:id="hélicon">
 <form>
@@ -28374,7 +28323,8 @@
 </form>
 <sense>
 <dictScrap>Terme de chimie. Acide <oVar>hématique</oVar>, matière que l'on obtient en faisant rougir du charbon de sang avec de la soude, et traitant ensuite le tout par l'alcool.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme de physiologie. Qui a rapport au sang.</dictScrap>
 <cit>
 <quote>Poisons hématiques, poisons qui agissent sur les globules du sang</quote>
@@ -28384,10 +28334,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" HÉMATIQUE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hématite">
 <form>
@@ -29188,13 +29135,11 @@
 </form>
 <sense>
 <dictScrap>Espace de terre pour l'ensemencement de laquelle il faut une hémine de grain (Drôme).</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Dans les Bouches-du-Rhône, mesure agraire qui vaut un peu plus de huit ares, BARRAL, Les irrigations dans les Bouches-du-Rhône, Paris, 1876, p. 63.</dictScrap>
 </sense>
-<re ana="supplement" orig=" HÉMINÉE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hémiobole">
 <form>
@@ -30584,14 +30529,12 @@
 </form>
 <sense>
 <dictScrap>Ordre de Saint-<oVar>Henri</oVar>, ordre militaire institué en 1736 par l'électeur de Saxe. La marque en est une étoile à huit pointes, au milieu de laquelle est le buste de saint <oVar>Henri</oVar>, empereur. Elle est attachée par un cordon d'argent à un ruban cramoisi.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Monnaie d'or, créée en 1549 par <oVar>Henri</oVar> II, qui valait deux écus et qui était à 23 carats et de 67 au marc, DE SAULCY, Journ. offic. 20 fév. 1877, p. 1296, 2e col.</dictScrap>
 </sense>
 <etym>Henri, nom germanique, dont la forme dans le haut allemand est Heimrih, de heim, maison, village, et rih, puissant : chef de village ou de maison.</etym>
-<re ana="supplement" orig=" HENRI. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="henriade">
 <form>
@@ -31530,6 +31473,9 @@
 <sense n="4">
 <dictScrap>Terrain en friche sur lequel tout propriétaire de bestiaux a droit de les envoyer.</dictScrap>
 </sense>
+<sense n="5" ana="supplement">
+<dictScrap>Terme de droit féodal. Droit d'<oVar>herbage</oVar>, droit payé pour tout héritage tenu en censive. Il y avait le droit de vif <oVar>herbage</oVar> et le droit de mort <oVar>herbage</oVar>.</dictScrap>
+</sense>
 <note type="H">
 
 <label>XIIe s.</label>
@@ -31582,14 +31528,9 @@
 </form>
 <sense>
 <dictScrap>Ancien terme de marine. Étoffe de laine grossière et de couleur brune, sorte de camelot dont on faisait des tentes pour les navires, des cabans et des chaussures pour les gens de mer, JAL.</dictScrap>
-</sense><sense n="5">
-<dictScrap>Terme de droit féodal. Droit d'<oVar>herbage</oVar>, droit payé pour tout héritage tenu en censive. Il y avait le droit de vif <oVar>herbage</oVar> et le droit de mort <oVar>herbage</oVar>.</dictScrap>
 </sense>
 <etym>D'après Jal, bas-lat. arbasus, de l'ital. arbascio, de Arba, île appartenant aux Vénitiens, où l'on fabriquait l'arbascîo.</etym>
-<re ana="supplement" orig=" HERBAGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="herbagement">
 <form>
@@ -33413,7 +33354,8 @@
 </form>
 <sense>
 <dictScrap>D'une façon héréditaire. Posséder <oVar>héréditairement</oVar> une charge, une terre.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>À titre héréditaire. Tous les pouvoirs publics, quels qu'ils soient, émanent du peuple ; ils ne peuvent être délégués <oVar>héréditairement</oVar>, Constitution de 1848, art. 18.</dictScrap>
 </sense>
 <note type="H">
@@ -33436,10 +33378,7 @@
 
 </note>
 <etym>Héréditaire, et le suffixe ment. Dans l'ancienne langue on disait heritablement, de l'adjectif heritable.</etym>
-<re ana="supplement" orig=" HÉRÉDITAIREMENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hérédité">
 <form>
@@ -35091,7 +35030,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap><oVar>Hérite</oVar>, à l'impératif, s'est dit populairement pour : attrape. C'est pour lui rabattre son caquet ; je lui gardais ça pour ses étrennes ; <oVar>hérite</oVar>, ton père est mort, les Ecosseuses, p. 19, 1739, dans CH. NISARD, Parisianismes, p. 142. Gilles, battant Léandre : Sa marchandise ? Oui, pan, la voilà payée ; <oVar>hérite</oVar>, mon garçon, Parade, 1773.</dictScrap>
 </sense>
 <note type="H">
@@ -35152,10 +35092,7 @@
 
 </note>
 <etym>Provenç. heretar ; espagn. heredar ; portug. herdar ; ital. eredare ; du lat. hereditare, de heres (voy. <ref target="hoir">HOIR</ref>). Dans l'historique, hériter a souvent le sens de rendre héritier.</etym>
-<re ana="supplement" orig=" HÉRITER. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="héritier.1">
 <form>
@@ -35746,7 +35683,8 @@
 </sense>
 <sense n="4">
 <dictScrap>Nom vulgaire du cône capitaine, sorte de coquille, disent certains auteurs, tandis que d'autres ont un cône capitaine et un cône <oVar>hermine</oVar>, LEGOARANT.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Sorte de papillon, bombyx herminea, dit aussi queue fourchue.</dictScrap>
 </sense>
 <note type="H">
@@ -35787,10 +35725,7 @@
 
 </note>
 <etym>Provenç. ermini ; espagn. armiño ; ital. armellino, ermellino ; du latin armenius, arménien, parce que cette sorte de fourrure venait d'Arménie. On disait aussi ermin, adj. et subst.</etym>
-<re ana="supplement" orig=" HERMINE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="herminé">
 <form>
@@ -37497,7 +37432,8 @@
 </sense>
 <sense n="10">
 <dictScrap>Espèce de poisson du Nil.</dictScrap>
-</sense><sense n="11">
+</sense>
+<sense n="11" ana="supplement">
 <dictScrap>Terme de zoologie. Chez les squales, sorte de franges garnissant les arcs branchiaux.</dictScrap>
 <cit>
 <quote>Les dents piliformes [chez un squale, le pèlerin] sont en grand nombre pour chacune des herses ; nous en avons compté 1345 environ à la herse antérieure de l'arc branchial intermédiaire, et 1000 sur la herse postérieure ; cela pour un seul côté du corps</quote>
@@ -37556,10 +37492,7 @@
 
 </note>
 <etym>Wallon, îpe, îpre ; namur. hîpe ; Hainaut, hierse ; Dauphiné, herpi ; bas-lat. hercia ; ital. erpice ; du lat. hirpex, hirpicis, qui était une herse particulière pour les mauvaises herbes.</etym>
-<re ana="supplement" orig=" HERSE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hersé">
 <form>
@@ -42353,7 +42286,8 @@
 <biblScope>Paria, I, 2</biblScope>
 </bibl>
 </cit>
-</sense><sense n="10">
+</sense>
+<sense n="10" ana="supplement">
 <dictScrap>En Normandie, <oVar>heurter</oVar> se dit des bœufs qui frappent avec les cornes.</dictScrap>
 <cit>
 <quote>Le taureau a heurté la servante</quote>
@@ -44347,7 +44281,8 @@
 <biblScope>dans Mém. inéd. sur l'Acad. de peint. publ. par Dussieux, etc. t. II, p. 72</biblScope>
 </bibl>
 </cit>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Nom donné à des taches sur la tête des vipères ; ces taches imitent des lettres.</dictScrap>
 </sense>
 <note type="R">Chateaubriand a aspiré l'h, mais à tort. <cit><quote>Une statue de bronze.... dont la base soit chargée de hiéroglyphes</quote><bibl><author>CHATEAUBRIAND</author><biblScope>Gén. I, II, 2</biblScope></bibl></cit> </note>
@@ -46105,7 +46040,8 @@
 <re type="P"><form>Une hirondelle ne fait pas le printemps</form>, c'est-à-dire il n'y a pas de conséquence à tirer d'un seul cas, d'un fait isolé. </re>
 </sense><sense n="7" ana="supplement">
 <dictScrap>Chez les tailleurs, le jeune ouvrier allemand qui vient faire à Paris la bonne saison et s'en retourne dans son pays.</dictScrap>
-</sense><sense n="8">
+</sense>
+<sense n="8" ana="supplement">
 <dictScrap>Dans quelques provinces, les <oVar>hirondelles</oVar> d'hiver, les ramoneurs.</dictScrap>
 </sense>
 <note type="R">Au XVIIe siècle, on variait entre diverses formes : Arondelle, hirondelle, herondelle sont tous trois bons ; herondelle est le meilleur, MARG. BUFFET, Observ. p. 63. Vos esprits étant plus légers Que les volages arondelles, Puisque nous sommes infidèles, Nous ne sommes pas étrangers, PORCHÈRES D'ARBAUD, dans JAUBERT, Glossaire. Cette variété de forme existe encore dans aronde (voy. ce mot). </note>
@@ -46171,11 +46107,7 @@
 
 </note>
 <etym>Berry, aronde, arondelle, harondelle ; bourg. airondelle ; picard, haroudelle ; wallon, aronde, aronge ; Hainaut, arondiele ; provenç. hyrunda, irunda, yrundre, irondella, ysrundella, randola ; espagn. golondrina ; portug. andorinha ; ital. rondine. Hirondelle et les formes congénères sont des diminutifs d'aronde, ironde et formes congénères, lesquelles viennent du latin hirundinem. Curtius admet que hirundo est le même que le grec : hir-undo ; pour cela il suppose un ancien italo-grec. Complétant l'étymologie des deux mots, Corssen les rattache au radical sanscrit har, ghar, prendre d'où découle le grec, la main considérée comme preneuse, et le latin archaïque hir, la main ; dans cette hypothèse, l'hirondelle serait la preneuse (de mouches).</etym>
-<re ana="supplement" orig=" HIRONDELLE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="hirondinées">
 <form>
@@ -47134,7 +47066,8 @@
 </sense>
 <sense n="11">
 <dictScrap>Dans le langage le plus familier, il se dit pour un objet quelconque qu'on ne peut ou ne veut pas nommer. Montrez-moi cette <oVar>histoire</oVar>. Elle est tombée si malheureusement qu'on a vu toute son <oVar>histoire</oVar>.</dictScrap>
-</sense><sense n="12">
+</sense>
+<sense n="12" ana="supplement">
 <dictScrap>Populairement, <oVar>histoire</oVar> de, se dit dans le sens de : afin de, pour. Jouons aux dominos, <oVar>histoire</oVar> de passer le temps. Je lui ai fait une farce, <oVar>histoire</oVar> de rire.</dictScrap>
 </sense>
 <note type="H">
@@ -47231,10 +47164,7 @@
 
 </note>
 <etym>Lat. historia, le sens propre du terme grec est information, recherche intelligente de la vérité. Le grec veut dire le savant, le témoin, et se rattache à un thème inusité du grec, signifiant savoir, voir, le même que le latin videre, et le sanscrit vid.</etym>
-<re ana="supplement" orig=" HISTOIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="histologie">
 <form>
@@ -47355,13 +47285,14 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de peinture. Un tableau bien <oVar>historié</oVar>, un tableau où est bien observé tout ce qui regarde l'histoire.</dictScrap>
-</sense><sense n="2">
-<dictScrap>Ajoutez : Elle agrée pour ouvrage de réception le portrait <oVar>historié</oVar> de feu M. Desjardins, Lettres de l'Acad. du 2 janv. 1700, dans Mém. inéd. sur l'Acad de peint. publiés par Dussieux, t. II, p. 133.</dictScrap>
+<cit ana="supplement">
+<quote>Elle agrée pour ouvrage de réception le portrait <oVar>historié</oVar> de feu M. Desjardins</quote>
+<bibl>
+<biblScope>Lettres de l'Acad. du 2 janv. 1700, dans Mém. inéd. sur l'Acad de peint. publiés par Dussieux, t. II, p. 133</biblScope>
+</bibl>
+</cit>
 </sense>
-<re ana="supplement" orig=" HISTORIÉ, ÉE. ">
 
-
-</re>
 </entry>
 <entry xml:id="historien">
 <form>
@@ -47460,7 +47391,8 @@
 </sense>
 <sense n="3">
 <dictScrap>À l'École normale, <oVar>historien</oVar> se dit, en particulier, de ceux qui étudient spécialement l'histoire. Il veut entrer dans la section des <oVar>historiens</oVar>.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Peintre d'histoire.</dictScrap>
 <cit>
 <quote>Les historiens s'engagèrent à donner un tableau de leur composition, les sculpteurs une figure ou un bas-relief</quote>
@@ -47499,10 +47431,7 @@
 
 </note>
 <etym>Histoire.</etym>
-<re ana="supplement" orig=" HISTORIEN. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="historier">
 <form><orth>HISTORIER</orth><pron>i-sto-ri-é</pron>, j'historiais, nous historiions, vous historiiez ; que j'historie, que nous historiions, que vous historiiez, v. a. </form>
@@ -47930,7 +47859,8 @@
 </bibl>
 </cit>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>à la manière du peintre d'histoire.</dictScrap>
 <cit>
 <quote>Tous ces portraits traités historiquement lui firent [à J.-M. Nattier] une si grande réputation de ce genre, que....</quote>
@@ -47941,10 +47871,7 @@
 </cit>
 </sense>
 <etym>Historique, et le suffixe ment.</etym>
-<re ana="supplement" orig=" HISTORIQUEMENT. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="histotaxie">
 <form>
@@ -48668,7 +48595,8 @@
 </sense>
 <sense n="4">
 <dictScrap>S'<oVar>hiverner</oVar>, v. réfl. S'exposer aux premiers froids, afin de s'y accoutumer.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>V. a. <oVar>Hiverner</oVar> des vers à soie, leur faire passer les froids de l'hiver à l'aide de précautions convenables.</dictScrap>
 <cit>
 <quote>De la graine d'une race de vers à cocons jaunes a été hivernée à la manière ordinaire</quote>
@@ -49185,6 +49113,13 @@
 </sense>
 <sense>
 <dictScrap>Fig. <oVar>Hocher</oVar> le mors, <oVar>hocher</oVar> la bride à quelqu'un, essayer de l'animer, de l'exciter.</dictScrap>
+<cit ana="supplement">
+<quote>Il faut doucement hocher la bride aux esprits, pour les faire tourner du côté qu'on veut</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>Lexique, éd. L. Lalanne.</biblScope>
+</bibl>
+</cit>
 </sense>
 </sense>
 <sense n="2">
@@ -49302,21 +49237,9 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme de couture. Faire de petites entailles au bord d'une étoffe, d'une lisière, soit pour qu'elles godent un peu, soit pour empêcher que le bord ne soit resserré. <oVar>Hocher</oVar> une lisière.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Fig. <oVar>Hocher</oVar> le mors, la bride. Ajoutez en exemple :</dictScrap>
-<cit>
-<quote>Il faut doucement hocher la bride aux esprits, pour les faire tourner du côté qu'on veut</quote>
-<bibl>
-<author>MALH.</author>
-<biblScope>Lexique, éd. L. Lalanne.</biblScope>
-</bibl>
-</cit>
 </sense>
 <etym>Hoche.</etym>
-<re ana="supplement" orig=" HOCHER. ">
 
-
-</re>
 </entry>
 <entry xml:id="hochet.1">
 <form>
@@ -49433,7 +49356,8 @@
 </sense>
 <sense n="2">
 <dictScrap>Les formes dans lesquelles on moule la houille.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Charbon préparé avec le moule nommé <oVar>hochet</oVar>.</dictScrap>
 <cit>
 <quote>Ces boulettes [terre, menu et eau salée] brûlent et chauffent, nous assure-t-on, aussi bien que les hochets de charbon</quote>
@@ -49443,10 +49367,7 @@
 </cit>
 </sense>
 <etym>Hocher 2.</etym>
-<re ana="supplement" orig=" 2. HOCHET. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hocheur">
 <form>
@@ -49989,13 +49910,11 @@
 <sense>
 <dictScrap>Le <oVar>Hollandais</oVar> ou le Voltigeur <oVar>hollandais</oVar>, vaisseau fantastique qui hante les parages du cap de Bonne-Espérance.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme de chimie. Liqueur des <oVar>Hollandais</oVar>, substance huileuse qui résulte de la combinaison lente, à la lumière diffuse, du chlore et de l'hydrogène bicarboné.</dictScrap>
 </sense>
-<re ana="supplement" orig=" HOLLANDAIS. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hollandaise">
 <form>
@@ -53060,7 +52979,8 @@
 </sense>
 <sense n="26">
 <dictScrap>Terme de marine. <oVar>Homme</oVar> de bois, sorte de mât très court.</dictScrap>
-</sense><sense n="27">
+</sense>
+<sense n="27" ana="supplement">
 <dictScrap><oVar>Homme</oVar> de pierre, <oVar>homme</oVar> de neige, masse de pierre, masse de neige qu'érigent ceux qui, dans les montagnes, atteignent un point inexploré.</dictScrap>
 <cit>
 <quote>La hampe du drapeau planté par Martelli, Boretti et Naccarone était encore là dans la boîte de fer-blanc posée sur l'homme de pierre ; on sait qu'on appelle ainsi les deux pierres superposées que laissent les ascensionnistes comme souvenir de leur passage à un point jusqu'alors inexploré</quote>
@@ -53596,10 +53516,7 @@
 
 </note>
 <etym>Berry, houme ; provenç. hom, home, om ; catal. home ; espagn. hombre ; portug. homem ; ital. uomo ; du lat. hominem. Dans l'ancien français, au nominatif hom ou, moins correctement, homs, au régime home ; au pluriel nominatif, li home, régime les homes. C'est du nominatif singulier hom que dérive notre nom indéfini l'on, on. Palsgrave, p. 7, au XVIe siècle, dit qu'on prononce honme, c'est-à-dire hon-m'. Sur l'origine de homo il n'y a que des conjectures : Bopp indique le sanscrit bhuman ( u avec un accent long), créature, de bhu ( u, accent long), être, mais on aurait eu en latin fumon ; d'autres indiquent humus, la terre, homo signifiant, dans cette hypothèse, le terrestre.</etym>
-<re ana="supplement" orig=" HOMME. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hommeau">
 <form>
@@ -54032,14 +53949,12 @@
 </sense>
 <sense n="2">
 <dictScrap>Terme d'anatomie. Rapport d'organes qui, d'une espèce à l'autre, doivent être considérés comme identiques, quelle qu'en soit la forme, en raison des connexions et de la structure, à la différence de l'homotypie, qui est le rapport des organes analogues dans le même individu. Déterminer les homologies des organes dans un genre d'animaux.</dictScrap>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Terme de géométrie. Mode de déformation des lignes et des surfaces ; c'est un cas particulier de l'homographie.</dictScrap>
 </sense>
 <etym>Voy. <ref target="homologue">HOMOLOGUE</ref>.</etym>
-<re ana="supplement" orig=" 1. HOMOLOGIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="homologie.2">
 <form>
@@ -57272,7 +57187,8 @@
 <dictScrap>Populairement et par civilité. Sauf votre <oVar>honneur</oVar>, sauf le respect que je vous dois.</dictScrap>
 </sense><sense n="21" ana="supplement">
 <dictScrap>Autrefois, billet d'<oVar>honneur</oVar>, billet qu'un gentilhomme ou un officier s'engageait sur l'<oVar>honneur</oVar> à payer dans un délai ; le règlement des maréchaux du 20 février 1748 punissait d'un mois de prison ceux qui négligeaient d'acquitter un pareil engagement, lorsqu'il avait été souscrit au profit d'un marchand (DALLOZ).</dictScrap>
-</sense><sense n="22">
+</sense>
+<sense n="22" ana="supplement">
 <dictScrap>Populairement et par euphémisme, en parlant des femmes, les parties que l'on ne montre ni ne nomme.</dictScrap>
 <cit>
 <quote>Sans nous, vos belles dulcinées, qui méprisent l'honnête ouvrier, iraient le derrière nu, et montreraient leur honneur</quote>
@@ -57695,11 +57611,7 @@
 
 </note>
 <etym>Provenç. honor, onor ; espagn. honor ; ital. onore ; du lat. honorem. Au XVIe siècle, d'après Palsgrave, p. 62, les deux n se prononçaient. Dans l'ancienne langue, honor est du féminin, comme tous les noms tirés des substantifs latins abstraits en or. Vers le XIVe et le XVe siècle, le genre devient incertain, et finalement il se fixe au masculin.</etym>
-<re ana="supplement" orig=" HONNEUR. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="honni">
 <form>
@@ -58458,23 +58370,18 @@
 </form>
 <sense n="1">
 <dictScrap>La qualité d'honoraire. Plusieurs anciens professeurs de la faculté des lettres ont obtenu l'<oVar>honorariat</oVar>.</dictScrap>
-</sense>
-<sense n="2">
-<dictScrap>Terme de pratique. Ce qui est dû pour les honoraires d'un notaire, d'un avoué, d'un huissier, etc.</dictScrap>
-</sense><sense n="1">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Heureusement les liens de l'honorariat le rattachent à la cour dont il fut une des lumières les plus pures</quote>
 <bibl>
 <biblScope>Monit. univ. 5 nov. 1867, p. 1375, 2e col.</biblScope>
 </bibl>
 </cit>
 </sense>
+<sense n="2">
+<dictScrap>Terme de pratique. Ce qui est dû pour les honoraires d'un notaire, d'un avoué, d'un huissier, etc.</dictScrap>
+</sense>
 <etym>Pour le premier sens, honoraire 1 ; pour le deuxième sens, honoraire 2.</etym>
-<re ana="supplement" orig=" HONORARIAT. ">
 
-
-</re>
 </entry>
 <entry xml:id="honoré">
 <form>
@@ -63719,7 +63626,8 @@
 </sense>
 </sense><sense n="8" ana="supplement">
 <dictScrap><oVar>Hors</oVar> rang, se dit des hommes qui ne font pas partie du rang, dans une troupe militaire.</dictScrap>
-</sense><sense n="9">
+</sense>
+<sense n="9" ana="supplement">
 <dictScrap><oVar>Hors</oVar> de, suivi d'une préposition. <oVar>Hors</oVar> d'auprès, qui n'est plus auprès.</dictScrap>
 <cit>
 <quote>Je n'ai point surpris mon esprit avec un moment de plaisir tranquille, depuis que je suis hors d'auprès de vous</quote>
@@ -65739,7 +65647,8 @@
 </sense>
 <sense n="5">
 <dictScrap>En Normandie, nom d'un petit tombereau à porter le fumier sur les terres.</dictScrap>
-</sense><sense n="6">
+</sense>
+<sense n="6" ana="supplement">
 <dictScrap>Porter la <oVar>hotte</oVar>, se dit du lièvre sur le point d'être forcé ; son dos arqué décrit alors un axe convexe, Chasse illustrée, t. II, p. 115.</dictScrap>
 </sense>
 <note type="H">
@@ -65780,10 +65689,7 @@
 
 </note>
 <etym>Génev. lotte (par fusion de l'article l') ; du suisse hutte, hotte ; allemand provincial, Hotze, corbeille.</etym>
-<re ana="supplement" orig=" HOTTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hottée">
 <form>
@@ -66024,7 +65930,8 @@
 <sense>
 <dictScrap><oVar>Houblon</oVar> de montagne, ornithogale des Pyrénées.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Charme-<oVar>houblon</oVar>, sorte de charme.</dictScrap>
 <cit>
 <quote>La variété connue sous le nom de charme-houblon se rencontre fréquemment [dans les Alpes-Maritimes]</quote>
@@ -66070,10 +65977,7 @@
 
 </note>
 <etym>Génev. obelons ; wallon, hoûbion ; anc. wallon, hubillon ; du hollandais hop, houblon, à l'aide d'une formation diminutive : hop-e-lon, hubi-llon, etc. d'après Grandgagnage. Quant au bas-latin humulo, humulus, il tient au flamand hommel ; anc. scand. humall, houblon.</etym>
-<re ana="supplement" orig=" HOUBLON. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="houblonnage">
 <form>
@@ -67857,7 +67761,8 @@
 </sense>
 <sense n="3">
 <dictScrap>Nom qu'on donne à la clôture d'un moulin à vent.</dictScrap>
-</sense><sense n="4">
+</sense>
+<sense n="4" ana="supplement">
 <dictScrap>Il se dit aussi de la clôture de toute espèce de bâtiment.</dictScrap>
 <cit>
 <quote>Maison à usage de café, construite la majeure partie en pierres et une faible portion en colombage, avec houssage en bardeau ; cette maison, couverte en ardoises, est située à Villedieu</quote>
@@ -67867,10 +67772,7 @@
 </cit>
 </sense>
 <etym>Housser.</etym>
-<re ana="supplement" orig=" HOUSSAGE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="houssaie">
 <form>
@@ -67969,7 +67871,8 @@
 <biblScope>Génie, IV, V, 4</biblScope>
 </bibl>
 </cit>
-</sense><sense n="7">
+</sense>
+<sense n="7" ana="supplement">
 <dictScrap>Terme de porcelainier. Moulage à la <oVar>housse</oVar>.</dictScrap>
 <cit>
 <quote>Le moulage sur le tour dit à la housse consiste à ébaucher grossièrement la pièce à la manière ordinaire, puis à la placer toute fraîche encore dans un moule généralement creux que le tour met en mouvement ; pendant la rotation, on comprime la pâte contre le moule soit à la main, soit avec une éponge humide, de manière à lui en faire prendre exactement la forme</quote>
@@ -68024,10 +67927,7 @@
 
 </note>
 <etym>Bas-lat. housia, houcia, hucia, hussia. Diez le tire du bas-latin hulcia, hulcitum, qu'il rattache à l'anc. haut allem. hulst, fourreau. On ne trouve pas hulcia, hulcitum, dans du Cange ; néanmoins la conjecture de Diez est probable ; à côté on peut aussi mentionner le kimry hws, couverture.</etym>
-<re ana="supplement" orig=" HOUSSE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="houssé.1">
 <form>
@@ -70046,7 +69946,8 @@
 <biblScope>Journ. offic. 29 oct. 1874, p. 7263, 3e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="17">
+</sense>
+<sense n="17" ana="supplement">
 <dictScrap><oVar>Huile</oVar> des mines, <oVar>huile</oVar> de Nobel, nom de la nitroglycérine (Nobel est un ingénieur suédois qui a trouvé moyen de la faire détoner), Journ. offic. 19 oct. 1873, p. 6446, 1re col.</dictScrap>
 </sense>
 <re type="P"><form>Il tirerait de l'huile d'un mur, il tirerait de l'huile des pierres</form>, se dit d'un homme hardi et entreprenant à qui tout semble réussir, qui sait tirer profit de tout. </re>
@@ -70174,11 +70075,7 @@
 
 </note>
 <etym>Wallon, ôle ; Hainaut, ole : picard, eule ; provenç. ol ; espagn. olio ; portug. oleo ; ital. olio ; du lat. oleum.</etym>
-<re ana="supplement" orig=" HUILE. Ajoutez : ">
 
-
-
-</re>
 </entry>
 <entry xml:id="huilé">
 <form>
@@ -70272,7 +70169,8 @@
 <sense>
 <dictScrap>Moulin à huile.</dictScrap>
 </sense>
-</sense><sense n="3">
+</sense>
+<sense n="3" ana="supplement">
 <dictScrap>Le commerce des huiles.</dictScrap>
 <cit>
 <quote>L'huilerie a pris 2500 barriques sésames Calcutta noirs à livrer août, à 52 fr. les 100 k.</quote>
@@ -70294,10 +70192,7 @@
 
 </note>
 <etym>Huile.</etym>
-<re ana="supplement" orig=" HUILERIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="huileuse">
 <form>
@@ -72295,7 +72190,8 @@
 </form>
 <sense>
 <dictScrap>La gent humanitaire, mot de plaisanterie et de dénigrement forgé par A. de Musset : Le monde sera propre et net comme une écuelle ; L'<oVar>humanitairerie</oVar> en fera sa gamelle, Dial. de Dupont et Durand.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Fausse humanité, humanité exagérée et affectée.</dictScrap>
 <cit>
 <quote>Que certains esprits imbus d'une humanitairerie excessive se laissent dire que la misère seule est cause qu'il y a des prostituées et des voleurs, cela peut se comprendre à la grande rigueur</quote>
@@ -72304,10 +72200,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" HUMANITAIRERIE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="humanitarisme">
 <form>
@@ -75065,9 +74958,7 @@
 <sense>
 <dictScrap>S'infliger des humiliations réciproques. Ils se sont tour à tour <oVar>humiliés</oVar>.</dictScrap>
 </sense>
-</sense><sense n="3">
-<dictScrap>Ajoutez :</dictScrap>
-<sense>
+<sense ana="supplement">
 <dictScrap>S'<oVar>humilier</oVar> d'une chose, en ressentir de l'humilité.</dictScrap>
 <cit>
 <quote>Croyez-moi, le trop ou le trop peu que vous dites ne vous nuira pas devant Dieu, si vous vous en humiliez</quote>
@@ -75164,10 +75055,7 @@
 
 </note>
 <etym>Provenç. humiliar, umiliar, omeliar ; espagn. humillar ; ital. umiliare ; du lat. humiliare, de humilis (voy. <ref target="humble">HUMBLE</ref>).</etym>
-<re ana="supplement" orig=" HUMILIER. ">
 
-
-</re>
 </entry>
 <entry xml:id="humilité">
 <form>
@@ -77086,7 +76974,8 @@
 </form>
 <sense>
 <dictScrap>Terme de minéralogie. Variété de quartz qui ressemble à du verre.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <cit>
 <quote>Sorte de verre noir obtenu en mêlant à la composition du verre blanc des scories de forge pulvérisées, du poussier de charbon, ou bien, comme on le pratique en Bohême, du soufre en nature ; il est absolument opaque et susceptible de recevoir beaucoup d'éclat par la perfection du poli</quote>
 <bibl>
@@ -77096,10 +76985,7 @@
 </cit>
 </sense>
 <etym>En grec, verre, et la finale ite qui désigne une substance.</etym>
-<re ana="supplement" orig=" HYALITE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hyalographe">
 <form>
@@ -77249,9 +77135,7 @@
 </sense>
 <sense n="3">
 <dictScrap>Terme de grammaire. Mots <oVar>hybrides</oVar>, mots composés d'éléments provenant de langues différentes.</dictScrap>
-</sense><sense n="3">
-<dictScrap>Ajoutez :</dictScrap>
-<cit>
+<cit ana="supplement">
 <quote>Quoiqu'en toutes les langues il y ait beaucoup de mots hybrides qu'ils appellent, ou métis</quote>
 <bibl>
 <author>VAUGEL.</author>
@@ -77260,10 +77144,7 @@
 </cit>
 </sense>
 <etym>Lat. hybrida et ibrida ; le terme grec signifie viol.</etym>
-<re ana="supplement" orig=" HYBRIDE. ">
 
-
-</re>
 </entry>
 <entry xml:id="hybridisme">
 <form>
@@ -79310,14 +79191,12 @@
 <sense>
 <dictScrap>Adjectivement. Plantes hydrophytes.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme de minéralogie. Silicate magnésien hydraté.</dictScrap>
 </sense>
 <etym>Hydro...., et terme grec signifiant plante.</etym>
-<re ana="supplement" orig=" HYDROPHYTE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hydrophytographie">
 <form>
@@ -80323,7 +80202,8 @@
 </form>
 <sense>
 <dictScrap>Propriété d'être hygroscopique, d'indiquer l'humidité.</dictScrap>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Faculté que possèdent un grand nombre de corps inorganiques et tous les corps organisés vivants ou morts, d'absorber et d'exhaler de l'humidité.</dictScrap>
 <cit>
 <quote>Quant à l'eau qui pénètre dans le sol, elle peut également se partager en deux parties, dont l'une est retenue par l'hygroscopicité de la terre et servira à l'évaporation des feuilles....</quote>
@@ -80333,10 +80213,7 @@
 </bibl>
 </cit>
 </sense>
-<re ana="supplement" orig=" HYGROSCOPICITÉ. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hygroscopie">
 <form>
@@ -81457,17 +81334,15 @@
 <sense>
 <dictScrap>S. m. Solide produit par la révolution d'une hyperbole.</dictScrap>
 </sense>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>S. m. Surface du second degré pouvant être engendrée par une ellipse qui se transporte parallèlement à elle-même, en s'appuyant toujours par deux de ses sommets sur une hyperbole, et en se déformant de manière que le rapport de ses axes soit constant. On obtient un <oVar>hyperboloïde</oVar> à une nappe, lorsque le centre de l'ellipse se meut le long de l'axe non-transverse de l'hyperbole, et un <oVar>hyperboloïde</oVar> à deux nappes, lorsque le centre de l'ellipse se meut le long de l'axe transverse de l'hyperbole.</dictScrap>
 <sense>
 <dictScrap>Hyperboloïdes de révolution à une ou deux nappes, surfaces obtenues dans le cas particulier où l'ellipse génératrice est un cercle ; on peut aussi les considérer comme résultant de la rotation d'une hyperbole autour d'un de ses axes.</dictScrap>
 </sense>
 </sense>
 <etym>Hyperbole, et terme grec signifiant forme.</etym>
-<re ana="supplement" orig=" HYPERBOLOÏDE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="hyperborée">
 <form>

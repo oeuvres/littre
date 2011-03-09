@@ -966,14 +966,12 @@
 <biblScope>le Protestant libéral, 9 juin 1870, 9e col.</biblScope>
 </bibl>
 </cit>
-</sense><sense n="2">
+</sense>
+<sense n="2" ana="supplement">
 <dictScrap>Terme d'histoire ancienne. Parti de ceux des Juifs qui, sous la domination romaine, voulaient à tout prix secouer le joug étranger.</dictScrap>
 </sense>
 <etym>Du grec zélateur, du grec zèle.</etym>
-<re ana="supplement" orig=" ZÉLOTISME. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="zemb">
 <form>
@@ -1350,7 +1348,8 @@
 </sense>
 <sense n="5">
 <dictScrap>Nom donné, dans l'armée, à des soldats de compagnie de discipline qu'on envoie d'ordinaire en Algérie. Un <oVar>zéphire</oVar>. Des zéphires.</dictScrap>
-</sense><sense n="5">
+</sense>
+<sense n="5" ana="supplement">
 <dictScrap>Sorte de laine.</dictScrap>
 <cit>
 <quote>En mars dernier, les laines zéphire, pour tapisserie, qu'on appelle en France laines Ternaux, se vendaient en couleurs ordinaires 15 francs le kilo à Berlin, tandis qu'à Paris il serait impossible de les établir au-dessous de 20 à 22 francs</quote>
@@ -1403,10 +1402,7 @@
 
 </note>
 <etym>Provenç. zephir ; portug. zefeyro ; ital. zefiro ; du lat. zephirus, du grec vent d'ouest.</etym>
-<re ana="supplement" orig=" ZÉPHIRE. Ajoutez : ">
 
-
-</re>
 </entry>
 <entry xml:id="zéphiriser">
 <form>

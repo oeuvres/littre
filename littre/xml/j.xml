@@ -27454,9 +27454,12 @@
 <re type="P"><form>Il est plus de jours que d'années et que de bonnes destinées</form>. </re>
 <re type="P"><form>Cela est long comme un jour sans pain</form>, se dit d'une chose qui ennuie et dure trop. </re>
 <re type="P"><form>Il dit beaucoup de paroles en un jour</form>, se dit d'un homme qui parle beaucoup et à la légère, sans qu'il faille attacher de l'importance à ce qu'il dit. </re>
+<note ana="supplement" type="R">3. Non-seulement ce jourd'hui a vieilli, mais le jourd'hui a encore vieilli davantage.  <cit><quote>En ce temps du jourd'hui l'on n'est que trop savant</quote><bibl><author>RÉGNIER</author><biblScope>Sat. III</biblScope></bibl></cit></note>
+<note type="R" ana="supplement">4. Voltaire a employé la locution ancien des jours pour désigner un prêtre, un vieillard. Il sera difficile que l'ancien des jours, Boyer, résiste à une sollicitation si pressante pour lui, et si honorable pour vous, Lett. Mme de Fontaine, 12 sept. 1754. L'ancien des jours est une locution biblique qui s'applique à Dieu (voy. <ref target="ancien#var9">ANCIEN, n° 9</ref>).</note>
 <re type="S">1. JOUR, JOURNÉE., Ces deux mots sont entre eux comme an et année. Jour et journée ne diffèrent que par la finale ée, qui, représentant la finale latine du participe passif ata, exprime ce qui s'opère ; journée signifie proprement ce qui est fait, opéré en un jour. De là la distinction réelle : jour servira à marquer les époques : la semaine est composée de sept jours. Au contraire, on dira la journée de Waterloo. </re>
 <re type="S">2. FAUX JOUR, JOUR FAUX., Un tableau est dans un faux jour quand il est éclairé du sens contraire à celui que le peintre a choisi dans son sujet. Il y a un jour faux dans un tableau quand une partie y est éclairée contre nature, la disposition générale du tout exigeant, par exemple, que cette partie soit dans l'ombre. </re>
-<note type="H">
+  
+  <note type="H">
 
 <label>XIe s.</label>
 <cit>
@@ -28042,12 +28045,6 @@
 
 </note>
 <etym>Berry, à jour falli, à la chute du jour ; bourg. jor ; bressan et nivernais, zor ; pic. jaur, jor, à jou fali, à la chute du jour ; provenç. jorn, jor ; ital. giorno ; du lat. diurnus, dérivé de dius (voy. <ref target="diurne">DIURNE</ref>). Corrsen fait remarquer que diurnus vient non de dies, qui aurait donné diernus (comparez hodiernus), mais de dius, conservé dans sub dio.</etym>
-<re ana="supplement" orig=" JOUR. Ajoutez : ">
-
-
-
-<note type="R" ana="supplement"> Ajoutez : <p>3. Non-seulement ce jourd'hui a vieilli, mais le jourd'hui a encore vieilli davantage.  <cit><quote>En ce temps du jourd'hui l'on n'est que trop savant</quote><bibl><author>RÉGNIER</author><biblScope>Sat. III</biblScope></bibl></cit> </p> <p>4. Voltaire a employé la locution ancien des jours pour désigner un prêtre, un vieillard. Il sera difficile que l'ancien des jours, Boyer, résiste à une sollicitation si pressante pour lui, et si honorable pour vous, Lett. Mme de Fontaine, 12 sept. 1754. L'ancien des jours est une locution biblique qui s'applique à Dieu (voy. <ref target="ancien#var9">ANCIEN, n° 9</ref>). </p> </note>
-</re>
 </entry>
 <entry xml:id="jourdain">
 <form>
