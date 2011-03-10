@@ -72,14 +72,14 @@
 <sense>
 <dictScrap>Syllabe qui sert, dans la solmisation moderne du plain-chant, à désigner le si bémol.</dictScrap>
 <cit>
-<quote>Depuis l'invention du nom za au lieu de si, lorsqu'il est précédé d'un bémol, la gamme est devenue encore plus facile ; et il suffit de dire : ut, ré, mi, fa, sol, la, si ou za, suivant que cette dernière corde varie par bécarre ou par bémol</quote>
+<quote>Depuis l'invention du nom za au lieu de si, lorsqu'il est précédé d'un bémol, la gamme est devenue encore plus facile ; et il suffit de dire : ut, ré, mi, fa, sol, la, si ou za, suivant que cette dernière corde varie par bécarre ou par bémol</quote>
 <bibl>
 <author>PAISSON</author>
 <biblScope>Traité du chant grégorien, p. 42</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Nom que les symphonistes modernes ont donné à la note si, seule corde du système ancien qui soit mobile ; c'est à raison de cette propriété qu'on l'appelle si ou za, suivant qu'elle se présente à l'état de nature ou à l'état de bémol</quote>
+<quote>Nom que les symphonistes modernes ont donné à la note si, seule corde du système ancien qui soit mobile ; c'est à raison de cette propriété qu'on l'appelle si ou za, suivant qu'elle se présente à l'état de nature ou à l'état de bémol</quote>
 <bibl>
 <author>J. D'ORTIGUE</author>
 <biblScope>Dict. du plain-chant, au mot za.</biblScope>
@@ -156,7 +156,7 @@
 </sense>
 <etym>Espagn. portug. et ital. zaino. M. Dozy demande si ce mot est une altération de açamm qui, chez Bocthor, signifie zain.</etym>
 <re ana="supplement">
-<re>ZAIN. Ajoutez : </re>
+<re>ZAIN. Ajoutez : </re>
 <re>Il se dit aussi des chiens. <cit><quote>Braques zains, marrons, noirs, blancs, marqués de feu, de toute taille</quote><bibl><biblScope>Journ. offic. 27 sept. 1877, p. 6519, 1re col.</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -243,7 +243,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Voicy le carnaval, menons chacun la sienne ; Allons baller en masque, allons nous pourmener, Allons voir Mar Antoine ou zany bouffonner Avec son magnifique à la venitienne</quote>
+<quote>Voicy le carnaval, menons chacun la sienne ; Allons baller en masque, allons nous pourmener, Allons voir Mar Antoine ou zany bouffonner Avec son magnifique à la venitienne</quote>
 <bibl>
 <author>DU BELLAY</author>
 <biblScope>p. 411, dans LACURNE</biblScope>
@@ -333,7 +333,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Animal du sous-genre âne, habitant l'Afrique, et remarquable par sa robe dont le fond jaune ou isabelle est rayé de nombreuses bandes brunes (equus zebra) ; dit aussi cheval sauvage et âne rayé.</dictScrap>
+<dictScrap>Animal du sous-genre âne, habitant l'Afrique, et remarquable par sa robe dont le fond jaune ou isabelle est rayé de nombreuses bandes brunes (equus zebra) ; dit aussi cheval sauvage et âne rayé.</dictScrap>
 <cit>
 <quote>Le zèbre est peut-être de tous les animaux quadrupèdes le mieux fait et le plus élégamment vêtu</quote>
 <bibl>
@@ -345,7 +345,7 @@
 <sense n="2">
 <dictScrap>Nom donné à certaines coquilles et à deux espèces de poissons, les chétodons et les pleuronectes.</dictScrap>
 </sense>
-<etym>Mot éthiopien : Pecora, Congensibus zebra dicta, LUDOLF, Histor. Aethiop. I, 10 ; ital. zebro.</etym>
+<etym>Mot éthiopien : Pecora, Congensibus zebra dicta, LUDOLF, Histor. Aethiop. I, 10 ; ital. zebro.</etym>
 </entry>
 <entry xml:id="zébré">
 <form>
@@ -380,7 +380,7 @@
 <dictScrap>Raie ou raies semblables à celles du zèbre.</dictScrap>
 </sense>
 <re ana="supplement">
-<re>ZÉBRURE. Ajoutez : </re>
+<re>ZÉBRURE. Ajoutez : </re>
 <re>Par extension.  <cit><quote>Les flammes jaillissant au dehors ont crevé les fenêtres et tracé de larges zébrures noires le long des murailles</quote><bibl><author>TH. GAUTIER</author><biblScope>Journ. offic. 5 août 1871</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -417,7 +417,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la <oVar>zédoaire</oVar> ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la <oVar>zédoaire</oVar> longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
+<dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la <oVar>zédoaire</oVar> ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la <oVar>zédoaire</oVar> longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
 </sense>
 <note type="H">
 
@@ -431,7 +431,7 @@
 </cit>
 
 </note>
-<etym>Provenç. zeduari ; portug. zeduaria ; ital. zettovario ; de l'arabe zedwâr.</etym>
+<etym>Provenç. zeduari ; portug. zeduaria ; ital. zettovario ; de l'arabe zedwâr.</etym>
 </entry>
 <entry xml:id="zédoarine">
 <form>
@@ -463,7 +463,7 @@
 <dictScrap>Chêne <oVar>zéen</oVar>, espèce de chêne de l'Algérie, dit aussi chêne zang, dont le bois est remarquable par sa densité.</dictScrap>
 </sense>
 <re ana="supplement">
-<re>ZÉEN.  Ajoutez : - ÉTYM. <cit><quote>Arabe, zan ( a long), nom de ce chêne</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
+<re>ZÉEN.  Ajoutez : - ÉTYM. <cit><quote>Arabe, zan ( a long), nom de ce chêne</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="zéine">
@@ -484,7 +484,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de médecine. Doctrine qui met dans le maïs altéré l'origine de la pellagre ; ce qui est vrai.</dictScrap>
+<dictScrap>Terme de médecine. Doctrine qui met dans le maïs altéré l'origine de la pellagre ; ce qui est vrai.</dictScrap>
 </sense>
 <etym>Zéa.</etym>
 </entry>
@@ -507,7 +507,7 @@
 <sense n="1">
 <dictScrap>Celui, celle qui agit avec zèle pour quelque chose ou quelqu'un.</dictScrap>
 <cit>
-<quote>Le prophète disait : mon zèle me dévore ; mais combien de prétendus zélateurs ou zélatrices pourraient dire : mon zèle, au lieu de me dévorer moi-même, dévore les autres!</quote>
+<quote>Le prophète disait : mon zèle me dévore ; mais combien de prétendus zélateurs ou zélatrices pourraient dire : mon zèle, au lieu de me dévorer moi-même, dévore les autres !</quote>
 <bibl>
 <author>BOURDAL.</author>
 <biblScope>Pensées, Défauts à éviter dans la dévotion, t. I, p. 433</biblScope>
@@ -607,7 +607,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Qui pourrait assez exprimer le zèle dont elle brûlait pour le rétablissement de cette foi [catholique] dans le royaume d'Angleterre, où l'on en conserve encore tant de précieux monuments?</quote>
+<quote>Qui pourrait assez exprimer le zèle dont elle brûlait pour le rétablissement de cette foi [catholique] dans le royaume d'Angleterre, où l'on en conserve encore tant de précieux monuments ?</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Duch. d'Orl.</biblScope>
@@ -635,7 +635,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Une grande habileté ne suffit pas pour oser se charger d'un événement considérable ; il faut encore un zèle vif qui veuille bien courir les risques de l'injustice des hommes, toujours portés à ne donner leur approbation qu'aux succès</quote>
+<quote>Une grande habileté ne suffit pas pour oser se charger d'un événement considérable ; il faut encore un zèle vif qui veuille bien courir les risques de l'injustice des hommes, toujours portés à ne donner leur approbation qu'aux succès</quote>
 <bibl>
 <author>FONTEN.</author>
 <biblScope>Chazelles</biblScope>
@@ -699,14 +699,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Quatre sortes de personnes : zèle sans science ; science sans zèle ; ni science ni zèle ; zèle et science</quote>
+<quote>Quatre sortes de personnes : zèle sans science ; science sans zèle ; ni science ni zèle ; zèle et science</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Pens. XXIV, 25, éd. HAVET.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Tandis que les prophètes ont été pour maintenir la loi, le peuple a été négligent ; mais, depuis qu'il n'y a plus eu de prophètes, le zèle a succédé</quote>
+<quote>Tandis que les prophètes ont été pour maintenir la loi, le peuple a été négligent ; mais, depuis qu'il n'y a plus eu de prophètes, le zèle a succédé</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>ib. XV, 13 bis.</biblScope>
@@ -798,9 +798,9 @@
 </cit>
 
 </note>
-<etym>Lat. zelus, du grec jalousie, du grec bouillir ; sansc. yas, suer, s'efforcer.</etym>
+<etym>Lat. zelus, du grec jalousie, du grec bouillir ; sansc. yas, suer, s'efforcer.</etym>
 <re ana="supplement">
-<re>ZÈLE. - HIST. Ajoutez : XVe s.  <cit><quote>Zele d'amours ayons au redempteur Qui l'Eglise conduit tant saigement</quote><bibl><author>JEAN JORET</author><biblScope>le Jardrin salutaire, p. 133</biblScope></bibl></cit> </re>
+<re>ZÈLE. - HIST. Ajoutez : XVe s.  <cit><quote>Zele d'amours ayons au redempteur Qui l'Eglise conduit tant saigement</quote><bibl><author>JEAN JORET</author><biblScope>le Jardrin salutaire, p. 133</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="zélé">
@@ -918,7 +918,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Surnom donné à l'un des douze disciples de Jésus, appelé tour à tour dans le Nouveau Testament (Math. X, 4 ; Marc, III, 18 ; Luc, VI, 15 ; Act. I, 13) Simon le <oVar>Zélote</oVar> ou le Cananite (de l'hébreu chaldéen kannai, zélateur).</dictScrap>
+<dictScrap>Surnom donné à l'un des douze disciples de Jésus, appelé tour à tour dans le Nouveau Testament (Math. X, 4 ; Marc, III, 18 ; Luc, VI, 15 ; Act. I, 13) Simon le <oVar>Zélote</oVar> ou le Cananite (de l'hébreu chaldéen kannai, zélateur).</dictScrap>
 <cit>
 <quote>On nomme aussi parmi les disciples un Simon le Zélote, peut-être disciple de Juda le Gualonite</quote>
 <bibl>
@@ -930,7 +930,7 @@
 <sense n="2">
 <dictScrap>Nom donné, en général, dans le Nouveau Testament, aux sectateurs ardents de la loi mosaïque et des traditions des pères (Gal. I, 14).</dictScrap>
 <cit>
-<quote>Que nous sommes loin avec ce zélote fougueux [Pseudo-Esdras] d'un Josèphe traitant de scélérats les défenseurs de Jérusalem !</quote>
+<quote>Que nous sommes loin avec ce zélote fougueux [Pseudo-Esdras] d'un Josèphe traitant de scélérats les défenseurs de Jérusalem !</quote>
 <bibl>
 <author>E. RENAN</author>
 <biblScope>Rev. des Deux-Mondes, 1er mars 1875, p. 144</biblScope>
@@ -938,7 +938,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Nom donné aux Juifs qui, sous la domination romaine, voulaient tout tenter pour secouer le joug étranger ; ce fut ce parti (d'après Josèphe, Guerre des Juifs) radical et fanatique qui, parmi les pharisiens patriotes, décida une guerre d'extermination contre les Romains, et qui, à l'époque du siége par Titus et de la destruction finale de Jérusalem, devint intransigeant et terroriste.</dictScrap>
+<dictScrap>Nom donné aux Juifs qui, sous la domination romaine, voulaient tout tenter pour secouer le joug étranger ; ce fut ce parti (d'après Josèphe, Guerre des Juifs) radical et fanatique qui, parmi les pharisiens patriotes, décida une guerre d'extermination contre les Romains, et qui, à l'époque du siége par Titus et de la destruction finale de Jérusalem, devint intransigeant et terroriste.</dictScrap>
 </sense>
 <sense n="4">
 <dictScrap>Aujourd'hui, dénomination appliquée, d'une manière générale, aux hommes emportés par un zèle religieux excessif et touchant au fanatisme.</dictScrap>
@@ -992,7 +992,7 @@
 <sense>
 <dictScrap>Nom, dans l'Inde, de fonctionnaires qui perçoivent l'impôt dans les villages et qui en transmettent le produit au souverain, après en avoir conservé une partie comme rémunération de leur peine.</dictScrap>
 <cit>
-<quote>Lord Cornwallis considéra les zémindars comme des propriétaires touchant la rente de leurs tenanciers et payant sur cette rente un fort impôt à l'État ; il transforma ainsi les villageois, jadis propriétaires sous le domaine éminent de l'État, en fermiers des zémindars, et il créa du coup la grande propriété féodale avec l'hérédité des bénéfices</quote>
+<quote>Lord Cornwallis considéra les zémindars comme des propriétaires touchant la rente de leurs tenanciers et payant sur cette rente un fort impôt à l'État ; il transforma ainsi les villageois, jadis propriétaires sous le domaine éminent de l'État, en fermiers des zémindars, et il créa du coup la grande propriété féodale avec l'hérédité des bénéfices</quote>
 <bibl>
 <author>E. DE LAVELEYE</author>
 <biblScope>Rev. des Deux-Mondes, 1er août 1872, p. 530</biblScope>
@@ -1011,12 +1011,12 @@
 <dictScrap>Le commentaire, l'explication de la révélation de Zoroastre, soit, dans un sens restreint, la traduction pehlvie de l'Avesta, soit, dans un sens général, tous les écrits qui peuvent donner de la révélation une connaissance plus complète.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Nom donné, à tort, par Anquetil-Duperron, à la langue dans laquelle Zoroastre a écrit ses livres et qu'il serait mieux de nommer langue bactrienne ou langue bactro-persique. Livres écrits en <oVar>zend</oVar>. Le <oVar>zend</oVar> est très voisin de l'idiome des inscriptions cunéiformes persiques de Darius, d'Artaxerce II et d'Artaxerce III ; il est aussi très voisin du sanscrit.</dictScrap>
+<dictScrap>Nom donné, à tort, par Anquetil-Duperron, à la langue dans laquelle Zoroastre a écrit ses livres et qu'il serait mieux de nommer langue bactrienne ou langue bactro-persique. Livres écrits en <oVar>zend</oVar>. Le <oVar>zend</oVar> est très voisin de l'idiome des inscriptions cunéiformes persiques de Darius, d'Artaxerce II et d'Artaxerce III ; il est aussi très voisin du sanscrit.</dictScrap>
 </sense>
 <sense n="3">
 <dictScrap>Adj. Qui appartient au <oVar>zend</oVar>. Des livres zends. La langue zende.</dictScrap>
 </sense>
-<etym>Zend, zanti ( a long), connaissance, commentaire, livre ; de la racine zan, connaître ; sanscr. Jna ( a long); lat. gnoscere, noscere.</etym>
+<etym>Zend, zanti ( a long), connaissance, commentaire, livre ; de la racine zan, connaître ; sanscr. Jna ( a long) ; lat. gnoscere, noscere.</etym>
 </entry>
 <entry xml:id="zend-avesta">
 <form>
@@ -1045,7 +1045,7 @@
 <sense n="1">
 <dictScrap>Terme d'astronomie. Point de la sphère céleste qui, pour chaque lieu de la terre, est rencontré par la verticale élevée en ce lieu.</dictScrap>
 <cit>
-<quote>On connaît le zénith, lorsqu'on observe la direction d'un fil chargé d'un plomb ; cette direction se nomme ligne verticale</quote>
+<quote>On connaît le zénith, lorsqu'on observe la direction d'un fil chargé d'un plomb ; cette direction se nomme ligne verticale</quote>
 <bibl>
 <author>CONDILL.</author>
 <biblScope>Art de rais. v, 6</biblScope>
@@ -1154,7 +1154,7 @@
 <gram>adj.</gram>
 </form>
 <sense n="1">
-<dictScrap>Qui appartient au système de Zénon d'Élée (Ve siècle avant J. C.) ; c'est un système idéaliste.</dictScrap>
+<dictScrap>Qui appartient au système de Zénon d'Élée (Ve siècle avant J. C.) ; c'est un système idéaliste.</dictScrap>
 </sense>
 <sense n="2">
 <dictScrap>Qui appartient au système de Zénon de Cittium (362 av. J. C.), créateur du stoïcisme.</dictScrap>
@@ -1210,7 +1210,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
+<note type="R">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
 <etym>Du grec bouillir, et du grec pierre.</etym>
 </entry>
 <entry xml:id="zéolithique">
@@ -1264,7 +1264,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Elle [Psyché] se sentit enlever en l'air ; d'abord elle se tint pour perdue.... c'était le Zéphire qui incontinent la tira de peine et lui dit l'ordre qu'il avait de l'enlever de la sorte</quote>
+<quote>Elle [Psyché] se sentit enlever en l'air ; d'abord elle se tint pour perdue.... c'était le Zéphire qui incontinent la tira de peine et lui dit l'ordre qu'il avait de l'enlever de la sorte</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Psyché, I, p. 35</biblScope>
@@ -1281,7 +1281,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Tout vous est aquilon [à vous roseau] ; tout me semble zéphyr [à moi chêne]</quote>
+<quote>Tout vous est aquilon [à vous roseau] ; tout me semble zéphyr [à moi chêne]</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Fabl. I, 22</biblScope>
@@ -1302,7 +1302,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La nuit, qui sur son char s'élève au firmament, Amène le repos, suspend le mouvement ; Et le bruit faible et doux du zéphire et de l'onde Se fait entendre seul dans le calme du monde</quote>
+<quote>La nuit, qui sur son char s'élève au firmament, Amène le repos, suspend le mouvement ; Et le bruit faible et doux du zéphire et de l'onde Se fait entendre seul dans le calme du monde</quote>
 <bibl>
 <author>ST-LAMB.</author>
 <biblScope>Sais. I</biblScope>
@@ -1362,7 +1362,7 @@
 </sense>
 </sense>
 <note type="R">
-<p>1. L'Académie distingue zéphire et zéphyr, disant que zéphire est le vent d'occident, et zéphyr tout vent doux et agréable. Cette distinction est illusoire et ne peut être admise ; les auteurs confondent perpétuellement zéphire et zéphyr, et il ne faut y voir qu'une variété d'orthographe. Il en est de même de la remarque de Vaugelas : " On dit en poésie zéphyr et zéphyre, au singulier, mais plus communément zéphyre. Au pluriel on dit au contraire zéphyrs plutôt que zéphyres. " </p>
+<p>1. L'Académie distingue zéphire et zéphyr, disant que zéphire est le vent d'occident, et zéphyr tout vent doux et agréable. Cette distinction est illusoire et ne peut être admise ; les auteurs confondent perpétuellement zéphire et zéphyr, et il ne faut y voir qu'une variété d'orthographe. Il en est de même de la remarque de Vaugelas : " On dit en poésie zéphyr et zéphyre, au singulier, mais plus communément zéphyre. Au pluriel on dit au contraire zéphyrs plutôt que zéphyres. " </p>
 <p>2. On ne voit pas pourquoi l'Académie écrit zéphire par un i, et zéphyr par un y. Le mieux serait de mettre aux deux l'y grec étymologique, gardant les deux formes sans e et avec e pour l'usage de la versification. </p>
 </note>
 <note type="H">
@@ -1401,7 +1401,7 @@
 </cit>
 
 </note>
-<etym>Provenç. zephir ; portug. zefeyro ; ital. zefiro ; du lat. zephirus, du grec vent d'ouest.</etym>
+<etym>Provenç. zephir ; portug. zefeyro ; ital. zefiro ; du lat. zephirus, du grec vent d'ouest.</etym>
 
 </entry>
 <entry xml:id="zéphiriser">
@@ -1436,7 +1436,7 @@
 <sense n="1">
 <dictScrap>Terme d'arithmétique. Chiffre en forme d'O, qui de lui-même ne marque aucun nombre, mais qui, étant mis à la droite des autres, indique qu'ils prennent une valeur dix fois plus forte. Un 2 et trois <oVar>zéros</oVar> font deux mille [2000].</dictScrap>
 <cit>
-<quote>Le zéro n'est pas du même genre que les nombres, parce qu'étant multiplié, il ne peut les surpasser ; de sorte que c'est un véritable indivisible de nombre, comme l'indivisible est un véritable zéro d'étendue</quote>
+<quote>Le zéro n'est pas du même genre que les nombres, parce qu'étant multiplié, il ne peut les surpasser ; de sorte que c'est un véritable indivisible de nombre, comme l'indivisible est un véritable zéro d'étendue</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Géom. 1</biblScope>
@@ -1445,7 +1445,7 @@
 <sense>
 <dictScrap>Je ne veux pas qu'il y manque un <oVar>zéro</oVar>, je ne veux pas qu'il y manque rien.</dictScrap>
 <cit>
-<quote>Le logis sera magnifique ; je ne veux pas qu'il y manque un zéro : je le ferais plutôt abattre deux ou trois fois</quote>
+<quote>Le logis sera magnifique ; je ne veux pas qu'il y manque un zéro : je le ferais plutôt abattre deux ou trois fois</quote>
 <bibl>
 <author>LESAGE</author>
 <biblScope>Turcaret, III, 4</biblScope>
@@ -1458,7 +1458,7 @@
 <sense>
 <dictScrap>Fig. Ajouter des <oVar>zéros</oVar> à un compte, l'amplifier, comme les <oVar>zéros</oVar> multiplient un nombre.</dictScrap>
 <cit>
-<quote>Combien un financier, pour être en équipage, De zéros criminels remplit-il une page?</quote>
+<quote>Combien un financier, pour être en équipage, De zéros criminels remplit-il une page ?</quote>
 <bibl>
 <author>BOURSAULT</author>
 <biblScope>Fabl. d'És. IV, 3</biblScope>
@@ -1509,7 +1509,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Je vois l'Académie où vous êtes présente : Si je vous plais, mon sort est assez beau ; Nous aurons à nous deux de l'esprit pour quarante, Vous comme quatre, et moi comme zéro</quote>
+<quote>Je vois l'Académie où vous êtes présente : Si je vous plais, mon sort est assez beau ; Nous aurons à nous deux de l'esprit pour quarante, Vous comme quatre, et moi comme zéro</quote>
 <bibl>
 <author>BOUFFLERS</author>
 <biblScope>Madrigal</biblScope>
@@ -1518,7 +1518,7 @@
 <dictScrap>(à une dame qui lui avait demandé pourquoi il n'était pas de l'Académie).</dictScrap>
 </sense>
 <sense>
-<dictScrap>Des grammairiens ont prétendu qu'il fallait dire non <oVar>zéro</oVar> en chiffre, mais <oVar>zéro</oVar> sans chiffre. Il est de fait qu'un <oVar>zéro</oVar> sans chiffre n'a aucune valeur, et que, mis avec des chiffres, un <oVar>zéro</oVar> les multiplie ; mais, dans cette locution, en chiffre signifie simplement dans la numération.</dictScrap>
+<dictScrap>Des grammairiens ont prétendu qu'il fallait dire non <oVar>zéro</oVar> en chiffre, mais <oVar>zéro</oVar> sans chiffre. Il est de fait qu'un <oVar>zéro</oVar> sans chiffre n'a aucune valeur, et que, mis avec des chiffres, un <oVar>zéro</oVar> les multiplie ; mais, dans cette locution, en chiffre signifie simplement dans la numération.</dictScrap>
 </sense>
 </sense>
 <sense n="2">
@@ -1531,7 +1531,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap><oVar>Zéro</oVar> absolu, terme imaginaire, fiction mathématique commode à employer dans la mise en opération et le calcul des problèmes de la thermodynamique. On suppose que, à - 272°, un gaz incoercible et parfait n'exerce plus de pression sur le vase qui le renferme, que par son propre poids ; sa force vive est nulle.</dictScrap>
+<dictScrap><oVar>Zéro</oVar> absolu, terme imaginaire, fiction mathématique commode à employer dans la mise en opération et le calcul des problèmes de la thermodynamique. On suppose que, à - 272°, un gaz incoercible et parfait n'exerce plus de pression sur le vase qui le renferme, que par son propre poids ; sa force vive est nulle.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -1550,7 +1550,7 @@
 <sense n="4">
 <dictScrap>Terme de musique. Signe qui, mis au-dessus d'une note, dans une partie d'instrument à cordes et à manche, indique que cette note doit être touchée à vide.</dictScrap>
 </sense>
-<note type="R">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
+<note type="R">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
 <note type="H">
 
 <label>XVIe s.</label>
@@ -1563,7 +1563,7 @@
 </cit>
 
 </note>
-<etym>Génev. zère ; espagn. cero ; ital. zero. L'ital. zero est une altération de zefiro, déjà constatée en italien dans l'ouvrage de Philippe Calender sur l'arithmétique, Florence, 1491. Zefiro est l'arabe cifron, nom du zéro, signifiant vide et zéro. Zéro et chiffre sont le même mot ; il est curieux de constater ainsi deux formes se différenciant pour signifier des choses très différentes.</etym>
+<etym>Génev. zère ; espagn. cero ; ital. zero. L'ital. zero est une altération de zefiro, déjà constatée en italien dans l'ouvrage de Philippe Calender sur l'arithmétique, Florence, 1491. Zefiro est l'arabe cifron, nom du zéro, signifiant vide et zéro. Zéro et chiffre sont le même mot ; il est curieux de constater ainsi deux formes se différenciant pour signifier des choses très différentes.</etym>
 </entry>
 <entry xml:id="zérotage">
 <form>
@@ -1598,11 +1598,11 @@
 <pron>zèst'</pron>
 </form>
 <sense n="1">
-<dictScrap>Interjection familière et ironique dont on se sert pour repousser ce que dit une personne. Il se vante de cela : <oVar>zest</oVar>!</dictScrap>
+<dictScrap>Interjection familière et ironique dont on se sert pour repousser ce que dit une personne. Il se vante de cela : <oVar>zest</oVar>!</dictScrap>
 <sense>
 <dictScrap>On trouve aussi zeste.</dictScrap>
 <cit>
-<quote>Je le savais bien, moi, que, dès qu'elle parlerait, toutes vos belles résolutions, zeste!</quote>
+<quote>Je le savais bien, moi, que, dès qu'elle parlerait, toutes vos belles résolutions, zeste !</quote>
 <bibl>
 <author>BRUEYS</author>
 <biblScope>Muet, I, 10</biblScope>
@@ -1622,7 +1622,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Et zeste! si quelqu'un vous pouvait prendre au mot, Vous diriez : serviteur, je ne suis pas si sot</quote>
+<quote>Et zeste ! si quelqu'un vous pouvait prendre au mot, Vous diriez : serviteur, je ne suis pas si sot</quote>
 <bibl>
 <author>DESTOUCH.</author>
 <biblScope>Phil. marié, I, 4</biblScope>
@@ -1636,7 +1636,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>La nuit, si madame est incommodée, elle sonnera de son côté ; zeste, en deux pas tu es chez elle</quote>
+<quote>La nuit, si madame est incommodée, elle sonnera de son côté ; zeste, en deux pas tu es chez elle</quote>
 <bibl>
 <author>BEAUMARCH.</author>
 <biblScope>Mar. de Figaro, I, 1</biblScope>
@@ -1657,7 +1657,7 @@
 </cit>
 </sense>
 <sense>
-<dictScrap>Zist est la forme variée de <oVar>zest</oVar> ; et le zist et le <oVar>zest</oVar>, c'est, comme on dit, bonnet blanc et blanc bonnet.</dictScrap>
+<dictScrap>Zist est la forme variée de <oVar>zest</oVar> ; et le zist et le <oVar>zest</oVar>, c'est, comme on dit, bonnet blanc et blanc bonnet.</dictScrap>
 </sense>
 </sense>
 <sense n="3">
@@ -1683,7 +1683,7 @@
 <sense n="2">
 <dictScrap>Écorce extérieure, jaune et colorante, de l'orange ou du citron, séparée de la peau blanche et amère qui est au-dessous. Des <oVar>zestes</oVar> confits. Couper un <oVar>zeste</oVar>.</dictScrap>
 <cit>
-<quote>On dit qu'un Allemand a fait un livre sur un zeste de citron ; j'en aurais fait un sur chaque gramen des prés, sur chaque mousse des bois, sur chaque lichen qui tapisse les rochers</quote>
+<quote>On dit qu'un Allemand a fait un livre sur un zeste de citron ; j'en aurais fait un sur chaque gramen des prés, sur chaque mousse des bois, sur chaque lichen qui tapisse les rochers</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>5e prom.</biblScope>
@@ -1700,7 +1700,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Mais cela qu'est-ce? un rien, un zeste</quote>
+<quote>Mais cela qu'est-ce ? un rien, un zeste</quote>
 <bibl>
 <author>LE P. BRUMOY</author>
 <biblScope>Boîte de Pandore, II, 10</biblScope>
@@ -1717,7 +1717,7 @@
 <dictScrap>Familièrement. Cela ne vaut pas un <oVar>zeste</oVar>, je n'en donnerais pas un <oVar>zeste</oVar>, se dit d'une chose de peu de valeur.</dictScrap>
 </sense>
 </sense>
-<etym>Wallon, zess ; du lat. schistus ; du grec, fendu, d'après Diez.</etym>
+<etym>Wallon, zess ; du lat. schistus ; du grec, fendu, d'après Diez.</etym>
 </entry>
 <entry xml:id="zester">
 <form>
@@ -1751,7 +1751,7 @@
 <sense>
 <dictScrap>Terme didactique. Qui concerne les recherches.</dictScrap>
 <sense>
-<dictScrap>La méthode <oVar>zététique</oVar>, ou, substantivement, la <oVar>zététique</oVar>, méthode dont on se sert pour résoudre un problème de mathématique ; et, en général, celle dont on se sert pour pénétrer la raison des choses.</dictScrap>
+<dictScrap>La méthode <oVar>zététique</oVar>, ou, substantivement, la <oVar>zététique</oVar>, méthode dont on se sert pour résoudre un problème de mathématique ; et, en général, celle dont on se sert pour pénétrer la raison des choses.</dictScrap>
 </sense>
 <sense>
 <dictScrap>Philosophes zététiques, anciens philosophes qui doutaient de tout.</dictScrap>
@@ -1766,7 +1766,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Bulbes alimentaires recherchées en Algérie par les indigènes ; ce sont ceux de l'iris juncea, Poiret.</dictScrap>
+<dictScrap>Bulbes alimentaires recherchées en Algérie par les indigènes ; ce sont ceux de l'iris juncea, Poiret.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zétus">
@@ -1788,14 +1788,14 @@
 <sense>
 <dictScrap>Terme de rhétorique. Figure d'élocution plus connue sous le nom d'adjonction. Le <oVar>zeugme</oVar> a lieu quand un mot, déjà exprimé dans une proposition, est sous-entendu dans une autre proposition analogue à la première et attachée à celle-ci.</dictScrap>
 <cit>
-<quote>Le zeugme est simple quand le mot sous-entendu est exactement celui qui a été exprimé, par exemple : Je renonce à la Grèce, à Sparte, à mon empire, à ma famille</quote>
+<quote>Le zeugme est simple quand le mot sous-entendu est exactement celui qui a été exprimé, par exemple : Je renonce à la Grèce, à Sparte, à mon empire, à ma famille</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Androm. v, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il est composé si le mot sous-entendu n'est pas absolument celui qu'on a déjà vu, par exemple : Vous régnez ; Londre est libre et vos lois florissantes</quote>
+<quote>Il est composé si le mot sous-entendu n'est pas absolument celui qu'on a déjà vu, par exemple : Vous régnez ; Londre est libre et vos lois florissantes</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Henriade, II, v. 41</biblScope>
@@ -1812,7 +1812,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Lépidoptère de la famille des nocturnes. <oVar>Zeuzère</oVar> du marronnier, zeuzera aesculi, d'après Lucas ; d'après d'autres, cossonus aesculi, papillon de nuit.</dictScrap>
+<dictScrap>Lépidoptère de la famille des nocturnes. <oVar>Zeuzère</oVar> du marronnier, zeuzera aesculi, d'après Lucas ; d'après d'autres, cossonus aesculi, papillon de nuit.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zézaiement">
@@ -1831,7 +1831,7 @@
 <entry xml:id="zézayer">
 <form><orth>ZÉZAYER</orth><pron>zé-zè-ié</pron>, il se conjugue comme payer, v. n. </form>
 <sense>
-<dictScrap>Remplacer dans la prononciation l'articulation du j ou du g doux par celle du z ; c'est un défaut commun chez les enfants qui ont de la peine à prononcer les lettres chuintantes j et ch.</dictScrap>
+<dictScrap>Remplacer dans la prononciation l'articulation du j ou du g doux par celle du z ; c'est un défaut commun chez les enfants qui ont de la peine à prononcer les lettres chuintantes j et ch.</dictScrap>
 <cit>
 <quote>La duchesse de Chaulnes.... qui se faisait ajuster et coiffer en petite mignonne, et qui zézayait en parlant pour se rajeunir</quote>
 <bibl>
@@ -1841,7 +1841,7 @@
 </cit>
 </sense>
 <re ana="supplement">
-<re>ZÉZAYER. Ajoutez : </re>
+<re>ZÉZAYER. Ajoutez : </re>
 <re>Activement.  <cit><quote>Arnoux, jurant qu'il n'y avait pas de danger, continuait et même zézayait des caresses en patois marseillais</quote><bibl><author>G. FLAUBERT</author><biblScope>l'Éducation sentimentale, t. I, p. 189</biblScope></bibl></cit> </re>
 </re>
 </entry>
@@ -1864,13 +1864,13 @@
 <sense n="2">
 <dictScrap>La peau de cet animal employée comme fourrure.</dictScrap>
 <cit>
-<quote>La martre la plus estimée est la sibérine, la même que nous appelons zibeline ; la plus noire est la plus chère</quote>
+<quote>La martre la plus estimée est la sibérine, la même que nous appelons zibeline ; la plus noire est la plus chère</quote>
 <bibl>
 <biblScope>Dict. des arts et mét. Pelletier</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On a beau faire tirer le canon des sept tours pour de prétendues victoires ; la vérité perce à travers la fumée du canon, et vient effrayer Moustapha sur ses tapis de zibeline</quote>
+<quote>On a beau faire tirer le canon des sept tours pour de prétendues victoires ; la vérité perce à travers la fumée du canon, et vient effrayer Moustapha sur ses tapis de zibeline</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. à Catherine II, 28 nov. 1769</biblScope>
@@ -1899,7 +1899,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il est des gibellines assez ; ce sunt celle de coi se font les chieres pelles [peaux]</quote>
+<quote>Il est des gibellines assez ; ce sunt celle de coi se font les chieres pelles [peaux]</quote>
 <bibl>
 <author>MARC POL</author>
 <biblScope>p. 751</biblScope>
@@ -1917,7 +1917,7 @@
 </cit>
 
 </note>
-<etym>Provenç. sembelin, sebelin, fourrure ; espagn. et portug. cebellina, zebellina ; ital. zibellino ; du bas-lat. sabellum, martre ; le mot paraît être slave ; esclavon, zable, martre zibeline.</etym>
+<etym>Provenç. sembelin, sebelin, fourrure ; espagn. et portug. cebellina, zebellina ; ital. zibellino ; du bas-lat. sabellum, martre ; le mot paraît être slave ; esclavon, zable, martre zibeline.</etym>
 </entry>
 <entry xml:id="zibet">
 <form>
@@ -1938,7 +1938,7 @@
 <sense>
 <dictScrap>Terme populaire. Celui qui a de l'entrain, de la gaieté dans le caractère, de la rondeur et de la simplicité dans les allures. Un bon <oVar>zig</oVar>.</dictScrap>
 </sense>
-<etym>Suivant M. Maxime Du Camp, le peuple dit un bon zig comme synonyme d'un bon bougre ; or, quand les Bulgares (Bougres) envahirent le nord de l'empire d'Orient, ils étaient accompagnés d'une tribu nommée les Zigs.</etym>
+<etym>Suivant M. Maxime Du Camp, le peuple dit un bon zig comme synonyme d'un bon bougre ; or, quand les Bulgares (Bougres) envahirent le nord de l'empire d'Orient, ils étaient accompagnés d'une tribu nommée les Zigs.</etym>
 </entry>
 <entry xml:id="zigheune">
 <form>
@@ -1983,7 +1983,7 @@
 </bibl>
 </cit>
 <sense>
-<dictScrap>On dit dans un sens analogue : aller, marcher en <oVar>zigzag</oVar>.</dictScrap>
+<dictScrap>On dit dans un sens analogue : aller, marcher en <oVar>zigzag</oVar>.</dictScrap>
 <cit>
 <quote>Un chemin tracé en zigzag</quote>
 <bibl>
@@ -2041,7 +2041,7 @@
 <sense n="6">
 <dictScrap>Terme de zoologie. Espèce de phalène.</dictScrap>
 </sense>
-<etym>Wallon, zikzac ; allem. Zickzack. Ce mot est une onomatopée appartenant à la famille allemande : zacke, chose pointue. Mais M. Am. Sédillot indique une autre étymologie : arabe, zig, tables astronomiques, d'où zig-zag, dont les tables astronomiques des Arabes nous fournissent la figure exacte, Acad. des sc. Compt. rend. t. LXXIII, p. 557.</etym>
+<etym>Wallon, zikzac ; allem. Zickzack. Ce mot est une onomatopée appartenant à la famille allemande : zacke, chose pointue. Mais M. Am. Sédillot indique une autre étymologie : arabe, zig, tables astronomiques, d'où zig-zag, dont les tables astronomiques des Arabes nous fournissent la figure exacte, Acad. des sc. Compt. rend. t. LXXIII, p. 557.</etym>
 </entry>
 <entry xml:id="zil">
 <form>
@@ -2072,7 +2072,7 @@
 <sense>
 <dictScrap>Métal qui existe, dans la nature, combiné avec le soufre dans la blende, et à l'état d'hydrate et d'oxyde dans la calamine. Couvrir un toit en <oVar>zinc</oVar>.</dictScrap>
 <cit>
-<quote>On coule le zinc dans des moules de fer pour le réduire en saumons, qui pèsent depuis 50 jusqu'à 70 livres ; dans cet état les mineurs le nomment zinc arco, et dans le commerce on le nomme zinc en navettes</quote>
+<quote>On coule le zinc dans des moules de fer pour le réduire en saumons, qui pèsent depuis 50 jusqu'à 70 livres ; dans cet état les mineurs le nomment zinc arco, et dans le commerce on le nomme zinc en navettes</quote>
 <bibl>
 <biblScope>Dict. des arts et mét. 1767, Mines</biblScope>
 </bibl>
@@ -2085,14 +2085,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le zinc n'était pas connu des anciens ; suivant Bergmann, Paracelse est le premier chimiste qui en ait parlé et qui lui ait donné le nom qu'il porte</quote>
+<quote>Le zinc n'était pas connu des anciens ; suivant Bergmann, Paracelse est le premier chimiste qui en ait parlé et qui lui ait donné le nom qu'il porte</quote>
 <bibl>
 <author>FOURCROY</author>
 <biblScope>Conn. chim. t. v, p. 359</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [le zinc] passe beaucoup mieux au laminoir qu'à la filière ; aussi existe-t-il des lames de zinc assez minces, et n'existe-t-il point de fil d'un diamètre très fin</quote>
+<quote>Il [le zinc] passe beaucoup mieux au laminoir qu'à la filière ; aussi existe-t-il des lames de zinc assez minces, et n'existe-t-il point de fil d'un diamètre très fin</quote>
 <bibl>
 <author>THENARD</author>
 <biblScope>Traité de chim. t. I, p. 268, dans POUGENS</biblScope>
@@ -2207,7 +2207,7 @@
 <sense>
 <dictScrap>Un des noms de la race à laquelle appartiennent les vagabonds connus sous le nom d'Égyptiens ou de Bohémiens.</dictScrap>
 </sense>
-<etym>Ces peuples, sorte de parias, sont venus originairement de l'Indoustan ; eux-mêmes se donnent le nom de Tzengaris.</etym>
+<etym>Ces peuples, sorte de parias, sont venus originairement de l'Indoustan ; eux-mêmes se donnent le nom de Tzengaris.</etym>
 </entry>
 <entry xml:id="zingibéracées">
 <form>
@@ -2311,7 +2311,7 @@
 </cit>
 </sense>
 </sense>
-<etym>Espagn. cinzolino ; ital. giangelina ; de l'arabe djoljolan, semence du sésame dont on fait cette couleur.</etym>
+<etym>Espagn. cinzolino ; ital. giangelina ; de l'arabe djoljolan, semence du sésame dont on fait cette couleur.</etym>
 </entry>
 <entry xml:id="zinzoliner">
 <form>
@@ -2330,7 +2330,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de minéralogie. Minéral cristallin, pierre précieuse qui affecte diverses couleurs ; on la nomme aussi hyacinthe.</dictScrap>
+<dictScrap>Terme de minéralogie. Minéral cristallin, pierre précieuse qui affecte diverses couleurs ; on la nomme aussi hyacinthe.</dictScrap>
 <cit>
 <quote>Le zircon, pierre qui est formée, d'après les analyses de MM. Klaproth et Vauquelin, d'environ 65 de zircone, 33 de silice et 2 d'oxyde de fer</quote>
 <bibl>
@@ -2349,7 +2349,7 @@
 <sense>
 <dictScrap>Terme de chimie. Oxyde de zirconium.</dictScrap>
 <cit>
-<quote>La zircone est sans usages ; elle fut découverte en 1789 par M. Klaproth</quote>
+<quote>La zircone est sans usages ; elle fut découverte en 1789 par M. Klaproth</quote>
 <bibl>
 <author>THENARD</author>
 <biblScope>Traité de chim. t. II, p. 43, dans POUGENS</biblScope>
@@ -2465,7 +2465,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Hélas! faut-il.... que, dès la naissance de l'Évangile, cette triste zizanie se soit glissée parmi ses plus saints ouvriers?</quote>
+<quote>Hélas ! faut-il.... que, dès la naissance de l'Évangile, cette triste zizanie se soit glissée parmi ses plus saints ouvriers ?</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Pet. carême, Obstacles.</biblScope>
@@ -2487,7 +2487,7 @@
 </cit>
 </sense>
 <sense n="3">
-<dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la <oVar>zizanie</oVar> aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la <oVar>zizanie</oVar> palustre, dite folle avoine et riz du Canada.</dictScrap>
+<dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la <oVar>zizanie</oVar> aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la <oVar>zizanie</oVar> palustre, dite folle avoine et riz du Canada.</dictScrap>
 </sense>
 <note type="H">
 
@@ -2511,7 +2511,7 @@
 </cit>
 
 </note>
-<etym>Provenç. zizania ; espagn. zizaña ; ital. zizzania ; du lat. zizania, qui provient du grec, lequel à son tour tient au syriaque ziuano ( a long).</etym>
+<etym>Provenç. zizania ; espagn. zizaña ; ital. zizzania ; du lat. zizania, qui provient du grec, lequel à son tour tient au syriaque ziuano ( a long).</etym>
 </entry>
 <entry xml:id="zizi">
 <form>
@@ -2605,7 +2605,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Cassini avait l'esprit d'analogie ; il eut bientôt remarqué que non-seulement cette lumière qu'il nomme zodiacale était toujours enfermée dans le zodiaque, mais encore qu'elle était inclinée à l'écliptique, comme l'équateur solaire</quote>
+<quote>Cassini avait l'esprit d'analogie ; il eut bientôt remarqué que non-seulement cette lumière qu'il nomme zodiacale était toujours enfermée dans le zodiaque, mais encore qu'elle était inclinée à l'écliptique, comme l'équateur solaire</quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astr. mod. t. II, p. 413</biblScope>
@@ -2628,7 +2628,7 @@
 <gram>s. m.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme d'astronomie. Zone de la sphère céleste s'étendant à huit degrés de part et d'autre de l'écliptique et dans laquelle sont toujours comprises les planètes anciennement connues. Le <oVar>zodiaque</oVar> est divisé en douze parties égales par de grands cercles perpendiculaires à l'écliptique, à partir de l'équinoxe du printemps ; ces douze parties sont les signes du <oVar>zodiaque</oVar> ; ils ont reçu les noms des constellations les plus rapprochées ; ces noms sont contenus dans ces deux vers mnémoniques : Sunt Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libraque, Scorpius, Arcitenens, Caper, Amphora, Pisces.</dictScrap>
+<dictScrap>Terme d'astronomie. Zone de la sphère céleste s'étendant à huit degrés de part et d'autre de l'écliptique et dans laquelle sont toujours comprises les planètes anciennement connues. Le <oVar>zodiaque</oVar> est divisé en douze parties égales par de grands cercles perpendiculaires à l'écliptique, à partir de l'équinoxe du printemps ; ces douze parties sont les signes du <oVar>zodiaque</oVar> ; ils ont reçu les noms des constellations les plus rapprochées ; ces noms sont contenus dans ces deux vers mnémoniques : Sunt Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libraque, Scorpius, Arcitenens, Caper, Amphora, Pisces.</dictScrap>
 <cit>
 <quote>On divisa, dit-il [Albategni], d'abord le zodiaque en quatre par les solstices et les équinoxes</quote>
 <bibl>
@@ -2637,14 +2637,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>Le zodiaque n'est d'aucun usage réel aux astronomes ; peu importe quelle largeur on lui donnera ; rien n'empêche de le faire aller jusqu'aux deux pôles</quote>
+<quote>Le zodiaque n'est d'aucun usage réel aux astronomes ; peu importe quelle largeur on lui donnera ; rien n'empêche de le faire aller jusqu'aux deux pôles</quote>
 <bibl>
 <author>DELAMBRE</author>
 <biblScope>Abr. astron. 16e leçon.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Dès 1802, on sut que le zodiaque devait être élargi ; sa découverte [de la planète de Cérès en 1801 par Piazzi] a changé tout à coup les idées reçues sur la largeur du zodiaque : l'étendue de cette zone du ciel dans laquelle sont observés les mouvements des planètes avait toujours été comprise dans une largeur d'environ 16 degrés ; c'était celle du zodiaque consacré par l'ancienne astronomie ; Cérès en a franchi les bornes et porté sa largeur jusqu'à 37 degrés</quote>
+<quote>Dès 1802, on sut que le zodiaque devait être élargi ; sa découverte [de la planète de Cérès en 1801 par Piazzi] a changé tout à coup les idées reçues sur la largeur du zodiaque : l'étendue de cette zone du ciel dans laquelle sont observés les mouvements des planètes avait toujours été comprise dans une largeur d'environ 16 degrés ; c'était celle du zodiaque consacré par l'ancienne astronomie ; Cérès en a franchi les bornes et porté sa largeur jusqu'à 37 degrés</quote>
 <bibl>
 <author>VOIRON</author>
 <biblScope>Hist. de l'astronomie, p. 72</biblScope>
@@ -2683,7 +2683,7 @@
 </cit>
 
 </note>
-<etym>Provenç. zodiac ; espagn. et ital. zodiaco, du lat. zodiacus, qui vient du grec signifiant, petit animal, dimin. du grec (voy. zoo...,) ainsi dit parce que plusieurs représentations d'animaux figurent dans les constellations zodiacales.</etym>
+<etym>Provenç. zodiac ; espagn. et ital. zodiaco, du lat. zodiacus, qui vient du grec signifiant, petit animal, dimin. du grec (voy. zoo...,) ainsi dit parce que plusieurs représentations d'animaux figurent dans les constellations zodiacales.</etym>
 </entry>
 <entry xml:id="zoé">
 <form>
@@ -2703,7 +2703,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de zoologie. Polypier ; habitation des polypes.</dictScrap>
+<dictScrap>Terme de zoologie. Polypier ; habitation des polypes.</dictScrap>
 </sense>
 <etym>Zoo..., et du grec maison.</etym>
 </entry>
@@ -2719,7 +2719,7 @@
 <sense n="2">
 <dictScrap>Fig. Mauvais critique.</dictScrap>
 <cit>
-<quote>Comment avez-vous pu imaginer, mon cher et illustre maître, que j'aie eu l'intention de vous comparer à Zoïle? je ne suis ni injuste ni sot à ce point-là</quote>
+<quote>Comment avez-vous pu imaginer, mon cher et illustre maître, que j'aie eu l'intention de vous comparer à Zoïle ? je ne suis ni injuste ni sot à ce point-là</quote>
 <bibl>
 <author>D'ALEMB.</author>
 <biblScope>Lett. à Voltaire, 31 juill. 1762</biblScope>
@@ -2736,7 +2736,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R"><cit><quote>On prétend que ce fut l'envie qui l'engagea à écrire contre Homère, et que c'est ce qui a fait que tous les envieux ont depuis été appelés du nom de Zoïles</quote><bibl><author>BOILEAU</author><biblScope>Réfl. crit. sur Longin, Réfl. V</biblScope></bibl></cit> M. A. Pierron, Iliade, t. II, p. 582, Append VI, rectifie ainsi le dire de Boileau : Le nom de Zoïlus en latin est synonyme d'envieux (Martial, Epigr. IV, 77). Mais le Zoïle grec n'était point un envieux, c'était un mauvais critique. Ce sont les Latins qui ont fait l'antonomase de Zoïle mauvais critique en critique envieux. La seule signification légitime de ce mot, comme nom commun, est mauvais critique. </note>
+<note type="R"><cit><quote>On prétend que ce fut l'envie qui l'engagea à écrire contre Homère, et que c'est ce qui a fait que tous les envieux ont depuis été appelés du nom de Zoïles</quote><bibl><author>BOILEAU</author><biblScope>Réfl. crit. sur Longin, Réfl. V</biblScope></bibl></cit> M. A. Pierron, Iliade, t. II, p. 582, Append VI, rectifie ainsi le dire de Boileau : Le nom de Zoïlus en latin est synonyme d'envieux (Martial, Epigr. IV, 77). Mais le Zoïle grec n'était point un envieux, c'était un mauvais critique. Ce sont les Latins qui ont fait l'antonomase de Zoïle mauvais critique en critique envieux. La seule signification légitime de ce mot, comme nom commun, est mauvais critique. </note>
 </entry>
 <entry xml:id="zoïodine">
 <form>
@@ -2789,7 +2789,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Terme de médecine. Phlegmasie cutanée, dite aussi zoster, qui entoure, sous forme de demi-ceinture, la poitrine ou l'une des trois régions de l'abdomen ; c'est une éruption vésico-bulleuse.</dictScrap>
+<dictScrap>Terme de médecine. Phlegmasie cutanée, dite aussi zoster, qui entoure, sous forme de demi-ceinture, la poitrine ou l'une des trois régions de l'abdomen ; c'est une éruption vésico-bulleuse.</dictScrap>
 </sense>
 <etym>Lat. zona, ceinture (voy. <ref target="zone">ZONE</ref>).</etym>
 </entry>
@@ -2800,7 +2800,7 @@
 <gram>s. f.</gram>
 </form>
 <sense n="1">
-<dictScrap>Terme de géographie. Chacune des cinq grandes divisions du globe terrestre, que l'on conçoit séparées par des cercles parallèles à l'équateur. La surface de la terre est divisée en cinq <oVar>zones</oVar> : 1° deux <oVar>zones</oVar> glaciales, qui s'étendent des pôles jusqu'aux cercles polaires, à la distance de 23° 28', quantité égale à l'inclinaison de l'équateur sur l'écliptique ; pour tous les points de ces <oVar>zones</oVar>, le soleil reste, à certaines époques de l'année, sans se lever ou se coucher ; 2° une <oVar>zone</oVar> torride, qui s'étend jusqu'à 23° 28' de part et d'autre de l'équateur ; pour tous les points de cette <oVar>zone</oVar>, le soleil passe au zénith à certaines époques de l'année ; 3° deux <oVar>zones</oVar> tempérées, comprises entre la <oVar>zone</oVar> torride et les <oVar>zones</oVar> glaciales ; pour tous les points de ces <oVar>zones</oVar>, le soleil se lève et se couche chaque jour, sans jamais passer au zénith.</dictScrap>
+<dictScrap>Terme de géographie. Chacune des cinq grandes divisions du globe terrestre, que l'on conçoit séparées par des cercles parallèles à l'équateur. La surface de la terre est divisée en cinq <oVar>zones</oVar> : 1° deux <oVar>zones</oVar> glaciales, qui s'étendent des pôles jusqu'aux cercles polaires, à la distance de 23° 28', quantité égale à l'inclinaison de l'équateur sur l'écliptique ; pour tous les points de ces <oVar>zones</oVar>, le soleil reste, à certaines époques de l'année, sans se lever ou se coucher ; 2° une <oVar>zone</oVar> torride, qui s'étend jusqu'à 23° 28' de part et d'autre de l'équateur ; pour tous les points de cette <oVar>zone</oVar>, le soleil passe au zénith à certaines époques de l'année ; 3° deux <oVar>zones</oVar> tempérées, comprises entre la <oVar>zone</oVar> torride et les <oVar>zones</oVar> glaciales ; pour tous les points de ces <oVar>zones</oVar>, le soleil se lève et se couche chaque jour, sans jamais passer au zénith.</dictScrap>
 <cit>
 <quote>Le loup, qui, dans cette zone tempérée, est peut-être de tous les animaux le plus féroce, n'est pas, à beaucoup près, aussi terrible, aussi cruel que le tigre, la panthère, le lion de la zone torride, ou l'ours blanc, le loup cervier, l'hyène de la zone glacée</quote>
 <bibl>
@@ -2825,7 +2825,7 @@
 <sense n="3">
 <dictScrap>Région considérée par rapport à sa température.</dictScrap>
 <cit>
-<quote>L'Asie n'a point précisément de zone tempérée ; et les lieux situés dans un climat très froid y touchent immédiatement ceux qui sont dans un climat très chaud</quote>
+<quote>L'Asie n'a point précisément de zone tempérée ; et les lieux situés dans un climat très froid y touchent immédiatement ceux qui sont dans un climat très chaud</quote>
 <bibl>
 <author>MONTESQ.</author>
 <biblScope>Esp. XVII, 3</biblScope>
@@ -2946,7 +2946,7 @@
 
 <label>XVe s.</label>
 <cit>
-<quote>Je leur donrray, n'en doubtez mie, Pour douce odeur grant punesie ; Pour la belle zone [ceinture] averont Or funicle et s'en couverront</quote>
+<quote>Je leur donrray, n'en doubtez mie, Pour douce odeur grant punesie ; Pour la belle zone [ceinture] averont Or funicle et s'en couverront</quote>
 <bibl>
 <author>E. DESCH.</author>
 <biblScope>Poésies mss. f° 532</biblScope>
@@ -2954,7 +2954,7 @@
 </cit>
 
 </note>
-<etym>Prov. esp. et ital. zona ; du lat. zona, qui est le grec ceinture, du grec ceindre, sanscr. Junami (a long), joindre, lier, de la racine ju.</etym>
+<etym>Prov. esp. et ital. zona ; du lat. zona, qui est le grec ceinture, du grec ceindre, sanscr. Junami (a long), joindre, lier, de la racine ju.</etym>
 </entry>
 <entry xml:id="zoné">
 <form>
@@ -2985,7 +2985,7 @@
 <sense>
 <dictScrap>Onomatopée qui exprime le son d'un coup de verge qui frappe l'air, le bruit d'instruments à cordes, etc.</dictScrap>
 <cit>
-<quote>Zon ! flûte et basse ! Zon ! violon ! Zon ! flûte et basse ! Et violon, zon, zon !</quote>
+<quote>Zon ! flûte et basse ! Zon ! violon ! Zon ! flûte et basse ! Et violon, zon, zon !</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Soir des noces.</biblScope>
@@ -3011,7 +3011,7 @@
 <gram>préfixe</gram>
 </form>
 <sense>
-<dictScrap>Mot qui sert de préfixe dans beaucoup de termes scientifiques, et qui est le grec animal, du grec vivre ; sancr. jiv ( i long), vivre.</dictScrap>
+<dictScrap>Mot qui sert de préfixe dans beaucoup de termes scientifiques, et qui est le grec animal, du grec vivre ; sancr. jiv ( i long), vivre.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zoobie">
@@ -3312,7 +3312,7 @@
 <sense>
 <dictScrap>Au point de vue zoologique.</dictScrap>
 <cit>
-<quote>Qu'est-ce que l'âge du renne? géologiquement, c'est le quaternaire ; zoologiquement, c'est l'absence d'animaux domestiqués et l'association au renne d'animaux ou éteints ou émigrés ; archéologiquement, c'est la période de la pierre taillée</quote>
+<quote>Qu'est-ce que l'âge du renne ? géologiquement, c'est le quaternaire ; zoologiquement, c'est l'absence d'animaux domestiqués et l'association au renne d'animaux ou éteints ou émigrés ; archéologiquement, c'est la période de la pierre taillée</quote>
 <bibl>
 <biblScope>Bulletin de la soc. anthr. 2e série, t. II, p. 247</biblScope>
 </bibl>
@@ -3328,7 +3328,7 @@
 <sense>
 <dictScrap>Celui qui connaît la zoologie, qui en traite.</dictScrap>
 <cit>
-<quote>Le botaniste a cherché une formule générale pour ranger toutes les plantes ; le zoologue, pour lier tous les animaux ; le minéralogiste, pour réunir les minéraux</quote>
+<quote>Le botaniste a cherché une formule générale pour ranger toutes les plantes ; le zoologue, pour lier tous les animaux ; le minéralogiste, pour réunir les minéraux</quote>
 <bibl>
 <author>SENNEBIER</author>
 <biblScope>Ess. art d'obs. t. II, p. 49</biblScope>
@@ -3368,7 +3368,7 @@
 <dictScrap>Culte religieux qui donne aux divinités la forme d'animaux.</dictScrap>
 </sense>
 <sense n="2">
-<dictScrap>Opinion où l'on était que des hommes pouvaient se transformer en animaux ; telle était la croyance aux loups-garous, à la lycanthropie, etc.</dictScrap>
+<dictScrap>Opinion où l'on était que des hommes pouvaient se transformer en animaux ; telle était la croyance aux loups-garous, à la lycanthropie, etc.</dictScrap>
 </sense>
 <etym>Zoo..., et du grec forme.</etym>
 </entry>
@@ -3521,7 +3521,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Zoophytes, nom assez impropre, car ils ne sont point des animaux-plantes ; ils sont ou paraissent être de vrais animaux, mais qui ont plus de rapports avec les plantes que n'en ont les autres animaux</quote>
+<quote>Zoophytes, nom assez impropre, car ils ne sont point des animaux-plantes ; ils sont ou paraissent être de vrais animaux, mais qui ont plus de rapports avec les plantes que n'en ont les autres animaux</quote>
 <bibl>
 <author>BONNET</author>
 <biblScope>Paling. phil. v, 1</biblScope>
@@ -3538,7 +3538,7 @@
 <sense n="2">
 <dictScrap>Linné donnait ce nom à une classe d'animaux comprenant des êtres qu'il croyait intermédiaires entre les animaux et les plantes.</dictScrap>
 <cit>
-<quote>Sont-elles [les huîtres] des zoophytes? quelles bornes divisent le végétal et l'animal? où commence un autre ordre de choses? quelle chaîne lie l'univers?</quote>
+<quote>Sont-elles [les huîtres] des zoophytes ? quelles bornes divisent le végétal et l'animal ? où commence un autre ordre de choses ? quelle chaîne lie l'univers ?</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Sing. nat. 5</biblScope>
@@ -3783,7 +3783,7 @@
 </form>
 <sense>
 <cit>
-<quote>Instrument qui fait défiler devant l'œil une série d'images figurant un être animé dans les diverses attitudes qui correspondent aux phases successives d'un même mouvement ; et la rapidité avec laquelle ces images se succèdent produit l'illusion d'un être vivant</quote>
+<quote>Instrument qui fait défiler devant l'œil une série d'images figurant un être animé dans les diverses attitudes qui correspondent aux phases successives d'un même mouvement ; et la rapidité avec laquelle ces images se succèdent produit l'illusion d'un être vivant</quote>
 <bibl>
 <author>R RADAU</author>
 <biblScope>Rev. des Deux-Mondes, 15 sep. 1873 p. 479</biblScope>
@@ -3871,7 +3871,7 @@
 <gram>s. f.</gram>
 </form>
 <sense>
-<dictScrap>Terme de botanique. Plante de la famille des naïadées, croissant submergée sur les côtes de presque toutes les mers, surtout méridionales, zostera marina, L. ; on donne aux feuilles le nom de crin végétal ; desséchées, on s'en sert pour faire des matelas.</dictScrap>
+<dictScrap>Terme de botanique. Plante de la famille des naïadées, croissant submergée sur les côtes de presque toutes les mers, surtout méridionales, zostera marina, L. ; on donne aux feuilles le nom de crin végétal ; desséchées, on s'en sert pour faire des matelas.</dictScrap>
 </sense>
 <etym>Lat. zoster, plante marine, du grec plante marine et ceinture.</etym>
 </entry>
@@ -3891,7 +3891,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Soldat d'un corps africain ou en partie africain, au service de la France, depuis la conquête d'Alger ; ce corps se recrute exclusivement aujourd'hui de Français.</dictScrap>
+<dictScrap>Soldat d'un corps africain ou en partie africain, au service de la France, depuis la conquête d'Alger ; ce corps se recrute exclusivement aujourd'hui de Français.</dictScrap>
 </sense>
 <etym>Zouaoua, tribu des Kabyles du Djurdjura, qui a fourni les premiers zouaves.</etym>
 </entry>
@@ -3970,7 +3970,7 @@
 <gram>interj.</gram>
 </form>
 <sense>
-<dictScrap>très familière par laquelle on exprime que les efforts faits pour atteindre un but sont en pure perte, que les assertions, les promesses sont vaines, et surtout qu'on s'en moque. Il voulait m'entraîner avec lui, mais <oVar>zut</oVar>. Il y a là beaucoup d'argent à gagner : voulez-vous que nous fassions d'affaire ensemble? - Ah! <oVar>zut</oVar>.</dictScrap>
+<dictScrap>très familière par laquelle on exprime que les efforts faits pour atteindre un but sont en pure perte, que les assertions, les promesses sont vaines, et surtout qu'on s'en moque. Il voulait m'entraîner avec lui, mais <oVar>zut</oVar>. Il y a là beaucoup d'argent à gagner : voulez-vous que nous fassions d'affaire ensemble ? - Ah ! <oVar>zut</oVar>.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zuzare">
@@ -3990,7 +3990,7 @@
 <gram>s. m.</gram>
 </form>
 <sense>
-<dictScrap>Doctrine de Zwingle, différant de celle de Luther en deux points : le libre arbitre, auquel Zwingle concédait davantage, et l'eucharistie, où il prétendait que le pain et le vin n'étaient qu'une figure du corps et du sang de Jésus-Christ.</dictScrap>
+<dictScrap>Doctrine de Zwingle, différant de celle de Luther en deux points : le libre arbitre, auquel Zwingle concédait davantage, et l'eucharistie, où il prétendait que le pain et le vin n'étaient qu'une figure du corps et du sang de Jésus-Christ.</dictScrap>
 </sense>
 </entry>
 <entry xml:id="zwinglien">
@@ -4006,7 +4006,7 @@
 
 <label>XVIe s.</label>
 <cit>
-<quote>Zwingli emporta le tiltre de cela [doctrine sur l'eucharistie] ; et furent nommez les sectateurs de cela les zwingliens et sacramentaires, de la bende duquel nous sommes</quote>
+<quote>Zwingli emporta le tiltre de cela [doctrine sur l'eucharistie] ; et furent nommez les sectateurs de cela les zwingliens et sacramentaires, de la bende duquel nous sommes</quote>
 <bibl>
 <author>BONIVARD</author>
 <biblScope>Advis et devis, p. 147</biblScope>
@@ -4073,7 +4073,7 @@
 </cit>
 
 </note>
-<etym>Du grec jonction, du grec joindre, qui vient du grec joug (voy. <ref target="joug">JOUG</ref>) ; cet os est ainsi dit parce qu'il joint la face aux parties latérales du crâne.</etym>
+<etym>Du grec jonction, du grec joindre, qui vient du grec joug (voy. <ref target="joug">JOUG</ref>) ; cet os est ainsi dit parce qu'il joint la face aux parties latérales du crâne.</etym>
 </entry>
 <entry xml:id="zygomatique">
 <form>
@@ -4160,7 +4160,7 @@
 <sense>
 <dictScrap>Terme de chimie. Substance qui, dans les moisissures, est le ferment glycosique du sucre de canne, comme la diastase dans l'orge germée est le ferment glycosique de la fécule.</dictScrap>
 <cit>
-<quote>Une zymase est toujours le produit de l'activité d'une cellule ou d'un groupe de cellules vivantes ; spontanément, aucune matière albuminoïde ou autre ne devient une zymase, ou n'acquiert les propriétés de zymase ; partout où celles-ci apparaissent, on est sûr de trouver quelque chose d'organisé</quote>
+<quote>Une zymase est toujours le produit de l'activité d'une cellule ou d'un groupe de cellules vivantes ; spontanément, aucune matière albuminoïde ou autre ne devient une zymase, ou n'acquiert les propriétés de zymase ; partout où celles-ci apparaissent, on est sûr de trouver quelque chose d'organisé</quote>
 <bibl>
 <author>BÉCHAMP et ESTOR</author>
 <biblScope>Acad. des sc. Comptes rendus, t. LXVI, p. 421</biblScope>
