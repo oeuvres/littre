@@ -31,12 +31,14 @@ div.entryFree {
 .entry p {
   margin:0.5ex 0 0.2ex 0;
   text-indent:0;
+  text-align:justify;
+  line-height:105%;
 }
 p.dictScrap {
   margin:1ex 0 1ex 0;
   text-indent:0;
-  line-height:105%;
 }
+
 blockquote {
   margin:0.8ex 0 0.8ex 6ex;
   line-height:110%;
@@ -56,11 +58,9 @@ div.sense2 blockquote {
   margin-left:5ex;
 }
 .quote {
+  text-indent:1em;
+  line-height:130%;
   /* font-family: serif; */
-}
-.bibl {
-  display:block;
-  margin-left:1ex;
 }
 label {
   font-size:80%;
