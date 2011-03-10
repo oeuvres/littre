@@ -109,11 +109,15 @@
       </span>
     </xsl:if>
   </xsl:template>
+  <xsl:template match="tei:cit/tei:quote">
+    <div class="quote">
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
   <!-- référence biblio -->
   <xsl:template match="tei:bibl">
-    <xsl:text> </xsl:text>
     <small class="bibl">
-      <xsl:text>(</xsl:text>
+      <xsl:text>— </xsl:text>
       <xsl:for-each select="*">
         <xsl:apply-templates/>
         <xsl:choose>
@@ -123,7 +127,6 @@
           </xsl:otherwise>
         </xsl:choose>
       </xsl:for-each>
-      <xsl:text>)</xsl:text>
     </small>
   </xsl:template>
   <xsl:template match="tei:pron">
