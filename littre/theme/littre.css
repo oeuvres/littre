@@ -28,38 +28,50 @@ div.entryFree {
   margin-left:1ex;
   margin-bottom:1ex;
 }
+.entry li {
+  font-weight:bold;
+}
+.entry li * {
+  font-weight:normal;
+}
 .entry p {
   margin:0.5ex 0 0.2ex 0;
   text-indent:0;
   text-align:justify;
-  line-height:105%;
 }
 p.dictScrap {
   margin:1ex 0 1ex 0;
   text-indent:0;
 }
-
-blockquote {
-  margin:0.8ex 0 0.8ex 6ex;
-  line-height:110%;
+.entry blockquote {
+  margin:0;
+  padding:0.8ex 5px 0.8ex 5px;
+  border-left:1px dotted #888;
+	background:#EEEEEE;
+	background: -webkit-gradient(linear, left top, right top, from(#fff), to(#eee));
+	background: -moz-linear-gradient(left,  #fff,  #eee);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=\'#ffffff\', endColorstr=\'#eeeeee\'); /*'*/
 }
-.sense2 blockquote {
-  margin-left:3ex;
+.entry ol blockquote {
+  margin-left:-2ex;
+}
+.entry ul blockquote {
+  margin-left:-5ex;
 }
 div.H {
-  background:#eee;
+	background:#EEEEEE;
+	background: -webkit-gradient(linear, left top, right top, from(#fff), to(#eee));
+	background: -moz-linear-gradient(left,  #fff,  #eee);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=\'#ffffff\', endColorstr=\'#eeeeee\'); /*'*/
   padding:2px 1px 2px 0.7ex;
   margin-top:1em;
 }
 div.H blockquote {
+  background:transparent;
   margin-left:5.6ex;
 }
-div.sense2 blockquote {
-  margin-left:5ex;
-}
 .quote {
-  text-indent:1em;
-  line-height:130%;
+  text-indent:0;
   /* font-family: serif; */
 }
 label {
