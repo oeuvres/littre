@@ -8,7 +8,7 @@ div.entryFree {
 }
 .entry ol {
   padding:0 0 0 2ex;
-  margin: 1ex 0 1ex 0;
+  margin: 1ex 0 2em 0;
 }
 .entry ul {
   margin-left:0;
@@ -53,10 +53,12 @@ div.H blockquote {
 div.sense2 blockquote {
   margin-left:5ex;
 }
+/*
 .quote {
   font-family: serif;
   font-size:110%;
 }
+*/
 label {
   font-size:80%;
   float:left;
