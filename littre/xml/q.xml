@@ -430,26 +430,20 @@
 </sense>
 <etym>Lat. quadratus, carré, à cause de la forme carrée des panneaux où l'on peint.</etym>
 </entry>
-<entry xml:id="quadrer">
+<entryFree xml:id="quadrer">
 <form>
 <orth>QUADRER</orth>
 <pron>ka-dré</pron>
 </form>
-<sense>
-<dictScrap>Ancienne orthographe de CADRER.</dictScrap>
-</sense>
-</entry>
-<entry xml:id="quadri">
+<xr>Ancienne orthographe de <ref target="cadrer">CADRER</ref>.</xr>
+</entryFree>
+<entryFree xml:id="quadri">
 <form>
-<orth>QUADRI</orth>
+<orth>QUADRI-</orth>
 </form>
-<sense>
 <dictScrap>Mot qui signifie quatre en composition, et est le latin <oVar>quadri</oVar>, qui n'est non plus usité qu'en composition.</dictScrap>
-<sense>
 <dictScrap>Mot dont on fait, en chimie, précéder certaines dénominations pour indiquer la proportion quadruple d'un des éléments de leurs composants : quadroxyde, quadrisulfure, etc.</dictScrap>
-</sense>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="quadri-ailé">
 <form>
 <orth>QUADRI-AILÉ, ÉE</orth>
@@ -1259,6 +1253,8 @@
 <form>
 <orth>QUADRUPLE</orth>
 <pron>koua-dru-pl'</pron>
+<gram norm="A"/>
+<gram norm="S"/>
 </form>
 <sense n="1">
 <dictScrap>Adj. Qui vaut quatre fois autant. Une somme <oVar>quadruple</oVar>.</dictScrap>
@@ -7792,15 +7788,13 @@
 </sense>
 <etym>Quatre, et temps, saison.</etym>
 </entry>
-<entry xml:id="quatre-vingt">
+<entryFree xml:id="quatre-vingt">
 <form>
 <orth>QUATRE-VINGT</orth>
 <pron>ka-tre-vin</pron>
 </form>
-<sense>
-<dictScrap>Voy. <ref target="quatrevingts">QUATREVINGTS</ref>.</dictScrap>
-</sense>
-</entry>
+<xr>Voy. <ref target="quatrevingts">QUATREVINGTS</ref>.</xr>
+</entryFree>
 <entry xml:id="quatre-vingtième">
 <form>
 <orth>QUATRE-VINGTIÈME</orth>
@@ -12133,7 +12127,13 @@
 <etym>Quelle, et le suffixe ment.</etym>
 </entry>
 <entry xml:id="quel_que">
-<form><orth>QUEL QUE</orth><pron>kèl-ke</pron>, QUELLE QUE (kè-le-ke), adj. </form>
+<form>
+<orth>QUEL QUE</orth>
+<pron>kèl-ke</pron>
+<orth>QUELLE QUE</orth> 
+<pron>kè-le-ke</pron>
+<gram>adj.</gram>
+</form>
 <sense n="1">
 <dictScrap>Avec le subjonctif, se dit quand on doute de quelle manière, de quelle espèce est la personne ou la chose dont il s'agit ; il ne s'emploie jamais que séparé de son substantif, à la différence de quelque.... que, qui se construit avec son substantif.</dictScrap>
 <cit>
@@ -12624,7 +12624,11 @@
 <etym>Quel, et que ; picard, quite ; Berry, queuque ; norm. queuque, quèque ; bourguig. quieque ; provenç. qualque, calque ; espagn. cualque ; ital. qualche.</etym>
 </entry>
 <entry xml:id="quelque_que">
-	<form><orth>QUELQUE-... QUE, </orth><gram>adj. </gram></form>
+<form>
+<orth>QUELQUE-... QUE</orth>
+<pron/>
+<gram>adj. </gram>
+</form>
 <sense n="1">
 <dictScrap>Il s'emploie avec le subjonctif pour indiquer que l'on doute de quelle manière, de quelle espèce est la personne ou la chose dont on parle.</dictScrap>
 <cit>
@@ -12945,7 +12949,16 @@
 <etym>Quelque, et fois.</etym>
 </entry>
 <entry xml:id="quelqu_un">
-<form><orth>QUELQU'UN, UNE</orth><pron>kèl-kun, ku-n' ; d'après Chifflet, Gramm. p. 231, il était mieux de ne pas prononcer l'l</pron> au pluriel QUELQUES-UNS (kèl-ke-zun), QUELQUES-UNES (kèl-ke-zu-n') 	<gram>s. m. et f.</gram> </form>
+<form>
+<orth>QUELQU'UN, UNE</orth>
+<pron>kèl-kun, ku-n'</pron>
+<note>d'après Chifflet, Gramm. p. 231, il était mieux de ne pas prononcer l'l au pluriel</note> 
+<orth>QUELQUES-UNS</orth>
+<pron>kèl-ke-zun</pron>
+<orth>QUELQUES-UNES</orth>
+<pron>kèl-ke-zu-n'</pron>
+<gram>s. m. et f.</gram>
+</form>
 <sense n="1">
 <dictScrap>Un, une entre plusieurs. Quelqu'une de vos compagnes.</dictScrap>
 <cit>
@@ -14490,9 +14503,16 @@
 <etym>Lat. querimonia, de queri, se plaindre (voy. <ref target="querelle">QUERELLE</ref>).</etym>
 </entry>
 <entry xml:id="querir">
-<form><orth>QUERIR</orth><pron>ke-rir, ou, populairement, kri</pron><gram>v. a.</gram> qui n'est plus usité qu'à l'infinitif et avec les verbes aller, envoyer, venir.  </form>
-<sense>
-<dictScrap>Chercher avec mission d'amener, d'apporter.</dictScrap>
+<form>
+<orth>QUERIR</orth>
+<pron>ke-rir</pron>
+<note>ou, populairement</note> 
+<pron>kri</pron>
+<gram>v. a.</gram> 
+<note>qui n'est plus usité qu'à l'infinitif et avec les verbes aller, envoyer, venir</note>
+</form>
+  <sense>
+    <dictScrap>Chercher avec mission d'amener, d'apporter.</dictScrap>
 <cit>
 <quote>Va querir un peu d'eau, mais il faut te hâter</quote>
 <bibl>
@@ -14613,7 +14633,12 @@
 <etym>Wallon, quéri ; namur. quêre ; Berry et norm. kri ; provenç. querer, querir, querre ; espagn. querer ; ital. chiedere ; du lat. quaerere, quaes-itum, sanscr. çish, chercher.</etym>
 </entry>
 <entryFree xml:id="querre.1">
-<form><orth>QUERRE</orth><pron>kê-r'</pron>, infinitif de querir (voy. <ref target="querir">QUERIR</ref>, à la remarque). </form>
+<form>
+<orth>QUERRE</orth>
+<pron>kê-r'</pron>
+<gram>infinitif de querir</gram> 
+</form>
+<xr>voy. <ref target="querir">QUERIR</ref>, à la remarque</xr>
 </entryFree>
 <entry xml:id="querre.2">
 <form>
@@ -14664,7 +14689,8 @@
 </entry>
 <entry xml:id="qu_es-aco">
 <form>
-<orth>QU'ES-ACO ou QU'ES-AQUO</orth>
+<orth>QU'ES-ACO</orth>
+<orth>QU'ES-AQUO</orth>
 <pron>kè-za-ko</pron>
 </form>
 <sense>
@@ -17281,9 +17307,13 @@
 <etym>Ital. cuoco ; du lat. coquus, de coquere, cuire (voy. <ref target="cuire">CUIRE</ref>).</etym>
 </entry>
 <entry xml:id="qui">
-<form><orth>QUI</orth><pron>ki</pron>, pronom relatif, ou mieux conjonctif, des deux genres et des deux nombres. </form>
-<sense n="1">
-<dictScrap>Il unit un substantif à une proposition subordonnée ; en cet emploi, il n'est jamais le régime direct d'un verbe, bien qu'il puisse être le régime d'une préposition. Les femmes <oVar>qui</oVar> vous parleront. Vos sœurs avec <oVar>qui</oVar> j'ai fait connaissance. Les roses <oVar>qui</oVar> fleurissent.</dictScrap>
+<form>
+<orth>QUI</orth>
+<pron>ki</pron>
+<gram>pronom relatif, ou mieux conjonctif, des deux genres et des deux nombres</gram>
+</form>
+  <sense n="1">
+    <dictScrap>Il unit un substantif à une proposition subordonnée ; en cet emploi, il n'est jamais le régime direct d'un verbe, bien qu'il puisse être le régime d'une préposition. Les femmes <oVar>qui</oVar> vous parleront. Vos sœurs avec <oVar>qui</oVar> j'ai fait connaissance. Les roses <oVar>qui</oVar> fleurissent.</dictScrap>
 <cit>
 <quote>Les médecins, sans qui on avait mis l'emplâtre, ne dirent point ce qu'ils en pensaient</quote>
 <bibl>
@@ -19001,6 +19031,7 @@
 <form>
 <orth>QUIA</orth>
 <pron>kui-ia</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Mot usité dans ces phrases proverbiales : être à <oVar>quia</oVar>, mettre à <oVar>quia</oVar>, être réduit, réduire quelqu'un à ne pouvoir répondre.</dictScrap>
@@ -19125,7 +19156,11 @@
 </re>
 </entry>
 <entry xml:id="quiconque">
-<form><orth>QUICONQUE</orth><pron>ki-kon-k'</pron>, pronom masc. indéfini, ou plutôt nom général de personne ; il n'a point de pluriel. </form>
+<form>
+<orth>QUICONQUE</orth>
+<pron>ki-kon-k'</pron>
+<gram>pronom masc. indéfini, ou plutôt nom général de personne ; il n'a point de pluriel</gram>
+</form>
 <sense n="1">
 <dictScrap>Qui que ce soit qui, toute personne qui.</dictScrap>
 <cit>
@@ -19371,7 +19406,13 @@
 </re>
 </entry>
 <entry xml:id="quidam">
-<form><orth>QUIDAM</orth><pron>ki-dan</pron>, QUIDANE (ki-da-n'), s. m. et f. </form>
+<form>
+<orth>QUIDAM</orth>
+<pron>ki-dan</pron>
+<orth>QUIDANE</orth>
+<pron>ki-da-n'</pron>
+<gram>s. m. et f.</gram>
+</form>
 <sense n="1">
 <dictScrap>Terme de palais et d'officialité. Il sert à désigner, dans les monitoires, dans les procès-verbaux, etc. les personnes dont on ignore ou dont on n'exprime point le nom.</dictScrap>
 <cit>
@@ -20904,18 +20945,24 @@
 </sense>
 </entry>
 <entry xml:id="quinon">
-<form><orth>QUINON</orth><pron>ki-non</pron>, s. m. ou QUINONE (ki-non'), s. f. </form>
+<form>
+<orth>QUINON</orth>
+<pron>ki-non</pron>
+<gram>s. m.</gram>
+<orth>QUINONE</orth>
+<pron>ki-non'</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Terme de chimie. Radical composé qui est le produit de la distillation de l'acide quinique.</dictScrap>
 </sense>
 </entry>
 <entryFree type="prefixe" xml:id="quinqu-">
 <form>
-<orth>QUINQU- ou QUINQUÉ-</orth>
+<orth>QUINQU-</orth>
+<orth>QUINQUÉ-</orth>
 </form>
-<sense>
 <dictScrap>Mot qui s'ajoute pour signifier cinq, et qui vient du latin quinque, cinq.</dictScrap>
-</sense>
 </entryFree>
 <entry xml:id="quinquagénaire">
 <form>
@@ -22179,7 +22226,12 @@
 </note>
 </entry>
 <entry xml:id="quintessencier">
-<form><orth>QUINTESSENCIER</orth><pron>kin-tè-ssan-si-é</pron>, je quintessenciais, nous quintessenciions, vous quintessenciiez ; que je quintessencie, que nous quintessenciions, que vous quintessenciiez, v. a. </form>
+<form>
+<orth>QUINTESSENCIER</orth>
+<pron>kin-tè-ssan-si-é</pron>
+<note>je quintessenciais, nous quintessenciions, vous quintessenciiez ; que je quintessencie, que nous quintessenciions, que vous quintessenciiez</note>
+<gram>v. a.</gram>
+</form>
 <sense n="1">
 <dictScrap>Tirer la quintessence de quelque chose.</dictScrap>
 </sense>
@@ -24570,9 +24622,17 @@
 <etym>Quitus et quittus est le latin des comptes et des chartes pour rendre quitte.</etym>
 </entry>
 <entry xml:id="qui-va-là">
-<form><orth>QUI-VA-LÀ</orth><pron>ki-va-la</pron>, cri d'une personne qui entend quelque chose et craint d'être surprise.  <cit><quote>Qui va là ? heu ! ma peur à chaque pas s'accroît !</quote><bibl><author>MOL.</author><biblScope>Amph. I, 1</biblScope></bibl></cit> </form>
+<form>
+<orth>QUI-VA-LÀ</orth>
+<pron>ki-va-la</pron>
+<gram/>
+</form>
+<sense>
+<dictScrap>cri d'une personne qui entend quelque chose et craint d'être surprise.</dictScrap>  
+<cit><quote>Qui va là ? heu ! ma peur à chaque pas s'accroît !</quote><bibl><author>MOL.</author><biblScope>Amph. I, 1</biblScope></bibl></cit>
 <sense>
 <dictScrap>Fig. C'est un homme qui a toujours réponse à <oVar>qui-va-là</oVar>, il a réponse à tout, rien ne l'arrête.</dictScrap>
+</sense>
 <sense>
 <dictScrap>Avoir réponse à tout hormis à <oVar>qui-va-là</oVar>, s'être préparé à tout sauf à la question, à la difficulté à laquelle il était naturel de s'attendre.</dictScrap>
 <cit>
@@ -24603,6 +24663,7 @@
 <form>
 <orth>QUI-VIVE</orth>
 <pron>ki-vi-v'</pron>
+<gram/>
 </form>
 <sense>
 <dictScrap>Terme de guerre. Cri d'une sentinelle, d'une patrouille, etc. qui entend du bruit, qui aperçoit une personne ou une troupe. La sentinelle a crié <oVar>qui-vive</oVar>.</dictScrap>
@@ -24735,7 +24796,12 @@
 <etym>Voy. <ref target="quolibet">QUOLIBET</ref>.</etym>
 </entry>
 <entry xml:id="quoi">
-<form><orth>QUOI</orth><pron>koi</pron>, pronom conjonctif indéclinable, signifiant quelle chose ou laquelle chose, servant pour les deux genres et les deux nombres, mais employé comme complément et non pas comme sujet ; on ne s'en sert pas en parlant des personnes ; il ne prend l'emploi de sujet que dans la locution composée quoi que, quoi qui. </form>
+<form>
+<orth>QUOI</orth>
+<pron>koi</pron>
+<gram>pronom conjonctif indéclinable</gram>
+<note>signifiant quelle chose ou laquelle chose, servant pour les deux genres et les deux nombres, mais employé comme complément et non pas comme sujet ; on ne s'en sert pas en parlant des personnes ; il ne prend l'emploi de sujet que dans la locution composée quoi que, quoi qui.</note>
+</form>
 <sense n="1">
 <dictScrap>Il s'emploie avec les noms indéterminés. Ce à <oVar>quoi</oVar> nous pensons. Ce sur <oVar>quoi</oVar> nous disputons. C'est en <oVar>quoi</oVar> vous vous trompez. Il n'est rien à <oVar>quoi</oVar> je ne sois disposé.</dictScrap>
 <cit>
