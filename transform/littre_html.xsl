@@ -101,7 +101,7 @@
     </i>
   </xsl:template>
   <!-- texte génériques -->
-  <xsl:template match="tei:author | tei:oVar | tei:biblScope | tei:gram | tei:quote | tei:quote/tei:note">
+  <xsl:template match="tei:author | tei:biblScope | tei:gram | tei:quote | tei:quote/tei:note">
     <xsl:if test="normalize-space(.)">
       <span>
         <xsl:call-template name="class"/>
@@ -147,6 +147,11 @@
         </xsl:choose>        
       </xsl:for-each>
     </p>      
+  </xsl:template>
+  <xsl:template match="tei:re/tei:form">
+    <strong>
+      <xsl:apply-templates/>
+    </strong>
   </xsl:template>
   <!-- -->
   <xsl:template match="tei:etym">
