@@ -5,6 +5,7 @@ div.entry,
 div.entryFree {
   margin:2em 1ex;
   font-family: Arial,sans-serif;
+  max-width:80ex;
 }
 .entry ol {
   padding:0 0 0 2ex;
@@ -34,6 +35,7 @@ div.entryFree {
 p.dictScrap {
   margin:1ex 0 1ex 0;
   text-indent:0;
+  line-height:105%;
 }
 blockquote {
   margin:0.8ex 0 0.8ex 6ex;
@@ -53,12 +55,13 @@ div.H blockquote {
 div.sense2 blockquote {
   margin-left:5ex;
 }
-/*
 .quote {
-  font-family: serif;
-  font-size:110%;
+  /* font-family: serif; */
 }
-*/
+.bibl {
+  display:block;
+  margin-left:1ex;
+}
 label {
   font-size:80%;
   float:left;
