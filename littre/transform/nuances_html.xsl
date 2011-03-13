@@ -10,12 +10,15 @@ Littré, nuances
 >
   <xsl:output  indent="no" method="xml" encoding="UTF-8"/>
   <xsl:param name="css">../transform/nuances.css</xsl:param>
-  <!-- dosssier où trouver les ressources -->
-  <xsl:variable name="min">abcdefghijklmnopqrstuvwxyzâêîôûäëïöüáéíóúàèìòùçæœ</xsl:variable>
-  <xsl:variable name="maj">ABCDEFGHIJKLMNOPQRSTUVWXYZÂÊÎÔÛÄËÏÖÜÁÉÍÓÚÀÈÌÒÙÇÆŒ</xsl:variable>
+   <!-- Pour conversion minuscule -->
+  <xsl:variable name="Â">ABCDEFGHIJKLMNOPQRSTUVWXYZÂÄÀÆÇÉÈÊËÎÏÖÔÙÛÜ-</xsl:variable>
+  <!-- garder les minuscules accentuées dans l'identifiant pour éviter doublons sur les adjectifs de participe passé -->
+  <xsl:variable name="â">abcdefghijklmnopqrstuvwxyzâäàæçéèêëîïöôùûü–</xsl:variable>
   <!-- Clé pour retrouver l'entrée -->
-  <xsl:key name="orth" match="orth" use="tei:m|."/>
-  
+  <xsl:key name="orth" match="tei:orth[not(tei:m)] | tei:m[not(@ana)] | tei:m/@ana" use="translate(.,  $Â, $â)"/>
+  <xsl:key name="lettre" match="tei:orth[not(tei:m)] | tei:m[not(@ana)] | tei:m/@ana" use="substring(., 1, 1)"/>
+  <!-- uri de base pour joindre un article du littré -->
+  <xsl:variable name="littre-href">http://artflx.uchicago.edu/cgi-bin/dicos/pubdico1look.pl?dicoid=LITTRE1872&amp;strippedhw=</xsl:variable>  
 
   <!-- / racine du document = racine html -->
   <xsl:template match="/">
@@ -121,6 +124,15 @@ p.entry {
       </xsl:call-template>
     </xsl:if>
   </xsl:template>
+  
+  <xsl:template name="chemin">
+    <xsl:for-each select="ancestor-or-self::tei:div">
+      <xsl:if test="position() != 1"> » </xsl:if>
+      <xsl:call-template name="a"/>
+      <xsl:text> </xsl:text>
+      <small>(<xsl:value-of select="count(.//tei:entry)"/>)</small>
+    </xsl:for-each>
+  </xsl:template>
 
   <xsl:template name="index">
     <xsl:param name="alphabet" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
@@ -130,38 +142,44 @@ p.entry {
     </xsl:if>
     <xsl:if test="normalize-space($lettre) != ''">
       <xsl:if test="key('lettre', $lettre)">
-        <a name="_{$lettre}">
-        <xsl:comment>&#160;</xsl:comment>
-        </a>
-        <h6>
+        <h2 id="_{$lettre}">
           <xsl:value-of select="$lettre"/>
+          <!-- ?
           <xsl:text> </xsl:text>
           <small title="Nombre de mots">
             <xsl:text>(</xsl:text>
             <xsl:value-of select="count(key('lettre', $lettre))"/>
             <xsl:text>)</xsl:text>
           </small>
-        </h6>
-        <xsl:for-each select="key('lettre', $lettre)">
-          <xsl:sort select="."/>
-          <!-- si c'est le premier de la liste -->
-          <xsl:choose>
-            <xsl:when test="count(. | key('mot', normalize-space(.))[1] ) = 1">
-              <!-- pas de saut de ligne au début -->
-              <xsl:if test="position() != 1">
-                <xsl:text>.
-</xsl:text>
-                <br/>
-              </xsl:if>
-              <xsl:value-of select="translate(.,$maj,$min)"/>
-              <xsl:text> : </xsl:text>
-            </xsl:when>
-            <xsl:otherwise>, </xsl:otherwise>
-          </xsl:choose>
-          <xsl:apply-templates select="ancestor::tei:entry[1]" mode="lien"/>
-          <!-- un point à la fin -->
-          <xsl:if test="position() = last()">.</xsl:if>
-        </xsl:for-each>
+          -->
+        </h2>
+        <p class="lettre">
+          <xsl:for-each select="key('lettre', $lettre)">
+            <xsl:sort select="."/>
+            
+            <!--
+            <xsl:choose>
+              <xsl:when test="count(. | key('mot', normalize-space(.))[1] ) = 1">
+                <xsl:if test="position() != 1">
+                  <xsl:text>.
+  </xsl:text>
+                  <br/>
+                </xsl:if>
+                <xsl:value-of select="translate(.,$Â,$â)"/>
+                <xsl:text> : </xsl:text>
+              </xsl:when>
+              <xsl:otherwise>, </xsl:otherwise>
+            </xsl:choose>
+            <xsl:call-template name="a"/>
+            <xsl:if test="position() = last()">.</xsl:if>
+            -->
+            <xsl:call-template name="a"/>
+            <xsl:choose>
+              <xsl:when test="position()=last()">.</xsl:when>
+              <xsl:otherwise>, </xsl:otherwise>
+            </xsl:choose>
+          </xsl:for-each>
+        </p>
       </xsl:if>
       <!-- passer à la lettre suivante -->
       <xsl:call-template name="index">
@@ -170,6 +188,41 @@ p.entry {
     </xsl:if>
   </xsl:template>
 
+  <xsl:template name="matieres">
+    <xsl:apply-templates select="/tei:TEI/tei:text/tei:body" mode="matieres"/>
+  </xsl:template>
+  <xsl:template match="tei:div" mode="matieres">
+    <xsl:if test="tei:entry">
+      <h2>
+        <xsl:call-template name="chemin"/>
+      </h2>
+      <p>
+        <xsl:for-each select="tei:entry">
+            <!--
+            <xsl:attribute name="href">
+              <xsl:call-template name="href"/>
+              <xsl:text>#</xsl:text>
+              <xsl:call-template name="number"/>
+            </xsl:attribute>
+            -->
+            <xsl:for-each select="tei:form/tei:orth">
+              <xsl:choose>
+                <xsl:when test="position()=1">
+                  <xsl:value-of select="substring(., 1, 1)"/>
+                  <xsl:value-of select="translate(substring(., 2), $Â, $â)"/>
+                </xsl:when>
+                <xsl:otherwise>
+                  <xsl:text>, </xsl:text>
+                  <xsl:value-of select="translate(., $Â, $â)"/>
+                </xsl:otherwise>
+              </xsl:choose>
+            </xsl:for-each>
+          <xsl:text>. </xsl:text>
+        </xsl:for-each>
+      </p>
+    </xsl:if>
+    <xsl:apply-templates select="tei:div" mode="matieres"/>
+  </xsl:template>
 
   <xsl:template name="tree">
     <ul class="tree">
@@ -201,13 +254,13 @@ p.entry {
       <a>
         <xsl:attribute name="href">
           <xsl:text>#</xsl:text>
-          <xsl:apply-templates select="." mode="id"/>
+          <xsl:call-template name="number"/>
         </xsl:attribute>
-        <xsl:apply-templates select="." mode="number"/>
+        <xsl:call-template name="number"/>
         <xsl:text>. </xsl:text>
         <xsl:for-each select="tei:form/tei:orth">
           <xsl:if test="position() != 1">, </xsl:if>
-          <xsl:value-of select="translate(., $maj, $min)"/>
+          <xsl:value-of select="translate(., $Â, $â)"/>
         </xsl:for-each>
       </a>
       <xsl:text>.</xsl:text>
@@ -217,7 +270,7 @@ p.entry {
 
   <xsl:template match="tei:head" mode="tree">
       <xsl:variable name="number">
-        <xsl:apply-templates select="ancestor::tei:div[1]" mode="number"/>
+        <xsl:call-template name="number"/>
       </xsl:variable>
       <!--
       <small>
@@ -239,8 +292,14 @@ p.entry {
     <xsl:apply-templates select="tei:text"/>
   </xsl:template>
 
-  <xsl:template match="tei:text">
-    <xsl:apply-templates select="tei:body"/>
+  <xsl:template match="tei:text | tei:front">
+    <xsl:apply-templates select="*"/>
+  </xsl:template>
+
+  <xsl:template match="tei:byline | tei:titlePart">
+    <div class="{local-name()}">
+      <xsl:apply-templates/>
+    </div>
   </xsl:template>
 
 
@@ -248,10 +307,15 @@ p.entry {
     <xsl:apply-templates/>
   </xsl:template>
 
+  <xsl:template match="tei:front//tei:div">
+    <xsl:apply-templates/>
+  </xsl:template>
+
+
   <!-- Le sectionnement est calculé pour conversion vers traitement de texte  -->
-  <xsl:template match="tei:div">
+  <xsl:template match="tei:body//tei:div">
     <xsl:variable name="id">
-      <xsl:apply-templates select="." mode="number"/>
+      <xsl:call-template name="number"/>
     </xsl:variable>
     <div id="{$id}">
       <xsl:apply-templates select="tei:head | tei:epigraph"/>
@@ -266,16 +330,33 @@ p.entry {
 
 
   <!-- numéro de section -->
-  <xsl:template match="tei:div" mode="number">
-    <xsl:number from="tei:TEI/tei:text/tei:body" level="multiple" format="A.1.a"/>
+  <xsl:template name="number">
+    <xsl:choose>
+      <xsl:when test="ancestor-or-self::tei:entry">
+        <xsl:number from="tei:TEI/tei:text/tei:body" level="any" count="tei:entry"/>
+      </xsl:when>
+      <xsl:when test="ancestor-or-self::tei:div">
+        <xsl:number from="tei:TEI/tei:text/tei:body" level="multiple" count="tei:div" format="A-1-a"/>
+      </xsl:when>
+      <xsl:otherwise>ERROR</xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
-
 
   <!-- en-tête de section -->
   <xsl:template match="tei:epigraph">
     <ul class="epigraph">
       <xsl:apply-templates/>
     </ul>
+  </xsl:template>
+  <xsl:template match="tei:list">
+    <ul>
+      <xsl:apply-templates/>
+    </ul>
+  </xsl:template>
+  <xsl:template match="tei:item">
+    <li>
+      <xsl:apply-templates/>
+    </li>
   </xsl:template>
   <xsl:template match="tei:epigraph/tei:entryFree">
     <li>
@@ -288,7 +369,7 @@ p.entry {
     <xsl:variable name="niveau" select="count(ancestor::tei:div)"/>
     <xsl:element name="h{$niveau}">
       <xsl:variable name="number">
-        <xsl:apply-templates select="ancestor::tei:div[1]" mode="number"/>
+        <xsl:call-template name="number"/>
       </xsl:variable>
       <!--
       <small>
@@ -306,58 +387,85 @@ p.entry {
     <xsl:apply-templates/>
   </xsl:template>
 
-  <xsl:template match="tei:entry" mode="number">
-    <xsl:number from="tei:TEI/tei:text/tei:body" level="any"/>
-  </xsl:template>
 
-  <xsl:template match="tei:entry" mode="lien">
+  <!-- fichier de destination -->
+  <xsl:template name="href"/>
+  <xsl:template name="a">
     <a>
       <xsl:attribute name="href">
+        <xsl:call-template name="href"/>
         <xsl:text>#</xsl:text>
-        <xsl:apply-templates select="." mode="id"/>
+        <xsl:call-template name="number"/>
       </xsl:attribute>
-      <xsl:apply-templates select="." mode="number"/>
+      <!-- 
+      <xsl:call-template name="number"/>
+      -->
+      <xsl:choose>
+        <xsl:when test="tei:head">
+          <xsl:value-of select="normalize-space(tei:head)"/>
+        </xsl:when>
+        <xsl:when test="ancestor-or-self::tei:form">
+          <xsl:value-of select="translate(., $Â, $â)"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="."/>
+        </xsl:otherwise>
+      </xsl:choose>
     </a>
   </xsl:template>
 
   
-
-  <xsl:template match="tei:entry" mode="id">
-    <xsl:apply-templates select="." mode="number"/>
+  <xsl:template match="tei:p">
+    <p>
+      <xsl:apply-templates/>
+    </p>
   </xsl:template>
 
 
   <xsl:template match="tei:entry/tei:form">
-    <small>
-      <xsl:apply-templates select=".." mode="number"/>
-      <xsl:text>.</xsl:text>
-    </small>
-    <xsl:text> </xsl:text>
+    <xsl:if test="ancestor::tei:body">
+      <small>
+        <xsl:call-template name="number"/>
+        <xsl:text>.</xsl:text>
+      </small>
+      <xsl:text> </xsl:text>
+    </xsl:if>
+    <!-- 
+    <xsl:choose>
+      <xsl:when test="tei:m">
+        <xsl:attribute name="id">
+          <xsl:value-of select="translate(tei:m, $Â, $â)"/>
+        </xsl:attribute>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:attribute name="id">
+          <xsl:value-of select="translate(., $Â, $â)"/>
+        </xsl:attribute>
+      </xsl:otherwise>
+    </xsl:choose>
+    -->
     <xsl:for-each select="tei:orth">
-      <xsl:if test="position() != 1">, </xsl:if>
-      <strong>
-        <xsl:choose>
-          <xsl:when test="tei:m">
-            <xsl:attribute name="id">
-              <xsl:value-of select="translate(tei:m, $maj, $min)"/>
-            </xsl:attribute>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:attribute name="id">
-              <xsl:value-of select="translate(., $maj, $min)"/>
-            </xsl:attribute>
-          </xsl:otherwise>
-        </xsl:choose>
-        <xsl:apply-templates/>
-      </strong>
+      <xsl:choose>
+        <xsl:when test="position() != 1">
+          <xsl:text>, </xsl:text>
+          <strong class="orth">
+            <xsl:apply-templates/>
+          </strong>
+        </xsl:when>
+        <xsl:otherwise>
+          <a class="orth" href="{$littre-href}{translate(ancestor::tei:entry/@xml:id, '01234567890', '')}">
+            <xsl:apply-templates/>
+          </a>
+        </xsl:otherwise>
+      </xsl:choose>
     </xsl:for-each>
     <xsl:text>. </xsl:text>
   </xsl:template>
 
   <xsl:template match="tei:form">
-    <b>
+    <span class="form">
       <xsl:apply-templates/>
-    </b>
+    </span>
   </xsl:template>
 
   <xsl:template match="tei:m">
@@ -367,7 +475,7 @@ p.entry {
   <xsl:template match="tei:entry">
     <p class="entry">
       <xsl:attribute name="id">
-        <xsl:apply-templates select="." mode="id"/>
+        <xsl:call-template name="number"/>
       </xsl:attribute>
       <xsl:apply-templates/>
     </p>
@@ -379,9 +487,9 @@ p.entry {
 
   <!-- exemple -->
   <xsl:template match="tei:q">
-    <samp>
+    <cite>
       <xsl:apply-templates/>
-    </samp>
+    </cite>
   </xsl:template>
 
   <!-- -->
@@ -395,15 +503,13 @@ p.entry {
 
   <!-- définition -->
   <xsl:template match="tei:gloss | tei:def">
-    <dfn>
-      <xsl:text>“</xsl:text>
-      <xsl:apply-templates/>
-      <xsl:text>”</xsl:text>
-    </dfn>
+    <xsl:text>“</xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>”</xsl:text>
   </xsl:template>
 
   <!-- les notes concernent généralement rappel à l'article, ne seront pas sorties -->
-  <xsl:template match="tei:note">
+  <xsl:template match="tei:entry//tei:note">
 
   </xsl:template>
 
@@ -424,9 +530,9 @@ p.entry {
 
   -->
   <xsl:template match="tei:dictScrap//tei:term | tei:term | tei:lang">
-    <kbd>
+    <abbr>
       <xsl:apply-templates/>
-    </kbd>
+    </abbr>
   </xsl:template>
 
 
@@ -452,21 +558,43 @@ p.entry {
 
   <!-- lien -->
   <xsl:template match="tei:ref">
-    <xsl:variable name="cible">
-      <xsl:choose>
-        <xsl:when test="@cRef">
-          <xsl:value-of select="@cRef"/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:value-of select="translate( . , $maj, $min)"/>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
     <a>
-      <xsl:attribute name="href">
-        <xsl:text>#</xsl:text>
-        <xsl:apply-templates select="key('orth', translate( $cible , $min, $maj))" mode="id"/>
-      </xsl:attribute>
+      <xsl:choose>
+        <xsl:when test="starts-with(@target, 'mailto:')">
+          <xsl:attribute name="onclick">
+            <xsl:text>this.href='mailto'+'\x3A'+'</xsl:text>
+            <xsl:value-of select="substring-before(substring-after(@target,'mailto:'),'@')"/>
+            <xsl:text>'+'\x40'+'</xsl:text>
+            <xsl:value-of select="substring-after(@target,'@')"/>
+            <xsl:text>'</xsl:text>
+          </xsl:attribute>
+          <xsl:attribute name="href">#</xsl:attribute>
+        </xsl:when>
+        <xsl:when test="@target">
+          <xsl:attribute name="href">
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+        </xsl:when>
+        <xsl:when test="@cRef">
+          <xsl:variable name="cible">
+            <xsl:choose>
+              <xsl:when test="@cRef">
+                <xsl:value-of select="@cRef"/>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="translate( . , $Â, $â)"/>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:variable>
+          <xsl:attribute name="href">
+            <xsl:for-each select="key('orth', $cible)[1]">
+              <xsl:call-template name="href"/>
+               <xsl:text>#</xsl:text>
+              <xsl:call-template name="number"/>
+            </xsl:for-each>
+          </xsl:attribute>
+        </xsl:when>
+      </xsl:choose>
       <xsl:apply-templates/>
     </a>
     <!--
@@ -505,10 +633,15 @@ p.entry {
   </xsl:template>
 
   <!-- citation inline -->
-  <xsl:template match="tei:quote">
-    <q>
+  <xsl:template match="tei:entry//tei:quote">
+    <cite>
       <xsl:apply-templates/>
-    </q>
+    </cite>
+  </xsl:template>
+  <xsl:template match="tei:quote">
+    <blockquote>
+      <xsl:apply-templates/>
+    </blockquote>
   </xsl:template>
 
   <!-- nom, souvent auteur -->
