@@ -10,36 +10,37 @@ http://www.sosy-lab.org/~dbeyer/CCVisu/
   exclude-result-prefixes="tei"
 >
   <xsl:output method="text" encoding="UTF-8"/>
-   <!-- Pour conversion minuscule -->
-  <xsl:variable name="Â">ABCDEFGHIJKLMNOPQRSTUVWXYZÂÄÀÆÇÉÈÊËÎÏŒÖÔÙÛÜ-</xsl:variable>
-  <xsl:variable name="â">abcdefghijklmnopqrstuvwxyzâäàæçéèêëîïœöôùûü–</xsl:variable>
- <!-- Permet l'indentation des éléments de structure -->
+  <!-- Permet l'indentation des éléments de structure -->
   <xsl:strip-space elements="tei:TEI tei:body tei:div tei:docDate tei:front tei:group tei:index tei:listWit tei:teiHeader tei:text"/>
-  <!-- Clé sur une vedette -->
-  <xsl:key name="orth" match="tei:orth[not(tei:m)] | tei:m[not(@ana)] | tei:m/@ana" use="translate(.,  $Â, $â)"/>
-  <!-- Clé sur un corrélat -->
-  <xsl:key name="ref" match="tei:ref" use="@cRef"/>
   <xsl:variable name="lf">
     <xsl:text>&#10;</xsl:text>
   </xsl:variable>
   <xsl:template match="/">
-    <dot>
-  <xsl:apply-templates/>
-    </dot>
+    <graph>
+     <xsl:apply-templates/>
+    </graph>
   </xsl:template>
   <xsl:template match="*">
     <xsl:apply-templates select="*"/>
   </xsl:template>
-  <!-- Relations entre articles -->
+  <xsl:template match="tei:front"/>
+  <!-- Relations entre les vedettes des articles. -->
   <xsl:template match="tei:entry">
-    <xsl:for-each select="tei:form/tei:orth">
-      <xsl:variable name="src" select="tei:orth[not(tei:m)] | tei:m[not(@ana)] | tei:m/@ana"/>
-      <xsl:for-each select="following-sibling::tei:orth">
-        <xsl:variable name="dest" select=""></xsl:variable>
+    <xsl:for-each select="tei:form/tei:orth[@ana][@type]">
+      <xsl:variable name="src" select="@ana"/>
+      <xsl:for-each select="following-sibling::tei:orth[@ana][@type]">
+        <xsl:value-of select="@type"/>
+        <xsl:text> </xsl:text>
+        <xsl:value-of select="$src"/>
+        <xsl:text> </xsl:text>
+        <xsl:value-of select="@ana"/>
+        <xsl:value-of select="$lf"/>
       </xsl:for-each>
     </xsl:for-each>
+  </xsl:template>
+
     <!--
-      graphe des corrélats, résultat peu probant
+      graphe des corrélats, résultat peu probant, cf https://javacrim.svn.sourceforge.net/svnroot/javacrim/littre/nuances/nuances_ref.svg
     <xsl:for-each select="tei:dictScrap//tei:ref">
       <xsl:variable name="cRef" select="@cRef"/>
       <xsl:variable name="count" select="count(key('ref', @cRef))"/>
@@ -65,6 +66,5 @@ http://www.sosy-lab.org/~dbeyer/CCVisu/
       </xsl:if>
       </xsl:for-each>
     -->
-  </xsl:template>
 
 </xsl:transform>
