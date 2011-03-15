@@ -11,9 +11,9 @@ Littré, nuances
   <xsl:output  indent="no" method="xml" encoding="UTF-8"/>
   <xsl:param name="css">../transform/nuances.css</xsl:param>
    <!-- Pour conversion minuscule -->
-  <xsl:variable name="Â">ABCDEFGHIJKLMNOPQRSTUVWXYZÂÄÀÆÇÉÈÊËÎÏÖÔÙÛÜ-</xsl:variable>
+  <xsl:variable name="Â">ABCDEFGHIJKLMNOPQRSTUVWXYZÂÄÀÆÇÉÈÊËÎÏÖÔŒÙÛÜ-</xsl:variable>
   <!-- garder les minuscules accentuées dans l'identifiant pour éviter doublons sur les adjectifs de participe passé -->
-  <xsl:variable name="â">abcdefghijklmnopqrstuvwxyzâäàæçéèêëîïöôùûü–</xsl:variable>
+  <xsl:variable name="â">abcdefghijklmnopqrstuvwxyzâäàæçéèêëîïöôœùûü–</xsl:variable>
   <!-- Clé pour retrouver l'entrée -->
   <xsl:key name="orth" match="tei:orth[not(tei:m)] | tei:m[not(@ana)] | tei:m/@ana" use="translate(.,  $Â, $â)"/>
   <xsl:key name="lettre" match="tei:orth[not(tei:m)] | tei:m[not(@ana)] | tei:m/@ana" use="substring(., 1, 1)"/>
