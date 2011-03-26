@@ -195,6 +195,7 @@ public class IndexEntry {
         name=ev.asEndElement().getName().getLocalPart();
         if ("orth".equals(name)) {
           doc.add(new Field("orth", text, Field.Store.YES, Field.Index.ANALYZED));
+          // formes
         }
         if ("quote".equals(name)) {
           doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED));
