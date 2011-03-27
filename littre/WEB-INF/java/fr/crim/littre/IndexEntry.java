@@ -130,7 +130,7 @@ public class IndexEntry {
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 		dbf.setNamespaceAware(true);
 		xdoms = dbf.newDocumentBuilder();
-
+		
 		File[] files = xmlDir.listFiles(new FilenameFilter() {
 			public boolean accept(File f, String s) {
 				return s.endsWith(".xml");
