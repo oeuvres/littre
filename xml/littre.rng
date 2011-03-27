@@ -103,7 +103,9 @@
 			</optional>
 		  <ref name="ana"/>
       <element name="form">
-        <ref name="orth"/>
+        <oneOrMore>
+          <ref name="orth"/>
+        </oneOrMore>
         <optional>
           <ref name="pron"/>
         </optional>
@@ -136,8 +138,16 @@
 			<p>Au minimum, ces informations se résument à la représentation graphique du mot (<b>orth</b>), éventuellement enrichie d'indications grammaticales (<b>gram</b>) ou sur la prononciation de l'item (<b>pron</b>). Ces indications, le cas échéant, peuvent être enrichies de discussions ou remarques critiques de l'auteur (<b>note</b>), notamment sur la prononciation ou des particularités grammaticales.</p>
 			</a:documentation>
 		    <oneOrMore>
-    			<ref name="orth"/>
-    			<ref name="pron"/>
+		      <!-- ex: ACHAINE ou ACHÈNE -->
+		      <oneOrMore>
+      			<ref name="orth"/>
+		      </oneOrMore>
+    			<zeroOrMore>
+    				<ref name="note"/>
+    			</zeroOrMore>
+		      <zeroOrMore>
+      			<ref name="pron"/>
+		      </zeroOrMore>
     			<zeroOrMore>
     				<ref name="note"/>
     			</zeroOrMore>
@@ -145,7 +155,6 @@
 		        <ref name="gram"/>
 		      </optional>
 		    </oneOrMore>
-  			<ref name="gram"/>
   			<optional>
   				<ref name="xr"/>
   			</optional>
@@ -182,7 +191,13 @@
 		<element name="gram">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Indication grammaticale</b></a:documentation>
 		  <optional>
-		    <attribute name="norm"/>
+		    <attribute name="norm">
+		      <choice>
+		        <value>A</value>
+		        <value>S</value>
+		        <value>V</value>
+		      </choice>    
+		    </attribute>
 		  </optional>
 		  <zeroOrMore>
 		    <choice>
@@ -387,7 +402,7 @@
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Remarque</b></a:documentation>
 			<attribute name="type">
-				<value>R</value>
+				<value>REM.</value>
 			</attribute>
 		  <ref name="ana"/>
 			<choice>
@@ -416,7 +431,7 @@
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Proverbe</b></a:documentation>
 			<attribute name="type">
-				<value>P</value>
+				<value>PROV.</value>
 			</attribute>
 		  <zeroOrMore>
 		    <choice>
@@ -441,7 +456,7 @@
 		<element name="re">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Nuance</b></a:documentation>
 			<attribute name="type">
-				<value>S</value>
+				<value>SYN.</value>
 			</attribute>
 		  <zeroOrMore>
 		    <choice>
@@ -462,7 +477,7 @@
 		<element name="note">
 			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Information historique</b></a:documentation>
 			<attribute name="type">
-				<value>H</value>
+				<value>HIST.</value>
 			</attribute>
 		  <oneOrMore>
     		<element name="label">

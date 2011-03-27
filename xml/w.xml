@@ -70,7 +70,7 @@
 </entry>
 <entry xml:id="wacke">
 <form>
-<orth>WACKE ou WAKE</orth>
+<orth>WACKE</orth><orth>WAKE</orth>
 <pron>va-k'</pron>
 <gram>s. m.</gram>
 </form>
@@ -231,7 +231,7 @@
 </entry>
 <entry xml:id="waire">
 <form>
-<orth>WAIRE ou WAIRETTE</orth>
+<orth>WAIRE</orth><orth>WAIRETTE</orth>
 <pron>vê-r' ou vê-rè-t'</pron>
 <gram>s. f.</gram>
 </form>
@@ -317,7 +317,7 @@
 <sense n="4">
 <dictScrap>Épée <oVar>wallonne</oVar>, épée à lame droite et large, à deux tranchants dont était armée la cavalerie sous Louis XIII et Louis XIV.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -588,7 +588,13 @@
 <etym>Angl. water, eau, et closet, cabinet, closet dérive du français clos, fermé.</etym>
 </entry>
 <entry xml:id="watergang">
-<form><orth>WATERGANG</orth><pron>oua-tèr-gan</pron>, ou WATREGAN (oua-tre-gan), s. m. </form>
+<form>
+<orth>WATERGANG</orth>
+<pron>oua-tèr-gan</pron>
+<orth>WATREGAN</orth> 
+<pron>oua-tre-gan</pron>
+<gram>s. m.</gram>
+</form>
 <sense>
 <dictScrap>Petits canaux pratiqués dans le littoral de la Flandre et des Pays-Bas, et où entrent les embarcations pour pénétrer dans les terres.</dictScrap>
 <sense>
@@ -658,15 +664,13 @@
 </sense>
 <etym>Angl. waterproof, de water, eau, et proof, à l'épreuve.</etym>
 </entry>
-<entry xml:id="wauxhall">
+<entryFree xml:id="wauxhall">
 <form>
 <orth>WAUXHALL</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
 <dictScrap>Voy. <ref target="vauxhall">VAUXHALL</ref>.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="weald">
 <form>
 <orth>WEALD</orth>
@@ -710,14 +714,13 @@
 <re>WÉGA. Ajoutez : - ÉTYM. Arabe, ouagi', tombant, l'oiseau tombant, par rapport à altaïr, situé non loin de là, qui est l'aigle volant. </re>
 </re>
 </entry>
-<entry xml:id="wehme">
+<entryFree xml:id="wehme">
 <form>
-<orth>WEHME et WEHMIQUE</orth>
+<orth>WEHME</orth>
+<orth>WEHMIQUE</orth>
 </form>
-<sense>
 <dictScrap>Voy. <ref target="vehme">VEHME</ref> et <ref target="vehmique">VEHMIQUE</ref>.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="wehrgeld">
 <form>
 <orth>WEHRGELD</orth>
@@ -736,15 +739,13 @@
 </sense>
 <etym>All. Wehr, défense, et Geld, argent.</etym>
 </entry>
-<entry xml:id="welche">
+<entryFree xml:id="welche">
 <form>
 <orth>WELCHE</orth>
 <gram>s. m.</gram>
 </form>
-<sense>
 <dictScrap>Voy. <ref target="velche">VELCHE</ref>.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="wermouth">
 <form>
 <orth>WERMOUTH</orth>
@@ -837,7 +838,7 @@
 </entry>
 <entry xml:id="whiskey">
 <form>
-<orth>WHISKEY ou WHISKY</orth>
+<orth>WHISKEY</orth><orth>WHISKY</orth>
 <pron>oui-ski</pron>
 <gram>s. m.</gram>
 </form>
@@ -975,14 +976,12 @@
 </sense>
 <etym>Winter, marin anglais du XVIe siècle.</etym>
 </entry>
-<entry xml:id="wiskey">
+<entryFree xml:id="wiskey">
 <form>
 <orth>WISKEY</orth>
 </form>
-<sense>
 <dictScrap><oVar>WISKEY</oVar>, fausse orthographe. Voy. <ref target="whiskey">WHISKEY</ref>.</dictScrap>
-</sense>
-</entry>
+</entryFree>
 <entry xml:id="wiski">
 <form>
 <orth>WISKI</orth>
@@ -1074,7 +1073,7 @@
 </entry>
 <entry xml:id="woorali">
 <form>
-<orth>WOORALI ou WOORARI</orth>
+<orth>WOORALI</orth><orth>WOORARI</orth>
 <pron>ou-ra-li ou ou-ra-ri</pron>
 <gram>s. m.</gram>
 </form>

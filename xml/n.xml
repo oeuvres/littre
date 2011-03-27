@@ -63,7 +63,7 @@
 <sense n="10">
 <dictScrap>Les jurisconsultes romains usaient de cette abréviatio<oVar>n</oVar>, <oVar>N</oVar>. L. pour signifier non liquet, c'est-à-dire que la chose en question ne leur paraissait pas évidente.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -88,7 +88,7 @@
 <re ana="supplement">
 <re>N.-W. (nor-ouèst), s. m. La partie nord-ouest d'un pays. M. Hébert est un des hommes qui connaissent le mieux les terrains du N., -W., de la France (on écrit maintenant ainsi nord-ouest en français, depuis la convention météorologique de Vienne),... G. POUCHET, le Siècle, 20 fév. 1876. </re>
 </re>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -236,8 +236,8 @@
 <dictScrap>Inusité aujourd'hui en ce sens.</dictScrap>
 </sense>
 </sense>
-<re type="S">NABOT, RAGOT. Le nabot est beaucoup trop petit. Le ragot, s'il n'est pas plus petit ou plus court, est au moins plus vilain, plus difforme, plus ridicule ; c'est ce que Scarron a fort bien observé dans le portrait de son Ragotin. </re>
-<note type="H">
+<re type="SYN.">NABOT, RAGOT. Le nabot est beaucoup trop petit. Le ragot, s'il n'est pas plus petit ou plus court, est au moins plus vilain, plus difforme, plus ridicule ; c'est ce que Scarron a fort bien observé dans le portrait de son Ragotin. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -283,7 +283,7 @@
 <sense>
 <dictScrap>Ancien instrument de musique militaire, sorte de timbale.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -329,7 +329,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -391,7 +391,7 @@
 <dictScrap>Terme de zoologie. Nom marchand d'une espèce de patelle.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -481,7 +481,7 @@
 <dictScrap><oVar>Nacre</oVar> de perles, expression qui se dit, mais qui ne signifie rien de plus que le seul mot <oVar>nacre</oVar>, la matière de la <oVar>nacre</oVar> et de la perle étant la même.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -610,7 +610,7 @@
 <sense>
 <dictScrap>Terme d'astronomie. Le point du ciel qui est directement sous nos pieds, et auquel aboutirait une ligne verticale tirée du point que nous habitons et passant par le centre de la terre.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -678,7 +678,7 @@
 <dictScrap>On trouve aussi naphe. Eaux de nar et naphe, et essences odoriférantes, le cent pesant payera trois livres, Tarif, 18 sept. 1664.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -854,7 +854,7 @@
 <dictScrap>C'est une vieille locution (voy. <ref target="nage#historique">NAGE</ref> à l'historique).</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -960,7 +960,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Ce mot, bien que fourni par la Fontaine, n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835. </note>
+<note type="REM.">Ce mot, bien que fourni par la Fontaine, n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835. </note>
 <etym>Nager.</etym>
 </entry>
 <entry xml:id="nagement">
@@ -979,7 +979,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -1034,7 +1034,7 @@
 <sense n="5">
 <dictScrap>Populairement. Barbe qui garnit le côté des joues, favori.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -1358,7 +1358,7 @@
 <dictScrap>Terme de fauconnerie. <oVar>Nager</oVar> entre les nuées, se dit du faucon qui plane.</dictScrap>
 </sense>
 </sense>
-<re type="P">
+<re type="PROV.">
 <cit>
 <quote>Le monde est rond ; qui ne sait nager va au fond</quote>
 <bibl>
@@ -1367,7 +1367,7 @@
 </bibl>
 </cit>
 </re>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -1558,7 +1558,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1616,7 +1616,7 @@
 </entry>
 <entry xml:id="naguère">
 <form>
-<orth>NAGUÈRE ou NAGUÈRES</orth>
+<orth>NAGUÈRE</orth><orth>NAGUÈRES</orth>
 <pron>na-ghè-r'</pron>
 <gram>adv.</gram>
 </form>
@@ -1668,8 +1668,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Naguère, d'après Marguerite Buffet, Observ. p. 52, en 1668, était un mot suranné ; il fallait dire depuis peu. Purisme sans raison ; car les meilleurs auteurs employaient le mot qui est resté en usage, surtout en poésie et dans le style relevé. </note>
-<note type="H">
+<note type="REM.">Naguère, d'après Marguerite Buffet, Observ. p. 52, en 1668, était un mot suranné ; il fallait dire depuis peu. Purisme sans raison ; car les meilleurs auteurs employaient le mot qui est resté en usage, surtout en poésie et dans le style relevé. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1807,7 +1807,7 @@
 </entry>
 <entry xml:id="naie">
 <form>
-<orth>NAIE ou NAYE</orth>
+<orth>NAIE</orth><orth>NAYE</orth>
 <pron>nê</pron>
 <gram>s. f.</gram>
 </form>
@@ -1959,8 +1959,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">NAÏF, NATUREL. Le naturel est opposé au recherché et au forcé ; le naïf est opposé au réfléchi, et appartient au sentiment. En littérature, le naïf est le naturel dans les petites choses. </re>
-<note type="H">
+<re type="SYN.">NAÏF, NATUREL. Le naturel est opposé au recherché et au forcé ; le naïf est opposé au réfléchi, et appartient au sentiment. En littérature, le naïf est le naturel dans les petites choses. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -2198,7 +2198,7 @@
 <dictScrap>Œuf <oVar>nain</oVar>, œuf de poule qui ne contient point de jaune.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -2780,7 +2780,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -3007,7 +3007,7 @@
 <sense n="5">
 <dictScrap>Terme de blason. Se dit des animaux dont on ne voit que le haut du corps, les pieds de devant et le bout de la queue.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -3586,7 +3586,7 @@
 <dictScrap>Il se conjugue avec l'auxiliaire être.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -3857,7 +3857,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -3987,9 +3987,9 @@
 </cit>
 </sense>
 </sense>
-<re type="S">1. UNE NAÏVETÉ, LA NAÏVETÉ., La naïveté est la qualité par laquelle on est naïf. Une naïveté est une parole dite par naïveté. </re>
-<re type="S">2. NAÏVETÉ, INGÉNUITÉ., Étymologiquement, ces mots ont une grande analogie, puisque dans naïveté il y a natif, et dans ingénuité, il y a génération (latin gignere). Ingénuité se dit de celui qui parle sans déguisement et en obéissant à sa franchise naturelle. Naïveté a un sens plus étendu ; il se dit non-seulement du discours, mais aussi de toute la manière d'être. </re>
-<note type="H">
+<re type="SYN.">1. UNE NAÏVETÉ, LA NAÏVETÉ., La naïveté est la qualité par laquelle on est naïf. Une naïveté est une parole dite par naïveté. </re>
+<re type="SYN.">2. NAÏVETÉ, INGÉNUITÉ., Étymologiquement, ces mots ont une grande analogie, puisque dans naïveté il y a natif, et dans ingénuité, il y a génération (latin gignere). Ingénuité se dit de celui qui parle sans déguisement et en obéissant à sa franchise naturelle. Naïveté a un sens plus étendu ; il se dit non-seulement du discours, mais aussi de toute la manière d'être. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -4096,7 +4096,7 @@
 </entry>
 <entry xml:id="nandu">
 <form>
-<orth>NANDU ou NANDOU</orth>
+<orth>NANDU</orth><orth>NANDOU</orth>
 <pron>nan-du ou nan-dou</pron>
 <gram>s. m.</gram>
 </form>
@@ -4109,7 +4109,7 @@
 </entry>
 <entry xml:id="nanguer">
 <form>
-<orth>NANGUER ou NANGUEUR</orth>
+<orth>NANGUER</orth><orth>NANGUEUR</orth>
 <pron>nan-ghèr ou nangheur</pron>
 <gram>s. m.</gram>
 </form>
@@ -4302,7 +4302,7 @@
 <dictScrap>On dit dans le même sens : Il a perdu sa place, mais il est bien <oVar>nanti</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -4370,7 +4370,7 @@
 <dictScrap>Pays de <oVar>nantissement</oVar>, ceux où l'usage voulait qu'on se fît inscrire sur le registre public, quand on constituait une rente ; ce qui se faisait pour obtenir une sûreté privilégiée sur les biens du débiteur, en vertu de laquelle on était préféré à ceux qui n'étaient pas déjà inscrits ou qui ne l'étaient qu'après ; c'est ce que nous nommons aujourd'hui hypothèque.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4428,7 +4428,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4502,7 +4502,7 @@
 <sense n="3">
 <dictScrap>Terme de chimie. Nom donné par L. Gmelin aux éthers qui contiennent en totalité ou en partie l'acide qui a déterminé leur formation.</dictScrap>
 </sense>
-<note type="R">Jusqu'à son édition de 1835 l'Académie avait donné à ce mot le genre féminin. </note>
+<note type="REM.">Jusqu'à son édition de 1835 l'Académie avait donné à ce mot le genre féminin. </note>
 <etym>Lat. naphta, naphthas, mot qu'on a dit égyptien.</etym>
 </entry>
 <entry xml:id="naphtéine">
@@ -4564,7 +4564,7 @@
 <dictScrap>Aller à <oVar>Naples</oVar> sans passer les monts, contracter une maladie vénérienne.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4863,7 +4863,7 @@
 </sense>
 <sense n="11">
 <dictScrap>Nom que, dans la filature du coton par mécanique, on donne au coton sortant de la première carde. </dictScrap>
-<re type="P"><form>Celui qui met la nappe est toujours le plus foulé</form>, c'est-à-dire celui qui donne à manger est celui qui a le plus de frais et le plus de peine. </re>
+<re type="PROV."><form>Celui qui met la nappe est toujours le plus foulé</form>, c'est-à-dire celui qui donne à manger est celui qui a le plus de frais et le plus de peine. </re>
 </sense>
 <sense n="12" ana="supplement">
 <dictScrap><oVar>Nappe</oVar> en étain, feuille d'étain qui recouvre les comptoirs des marchands de vin.</dictScrap>
@@ -4874,7 +4874,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -4948,7 +4948,7 @@
 <dictScrap>On dit aujourd'hui plutôt lingerie.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -5019,7 +5019,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -5055,7 +5055,7 @@
 <dictScrap>Faire <oVar>naqueter</oVar> quelqu'un, le faire attendre longtemps.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5154,7 +5154,7 @@
 <sense n="2">
 <dictScrap>Se dit aussi de la fleur de cette plante. Narcisse odoriférant.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -5201,7 +5201,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5334,7 +5334,7 @@
 <dictScrap>Substantivement. Ce livre est un vrai <oVar>narcotique</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -5407,7 +5407,7 @@
 <dictScrap><oVar>Nard</oVar> sauvage, le cabaret.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5447,7 +5447,7 @@
 </entry>
 <entry xml:id="narghileh">
 <form>
-<orth>NARGHILEH ou NARGUILÉ</orth>
+<orth>NARGHILEH</orth><orth>NARGUILÉ</orth>
 <pron>nar-ghi-lé</pron>
 <gram>s. m.</gram>
 </form>
@@ -5550,7 +5550,7 @@
 <dictScrap>V. Hugo a dit <oVar>nargue</oVar> à : Barons, <oVar>nargue</oVar> au saint-père, et <oVar>nargue</oVar> à l'empereur ! Burgraves, II, 1.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5644,7 +5644,7 @@
 <dictScrap>Les romantiques s'en sont moqués : V. Hugo a dit dans ses Contempl. Réponse à un acte d'accusation : J'ai dit à la <oVar>narine</oVar> : eh mais ! tu n'es qu'un nez ! Cela n'empêche point que <oVar>narine</oVar> en ce sens ne soit fort bon. V. Hugo lui-même a dit : Et lui, l'orgueil gonflait sa puissante <oVar>narine</oVar>, Chants du crépuscule, Napoléon II.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -5737,7 +5737,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5787,7 +5787,7 @@
 <sense>
 <dictScrap>Celui qui fait une narration.</dictScrap>
 </sense>
-<note type="R">L'Académie n'a pas le féminin narratrice ; mais rien n'empêche de le former. </note>
+<note type="REM.">L'Académie n'a pas le féminin narratrice ; mais rien n'empêche de le former. </note>
 <etym>Lat. narratorem, de narrare, narrer.</etym>
 <re ana="supplement">
 <re>NARRATEUR.  Ajoutez : <cit><quote>Il [l'historien] n'est pas poëte, il est narrateur</quote><bibl><author>RAC.</author><biblScope>Lexique, éd. P. Mesnard.</biblScope></bibl></cit> </re>
@@ -5812,7 +5812,7 @@
 <sense n="2">
 <dictScrap>Qui fait connaître, qui expose en détail. Procès-verbal <oVar>narratif</oVar> du fait.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -5879,7 +5879,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -5982,7 +5982,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6050,8 +6050,8 @@
 </cit>
 </sense>
 </sense>
-<re type="S">NARRER, RACONTER. Raconter, c'est rendre compte et il ne signifie faire un récit que par un détournement de sens. Au contraire narrer est l'expression directe. La nuance que l'usage a mise est que narrer se rapporte plus que raconter à l'habileté et au détail avec lequel le fait est exposé. </re>
-<note type="H">
+<re type="SYN.">NARRER, RACONTER. Raconter, c'est rendre compte et il ne signifie faire un récit que par un détournement de sens. Au contraire narrer est l'expression directe. La nuance que l'usage a mise est que narrer se rapporte plus que raconter à l'habileté et au détail avec lequel le fait est exposé. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6210,8 +6210,8 @@
 <sense n="4" ana="supplement">
 <dictScrap>Terme d'anthropologie. Indice <oVar>nasal</oVar>, voy. <ref target="indice#supplement">INDICE</ref> au Supplément.</dictScrap>
 </sense>
-<note type="R">Des grammairiens veulent qu'on dise des sons nasals ; mais l'usage admet le pluriel en aux. </note>
-<note type="H">
+<note type="REM.">Des grammairiens veulent qu'on dise des sons nasals ; mais l'usage admet le pluriel en aux. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -6282,7 +6282,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Nasalité n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835 ; il est dû à d'Olivet. </note>
+<note type="REM.">Nasalité n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835 ; il est dû à d'Olivet. </note>
 <etym>Nasal.</etym>
 </entry>
 <entry xml:id="nasard">
@@ -6410,7 +6410,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6480,7 +6480,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6558,7 +6558,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6750,7 +6750,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -7024,7 +7024,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -7165,8 +7165,8 @@
 </cit>
 </sense>
 </sense>
-<note type="R">Natal n'a point de pluriel masculin, grâce à une bizarrerie de l'usage. Cependant Trévoux parle de jeux nataux que l'on célébrait au jour natal de certains personnages. Pourquoi ne le reprendrait-on pas ? </note>
-<note type="H">
+<note type="REM.">Natal n'a point de pluriel masculin, grâce à une bizarrerie de l'usage. Cependant Trévoux parle de jeux nataux que l'on célébrait au jour natal de certains personnages. Pourquoi ne le reprendrait-on pas ? </note>
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -7379,8 +7379,8 @@
 </cit>
 </sense>
 </sense>
-<re type="S">NATIF, NÉ. Natif suppose le domicile fixe des parents, au lieu que né suppose seulement la naissance. Celui qui naît dans un endroit par accident, est né dans cet endroit ; celui qui y naît parce que son père et sa mère y ont leur séjour, en est natif, LAVEAUX. </re>
-<note type="H">
+<re type="SYN.">NATIF, NÉ. Natif suppose le domicile fixe des parents, au lieu que né suppose seulement la naissance. Celui qui naît dans un endroit par accident, est né dans cet endroit ; celui qui y naît parce que son père et sa mère y ont leur séjour, en est natif, LAVEAUX. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -7639,8 +7639,8 @@
 <sense n="8">
 <dictScrap>Collége des quatre <oVar>nations</oVar>, collége fondé par Mazarin, pour recevoir les élèves appartenant aux provinces espagnoles, italiennes, allemandes et flamandes nouvellement réunies à la France.</dictScrap>
 </sense>
-<re type="S">NATION, PEUPLE. Dans le sens étymologique, nation marque un rapport commun de naissance, d'origine, et peuple un rapport de nombre et d'ensemble. De là résulte que l'usage considère surtout nation comme représentant le corps des habitants d'un même pays, et peuple comme représentant ce même corps dans ses rapports politiques. Mais l'usage confond souvent ces deux mots ; et, sous la constitution de 1791, on avait adopté la formule : la nation, la loi, le roi. </re>
-<note type="H">
+<re type="SYN.">NATION, PEUPLE. Dans le sens étymologique, nation marque un rapport commun de naissance, d'origine, et peuple un rapport de nombre et d'ensemble. De là résulte que l'usage considère surtout nation comme représentant le corps des habitants d'un même pays, et peuple comme représentant ce même corps dans ses rapports politiques. Mais l'usage confond souvent ces deux mots ; et, sous la constitution de 1791, on avait adopté la formule : la nation, la loi, le roi. </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -7710,7 +7710,7 @@
 <sense n="3">
 <dictScrap>S. m. pl. Les <oVar>nationaux</oVar>, la totalité de ceux qui composent une nation ; par opposition à étrangers, ceux qui appartiennent aux autres nations. Cet établissement n'est peut-être pas assez connu des étrangers et même des <oVar>nationaux</oVar>. Une cavalerie, dont la discipline et les armes étaient préférables à celles des <oVar>nationaux</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -7790,7 +7790,7 @@
 <dictScrap>Le principe des <oVar>nationalités</oVar>, principe d'après lequel des portions d'une race d'hommes tendent à se constituer en un seul corps politique. C'est le principe des <oVar>nationalités</oVar> qui transforme aujourd'hui l'Allemagne.</dictScrap>
 </sense>
 </sense>
-<note type="R">Nationalité n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835 : il fut admis vers 1823 dans Boiste avec cette citation : Les Français n'ont point de nationalité, BONAPARTE. Il est à croire qu'en cet exemple le mot est employé comme synonyme de race. </note>
+<note type="REM.">Nationalité n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835 : il fut admis vers 1823 dans Boiste avec cette citation : Les Français n'ont point de nationalité, BONAPARTE. Il est à croire qu'en cet exemple le mot est employé comme synonyme de race. </note>
 <etym>National.</etym>
 </entry>
 <entry xml:id="nativement">
@@ -7890,7 +7890,7 @@
 <dictScrap>Thème de <oVar>nativité</oVar>, un horoscope dressé à l'heure de la naissance, par les règles de l'astrologie.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -7979,7 +7979,7 @@
 </entry>
 <entry xml:id="natron">
 <form>
-<orth>NATRON ou NATRUM</orth>
+<orth>NATRON</orth><orth>NATRUM</orth>
 <pron>na-tron ou na-trom'</pron>
 <gram>s. m.</gram>
 </form>
@@ -8080,7 +8080,7 @@
 <sense n="5" ana="supplement">
 <dictScrap>Nom donné à une petite pâtisserie faite en forme de <oVar>natte</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -8145,7 +8145,7 @@
 <sense n="3">
 <dictScrap>Se <oVar>natter</oVar>, v. réfl. Être tressé en <oVar>natte</oVar>. Ces cheveux se nattent facilement.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -8233,7 +8233,7 @@
 <sense n="3">
 <dictScrap>Fig. Action de transporter un mot, une phrase d'une langue dans une autre.</dictScrap>
 </sense>
-<re type="S">NATURALISATION, ACCLIMATATION. La naturalisation diffère de l'acclimatation, en ce que celle-ci, se rapportant aux individus, leur permet de vivre dans le nouveau climat sans leur permettre de s'y reproduire d'une manière régulière et naturelle, tandis que la naturalisation est toujours accompagnée de la faculté de se reproduire régulièrement. </re>
+<re type="SYN.">NATURALISATION, ACCLIMATATION. La naturalisation diffère de l'acclimatation, en ce que celle-ci, se rapportant aux individus, leur permet de vivre dans le nouveau climat sans leur permettre de s'y reproduire d'une manière régulière et naturelle, tandis que la naturalisation est toujours accompagnée de la faculté de se reproduire régulièrement. </re>
 <etym>Naturaliser.</etym>
 </entry>
 <entry xml:id="naturalisé">
@@ -8372,7 +8372,7 @@
 <sense n="8" ana="supplement">
 <dictScrap>Préparer les dépouilles des animaux, pour leur rendre l'aspect naturel. J'ai porté chez le fourreur une belle peau de renard, pour en faire une descente de lit ; la tête sera naturalisée.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -8503,7 +8503,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -8563,7 +8563,7 @@
 <sense n="3" ana="supplement">
 <dictScrap>Caractère naturel, par opposition à surnaturel. La <oVar>naturalité</oVar> d'un phénomène.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -9850,10 +9850,10 @@
 <dictScrap>Vice contre <oVar>nature</oVar>, la pédérastie.</dictScrap>
 </sense>
 </sense>
-<re type="P">L'habitude est une seconde nature. </re>
-<re type="P">L'accoutumance est une autre nature. </re>
-<re type="P"><form>Nature passe nourriture, ou, inversement, nourriture passe nature</form>, c'est-à-dire que tantôt la nature prévaut sur l'éducation, tantôt l'éducation sur la nature. </re>
-<note type="H">
+<re type="PROV.">L'habitude est une seconde nature. </re>
+<re type="PROV.">L'accoutumance est une autre nature. </re>
+<re type="PROV."><form>Nature passe nourriture, ou, inversement, nourriture passe nature</form>, c'est-à-dire que tantôt la nature prévaut sur l'éducation, tantôt l'éducation sur la nature. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -10892,11 +10892,11 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Naturel, dans le sens de natif, ne s'emploie pas en parlant des nations civilisées : on ne dit pas : les naturels de France, d'Espagne. Mais on s'en sert pour désigner, par plaisanterie, à propos de quelques singularités, des gens d'une province, d'une localité : les naturels de cette province, de ce village. </p>
 <p>2. Il a l'esprit naturel, et il a de l'esprit naturel sont très différents. Le premier signifie que son esprit est sans affectation ; les second, que la nature lui a départi de l'esprit. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -11226,7 +11226,7 @@
 <dictScrap><oVar>Naturellement</oVar> parlant, en parlant sans figure.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -11528,7 +11528,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -11607,8 +11607,8 @@
 <sense>
 <dictScrap>Faire naufrage.</dictScrap>
 </sense>
-<note type="R">Ce mot, qui s'entend de soi et qui est soutenu par naufragé, a vieilli, mais il mériterait d'être repris. </note>
-<note type="H">
+<note type="REM.">Ce mot, qui s'entend de soi et qui est soutenu par naufragé, a vieilli, mais il mériterait d'être repris. </note>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -11631,8 +11631,8 @@
 <sense>
 <dictScrap>Sujet à faire naufrage. Une barque naufragère.</dictScrap>
 </sense>
-<note type="R">Ce mot élégant et poétique mériterait d'être repris. </note>
-<note type="H">
+<note type="REM.">Ce mot élégant et poétique mériterait d'être repris. </note>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -11675,7 +11675,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -11750,7 +11750,7 @@
 <dictScrap>Fig. Qui déplaît en excitant le dégoût. Ces détails sont <oVar>nauséabonds</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="R">Nauséabond n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835. </note>
+<note type="REM.">Nauséabond n'est dans le Dictionnaire de l'Académie que depuis l'édition de 1835. </note>
 <etym>Lat. nauseabundus, de nausea, nausée.</etym>
 </entry>
 <entry xml:id="nausée">
@@ -11782,7 +11782,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -11946,7 +11946,7 @@
 <dictScrap><oVar>Nautonier</oVar> est usité surtout en poésie, ou en parlant de la marine des peuples anciens, ou dans le style élevé.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -12048,8 +12048,8 @@
 <dictScrap>Couronne <oVar>navale</oVar>, se disait, chez les anciens Romains, d'une couronne qu'on donnait à ceux qui s'étaient distingués dans un combat <oVar>naval</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="R">L'Académie dit que naval n'a point de pluriel masculin ; mais plusieurs grammairiens pensent qu'on pourrait dire des combats navals.  <cit><quote>Il faut dire fatals et navals, c'est la règle</quote><bibl><author>BOURSAULT</author><biblScope>Mercure galant, IV, 7</biblScope></bibl></cit> <cit><quote>Néanmoins ces pluriels paraîtront toujours durs à une oreille française</quote><bibl><author>JULLIEN</author><biblScope/></bibl></cit> D'un autre côté Mme de Sévigné n'a pas hésité à dire navaux. <cit><quote>Notre flotte est toute revenue paisiblement à Belle-Île.... vous voyez bien que cet homme ne disait pas mal : il n'y a plus de combats navaux, ni de batailles qui décident depuis celle d'Actium</quote><bibl><author>SÉV.</author><biblScope>7 sept. 1689</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM.">L'Académie dit que naval n'a point de pluriel masculin ; mais plusieurs grammairiens pensent qu'on pourrait dire des combats navals.  <cit><quote>Il faut dire fatals et navals, c'est la règle</quote><bibl><author>BOURSAULT</author><biblScope>Mercure galant, IV, 7</biblScope></bibl></cit> <cit><quote>Néanmoins ces pluriels paraîtront toujours durs à une oreille française</quote><bibl><author>JULLIEN</author><biblScope/></bibl></cit> D'un autre côté Mme de Sévigné n'a pas hésité à dire navaux. <cit><quote>Notre flotte est toute revenue paisiblement à Belle-Île.... vous voyez bien que cet homme ne disait pas mal : il n'y a plus de combats navaux, ni de batailles qui décident depuis celle d'Actium</quote><bibl><author>SÉV.</author><biblScope>7 sept. 1689</biblScope></bibl></cit> </note>
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -12155,7 +12155,7 @@
 <dictScrap>Terme de pêche. Se dit, particulièrement en Normandie, des bateaux chargés de poisson salé.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -12199,7 +12199,7 @@
 <sense n="4" ana="supplement">
 <dictScrap><oVar>Navet</oVar> de Suède, nom qui a été donné au rutabaga.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -12251,7 +12251,7 @@
 <sense>
 <dictScrap>Terrain planté de navets.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -12283,8 +12283,8 @@
 <sense n="4">
 <dictScrap>Grosse navette, le colza.</dictScrap>
 </sense>
-<note type="R">Quoiqu'on dise huile de navette, la graine ne porte pas le nom de navette ; c'est ainsi qu'on appelle huile de lin l'huile tirée de la graine de lin, LEGOARANT. </note>
-<note type="H">
+<note type="REM.">Quoiqu'on dise huile de navette, la graine ne porte pas le nom de navette ; c'est ainsi qu'on appelle huile de lin l'huile tirée de la graine de lin, LEGOARANT. </note>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -12384,7 +12384,7 @@
 <sense n="8" ana="supplement">
 <dictScrap>Nom, en Bretagne, d'une espèce d'échaudé faite de pâte de froment et en forme de navette.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -12435,7 +12435,7 @@
 <sense n="3">
 <dictScrap>Terme de vétérinaire. Maladie <oVar>naviculaire</oVar>, inflammation de la gaîne sésamoïdienne du cheval.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -12516,7 +12516,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -12634,7 +12634,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -12791,7 +12791,7 @@
 <sense n="7" ana="supplement">
 <dictScrap><oVar>Navigation</oVar> par l'arc de grand cercle, voy. <ref target="orthodromie">ORTHODROMIE</ref> au Supplément.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -12869,8 +12869,8 @@
 <dictScrap>On dit quelquefois <oVar>naviguer</oVar> l'un et l'autre océan.</dictScrap>
 </sense>
 </sense>
-<note type="R">On disait de préférence, dans le XVIIe siècle, naviger, forme qui a duré jusque dans le XVIIIe : Tous les gens de mer disent naviguer ; mais à la cour on dit naviger, et tous les bons auteurs l'écrivent ainsi, VAUGEL. Rem. t. I, p. 105, dans POUGENS.  <cit><quote>Façon de naviger nouvelle</quote><bibl><author>LA FONT.</author><biblScope>Fiancée.</biblScope></bibl></cit> <cit><quote>Puis bientôt en grande eau sur le fleuve de Tendre Naviger à souhait</quote><bibl><author>BOILEAU</author><biblScope>Sat. x.</biblScope></bibl></cit> <cit><quote>Les anciens, n'ayant pas de boussole, ne pouvaient guère naviger que sur les côtes</quote><bibl><author>MONTESQ.</author><biblScope>Rom. IV</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM.">On disait de préférence, dans le XVIIe siècle, naviger, forme qui a duré jusque dans le XVIIIe : Tous les gens de mer disent naviguer ; mais à la cour on dit naviger, et tous les bons auteurs l'écrivent ainsi, VAUGEL. Rem. t. I, p. 105, dans POUGENS.  <cit><quote>Façon de naviger nouvelle</quote><bibl><author>LA FONT.</author><biblScope>Fiancée.</biblScope></bibl></cit> <cit><quote>Puis bientôt en grande eau sur le fleuve de Tendre Naviger à souhait</quote><bibl><author>BOILEAU</author><biblScope>Sat. x.</biblScope></bibl></cit> <cit><quote>Les anciens, n'ayant pas de boussole, ne pouvaient guère naviger que sur les côtes</quote><bibl><author>MONTESQ.</author><biblScope>Rom. IV</biblScope></bibl></cit> </note>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -13011,9 +13011,9 @@
 <sense n="4">
 <dictScrap>Terme d'astronomie. Le <oVar>Navire</oVar> Argo, constellation de l'hémisphère austral.</dictScrap>
 </sense>
-<note type="R">Ce mot a été longtemps d'un genre incertain, tantôt masculin, tantôt féminin, comme on peut voir à l'historique. Malherbe l'a fait féminin dans ce vers : Car aux flots de la peur sa navire qui tremble, I, 4 ; Ménage, dans sa remarque sur ce vers, dit que navire féminin est partout usité en poésie où il fait mieux. Bossuet aussi : <cit><quote>De même que l'ancre empêche que la navire ne soit emportée...</quote><bibl><author>BOSSUET</author><biblScope>dans GANDAR, Choix de sermons de la jeunesse de Bossuet, p. 131</biblScope></bibl></cit> Aujourd'hui navire n'est plus que masculin. </note>
-<re type="S">BÂTIMENT, VAISSEAU, NAVIRE. Bâtiment est le terme général. Vaisseau se dit plutôt des bâtiments de guerre, et navire de ce qui n'est pas bâtiment de guerre. Ces distinctions, qui sont techniques, n'empêchent pas que V. Hugo ait bien dit : Le navire à trois ponts qui tonne avec l'orage, Feuilles d'automne, I. Le langage commun confond navire et vaisseau ; étymologiquement, bâtiment se rapporte à la construction ; vaisseau à la contenance, à la capacité ; et navire, qui est le plus précis, à l'acte d'aller sur mer. </re>
-<note type="H">
+<note type="REM.">Ce mot a été longtemps d'un genre incertain, tantôt masculin, tantôt féminin, comme on peut voir à l'historique. Malherbe l'a fait féminin dans ce vers : Car aux flots de la peur sa navire qui tremble, I, 4 ; Ménage, dans sa remarque sur ce vers, dit que navire féminin est partout usité en poésie où il fait mieux. Bossuet aussi : <cit><quote>De même que l'ancre empêche que la navire ne soit emportée...</quote><bibl><author>BOSSUET</author><biblScope>dans GANDAR, Choix de sermons de la jeunesse de Bossuet, p. 131</biblScope></bibl></cit> Aujourd'hui navire n'est plus que masculin. </note>
+<re type="SYN.">BÂTIMENT, VAISSEAU, NAVIRE. Bâtiment est le terme général. Vaisseau se dit plutôt des bâtiments de guerre, et navire de ce qui n'est pas bâtiment de guerre. Ces distinctions, qui sont techniques, n'empêchent pas que V. Hugo ait bien dit : Le navire à trois ponts qui tonne avec l'orage, Feuilles d'automne, I. Le langage commun confond navire et vaisseau ; étymologiquement, bâtiment se rapporte à la construction ; vaisseau à la contenance, à la capacité ; et navire, qui est le plus précis, à l'acte d'aller sur mer. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -13113,7 +13113,7 @@
 <sense>
 <dictScrap>Qui navre. Une scène <oVar>navrante</oVar>. Des maux <oVar>navrants</oVar>.</dictScrap>
 </sense>
-<note type="R">On a proposé de former le substantif navrance ; il serait utile ; mais jusqu'à présent il n'a pas été adopté. </note>
+<note type="REM.">On a proposé de former le substantif navrance ; il serait utile ; mais jusqu'à présent il n'a pas été adopté. </note>
 </entry>
 <entry xml:id="navré">
 <form>
@@ -13223,7 +13223,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -13803,13 +13803,13 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. L'e de ne s'élide devant une voyelle ou une h muette : Il n'a pas ; Il n'habite pas ici. </p>
 <p>2. Avec ne.... pas, un verbe et un complément, on met de sans article, que le complément soit au singulier ou au pluriel : Je n'ai pas d'argent ; Je n'ai point vu de loups. </p>
 <p>3. Avec ne.... jamais, un verbe et un complément, on met la préposition de sans article, que le complément soit au singulier ou au pluriel : Je n'ai jamais vu de loups ; Il n'y a jamais de boue en cet endroit. </p>
 <p>4. Avec ne, un verbe et un complément, si le complément est au singulier, on met de et l'article défini : Il n'a versé de l'eau à personne ; Il n'a donné du pain à nul autre qu'à vous ; mais on dirait aussi : Il n'a répandu d'eau nulle part ; Il n'a donné de vin à personne. Si le complément est au pluriel, on met de sans article : Il n'a dit d'injures à personne ; mais on dirait aussi : Il n'a dit des injures à personne. Bref la négation ne n'empêche pas l'emploi rationnel ou le rejet de l'article. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>IXe s.</label>
 <cit>
@@ -14206,7 +14206,7 @@
 <re ana="supplement" orig=" NE. Ajoutez : ">
 
 
-<note type="R" ana="supplement">5. Ne, construit déjà avec jamais ou autre mot semblable, n'empêche pas de joindre un autre mot analogue.  <cit><quote>Vous ne mettez jamais votre santé en aucune considération</quote><bibl><author>SÉV.</author><biblScope>2 nov. 1679</biblScope></bibl></cit> </note>
+<note type="REM." ana="supplement">5. Ne, construit déjà avec jamais ou autre mot semblable, n'empêche pas de joindre un autre mot analogue.  <cit><quote>Vous ne mettez jamais votre santé en aucune considération</quote><bibl><author>SÉV.</author><biblScope>2 nov. 1679</biblScope></bibl></cit> </note>
 </re>
 </entry>
 <entry xml:id="né">
@@ -14666,7 +14666,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -15196,7 +15196,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -15430,7 +15430,7 @@
 <dictScrap>Terme de vétérinaire. La pourriture des moutons ; on l'appelle aussi nébladure.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -15615,7 +15615,7 @@
 </sense>
   
 
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -15650,7 +15650,7 @@
 <re ana="supplement" orig=" NÉBULEUX. ">
 
 
-<note type="R" ana="supplement">À propos de la phrase de Lesage : Je te trouve l'air nébuleux (voy. le n° 1 au Dictionnaire), François de Neufchâteau avait dit que c'était une expression recherchée et convenable à un petit-maître, et que Dancourt l'avait signalée en faisant dire à une greffière : Cette journée-ci sera malheureuse pour moi ; j'ai éternué trois fois à jeun ; j'ai le teint brouillé, l'œil nébuleux ; et je n'ai jamais pu donner ce matin un bon tour à mon crochet gauche, Bourgeoises de qualité, I, 3. Fr. de Neufchâteau est trop sévère. En tout cas, il se trompe en déclarant cette expression nouvelle en 1700, époque où Dancourt fit représenter sa pièce ; nébuleux en ce sens se trouve dans Scarron. </note>
+<note type="REM." ana="supplement">À propos de la phrase de Lesage : Je te trouve l'air nébuleux (voy. le n° 1 au Dictionnaire), François de Neufchâteau avait dit que c'était une expression recherchée et convenable à un petit-maître, et que Dancourt l'avait signalée en faisant dire à une greffière : Cette journée-ci sera malheureuse pour moi ; j'ai éternué trois fois à jeun ; j'ai le teint brouillé, l'œil nébuleux ; et je n'ai jamais pu donner ce matin un bon tour à mon crochet gauche, Bourgeoises de qualité, I, 3. Fr. de Neufchâteau est trop sévère. En tout cas, il se trompe en déclarant cette expression nouvelle en 1700, époque où Dancourt fit représenter sa pièce ; nébuleux en ce sens se trouve dans Scarron. </note>
 </re>
 </entry>
 <entry xml:id="nébulosité">
@@ -16096,7 +16096,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -16198,7 +16198,7 @@
 <sense n="3">
 <dictScrap>En théologie et en philosophie, il s'emploie par opposition à librement.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -16738,7 +16738,7 @@
 </sense>
 <sense n="13">
 <dictScrap>Par nécessité, loc. adv. À cause d'un besoin pressant. Il vend sa bibliothèque par nécessité. </dictScrap>
-<re type="P"><form>Nécessité n'a point de loi</form>, c'est-à-dire un extrême péril, un extrême besoin, peuvent rendre excusables des actions blâmables en elles-mêmes. </re>
+<re type="PROV."><form>Nécessité n'a point de loi</form>, c'est-à-dire un extrême péril, un extrême besoin, peuvent rendre excusables des actions blâmables en elles-mêmes. </re>
 </sense>
 <sense n="14" ana="supplement">
 <dictScrap>Manque.</dictScrap>
@@ -16767,7 +16767,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -17045,7 +17045,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -17122,7 +17122,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -17252,7 +17252,7 @@
 </entry>
 <entry xml:id="nécromance">
 <form>
-<orth>NÉCROMANCE ou NÉCROMANCIE</orth>
+<orth>NÉCROMANCE</orth><orth>NÉCROMANCIE</orth>
 <pron>né-kro-man-s' ou né-kro-man-sie</pron>
 <gram>s. f.</gram>
 </form>
@@ -17269,7 +17269,7 @@
 <dictScrap>Il se prend quelquefois pour magie en général.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -17330,7 +17330,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -17356,7 +17356,7 @@
 </entry>
 <entry xml:id="nécromant">
 <form>
-<orth>NÉCROMANT ou NÉGROMANT</orth>
+<orth>NÉCROMANT</orth><orth>NÉGROMANT</orth>
 <pron>né-kro-man ou né-gro-man</pron>
 <gram>s. m.</gram>
 </form>
@@ -17463,7 +17463,7 @@
 <sense>
 <dictScrap>Terme de médecine. Examen d'un cadavre que l'on ouvre et dissèque.</dictScrap>
 </sense>
-<note type="R">On a proposé, avec raison, de substituer nécropsie ou nécroscopie à autopsie, qui ne présente pas un sens déterminé, et qui est cependant beaucoup plus usité. </note>
+<note type="REM.">On a proposé, avec raison, de substituer nécropsie ou nécroscopie à autopsie, qui ne présente pas un sens déterminé, et qui est cependant beaucoup plus usité. </note>
 <etym>Nécro..., et terme grec signifiant examiner.</etym>
 </entry>
 <entry xml:id="nécrose">
@@ -17613,7 +17613,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -17661,7 +17661,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -17822,7 +17822,7 @@
 <sense n="5">
 <dictScrap>Dans la vie privée du moyen âge, on appelait <oVar>nef</oVar> un vase allongé et de vaste capacité, qu'on plaçait sur la table en face du seigneur. Cette <oVar>nef</oVar> contenait tout ce que la cuisine ne fournissait pas ; j'entends les épices, les vins, les vases à boire, les cuillers. DE LABORDE, Émaux, p. 403.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -17971,9 +17971,9 @@
 <dictScrap>Cela me coûte de bon argent, je ne l'ai pas eu pour des <oVar>nèfles</oVar>.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Avec le temps et la paille les nèfles mûrissent</form>, c'est-à-dire il faut exécuter les choses avec constance et patience.  <cit><quote>Cet hiver, je travaillerai à la composition du sujet de saint Paul ; et, comme dit le proverbe italien, avec le temps et la paille se mûriront les nèfles</quote><bibl><author>POUSSIN</author><biblScope>Lett. 8 oct. 1649</biblScope></bibl></cit> 
+<re type="PROV."><form>Avec le temps et la paille les nèfles mûrissent</form>, c'est-à-dire il faut exécuter les choses avec constance et patience.  <cit><quote>Cet hiver, je travaillerai à la composition du sujet de saint Paul ; et, comme dit le proverbe italien, avec le temps et la paille se mûriront les nèfles</quote><bibl><author>POUSSIN</author><biblScope>Lett. 8 oct. 1649</biblScope></bibl></cit> 
 </re>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -18019,7 +18019,7 @@
 <dictScrap><oVar>Néflier</oVar> buisson-ardent, <oVar>néflier</oVar> parasol, arbres d'ornement.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -18346,7 +18346,7 @@
 <sense n="12" ana="supplement">
 <dictScrap>S. m. Un <oVar>négatif</oVar>, une épreuve <oVar>négative</oVar>, en photographie.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -18397,7 +18397,7 @@
 <sense n="2">
 <dictScrap>Terme de grammaire. Mot qui sert à nier. Deux <oVar>négations</oVar> valent une affirmation, c'est-à-dire la <oVar>négation</oVar> d'une <oVar>négation</oVar> vaut une affirmation, par exemple en latin où non nemo signifie quelqu'un.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -18463,7 +18463,7 @@
 <dictScrap>Terme de jurisprudence. Action <oVar>négatoire</oVar>, action par laquelle on veut faire déclarer que son adversaire n'a pas tel ou tel droit.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -18793,7 +18793,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -19011,7 +19011,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -19117,7 +19117,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -19421,7 +19421,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -19541,7 +19541,7 @@
 <dictScrap>Aujourd'hui on ne dirait plus, comme Montesquieu, le <oVar>négoce</oVar> d'Athènes, mais le commerce d'Athènes ; commerce est réservé pour un État, une nation, un peuple.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -19756,7 +19756,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -19892,7 +19892,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -20061,7 +20061,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -20198,7 +20198,7 @@
 <dictScrap>Papillon du genre satyre.</dictScrap>
 </sense>
 </sense>
-<re type="S">NÈGRE, NOIR. Quand les Portugais découvrirent la côte occidentale de l'Afrique, ils donnèrent aux peuples noirs qui l'habitent le nom de negro, qui signifie noir. De là vient notre mot nègre. L'usage a gardé quelque chose de cette origine. Tandis que noir se rapporte à la couleur, nègre se rapporte aussi au pays ; et l'on dit plutôt les nègres, en parlant des habitants de la côte occidentale d'Afrique que les noirs. </re>
+<re type="SYN.">NÈGRE, NOIR. Quand les Portugais découvrirent la côte occidentale de l'Afrique, ils donnèrent aux peuples noirs qui l'habitent le nom de negro, qui signifie noir. De là vient notre mot nègre. L'usage a gardé quelque chose de cette origine. Tandis que noir se rapporte à la couleur, nègre se rapporte aussi au pays ; et l'on dit plutôt les nègres, en parlant des habitants de la côte occidentale d'Afrique que les noirs. </re>
 <etym>Esp. et ital. negro, du latin niger, noir (voy. <ref target="noir">NOIR</ref>).</etym>
 </entry>
 <entry xml:id="négrerie">
@@ -20213,7 +20213,7 @@
 <dictScrap>Lieu où les nègres travaillent.</dictScrap>
 </sense>
 </sense>
-<note type="R">On devrait écrire nègrerie avec un è grave, comme espièglerie, mièvrerie, etc. PAUTEX. </note>
+<note type="REM.">On devrait écrire nègrerie avec un è grave, comme espièglerie, mièvrerie, etc. PAUTEX. </note>
 <etym>Nègre.</etym>
 </entry>
 <entry xml:id="nègres-cartes">
@@ -20379,7 +20379,7 @@
 </entry>
 <entry xml:id="négromancien">
 <form>
-<orth>NÉGROMANCIEN ou NÉGROMANT</orth>
+<orth>NÉGROMANCIEN</orth><orth>NÉGROMANT</orth>
 <pron>nè-gro-man-siin ou nè-gro-man</pron>
 <gram>s. m.</gram>
 </form>
@@ -20413,7 +20413,7 @@
 </entry>
 <entry xml:id="nègue-chien">
 <form>
-<orth>NÈGUE-CHIEN ou NÈGUE-FOL</orth>
+<orth>NÈGUE-CHIEN</orth><orth>NÈGUE-FOL</orth>
 <pron>né-ghe-chiin ou nè-gue-fol</pron>
 <gram>s. m.</gram>
 </form>
@@ -20698,12 +20698,12 @@
 <sense n="10" ana="supplement">
 <dictScrap>Arbre de <oVar>neige</oVar>, plusieurs arbrisseaux à fleurs blanches nombreuses, tels que le viburnum opulus, BAILLON, Dict. de botan. p. 257.</dictScrap>
 </sense>
-<re type="P">Des neiges et un bon hiver mettent bien des biens à couvert. </re>
-<re type="P">La neige qui tombe engraisse la terre. </re>
-<re type="P">Neige au blé est tel bénéfice Comme au vieillard la bonne pelisse. </re>
-<re type="P">On ne voit cygne noir ni nulle neige noire. </re>
-<re type="P"><form>Il en faut autant qu'il faut de pelotes de neige à chauffer un four</form>, se dit d'une chose qui ne sert aucunement à ce qu'on veut faire. </re>
-<note type="H">
+<re type="PROV.">Des neiges et un bon hiver mettent bien des biens à couvert. </re>
+<re type="PROV.">La neige qui tombe engraisse la terre. </re>
+<re type="PROV.">Neige au blé est tel bénéfice Comme au vieillard la bonne pelisse. </re>
+<re type="PROV.">On ne voit cygne noir ni nulle neige noire. </re>
+<re type="PROV."><form>Il en faut autant qu'il faut de pelotes de neige à chauffer un four</form>, se dit d'une chose qui ne sert aucunement à ce qu'on veut faire. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -20867,10 +20867,10 @@
 <sense>
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
-<re type="P"> Quand il neige sur la montagne, il fait bien froid aux vallées. </re>
+<re type="PROV."> Quand il neige sur la montagne, il fait bien froid aux vallées. </re>
 </sense>
-<note type="R">Chateaubriand a fait un verbe actif de neiger : La lune neige sa lumière, CHATEAUBR. Mémoires, vol. XI, p. 37. </note>
-<note type="H">
+<note type="REM.">Chateaubriand a fait un verbe actif de neiger : La lune neige sa lumière, CHATEAUBR. Mémoires, vol. XI, p. 37. </note>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -20958,7 +20958,7 @@
 <dictScrap><oVar>Neigeuse</oVar> à rubans, la volute hispidule.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -21157,7 +21157,7 @@
 <sense>
 <dictScrap>Voy. <ref target="myosotis">MYOSOTIS</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -21268,7 +21268,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -21353,7 +21353,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -21984,7 +21984,7 @@
 </entry>
 <entry xml:id="népenthacées">
 <form>
-<orth>NÉPENTHACÉES ou NÉPENTHÉES</orth>
+<orth>NÉPENTHACÉES</orth><orth>NÉPENTHÉES</orth>
 <pron>né-pin-ta-sée ou né-pin-tée</pron>
 <gram>s. f. pl.</gram>
 </form>
@@ -21994,7 +21994,7 @@
 </entry>
 <entry xml:id="népenthe">
 <form>
-<orth>NÉPENTHE ou NÉPENTHÈS</orth>
+<orth>NÉPENTHE</orth><orth>NÉPENTHÈS</orth>
 <pron>né-pin-t' ou népin-tès'</pron>
 <gram>s. m.</gram>
 </form>
@@ -22213,7 +22213,7 @@
 <sense n="4">
 <dictScrap>S. f. La <oVar>néphrétique</oVar>, pierre où l'on découvre, en la polissant, un mélange de blanc, de jaune, de bleu et de noir.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -22500,7 +22500,7 @@
 <dictScrap>Terme de zoologie. Char de <oVar>Neptune</oVar>, voy. <ref target="volute">VOLUTE</ref>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -22876,7 +22876,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -23094,7 +23094,7 @@
 <dictScrap>Suture nervale s'est dit aussi pour suture frontale.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -23153,7 +23153,7 @@
 <sense n="2">
 <dictScrap>Terme de relieur. <oVar>Nerver</oVar> un livre, dresser les nerfs ou les cordelettes sur le dos d'un livre, et les fortifier avec de la colle forte et de la toile ou du parchemin.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -23194,7 +23194,7 @@
 <sense n="2">
 <dictScrap>Sous l'influence d'une affection des nerfs. Elle sanglotait <oVar>nerveusement</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -23312,7 +23312,7 @@
 <dictScrap>Terme de zoologie. Dont les ailes portent des nervures colorées.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -23457,7 +23457,7 @@
 <sense>
 <dictScrap>Qualité, état de ce qui est nerveux.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -23529,7 +23529,7 @@
 <sense n="5">
 <dictScrap>Passe-poil sur la couture d'un habit.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -23608,7 +23608,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -23645,7 +23645,7 @@
 <dictScrap>Par extension, le vieillard le plus âgé et le plus respectable. C'est le <oVar>Nestor</oVar> de la compagnie.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -23680,7 +23680,7 @@
 <dictScrap>S. m. Partisan de la doctrine de Nestorius.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -24365,8 +24365,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">NET, PROPRE. Ces deux adjectifs sont opposés à sale. Mais propre n'est arrivé à ce sens que par un long détour, puisque, primitivement, il se dit de ce qui appartient à, de ce qui est bien disposé. Aussi leur opposition à sale est différente : net est tout ce que la propreté rend brillant ; propre est tout ce qui, brillant ou non, n'a rien qui soulève ce certain dégoût laissé par la saleté. </re>
-<note type="H">
+<re type="SYN.">NET, PROPRE. Ces deux adjectifs sont opposés à sale. Mais propre n'est arrivé à ce sens que par un long détour, puisque, primitivement, il se dit de ce qui appartient à, de ce qui est bien disposé. Aussi leur opposition à sale est différente : net est tout ce que la propreté rend brillant ; propre est tout ce qui, brillant ou non, n'a rien qui soulève ce certain dégoût laissé par la saleté. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -24627,7 +24627,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -24799,7 +24799,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -24877,7 +24877,7 @@
 <dictScrap><oVar>Nettoiement</oVar> des terres, des bois, enlèvement des plantes nuisibles, des arbres qui nuisent aux autres.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -24910,7 +24910,7 @@
 <sense>
 <dictScrap>Qu'on peut, qu'on doit nettoyer.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -25182,7 +25182,7 @@
 <dictScrap>Terme d'horticulture. On dit qu'une fleur panachée se <oVar>nettoie</oVar>, pour exprimer que les couleurs deviennent moins brouillées, plus détachées les unes des autres.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -25307,7 +25307,7 @@
 <sense>
 <dictScrap>Les ordures dont on nettoie quelque chose ; ce qu'on enlève d'un lieu sale en le nettoyant.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -25425,7 +25425,7 @@
 <dictScrap>Il a un pluriel, et il n'y prend pas l's. J'ai tous les neuf dans mon jeu.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -25717,8 +25717,8 @@
 <sense n="12">
 <dictScrap>De neuf, loc. adv. qui s'emploie surtout dans cette phrase : habiller de neuf, tout de neuf, c'est-à-dire avec des habits neufs. Il a fait habiller ses gens de neuf.</dictScrap>
 </sense>
-<re type="S">NEUF, NOUVEAU. Neuf signifie une chose faite par art et qui n'est pas encore mise en usage, comme un livre neuf qui n'a pas encore été usé ni sali, quoique peut-être il soit imprimé et relié depuis beaucoup d'années. Nouveau est ce qui est fait ou mis en évidence depuis peu de temps, comme un nouveau livre, qui a été nouvellement composé, encore qu'on aurait déjà flétri les feuillets et sali la couverture. Une chose peut être neuve sans être nouvelle, et nouvelle sans être neuve. </re>
-<note type="H">
+<re type="SYN.">NEUF, NOUVEAU. Neuf signifie une chose faite par art et qui n'est pas encore mise en usage, comme un livre neuf qui n'a pas encore été usé ni sali, quoique peut-être il soit imprimé et relié depuis beaucoup d'années. Nouveau est ce qui est fait ou mis en évidence depuis peu de temps, comme un nouveau livre, qui a été nouvellement composé, encore qu'on aurait déjà flétri les feuillets et sali la couverture. Une chose peut être neuve sans être nouvelle, et nouvelle sans être neuve. </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -25871,7 +25871,7 @@
 <dictScrap>Le mot <oVar>neume</oVar> est parfois, mais rarement, employé au singulier dans le sens dont il s'agit ici.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -25943,7 +25943,7 @@
 <sense>
 <dictScrap>Terme de grammaire. D'une manière neutre. Un verbe employé <oVar>neutralement</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -26049,7 +26049,7 @@
 <dictScrap>S'annuler réciproquement. Ces deux effets se sont <oVar>neutralisés</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -26150,7 +26150,7 @@
 <dictScrap>Par extension, état d'un corps où certaines actions physiques sont neutralisées. La <oVar>neutralité</oVar> électrique de la terre.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -26376,7 +26376,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -26451,7 +26451,7 @@
 <dictScrap>Il s'est dit pour assemblage de neuf choses.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -26520,7 +26520,7 @@
 <sense n="3">
 <dictScrap>S. f. Terme de musique. Intervalle d'une note tel que de ut à la <oVar>neuvième</oVar> note en montant, savoir le ré de l'octave supérieure. La <oVar>neuvième</oVar> ne se frappe sans préparation que sur la dominante ; dans ce dernier cas, elle peut être majeure ou mineure.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -26732,7 +26732,7 @@
 <dictScrap>Cardinal <oVar>neveu</oVar>, cardinal qui est le <oVar>neveu</oVar> d'un pape vivant.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -28269,13 +28269,13 @@
 <sense n="20" ana="supplement">
 <dictScrap>Terme de zingueur. Quand on fait entrer des tuyaux de zinc les uns dans les autres, on y adapte des <oVar>nez</oVar> en zinc pour les arrêter à un endroit déterminé.</dictScrap>
 </sense>
-<re type="P">Un grand nez ne gâta jamais beau visage.  <cit><quote>Sur tous les autres nez son nez a l'avantage, Et jamais un grand nez n'orna mieux un visage</quote><bibl><author>Mme DESHOULIÈRES</author><biblScope>Portr. de Linières.</biblScope></bibl></cit> </re>
-<re type="P"><form>Il vaut mieux laisser son enfant morveux que de lui arracher le nez</form>, c'est-à-dire il est de la sagesse de tolérer un petit mal, lorsqu'on risque, en voulant y remédier, d'en causer un plus grand. </re>
-<re type="P"><form>Si on lui tordait le nez, il en sortirait du lait</form>, voy. <ref target="tordre">TORDRE</ref>. </re>
-<re type="P"><form>Cela paraît comme le nez au milieu du visage</form>, se dit d'une chose très apparente. </re>
-<re type="P">On dit dans le même sens par ironie : Cela ne paraît pas plus que le nez au milieu du visage. </re>
-<note type="R">Béranger a, pour la rime, écrit né : Turpin d'abord trouve lui-même Cœur de vingt ans non profané ; Mais un bon moine de Thélème Le croque à l'instant sous son né, Mort de Charlemagne Laharpe avait fait la même chose dans son poëme de Tangu et Félime, ch. IV : L'infortuné Ouvre une figue et l'avale ; son né Grandit d'un pied. </note>
-<note type="H">
+<re type="PROV.">Un grand nez ne gâta jamais beau visage.  <cit><quote>Sur tous les autres nez son nez a l'avantage, Et jamais un grand nez n'orna mieux un visage</quote><bibl><author>Mme DESHOULIÈRES</author><biblScope>Portr. de Linières.</biblScope></bibl></cit> </re>
+<re type="PROV."><form>Il vaut mieux laisser son enfant morveux que de lui arracher le nez</form>, c'est-à-dire il est de la sagesse de tolérer un petit mal, lorsqu'on risque, en voulant y remédier, d'en causer un plus grand. </re>
+<re type="PROV."><form>Si on lui tordait le nez, il en sortirait du lait</form>, voy. <ref target="tordre">TORDRE</ref>. </re>
+<re type="PROV."><form>Cela paraît comme le nez au milieu du visage</form>, se dit d'une chose très apparente. </re>
+<re type="PROV.">On dit dans le même sens par ironie : Cela ne paraît pas plus que le nez au milieu du visage. </re>
+<note type="REM.">Béranger a, pour la rime, écrit né : Turpin d'abord trouve lui-même Cœur de vingt ans non profané ; Mais un bon moine de Thélème Le croque à l'instant sous son né, Mort de Charlemagne Laharpe avait fait la même chose dans son poëme de Tangu et Félime, ch. IV : L'infortuné Ouvre une figue et l'avale ; son né Grandit d'un pied. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -28908,11 +28908,11 @@
 </cit>
 <dictScrap>[il s'agit de ces vers de Nicomède : Je vous avais prié de l'attaquer lui-même, Et de ne mêler point, surtout dans vos desseins, <oVar>Ni</oVar> le secours du roi, <oVar>ni</oVar> celui des Romains, III, 6].</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Ni la douceur ni la force n'y peut rien ou n'y peuvent rien : les deux se disent également, suivant qu'on a dans l'esprit la conjonction ou la disjonction des sujets.  <cit><quote>Ni mon grenier ni mon armoire Ne se remplit à babiller</quote><bibl><author>LA FONT.</author><biblScope>Fabl. IV, 3</biblScope></bibl></cit> <cit><quote>Ni l'or ni la grandeur ne nous rendent heureux</quote><bibl><author>LA FONT.</author><biblScope>Phil. et Baucis.</biblScope></bibl></cit> </p>
 <p>2. Ni fait hiatus dans les vers, et on ne le met pas devant une voyelle. Cependant Malherbe a dit : <cit><quote>Ci-dessous gît monsieur l'abbé, Qui ne savait ni A ni B</quote><bibl><author>MALH.</author><biblScope>édit.de MÉNAGE, p. 275</biblScope></bibl></cit> </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -29197,7 +29197,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -29297,7 +29297,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29336,7 +29336,7 @@
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29421,7 +29421,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29516,7 +29516,7 @@
 <dictScrap>Terme d'une ancienne coutume. Promesse <oVar>nice</oVar>, simple promesse, faite sans gage ni sûreté. Action <oVar>nice</oVar>, action fondée sur une promesse <oVar>nice</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -29593,7 +29593,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29712,7 +29712,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29851,7 +29851,7 @@
 <sense n="3">
 <dictScrap>Familièrement et par mépris, il se dit de plusieurs personnes de mauvaise vie, de mauvaise conduite, rassemblées en un même lieu. Une <oVar>nichée</oVar> de petits voleurs.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -29993,7 +29993,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -30308,7 +30308,7 @@
 <dictScrap><oVar>Nicotiane</oVar> rustique, faux tabac.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30389,7 +30389,7 @@
 </entry>
 <entry xml:id="nictation">
 <form>
-<orth>NICTATION ou NICTITATION</orth>
+<orth>NICTATION</orth><orth>NICTITATION</orth>
 <pron>ni-kta-sion ou ni-kti-ta-sion</pron>
 <gram>s. f.</gram>
 </form>
@@ -30626,9 +30626,9 @@
 <dictScrap><oVar>Nid</oVar> du poulet, l'œuf où le mercure est enfermé.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Petit à petit l'oiseau fait son nid</form>, c'est-à-dire on fait peu à peu sa fortune, sa maison. </re>
-<re type="P"><form>À chaque oiseau son nid est beau</form>, c'est-à-dire chacun trouve sa maison, sa propriété belle. </re>
-<note type="H">
+<re type="PROV."><form>Petit à petit l'oiseau fait son nid</form>, c'est-à-dire on fait peu à peu sa fortune, sa maison. </re>
+<re type="PROV."><form>À chaque oiseau son nid est beau</form>, c'est-à-dire chacun trouve sa maison, sa propriété belle. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -30767,7 +30767,7 @@
 <sense>
 <dictScrap>Terme de médecine. Qui a une odeur et un goût de pourri, de brûlé, d'œufs couvés. Des rapports <oVar>nidoreux</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30859,7 +30859,7 @@
 <sense n="3">
 <dictScrap><oVar>Nièce</oVar> à la mode de Bretagne, la fille du cousin germain ou de la cousine germaine.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -30902,7 +30902,7 @@
 <dictScrap>Nielle a encore été employé comme synonyme de nigelle, genre de renonculacées, et l'on a appelé nielle de Virginie, le mélanthe de Virginie, LEGOARANT.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30951,7 +30951,7 @@
 <sense n="3">
 <dictScrap>Se dit aussi de l'empreinte en soufre, ou de l'épreuve sur papier, tirée de la planche de métal.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -31009,8 +31009,8 @@
 <sense n="3">
 <dictScrap>Terme de marine. Sorte de fermentation qui détériore les toiles à voile.</dictScrap>
 </sense>
-<note type="R">Il ne faut pas décomposer nielle qui vient de nebula, en ni-è-l', comme on fait pour nielle, plante, qui vient de nigella ; dans le premier, niel est une diphthongue ; dans l'autre il y a deux voyelles distinctes. Toutefois Saint-Lambert a dit ni-elle : Achève tes bienfaits ; que la nielle impure, Les insectes, l'orage et les vents ennemis Respectent les présents que tu nous as promis, Saisons, II. </note>
-<note type="H">
+<note type="REM.">Il ne faut pas décomposer nielle qui vient de nebula, en ni-è-l', comme on fait pour nielle, plante, qui vient de nigella ; dans le premier, niel est une diphthongue ; dans l'autre il y a deux voyelles distinctes. Toutefois Saint-Lambert a dit ni-elle : Achève tes bienfaits ; que la nielle impure, Les insectes, l'orage et les vents ennemis Respectent les présents que tu nous as promis, Saisons, II. </note>
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -31105,7 +31105,7 @@
 <dictScrap>Se nieller, v. réfl. Être gâté par la nielle. Les blés se niellent par le mauvais temps.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -31128,7 +31128,7 @@
 <sense>
 <dictScrap>Orner de nielles. Nieller une tabatière.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -31194,7 +31194,7 @@
 <dictScrap>L'art de nieller.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -31388,12 +31388,12 @@
 <sense n="6">
 <dictScrap>Se <oVar>nier</oVar>, v. réfl. Être <oVar>nié</oVar>. Ce sont là des choses qui se <oVar>nient</oVar> facilement.</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Nier employé avec une négation est suivi ordinairement de la négative ne : <cit><quote>Je ne puis pas nier qu'il n'y ait eu des Pères de l'Église qui ont condamné la comédie ; mais on ne peut pas me nier aussi qu'il n'y en ait eu quelques-uns qui l'ont traitée un peu plus doucement</quote><bibl><author>MOL.</author><biblScope>Tart. Préface</biblScope></bibl></cit> <cit><quote>Vous ne sauriez nier qu'un homme n'apprenne bien des choses quand il voyage</quote><bibl><author>FÉN.</author><biblScope>Dial. des morts, n° 17</biblScope></bibl></cit> <cit><quote>Je ne nie pas que je ne sois infiniment flatté....</quote><bibl><author>VOLT.</author><biblScope>Lett. Mme du Bocage, 19 sept. 1764</biblScope></bibl></cit> </p>
 <p>2. On peut aussi supprimer ce ne : <cit><quote>Je ne nie pas qu'il ait fait cela</quote><bibl><biblScope>Dict. de l'Académie</biblScope></bibl></cit> <cit><quote>Je ne nie pas qu'il ait raison</quote><bibl><author>J. J. ROUSS.</author><biblScope>dans GIRAULT-DUVIVIER</biblScope></bibl></cit> </p>
 <p>3. On met également ne quand le verbe paraît sous une forme interrogative : Peut-on nier qu'il n'ait avancé cette proposition ? Mais ici aussi le ne peut se supprimer : Niez-vous qu'il en soit ainsi ? </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -31541,7 +31541,7 @@
 <dictScrap>Au jeu de la loterie, le <oVar>nigaud</oVar>, la carte qui n'a pas de lot.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -31908,7 +31908,7 @@
 <sense>
 <dictScrap>Qualité de ce qui est considéré comme nul, de ce qui n'est rien par soi-même.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -32212,7 +32212,7 @@
 <sense n="3">
 <dictScrap><oVar>Nippe</oVar> s'est dit anciennement pour chose bonne à manger. Il tira de la poche quelques reliquats de la noce, dont je lui arrachai goulûment de bonnes <oVar>nippes</oVar>, et les allant manger auprès de la fenêtre.... Francion, liv. VII, p. 267.</dictScrap>
 </sense>
-<re type="S">HARDES, NIPPES. Hardes comprend tout, et spécialement les habits principaux et de première nécessité, les gros vêtements ; au lieu que nippes exclut les habits et ne désigne que le linge, surtout celui qui n'est destiné qu'à l'ajustement.... Les nippes, n'étant pas de première nécessité, supposent une certaine aisance, une sorte de luxe ; ce que ne fait pas entendre le mot hardes.... Une autre différence très remarquable consiste en ce que les nippes se considèrent par rapport à leur valeur, comme plus ou moins précieuses, comme constituant une plus ou moins grande valeur mobilière, comme faisant qu'on est plus ou moins bien nippé.... La seule nuance propre à hardes est celle de former un paquet ou un fardeau qu'on porte.... Enfin les hardes se prennent plutôt collectivement en gros, et les nippes distributivement en détail, LAFAYE. </re>
+<re type="SYN.">HARDES, NIPPES. Hardes comprend tout, et spécialement les habits principaux et de première nécessité, les gros vêtements ; au lieu que nippes exclut les habits et ne désigne que le linge, surtout celui qui n'est destiné qu'à l'ajustement.... Les nippes, n'étant pas de première nécessité, supposent une certaine aisance, une sorte de luxe ; ce que ne fait pas entendre le mot hardes.... Une autre différence très remarquable consiste en ce que les nippes se considèrent par rapport à leur valeur, comme plus ou moins précieuses, comme constituant une plus ou moins grande valeur mobilière, comme faisant qu'on est plus ou moins bien nippé.... La seule nuance propre à hardes est celle de former un paquet ou un fardeau qu'on porte.... Enfin les hardes se prennent plutôt collectivement en gros, et les nippes distributivement en détail, LAFAYE. </re>
 <etym>Frisch le rattache au hollandais nijpen, pincer, parce que les petits colifichets de parure s'attachent avec des agrafes. À quoi Scheler objecte que les nippes ne comprennent pas seulement les petits ornements d'ajustement ; il y voit un synonyme de hardes, qui a, comme hardes, le sens de faisceau, de nœud ; et ce sens, il le trouve dans le vieux scandinave hneppa, d'où procède l'islandais hneppe, hardes, trousseau, nippes.</etym>
 </entry>
 <entry xml:id="nippé">
@@ -32302,9 +32302,9 @@
 </sense>
 <sense n="2">
 <dictScrap>La mère <oVar>Nique</oVar>, sorte de démon, d'après une superstition populaire (Normandie, Laigle). </dictScrap>
-<re type="P"> Les mots terminés en ique (paralytique, hydropique etc.) font aux médecins la nique. </re>
+<re type="PROV."> Les mots terminés en ique (paralytique, hydropique etc.) font aux médecins la nique. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -32343,7 +32343,7 @@
 <sense>
 <dictScrap>Héroïne du roman d'Amadis de Gaule ; d'où la gloire de <oVar>Niquée</oVar> était passée en proverbe, voy. <ref target="gloire#var9">GLOIRE, n° 9</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -32381,7 +32381,7 @@
 <dictScrap>Beaucoup plus tard, une pièce de Charles VIII a porté le même nom.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -32525,7 +32525,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -32671,7 +32671,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -32694,7 +32694,7 @@
 <sense>
 <dictScrap>Où l'on a mis du nitre. Tisane nitrée.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -32745,7 +32745,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -32801,7 +32801,7 @@
 <dictScrap>Nitrières bergeries, nitrières artificielles établies dans des bergeries.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -32920,7 +32920,7 @@
 </entry>
 <entry xml:id="nitrobenzide">
 <form>
-<orth>NITROBENZIDE ou NITROBENZINE</orth>
+<orth>NITROBENZIDE</orth><orth>NITROBENZINE</orth>
 <pron>ni-tro-bin-zi-d' ou ni-tro-bin-zi-n'</pron>
 <gram>s. f.</gram>
 </form>
@@ -33012,7 +33012,7 @@
 <sense>
 <dictScrap>Qualité de ce qui contient du nitre.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -33208,7 +33208,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -33327,7 +33327,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -33660,7 +33660,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -34123,9 +34123,9 @@
 </sense>
 <sense n="13">
 <dictScrap><oVar>Noble</oVar> épine, aubépine, et quelquefois épine-vinette. </dictScrap>
-<re type="P"> Un noble, s'il n'est à la rose, Vaut parfois bien peu de chose, dicton tiré du noble à la rose, et qui signifie que la noblesse sans la richesse a peu de valeur. </re>
+<re type="PROV."> Un noble, s'il n'est à la rose, Vaut parfois bien peu de chose, dicton tiré du noble à la rose, et qui signifie que la noblesse sans la richesse a peu de valeur. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -34415,7 +34415,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -34848,9 +34848,9 @@
 <dictScrap>En peinture et en sculpture, le caractère élevé de la composition.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Noblesse vient de vertu</form>, c'est-à-dire un homme n'est proprement au-dessus d'un autre que par la vertu et par le mérite.  <cit><quote>On dit que la noblesse a la vertu pour mère ; S'il est vrai, ses enfants ne lui ressemblent guère</quote><bibl><author>BOURSAULT</author><biblScope>Ésope à la cour, IV, 4</biblScope></bibl></cit> </re>
-<re type="P"><form>Noblesse oblige</form>, c'est-à-dire quiconque prétend être noble, doit se bien conduire. </re>
-<note type="H">
+<re type="PROV."><form>Noblesse vient de vertu</form>, c'est-à-dire un homme n'est proprement au-dessus d'un autre que par la vertu et par le mérite.  <cit><quote>On dit que la noblesse a la vertu pour mère ; S'il est vrai, ses enfants ne lui ressemblent guère</quote><bibl><author>BOURSAULT</author><biblScope>Ésope à la cour, IV, 4</biblScope></bibl></cit> </re>
+<re type="PROV."><form>Noblesse oblige</form>, c'est-à-dire quiconque prétend être noble, doit se bien conduire. </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -35158,11 +35158,11 @@
 <sense n="7" ana="supplement">
 <dictScrap>Bouillie de gruau d'avoine qu'on prépare en l'échaudant par cuillerées dans l'eau bouillante et qu'on mange avec du lait ou du beurre, en Bretagne et en basse Normandie.</dictScrap>
 </sense>
-<re type="P">Voyage de maître, noces de valets, c'est quand les maîtres sont absents que les domestiques s'amusent. </re>
-<re type="P">Il est arrivé comme Tabourin à noces, il est arrivé fort à propos. </re>
-<re type="P">Jamais noce sans réveillon. </re>
-<re type="P">Allez-vous-en, gens de la noce, refrain d'une vieille chanson qui se dit aux gens quand on n'a plus besoin d'eux et qu'il est temps qu'ils partent. </re>
-<note type="H">
+<re type="PROV.">Voyage de maître, noces de valets, c'est quand les maîtres sont absents que les domestiques s'amusent. </re>
+<re type="PROV.">Il est arrivé comme Tabourin à noces, il est arrivé fort à propos. </re>
+<re type="PROV.">Jamais noce sans réveillon. </re>
+<re type="PROV.">Allez-vous-en, gens de la noce, refrain d'une vieille chanson qui se dit aux gens quand on n'a plus besoin d'eux et qu'il est temps qu'ils partent. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -35327,8 +35327,8 @@
 </cit>
 </sense>
 </sense>
-<re type="S">NOCHER, NAUTONIER. Ces deux mots, qui sont tous deux du style poétique ou relevé, ont cette différence que le nocher conduit, dirige le vaisseau, tandis que le nautonier travaille à la manœuvre. </re>
-<note type="H">
+<re type="SYN.">NOCHER, NAUTONIER. Ces deux mots, qui sont tous deux du style poétique ou relevé, ont cette différence que le nocher conduit, dirige le vaisseau, tandis que le nautonier travaille à la manœuvre. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -35572,7 +35572,7 @@
 <sense>
 <dictScrap>Terme de liturgie. Office de nuit, matines.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -35685,7 +35685,7 @@
 <dictScrap>Morceau de piano d'un caractère un peu rêveur. Le Retour d'Henri Barbara est un agréable <oVar>nocturne</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -35836,7 +35836,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -35904,7 +35904,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -35927,7 +35927,7 @@
 <sense>
 <dictScrap>Flaque d'eau laissée par la mer, dans laquelle on peut nager ; terme usité sur la côte entre Caen et le Havre.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -36015,9 +36015,9 @@
 </bibl>
 </cit>
 </sense>
-<re type="P"><form>Quand Noël a son pignon, Pâques a son tison</form>, c'est-à-dire quand il fait assez doux à Noël pour qu'on soit à sa fenêtre, on se chauffe à Pâques. On dit dans le même sens : <form>quand on voit à Noël les moucherons, à Pâques on voit les glaçons</form>.</re>
-<note type="R">Dans la première édition de son Dictionnaire, l'Académie n'a point mis de tréma, et elle avait raison. Il est impossible de confondre l'oe avec l'oe, et conséquemment le tréma devient inutile, PAUTEX. </note>
-<note type="H">
+<re type="PROV."><form>Quand Noël a son pignon, Pâques a son tison</form>, c'est-à-dire quand il fait assez doux à Noël pour qu'on soit à sa fenêtre, on se chauffe à Pâques. On dit dans le même sens : <form>quand on voit à Noël les moucherons, à Pâques on voit les glaçons</form>.</re>
+<note type="REM.">Dans la première édition de son Dictionnaire, l'Académie n'a point mis de tréma, et elle avait raison. Il est impossible de confondre l'oe avec l'oe, et conséquemment le tréma devient inutile, PAUTEX. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -36089,7 +36089,7 @@
 <re ana="supplement" orig=" NOËL. ">
 
 <dictScrap>Ajoutez : </dictScrap>
-<re type="P"><form>Noël gelé promet Pâques fleuries</form>, c'est-à-dire s'il gèle à Noël, il y aura des fleurs à Pâques. </re>
+<re type="PROV."><form>Noël gelé promet Pâques fleuries</form>, c'est-à-dire s'il gèle à Noël, il y aura des fleurs à Pâques. </re>
 </re>
 </entry>
 <entry xml:id="noématachomètre">
@@ -36810,8 +36810,8 @@
 <dictScrap><oVar>Nœud</oVar> de la chaise, <oVar>nœud</oVar> employé dans la marine seulement et l'un des plus solides qui existent.</dictScrap>
 </sense>
 </sense>
-<re type="S">NŒUD, ARTICULATION (en parlant des végétaux). Dans l'articulation, il y a naturellement une solution de continuité, une séparation des fibres qui ne sont qu'apposées ; dans le nœud, les éléments organiques sont confondus et se font continuité. </re>
-<note type="H">
+<re type="SYN.">NŒUD, ARTICULATION (en parlant des végétaux). Dans l'articulation, il y a naturellement une solution de continuité, une séparation des fibres qui ne sont qu'apposées ; dans le nœud, les éléments organiques sont confondus et se font continuité. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -38051,7 +38051,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -38225,7 +38225,7 @@
 <dictScrap>Substantivement. Un <oVar>noiraud</oVar>. Une <oVar>noiraude</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -38488,7 +38488,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -38800,8 +38800,8 @@
 </cit>
 </sense>
 </sense>
-<re type="S">NOIRCIR, DÉNIGRER. Quoique ces deux mots aient le même radical (niger, noir), cependant le sens en est différent : noircir, c'est imputer des actions noires ; dénigrer, c'est détracter. De là résulte que noircir ne peut se dire que des personnes ou de leurs actes, tandis que dénigrer se dit et des personnes et des choses : on dénigre un homme, mais aussi on dénigre un tableau, une œuvre, etc. Noircir se dit surtout des actions ou des sentiments que l'on attribue à quelqu'un ; et dénigrer, du jugement qu'on en porte : je dénigre un tel, en disant que j'en ai mauvaise opinion, ce qui est mon jugement ; je le noircis, en lui attribuant des actes ou des pensées cruelles, envieuses, etc. </re>
-<note type="H">
+<re type="SYN.">NOIRCIR, DÉNIGRER. Quoique ces deux mots aient le même radical (niger, noir), cependant le sens en est différent : noircir, c'est imputer des actions noires ; dénigrer, c'est détracter. De là résulte que noircir ne peut se dire que des personnes ou de leurs actes, tandis que dénigrer se dit et des personnes et des choses : on dénigre un homme, mais aussi on dénigre un tableau, une œuvre, etc. Noircir se dit surtout des actions ou des sentiments que l'on attribue à quelqu'un ; et dénigrer, du jugement qu'on en porte : je dénigre un tel, en disant que j'en ai mauvaise opinion, ce qui est mon jugement ; je le noircis, en lui attribuant des actes ou des pensées cruelles, envieuses, etc. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -38894,7 +38894,7 @@
 <dictScrap>Terme de métallurgie. Action de graisser l'intérieur des moules, dans les fonderies.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -38919,7 +38919,7 @@
 <dictScrap>Fig. <oVar>Noircisseur</oVar> de papier, écrivassier, celui qui écrit beaucoup.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -38944,7 +38944,7 @@
 <sense n="2">
 <dictScrap>Altération des vins qui prennent une teinte noire.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -38988,7 +38988,7 @@
 <sense>
 <dictScrap>Espèce de persèque.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -39174,8 +39174,8 @@
 </cit>
 </sense>
 </sense>
-<re type="S">NOISE, QUERELLE. Noise est un mot qui tend à sortir de l'usage général, de sorte qu'il est surtout employé dans certaines locutions : chercher noise, être en noise. Cela le différencie de querelle. Ainsi on ne dit pas : il y a une noise dans la rue ; mais : il y a une querelle. De plus noise est plus voisin de discorde que n'en est querelle. Enfin il y a sous noise une idée de bruit qui n'est pas dans querelle ; ainsi on ne dit pas une noise littéraire, mais une querelle littéraire. </re>
-<note type="H">
+<re type="SYN.">NOISE, QUERELLE. Noise est un mot qui tend à sortir de l'usage général, de sorte qu'il est surtout employé dans certaines locutions : chercher noise, être en noise. Cela le différencie de querelle. Ainsi on ne dit pas : il y a une noise dans la rue ; mais : il y a une querelle. De plus noise est plus voisin de discorde que n'en est querelle. Enfin il y a sous noise une idée de bruit qui n'est pas dans querelle ; ainsi on ne dit pas une noise littéraire, mais une querelle littéraire. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -39370,7 +39370,7 @@
 <sense n="7">
 <dictScrap>Coquille du genre bulime.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -39528,12 +39528,12 @@
 </sense>
 <sense n="14">
 <dictScrap><oVar>Noix</oVar> de mer, le pétoncle velu. </dictScrap>
-<re type="P"><form>Vous avez rangé tout cela comme des noix sur un bâton</form>, se dit d'un plan, d'une combinaison inexécutable. </re>
+<re type="PROV."><form>Vous avez rangé tout cela comme des noix sur un bâton</form>, se dit d'un plan, d'une combinaison inexécutable. </re>
 </sense>
 <sense n="15" ana="supplement">
 <dictScrap><oVar>Noix</oVar> de gaïac, voy. <ref target="tonca">TONCA</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -39623,7 +39623,7 @@
 </entry>
 <entry xml:id="nolanacées">
 <form>
-<orth>NOLANACÉES ou NOLANÉES</orth>
+<orth>NOLANACÉES</orth><orth>NOLANÉES</orth>
 <pron>no-la-na-sée ou no-la-née</pron>
 <gram>s. f. pl.</gram>
 </form>
@@ -39653,7 +39653,7 @@
 <sense n="2">
 <dictScrap>Terme de chirurgie. Ulcère que les divers moyens thérapeutiques employés ne font qu'irriter.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -39756,7 +39756,7 @@
 <sense>
 <dictScrap>Action de noliser.</dictScrap>
 </sense>
-<note type="R">Pautex dit : " Encore une bizarrerie ; de nolis on forme le verbe noliser en ajoutant simplement er ; pour nolissement il faut doubler l's. " Cette bizarrerie ou plutôt ce barbarisme n'existe pas dans l'ancienne ordonnance de marine : Toute convention pour le louage d'un vaisseau, appelée charte-partie affrétement ou nolisement, sera rédigée par écrit, Ordonn. marine, août 1681. </note>
+<note type="REM.">Pautex dit : " Encore une bizarrerie ; de nolis on forme le verbe noliser en ajoutant simplement er ; pour nolissement il faut doubler l's. " Cette bizarrerie ou plutôt ce barbarisme n'existe pas dans l'ancienne ordonnance de marine : Toute convention pour le louage d'un vaisseau, appelée charte-partie affrétement ou nolisement, sera rédigée par écrit, Ordonn. marine, août 1681. </note>
 <etym>Noliser.</etym>
 </entry>
 <entry xml:id="nolition">
@@ -41079,26 +41079,26 @@
 </cit>
 </sense>
 </sense>
-<re type="P"><form>Je ne lui ai jamais dit pis que son nom</form>, c'est-à-dire je ne lui ai jamais rien dit d'injurieux. </re>
-<re type="P"><form>On ne saurait lui dire pis que son nom</form>, se dit de quelqu'un qui est connu comme un malhonnête homme, comme un scélérat. </re>
-<re type="P"><form>C'est un homme à qui il ne faut pas dire plus haut que son nom</form>, c'est-à-dire c'est un homme qui s'offense aisément. </re>
-<re type="P"><form>On ne lui a pas dit plus haut que son nom</form>, c'est-à-dire on ne lui a fait ni observation ni reproche.  <cit><quote>Notez que le dit Caveirac est l'auteur de l'apologie de la Saint-Barthélemy, pour laquelle on ne lui a pas dit plus haut que son nom</quote><bibl><author>D'ALEMB.</author><biblScope>Lett. à Voltaire, 12 janv. 1763</biblScope></bibl></cit> </re>
-<re type="P">Cette expression a aussi un sens tout différent : Vous ne lui direz pas plus haut que son nom, signifie que ce nom est si illustre qu'on n'en peut pas trouver de plus élevé. </re>
-<note type="R">
+<re type="PROV."><form>Je ne lui ai jamais dit pis que son nom</form>, c'est-à-dire je ne lui ai jamais rien dit d'injurieux. </re>
+<re type="PROV."><form>On ne saurait lui dire pis que son nom</form>, se dit de quelqu'un qui est connu comme un malhonnête homme, comme un scélérat. </re>
+<re type="PROV."><form>C'est un homme à qui il ne faut pas dire plus haut que son nom</form>, c'est-à-dire c'est un homme qui s'offense aisément. </re>
+<re type="PROV."><form>On ne lui a pas dit plus haut que son nom</form>, c'est-à-dire on ne lui a fait ni observation ni reproche.  <cit><quote>Notez que le dit Caveirac est l'auteur de l'apologie de la Saint-Barthélemy, pour laquelle on ne lui a pas dit plus haut que son nom</quote><bibl><author>D'ALEMB.</author><biblScope>Lett. à Voltaire, 12 janv. 1763</biblScope></bibl></cit> </re>
+<re type="PROV.">Cette expression a aussi un sens tout différent : Vous ne lui direz pas plus haut que son nom, signifie que ce nom est si illustre qu'on n'en peut pas trouver de plus élevé. </re>
+<note type="REM.">
 <p>1. Le nom propre, étant destiné à distinguer une personne d'une autre, n'est susceptible ni de l'idée ni de la marque du pluriel. Mais il y a quatre exceptions à cette règle :</p> 
 <p>1° on le considère comme le nom propre de toute une classe d'hommes et non plus seulement comme le nom propre d'un individu ; dans ce cas on dit au pluriel et avec l's : les Henris, les Bourbons, les Stuarts, les douze Césars, etc. <cit><quote>La Seine a des Bourbons, le Tibre a des Césars</quote><bibl><author>BOILEAU</author><biblScope>Ép. I</biblScope></bibl></cit> </p> 
 <p>2° on l'emploie par antonomase, c'est-à-dire comme un nom commun, pour distinguer tous les individus semblables à celui dont ils empruntent le nom : alors les Corneilles se prend pour les grands poëtes tragiques, les Mécènes pour les protecteurs des lettres, etc. ; </p> 
 <p>3° quelquefois les noms propres se mettent au pluriel, mais sans prendre l's, quand il s'agit, il est vrai, d'une seule personne, mais quand pourtant on veut citer ceux-là entre autres et non d'une manière exclusive. <cit><quote>Les expressions heureuses qui font l'âme de la poésie et le mérite des Homère, des Virgile, des Tasse, des Milton, des Pope, des Corneille, des Racine, des Boileau</quote><bibl><author>VOLT.</author><biblScope>Mél. litt. aux auteurs du nouv. Parnasse</biblScope></bibl></cit> </p> 
 <p>4° quand on nomme des personnes qui ont porté le même nom, on emploie le pluriel, mais sans mettre l's : les deux Richelieu ; quatre Mathusalem. </p>
 </note>
-<note type="R">
+<note type="REM.">
 <p>2. Les noms propres ne prennent point d'article, excepté en trois cas :</p>
 <p>1° on met l'article avec un nom de femme dans un parler très familier : la Grand-Guillaume, la femme de Grand-Guillaume ; ou par mépris : la Brinvilliers, Mme de Brinvilliers, célèbre empoisonneuse ; on le met aussi devant les noms de chanteuses ou de danseuses en renom : la Taglioni, la Grisi, la Patti ; </p>
 <p>2° on met l'article quand le nom propre désigne le livre de la personne nommée : le Cicéron que vous m'avez envoyé ; donnez-moi un Tacite ; on dit aussi : cela est du Bossuet, du Racine, c'est-à-dire cela est tiré de Bossuet, de Racine ; </p>
 <p>3° enfin l'article défini se joint à quelques noms italiens : l'Arioste, le Tasse. On remarquera que les Italiens ne joignent l'article qu'aux noms de famille et jamais aux prénoms ; ce serait une faute de dire le Torquato, pour le Tasse ; c'en est une de dire le Dante ; Dante est un prénom ; et, quand les Italiens mettent l'article au nom de leur grand poëte, ils disent l'Alighieri, qui était son nom de famille. On a pris l'habitude de dire également le Poussin (Nicolas Poussin ayant longtemps vécu en Italie). Au XVIIe siècle, on a essayé d'introduire cet usage en France : <cit><quote>À mon gré, le Corneille est joli quelquefois</quote><bibl><author>BOILEAU</author><biblScope>Sat. III</biblScope></bibl></cit></p>
 </note>
-<re type="S">SUBSTANTIF, NOM. Le substantif désigne les êtres par l'idée de leur nature ; à cause de cela on l'appelle souvent nom, parce qu'il paraît nommer les personnes et les choses. On peut presque toujours employer sans inconvénient sensible ce mot de nom pour celui de substantif ; toutefois, dans la rigueur des termes, le substantif n'est qu'une espèce du genre nom, lequel comprend, en outre, les adjectifs et les pronoms, JULLIEN. </re>
-<note type="H">
+<re type="SYN.">SUBSTANTIF, NOM. Le substantif désigne les êtres par l'idée de leur nature ; à cause de cela on l'appelle souvent nom, parce qu'il paraît nommer les personnes et les choses. On peut presque toujours employer sans inconvénient sensible ce mot de nom pour celui de substantif ; toutefois, dans la rigueur des termes, le substantif n'est qu'une espèce du genre nom, lequel comprend, en outre, les adjectifs et les pronoms, JULLIEN. </re>
+<note type="HIST.">
 
 <label>Xe s.</label>
 <cit>
@@ -41312,7 +41312,7 @@
 </entry>
 <entry xml:id="noma">
 <form>
-<orth>NOMA ou NOME</orth>
+<orth>NOMA</orth><orth>NOME</orth>
 <pron>no-ma ou no-m'</pron>
 <gram>s. m. ou s. f.</gram>
 </form>
@@ -41429,7 +41429,7 @@
 <dictScrap>On le dit aussi des bœufs et des vaches.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -42114,7 +42114,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -42299,7 +42299,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -42411,7 +42411,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -42538,7 +42538,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -42589,7 +42589,7 @@
 <dictScrap><oVar>Nombril</oVar> blanc, espèce d'agaric.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -42846,7 +42846,7 @@
 <sense n="3">
 <dictScrap>Méthode pour classer les différents objets d'une science, d'un art, et qui consiste essentiellement à désigner les objets par des termes ou des signes qui aient le plus grand rapport possible avec leur nature réelle, simple ou composée, organisée ou inorganique.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -42966,7 +42966,7 @@
 <dictScrap>À un prix presque <oVar>nominal</oVar>, presque pour rien, Journ. offic., 23 juin 1872, p. 4241, 2e col.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -43094,7 +43094,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -43146,7 +43146,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -43328,7 +43328,7 @@
 <sense n="2">
 <dictScrap>Spécialement. L'influence du climat et <oVar>nommément</oVar> celle de l'humidité.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -43755,7 +43755,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -44402,11 +44402,11 @@
 <dictScrap>Pour un oui ou pour un <oVar>non</oVar>, pour peu de chose. Il se fâche pour un oui ou pour un <oVar>non</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Dans cet exemple : Non-seulement tous ses honneurs et toutes ses richesses, mais encore toute sa vertu s'évanouit, on met s'évanouit au singulier, à cause de mais qui interrompt la phrase C'est là l'usage le plus ordinaire. Cependant, si quelque chose l'exigeait, rien n'empêcherait de mettre s'évanouirent. </p>
 <p>2. Le tiret se met après non quand il s'agit d'un substantif composé : non-sens, non-usage, etc. ; il ne se met pas, en tout autre cas : les artisans non maîtres pouvaient travailler.... </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>Xe s.</label>
 <cit>
@@ -44649,7 +44649,7 @@
 <sense>
 <dictScrap>Position d'un officier, d'un employé qui, momentanément, n'exerce aucune fonction. On a mis cet officier, cet employé en <oVar>non-activité</oVar>.</dictScrap>
 </sense>
-<re type="S">NON-ACTIVITÉ, DISPONIBILITÉ, CONGÉ. Dans l'armée on met un officier en non-activité, lorsque, pour raison d'âge ou de santé, il ne peut plus remplir de fonctions actives. La disponibilité est la situation spéciale de l'officier général ou d'état-major qui, appartenant au cadre constitutif de l'armée, se trouve momentanément sans emploi. Mais, dans d'autres administrations, l'université par exemple, la disponibilité est une peine infligée au professeur à qui on retire sa fonction. Dans le congé, on est toujours titulaire de son titre ; ce n'est qu'une autorisation temporaire de ne pas remplir la fonction de l'emploi. </re>
+<re type="SYN.">NON-ACTIVITÉ, DISPONIBILITÉ, CONGÉ. Dans l'armée on met un officier en non-activité, lorsque, pour raison d'âge ou de santé, il ne peut plus remplir de fonctions actives. La disponibilité est la situation spéciale de l'officier général ou d'état-major qui, appartenant au cadre constitutif de l'armée, se trouve momentanément sans emploi. Mais, dans d'autres administrations, l'université par exemple, la disponibilité est une peine infligée au professeur à qui on retire sa fonction. Dans le congé, on est toujours titulaire de son titre ; ce n'est qu'une autorisation temporaire de ne pas remplir la fonction de l'emploi. </re>
 <re ana="supplement">
 <re>NON-ACTIVITÉ. - SYN. Ajoutez : Le retrait d'emploi, la suppression d'emploi et les fautes graves sont aussi des motifs pour lesquels on met un officier en non-activité. </re>
 </re>
@@ -44739,7 +44739,7 @@
 <sense>
 <dictScrap>Terme de médecine. Fièvre <oVar>nonane</oVar>, fièvre intermittente qui revient tous les neuf jours.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -44772,8 +44772,8 @@
 <dictScrap>Terme d'astronomie. Quart de <oVar>nonante</oVar>, instrument représentant un quart de cercle divisé en quatre-vingt-dix degrés.</dictScrap>
 </sense>
 </sense>
-<note type="R">Nonante a vieilli, et c'est dommage ; il est resté très usité en Suisse, en Savoie et dans le midi de la France. </note>
-<note type="H">
+<note type="REM.">Nonante a vieilli, et c'est dommage ; il est resté très usité en Suisse, en Savoie et dans le midi de la France. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -44819,7 +44819,7 @@
 <sense>
 <dictScrap>En nonantième lieu.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -44850,7 +44850,7 @@
 <sense n="2">
 <dictScrap>Autrefois, en Pologne, nom donné aux députés de la noblesse des petites diètes à la grande diète, pour composer la chambre de la noblesse.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -44921,7 +44921,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Au XVIIe siècle, les puristes déclaraient nonchalamment un mot qui vieillissait et dont négligemment devait prendre la place. Depuis, il s'est complétement rétabli dans l'usage, et déjà l'Académie, dans ses Remarques sur Vaugelas, avait dit : Nonchalamment est un fort bon mot que la langue conserve, et qui s'emploie avec grâce en beaucoup d'endroits. </note>
+<note type="REM.">Au XVIIe siècle, les puristes déclaraient nonchalamment un mot qui vieillissait et dont négligemment devait prendre la place. Depuis, il s'est complétement rétabli dans l'usage, et déjà l'Académie, dans ses Remarques sur Vaugelas, avait dit : Nonchalamment est un fort bon mot que la langue conserve, et qui s'emploie avec grâce en beaucoup d'endroits. </note>
 <etym>Nonchalant, et le suffixe ment.</etym>
 </entry>
 <entry xml:id="nonchalance">
@@ -44985,7 +44985,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -45089,7 +45089,7 @@
 <sense n="2">
 <dictScrap>Il se dit des choses dans le même sens. Une démarche, une parole <oVar>nonchalante</oVar> Une humeur <oVar>nonchalante</oVar>. Une vie <oVar>nonchalante</oVar></dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -45150,7 +45150,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -45352,7 +45352,7 @@
 <sense>
 <dictScrap>Qualité de ce qui n'est pas délicat, facile à altérer.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -45401,7 +45401,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -45458,7 +45458,7 @@
 <sense>
 <dictScrap>Terme d'antiquité romaine. Le septième jour des mois de mars, mai, juillet et octobre, et le cinquième des autres mois, et toujours le huitième avant les ides.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -45556,7 +45556,7 @@
 <sense>
 <dictScrap>Terme d'arithmétique. Octillion multiplié par mille.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -45585,7 +45585,7 @@
 </entry>
 <entry xml:id="nonius">
 <form>
-<orth>NONIUS ou plutôt NONNIUS</orth>
+<orth>NONIUS</orth><orth>plutôt NONNIUS</orth>
 <pron>no-ni-us'</pron>
 <gram>s. m.</gram>
 </form>
@@ -45687,7 +45687,7 @@
 <sense n="2">
 <dictScrap>Variété de pigeon.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>Voy.</label>
 <ref target="nonne">NONNE</ref>
@@ -45746,8 +45746,8 @@
 <dictScrap>Pets de <oVar>nonne</oVar>, voy. <ref target="pet">PET</ref>.</dictScrap>
 </sense>
 </sense>
-<note type="R">Ce terme, qui autrefois, comme on peut voir à l'historique, était la qualification propre des religieuses, ne se dit plus guère que dans le style léger. </note>
-<note type="H">
+<note type="REM.">Ce terme, qui autrefois, comme on peut voir à l'historique, était la qualification propre des religieuses, ne se dit plus guère que dans le style léger. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -45870,7 +45870,7 @@
 <dictScrap><oVar>Nonnette</oVar> cendrée, mésange <oVar>nonnette</oVar>, parus palustris, L.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -45900,7 +45900,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -45932,7 +45932,7 @@
 <sense>
 <dictScrap>Terme de droit canonique. La troisième partie des provisions de la cour de Rome, où, nonobstant toutes sortes d'obstacles, on est mis en droit de jouir du bénéfice obtenu.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -46019,7 +46019,7 @@
 <dictScrap>Adj. <oVar>Nonobstant</oVar>, ante. Clause nonobstante, clause imaginée par Innocent III, et dont Henri III, roi d'Angleterre, se servit le premier dans ses dispenses.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -46151,8 +46151,8 @@
 <dictScrap><oVar>Nonpareil</oVar> royal, variété d'œillet.</dictScrap>
 </sense>
 </sense>
-<note type="R">On écrivait dans le XVIIe siècle nompareil, par attraction du p pour l'm. </note>
-<note type="H">
+<note type="REM.">On écrivait dans le XVIIe siècle nompareil, par attraction du p pour l'm. </note>
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -46244,7 +46244,7 @@
 <sense>
 <dictScrap>Défaut de payement.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -46293,7 +46293,7 @@
 </entry>
 <entry xml:id="non-plus-ultra">
 <form>
-<orth>NON-PLUS-ULTRA ou NEC-PLUS-ULTRA</orth>
+<orth>NON-PLUS-ULTRA</orth><orth>NEC-PLUS-ULTRA</orth>
 <pron>non'-plu-zul-tra ou nèk'-plu-zul-tra</pron>
 <gram>s. m.</gram>
 </form>
@@ -46415,7 +46415,7 @@
 <dictScrap>Absurdité. Cette phrase est un <oVar>non-sens</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -46551,7 +46551,7 @@
 <dictScrap>En termes militaires, non-valeurs, les musiciens et les soldats faisant près des officiers le service d'ordonnances.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -46658,7 +46658,13 @@
 </sense>
 </entry>
 <entry xml:id="nopalerie">
-<form><orth>NOPALERIE</orth><pron>no-pa-le-rie</pron>, ou NOPALIÈRE (no-pa-liè-r'), s. f. </form>
+<form>
+<orth>NOPALERIE</orth>
+<pron>no-pa-le-rie</pron>
+<orth>NOPALIÈRE</orth> 
+<pron>no-pa-liè-r'</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Terre dans laquelle on plante des nopals.</dictScrap>
 </sense>
@@ -46850,7 +46856,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -46920,7 +46926,7 @@
 <dictScrap>Fig. et familièrement. Il est sec comme le <oVar>nord-est</oVar>, c'est-à-dire c'est un homme sec.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -47168,7 +47174,7 @@
 <dictScrap>Se dit des oiseaux dont le sternum n'est pas pourvu d'une carène.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -47331,7 +47337,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -47432,7 +47438,7 @@
 </entry>
 <entry xml:id="normandisme">
 <form>
-<orth>NORMANDISME ou NORMANISME</orth>
+<orth>NORMANDISME</orth><orth>NORMANISME</orth>
 <pron>nor-man-dis-sm' ou nor-ma-ni-sm'</pron>
 <gram>s. m.</gram>
 </form>
@@ -47470,7 +47476,7 @@
 <sense>
 <dictScrap>Se dit quelquefois pour règle, loi, d'après laquelle on doit se diriger.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -47509,14 +47515,14 @@
 </entry>
 <entry xml:id="norois">
 <form>
-<orth>NOROIS ou NORROIS</orth>
+<orth>NOROIS</orth><orth>NORROIS</orth>
 <pron>no-roî</pron>
 <gram>s. m.</gram>
 </form>
 <sense>
 <dictScrap>Nom de l'ancienne langue des Scandinaves.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -47848,7 +47854,7 @@
 </entry>
 <entry xml:id="nota">
 <form>
-<orth>NOTA ou NOTA BENÈ</orth>
+<orth>NOTA</orth><orth>NOTA BENÈ</orth>
 <pron>no-ta ou no-ta-bé-né</pron>
 </form>
 <sense n="1">
@@ -47867,7 +47873,7 @@
 <dictScrap>Au plur. <oVar>Nota</oVar>, ou <oVar>nota</oVar> benè est invariable. Des <oVar>nota</oVar>, des <oVar>nota</oVar> benè.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -47982,7 +47988,7 @@
 <dictScrap>Assemblée des <oVar>notables</oVar>, se dit particulièrement de l'assemblée qui fut convoquée en 1787 par Louis XVI.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -48074,7 +48080,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -48200,7 +48206,7 @@
 <sense n="4">
 <dictScrap><oVar>Notaire</oVar> apostolique, officier établi pour les expéditions en cour de Rome et affaires ecclésiastiques.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -48296,8 +48302,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Ni Vaugelas ni Th. Corneille n'approuvaient cet adverbe, qui pourtant est resté dans l'usage ; ils voulaient qu'on dît principalement. </note>
-<note type="H">
+<note type="REM.">Ni Vaugelas ni Th. Corneille n'approuvaient cet adverbe, qui pourtant est resté dans l'usage ; ils voulaient qu'on dît principalement. </note>
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -48347,7 +48353,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -48381,7 +48387,7 @@
 <sense>
 <dictScrap>Fait par un notaire, passé devant notaire. Acte <oVar>notarié</oVar>. Quittance <oVar>notariée</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -48433,7 +48439,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -48753,8 +48759,8 @@
 <sense n="12">
 <dictScrap><oVar>Note</oVar> s'est dit des minutes et des actes. Ce sens du mot ne se trouve plus que dans l'expression garde-<oVar>note</oVar>.</dictScrap>
 </sense>
-<re type="S">NOTE, REMARQUE. La note a un sens plus général que la remarque. Une remarque est toujours une note ; mais une note n'est pas toujours une remarque. </re>
-<note type="H">
+<re type="SYN.">NOTE, REMARQUE. La note a un sens plus général que la remarque. Une remarque est toujours une note ; mais une note n'est pas toujours une remarque. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -49090,7 +49096,7 @@
 <sense n="6" ana="supplement">
 <dictScrap>Se <oVar>noter</oVar>, s'infliger à soi-même une <oVar>note</oVar>, une marque. Louis, électeur palatin, s'y opposa [à la proposition de violer le sauf-conduit donné à Luther dans la diète de Worms], comme à une chose qui flétrirait éternellement la nation germanique, et dit avec indignation que l'on ne devait pas souffrir que, pour rendre service aux prêtres, toute l'Allemagne se notât d'infamie en manquant à la foi publique, Hist. du concile de Trente, de Fra Paolo, trad. de le Courayer, t. I, p. 33.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -49222,7 +49228,7 @@
 <dictScrap><oVar>Notice</oVar> de l'Empire, titre d'un ouvrage géographique, publié après Constantin.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -49293,7 +49299,7 @@
 <dictScrap>Greffe des notifications, greffe que l'on avait établi pour y enregistrer tous les contrats.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -49329,7 +49335,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -49523,7 +49529,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">On écrit aussi notochorde ; et même cela est plus régulier, puisque, avec dos, le grec va mieux que le latin corda. Mais l'hybridité recommence avec le dérivé ; en effet dans notocordal, si on écrit ainsi, la finale al est latine et non grecque. </note>
+<note type="REM.">On écrit aussi notochorde ; et même cela est plus régulier, puisque, avec dos, le grec va mieux que le latin corda. Mais l'hybridité recommence avec le dérivé ; en effet dans notocordal, si on écrit ainsi, la finale al est latine et non grecque. </note>
 </entry>
 <entry xml:id="notocorde">
 <form>
@@ -49576,7 +49582,7 @@
 <dictScrap>Autrefois, en style d'ordonnance et de palais : Soit <oVar>notoire</oVar> à tous que..., etc.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -49657,7 +49663,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -49910,7 +49916,7 @@
 <sense n="5">
 <dictScrap><oVar>Notre</oVar>, placé devant les adjectifs ou adverbes comparatifs, fait un superlatif relatif. <oVar>Notre</oVar> meilleur ami. Nos plus beaux arts. Nos moindres ennuis.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>IXe s.</label>
 <cit>
@@ -50168,7 +50174,7 @@
 <sense n="6">
 <dictScrap>S. f. pl. Les nôtres, nos folies, nos farces ; usité seulement dans cette locution familière : Nous avons bien fait des nôtres, c'est-à-dire nous avons fait beaucoup de folies.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>Voy.</label>
 <ref target="notre">NOTRE</ref>
@@ -50208,7 +50214,7 @@
 <sense n="5">
 <dictScrap><oVar>Notre-Dame</oVar> désigne un grand nombre de corporations religieuses. Les Sœurs de <oVar>Notre-Dame</oVar>. <oVar>Notre-Dame</oVar> de la Charité. <oVar>Notre-Dame</oVar> de la Miséricorde, etc.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -50247,7 +50253,7 @@
 <dictScrap>Les Noues, nom, à Montereau, d'une promenade sur la rive gauche de l'Yonne.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -50291,7 +50297,7 @@
 <sense n="4">
 <dictScrap>Terme de paveur. Partie de pavé de forme triangulaire au droit d'un angle rentrant, composée de deux revers au milieu desquels est un ruisseau.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -50433,7 +50439,7 @@
 <sense>
 <dictScrap>Action de nouer. <oVar>Nouement</oVar> de l'aiguillette.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -50594,7 +50600,7 @@
 <dictScrap>La goutte se <oVar>noue</oVar>, se dit lorsque l'humeur qui cause la goutte se durcit dans les jointures.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -50690,7 +50696,7 @@
 <dictScrap>Terme de vétérinaire. Synonyme de mastigadour.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -50739,7 +50745,7 @@
 <dictScrap><oVar>Noueur</oVar> d'aiguillette, prétendu sorcier qui noue l'aiguillette.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -50779,7 +50785,7 @@
 <sense n="2">
 <dictScrap>Qui offre une ou plusieurs nodosités. Des doigts <oVar>noueux</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -50882,7 +50888,7 @@
 <sense>
 <dictScrap>Le petit poisson qu'on met dans un étang pour le peupler.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -51337,7 +51343,7 @@
 <sense n="9" ana="supplement">
 <dictScrap>Compartiment qui termine la série des chauffoirs, Enquête sur les sels, 1868, t. I, p. 510</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -51568,7 +51574,7 @@
 <dictScrap>Par plaisanterie. Père <oVar>nourricier</oVar>, celui qui fournit de l'argent à un autre.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -52232,10 +52238,10 @@
 <sense n="18">
 <dictScrap>Terme de marine. Se <oVar>nourrir</oVar>, se dit de l'état du ciel qui annonce quelque tempête. Le ciel commence à se <oVar>nourrir</oVar>.</dictScrap>
 </sense>
-<re type="P"><form>Il n'y a point de petit métier, il n'y a si petit métier qui ne nourrisse son maître</form>, c'est-à-dire le travail, quelque peu lucratif qu'il soit, donne de quoi vivre. </re>
-<re type="P">Une besace bien promenée nourrit son maître. </re>
-<re type="S">NOURRIR, ALIMENTER. Nourrir, c'est proprement fournir l'aliment à l'enfant, au petit qui vient de naître. Alimenter est plus général ; il se dit de toute espèce de choses qui entretiennent la vie. Mais, quand nourrir passe à son sens plus général, il devient alors tout à fait synonyme d'alimenter ; seulement, alimenter en ce sens a toujours quelque chose de technique. </re>
-<note type="H">
+<re type="PROV."><form>Il n'y a point de petit métier, il n'y a si petit métier qui ne nourrisse son maître</form>, c'est-à-dire le travail, quelque peu lucratif qu'il soit, donne de quoi vivre. </re>
+<re type="PROV.">Une besace bien promenée nourrit son maître. </re>
+<re type="SYN.">NOURRIR, ALIMENTER. Nourrir, c'est proprement fournir l'aliment à l'enfant, au petit qui vient de naître. Alimenter est plus général ; il se dit de toute espèce de choses qui entretiennent la vie. Mais, quand nourrir passe à son sens plus général, il devient alors tout à fait synonyme d'alimenter ; seulement, alimenter en ce sens a toujours quelque chose de technique. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -52500,7 +52506,7 @@
 <sense>
 <dictScrap>Qui peut-être nourri.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -52525,7 +52531,7 @@
 <sense n="2">
 <dictScrap>À Genève, <oVar>nourrissage</oVar> signifie le temps pendant lequel la mère ou la nourrice allaitent l'enfant. Mme N. s'est mieux portée pendant son <oVar>nourrissage</oVar> que jamais auparavant, HUMBERT., à Paris, on dit en ce sens nourriture.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -52558,7 +52564,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">NOURRISSANT, NOURRICIER, NUTRITIF. Nourrissant signifie qui nourrit beaucoup ; nourricier, qui fournit de la nourriture, peu ou beaucoup ; nutritif, qui sert à la nutrition. Le pain de froment est plus nourrissant que le pain de seigle. Les sucs nourriciers proviennent de la digestion des aliments. Il y a peu de parties nutritives dans le navet. </re>
+<re type="SYN.">NOURRISSANT, NOURRICIER, NUTRITIF. Nourrissant signifie qui nourrit beaucoup ; nourricier, qui fournit de la nourriture, peu ou beaucoup ; nutritif, qui sert à la nutrition. Le pain de froment est plus nourrissant que le pain de seigle. Les sucs nourriciers proviennent de la digestion des aliments. Il y a peu de parties nutritives dans le navet. </re>
 </entry>
 <entry xml:id="nourrissement">
 <form>
@@ -52569,8 +52575,8 @@
 <sense>
 <dictScrap>Action de nourrir.</dictScrap>
 </sense>
-<note type="R">Ce mot, abandonné à tort, ne peut être remplacé ni par nourriture ni par nutrition. </note>
-<note type="H">
+<note type="REM.">Ce mot, abandonné à tort, ne peut être remplacé ni par nourriture ni par nutrition. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -52617,7 +52623,7 @@
 <dictScrap>Celui qui élève de jeunes poulains.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -52721,7 +52727,7 @@
 <sense n="3">
 <dictScrap>Poulain ou pouliche qu'on élève.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -53090,7 +53096,7 @@
 </sense>
 <sense n="13">
 <dictScrap>Terme d'alchimie. <oVar>Nourriture</oVar> de la pierre, continuation du feu. </dictScrap>
-<re type="P"><form>Nourriture passe nature</form>, c'est-à-dire une bonne éducation peut corriger les mauvaises inclinations naturelles. </re>
+<re type="PROV."><form>Nourriture passe nature</form>, c'est-à-dire une bonne éducation peut corriger les mauvaises inclinations naturelles. </re>
 </sense>
 <sense n="14" ana="supplement">
 <dictScrap>Terme d'exploitation houillère.</dictScrap>
@@ -53102,7 +53108,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -53520,8 +53526,8 @@
 </cit>
 </sense>
 </sense>
-<note type="R">Nous se joint par un trait d'union au verbe et aux particules en et y dans les phrases impératives. </note>
-<note type="H">
+<note type="REM.">Nous se joint par un trait d'union au verbe et aux particules en et y dans les phrases impératives. </note>
+<note type="HIST.">
 
 <label>Xe s.</label>
 <cit>
@@ -54137,10 +54143,10 @@
 <dictScrap>Terme de banque et de commerce. À <oVar>nouveau</oVar>, sur un <oVar>nouveau</oVar> compte.</dictScrap>
 </sense>
 </sense>
-<re type="P">Tout ce qui est nouveau paraît beau, ou, plus brièvement, tout nouveau tout beau. </re>
-<re type="P">À nouvelles affaires, nouveaux conseils. </re>
-<note type="R">Nouveau mis immédiatement devant un substantif commençant par une voyelle, ou par une h muette, se change en nouvel : un nouvel hôte ; mais, quand le substantif ne suit pas tout près, on n'y change rien : un nouveau et rare moyen. </note>
-<note type="H">
+<re type="PROV.">Tout ce qui est nouveau paraît beau, ou, plus brièvement, tout nouveau tout beau. </re>
+<re type="PROV.">À nouvelles affaires, nouveaux conseils. </re>
+<note type="REM.">Nouveau mis immédiatement devant un substantif commençant par une voyelle, ou par une h muette, se change en nouvel : un nouvel hôte ; mais, quand le substantif ne suit pas tout près, on n'y change rien : un nouveau et rare moyen. </note>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -54653,7 +54659,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -55230,10 +55236,10 @@
 <dictScrap>Les Cent <oVar>nouvelles</oVar> <oVar>nouvelles</oVar>, titre d'un recueil de contes fort libres qu'on dit (mais cela est contesté) avoir été composés par Louis XI, lorsqu'il était encore Dauphin, et par quelques seigneurs de son intimité.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Personne n'en est revenu dire des nouvelles</form>, se dit de l'autre monde, de l'autre côté du tombeau. </re>
-<re type="P">Point de nouvelles, bonnes nouvelles, quand on ne reçoit point de nouvelles d'une personne, on doit présumer qu'il ne lui est point arrivé de mal. </re>
-<re type="P"><form>Il ne faut pas dire les nouvelles de l'école</form>, c'est-à-dire il ne faut pas divulguer ce qui se passe de particulier dans une société dont on est. </re>
-<note type="H">
+<re type="PROV."><form>Personne n'en est revenu dire des nouvelles</form>, se dit de l'autre monde, de l'autre côté du tombeau. </re>
+<re type="PROV.">Point de nouvelles, bonnes nouvelles, quand on ne reçoit point de nouvelles d'une personne, on doit présumer qu'il ne lui est point arrivé de mal. </re>
+<re type="PROV."><form>Il ne faut pas dire les nouvelles de l'école</form>, c'est-à-dire il ne faut pas divulguer ce qui se passe de particulier dans une société dont on est. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -55436,7 +55442,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -55484,7 +55490,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -55638,7 +55644,7 @@
 <sense n="3">
 <dictScrap>Adj. Terres novales. Dîmes novales.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -55747,7 +55753,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -55787,7 +55793,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -55895,7 +55901,7 @@
 <sense>
 <dictScrap>Terme didactique. Qui procède par le nombre neuf. Série <oVar>novénaire</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Chronologie novenaire contenant l'histoire de la guerre sous Henri IV et les choses les plus memorables advenues par tout le monde depuis 1589 jusqu'en 1598</quote>
@@ -55928,7 +55934,7 @@
 <sense>
 <dictScrap>Le même que NOUE 3.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -56101,7 +56107,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -56185,7 +56191,7 @@
 <sense>
 <dictScrap>Terme familier. Tout nouvellement, depuis très peu de temps. Cela est arrivé <oVar>novissimé</oVar>, tout <oVar>novissimé</oVar>.</dictScrap>
 </sense>
-<note type="R">L'Académie écrit novissimé avec un accent aigu, et optimè avec un accent grave ; il n'y a pas de raison pour que l'accent soit différent entre ces deux mots ; voy. donc la remarque à OPTIMÈ. </note>
+<note type="REM.">L'Académie écrit novissimé avec un accent aigu, et optimè avec un accent grave ; il n'y a pas de raison pour que l'accent soit différent entre ces deux mots ; voy. donc la remarque à OPTIMÈ. </note>
 <etym>Lat. novissime, adverbe qui est au superlatif, et qui vient de novus, nouveau (voy. <ref target="neuf.2">NEUF 2</ref>).</etym>
 </entry>
 <entry xml:id="noxal">
@@ -56225,7 +56231,7 @@
 </entry>
 <entry xml:id="noyale">
 <form>
-<orth>NOYALE ou NOYALLE</orth>
+<orth>NOYALE</orth><orth>NOYALLE</orth>
 <pron>no-ia-l' ; plusieurs prononcent noi-ia-l'</pron>
 <gram>s. f.</gram>
 </form>
@@ -56394,9 +56400,9 @@
 </sense>
 <sense n="15">
 <dictScrap><oVar>Noyau</oVar> d'olive, volute rustique, sorte de coquille. </dictScrap>
-<re type="P"><form>Il faut casser le noyau pour en avoir l'amande</form>, c'est-à-dire il faut prendre de la peine avant de retirer de l'utilité de quelque chose. </re>
+<re type="PROV."><form>Il faut casser le noyau pour en avoir l'amande</form>, c'est-à-dire il faut prendre de la peine avant de retirer de l'utilité de quelque chose. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -56648,7 +56654,7 @@
 <sense>
 <dictScrap>Être <oVar>noyé</oVar>, se dit du pilote qui, voulant prendre hauteur, ne découvre point assez d'horizon.</dictScrap>
 </sense>
-<re type="P"><form>De cent noyés, pas un de sauvé ; de cent pendus, pas un de perdu</form>, qui veut dire que sur cent pendus il n'y en a pas un à regretter, tandis que les noyés sont une vraie perte. </re>
+<re type="PROV."><form>De cent noyés, pas un de sauvé ; de cent pendus, pas un de perdu</form>, qui veut dire que sur cent pendus il n'y en a pas un à regretter, tandis que les noyés sont une vraie perte. </re>
 </sense>
 </entry>
 <entry xml:id="noyé-d_eau">
@@ -56711,7 +56717,7 @@
 <dictScrap>Noyer vénéneux, le mancenillier (euphorbiacées).</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -57152,7 +57158,7 @@
 </sense>
 <sense n="17">
 <dictScrap>Se noyer, au jeu de boules, pousser sa boule plus loin que la ligne qui est marquée au delà du but. </dictScrap>
-<re type="P"><form>Qui veut noyer son chien l'accuse de la rage, ou dit qu'il a la gale</form>, c'est-à-dire on ne manque pas de prétexte pour perdre les gens. </re>
+<re type="PROV."><form>Qui veut noyer son chien l'accuse de la rage, ou dit qu'il a la gale</form>, c'est-à-dire on ne manque pas de prétexte pour perdre les gens. </re>
 </sense>
 <sense n="18" ana="supplement">
 <dictScrap>Se noyer d'eau, boire de l'eau avec excès.</dictScrap>
@@ -57164,7 +57170,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>Xe s.</label>
 <cit>
@@ -57851,12 +57857,12 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Nu est invariable quand il précède le substantif, sans être lui-même précédé d'un article, et alors il se joint au substantif par un trait d'union : nu-pieds, nu-jambes, nu-tête. Il s'accorde, au contraire, quand il les suit : aller pieds nus ; je me promène tête nue. </p>
 <p>2. Quelques grammairiens croient que nu-pieds est pour nu par les pieds ; et ils expliquent ainsi le non-accord de ces mots ; mais cette explication n'est pas bonne ; car alors il faudrait dire qu'une fille est nue-pieds, nue-tête ; et l'on n'écrit pas ainsi. Nu est ici simplement un adjectif pris à la forme absolue, comme cela arrive souvent en français dans des locutions de même genre, JULLIEN., Autrefois cet usage, car ce n'est qu'un usage, n'était nullement observé.  <cit><quote>Vous n'alliez pas nus pieds pour faire moins de bruit ?</quote><bibl><author>SCARRON</author><biblScope>Jodelet ou le maître val. II, 1</biblScope></bibl></cit> <cit><quote>Madame de Guitaut était nues jambes, et avait perdu une de ses mules de chambre</quote><bibl><author>SÉV.</author><biblScope>20</biblScope></bibl></cit> <cit><quote>Elle monta seule et nus pieds sur l'échelle</quote><bibl><author>SÉV.</author><biblScope>297</biblScope></bibl></cit> <cit><quote>Je ne songe seulement pas à en tirer une de ma cassette pour me recoiffer, et je suis nue tête</quote><bibl><author>MARIVAUX</author><biblScope>Marianne, 3e part.</biblScope></bibl></cit> </p>
 <p>3. On écrit souvent, avec un trait d'union, nu-propriétaire, et on fait alors nu invariable : des nu-propriétaires ; mais ni l'un ni l'autre de ces usages ne doit être suivi. Il faut écrire nu propriétaire sans trait d'union, puisqu'on écrit nue propriété ; et dès lors nu doit s'accorder : les nus propriétaires ; une nue propriétaire. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -58021,7 +58027,7 @@
 <re ana="supplement" orig=" 1. NU. ">
 
 <dictScrap>Ajoutez : </dictScrap>
-<re type="P"><cit><quote>Cordonnier, va-nu-pieds</quote><bibl><biblScope>Journ. offic. 10 juillet 1877, p. 5132, 2e col.</biblScope></bibl></cit> (c'est un proverbe à mettre à côté de celui qui dit que les cordonniers sont les plus mal chaussés). </re>
+<re type="PROV."><cit><quote>Cordonnier, va-nu-pieds</quote><bibl><biblScope>Journ. offic. 10 juillet 1877, p. 5132, 2e col.</biblScope></bibl></cit> (c'est un proverbe à mettre à côté de celui qui dit que les cordonniers sont les plus mal chaussés). </re>
 </re>
 </entry>
 <entry xml:id="nu2">
@@ -58613,7 +58619,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -58767,7 +58773,7 @@
 <sense n="5">
 <dictScrap>Terme de musique. Se dit surtout des différences du forte et du piano. Cette pianiste joue sans <oVar>nuance</oVar> ; et, comme la <oVar>nuance</oVar> donne l'expression, on dit à peu près avec le même sens : jouer sans <oVar>nuance</oVar> et sans expression.</dictScrap>
 </sense>
-<note type="R">On se sert préférablement en peinture des termes de teintes et demi-teintes, de tons. Nuance est particulièrement du langage des teinturiers, des tapissiers et du langage figuré. </note>
+<note type="REM.">On se sert préférablement en peinture des termes de teintes et demi-teintes, de tons. Nuance est particulièrement du langage des teinturiers, des tapissiers et du langage figuré. </note>
 <etym>Nuer.</etym>
 </entry>
 <entry xml:id="nuancé">
@@ -58964,7 +58970,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -58997,8 +59003,8 @@
 </cit>
 </sense>
 </sense>
-<note type="R">Nubileux est dans les anciennes éditions du Dictionnaire de l'Académie. </note>
-<note type="H">
+<note type="REM.">Nubileux est dans les anciennes éditions du Dictionnaire de l'Académie. </note>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -59204,7 +59210,7 @@
 <sense>
 <dictScrap>Terme de botanique. Fruit charnu, libre, et renfermant plusieurs noyaux distincts appelés nucules.</dictScrap>
 </sense>
-<note type="R">De Candolle emploie le féminin, et je préférerais ce genre, LEGOARANT. </note>
+<note type="REM.">De Candolle emploie le féminin, et je préférerais ce genre, LEGOARANT. </note>
 <etym>Nucule.</etym>
 </entry>
 <entry xml:id="nuculaire">
@@ -59457,7 +59463,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -59786,8 +59792,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">NUE, NUAGE, NUÉE. La nue est le nom le plus général. Nuée et nuage ont, étymologiquement, le sens de réunion, masse de nues en vertu de leur finale ; mais l'usage a mis ces nuances : on dit les nues quand on veut exprimer l'ensemble des nuages qui couvrent le ciel ; on dit nuages quand on les considère surtout dans leur isolement et leur séparation ; enfin nuée désigne surtout une grosse nue. </re>
-<note type="H">
+<re type="SYN.">NUE, NUAGE, NUÉE. La nue est le nom le plus général. Nuée et nuage ont, étymologiquement, le sens de réunion, masse de nues en vertu de leur finale ; mais l'usage a mis ces nuances : on dit les nues quand on veut exprimer l'ensemble des nuages qui couvrent le ciel ; on dit nuages quand on les considère surtout dans leur isolement et leur séparation ; enfin nuée désigne surtout une grosse nue. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -60041,7 +60047,7 @@
 <sense n="8">
 <dictScrap>Terme d'alchimie. La <oVar>nuée</oVar> dont Jupiter couvrit Io, la petite peau qui paraissait au commencement de la congélation de l'élixir.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -60107,8 +60113,8 @@
 <dictScrap>Absolument. Cet ouvrier sait bien <oVar>nuer</oVar>.</dictScrap>
 </sense>
 </sense>
-<re type="S">NUER, NUANCER. La seule différence qu'on puisse apercevoir entre ces deux mots, c'est que nuer ne se dit jamais au figuré. </re>
-<note type="H">
+<re type="SYN.">NUER, NUANCER. La seule différence qu'on puisse apercevoir entre ces deux mots, c'est que nuer ne se dit jamais au figuré. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -60131,7 +60137,7 @@
 <sense>
 <dictScrap>Terme de féodalité. Qualité de ce qui est immédiat. Tenir un fief en <oVar>nuesse</oVar> de tel seigneur.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -60329,12 +60335,12 @@
 </bibl>
 </cit>
 </sense>
-<re type="P">Abondance de bien ou de biens ne nuit pas. </re>
-<re type="P">Surabondance de droit ne nuit pas. </re>
-<re type="P">Ce qui nuit à l'un, nuit à l'autre. </re>
-<re type="P">Tel nuit qui ne peut aider. </re>
-<re type="P">Trop gratter cuit, trop parler nuit. </re>
-<note type="H">
+<re type="PROV.">Abondance de bien ou de biens ne nuit pas. </re>
+<re type="PROV.">Surabondance de droit ne nuit pas. </re>
+<re type="PROV.">Ce qui nuit à l'un, nuit à l'autre. </re>
+<re type="PROV.">Tel nuit qui ne peut aider. </re>
+<re type="PROV.">Trop gratter cuit, trop parler nuit. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -60434,7 +60440,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -60503,7 +60509,7 @@
 <sense>
 <dictScrap>Qui nuit.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -60593,7 +60599,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -61335,9 +61341,9 @@
 </cit>
 </sense>
 </sense>
-<re type="P"><form>La nuit tous les chats sont gris</form>, c'est-à-dire il est aisé de se méprendre, de ne pas reconnaître ceux à qui l'on parle ; et aussi on ne connaît, pendant la nuit, si une personne est belle ou laide. </re>
-<re type="P"><form>La nuit porte conseil</form>, c'est-à-dire il est prudent de se donner le temps de réfléchir.  <cit><quote>Il sera demain jour, et la nuit porte avis</quote><bibl><author>CORN.</author><biblScope>Ment. III, 8</biblScope></bibl></cit> </re>
-<note type="H">
+<re type="PROV."><form>La nuit tous les chats sont gris</form>, c'est-à-dire il est aisé de se méprendre, de ne pas reconnaître ceux à qui l'on parle ; et aussi on ne connaît, pendant la nuit, si une personne est belle ou laide. </re>
+<re type="PROV."><form>La nuit porte conseil</form>, c'est-à-dire il est prudent de se donner le temps de réfléchir.  <cit><quote>Il sera demain jour, et la nuit porte avis</quote><bibl><author>CORN.</author><biblScope>Ment. III, 8</biblScope></bibl></cit> </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -61520,7 +61526,7 @@
 <sense>
 <dictScrap>De nuit. Il arriva <oVar>nuitamment</oVar>. Un vol commis <oVar>nuitamment</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -61557,7 +61563,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -61893,13 +61899,13 @@
 <sense n="5">
 <dictScrap>Terme de botanique. Qui manque entièrement. Calice <oVar>nul</oVar>. Graines <oVar>nulles</oVar>.</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Nul prend toujours la négation quand il est employé comme adjectif déterminatif, ou placé avant son substantif (exprimé ou sous-entendu) ; au contraire il ne la prend pas quand il est employé comme adjectif qualificatif : C'est un homme nul. </p>
 <p>2. Dans le sens de pas un, nul se met avant son substantif. </p>
 <p>3. On a critiqué ce vers-ci : <cit><quote>Nulle paix pour l'impie, il la cherche, elle fuit</quote><bibl><author>RAC.</author><biblScope>Esth. II, 9</biblScope></bibl></cit> En effet le pronom la représente non pas la paix, mais nulle paix ; toutefois le vers est très clair ; et ici la clarté suffit pour justifier la locution. Cependant, en général, la remarque est juste, et il faudrait se garder, excepté en des cas aussi clairs que celui de Racine, d'employer cette construction. </p>
 </note>
-<re type="S">NUL, AUCUN. La différence est que nul a, de soi, un sens négatif, et que aucun a, de soi, un sens positif ; il ne prend, primitivement, le sens négatif qu'avec une négation ; et c'est seulement par abus que, sans négation, il est employé quelquefois au sens de pas un. </re>
-<note type="H">
+<re type="SYN.">NUL, AUCUN. La différence est que nul a, de soi, un sens négatif, et que aucun a, de soi, un sens positif ; il ne prend, primitivement, le sens négatif qu'avec une négation ; et c'est seulement par abus que, sans négation, il est employé quelquefois au sens de pas un. </re>
+<note type="HIST.">
 
 <label>IXe s.</label>
 <cit>
@@ -62209,8 +62215,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Quand nullement sert de réponse à une question, il se met sans la négative : Voulez-vous céder vos droits ? Nullement. </note>
-<note type="H">
+<note type="REM.">Quand nullement sert de réponse à une question, il se met sans la négative : Voulez-vous céder vos droits ? Nullement. </note>
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -62343,7 +62349,7 @@
 <sense n="3">
 <dictScrap>Terme de typographie. Espèce de guillemets qu'on pose dans les colonnes où il ne doit point y avoir de chiffres. Ce signe remplace les francs ou les centimes manquent.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -62391,7 +62397,7 @@
 </entry>
 <entry xml:id="nûment">
 <form>
-<orth>NÛMENT ou NUEMENT</orth>
+<orth>NÛMENT</orth><orth>NUEMENT</orth>
 <pron>nu-man</pron>
 <gram>adv.</gram>
 </form>
@@ -62477,7 +62483,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -62606,8 +62612,8 @@
 <dictScrap>Arithmétique numérale, l'arithmétique proprement dite, par opposition à l'algèbre.</dictScrap>
 </sense>
 </sense>
-<re type="S">NUMÉRAL, NUMÉRIQUE. Numéral signifie qui désigne un nombre ; et numérique, qui a rapport aux nombres. Une différence numérique est une différence de nombre ; un caractère numéral appartient à des adjectifs, à des lettres, à des vers. </re>
-<note type="H">
+<re type="SYN.">NUMÉRAL, NUMÉRIQUE. Numéral signifie qui désigne un nombre ; et numérique, qui a rapport aux nombres. Une différence numérique est une différence de nombre ; un caractère numéral appartient à des adjectifs, à des lettres, à des vers. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -62637,7 +62643,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -62703,7 +62709,7 @@
 <dictScrap><oVar>Numération</oVar> décimale, celle qui emploie dix caractères ; <oVar>numération</oVar> binaire, ternaire, etc. celle qui n'en emploie que deux, trois, etc.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -62864,11 +62870,11 @@
 <sense n="7">
 <dictScrap>Partie d'un ouvrage publié par cahiers ou par feuilles numérotées. Un <oVar>numéro</oVar> de la Revue des Deux-Mondes. Le <oVar>numéro</oVar> du jour.</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Le mot étant étranger, on a hésité d'abord à lui donner le signe du pluriel.  <cit><quote>Je crois qu'on doit écrire au pluriel numéros et non pas numéro ; ce dernier mot, quoique tout latin, étant devenu français par l'usage</quote><bibl><author>D'ALEMB.</author><biblScope>Éloges, la Motte, note 4</biblScope></bibl></cit> </p>
 <p>2. On écrit en abrégé n° devant un nombre. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -63033,7 +63039,7 @@
 <sense>
 <dictScrap>Celui, celle qui étudie la numismatique. Un grand <oVar>numismatiste</oVar>. Une jeune <oVar>numismatiste</oVar>.</dictScrap>
 </sense>
-<note type="R">Depuis quelque temps, les savants qui s'occupent de numismatique, se nomment numismatistes, de préférence à numismate. </note>
+<note type="REM.">Depuis quelque temps, les savants qui s'occupent de numismatique, se nomment numismatistes, de préférence à numismate. </note>
 </entry>
 <entry xml:id="numismatographe">
 <form>
@@ -63089,7 +63095,7 @@
 <sense n="2">
 <dictScrap>Petite coquille pétrifiée, en forme de lentille, qui compose souvent des roches entières.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -63163,7 +63169,7 @@
 <dictScrap>Terme de théologie. Qui n'est que de nom. F. d'Urgel soutenait que Jésus-Christ, comme homme, n'était qu'un Dieu <oVar>nuncupatif</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -63324,7 +63330,7 @@
 <dictScrap>En jurisprudence, gains <oVar>nuptiaux</oVar>, voy. <ref target="gain">GAIN</ref>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -63361,7 +63367,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -63408,7 +63414,7 @@
 </entry>
 <entry xml:id="nurage">
 <form>
-<orth>NURAGE ou NURAGHE</orth>
+<orth>NURAGE</orth><orth>NURAGHE</orth>
 <pron>nu-ra-j' ou nu-ra-gh'</pron>
 <gram>s. m.</gram>
 </form>
@@ -63557,7 +63563,7 @@
 <dictScrap>Vie <oVar>nutritive</oVar>, la digestion, la respiration, la circulation et l'urination.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -63617,7 +63623,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -63925,7 +63931,7 @@
 </entry>
 <entry xml:id="nymphaea">
 <form>
-<orth>NYMPHAEA ou NYMPHÉA</orth>
+<orth>NYMPHAEA</orth><orth>NYMPHÉA</orth>
 <pron>nin-fé-a</pron>
 <gram>s. m.</gram>
 </form>
@@ -64140,7 +64146,7 @@
 </cit>
 </sense>
 </sense>
-<note type="R">L'Académie fait ce mot du féminin, mais c'est contre l'étymologie et contre l'analogie de cette sorte de mots, par exemple musée, temple des Muses. </note>
+<note type="REM.">L'Académie fait ce mot du féminin, mais c'est contre l'étymologie et contre l'analogie de cette sorte de mots, par exemple musée, temple des Muses. </note>
 <etym>Lat. nymphaeum ; le terme grec est dérivé de nymphe.</etym>
 <re ana="supplement">
 <re>NYMPHÉE. - REM. Ajoutez : Chateaubriand, avec raison, a fait nymphée du masculin : Qui a jamais entendu parler de mon ami Quecq ? et pourtant il a peint, pas trop mal, dans son nymphée la mort de Vitellius, Mém. d'outre-tombe. </re>

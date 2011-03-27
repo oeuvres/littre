@@ -113,7 +113,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -232,7 +232,7 @@
 <sense>
 <dictScrap>Personnage bouffon dans les comédies italiennes. Les <oVar>zani</oVar> sont proprement les bouffons des opérateurs et des troupes de danseurs de corde, qui attirent des spectateurs par leurs plaisanteries et leurs grimaces.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -419,7 +419,7 @@
 <sense>
 <dictScrap>Terme de botanique. Racine employée en médecine ; on distingue : la <oVar>zédoaire</oVar> ronde ou zerumbet, qui vient du curcuma zedoaria, Roxburgh, ou curcuma aromatica, Roscoe, Indes et Moluques ; et la <oVar>zédoaire</oVar> longue, qu'on attribue à l'amomum zedoaria, W. (zingibéracées).</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -554,7 +554,7 @@
 <dictScrap><oVar>Zélatrice</oVar>, nom, parmi les religieuses ursulines, d'un office qui répond à celui de procureur dans les communautés d'hommes.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -765,7 +765,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -888,7 +888,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -1107,7 +1107,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -1210,7 +1210,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
+<note type="REM.">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
 <etym>Du grec bouillir, et du grec pierre.</etym>
 </entry>
 <entry xml:id="zéolithique">
@@ -1247,7 +1247,7 @@
 </entry>
 <entry xml:id="zéphire">
 <form>
-<orth>ZÉPHIRE ou ZÉPHYR</orth>
+<orth>ZÉPHIRE</orth><orth>ZÉPHYR</orth>
 <pron>zé-fi-r' ou zé-fir</pron>
 <gram>s. m.</gram>
 </form>
@@ -1361,11 +1361,11 @@
 <dictScrap>On dit de même casimir <oVar>zéphire</oVar>, casimir fait avec la laine <oVar>zéphire</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. L'Académie distingue zéphire et zéphyr, disant que zéphire est le vent d'occident, et zéphyr tout vent doux et agréable. Cette distinction est illusoire et ne peut être admise ; les auteurs confondent perpétuellement zéphire et zéphyr, et il ne faut y voir qu'une variété d'orthographe. Il en est de même de la remarque de Vaugelas : " On dit en poésie zéphyr et zéphyre, au singulier, mais plus communément zéphyre. Au pluriel on dit au contraire zéphyrs plutôt que zéphyres. " </p>
 <p>2. On ne voit pas pourquoi l'Académie écrit zéphire par un i, et zéphyr par un y. Le mieux serait de mettre aux deux l'y grec étymologique, gardant les deux formes sans e et avec e pour l'usage de la versification. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -1550,8 +1550,8 @@
 <sense n="4">
 <dictScrap>Terme de musique. Signe qui, mis au-dessus d'une note, dans une partie d'instrument à cordes et à manche, indique que cette note doit être touchée à vide.</dictScrap>
 </sense>
-<note type="R">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
-<note type="H">
+<note type="REM.">Il faut dire deux zéro, deux un, deux quatre.... et non pas deux zéros, deux uns, deux quatres, Acad. Observ. sur Vaugel. p. 4, dans POUGENS. Cette décision n'a pas prévalu ; et avec raison on marque le pluriel par l's. </note>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -1829,7 +1829,12 @@
 </sense>
 </entry>
 <entry xml:id="zézayer">
-<form><orth>ZÉZAYER</orth><pron>zé-zè-ié</pron>, il se conjugue comme payer, v. n. </form>
+<form>
+<orth>ZÉZAYER</orth>
+<pron>zé-zè-ié</pron>
+<note>il se conjugue comme payer</note>
+<gram>v. n.</gram>
+</form>
 <sense>
 <dictScrap>Remplacer dans la prononciation l'articulation du j ou du g doux par celle du z ; c'est un défaut commun chez les enfants qui ont de la peine à prononcer les lettres chuintantes j et ch.</dictScrap>
 <cit>
@@ -1880,7 +1885,7 @@
 <sense n="3">
 <dictScrap>Adj. Martre <oVar>zibeline</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -2116,7 +2121,7 @@
 </entry>
 <entry xml:id="zincage">
 <form>
-<orth>ZINCAGE ou ZINGAGE</orth>
+<orth>ZINCAGE</orth><orth>ZINGAGE</orth>
 <pron>zin-ka-j' ou zin-ga-j'</pron>
 <gram>s. m.</gram>
 </form>
@@ -2422,7 +2427,7 @@
 </entry>
 <entry xml:id="zisel">
 <form>
-<orth>ZISEL ou ZIZEL</orth>
+<orth>ZISEL</orth><orth>ZIZEL</orth>
 <pron>zi-zèl</pron>
 <gram>s. m.</gram>
 </form>
@@ -2489,7 +2494,7 @@
 <sense n="3">
 <dictScrap>Terme de botanique. Genre de plantes d'Amérique, appartenant à la famille des graminées. On y distingue : la <oVar>zizanie</oVar> aquatique, dite riz sauvage (elle croît à la Jamaïque et en Virginie), et la <oVar>zizanie</oVar> palustre, dite folle avoine et riz du Canada.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -2560,7 +2565,14 @@
 <etym>Zoo..., et du grec fleur.</etym>
 </entry>
 <entry xml:id="zoanthodème">
-<form><orth>ZOANTHODÈME</orth><pron>zo-an-to-dè-m'</pron>, s. m. ou ZOANTHODÉMIE (zo-an-to-dé-mie), s. f. </form>
+<form>
+<orth>ZOANTHODÈME</orth>
+<pron>zo-an-to-dè-m'</pron>
+<gram>s. m.</gram>
+<orth>ZOANTHODÉMIE</orth>
+<pron>zo-an-to-dé-mie</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Nom donné par Lacaze-Duthiers à l'ensemble de tout ce qui compose le rameau de corail le plus complet.</dictScrap>
 </sense>
@@ -2664,7 +2676,7 @@
 <sense n="3">
 <dictScrap><oVar>Zodiaque</oVar> des comètes, partie du ciel où la plupart des comètes ont leur mouvement.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -2736,7 +2748,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R"><cit><quote>On prétend que ce fut l'envie qui l'engagea à écrire contre Homère, et que c'est ce qui a fait que tous les envieux ont depuis été appelés du nom de Zoïles</quote><bibl><author>BOILEAU</author><biblScope>Réfl. crit. sur Longin, Réfl. V</biblScope></bibl></cit> M. A. Pierron, Iliade, t. II, p. 582, Append VI, rectifie ainsi le dire de Boileau : Le nom de Zoïlus en latin est synonyme d'envieux (Martial, Epigr. IV, 77). Mais le Zoïle grec n'était point un envieux, c'était un mauvais critique. Ce sont les Latins qui ont fait l'antonomase de Zoïle mauvais critique en critique envieux. La seule signification légitime de ce mot, comme nom commun, est mauvais critique. </note>
+<note type="REM."><cit><quote>On prétend que ce fut l'envie qui l'engagea à écrire contre Homère, et que c'est ce qui a fait que tous les envieux ont depuis été appelés du nom de Zoïles</quote><bibl><author>BOILEAU</author><biblScope>Réfl. crit. sur Longin, Réfl. V</biblScope></bibl></cit> M. A. Pierron, Iliade, t. II, p. 582, Append VI, rectifie ainsi le dire de Boileau : Le nom de Zoïlus en latin est synonyme d'envieux (Martial, Epigr. IV, 77). Mais le Zoïle grec n'était point un envieux, c'était un mauvais critique. Ce sont les Latins qui ont fait l'antonomase de Zoïle mauvais critique en critique envieux. La seule signification légitime de ce mot, comme nom commun, est mauvais critique. </note>
 </entry>
 <entry xml:id="zoïodine">
 <form>
@@ -2932,7 +2944,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -2992,7 +3004,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -3321,7 +3333,7 @@
 </entry>
 <entry xml:id="zoologiste">
 <form>
-<orth>ZOOLOGISTE ou ZOOLOGUE</orth>
+<orth>ZOOLOGISTE</orth><orth>ZOOLOGUE</orth>
 <pron>zo-o-lo-ji-st' ou zoo-lo-gh'</pron>
 <gram>s. m.</gram>
 </form>
@@ -3433,7 +3445,13 @@
 </sense>
 </entry>
 <entry xml:id="zoonosologie">
-<form><orth>ZOONOSOLOGIE</orth><pron>zo-o-no-zo-lo-jie</pron>, ou ZOOPATHOLOGIE (zo-o-pa-to-lo-jie), s. f. </form>
+<form>
+<orth>ZOONOSOLOGIE</orth>
+<pron>zo-o-no-zo-lo-jie</pron>
+<orth>ZOOPATHOLOGIE</orth> 
+<pron>zo-o-pa-to-lo-jie</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Connaissance des maladies des animaux.</dictScrap>
 </sense>
@@ -3441,7 +3459,7 @@
 </entry>
 <entry xml:id="zoonosologique">
 <form>
-<orth>ZOONOSOLOGIQUE ou ZOOPATHOLOGIQUE</orth>
+<orth>ZOONOSOLOGIQUE</orth><orth>ZOOPATHOLOGIQUE</orth>
 <pron>zo-o-no-zo-lo-ji-k' ou zo-o-pa-to-lo-ji-k'</pron>
 <gram>adj.</gram>
 </form>
@@ -3548,7 +3566,7 @@
 <sense n="3">
 <dictScrap>Cuvier a fait à tort ce mot synonyme d'animaux rayonnés.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -3573,7 +3591,15 @@
 </sense>
 </entry>
 <entry xml:id="zoophytographe">
-<form><orth>ZOOPHYTOGRAPHE</orth><pron>zo-o-fi-to-gra-f'</pron>, ZOOPHYTOLOGISTE, (zo-o-fi-to-lo-ji-st') ZOOPHYTOLOGUE (zo-o-fi-to-lo-gh'), s. m. </form>
+<form>
+<orth>ZOOPHYTOGRAPHE</orth>
+<pron>zo-o-fi-to-gra-f'</pron>
+<orth>ZOOPHYTOLOGISTE</orth>
+<pron>zo-o-fi-to-lo-ji-st'</pron>
+<orth>ZOOPHYTOLOGUE</orth>
+<pron>zo-o-fi-to-lo-gh'</pron>
+<gram>s. m.</gram>
+</form>
 <sense>
 <dictScrap>Celui qui s'adonne à l'étude des zoophytes.</dictScrap>
 <sense>
@@ -3582,7 +3608,13 @@
 </sense>
 </entry>
 <entry xml:id="zoophytographie">
-<form><orth>ZOOPHYTOGRAPHIE</orth><pron>zo-o-fi-to-gra-fie</pron> ZOOPHYTOLOGIE (zo-o-fi-to-lo-jie), s. f. </form>
+<form>
+<orth>ZOOPHYTOGRAPHIE</orth>
+<pron>zo-o-fi-to-gra-fie</pron> 
+<orth>ZOOPHYTOLOGIE</orth>
+<pron>zo-o-fi-to-lo-jie</pron>
+<gram>s. f.</gram>
+</form>
 <sense>
 <dictScrap>Description histoire des zoophytes.</dictScrap>
 <sense>
@@ -4002,7 +4034,7 @@
 <sense>
 <dictScrap>Membre d'une secte fondée au XVIe siècle par Zwingle, curé de Zurich.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4061,7 +4093,7 @@
 <sense>
 <dictScrap>Terme d'anatomie. Os de la pommette, dit aussi os jugal, os malaire.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>

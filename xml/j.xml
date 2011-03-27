@@ -42,7 +42,7 @@
 <dictScrap>Le <oVar>j</oVar> ne se redouble jamais ; il ne se trouve jamais ni avant une consonne ni à la fin d'un mot ni avant la voyelle i, si ce n'est par élision, comme dans : <oVar>j</oVar>'ignore, <oVar>j</oVar>'irai.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -99,7 +99,7 @@
 <dictScrap><oVar>Jà</oVar> a vieilli dans les deux acceptions.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -222,7 +222,7 @@
 <sense n="2">
 <dictScrap>Terme de verrier. Jonction du fond d'un pot avec la flèche.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -336,7 +336,7 @@
 <dictScrap>Familièrement. Faire <oVar>jabot</oVar>, tirer en dehors le <oVar>jabot</oVar> de sa chemise pour en faire parade ; et fig. se rengorger.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -385,7 +385,7 @@
 <sense n="2">
 <dictScrap>V. a. J'ai ouï <oVar>jaboter</oVar> quelque chose de cela.</dictScrap>
 </sense>
-<re type="S">JABOTER, JASER, CAQUETER. Jaboter, c'est parler ensemble d'une voix peu élevée ; jaser, c'est parler ensemble sans vouloir ni baisser ni élever la voix ; caqueter, c'est parler ensemble, mais avec du bruit, avec de l'éclat. En effet, étymologiquement, jaboter, c'est parler, pour ainsi dire, dans son jabot, de près ; jaser, c'est, il semble, faire le jars, le mâle de l'oie ; enfin caqueter, c'est crier comme la poule qui vient de pondre son œuf et qui le fait savoir à grand bruit. </re>
+<re type="SYN.">JABOTER, JASER, CAQUETER. Jaboter, c'est parler ensemble d'une voix peu élevée ; jaser, c'est parler ensemble sans vouloir ni baisser ni élever la voix ; caqueter, c'est parler ensemble, mais avec du bruit, avec de l'éclat. En effet, étymologiquement, jaboter, c'est parler, pour ainsi dire, dans son jabot, de près ; jaser, c'est, il semble, faire le jars, le mâle de l'oie ; enfin caqueter, c'est crier comme la poule qui vient de pondre son œuf et qui le fait savoir à grand bruit. </re>
 <etym>Jabot ; bourguig. jaibotai.</etym>
 </entry>
 <entry xml:id="jaboteur">
@@ -556,7 +556,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -605,7 +605,7 @@
 <sense>
 <dictScrap>Terme d'agriculture. Labourer des jachères.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -784,7 +784,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -925,7 +925,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1045,7 +1045,7 @@
 <dictScrap>On écrit aussi jaquerie.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -1125,7 +1125,7 @@
 <sense n="6">
 <dictScrap>Maître <oVar>Jacques</oVar>, homme qui réunit plusieurs emplois dans une maison, par allusion au maître <oVar>Jacques</oVar> de l'Avare de Molière qui est à la fois cocher et cuisinier.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -1214,7 +1214,7 @@
 <dictScrap>Paroles de <oVar>jactance</oVar>. Ses jactances.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1265,7 +1265,7 @@
 <sense>
 <dictScrap>Terme de médecine. Agitation continuelle qui oblige un malade à changer sans cesse de position dans son lit.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -1526,8 +1526,8 @@
 </cit>
 </sense>
 </sense>
-<note type="R">Jadis est du style élevé ou poétique ; dans la conversation on dit : autrefois. </note>
-<note type="H">
+<note type="REM.">Jadis est du style élevé ou poétique ; dans la conversation on dit : autrefois. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1675,7 +1675,7 @@
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -1798,7 +1798,7 @@
 <dictScrap>On dit aussi : jaïet.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1913,7 +1913,7 @@
 <sense>
 <dictScrap>Espèce de grande jatte ou de baquet.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -1948,7 +1948,7 @@
 <dictScrap>Arbalète à <oVar>jalet</oVar>, ou arc à <oVar>jalet</oVar>, arbalète avec laquelle on lançait des cailloux ou des balles.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -2093,7 +2093,7 @@
 <sense>
 <dictScrap>Avec jalousie, par jalousie.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -2134,7 +2134,7 @@
 <sense n="2">
 <dictScrap>Se <oVar>jalouser</oVar>, V. réfl. Avoir de la jalousie l'un pour l'autre. Les gens de même métier se <oVar>jalousent</oVar> souvent entre eux.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -2557,7 +2557,7 @@
 <sense n="8">
 <dictScrap>Ancienne espèce de contredanse.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -3101,10 +3101,10 @@
 <dictScrap>Il se dit également des berlines et autres voitures semblables, quand elles sont sujettes à pencher d'un côté ou de l'autre.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Il ne dort non plus qu'un jaloux</form>, c'est-à-dire il ne saurait dormir. </re>
-<re type="P"><form>Il en est jaloux comme un gueux de sa besace</form>. </re>
-<re type="P"><form>Sans les jaloux on vivrait</form>, c'est-à-dire que, quelque chose que l'on fasse, on trouve toujours des compétiteurs et des antagonistes. </re>
-<note type="H">
+<re type="PROV."><form>Il ne dort non plus qu'un jaloux</form>, c'est-à-dire il ne saurait dormir. </re>
+<re type="PROV."><form>Il en est jaloux comme un gueux de sa besace</form>. </re>
+<re type="PROV."><form>Sans les jaloux on vivrait</form>, c'est-à-dire que, quelque chose que l'on fasse, on trouve toujours des compétiteurs et des antagonistes. </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -3492,13 +3492,13 @@
 </sense>
 <sense n="7">
 <dictScrap><oVar>Jamais</oVar> plus avec la négation, de la vie. <oVar>Jamais</oVar> plus je ne me rembarquerai. À condition que je n'entende <oVar>jamais</oVar> plus parler de lui.</dictScrap> 
-<re type="P"><form>La semaine des trois jeudis, trois jours après jamais</form>, se dit pour signifier que quelque chose ne se fera jamais. On dit aussi : Je ferai cela en mil huit cent jamais. </re>
+<re type="PROV."><form>La semaine des trois jeudis, trois jours après jamais</form>, se dit pour signifier que quelque chose ne se fera jamais. On dit aussi : Je ferai cela en mil huit cent jamais. </re>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Jamais peut occuper différentes places dans la phrase : Jamais je ne le verrai, je ne le verrai jamais ; jamais je ne l'ai vu, je ne l'ai jamais vu. </p>
 <p>2. Jamais construit avec une préposition, avec un adjectif, joue le rôle d'un substantif ; ce qu'il doit à mais qui est l'équivalent de plus. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -3703,7 +3703,7 @@
 <dictScrap>Droit du seigneur. Un seigneur dit : je m'en empare ; Le droit de <oVar>jambage</oVar> est à moi, BÉRANG. M. de Charlemagne</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4071,11 +4071,11 @@
 <dictScrap><oVar>Jambe</oVar> de filet, aile qu'on ajoute sur le côté des filets à manche.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Cela ne lui rend pas la jambe bien faite, mieux faite</form>, ou, par ironie, <form>cela lui fait une belle jambe</form>, cela ne lui apporte aucun avantage, est sans utilité pour lui.  <cit><quote>Oui, ma foi, cela vous rendrait la jambe bien mieux faite</quote><bibl><author>MOL.</author><biblScope>Bourg. gent. III, 3</biblScope></bibl></cit> <cit><quote>En auriez-vous eu la jambe mieux faite ?</quote><bibl><author>HAMILT.</author><biblScope>Gramm. 11</biblScope></bibl></cit> </re>
-<re type="P"><form>Au sens contraire : Cela rend-il la jambe moins belle</form>, c'est-à-dire quel tort cela fait-il ? <cit><quote>Quel mal cela fait-il ? la jambe en devient-elle Plus tortue après tout, et la taille moins belle ?</quote><bibl><author>MOL.</author><biblScope>Sgan. 17</biblScope></bibl></cit> </re>
-<re type="P"><form>Le lit est l'écharpe de la jambe</form>, c'est-à-dire le lit est pour la jambe malade ou blessée ce que l'écharpe est pour le bras cassé ; il ne faut point marcher tant qu'on a mal à la jambe. </re>
-<note type="R">Prendre ses jambes à son cou, locution singulière. On a dit au XVe siècle : ployer ses jambes et s'en aller. Ne serait-ce pas là l'origine de la locution ? l'homme qui s'en va, qui s'enfuit, ploie ses jambes, comme le porte-balle qui s'en va ploie ses marchandises, et les met à son cou (le porte-balle se nommait souvent un porte à cou). </note>
-<note type="H">
+<re type="PROV."><form>Cela ne lui rend pas la jambe bien faite, mieux faite</form>, ou, par ironie, <form>cela lui fait une belle jambe</form>, cela ne lui apporte aucun avantage, est sans utilité pour lui.  <cit><quote>Oui, ma foi, cela vous rendrait la jambe bien mieux faite</quote><bibl><author>MOL.</author><biblScope>Bourg. gent. III, 3</biblScope></bibl></cit> <cit><quote>En auriez-vous eu la jambe mieux faite ?</quote><bibl><author>HAMILT.</author><biblScope>Gramm. 11</biblScope></bibl></cit> </re>
+<re type="PROV."><form>Au sens contraire : Cela rend-il la jambe moins belle</form>, c'est-à-dire quel tort cela fait-il ? <cit><quote>Quel mal cela fait-il ? la jambe en devient-elle Plus tortue après tout, et la taille moins belle ?</quote><bibl><author>MOL.</author><biblScope>Sgan. 17</biblScope></bibl></cit> </re>
+<re type="PROV."><form>Le lit est l'écharpe de la jambe</form>, c'est-à-dire le lit est pour la jambe malade ou blessée ce que l'écharpe est pour le bras cassé ; il ne faut point marcher tant qu'on a mal à la jambe. </re>
+<note type="REM.">Prendre ses jambes à son cou, locution singulière. On a dit au XVe siècle : ployer ses jambes et s'en aller. Ne serait-ce pas là l'origine de la locution ? l'homme qui s'en va, qui s'enfuit, ploie ses jambes, comme le porte-balle qui s'en va ploie ses marchandises, et les met à son cou (le porte-balle se nommait souvent un porte à cou). </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -4294,7 +4294,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4347,7 +4347,7 @@
 <dictScrap>Aujourd'hui, espèce de guêtre dont on s'enveloppe les jambes. Les cantonniers, quand ils cassent les pierres, ont des <oVar>jambières</oVar> en bois.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -4406,7 +4406,7 @@
 <sense n="2">
 <dictScrap>Terme de botanique. <oVar>Jambon</oVar> des jardiniers, <oVar>jambon</oVar> de Saint-Antoine, voy. <ref target="oenothère">OENOTHÈRE</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -4514,7 +4514,7 @@
 <dictScrap>Par extension, on a donné le nom de <oVar>jan</oVar> aux parties du trictrac où ces <oVar>jans</oVar> ont lieu : on dit le petit <oVar>jan</oVar>, le grand <oVar>jan</oVar>, le <oVar>jan</oVar> de retour pour la première partie, la seconde, et enfin la première de l'adversaire.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -4835,7 +4835,7 @@
 <dictScrap>Les quatre <oVar>jantes</oVar> du rond sont quatre pièces de bois formant entre elles un rond et qui sont assemblées à tenons dans les six <oVar>jantes</oVar> de double rond.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -4981,10 +4981,10 @@
 <dictScrap>Édit de <oVar>janvier</oVar>, celui par lequel Catherine de Médicis accorda aux calvinistes l'exercice de leur religion hors de l'enceinte des villes (en 1562).</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>C'est un soleil de janvier</form>, se dit d'une personne sans caractère et sans crédit. </re>
-<re type="P"><form>Janvier a trois bonnets</form>, c'est-à-dire il y fait froid, et il faut se bien couvrir la tête.  <cit><quote>Nos apothicaires me font pitié, quoique je ne les aime point et qu'ils me haïssent ; ils sont si morfondus que janvier à deux bonnets ne l'est pas davantage</quote><bibl><author>GUI PATIN</author><biblScope>Lettres, t. II, p. 507</biblScope></bibl></cit> </re>
-<re type="P">Janvier d'eau chiche fait le paysan riche. </re>
-<note type="H">
+<re type="PROV."><form>C'est un soleil de janvier</form>, se dit d'une personne sans caractère et sans crédit. </re>
+<re type="PROV."><form>Janvier a trois bonnets</form>, c'est-à-dire il y fait froid, et il faut se bien couvrir la tête.  <cit><quote>Nos apothicaires me font pitié, quoique je ne les aime point et qu'ils me haïssent ; ils sont si morfondus que janvier à deux bonnets ne l'est pas davantage</quote><bibl><author>GUI PATIN</author><biblScope>Lettres, t. II, p. 507</biblScope></bibl></cit> </re>
+<re type="PROV.">Janvier d'eau chiche fait le paysan riche. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5194,7 +5194,7 @@
 <dictScrap>Se dit aussi du cri du renard.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5253,7 +5253,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -5300,7 +5300,7 @@
 <sense>
 <dictScrap>Celui qui jappe.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -5332,7 +5332,7 @@
 <dictScrap><oVar>Jaque</oVar> de mailles, armure faite de mailles de fer qui couvrent le corps depuis le cou jusqu'aux cuisses.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -5421,7 +5421,7 @@
 <sense n="3">
 <dictScrap>Ressort qui est au bas de la vis du balancier et qui sert à le relever quand la pièce est marquée.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -5500,7 +5500,7 @@
 <dictScrap>Je ne m'en souviens non plus que de ma première <oVar>jaquette</oVar>, c'est-à-dire c'est une chose que j'ai complétement oubliée.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -5555,7 +5555,7 @@
 </entry>
 <entry xml:id="jar">
 <form>
-<orth>JAR ou JARD</orth>
+<orth>JAR</orth><orth>JARD</orth>
 <pron>jar</pron>
 <gram>s. m.</gram>
 </form>
@@ -5802,7 +5802,7 @@
 <sense n="7">
 <dictScrap><oVar>Jardin</oVar> des racines grecques, nom donné par les grammairiens de Port-Royal au recueil qu'ils avaient fait des racines grecques. On voit que les auteurs jouaient ici sur le mot de racine, qui se prend dans la nature en un sens qui justifie le mot <oVar>jardin</oVar> ; et en grammaire dans un autre sens auquel le mot <oVar>jardin</oVar> ne peut convenir que par abus.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -5918,7 +5918,7 @@
 <sense n="5">
 <dictScrap>Terme de lapidaire. Taches qui se trouvent dans le diamant, et qui viennent ou de matières étrangères qui y sont infiltrées, ou de coups qui le fêlent.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -5984,7 +5984,7 @@
 <sense>
 <dictScrap>Action de jardiner.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6039,7 +6039,7 @@
 <sense n="3">
 <dictScrap>V. a. Terme de fauconnerie. <oVar>Jardiner</oVar> un autour, l'exposer au soleil, pour lui faire prendre l'air.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -6089,7 +6089,7 @@
 <sense n="2">
 <dictScrap>Terme de marine. Compartiment sur le pont pour encaquer les harengs.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -6212,7 +6212,7 @@
 <dictScrap>Jardinière, nom de divers insectes qui attaquent les racines des plantes potagères.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -6469,7 +6469,7 @@
 <dictScrap><oVar>Jargon</oVar> s'est pris dans le sens de langage de convention dont on se sert pour correspondre avec un ambassadeur, Mém. pour le card. de Richelieu, Cologne, 1667, p. 310 (dans cet écrit, on voit que jardin signifiait Rome).</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -6631,7 +6631,7 @@
 <sense n="4">
 <dictScrap>Terme de fauconnerie. Crier comme l'oie, ou le jars.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -6732,7 +6732,7 @@
 <sense>
 <dictScrap>Celui qui jargonne.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -6839,7 +6839,7 @@
 <sense>
 <dictScrap>Noms vulgaires de la gesse chiche et gesse vulgaire, et de la vesce craque qu'on sème pour la couper en vert (Poitou et Vendée).</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -7014,7 +7014,7 @@
 <sense n="7">
 <dictScrap>Terme de pêche. Poisson du genre des spares.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -7202,8 +7202,8 @@
 <sense ana="supplement" n="6">
 <dictScrap>Petit cordage employé dans les manœuvres de force.</dictScrap>
 </sense>
-<note type="R">On a dit, quelquefois, au commencement du XVIIe siècle, jartière : <cit><quote>Sa ceinture honorable, ainsi que ses jartières</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM.">On a dit, quelquefois, au commencement du XVIIe siècle, jartière : <cit><quote>Sa ceinture honorable, ainsi que ses jartières</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> </note>
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -7291,7 +7291,7 @@
 <dictScrap>Fig. et populairement. Il entend le <oVar>jars</oVar>, il est fin, on ne lui en fait pas accroire aisément, locution qui, complète, est : il entend le <oVar>jars</oVar>, il a mené les oies, et, par conséquent, il a appris, en menant les oies, à comprendre ce que veut le <oVar>jars</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -7354,7 +7354,7 @@
 <sense>
 <dictScrap>Action de jaser.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -7499,7 +7499,7 @@
 <dictScrap><oVar>Jaser</oVar> comme une pie, comme une pie borgne, c'est-à-dire parler beaucoup, babiller.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -7542,7 +7542,7 @@
 <sense n="3">
 <dictScrap>Espèce de chaîne de petits anneaux, dite par corruption jaseron, qui sert à suspendre au cou des croix, des médaillons, etc.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -7583,7 +7583,7 @@
 <sense>
 <dictScrap>Babil. Une <oVar>jaserie</oVar> continuelle.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -7653,7 +7653,7 @@
 <sense n="4">
 <dictScrap>S. f. Jaseuse ou petite jaseuse, nom vulgaire du tirica, espèce de perruche à queue courte.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -7749,7 +7749,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -7840,7 +7840,7 @@
 <sense n="2">
 <dictScrap>Le relieur appelle <oVar>jaspe</oVar> les couleurs dont il marbre la tranche des livres.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -7969,7 +7969,7 @@
 </entry>
 <entry xml:id="jaspiller">
 <form>
-<orth>JASPILLER ou JASPINER</orth>
+<orth>JASPILLER</orth><orth>JASPINER</orth>
 <pron>ja-spi-llé, ll mouillées ou jas-pi-né</pron>
 <gram>v. n.</gram>
 </form>
@@ -8076,7 +8076,7 @@
 <sense n="7">
 <dictScrap>Fig. et familièrement. Cul-de-<oVar>jatte</oVar>, voy. <ref target="cul#var3">CUL, n° 3</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -8175,7 +8175,7 @@
 <sense ana="supplement" n="11">
 <dictScrap>Nom, dans le pyromètre de Wedgwood, d'une plaque de cuivre sur laquelle sont soudées deux règles de cuivre légèrement convergentes.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -8279,7 +8279,7 @@
 <sense n="5">
 <dictScrap><oVar>Jauger</oVar> se dit aussi du tirant d'eau d'un vaisseau ou d'un bateau. Certains bateaux de la Seine portent 1100 milliers et <oVar>jaugent</oVar> deux mètres d'eau.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -8312,7 +8312,7 @@
 <sense n="2">
 <dictScrap>Ouvrier qui, à l'aide de la jauge, manie l'enclume ou de grosses masses de fer.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -8384,7 +8384,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -8631,7 +8631,7 @@
 <sense ana="supplement" n="11">
 <dictScrap>Le <oVar>jaune</oVar>, nom d'une maladie de la vigne causée par les pluies froides.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -8695,7 +8695,7 @@
 <re ana="supplement" orig=" JAUNE. Ajoutez : ">
 
 
-<re type="P"><form>Le jaune est le fard des brunes</form>. </re>
+<re type="PROV."><form>Le jaune est le fard des brunes</form>. </re>
 </re>
 </entry>
 <entry xml:id="jauneau">
@@ -8728,7 +8728,7 @@
 <sense>
 <dictScrap>D'une manière jaune.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -8767,7 +8767,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -8807,7 +8807,7 @@
 <sense>
 <dictScrap>Couleur jaune, teinte jaune.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -8904,7 +8904,7 @@
 <dictScrap>Terme de doreur sur bois. Enduire un ouvrage à dorer d'une couche de jaune à l'eau.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -8966,7 +8966,7 @@
 <dictScrap>Il ne s'emploie guère que dans le style élevé ou poétique.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -9028,7 +9028,7 @@
 <sense n="4">
 <dictScrap>Maladie des vers à soie.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -9076,7 +9076,7 @@
 <sense>
 <dictScrap>Action de rendre jaune ou de devenir jaune.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -9153,7 +9153,7 @@
 <sense>
 <dictScrap>Terme de vétérinaire. Tumeur phlegmoneuse, analogue au furoncle, qui se forme au pied du cheval et du bœuf, entre le paturon et la couronne. <oVar>Javart</oVar> encorné, <oVar>javart</oVar> qui est au pied ; <oVar>javart</oVar> tendineux, <oVar>javart</oVar> qui est à la peau.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -9185,7 +9185,7 @@
 <sense>
 <dictScrap>Terme d'eaux et forêts. Île formée de sable et de limon par un débordement d'eau.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -9245,7 +9245,7 @@
 <sense n="2">
 <dictScrap>V. n. Prendre la couleur jaune que prend le blé mis en javelle. Le blé javelle. Il faut laisser <oVar>javeler</oVar> ce blé, cette avoine.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -9278,7 +9278,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -9308,7 +9308,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -9403,7 +9403,7 @@
 <sense n="5">
 <dictScrap>Terme de pêche. Se dit de petits tas de huit morues lorsqu'elles ont reçu plusieurs soleils.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -9456,7 +9456,7 @@
 <sense>
 <dictScrap>Eau de <oVar>javelle</oVar>, ainsi dite du moulin de Javel près Paris où cette eau se fabriquait primitivement. L'eau de <oVar>javelle</oVar> est du chlorure de potassium en dissolution dans l'eau.</dictScrap>
 </sense>
-<note type="R" ana="supplement">Plus exactement, l'eau de javelle résulte de la dissolution dans l'eau d'un mélange de chlorure de potassium et d'hypochlorite de potasse.</note>
+<note type="REM." ana="supplement">Plus exactement, l'eau de javelle résulte de la dissolution dans l'eau d'un mélange de chlorure de potassium et d'hypochlorite de potasse.</note>
 </entry>
 <entry xml:id="javelot">
 <form>
@@ -9498,7 +9498,7 @@
 <sense n="2">
 <dictScrap>Serpent que l'on nomme aussi dard.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -9544,7 +9544,7 @@
 </entry>
 <entry xml:id="javotte">
 <form>
-<orth>JAVOTTE ou JAVELOTTE</orth>
+<orth>JAVOTTE</orth><orth>JAVELOTTE</orth>
 <pron>ja-vo-t' ou ja-ve-lo-t'</pron>
 <gram>s. f.</gram>
 </form>
@@ -9742,7 +9742,7 @@
 <sense n="7">
 <dictScrap><oVar>Je</oVar> ne sais quoi, ou, substantivement, un <oVar>je</oVar> ne sais quoi, voy. <ref target="savoir">SAVOIR</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>IXe s.</label>
 <cit>
@@ -10094,7 +10094,7 @@
 <sense ana="supplement" n="21">
 <dictScrap><oVar>Jean</oVar> du Houx, bâton.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -10143,8 +10143,8 @@
 
 
 
-<note type="R" ana="supplement">Jean de Nivelle, qui est cité au n° 10, était un fou des confréries du Saint-Cordon, qui figurait à la procession de la fête de la Nativité (Voy. Mme Clément Hemery, Fêtes civiles et religieuses du département du Nord). </note>
-<note type="H">
+<note type="REM." ana="supplement">Jean de Nivelle, qui est cité au n° 10, était un fou des confréries du Saint-Cordon, qui figurait à la procession de la fête de la Nativité (Voy. Mme Clément Hemery, Fêtes civiles et religieuses du département du Nord). </note>
+<note type="HIST.">
 
 <label>XVe s. Ajoutez :</label>
 <cit>
@@ -10228,7 +10228,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -10379,7 +10379,7 @@
 <sense>
 <dictScrap>Terme d'anatomie. Le second intestin grêle.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -10534,7 +10534,7 @@
 <sense n="3">
 <dictScrap>Nom donné, dans quelques provinces, au dindon, qu'on croit, à tort, avoir été introduit par les <oVar>jésuites</oVar> en Europe.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -10608,7 +10608,7 @@
 <sense n="2">
 <dictScrap>Conduite jésuitique. C'est du <oVar>jésuitisme</oVar> tout pur.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -10880,7 +10880,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -11279,7 +11279,7 @@
 <sense n="5">
 <dictScrap>Terme de chandelier. <oVar>Jetée</oVar> des chandelles, le nombre de chandelles qu'on peut mouler d'une seule fonte de suif.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -13249,9 +13249,9 @@
 <biblScope>71, 174</biblScope>
 </bibl>
 </cit>
-<re type="P"><form>Qui bien jettera, son compte trouvera</form>, c'est-à-dire lorsqu'on calcule exactement ses dépenses, on n'outre-passe point son revenu. </re>
+<re type="PROV."><form>Qui bien jettera, son compte trouvera</form>, c'est-à-dire lorsqu'on calcule exactement ses dépenses, on n'outre-passe point son revenu. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>Xe s.</label>
 <cit>
@@ -13633,7 +13633,7 @@
 <sense n="5">
 <dictScrap>Terme de fondeur. Petit instrument pour vérifier si les caractères d'imprimerie sont bien de niveau les uns avec les autres.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -13758,7 +13758,7 @@
 <sense>
 <dictScrap>Action de jeter.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -14205,7 +14205,7 @@
 </sense>
 <sense>
 <dictScrap><oVar>Jeu</oVar> de main, se dit aussi de l'action de lutter, de se porter des coups réciproques en plaisantant.</dictScrap>
-<re type="P"><form>Jeux de main, jeux de vilain, ou, au singulier, jeu de main, jeu de vilain</form>, c'est-à-dire les jeux de main ne conviennent qu'à des gens mal élevés, et aussi ils finissent souvent par des querelles. </re>
+<re type="PROV."><form>Jeux de main, jeux de vilain, ou, au singulier, jeu de main, jeu de vilain</form>, c'est-à-dire les jeux de main ne conviennent qu'à des gens mal élevés, et aussi ils finissent souvent par des querelles. </re>
 </sense>
 <sense>
 <dictScrap><oVar>Jeux</oVar> d'esprit, certains petits <oVar>jeux</oVar> qui demandent quelque facilité, quelque agrément d'esprit.</dictScrap>
@@ -15367,12 +15367,12 @@
 <dictScrap>Quand deux chevaux d'une même écurie sont engagés dans une course, l'un d'eux est réservé à faire le <oVar>jeu</oVar> de son camarade, c'est-à-dire à fatiguer les concurrents jusqu'au moment où son camarade d'écurie peut prendre place et terminer victorieusement la course.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>À beau jeu, beau retour</form>, se dit quand on rend la pareille à qui nous a fait quelque injure. </re>
-<re type="P"><form>À tout venant beau jeu</form>, se dit pour exprimer qu'on est en état de tenir tête à tous ceux qui se présenteront. </re>
-<re type="P"><form>Les fautes sont faites pour le jeu</form>, c'est-à-dire qu'en toutes choses il y a des règles qu'il faut observer. </re>
-<re type="P"><form>Dieu vaut jeu</form>, se dit lorsque le mal qu'une personne voulait faire aux autres retombe sur elle-même, et signifie proprement que la justice divine n'a pas moins de force que le mauvais jeu des méchants. </re>
-<re type="P"><form>Le jeu ne vaut pas la chandelle</form>. voy. <ref target="chandelle">CHANDELLE</ref>.  <cit><quote>Amusez-vous de la vie, il faut jouer avec elle ; et, quoique le jeu ne vaille pas la chandelle, il n'y a pourtant pas d'autre parti à prendre</quote><bibl><author>VOLT.</author><biblScope>Lett. Mme d'Argental, 1er août 1757</biblScope></bibl></cit></re>
-<note type="H">
+<re type="PROV."><form>À beau jeu, beau retour</form>, se dit quand on rend la pareille à qui nous a fait quelque injure. </re>
+<re type="PROV."><form>À tout venant beau jeu</form>, se dit pour exprimer qu'on est en état de tenir tête à tous ceux qui se présenteront. </re>
+<re type="PROV."><form>Les fautes sont faites pour le jeu</form>, c'est-à-dire qu'en toutes choses il y a des règles qu'il faut observer. </re>
+<re type="PROV."><form>Dieu vaut jeu</form>, se dit lorsque le mal qu'une personne voulait faire aux autres retombe sur elle-même, et signifie proprement que la justice divine n'a pas moins de force que le mauvais jeu des méchants. </re>
+<re type="PROV."><form>Le jeu ne vaut pas la chandelle</form>. voy. <ref target="chandelle">CHANDELLE</ref>.  <cit><quote>Amusez-vous de la vie, il faut jouer avec elle ; et, quoique le jeu ne vaille pas la chandelle, il n'y a pourtant pas d'autre parti à prendre</quote><bibl><author>VOLT.</author><biblScope>Lett. Mme d'Argental, 1er août 1757</biblScope></bibl></cit></re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -15599,7 +15599,7 @@
 <re ana="supplement" orig=" JEU. Ajoutez : ">
 
 
-<note type="R" ana="supplement">Dans le proverbe : le jeu ne vaut pas la chandelle, on pèche contre le dicton en mettant enjeu.  <cit><quote>Rivarol quitta cette partie de la politique militante dont l'enjeu ne valait plus la chandelle</quote><bibl><author>DE LESCURE</author><biblScope>Journ. offic. 16 mai 1875, p. 3479, 2e col.</biblScope></bibl></cit> </note>
+<note type="REM." ana="supplement">Dans le proverbe : le jeu ne vaut pas la chandelle, on pèche contre le dicton en mettant enjeu.  <cit><quote>Rivarol quitta cette partie de la politique militante dont l'enjeu ne valait plus la chandelle</quote><bibl><author>DE LESCURE</author><biblScope>Journ. offic. 16 mai 1875, p. 3479, 2e col.</biblScope></bibl></cit> </note>
 </re>
 </entry>
 <entry xml:id="jeudi">
@@ -15627,7 +15627,7 @@
 <dictScrap>Populairement. La semaine des trois <oVar>jeudis</oVar>, trois jours après jamais, ou, simplement, la semaine des trois <oVar>jeudis</oVar>, se dit pour exprimer un temps qui n'arrivera jamais.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -15702,7 +15702,7 @@
 <dictScrap>Particulièrement, dans le langage de l'Église catholique. Être à <oVar>jeun</oVar>, n'avoir ni bu ni mangé depuis minuit.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -16151,16 +16151,16 @@
 <sense ana="supplement" n="11">
 <dictScrap>Les <oVar>jeunes</oVar>, ancien nom de certaines confréries d'artisans dans le Midi.</dictScrap>
 </sense>
-<re type="P"><form>Jeune procureur et vieil avocat</form>, c'est-à-dire un procureur doit être actif et un avocat réfléchi. On dit aussi dans un sens analogue : Vieux médecin, jeune chirurgien. </re>
-<re type="P"><form>Jeune chair, vieux poisson</form>, c'est-à-dire il faut manger les animaux de boucherie, la volaille, le gibier jeune et les poissons vieux. </re>
-<re type="P">Aussitôt meurent jeunes que vieux. </re>
-<re type="P">Le diable était beau quand il était jeune. </re>
-<note type="R">
+<re type="PROV."><form>Jeune procureur et vieil avocat</form>, c'est-à-dire un procureur doit être actif et un avocat réfléchi. On dit aussi dans un sens analogue : Vieux médecin, jeune chirurgien. </re>
+<re type="PROV."><form>Jeune chair, vieux poisson</form>, c'est-à-dire il faut manger les animaux de boucherie, la volaille, le gibier jeune et les poissons vieux. </re>
+<re type="PROV.">Aussitôt meurent jeunes que vieux. </re>
+<re type="PROV.">Le diable était beau quand il était jeune. </re>
+<note type="REM.">
 <p>1. Quand jeune est précédé de l'article, il a des sens différents suivant qu'il est placé avant ou après son substantif. Le jeune Scipion signifierait que Scipion n'était pas âgé ; Scipion le jeune se dit pour le distinguer de Scipion l'ancien. </p>
 <p>2. De jeunes gens ou des jeunes gens, voy. GENS, remarque 11. </p>
 <p>3. On dit d'ordinaire de jeunes filles, jeunes filles faisant moins dans l'usage un mot unique que jeunes gens.  <cit><quote>Cependant on trouve aussi des jeunes filles : Enseigner la langue française à des jeunes filles de qualité</quote><bibl><author>VOLT.</author><biblScope>Lett. Gallitzin, octobre, 1765</biblScope></bibl></cit> </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -16394,9 +16394,9 @@
 <dictScrap>On dit d'une chose qui ennuie, qu'elle est longue comme un jour de <oVar>jeûne</oVar>.</dictScrap>
 </sense>
 </sense>
-<re type="P"><form>Il a bien fait des jeûnes qui n'étaient pas de commandement</form>, se dit de quelqu'un qui a souffert de grandes privations, beaucoup de misère. </re>
-<re type="P">Double jeûne, double morceau. </re>
-<note type="H">
+<re type="PROV."><form>Il a bien fait des jeûnes qui n'étaient pas de commandement</form>, se dit de quelqu'un qui a souffert de grandes privations, beaucoup de misère. </re>
+<re type="PROV.">Double jeûne, double morceau. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -16465,11 +16465,11 @@
 <sense n="2">
 <dictScrap>Terme de chasse. Cerf de dix cors <oVar>jeunement</oVar>, cerf qui a pris depuis peu cinq andouillers de chaque côté.</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. L'Académie met dix andouillers de chaque côté. Sur quoi, Legoarant remarque : " Au lieu de dix, il faut lire cinq andouillers. Quand la cinquième année du cerf est achevée, sa ramure se trouve chargée de cinq andouillers de chaque côté, on l'appelle cerf de dix cors jeunement ; à cinq ans et demi, il prend le nom de cerf dix cors. " </p>
 <p>2. L'Académie, dans sa définition, dit : cerf qui a pris depuis peu un cors de dix andouillers. Cors signifie les chevillures ou andouillers, et en aucun cas on ne peut dire un cors. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -16577,7 +16577,7 @@
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -17061,11 +17061,11 @@
 <sense ana="supplement" n="10">
 <dictScrap>La grande <oVar>jeunesse</oVar>, ancien nom de certaines confréries d'artisans dans le Midi.</dictScrap>
 </sense>
-<re type="P"><form>La jeunesse revient de loin</form>, c'est-à-dire les personnes jeunes reviennent de maladies dangereuses ou de longues erreurs, de grands égarements. </re>
-<re type="P"><form>Si jeunesse savait et vieillesse pouvait, les choses en iraient mieux</form>, c'est-à-dire si la jeunesse avait de l'expérience, et que la vieillesse eût de la force. </re>
-<re type="P"><form>Jeunesse est forte à passer, ou est difficile à passer</form>, c'est-à-dire dans la jeunesse on a bien de la peine à modérer ses passions. </re>
-<re type="P"><form>Il faut que jeunesse se passe</form>, se dit pour excuser les fautes que les jeunes gens commettent par inexpérience ou par vivacité de tempérament. </re>
-<note type="H">
+<re type="PROV."><form>La jeunesse revient de loin</form>, c'est-à-dire les personnes jeunes reviennent de maladies dangereuses ou de longues erreurs, de grands égarements. </re>
+<re type="PROV."><form>Si jeunesse savait et vieillesse pouvait, les choses en iraient mieux</form>, c'est-à-dire si la jeunesse avait de l'expérience, et que la vieillesse eût de la force. </re>
+<re type="PROV."><form>Jeunesse est forte à passer, ou est difficile à passer</form>, c'est-à-dire dans la jeunesse on a bien de la peine à modérer ses passions. </re>
+<re type="PROV."><form>Il faut que jeunesse se passe</form>, se dit pour excuser les fautes que les jeunes gens commettent par inexpérience ou par vivacité de tempérament. </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -17183,7 +17183,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -17309,7 +17309,7 @@
 <dictScrap>Adjectivement. Un marchand <oVar>joaillier</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -17518,7 +17518,7 @@
 <sense n="2">
 <dictScrap>Valet niais et maladroit.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -18024,8 +18024,8 @@
 <sense n="4">
 <dictScrap>Terme d'alchimie. <oVar>Joie</oVar> des philosophes, la pierre arrivée au blanc parfait.</dictScrap>
 </sense>
-<note type="R">On dit : j'ai de la joie à vous voir, parce que à est régi par j'ai ; mais : j'ai la joie de vous voir, je n'ai pas eu la joie de vous voir, parce que de est régi par joie. </note>
-<note type="H">
+<note type="REM.">On dit : j'ai de la joie à vous voir, parce que à est régi par j'ai ; mais : j'ai la joie de vous voir, je n'ai pas eu la joie de vous voir, parce que de est régi par joie. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -18174,7 +18174,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -18694,8 +18694,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">JOINDRE, ACCOSTER, ABORDER. On joint les personnes qu'on va chercher. On accoste une personne que l'on rencontre et que l'on connaît ou que l'on ne connaît pas. On aborde une personne que l'on connaît. </re>
-<note type="H">
+<re type="SYN.">JOINDRE, ACCOSTER, ABORDER. On joint les personnes qu'on va chercher. On accoste une personne que l'on rencontre et que l'on connaît ou que l'on ne connaît pas. On aborde une personne que l'on connaît. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -19143,7 +19143,7 @@
 <dictScrap><oVar>Joint</oVar> de stratification, espace vide qui sépare les strates d'un ensemble de roches stratifiées.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -19172,7 +19172,7 @@
 <sense n="3">
 <dictScrap>S. m. pl. Terme de menuiserie. Les planches d'une cloison, d'un plancher, qui sont assemblées à rainures et à languettes.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -19254,7 +19254,7 @@
 <sense>
 <dictScrap>Autant qu'il peut être contenu dans le creux des deux mains jointes. Une <oVar>jointée</oVar> d'orge.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -19305,7 +19305,7 @@
 <dictScrap>S. f. pl. Les <oVar>jointives</oVar>, les cloisons dont les planches sont brutes, non assemblées, mais seulement dressées sur les rives et posées près les unes des autres.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -19364,7 +19364,7 @@
 <dictScrap>Absolument. Il ne reste plus qu'à <oVar>jointoyer</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -19433,7 +19433,7 @@
 <sense n="4">
 <dictScrap>Terme de vétérinaire. La <oVar>jointure</oVar> longue ou courte caractérise le cheval long-jointé ou court-jointé.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -19808,8 +19808,8 @@
 <dictScrap>Familièrement. Le <oVar>joli</oVar> de l'affaire est que.... c'est-à-dire le plaisant, le piquant de l'affaire est que....</dictScrap>
 </sense>
 </sense>
-<note type="R">Dans les Mots à la mode, Boursault fait la critique de l'emploi de joli tel qu'il subsistait encore de son temps. Qui jamais, dites-moi, fut assez ridicule Pour traiter de jolis Hector, Achille, Hercule ? sc. 11 ; et : Dire un joli garçon n'est pas dire un brave homme, Et le mot de joli n'a jamais été fait Qu'en faveur d'un enfant et d'un colifichet, sc. 2. Boursault se trompe ; joli avait été fait pour ces acceptions blâmées ; seulement, du temps de Boursault, l'usage les délaissait. </note>
-<note type="H">
+<note type="REM.">Dans les Mots à la mode, Boursault fait la critique de l'emploi de joli tel qu'il subsistait encore de son temps. Qui jamais, dites-moi, fut assez ridicule Pour traiter de jolis Hector, Achille, Hercule ? sc. 11 ; et : Dire un joli garçon n'est pas dire un brave homme, Et le mot de joli n'a jamais été fait Qu'en faveur d'un enfant et d'un colifichet, sc. 2. Boursault se trompe ; joli avait été fait pour ces acceptions blâmées ; seulement, du temps de Boursault, l'usage les délaissait. </note>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -19993,7 +19993,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -20033,7 +20033,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -20137,7 +20137,7 @@
 <dictScrap>Dans le langage familier, ce mot se prend pour dire très mal, ou point du tout. Il vous a donné à dîner, vous avez été bien traité. - Oui, <oVar>joliment</oVar> !</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -20205,7 +20205,7 @@
 <dictScrap>On ne l'emploie guère qu'au pluriel.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -20346,7 +20346,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -20421,7 +20421,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -20447,7 +20447,7 @@
 </entry>
 <entry xml:id="joncacées">
 <form>
-<orth>JONCACÉES ou JONCÉES</orth>
+<orth>JONCACÉES</orth><orth>JONCÉES</orth>
 <pron>jon-ka-sée ou jon-sée</pron>
 <gram>s. f. pl.</gram>
 </form>
@@ -20546,7 +20546,7 @@
 <sense n="3">
 <dictScrap>Petit fromage fait dans un panier de jonc. Une <oVar>jonchée</oVar> de crème.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -20621,7 +20621,7 @@
 <sense>
 <dictScrap>Action de joncher.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -20688,7 +20688,7 @@
 <sense n="3">
 <dictScrap>Se <oVar>joncher</oVar>, être <oVar>jonché</oVar>. Les rues se jonchèrent rapidement de feuilles et de fleurs.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Là veïssiez la terre si junchée....</quote>
@@ -20752,7 +20752,7 @@
 <dictScrap>Touffes de joncs qui se forment dans les étangs, dans les marais, et qui deviennent quelquefois des îles flottantes.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -20791,7 +20791,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -20813,7 +20813,7 @@
 <sense>
 <dictScrap>Celui qui jonche.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -20866,7 +20866,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -20915,7 +20915,7 @@
 <sense n="2">
 <dictScrap>Se conduire en jongleur.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -20941,7 +20941,7 @@
 <sense n="2">
 <dictScrap>Fig. Toute fausse apparence ayant pour but de tromper, d'en imposer. Je ne suis pas la dupe de ses <oVar>jongleries</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -21003,7 +21003,7 @@
 <dictScrap>Il a aussi un féminin dans le sens figuré. C'est une <oVar>jongleuse</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -21274,7 +21274,7 @@
 <dictScrap><oVar>Joubarbe</oVar> brûlante, un des noms vulgaires de l'orpin brûlant, sedum acre, L.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -21484,7 +21484,7 @@
 <sense n="7">
 <dictScrap>Terme de fortification. Se dit des deux côtés de l'épaulement d'une batterie, coupés selon son épaisseur, pour pratiquer l'embrasure.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -23163,7 +23163,7 @@
 </sense>
 <sense n="35">
 <dictScrap>Se <oVar>jouer</oVar>, être représenté, en parlant d'une pièce de théâtre. Le Tartuffe se <oVar>joue</oVar> ce soir aux Français. </dictScrap>
-<re type="P"><form>Qui a joué jouera</form>, c'est-à-dire on ne quitte pas ses vieilles habitudes.  
+<re type="PROV."><form>Qui a joué jouera</form>, c'est-à-dire on ne quitte pas ses vieilles habitudes.  
 <cit>
 <quote>Quiconque aime, aimera, Et quiconque a joué, toujours joue et jouera : Certain docteur l'a dit</quote>
 <bibl>
@@ -23183,7 +23183,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -23679,7 +23679,7 @@
 <sense n="6">
 <dictScrap>Terme de marine. Synonyme de jas.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -23827,7 +23827,7 @@
 <sense n="6">
 <dictScrap><oVar>Joueur</oVar> de farces, <oVar>joueur</oVar> de gobelets, <oVar>joueur</oVar> de marionnettes, ceux qui divertissent le public par des farces, par des gobelets, par des marionnettes.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -23921,7 +23921,7 @@
 <sense n="3">
 <dictScrap>Terme de marine. On dit quelquefois que l'avant d'un navire est <oVar>joufflu</oVar>, quand il est renflé ou que les joues en sont prononcées.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -24225,7 +24225,7 @@
 <dictScrap>On disait aussi par corruption joup, JAL.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -24290,7 +24290,7 @@
 </entry>
 <entry xml:id="jouillères">
 <form>
-<orth>JOUILLÈRES ou JOUIÈRES</orth>
+<orth>JOUILLÈRES</orth><orth>JOUIÈRES</orth>
 <pron>jou-llè-r', ll mouillées ou jou-iè-r'</pron>
 <gram>s. f. pl.</gram>
 </form>
@@ -24565,10 +24565,10 @@
 </sense>
 <sense n="8">
 <dictScrap>Terme de chasse. Les chiens courants <oVar>jouissent</oVar> lorsque après avoir chassé, ils prennent l'animal et font curée. Pour avoir de bons chiens, il faut les faire <oVar>jouir</oVar> souvent. </dictScrap>
-<re type="P"><form>Qui de loin se pourvoit, de près jouit</form>. </re>
+<re type="PROV."><form>Qui de loin se pourvoit, de près jouit</form>. </re>
 </sense>
-<note type="R">Jouir, impliquant une satisfaction, ne se dit pas des choses mauvaises. Ainsi c'est parler ridiculement que de dire : Il jouit d'une mauvaise santé, d'une mauvaise réputation. Toutefois, quand la chose mauvaise dont il s'agit, malheur, peine, souffrance, peut être, par une hardiesse de l'écrivain, considérée comme quelque chose dont l'âme se satisfasse, alors jouir est très bien employé : <cit><quote>Il ne croit rien avoir s'il n'a tout ; son âme est toujours avide et altérée, et il ne jouit de rien que des malheurs</quote><bibl><author>MASS.</author><biblScope>cité dans GIRAULT-DUVIVIER</biblScope></bibl></cit> <cit><quote>Je t'ai perdu ; près de ta cendre Je viens jouir de ma douleur</quote><bibl><author>ST-LAMBERT</author><biblScope>Épitaphe d'Helvétius</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM.">Jouir, impliquant une satisfaction, ne se dit pas des choses mauvaises. Ainsi c'est parler ridiculement que de dire : Il jouit d'une mauvaise santé, d'une mauvaise réputation. Toutefois, quand la chose mauvaise dont il s'agit, malheur, peine, souffrance, peut être, par une hardiesse de l'écrivain, considérée comme quelque chose dont l'âme se satisfasse, alors jouir est très bien employé : <cit><quote>Il ne croit rien avoir s'il n'a tout ; son âme est toujours avide et altérée, et il ne jouit de rien que des malheurs</quote><bibl><author>MASS.</author><biblScope>cité dans GIRAULT-DUVIVIER</biblScope></bibl></cit> <cit><quote>Je t'ai perdu ; près de ta cendre Je viens jouir de ma douleur</quote><bibl><author>ST-LAMBERT</author><biblScope>Épitaphe d'Helvétius</biblScope></bibl></cit> </note>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -24780,7 +24780,7 @@
 <sense n="7">
 <dictScrap>En langage libre, avoir la <oVar>jouissance</oVar> d'une femme, avoir commerce avec elle.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -27446,22 +27446,22 @@
 <sense ana="supplement" n="34">
 <dictScrap>Espèce de dentelle faite à l'aiguille au milieu d'un dessin de broderie, soit qu'on enlève l'étoffe tout à fait, soit qu'on tire des fils sur l'étoffe pour former le <oVar>jour</oVar> avec les fils laissés et l'aiguille, soit qu'on fasse un dessin avec du fil de dentelle si l'étoffe est du tulle.</dictScrap>
 </sense>
-<re type="P"><form>À chaque jour suffit sa peine, suffit son mal</form>, c'est-à-dire il ne faut pas se tourmenter inutilement sur l'avenir, se faire des chagrins d'avance. </re>
-<re type="P"><form>Bon jour, bonne œuvre</form>, se dit en parlant d'une bonne action faite en un jour solennel. Ils se sont réconciliés le jour de Pâques : bon jour, bonne œuvre. </re>
-<re type="P">Ironiquement et par antiphrase. Bon jour, bonne œuvre, les voleurs font leurs meilleurs coups les jours de fête.  <cit><quote>Croyez-vous à la lettre de M. d'Ossun lue en plein conseil, et qui marque que les jésuites avaient formé le complot d'assassiner, le jeudi saint, bon jour, bonne œuvre, le roi d'Espagne et toute la famille royale ?</quote><bibl><author>D'ALEMBERT</author><biblScope>Lett. à Voltaire, 4 mai 1767</biblScope></bibl></cit> </re>
-<re type="P"><form>Demain il sera jour</form>, se dit quand on veut réfléchir à une chose ou la remettre. </re>
-<re type="P"><form>Les jours se suivent et ne se ressemblent pas</form>. </re>
-<re type="P"><form>Après trois jours, sa femme, un hôte et de la pluie Sont trois choses dont on s'ennuie</form>. </re>
-<re type="P"><form>Ennuyeux comme le jour qu'il a tant plu</form>, très ennuyeux. </re>
-<re type="P"><form>Il est plus de jours que d'années et que de bonnes destinées</form>. </re>
-<re type="P"><form>Cela est long comme un jour sans pain</form>, se dit d'une chose qui ennuie et dure trop. </re>
-<re type="P"><form>Il dit beaucoup de paroles en un jour</form>, se dit d'un homme qui parle beaucoup et à la légère, sans qu'il faille attacher de l'importance à ce qu'il dit. </re>
-<note ana="supplement" type="R">3. Non-seulement ce jourd'hui a vieilli, mais le jourd'hui a encore vieilli davantage.  <cit><quote>En ce temps du jourd'hui l'on n'est que trop savant</quote><bibl><author>RÉGNIER</author><biblScope>Sat. III</biblScope></bibl></cit></note>
-<note type="R" ana="supplement">4. Voltaire a employé la locution ancien des jours pour désigner un prêtre, un vieillard. Il sera difficile que l'ancien des jours, Boyer, résiste à une sollicitation si pressante pour lui, et si honorable pour vous, Lett. Mme de Fontaine, 12 sept. 1754. L'ancien des jours est une locution biblique qui s'applique à Dieu (voy. <ref target="ancien#var9">ANCIEN, n° 9</ref>).</note>
-<re type="S">1. JOUR, JOURNÉE., Ces deux mots sont entre eux comme an et année. Jour et journée ne diffèrent que par la finale ée, qui, représentant la finale latine du participe passif ata, exprime ce qui s'opère ; journée signifie proprement ce qui est fait, opéré en un jour. De là la distinction réelle : jour servira à marquer les époques : la semaine est composée de sept jours. Au contraire, on dira la journée de Waterloo. </re>
-<re type="S">2. FAUX JOUR, JOUR FAUX., Un tableau est dans un faux jour quand il est éclairé du sens contraire à celui que le peintre a choisi dans son sujet. Il y a un jour faux dans un tableau quand une partie y est éclairée contre nature, la disposition générale du tout exigeant, par exemple, que cette partie soit dans l'ombre. </re>
+<re type="PROV."><form>À chaque jour suffit sa peine, suffit son mal</form>, c'est-à-dire il ne faut pas se tourmenter inutilement sur l'avenir, se faire des chagrins d'avance. </re>
+<re type="PROV."><form>Bon jour, bonne œuvre</form>, se dit en parlant d'une bonne action faite en un jour solennel. Ils se sont réconciliés le jour de Pâques : bon jour, bonne œuvre. </re>
+<re type="PROV.">Ironiquement et par antiphrase. Bon jour, bonne œuvre, les voleurs font leurs meilleurs coups les jours de fête.  <cit><quote>Croyez-vous à la lettre de M. d'Ossun lue en plein conseil, et qui marque que les jésuites avaient formé le complot d'assassiner, le jeudi saint, bon jour, bonne œuvre, le roi d'Espagne et toute la famille royale ?</quote><bibl><author>D'ALEMBERT</author><biblScope>Lett. à Voltaire, 4 mai 1767</biblScope></bibl></cit> </re>
+<re type="PROV."><form>Demain il sera jour</form>, se dit quand on veut réfléchir à une chose ou la remettre. </re>
+<re type="PROV."><form>Les jours se suivent et ne se ressemblent pas</form>. </re>
+<re type="PROV."><form>Après trois jours, sa femme, un hôte et de la pluie Sont trois choses dont on s'ennuie</form>. </re>
+<re type="PROV."><form>Ennuyeux comme le jour qu'il a tant plu</form>, très ennuyeux. </re>
+<re type="PROV."><form>Il est plus de jours que d'années et que de bonnes destinées</form>. </re>
+<re type="PROV."><form>Cela est long comme un jour sans pain</form>, se dit d'une chose qui ennuie et dure trop. </re>
+<re type="PROV."><form>Il dit beaucoup de paroles en un jour</form>, se dit d'un homme qui parle beaucoup et à la légère, sans qu'il faille attacher de l'importance à ce qu'il dit. </re>
+<note ana="supplement" type="REM.">3. Non-seulement ce jourd'hui a vieilli, mais le jourd'hui a encore vieilli davantage.  <cit><quote>En ce temps du jourd'hui l'on n'est que trop savant</quote><bibl><author>RÉGNIER</author><biblScope>Sat. III</biblScope></bibl></cit></note>
+<note type="REM." ana="supplement">4. Voltaire a employé la locution ancien des jours pour désigner un prêtre, un vieillard. Il sera difficile que l'ancien des jours, Boyer, résiste à une sollicitation si pressante pour lui, et si honorable pour vous, Lett. Mme de Fontaine, 12 sept. 1754. L'ancien des jours est une locution biblique qui s'applique à Dieu (voy. <ref target="ancien#var9">ANCIEN, n° 9</ref>).</note>
+<re type="SYN.">1. JOUR, JOURNÉE., Ces deux mots sont entre eux comme an et année. Jour et journée ne diffèrent que par la finale ée, qui, représentant la finale latine du participe passif ata, exprime ce qui s'opère ; journée signifie proprement ce qui est fait, opéré en un jour. De là la distinction réelle : jour servira à marquer les époques : la semaine est composée de sept jours. Au contraire, on dira la journée de Waterloo. </re>
+<re type="SYN.">2. FAUX JOUR, JOUR FAUX., Un tableau est dans un faux jour quand il est éclairé du sens contraire à celui que le peintre a choisi dans son sujet. Il y a un jour faux dans un tableau quand une partie y est éclairée contre nature, la disposition générale du tout exigeant, par exemple, que cette partie soit dans l'ombre. </re>
   
-  <note type="H">
+  <note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -28182,7 +28182,7 @@
 <sense n="5">
 <dictScrap>Nom d'un recueil des formules dont les papes se sont servis dans leurs rescrits, du VIe siècle au IXe. <oVar>Journal</oVar> des pontifes romains.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -28335,7 +28335,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -28718,8 +28718,8 @@
 <sense ana="supplement" n="10">
 <dictScrap>Terme de turf. L'ensemble des courses courues dans la même <oVar>journée</oVar>.</dictScrap>
 </sense>
-<note type="R">Voltaire a critiqué l'expression de Corneille : prendre journée. Mais journée se dit quelquefois au lieu de jour ; on verra à l'historique que cette locution est ancienne. </note>
-<note type="H">
+<note type="REM.">Voltaire a critiqué l'expression de Corneille : prendre journée. Mais journée se dit quelquefois au lieu de jour ; on verra à l'historique que cette locution est ancienne. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -28942,7 +28942,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -28965,7 +28965,7 @@
 <sense>
 <dictScrap>Tous les jours, chaque jour. Je travaille à cela <oVar>journellement</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29028,7 +29028,7 @@
 <sense n="5">
 <dictScrap>Il se dit de certains animaux qu'on fait combattre les uns contre les autres. La <oVar>joute</oVar> des coqs. La <oVar>joute</oVar> des cailles.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -29139,7 +29139,7 @@
 <dictScrap>Il se conjugue avec l'auxiliaire avoir.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -29249,7 +29249,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -29330,7 +29330,7 @@
 <dictScrap>Fig. Il a bu de l'eau de la fontaine de <oVar>Jouvence</oVar>, c'est-à-dire il paraît rajeuni.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -29406,7 +29406,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -29469,7 +29469,7 @@
 <dictScrap>Conformément à. <oVar>Jouxte</oVar> la copie originale.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -29545,7 +29545,7 @@
 <dictScrap>Il se dit aussi des choses. Face <oVar>joviale</oVar>. Humeur <oVar>joviale</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29592,7 +29592,7 @@
 <sense>
 <dictScrap>Humeur joviale, disposition à la gaieté.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -29672,8 +29672,8 @@
 <dictScrap>Les <oVar>joyaux</oVar> de la couronne, les <oVar>joyaux</oVar> qui appartiennent à la couronne.</dictScrap>
 </sense>
 </sense>
-<re type="S">BIJOU, JOYAU. Les joyaux sont plus beaux, plus riches, plus précieux ; les bijoux sont plus jolis, plus agréables, plus curieux. Dans la comparaison on voit le joyau plus en grand, et le bijou plus en petit ; on dit les joyaux de la couronne, une femme porte des bijoux. Le bijou est toujours un ouvrage travaillé ; le joyau n'est quelquefois que la matière brute. <cit><quote>Ainsi la joaillerie se distingue de la bijouterie, en ce qu'elle comprend dans son négoce les pierreries qui ne sont pas taillées ou montées</quote><bibl><author>GIRARD.</author><biblScope/></bibl></cit> </re>
-<note type="H">
+<re type="SYN.">BIJOU, JOYAU. Les joyaux sont plus beaux, plus riches, plus précieux ; les bijoux sont plus jolis, plus agréables, plus curieux. Dans la comparaison on voit le joyau plus en grand, et le bijou plus en petit ; on dit les joyaux de la couronne, une femme porte des bijoux. Le bijou est toujours un ouvrage travaillé ; le joyau n'est quelquefois que la matière brute. <cit><quote>Ainsi la joaillerie se distingue de la bijouterie, en ce qu'elle comprend dans son négoce les pierreries qui ne sont pas taillées ou montées</quote><bibl><author>GIRARD.</author><biblScope/></bibl></cit> </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -29751,7 +29751,7 @@
 <sense>
 <dictScrap>D'une manière joyeuse. J'ai <oVar>joyeusement</oVar> passé la journée.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -29780,7 +29780,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -29882,8 +29882,8 @@
 <sense n="6">
 <dictScrap>S f. <oVar>Joyeuse</oVar>, nom de l'épée de Charlemagne ou de quelques autres héros des chansons de geste.</dictScrap>
 </sense>
-<note type="R">Ce mot a couru des risques dans le courant du XVIIe siècle ; il a été menacé par les puristes.  <cit><quote>Cet homme est joyeux, cette personne est joyeuse, ces anciens termes ne sont plus en usage dans le beau style, il faut dire gai ou de belle humeur</quote><bibl><author>MARG.</author><biblScope>BUFFET, Observ. p. 58, 1668</biblScope></bibl></cit> <cit><quote>Je suis tout joyeux de vous voir, commence à n'être plus du bel usage ; il faut dire je suis ravi ou je suis réjoui ou j'ai une joie sensible quand je vous vois</quote><bibl><author>DE CAILLIÈRES</author><biblScope>1690</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM.">Ce mot a couru des risques dans le courant du XVIIe siècle ; il a été menacé par les puristes.  <cit><quote>Cet homme est joyeux, cette personne est joyeuse, ces anciens termes ne sont plus en usage dans le beau style, il faut dire gai ou de belle humeur</quote><bibl><author>MARG.</author><biblScope>BUFFET, Observ. p. 58, 1668</biblScope></bibl></cit> <cit><quote>Je suis tout joyeux de vous voir, commence à n'être plus du bel usage ; il faut dire je suis ravi ou je suis réjoui ou j'ai une joie sensible quand je vous vois</quote><bibl><author>DE CAILLIÈRES</author><biblScope>1690</biblScope></bibl></cit> </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -29997,7 +29997,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -30086,7 +30086,7 @@
 <dictScrap>Frère de la <oVar>jubilation</oVar>, s'est dit pour un homme ami des plaisirs, un Roger-Bontemps.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -30176,7 +30176,7 @@
 <sense n="4">
 <dictScrap>Adj. Il se dit d'un religieux, d'un chanoine, d'un docteur qui l'est depuis 50 ans. Ce père n'a plus qu'une année de théologie à enseigner, et puis il sera lecteur <oVar>jubilé</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -30199,7 +30199,7 @@
 <sense>
 <dictScrap>Terme familier. Éprouver une satisfaction vive et se manifestant au dehors.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -30235,7 +30235,7 @@
 <sense>
 <dictScrap>Le bâton où perchent les poulets.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30303,7 +30303,7 @@
 <dictScrap>Par extension. Dans sa frayeur il était allé se <oVar>jucher</oVar> dans une soupente.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -30384,7 +30384,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30474,7 +30474,7 @@
 <sense n="5">
 <dictScrap>Herbe <oVar>judaïque</oVar>, voy. <ref target="stachyde">STACHYDE</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30571,7 +30571,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30651,7 +30651,7 @@
 <sense n="3">
 <dictScrap>Fig. Petite ouverture pratiquée à un plancher, pour voir ce qui se passe au-dessous, et ainsi nommée parce que celui qui regarde par le <oVar>judas</oVar> regarde pour ainsi dire en trahison. Regarder par le <oVar>judas</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30750,7 +30750,7 @@
 <sense>
 <dictScrap>Terme de grammaire. Le mode <oVar>judicatif</oVar>, ou, substantivement, le <oVar>judicatif</oVar>, nom donné quelquefois à l'indicatif.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -30798,7 +30798,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Ce mot, que Balzac employa plusieurs fois, n'a point passé dans l'usage. On dit en ce sens aujourd'hui la judiciaire. </note>
+<note type="REM.">Ce mot, que Balzac employa plusieurs fois, n'a point passé dans l'usage. On dit en ce sens aujourd'hui la judiciaire. </note>
 </entry>
 <entry xml:id="judicatum_solvi">
 <form>
@@ -30844,8 +30844,8 @@
 <sense n="2">
 <dictScrap>La dignité de juge chez les Hébreux.</dictScrap>
 </sense>
-<re type="S">JUDICATURE, MAGISTRATURE. Le premier ne s'applique qu'aux juges ; le second a plus d'extension et comprend des officiers d'autre ordre que de l'ordre judiciaire ; par exemple un maire, un conseiller municipal, etc. sont des magistrats. Toutefois magistrat et magistrature employés sans déterminatif ne s'appliquent guère qu'aux juges. </re>
-<note type="H">
+<re type="SYN.">JUDICATURE, MAGISTRATURE. Le premier ne s'applique qu'aux juges ; le second a plus d'extension et comprend des officiers d'autre ordre que de l'ordre judiciaire ; par exemple un maire, un conseiller municipal, etc. sont des magistrats. Toutefois magistrat et magistrature employés sans déterminatif ne s'appliquent guère qu'aux juges. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -30946,7 +30946,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -31025,7 +31025,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -31128,7 +31128,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -31185,7 +31185,7 @@
 <dictScrap>S. m. Le <oVar>jugal</oVar>, os qui, chez les poissons, termine le temporal vers le bas, et fournit l'articulation à la mâchoire inférieure.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -31596,8 +31596,8 @@
 <sense ana="supplement" n="16">
 <dictScrap>Le mot <oVar>juge</oVar> a pris diverses significations spéciales dans les îles Normandes : A Jersey et à Guernesey, <oVar>juge</oVar> délégué, personne désignée pendant la vacance de l'office de bailli, pour en exercer provisoirement les fonctions. A Aurigny et à Serk, autrefois, <oVar>juge</oVar>, le premier des jurés chargé de la présidence de la cour. À Aurigny, aujourd'hui, le <oVar>juge</oVar> fonctionnaire nommé par la couronne, président de la cour et des États de l'île. Lieutenant-<oVar>juge</oVar>, personne désignée pour exercer les fonctions du <oVar>juge</oVar> en son absence. Enfin le nom de <oVar>juge</oVar> est souvent donné aujourd'hui aux jurés de Jersey.</dictScrap>
 </sense>
-<re type="P"><form>De fou juge briève sentence</form>, c'est-à-dire les ignorants décident sans examiner. <cit><quote>On a vingt-quatre heures au palais pour maudire ses juges</quote><bibl><author>BEAUMARCH.</author><biblScope>Barb. de Sév. II, 2</biblScope></bibl></cit> </re>
-<note type="H">
+<re type="PROV."><form>De fou juge briève sentence</form>, c'est-à-dire les ignorants décident sans examiner. <cit><quote>On a vingt-quatre heures au palais pour maudire ses juges</quote><bibl><author>BEAUMARCH.</author><biblScope>Barb. de Sév. II, 2</biblScope></bibl></cit> </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -31748,7 +31748,7 @@
 </cit>
 </sense>
 </sense>
-<note type="R">L'Académie a un substantif mal-jugé (avec tiret), mais elle n'a pas un bien-jugé, et elle écrit bien jugé sans tiret. Cependant bien jugé et mal-jugé sont des substantifs identiques, il vaut donc mieux les écrire de même, sans tiret, ou bien mettre un tiret aux deux. </note>
+<note type="REM.">L'Académie a un substantif mal-jugé (avec tiret), mais elle n'a pas un bien-jugé, et elle écrit bien jugé sans tiret. Cependant bien jugé et mal-jugé sont des substantifs identiques, il vaut donc mieux les écrire de même, sans tiret, ou bien mettre un tiret aux deux. </note>
 </entry>
 <entry xml:id="jugeable">
 <form>
@@ -32251,8 +32251,8 @@
 <sense n="12">
 <dictScrap><oVar>Jugement</oVar> d'Oléron, ou rôle d'Oléron, collection de décisions coutumières sur la marine recueillies par Éléonore de Guienne, et qui fut le point de départ, au moins partiellement, de l'ordonnance de la marine de 1681.</dictScrap>
 </sense>
-<re type="S">JUGEMENT, SENS. Le jugement est un acte de l'esprit qui compare ; le sens est une perception confuse et spontanée des choses. Cet homme a du jugement, veut dire qu'il sait comparer, apprécier, juger. Cet homme a du sens, veut dire qu'il sent les choses telles qu'elles sont. Il y a entre ces deux mots une nuance qui provient de la différence entre juger et sentir, entre le réfléchi et le spontané. </re>
-<note type="H">
+<re type="SYN.">JUGEMENT, SENS. Le jugement est un acte de l'esprit qui compare ; le sens est une perception confuse et spontanée des choses. Cet homme a du jugement, veut dire qu'il sait comparer, apprécier, juger. Cet homme a du sens, veut dire qu'il sent les choses telles qu'elles sont. Il y a entre ces deux mots une nuance qui provient de la différence entre juger et sentir, entre le réfléchi et le spontané. </re>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -33042,8 +33042,8 @@
 <sense n="20">
 <dictScrap>Terme de médecine. Une maladie se <oVar>juge</oVar> par des sueurs, par une diarrhée, etc. quand une amélioration sensible et soutenue se manifeste à la suite d'une évacuation quelconque.</dictScrap>
 </sense>
-<note type="R">Dans le sens de être d'opinion, de sentiment que, juger régit l'indicatif quand la phrase est affirmative, et le subjonctif quand elle est négative ou interrogative : Je juge que vous devez partir ; Je ne juge pas que vous deviez partir ; Jugiez-vous que je dusse partir ? Dans le sens de croire, il régit l'infinitif quand le verbe régi se rapporte au sujet de la phrase : Il jugea devoir se comporter ainsi. Quand le verbe ne se rapporte pas au sujet de la phrase, il faut se servir de que avec l'indicatif : Votre père a jugé que vous devez vous comporter ainsi. </note>
-<note type="H">
+<note type="REM.">Dans le sens de être d'opinion, de sentiment que, juger régit l'indicatif quand la phrase est affirmative, et le subjonctif quand elle est négative ou interrogative : Je juge que vous devez partir ; Je ne juge pas que vous deviez partir ; Jugiez-vous que je dusse partir ? Dans le sens de croire, il régit l'infinitif quand le verbe régi se rapporte au sujet de la phrase : Il jugea devoir se comporter ainsi. Quand le verbe ne se rapporte pas au sujet de la phrase, il faut se servir de que avec l'indicatif : Votre père a jugé que vous devez vous comporter ainsi. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -33233,7 +33233,7 @@
 <dictScrap>Néologisme et dans un sens péjoratif. Manière de juger sans bonnes règles. La <oVar>jugerie</oVar> littéraire.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -33276,8 +33276,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Jugeur n'a pris un sens péjoratif que par opposition à juge ; autrement la finale eur n'a aucun mauvais sens ; mais ici, tandis que le juge remplit un office public, le jugeur fait un métier. </note>
-<note type="H">
+<note type="REM.">Jugeur n'a pris un sens péjoratif que par opposition à juge ; autrement la finale eur n'a aucun mauvais sens ; mais ici, tandis que le juge remplit un office public, le jugeur fait un métier. </note>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -33347,7 +33347,7 @@
 <sense n="2">
 <dictScrap>S. f. Les <oVar>jugulaires</oVar>, les mentonnières d'un shako, d'un casque, etc. qui sont de cuir, et quelquefois garnies de lames de métal. Baisser, relever les <oVar>jugulaires</oVar> d'un shako.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -33533,7 +33533,7 @@
 <dictScrap>À la <oVar>juive</oVar>, loc. adv. À la manière des <oVar>Juifs</oVar>, quant aux mœurs et aux costumes.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -33614,7 +33614,7 @@
 <dictScrap>Ordre de <oVar>Juillet</oVar>, ordre institué en 1830 et qui fut donné à ceux qui avaient pris une part marquante dans la révolution soit en combattant soit autrement.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -33683,7 +33683,7 @@
 <dictScrap>Terme de vénerie. Mi-<oVar>juin</oVar>, mi-graisse, se dit des cerfs qui alors commencent à être gras.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -33741,7 +33741,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -33780,7 +33780,7 @@
 <dictScrap>Pâte de <oVar>jujube</oVar>, préparation qui se faisait autrefois avec la décoction du <oVar>jujube</oVar>, mais qui n'en contient plus et n'est qu'une pâte faite avec la gomme arabique, le sirop de sucre, l'eau de fleur d'orange et l'eau pure.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -33803,7 +33803,7 @@
 <sense>
 <dictScrap>Terme de botanique. Genre de la famille des rhamnées, dont le type est le <oVar>jujubier</oVar> commun, zizyphus communis, L. qui croît dans les contrées chaudes.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -33863,7 +33863,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -33909,7 +33909,7 @@
 <sense n="3">
 <dictScrap>Le saint-<oVar>Julien</oVar>, variété de prune d'un violet foncé.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -33961,7 +33961,7 @@
 <sense>
 <dictScrap>Terme de cuisine. Potage fait avec plusieurs sortes d'herbes et de légumes. Servir une <oVar>julienne</oVar>. Potage à la <oVar>julienne</oVar>.</dictScrap>
 </sense>
-<note ana="supplement" type="R">On lit dans le Courrier de Vaugelas, 15 déc. 1875, p. 124 : « La julienne, qu'on appelle dans le patois de Genève la soupe à la bataille, n'est mentionnée ni dans Taillevent, ni dans le Ménagier de Paris (1393), ni dans le Dictionnaire français-anglais de Cotgrave (1660), ni dans le Cuisinier françois de La Varenne (1670) ; c'est seulement dans le Cuisinier royal et bourgeois (1722) qu'on la trouve pour la première fois, ce qui me fait présumer que ce potage n'est guère connu que depuis le commencement du XVIIIe siècle. On a dit d'abord potage à la julienne, comme le montrent ces exemples : Potage à la Julienne en maigre, Cuisinier roy. et bourg. t. II, p. 163. On fait aussi des potages à la Julienne de poictrine de veau, chapon, poularde, pigeons et autres viandes, ib. t. II, p. 392. Puis on a supprimé potage, ce qui a réduit l'expression à Julienne, qui s'est employé alors sans majuscule : Potage ou julienne de poulets farcis, ib. t. II, p. 123. »</note>
+<note ana="supplement" type="REM.">On lit dans le Courrier de Vaugelas, 15 déc. 1875, p. 124 : « La julienne, qu'on appelle dans le patois de Genève la soupe à la bataille, n'est mentionnée ni dans Taillevent, ni dans le Ménagier de Paris (1393), ni dans le Dictionnaire français-anglais de Cotgrave (1660), ni dans le Cuisinier françois de La Varenne (1670) ; c'est seulement dans le Cuisinier royal et bourgeois (1722) qu'on la trouve pour la première fois, ce qui me fait présumer que ce potage n'est guère connu que depuis le commencement du XVIIIe siècle. On a dit d'abord potage à la julienne, comme le montrent ces exemples : Potage à la Julienne en maigre, Cuisinier roy. et bourg. t. II, p. 163. On fait aussi des potages à la Julienne de poictrine de veau, chapon, poularde, pigeons et autres viandes, ib. t. II, p. 392. Puis on a supprimé potage, ce qui a réduit l'expression à Julienne, qui s'est employé alors sans majuscule : Potage ou julienne de poulets farcis, ib. t. II, p. 123. »</note>
 </entry>
 <entry xml:id="julienne.3">
 <form>
@@ -34051,7 +34051,7 @@
 <sense n="4">
 <dictScrap>Terme d'anatomie. Muscles <oVar>jumeaux</oVar>, ou, substantivement, les <oVar>jumeaux</oVar>, nom de deux muscles qui concourent au mouvement de la jambe.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -34112,7 +34112,7 @@
 <sense n="3">
 <dictScrap>Terme de blason. Pièce <oVar>jumelée</oVar>, pièce formée de deux jumelles.</dictScrap>
 </sense>
-<note type="R">L'Académie n'a jumelé que comme terme de blason. </note>
+<note type="REM.">L'Académie n'a jumelé que comme terme de blason. </note>
 </entry>
 <entry xml:id="jumeler">
 <form>
@@ -34187,9 +34187,9 @@
 </sense>
 <sense n="2">
 <dictScrap>Nom d'un instrument qui servait à faire la monnaie au moulin, avant l'invention du balancier ; les faux monnayeurs s'en servent encore, c'est une espèce de fer à gaufrer qui fait et marque en même temps la pièce. </dictScrap>
-<re type="P"><form>Jamais coup de pied de jument ne fit mal à cheval</form>, c'est-à-dire les hommes prennent en bien et comme des galanteries ce que les femmes peuvent faire contre eux, surtout les coups que les femmes leur donnent. </re>
+<re type="PROV."><form>Jamais coup de pied de jument ne fit mal à cheval</form>, c'est-à-dire les hommes prennent en bien et comme des galanteries ce que les femmes peuvent faire contre eux, surtout les coups que les femmes leur donnent. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -34414,7 +34414,7 @@
 <sense n="2">
 <dictScrap>Dans le langage des tailleurs, partie de la redingote, du paletot, qui couvre les cuisses de l'homme.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -34551,7 +34551,7 @@
 <sense ana="supplement" n="4">
 <dictScrap>Terme de charpente. Trait de <oVar>Jupiter</oVar>, voy. TRAIT, 1, n° 20.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -34627,7 +34627,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -34727,7 +34727,7 @@
 <sense>
 <dictScrap>Qui a rapport aux habitants de la contrée couverte par le mont Jura.</dictScrap>
 </sense>
-<note type="R">Jurassien appartient au langage ethnologique, tandis que jurassique est relatif à la géologie. </note>
+<note type="REM.">Jurassien appartient au langage ethnologique, tandis que jurassique est relatif à la géologie. </note>
 </entry>
 <entry xml:id="jurassique">
 <form>
@@ -34919,7 +34919,7 @@
 <sense ana="supplement" n="7">
 <dictScrap><oVar>Jurés</oVar>, magistrats électifs des îles Normandes : chacune des deux îles de Jersey et de Guernesey en a douze, qui composent, avec le bailli, la cour royale, et sont membres des États. On les appelle aussi <oVar>jurés</oVar>-justiciers, <oVar>jurés</oVar> du roi (ou, aujourd'hui, <oVar>jurés</oVar> de la reine), <oVar>jurés</oVar> de la cour royale, etc. Il y a aussi une cour de <oVar>jurés</oVar> électifs dans l'île d'Aurigny, et il y en a eu une dans l'île de Serk.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -35026,7 +35026,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -35580,9 +35580,9 @@
 <sense n="14">
 <dictScrap>Se <oVar>jurer</oVar>, v. réfl. Être assuré par serment. La paix se <oVar>jura</oVar> entre les deux adversaires.</dictScrap>
 </sense>
-<re type="P"><form>S'il ne tient qu'à jurer, la vache est à nous</form>, se dit d'un homme sans foi à qui un faux serment ne coûte rien. </re>
-<re type="P"><form>On vous croit sans jurer</form>, se dit à celui qui affirme une chose connue. </re>
-<note type="H">
+<re type="PROV."><form>S'il ne tient qu'à jurer, la vache est à nous</form>, se dit d'un homme sans foi à qui un faux serment ne coûte rien. </re>
+<re type="PROV."><form>On vous croit sans jurer</form>, se dit à celui qui affirme une chose connue. </re>
+<note type="HIST.">
 
 <label>IXe s.</label>
 <cit>
@@ -35817,7 +35817,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -35880,7 +35880,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -35953,7 +35953,7 @@
 <sense n="3">
 <dictScrap>Corps de judicature, compagnie de juges. Cette <oVar>juridiction</oVar> est bien, est mal composée.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -36042,7 +36042,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -36079,7 +36079,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -36123,8 +36123,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">JURISTE, JURISCONSULTE, LÉGISTE. Juriste, celui qui fait profession de la science du droit. Jurisconsulte, celui qui est consulté, donne des consultations sur le droit. Légiste, celui qui fait profession de la science des lois. </re>
-<note type="H">
+<re type="SYN.">JURISTE, JURISCONSULTE, LÉGISTE. Juriste, celui qui fait profession de la science du droit. Jurisconsulte, celui qui est consulté, donne des consultations sur le droit. Légiste, celui qui fait profession de la science des lois. </re>
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -36221,7 +36221,7 @@
 <sense>
 <dictScrap>Celui qui écrit sur les matières de droit. Un savant <oVar>juriste</oVar> (voy. <ref target="jurisconsulte">JURISCONSULTE</ref>).</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -36271,7 +36271,7 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">JURON, JUREMENT. Ces deux mots, qui ne diffèrent que par la finale, se distinguent par deux particularités : l'une, que juron est du style familier, et jurement de tous les styles ; l'autre, que juron se dit surtout d'un jurement habituel, et que jurement n'a rien de spécial en son emploi. </re>
+<re type="SYN.">JURON, JUREMENT. Ces deux mots, qui ne diffèrent que par la finale, se distinguent par deux particularités : l'une, que juron est du style familier, et jurement de tous les styles ; l'autre, que juron se dit surtout d'un jurement habituel, et que jurement n'a rien de spécial en son emploi. </re>
 <etym>Jurer, et le suffixe péjoratif on.</etym>
 <re ana="supplement" orig=" 2. JURON (ju-ron), s. m.  ">
 
@@ -36285,7 +36285,7 @@
 </entry>
 <entry xml:id="jury">
 <form>
-<orth>JURY ou JURI</orth>
+<orth>JURY</orth><orth>JURI</orth>
 <pron>ju-ri</pron>
 <gram>s. m.</gram>
 </form>
@@ -36381,8 +36381,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="P"><form>C'est jus vert ou vert jus</form>, pour dire c'est la même chose.  <cit><quote>On les trouva tous deux encore sur le même lit ; couchés ou assis, je n'en sais rien, mais c'est jus vert et vert jus</quote><bibl><author>LE SAGE</author><biblScope>Guzm. d'Alfar. I, 2</biblScope></bibl></cit> </re>
-<note type="H">
+<re type="PROV."><form>C'est jus vert ou vert jus</form>, pour dire c'est la même chose.  <cit><quote>On les trouva tous deux encore sur le même lit ; couchés ou assis, je n'en sais rien, mais c'est jus vert et vert jus</quote><bibl><author>LE SAGE</author><biblScope>Guzm. d'Alfar. I, 2</biblScope></bibl></cit> </re>
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -36959,8 +36959,8 @@
 </cit>
 </sense>
 </sense>
-<note type="R">Voltaire avait pris en aversion jusqu'à ce que : " Mot rude, raboteux, désagréable à l'oreille et dont il ne faut jamais se servir " , Comment. sur Corn. Héracl. III, 4. La locution est lourde sans doute, mais n'a rien de plus contre elle. </note>
-<note type="H">
+<note type="REM.">Voltaire avait pris en aversion jusqu'à ce que : " Mot rude, raboteux, désagréable à l'oreille et dont il ne faut jamais se servir " , Comment. sur Corn. Héracl. III, 4. La locution est lourde sans doute, mais n'a rien de plus contre elle. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -37159,7 +37159,7 @@
 <sense>
 <dictScrap>Terme de botanique. Genre de plantes de la famille des solanées, où l'on distingue la <oVar>jusquiame</oVar> noire (hyoscyamus niger, L.) et la <oVar>jusquiame</oVar> blanche (hyoscyamus albus, L.), plantes qui sont narcotiques et qui s'emploient en médecine comme calmants.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -37234,7 +37234,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -37986,8 +37986,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">JUSTE, ÉQUITABLE ; JUSTICE, ÉQUITE. Dans juste est l'idée de droit ; dans équitable est l'idée d'égalité qui est dans le latin aequus. De là la nuance fondamentale entre ces deux mots ; ce qui est juste est de rigueur ; ce qui est équitable est de conscience. La distinction va plus loin : ce qui est juste est conforme à la loi ; ce qui est équitable est plus conforme à l'idée que nous nous faisons d'une justice plus élevée. Quand les enfants d'un complice de lèse-majesté étaient enveloppés dans sa ruine, cette condamnation était juste, puisque la loi l'avait prononcée ; des sentiments plus équitables ont fait comprendre et établir que personne ne devait être puni de la faute des autres. </re>
-<note type="H">
+<re type="SYN.">JUSTE, ÉQUITABLE ; JUSTICE, ÉQUITE. Dans juste est l'idée de droit ; dans équitable est l'idée d'égalité qui est dans le latin aequus. De là la nuance fondamentale entre ces deux mots ; ce qui est juste est de rigueur ; ce qui est équitable est de conscience. La distinction va plus loin : ce qui est juste est conforme à la loi ; ce qui est équitable est plus conforme à l'idée que nous nous faisons d'une justice plus élevée. Quand les enfants d'un complice de lèse-majesté étaient enveloppés dans sa ruine, cette condamnation était juste, puisque la loi l'avait prononcée ; des sentiments plus équitables ont fait comprendre et établir que personne ne devait être puni de la faute des autres. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -38126,7 +38126,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -38257,7 +38257,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -38474,7 +38474,7 @@
 <dictScrap>Terme de manége. Donner les plus grandes justesses, perfectionner un cheval déjà dressé.</dictScrap>
 </sense>
 </sense>
-<re type="S">JUSTESSE, PRÉCISION. Dans justesse, il n'y a que l'idée de juste ; dans précision, il y a étymologiquement l'idée de couper, retrancher (du latin praecidere). Par conséquent, ce qui a de la justesse convient parce qu'il s'adapte exactement ; ce qui a de la précision convient parce qu'il n'y a rien de superflu. </re>
+<re type="SYN.">JUSTESSE, PRÉCISION. Dans justesse, il n'y a que l'idée de juste ; dans précision, il y a étymologiquement l'idée de couper, retrancher (du latin praecidere). Par conséquent, ce qui a de la justesse convient parce qu'il s'adapte exactement ; ce qui a de la précision convient parce qu'il n'y a rien de superflu. </re>
 <etym>Juste, au sens de : qui s'adapte exactement. On a dit autrefois justeté.</etym>
 </entry>
 <entry xml:id="justice">
@@ -39373,8 +39373,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Corneille a dit : Permettez qu'il achève, et je ferai justice : J'aime à la rendre à tous, à toute heure, en tout lieu, Hor. V, 2. Et Pascal : La religion leur défend de se faire justice à eux-mêmes, et c'est par son esprit que les rois chrétiens ne se la font pas, Prov. XIV. Justice, étant pris sans article, ne peut, dans la règle, être représenté par le pronom la : sauf les cas où il n'en résulte aucun dommage pour la clarté ; cette tournure est donc ici justifiable. </note>
-<note type="H">
+<note type="REM.">Corneille a dit : Permettez qu'il achève, et je ferai justice : J'aime à la rendre à tous, à toute heure, en tout lieu, Hor. V, 2. Et Pascal : La religion leur défend de se faire justice à eux-mêmes, et c'est par son esprit que les rois chrétiens ne se la font pas, Prov. XIV. Justice, étant pris sans article, ne peut, dans la règle, être représenté par le pronom la : sauf les cas où il n'en résulte aucun dommage pour la clarté ; cette tournure est donc ici justifiable. </note>
+<note type="HIST.">
 
 <label>XIe s.</label>
 <cit>
@@ -39635,7 +39635,7 @@
 <dictScrap>Fig. Un auteur est le <oVar>justiciable</oVar> de la critique.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -39699,7 +39699,7 @@
 <sense>
 <dictScrap>Punir quel qu'un d'une peine corporelle, en exécution de sentence ou d'arrêt. On fit <oVar>justicier</oVar> ces voleurs.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -39836,7 +39836,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -39901,7 +39901,7 @@
 <sense>
 <dictScrap>D'une manière justifiable.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIIIe s.</label>
 <cit>
@@ -39940,7 +39940,7 @@
 <dictScrap>Grâce justifiante, voy. <ref target="grâce">GRÂCE</ref>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -39999,7 +39999,7 @@
 <sense n="2">
 <dictScrap>Qui sert à prouver ce qu'on allègue. Les pièces <oVar>justificatives</oVar> d'une histoire, d'un mémoire.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -40069,8 +40069,8 @@
 <dictScrap>Terme de fondeur de caractères. Action de comparer une lettre nouvellement fondue avec la lettre matrice.</dictScrap>
 </sense>
 </sense>
-<re type="S">JUSTIFICATION, APOLOGIE. La justification justifie, c'est-à-dire efface l'inculpation. L'apologie ne fait que défendre. L'apologie peut conduire à la justification ; mais elle n'est pas la justification. </re>
-<note type="H">
+<re type="SYN.">JUSTIFICATION, APOLOGIE. La justification justifie, c'est-à-dire efface l'inculpation. L'apologie ne fait que défendre. L'apologie peut conduire à la justification ; mais elle n'est pas la justification. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -40529,8 +40529,8 @@
 </bibl>
 </cit>
 </sense>
-<re type="S">JUSTIFIER, DÉFENDRE. L'un et l'autre veut dire travailler à établir l'innocence de quelqu'un. Justifier suppose que l'inculpation a été mise à néant ; défendre suppose seulement qu'elle a été combattue. Cicéron défendit Milon, mais il ne put parvenir à le justifier. </re>
-<note type="H">
+<re type="SYN.">JUSTIFIER, DÉFENDRE. L'un et l'autre veut dire travailler à établir l'innocence de quelqu'un. Justifier suppose que l'inculpation a été mise à néant ; défendre suppose seulement qu'elle a été combattue. Cicéron défendit Milon, mais il ne put parvenir à le justifier. </re>
+<note type="HIST.">
 
 <label>XIIe s.</label>
 <cit>
@@ -40630,7 +40630,7 @@
 <sense>
 <dictScrap>Qui a beaucoup de jus. Melon <oVar>juteux</oVar>. Pêche <oVar>juteuse</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XIVe s.</label>
 <cit>
@@ -40659,7 +40659,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVe s.</label>
 <cit>
@@ -40691,7 +40691,7 @@
 <sense>
 <dictScrap>Qui appartient à la jeunesse. Ardeur, grâce juvénile.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
@@ -40714,7 +40714,7 @@
 <sense>
 <dictScrap>D'une manière juvénile.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 
 <label>XVIe s.</label>
 <cit>
