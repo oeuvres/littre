@@ -1,10 +1,17 @@
 body {
   padding:0;
+  font-family: Arial,sans-serif;
+}
+form small {
+  display:block;
+}
+input#q {
+  font-size:16px;
+  padding:0 0.5ex;
 }
 div.entry,
 div.entryFree {
   margin:2em 1ex;
-  font-family: Arial,sans-serif;
   max-width:80ex;
 }
 .entry ol {

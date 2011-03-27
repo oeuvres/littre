@@ -56,7 +56,7 @@
 <dictScrap><oVar>Q</oVar> valait 500 dans la numération romaine, et, surmonté d'un trait, 500,000.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Li q est lettre bestornée ; Ce derrier devant est tornée ; Se li q ne fust bestornés, En guise de p fust tornés, Senefiance de l'ABC</quote>
@@ -185,7 +185,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>La premiere est triangle.... la deuxieme est quadrangle</quote>
@@ -216,7 +216,7 @@
 <dictScrap>Prisme, pyramide <oVar>quadrangulaire</oVar>, prisme, pyramide qui a pour base un quadrilatère.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Les autres muscles sont quadrangulaires, comme le rhomboïde de l'omoplate</quote>
@@ -240,7 +240,7 @@
 </entry>
 <entry xml:id="quadrans">
 <form>
-<orth>QUADRANS ou QUADRANT</orth>
+<orth>QUADRANS</orth><orth>QUADRANT</orth>
 <pron>ka-dran</pron>
 <gram>s. m.</gram>
 </form>
@@ -379,7 +379,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>La querrure du cercle</quote>
@@ -891,7 +891,7 @@
 <sense>
 <dictScrap>Nom des unités de la sixième tranche d'un nombre. Le <oVar>quadrillion</oVar> vaut mille trillions.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Un quadrillion vaut mille milliers de trillions</quote>
@@ -1086,7 +1086,7 @@
 </entry>
 <entry xml:id="quadrivalve">
 <form>
-<orth>QUADRIVALVE ou QUADRIVALVÉ, ÉE</orth>
+<orth>QUADRIVALVE</orth><orth>QUADRIVALVÉ, ÉE</orth>
 <pron>koua-dri-val-v' ou koua-dri-val-vé, vée</pron>
 <gram>adj.</gram>
 </form>
@@ -1113,7 +1113,7 @@
 <sense>
 <dictScrap>La division supérieure des sept arts dans l'université du moyen âge, division qui venait après le trivium et qui comprenait l'arithmétique, la géométrie, la musique et l'astronomie.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Cil trois sevent [savent] trive, cadruve</quote>
@@ -1348,7 +1348,7 @@
 <sense n="5">
 <dictScrap>Terme de musique du moyen âge. Nom donné à des morceaux à quatre parties ; nous dirions quatuor.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Uns dyametres qui double à un autre fait l'aire quadruple à l'aire de celui</quote>
@@ -1414,7 +1414,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quadruplement</quote>
@@ -1451,7 +1451,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Doubler, tripler, quadrupler tous nombres</quote>
@@ -1472,7 +1472,7 @@
 <sense>
 <dictScrap>Action de quadrupler. La <oVar>quadruplication</oVar> d'un nombre.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et après il baillent quadruplication [pièce judiciaire] au demandeur contre les triplications au defendeur</quote>
@@ -1493,7 +1493,7 @@
 <sense>
 <dictScrap>Quatrième réplique dans un plaidoyer ou une discussion.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Les parties ne peuvent, sur le principal de la matiere, plus avant escrire que jusqu'à tripliques pour le demandeur, et jusques à quadrupliques pour le defendeur si les parties le debattent</quote>
@@ -1546,7 +1546,7 @@
 <sense n="3">
 <dictScrap>Se dit des berges dans un embarcadère de chemin de fer.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Ils trouverent [à Lécluse] une nef appareillée, et l'acheterent à leurs deniers, et se departirent, et vinrent arriver au quay de Londres</quote>
@@ -1592,7 +1592,7 @@
 </entry>
 <entry xml:id="quairelle">
 <form>
-<orth>QUAIRELLE ou QUÉRELLE</orth>
+<orth>QUAIRELLE</orth><orth>QUÉRELLE</orth>
 <pron>ké-rè-l'</pron>
 <gram>s. f.</gram>
 </form>
@@ -1602,7 +1602,7 @@
 </entry>
 <entry xml:id="quaker">
 <form>
-<orth>QUAKER ou QUAKRE</orth>
+<orth>QUAKER</orth><orth>QUAKRE</orth>
 <pron>koua-kr'</pron>
 <gram>s. m.</gram>
 </form>
@@ -1942,7 +1942,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Je me saisy (qui fut le bon), Quand la voix me fut proferée, De la saincture de [du duc de] Bourbon Pour mieux calliffier le don ; Mais elle n'étoit pas ferrée</quote>
@@ -2421,7 +2421,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Li juges de qui l'en [l'on] apele porra attemprer le terme selonc la loigneté [éloignement] des lieus et des contrées et selonc la qualité des tens</quote>
@@ -2777,7 +2777,7 @@
 <dictScrap>Cette locution n'est pas fautive ; même on pourrait l'interpréter autrement que par la suppression de et, en y voyant une ellipse : et changent, l'une [changeant] <oVar>quand</oVar> l'autre [change].</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>Xe s.</label>
 <cit>
 <quote>Une edre [un lierre] sor son cheue [chef, tête], quant umbre li fesist</quote>
@@ -2898,7 +2898,7 @@
 <re ana="supplement" orig=" QUAND. ">
 
 
-<note type="R" ana="supplement">Malherbe a employé quand bien au lieu de quand bien même, que nous disons aujourd'hui : Il y a longtemps que je ne puis plus ni perdre ni gagner ; c'est une opinion que je devrais avoir, quand bien je ne serais pas vieil, Lexique, éd. L. Lalanne. Corneille aussi : Mais, quand bien vous auriez tout lieu de vous en plaindre, Sophonisbe après tout n'est point pour vous à craindre, Sophonisbe, II, 1. </note>
+<note type="REM." ana="supplement">Malherbe a employé quand bien au lieu de quand bien même, que nous disons aujourd'hui : Il y a longtemps que je ne puis plus ni perdre ni gagner ; c'est une opinion que je devrais avoir, quand bien je ne serais pas vieil, Lexique, éd. L. Lalanne. Corneille aussi : Mais, quand bien vous auriez tout lieu de vous en plaindre, Sophonisbe après tout n'est point pour vous à craindre, Sophonisbe, II, 1. </note>
 </re>
 </entry>
 <entry xml:id="quand-est-ce">
@@ -2981,7 +2981,7 @@
 <dictScrap>Toutes ces locutions ont vieilli.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Contes et dus i a bien, ne sai quanz</quote>
@@ -3152,8 +3152,8 @@
 </cit>
 </sense>
 </sense>
-<note type="R">Ménage dit : " M. de Vaugelas permet quant à nous, quant à vous, et condamne seulement quant à moi, à cause de se mettre sur son quant-à-moi. Je suis plus sévère : toutes ces façons de parler ont vieilli, et ne sont plus du bel usage. " L'usage a rétabli ce que l'usage avait détruit, si tant est que Vaugelas et Ménage fussent ici les véritables interprètes de l'usage. </note>
-<note type="H">
+<note type="REM.">Ménage dit : " M. de Vaugelas permet quant à nous, quant à vous, et condamne seulement quant à moi, à cause de se mettre sur son quant-à-moi. Je suis plus sévère : toutes ces façons de parler ont vieilli, et ne sont plus du bel usage. " L'usage a rétabli ce que l'usage avait détruit, si tant est que Vaugelas et Ménage fussent ici les véritables interprètes de l'usage. </note>
+<note type="HIST.">
 <label>IXe s.</label>
 <cit>
 <quote>In quant Deus savir et podir me dunat [donne]</quote>
@@ -3278,8 +3278,8 @@
 <dictScrap>Montre à <oVar>quantièmes</oVar>, montre qui marque le <oVar>quantième</oVar> du mois.</dictScrap>
 </sense>
 </sense>
-<note type="R">Ménage voulait qu'on dît : quantième du mois ? et non quel quantième du mois ? vu que quantième signifie par lui-même quel jour. Ménage avait raison ; l'usage, à tort, a décidé contre lui. </note>
-<note type="H">
+<note type="REM.">Ménage voulait qu'on dît : quantième du mois ? et non quel quantième du mois ? vu que quantième signifie par lui-même quel jour. Ménage avait raison ; l'usage, à tort, a décidé contre lui. </note>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Qu'elle me mande au plus vray le quantieme Du mois nasquit le roy Charles septieme</quote>
@@ -3439,7 +3439,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Puisque vous savés de l'eure de mangier, il convient savoir de la [la] quantité</quote>
@@ -3610,7 +3610,7 @@
 <sense n="7">
 <dictScrap>Terme de marine. <oVar>Quarantaine</oVar> ou quarantenier, sorte de corde, de la grosseur du petit doigt, dont on se sert pour raccommoder les autres cordages.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>E quant la quaranteine des meis fust trespassée, E des semaines fu la quaranteine entrée, Dunc fu de tutes parz Engleterre troblée</quote>
@@ -3801,7 +3801,7 @@
 <sense ana="supplement" n="9">
 <dictScrap>L'arbre aux <oVar>quarante</oVar> écus, le gingko biloba, Chine, BAILLON, Dict. de bot. p. 248 (ainsi nommé parce que le premier pied introduit en France fut payé cette somme).</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Ensemble od lui de ses barons quarante</quote>
@@ -4066,7 +4066,7 @@
 <dictScrap>Pays de <oVar>quart</oVar> bouillon, les pays qui avaient la faculté de s'approvisionner de sel par des sauneries particulières.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Naimes li dus puis establit la quarte [eschele, escadron]</quote>
@@ -4516,10 +4516,10 @@
 <dictScrap>Numéros huit <oVar>quarts</oVar>, dix <oVar>quarts</oVar>, vingt <oVar>quarts</oVar>, manière d'indiquer la finesse d'un fil, Enquête, Traité de comm. avec l'Anglet. t. III, p. 95.</dictScrap>
 </sense>
 </sense>
-<note type="R">1. Voy. <ref target="moitié">MOITIÉ</ref> pour l'accord de quart avec le verbe.</note> 
-<note type="R">2. On dit : une heure et un quart, et aussi une heure un quart, sans et. C'est une irrégularité du langage très familier, de dire une heure et quart. On dit de même. il est trois heures et un quart, ou trois heures un quart, etc.</note> 
-<note type="R">3. On dit une heure trois quarts, deux heures trois quarts, sans et.</note>
-<note type="H">
+<note type="REM.">1. Voy. <ref target="moitié">MOITIÉ</ref> pour l'accord de quart avec le verbe.</note> 
+<note type="REM.">2. On dit : une heure et un quart, et aussi une heure un quart, sans et. C'est une irrégularité du langage très familier, de dire une heure et quart. On dit de même. il est trois heures et un quart, ou trois heures un quart, etc.</note> 
+<note type="REM.">3. On dit une heure trois quarts, deux heures trois quarts, sans et.</note>
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Que teus [tel] se melle de Renart, Qui n'en sait le tierc ne le quart</quote>
@@ -4598,7 +4598,7 @@
 
 
 
-<note type="R" ana="supplement">La définition du quart n'est pas suffisamment exacte : c'est une partie d'un tout divisé en quatre parties égales. </note>
+<note type="REM." ana="supplement">La définition du quart n'est pas suffisamment exacte : c'est une partie d'un tout divisé en quatre parties égales. </note>
 </re>
 </entry>
 <entry xml:id="quartager">
@@ -4662,7 +4662,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Je me excusai vers li pour une quartaine [fièvre] que je avoie lors, et li priai que il me vousist souffrir</quote>
@@ -4718,7 +4718,7 @@
 <sense>
 <dictScrap>Terme de chasse. Sanglier de quatre ans.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Sanglier quadrannier</quote>
@@ -4789,7 +4789,7 @@
 <dictScrap><oVar>Quartaut</oVar> d'Orléans, contenant 114 litres.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>En l'emine a deux bichots, ou bichot deux quartaux, ou quartault quatre quarte-ranches ou quatre boisseaux</quote>
@@ -4885,7 +4885,7 @@
 <sense n="8">
 <dictScrap>Terme d'ancienne coutume. Banlieue qui comprenait une étendue de quatre milles, ou qui était composée de quatre villages.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et chascun jor, de vin à chacun et à chacune des convers et converses, une quarte de vin, se la poent boire</quote>
@@ -4994,7 +4994,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Si vous remplissez un quartenaire [malade affecté de fièvre quarte] de viandes melancholiques, l'accès anticipera</quote>
@@ -5031,7 +5031,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Jehan Eschart pour lors quartenier du quatriesme des vins vendus à detail</quote>
@@ -5107,9 +5107,9 @@
 <dictScrap>Outil dont l'épinglier se sert pour trouer le papier.</dictScrap>
 </sense>
 </sense>
-<re type="P">Il ne faut point tant de beurre pour faire un quarteron, il ne faut pas tant de paroles.  <cit><quote>Vois-tu, il ne faut point tant de beurre pour faire un quarteron : si tu veux, tu seras ma femme, je serai ton mari</quote><bibl><author>MOL.</author><biblScope>G. Dand. II, 1</biblScope></bibl></cit> </re>
-<re type="P"><form>Il n'y en a pas trois douzaines au quarteron</form>, se dit d'une chose qu'on estime, qu'on ménage. </re>
-<note type="H">
+<re type="PROV.">Il ne faut point tant de beurre pour faire un quarteron, il ne faut pas tant de paroles.  <cit><quote>Vois-tu, il ne faut point tant de beurre pour faire un quarteron : si tu veux, tu seras ma femme, je serai ton mari</quote><bibl><author>MOL.</author><biblScope>G. Dand. II, 1</biblScope></bibl></cit> </re>
+<re type="PROV."><form>Il n'y en a pas trois douzaines au quarteron</form>, se dit d'une chose qu'on estime, qu'on ménage. </re>
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Appareillier et mettre par quarterons [le chanvre], por faire peser au pois le roi</quote>
@@ -6090,7 +6090,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>[Il] Fiert [frappe] l'amoraive [l'émir] sur l'escu de quarter</quote>
@@ -6375,7 +6375,7 @@
 <sense>
 <dictScrap>Terme d'astrologie. <oVar>Quartile</oVar> aspect, aspect de deux planètes éloignées l'une de l'autre de la quatrième partie du zodiaque ou de quatre-vingt-dix degrés.</dictScrap>
 </sense>
-<note type="R">Pourquoi l'Académie donne-t-elle à cet adjectif la terminaison féminine dans quartile aspect, tout en écrivant octil, quintil, sextil aspect ? LEGOARANT. </note>
+<note type="REM.">Pourquoi l'Académie donne-t-elle à cet adjectif la terminaison féminine dans quartile aspect, tout en écrivant octil, quintil, sextil aspect ? LEGOARANT. </note>
 <etym>Dérivé de quartus, quatrième (voy QUART 1).</etym>
 </entry>
 <entry xml:id="quartine">
@@ -6604,8 +6604,8 @@
 <sense n="2">
 <dictScrap>Mot qui se joint à un grand nombre d'autres, pour indiquer que la qualité exprimée par ceux-ci n'est qu'approximative, ou est soumise à certaines conditions. <oVar>Quasi</oVar>-liberté. <oVar>Quasi</oVar>-républicain, etc.</dictScrap>
 </sense>
-<note type="R">Les puristes du XVIIe siècle déclaraient quasi un terme vieilli, bien qu'employé par les meilleurs auteurs. Aujourd'hui l'usage n'est pas complétement revenu en sa faveur ; toutefois il ne faut pas hésiter à s'en servir. </note>
-<note type="H">
+<note type="REM.">Les puristes du XVIIe siècle déclaraient quasi un terme vieilli, bien qu'employé par les meilleurs auteurs. Aujourd'hui l'usage n'est pas complétement revenu en sa faveur ; toutefois il ne faut pas hésiter à s'en servir. </note>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Je n'en recognois quasy trace en moy</quote>
@@ -6741,7 +6741,7 @@
 <dictScrap>Renvoyer les gens à la <oVar>Quasimodo</oVar>, demander un long terme.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Il falloit plustost armer le diable de toutes pieces... et faire l'ange tout nud avec une robbe de quasimodo</quote>
@@ -6903,7 +6903,7 @@
 <sense n="2">
 <dictScrap>Il s'est dit, dans la controverse, de quatre personnes, comme trinité se dit de trois. Quelques théologiens et même le fameux Pierre Lombard ont été accusés d'avoir donné par leurs explications l'idée d'une <oVar>quaternité</oVar> en Dieu.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Ils se trompent en une autre illusion, c'est qu'il leur semble que nous establissons une quaternité</quote>
@@ -7048,8 +7048,8 @@
 <dictScrap>Fig. et familièrement. Avoir quinte et <oVar>quatorze</oVar>, avoir dans une affaire tous les avantages.</dictScrap>
 </sense>
 </sense>
-<note type="R">Chercher midi à quatorze heures a pour origine l'usage, encore en vigueur dans plusieurs villes de l'Italie, de compter les heures de 1 à 24, à partir du coucher du soleil. D'après cette notation, midi peut se trouver à 16 heures, à 17, à 18 et 20 ; mais il ne peut jamais se trouver à 14. Le vrai sens de cette locution est donc : chercher une chose impossible. </note>
-<note type="H">
+<note type="REM.">Chercher midi à quatorze heures a pour origine l'usage, encore en vigueur dans plusieurs villes de l'Italie, de compter les heures de 1 à 24, à partir du coucher du soleil. D'après cette notation, midi peut se trouver à 16 heures, à 17, à 18 et 20 ; mais il ne peut jamais se trouver à 14. Le vrai sens de cette locution est donc : chercher une chose impossible. </note>
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Par serment nommé, ço est à savoir quatorze homes leals par nom</quote>
@@ -7113,7 +7113,7 @@
 <sense n="6">
 <dictScrap>S. f. Terme de musique. Réplique ou octave de la septième.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Rois quatorsimes par escris Est nombrés cis Theodoris</quote>
@@ -7185,7 +7185,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Tant en quatrins, dixains, rondeaux, ballades</quote>
@@ -7216,7 +7216,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Faisant sa cavalcade, jettoit, par toutes les rues où il passoit, monnoye, c'est à savoir deniers qu'on appelle quatrins et mailles de Florence</quote>
@@ -7674,7 +7674,7 @@
 <sense n="19">
 <dictScrap>Le <oVar>quatre</oVar> à la livre, variété de cerisier.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>D'or et d'argent quatre cenz muls chargez</quote>
@@ -7912,8 +7912,8 @@
 <sense ana="supplement" n="7">
 <dictScrap>Nom d'un papillon de nuit, portant sur ses ailes supérieures le chiffre 80, noctua octogesima.</dictScrap>
 </sense>
-<note type="R">L'habitude de compter par vingt (six-vingts, sept-vingts) a fait traiter vingt comme cent, et mettre une s quand il est multiplié par un autre nombre. Cela se conçoit. Mais la suppression de l's dans certains cas n'est qu'une abréviation orthographique et n'a rien de syntaxique. </note>
-<note type="H">
+<note type="REM.">L'habitude de compter par vingt (six-vingts, sept-vingts) a fait traiter vingt comme cent, et mettre une s quand il est multiplié par un autre nombre. Cela se conçoit. Mais la suppression de l's dans certains cas n'est qu'une abréviation orthographique et n'a rien de syntaxique. </note>
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Le saint roy fut à Corbeil à une Penthecouste, là où il ot quatrevins chevaliers</quote>
@@ -8008,9 +8008,9 @@
 <sense n="12">
 <dictScrap>La <oVar>quatrième</oVar> des enquêtes, la <oVar>quatrième</oVar> chambre des enquêtes au parlement de Paris.</dictScrap>
 </sense>
-<note type="R">Conformément à l'usage antique, Malherbe a encore fait quatrième de trois syllabes : à peine la quatrième lune Achève de faire son tour, MALH. III, 2. Voy. la </note>
-<note type="R">À R. </note>
-<note type="H">
+<note type="REM.">Conformément à l'usage antique, Malherbe a encore fait quatrième de trois syllabes : à peine la quatrième lune Achève de faire son tour, MALH. III, 2. Voy. la </note>
+<note type="REM.">À R. </note>
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Ce sont impositions, gabelles, subsides, dimes, quatriemes et toutes extorsions sur le peuple</quote>
@@ -8211,7 +8211,7 @@
 <sense>
 <dictScrap>Droit que payent les marchands pour étaler leurs marchandises sur un quai, sur un port.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Et à lui appartiegne et doie appartenir le droit de prendre le kayage et le proffit desdiz kais et de la vase</quote>
@@ -9254,10 +9254,10 @@
 </cit>
 <dictScrap>Au mot QUI, n° 13, comparez un emploi tout semblable.</dictScrap>
 </sense>
-<note type="R">1. On dit : Faites ce que bon vous semblera, et non ce qui bon vous semblera. La construction est : Faites ce que bon vous semblera de faire.</note>
-<note type="R">2. Que signifiant combien est un adverbe de quantité qui ne peut modifier un mot précédé d'un des adverbes bien, très , fort, extrêmement.  <cit><quote>Ainsi il y aura faute dans les vers suivants : Hélas ! après les pleurs que j'ai versés pour vous, Que cet heureux instant me doit être bien doux !</quote><bibl><author>CRÉBILLON</author><biblScope>dans GIRAULT-DUVIVIER</biblScope></bibl></cit>
+<note type="REM.">1. On dit : Faites ce que bon vous semblera, et non ce qui bon vous semblera. La construction est : Faites ce que bon vous semblera de faire.</note>
+<note type="REM.">2. Que signifiant combien est un adverbe de quantité qui ne peut modifier un mot précédé d'un des adverbes bien, très , fort, extrêmement.  <cit><quote>Ainsi il y aura faute dans les vers suivants : Hélas ! après les pleurs que j'ai versés pour vous, Que cet heureux instant me doit être bien doux !</quote><bibl><author>CRÉBILLON</author><biblScope>dans GIRAULT-DUVIVIER</biblScope></bibl></cit>
 </note>
-<note type="H">
+<note type="HIST.">
 <label>IXe s.</label>
 <cit>
 <quote>Si Lodwighs sagrament quae son fradre Karle jurat, conservat...</quote>
@@ -11035,11 +11035,11 @@
 <note>C'est une sorte de menace : si je vous entends, je me fâcherai.</note>
 </cit>
 </sense>
-<note type="R">1. " à Rome, il n'y avait pas que les esclaves qui fissent le métier de gladiateurs. Construction barbare, bien que fort usitée aujourd'hui. On n'en trouverait pas un seul exemple dans toute la littérature française avant la fin du XVIIIe siècle. Le plus ancien que j'aie rencontré est de Maurice Dupin, petit-fils du maréchal de Saxe et père de Mme Sand. C'est dans une lettre qu'il écrit à sa mère en 1798. Je ne connais, avant cette date, aucun exemple de pareille faute dans les écrivains français. Grammaticalement, cette construction signifie précisément le contraire de ce qu'on veut lui faire dire quand on l'emploie aujourd'hui. Je n'en veux pour preuve que les vers de Corneille (voy. ci-dessus, n° 11 : Ils ne l'auront point vue obéir qu'à son prince, c'est-à-dire si ce n'est à son prince). Tel est le sens français et correct de cette tournure, quoique aujourd'hui un grand nombre de personnes et même d'écrivains l'emploient fréquemment dans le sens opposé. Pour eux, le vers de Corneille voudrait dire : ils ne l'auront point vue obéir seulement à son prince ; c'est justement tout le contraire. Voici d'où vient la confusion : ils s'imaginent que cette tournure il n'y a pas que, est l'opposé de il n'y a que ; tandis qu'au fond, soit grammaticalement, soit logiquement, ces deux tournures ne sont qu'une ; témoin le vers de Corneille. En effet, en ajoutant simplement le mot pas à la tournure il n'y a que, on croit ajouter une seconde négation à la première, ce qui serait nécessaire pour que l'une des tournures signifiât le contraire de l'autre ; mais, en réalité, on n'y ajoute rien du tout, si ce n'est le mot pas, mot purement explétif, qui, soit qu'on le mette, soit qu'on l'omette, fait virtuellement partie de la première négation, et ne saurait, à lui tout seul, en constituer une seconde (voy. ci-dessous un exemple de Marot où pas joue exactement le rôle que lui attribue M. Deschanel en cette locution). Ne tout seul, ou, à volonté, ne pas n'est qu'une seule et même négation. Corneille a bien dit ce qu'il voulait dire ; mais les auteurs d'à présent, se servant de la même tournure pour signifier le contraire, font un barbarisme de phrase et un non-sens, " DESCHANEL, Journ. des Débats, 23 août 1860. En place de la construction vicieuse : Il n'y a pas que lui qui ait fait cela, on dira : Il n'y a pas seulement lui qui a fait cela, ou mieux Il n'est pas le seul qui ait fait cela ; Je n'ai pas vu que lui, dites : Il n'est pas le seul que j'aie vu. C'est par une autre tournure heureuse et juste que la Fontaine a exprimé ce que nous rendons par cette locution barbare de ne.... pas.... que : <cit><quote>Moins d'ennemis attaquent leur pudeur [des femmes du monde] ; Les autres [les cloîtrées] n'ont pour un seul adversaire : Tentation, fille d'oisiveté !</quote><bibl><author>LA FONT.</author><biblScope>Mazet.</biblScope></bibl></cit></note> <note type="R">2. Je voudrais qu'il vienne ou qu'il vînt. L'imparfait exprime une contemporanéité : Quand j'avais de l'argent, je le dépensais. Semblablement, le conditionnel exprimant une contemporanéité avec la condition, on met à l'imparfait le verbe du membre où la condition est exprimée : Si j'avais de l'argent, je le dépenserais. Semblablement enfin on met l'imparfait du subjonctif dans le membre subordonné : Si j'avais de l'argent, je le dépenserais de manière qu'il profitât. Mais cela est une pure affaire d'oreille ; la syntaxe n'y est pour rien ; bien plus l'idée est non d'un passé, mais d'un futur ; et il serait peu usité, mais non fautif de dire : de manière qu'il profite. Cette liberté devient encore plus effective quand le conditionnel est pris absolument et sans condition exprimée ; alors il est non-seulement permis de mettre le présent du subjonctif, mais, la plupart du temps, cela vaut mieux que l'imparfait et est moins apprêté et moins puriste : Je voudrais qu'il vienne ou qu'il vînt ; il me serait agréable que cela se fasse ou se fît ; je désirerais que vous passiez chez moi, et non que vous passassiez, etc.</note>
-<note type="R" ana="supplement">3. L'usage ancien admettait en certains cas un que explétif, que l'usage moderne rejette.  <cit><quote>Il me fit.... L'honneur que d'approuver mon petit jugement</quote><bibl><author>RÉGNIER</author><biblScope>Sat. VIII</biblScope></bibl></cit> </note> 
- <note type="R" ana="supplement">4. Régnier a dit : <cit><quote>Mais étant mauvais peintre ainsi que mauvais poëte, Et que j'ai la cervelle et la main maladroite</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> Et que représente et étant. Cette tournure n'est plus en usage. </note> 
-  <note type="R" ana="supplement">5. Je meure, s'est dit pour que je meure.  <cit><quote>C'est cela, ou je meure, interrompit le sultan : continuez, vous avez réellement bien de l'esprit</quote><bibl><author>CRÉBILLON</author><biblScope>fils, le Sopha, ch. II</biblScope></bibl></cit> Cette locution n'est pas bonne ; elle prêterait à trop d'amphibologie.</note>
-<note type="H">
+<note type="REM.">1. " à Rome, il n'y avait pas que les esclaves qui fissent le métier de gladiateurs. Construction barbare, bien que fort usitée aujourd'hui. On n'en trouverait pas un seul exemple dans toute la littérature française avant la fin du XVIIIe siècle. Le plus ancien que j'aie rencontré est de Maurice Dupin, petit-fils du maréchal de Saxe et père de Mme Sand. C'est dans une lettre qu'il écrit à sa mère en 1798. Je ne connais, avant cette date, aucun exemple de pareille faute dans les écrivains français. Grammaticalement, cette construction signifie précisément le contraire de ce qu'on veut lui faire dire quand on l'emploie aujourd'hui. Je n'en veux pour preuve que les vers de Corneille (voy. ci-dessus, n° 11 : Ils ne l'auront point vue obéir qu'à son prince, c'est-à-dire si ce n'est à son prince). Tel est le sens français et correct de cette tournure, quoique aujourd'hui un grand nombre de personnes et même d'écrivains l'emploient fréquemment dans le sens opposé. Pour eux, le vers de Corneille voudrait dire : ils ne l'auront point vue obéir seulement à son prince ; c'est justement tout le contraire. Voici d'où vient la confusion : ils s'imaginent que cette tournure il n'y a pas que, est l'opposé de il n'y a que ; tandis qu'au fond, soit grammaticalement, soit logiquement, ces deux tournures ne sont qu'une ; témoin le vers de Corneille. En effet, en ajoutant simplement le mot pas à la tournure il n'y a que, on croit ajouter une seconde négation à la première, ce qui serait nécessaire pour que l'une des tournures signifiât le contraire de l'autre ; mais, en réalité, on n'y ajoute rien du tout, si ce n'est le mot pas, mot purement explétif, qui, soit qu'on le mette, soit qu'on l'omette, fait virtuellement partie de la première négation, et ne saurait, à lui tout seul, en constituer une seconde (voy. ci-dessous un exemple de Marot où pas joue exactement le rôle que lui attribue M. Deschanel en cette locution). Ne tout seul, ou, à volonté, ne pas n'est qu'une seule et même négation. Corneille a bien dit ce qu'il voulait dire ; mais les auteurs d'à présent, se servant de la même tournure pour signifier le contraire, font un barbarisme de phrase et un non-sens, " DESCHANEL, Journ. des Débats, 23 août 1860. En place de la construction vicieuse : Il n'y a pas que lui qui ait fait cela, on dira : Il n'y a pas seulement lui qui a fait cela, ou mieux Il n'est pas le seul qui ait fait cela ; Je n'ai pas vu que lui, dites : Il n'est pas le seul que j'aie vu. C'est par une autre tournure heureuse et juste que la Fontaine a exprimé ce que nous rendons par cette locution barbare de ne.... pas.... que : <cit><quote>Moins d'ennemis attaquent leur pudeur [des femmes du monde] ; Les autres [les cloîtrées] n'ont pour un seul adversaire : Tentation, fille d'oisiveté !</quote><bibl><author>LA FONT.</author><biblScope>Mazet.</biblScope></bibl></cit></note> <note type="REM.">2. Je voudrais qu'il vienne ou qu'il vînt. L'imparfait exprime une contemporanéité : Quand j'avais de l'argent, je le dépensais. Semblablement, le conditionnel exprimant une contemporanéité avec la condition, on met à l'imparfait le verbe du membre où la condition est exprimée : Si j'avais de l'argent, je le dépenserais. Semblablement enfin on met l'imparfait du subjonctif dans le membre subordonné : Si j'avais de l'argent, je le dépenserais de manière qu'il profitât. Mais cela est une pure affaire d'oreille ; la syntaxe n'y est pour rien ; bien plus l'idée est non d'un passé, mais d'un futur ; et il serait peu usité, mais non fautif de dire : de manière qu'il profite. Cette liberté devient encore plus effective quand le conditionnel est pris absolument et sans condition exprimée ; alors il est non-seulement permis de mettre le présent du subjonctif, mais, la plupart du temps, cela vaut mieux que l'imparfait et est moins apprêté et moins puriste : Je voudrais qu'il vienne ou qu'il vînt ; il me serait agréable que cela se fasse ou se fît ; je désirerais que vous passiez chez moi, et non que vous passassiez, etc.</note>
+<note type="REM." ana="supplement">3. L'usage ancien admettait en certains cas un que explétif, que l'usage moderne rejette.  <cit><quote>Il me fit.... L'honneur que d'approuver mon petit jugement</quote><bibl><author>RÉGNIER</author><biblScope>Sat. VIII</biblScope></bibl></cit> </note> 
+ <note type="REM." ana="supplement">4. Régnier a dit : <cit><quote>Mais étant mauvais peintre ainsi que mauvais poëte, Et que j'ai la cervelle et la main maladroite</quote><bibl><author>RÉGNIER</author><biblScope>Sat. X</biblScope></bibl></cit> Et que représente et étant. Cette tournure n'est plus en usage. </note> 
+  <note type="REM." ana="supplement">5. Je meure, s'est dit pour que je meure.  <cit><quote>C'est cela, ou je meure, interrompit le sultan : continuez, vous avez réellement bien de l'esprit</quote><bibl><author>CRÉBILLON</author><biblScope>fils, le Sopha, ch. II</biblScope></bibl></cit> Cette locution n'est pas bonne ; elle prêterait à trop d'amphibologie.</note>
+<note type="HIST.">
 <label>Xe s.</label>
 <cit>
 <quote>Elle n'out escoltet les mals conseilliers, Qu'elle Deo raneiet [renie]</quote>
@@ -11880,11 +11880,11 @@
 </sense>
 <sense n="7">
 <dictScrap><oVar>Quel</oVar> que, quelle que, voy. <oVar>QUEL</oVar> QUE à son rang alphabétique. </dictScrap>
-<re type="P"><form>Quel pour moi, tel pour toi</form>. </re>
+<re type="PROV."><form>Quel pour moi, tel pour toi</form>. </re>
 </sense>
-<note type="R">1. Cet adjectif interrogatif, suivi d'un substantif, peut être avec ce substantif le régime direct du verbe qui le suit : et alors le participe est variable, d'après la règle générale qui veut que le participe s'accorde quand il est précédé de son régime direct. Quelle nouvelle m'avez-vous apportée ?</note> 
-<note type="R">2. De Paris à Lyon quelle est ma route ? peut signifier trois choses : la route en tant que désignant les lieux par où je passerai ; la route par rapport à ses qualités : agréable, variée, triste ; la route par rapport à sa longueur. Quelle est votre maison ? peut signifier laquelle de ces maisons est la vôtre, ou de quelle façon est votre maison. Le sens de quel est devenu très confus : la cause en est dans la perte que la langue a faite de plusieurs excellentes tournures : on ne peut plus dire qui au sujet, en parlant d'une chose ; qui est cette maison ? n'est plus français ; l'adjectif quant, quantes a péri ; quantième n'est plus que substantif. De la sorte, quel en est venu, bon gré mal gré, à remplacer tous ces mots.</note>
-<note type="H">
+<note type="REM.">1. Cet adjectif interrogatif, suivi d'un substantif, peut être avec ce substantif le régime direct du verbe qui le suit : et alors le participe est variable, d'après la règle générale qui veut que le participe s'accorde quand il est précédé de son régime direct. Quelle nouvelle m'avez-vous apportée ?</note> 
+<note type="REM.">2. De Paris à Lyon quelle est ma route ? peut signifier trois choses : la route en tant que désignant les lieux par où je passerai ; la route par rapport à ses qualités : agréable, variée, triste ; la route par rapport à sa longueur. Quelle est votre maison ? peut signifier laquelle de ces maisons est la vôtre, ou de quelle façon est votre maison. Le sens de quel est devenu très confus : la cause en est dans la perte que la langue a faite de plusieurs excellentes tournures : on ne peut plus dire qui au sujet, en parlant d'une chose ; qui est cette maison ? n'est plus français ; l'adjectif quant, quantes a péri ; quantième n'est plus que substantif. De la sorte, quel en est venu, bon gré mal gré, à remplacer tous ces mots.</note>
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>En quel mesure en pourrai estre fiz [certain] ?</quote>
@@ -12013,7 +12013,7 @@
 <dictScrap>Il se met toujours après son substantif.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Tutes genz quelesquunques tu fesis, vendrunt [viendront], e aorerunt devant tei</quote>
@@ -12106,7 +12106,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Et ne leur chaut ou ne curent quelconque personne, ne quellement ils contristent</quote>
@@ -12191,7 +12191,7 @@
 <dictScrap>C'est un archaïsme qui est aussi un provincialisme déjà condamné par Vaugelas. Pourtant l'ancienne manière de dire, qu'on trouvera dans l'historique, est seule correcte : En quel lieu que ce soit et non en quelque lieu que ce soit.... car il y a là manifestement un que de trop Quelque.... que est une corruption de quel.... que, qui est d'origine. C'est vers le XIVe siècle que cette faute commence à s'introduire.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Quel part qu'il aille, ne puet mie cheïr [tomber]</quote>
@@ -12533,8 +12533,8 @@
 <sense n="7">
 <dictScrap><oVar>Quelque</oVar>.... que, voy. <oVar>QUELQUE</oVar> QUE immédiatement ci-dessous.</dictScrap>
 </sense>
-<note type="R">L'e final de quelque ne s'élide que devant un, une : quelqu'un, quelqu'une. </note>
-<note type="H">
+<note type="REM.">L'e final de quelque ne s'élide que devant un, une : quelqu'un, quelqu'une. </note>
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Ou nuisent par detraccion, Ou par faulce accusacion, Ou par quiexque malaventures</quote>
@@ -12773,9 +12773,9 @@
 </cit>
 </sense>
 </sense>
-<note type="R">1. On notera l'accord dans : quelques bonnes raisons qu'il ait données, tandis qu'il faut écrire, sans accord : quelque bonnes que soient les raisons qu'il ait données. Au XVIe siècle cette distinction n'était point admise, comme on peut voir à l'historique, et l'on aurait écrit : quelques bonnes que soient les raisons ; c'est ce que Corneille a fait encore dans ces vers : ....Et n'oser de ses feux, Quelques ardents qu'ils soient, se promettre autant qu'eux [les rivaux], Pulch. II, 1. Dans l'usage actuel il y a un moyen, qu'on peut dire matériel, de reconnaître si quelque devant un adjectif s'accorde ou ne s'accorde pas : quelque est indéclinable toutes les fois que l'adjectif est construit avec le verbe être, ou avec des verbes qui permettent de sous-entendre être : Quelque beaux que je les trouve ; Quelque faux que vous les jugiez (trouve être ; jugiez être).</note>
-<note type="R">2. Si l'on essaye de pénétrer dans la nature et les rapports de quel que et quelque ....que, l'ancienne langue nous apprend aussitôt que c'est un seul et même mot, qu'autrefois on disait quel.... que et non quelque.... que, et qu'à une certaine époque une erreur de langage ajouta indûment un que à quel, et produisit le barbarisme quelque.... que. L'usage acceptant le fait accompli consacra la nouvelle locution, et en tira devant les adjectifs un certain parti, une distinction : quelque devint adverbe ; et, tandis que quel que resté adjectif ne pouvait signifier que quelque soit, quel que ....que devenu adverbe signifia, si l'on peut parler ainsi : quellement que. Aussi des grammairiens ont-ils dit, non sans fondement, qu'il fallait distinguer : quelque désobligeantes paroles que vous m'ayez dites, et quelques paroles désobligeantes que vous m'ayez dites ; que le premier signifie : quellement désobligeantes que soient les paroles ; et le second : quelles que soient les paroles désobligeantes.</note>
-<note type="H">
+<note type="REM.">1. On notera l'accord dans : quelques bonnes raisons qu'il ait données, tandis qu'il faut écrire, sans accord : quelque bonnes que soient les raisons qu'il ait données. Au XVIe siècle cette distinction n'était point admise, comme on peut voir à l'historique, et l'on aurait écrit : quelques bonnes que soient les raisons ; c'est ce que Corneille a fait encore dans ces vers : ....Et n'oser de ses feux, Quelques ardents qu'ils soient, se promettre autant qu'eux [les rivaux], Pulch. II, 1. Dans l'usage actuel il y a un moyen, qu'on peut dire matériel, de reconnaître si quelque devant un adjectif s'accorde ou ne s'accorde pas : quelque est indéclinable toutes les fois que l'adjectif est construit avec le verbe être, ou avec des verbes qui permettent de sous-entendre être : Quelque beaux que je les trouve ; Quelque faux que vous les jugiez (trouve être ; jugiez être).</note>
+<note type="REM.">2. Si l'on essaye de pénétrer dans la nature et les rapports de quel que et quelque ....que, l'ancienne langue nous apprend aussitôt que c'est un seul et même mot, qu'autrefois on disait quel.... que et non quelque.... que, et qu'à une certaine époque une erreur de langage ajouta indûment un que à quel, et produisit le barbarisme quelque.... que. L'usage acceptant le fait accompli consacra la nouvelle locution, et en tira devant les adjectifs un certain parti, une distinction : quelque devint adverbe ; et, tandis que quel que resté adjectif ne pouvait signifier que quelque soit, quel que ....que devenu adverbe signifia, si l'on peut parler ainsi : quellement que. Aussi des grammairiens ont-ils dit, non sans fondement, qu'il fallait distinguer : quelque désobligeantes paroles que vous m'ayez dites, et quelques paroles désobligeantes que vous m'ayez dites ; que le premier signifie : quellement désobligeantes que soient les paroles ; et le second : quelles que soient les paroles désobligeantes.</note>
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>En quel que lieu que la vaine [veine] tende....</quote>
@@ -12929,7 +12929,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Mais quelquefoys [une fois] qu'ung grand ours que nourrissoyt son pere eschappa, et luy venoyt lescher le visaige, il....</quote>
@@ -13109,7 +13109,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Dit alors à quelcung de ses privez</quote>
@@ -13173,7 +13173,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Un homme querant et demandant l'aumosne, qui estoit vestuz d'un manteau tout plain de paleteaulx, comme un coquin ou caimant</quote>
@@ -13260,7 +13260,7 @@
 <dictScrap>La petite <oVar>quenaille</oVar>, les enfants.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quenaille</quote>
@@ -13396,7 +13396,7 @@
 <sense n="2">
 <dictScrap>Nom marchand d'une coquille univalve, dite aussi <oVar>quenotte</oVar> sanglante (du genre nérite).</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Par barat preïs son fromage, Et tu de lui eüs tel gage, Que tu lui ostas à tes canes Quatre de ses plus beles panes</quote>
@@ -13509,7 +13509,7 @@
 <sense ana="supplement" n="9">
 <dictScrap>Terme de fondeur. Nom donné à des bouchons qui ferment des tubes communiquant avec la cavité du moule et qu'on enlève, quand le métal fondu y arrive, pour permettre à l'air de s'en échapper.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Jà conperrez [vous le payerez], se Dex me saut, Se ma conoille ne me faut</quote>
@@ -14018,7 +14018,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et aussi en pesa au soudant ; car il avoit plus en la queriele que tout li autre</quote>
@@ -14274,8 +14274,8 @@
 </cit>
 </sense>
 </sense>
-<re type="S">QUERELLER, GRONDER. On querelle ceux qu'on n'a pas le droit de gronder ; on gronde ses amis, ses enfants, ses gens. Gronder suppose une sorte d'autorité, de supériorité, ou du moins de droit ; il faut que celui que l'on gronde soit au moins censé avoir tort. Pour quereller, il suffit d'avoir de l'humeur ; on querelle son égal et même son supérieur : " On querelle les malheureux, dit Vauvenargues, pour se dispenser de les plaindre. " Celui qu'on gronde ne peut répondre que par des excuses ; celui que l'on querelle peut quereller à son tour (GUIZOT). </re>
-<note type="H">
+<re type="SYN.">QUERELLER, GRONDER. On querelle ceux qu'on n'a pas le droit de gronder ; on gronde ses amis, ses enfants, ses gens. Gronder suppose une sorte d'autorité, de supériorité, ou du moins de droit ; il faut que celui que l'on gronde soit au moins censé avoir tort. Pour quereller, il suffit d'avoir de l'humeur ; on querelle son égal et même son supérieur : " On querelle les malheureux, dit Vauvenargues, pour se dispenser de les plaindre. " Celui qu'on gronde ne peut répondre que par des excuses ; celui que l'on querelle peut quereller à son tour (GUIZOT). </re>
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Cil qui mesfait as clers, Deus le het e querele</quote>
@@ -14381,7 +14381,7 @@
 <dictScrap>Il se dit aussi de celui qui est enclin au duel.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Querelleres [celui qui a un procès]</quote>
@@ -14416,7 +14416,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et certe pour moi conseille je, que chascun laisse avant de sa raison, que il soit riotous ne querelous</quote>
@@ -14490,7 +14490,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Les querimonies pleines d'indignations, par lesquelles Dieu accuse souvent l'ingratitude des Juifs</quote>
@@ -14548,10 +14548,10 @@
 <biblScope>Hist. III, 6</biblScope>
 </bibl>
 </cit>
-<re type="P"><form>Il serait bon à aller querir la mort</form>, se dit d'une personne lente. </re>
+<re type="PROV."><form>Il serait bon à aller querir la mort</form>, se dit d'une personne lente. </re>
 </sense>
-<note type="R">L'infinitif ancien de ce verbe était querre, qui se trouve encore dans la Fontaine : Messieurs, dit-il, en ce lieu n'ont que querre ; Les augustins sont serviteurs du roi, Ballade des Augustins. Querre est la forme régulière, du lat. quaerere, qui a l'accent sur quae. Querir ne se montre que dans le XVe siècle. La conjugaison régulière était : je quier, je queroie, querant, quis. </note>
-<note type="H">
+<note type="REM.">L'infinitif ancien de ce verbe était querre, qui se trouve encore dans la Fontaine : Messieurs, dit-il, en ce lieu n'ont que querre ; Les augustins sont serviteurs du roi, Ballade des Augustins. Querre est la forme régulière, du lat. quaerere, qui a l'accent sur quae. Querir ne se montre que dans le XVe siècle. La conjugaison régulière était : je quier, je queroie, querant, quis. </note>
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Que il querreient que Rolans fust ocis</quote>
@@ -14656,7 +14656,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Si vous di qu'en cele fontaine Luit uns charboncles merveillables Sur toutes merveilleuses pieres, Trestous reons et à trois quierres</quote>
@@ -14676,7 +14676,7 @@
 <sense>
 <dictScrap>Nom donné par les paysannes des environs de Valenciennes à un panier large et profond, dans lequel elles apportent au marché leurs légumes.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Pour un cretin.... en quoy on porta les juyaus dessus dis....</quote>
@@ -14814,7 +14814,7 @@
 <sense n="2">
 <dictScrap>Aujourd'hui, dans certains corps, membre chargé de surveiller les dépenses.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Vous serés mout boins amparliers [avocat].... Car mout savés parler parfont Ensement que cil quester [avocats] font</quote>
@@ -15278,7 +15278,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Et quant il aveit bien solu ses questions</quote>
@@ -15421,7 +15421,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Il fut six sepmaines prisonnier dans un engein de bois poinctu par le bas, que les questionnaires appellent chausse d'hypocras</quote>
@@ -15536,8 +15536,8 @@
 <sense n="3">
 <dictScrap>Se <oVar>questionner</oVar>, v. réfl. Se faire réciproquement des questions.</dictScrap>
 </sense>
-<re type="S">QUESTIONNER, INTERROGER. Questionner se dit surtout quand on veut obtenir des renseignements : un espion questionne les gens ; un général questionne un prisonnier pour savoir ce que fait l'ennemi. Interroger se dit surtout quand les réponses qu'on peut obtenir sont un moyen d'apprécier celui qui les fait : un juge interroge un accusé ; un professeur interroge un élève. </re>
-<note type="H">
+<re type="SYN.">QUESTIONNER, INTERROGER. Questionner se dit surtout quand on veut obtenir des renseignements : un espion questionne les gens ; un général questionne un prisonnier pour savoir ce que fait l'ennemi. Interroger se dit surtout quand les réponses qu'on peut obtenir sont un moyen d'apprécier celui qui les fait : un juge interroge un accusé ; un professeur interroge un élève. </re>
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et ge si le questionai, De gramaire li demandai</quote>
@@ -15733,7 +15733,7 @@
 <dictScrap>Droit de <oVar>quête</oVar>, cens à la <oVar>quête</oVar>, droit que le seigneur pouvait faire demander, mais qu'on n'était pas obligé de porter chez lui.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et s'ele [la demande] est niée, li sires puet [peut] fere enquerre de sa autorité, et par sa queste fere le amender</quote>
@@ -15940,7 +15940,7 @@
 <dictScrap>On dit de même : <oVar>quêter</oVar> des voix, des suffrages pour quelqu'un.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Pourront quester et sur eux faire queste [sorte d'impôt] en quatre cas</quote>
@@ -16006,7 +16006,7 @@
 <sense n="2">
 <dictScrap>Adj. Chien <oVar>quêteur</oVar>, celui qui quête, qui cherche le gibier.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>De nului nous n'aurons confort, Ne plus que ung povre questeux</quote>
@@ -16821,14 +16821,14 @@
 <sense ana="supplement" n="36">
 <dictScrap><oVar>Queue</oVar> fourchue vulgaire, ou grande <oVar>queue</oVar> fourchue, bombyx vinula ; la <oVar>queue</oVar> fourchue dite hermine, bombyx herminea ; la petite <oVar>queue</oVar> fourchue, bombyx furcula. Ces noms proviennent de deux appendices un peu divergents, situés au bas des ailes.</dictScrap>
 </sense>
-<re type="P">Mi-mai, queue d'hiver. </re>
-<re type="P">Il n'y en a point de plus empêché que celui qui tient la queue de la poêle, il est plus difficile de conduire une affaire que d'en parler ou de la contrôler.  <cit><quote>Valot y est bien empêché, car il tient la queue de la poêle</quote><bibl><author>GUI PATIN</author><biblScope>Lett. t. II, p. 108, dans POUGENS</biblScope></bibl></cit> </re>
-<re type="P">Il viendra un terme où les renards auront besoin de leur queue, il y a telles personnes qu'on méprise ou qu'on choque et dont on aura besoin en un autre temps. </re>
-<re type="P"><form>Cette queue n'est pas de ce veau-là</form>, se dit de deux choses qui n'ont pas de rapport entre elles. </re>
-<re type="P">Il faut que chacun garde sa queue, il faut que chacun conserve son bien, par allusion à la fable du renard qui avait perdu sa queue. </re>
-<re type="P">Quand on parle du loup, on en voit la queue, on parlait d'une personne et au moment même elle est arrivée. </re>
-<re type="P">À la queue gît le venin, le venin est à la queue, proverbe né de la croyance populaire au venin de la queue de certains serpents, et tout naturellement du venin de la queue des scorpions, des guêpes ; on le dit quand on prévoit que la fin d'une chose présente des difficultés, recèle des dangers.  <cit><quote>Le serpent a deux parties Du genre humain ennemies, Tête et queue....</quote><bibl><author>LA FONT.</author><biblScope>Fabl. VII, 17</biblScope></bibl></cit> </re>
-<note type="H">
+<re type="PROV.">Mi-mai, queue d'hiver. </re>
+<re type="PROV.">Il n'y en a point de plus empêché que celui qui tient la queue de la poêle, il est plus difficile de conduire une affaire que d'en parler ou de la contrôler.  <cit><quote>Valot y est bien empêché, car il tient la queue de la poêle</quote><bibl><author>GUI PATIN</author><biblScope>Lett. t. II, p. 108, dans POUGENS</biblScope></bibl></cit> </re>
+<re type="PROV.">Il viendra un terme où les renards auront besoin de leur queue, il y a telles personnes qu'on méprise ou qu'on choque et dont on aura besoin en un autre temps. </re>
+<re type="PROV."><form>Cette queue n'est pas de ce veau-là</form>, se dit de deux choses qui n'ont pas de rapport entre elles. </re>
+<re type="PROV.">Il faut que chacun garde sa queue, il faut que chacun conserve son bien, par allusion à la fable du renard qui avait perdu sa queue. </re>
+<re type="PROV.">Quand on parle du loup, on en voit la queue, on parlait d'une personne et au moment même elle est arrivée. </re>
+<re type="PROV.">À la queue gît le venin, le venin est à la queue, proverbe né de la croyance populaire au venin de la queue de certains serpents, et tout naturellement du venin de la queue des scorpions, des guêpes ; on le dit quand on prévoit que la fin d'une chose présente des difficultés, recèle des dangers.  <cit><quote>Le serpent a deux parties Du genre humain ennemies, Tête et queue....</quote><bibl><author>LA FONT.</author><biblScope>Fabl. VII, 17</biblScope></bibl></cit> </re>
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Blanche la cue, et la crignete jalne</quote>
@@ -17076,7 +17076,7 @@
 <dictScrap>Demi-<oVar>queue</oVar>, espèce de tonneau. Demi-<oVar>queue</oVar> d'Auvergne, barrique contenant 292 litres. Demi-<oVar>queue</oVar> Beaune, contenant 229 litres. Demi-<oVar>queue</oVar> bordelaise, contenant 209 litres. Demi-<oVar>queue</oVar> Champagne, contenant 184 litres. Demi-<oVar>queue</oVar> Languedoc, contenant 289 litres. Demi-<oVar>queue</oVar> Mâcon, contenant 220 litres. Demi-<oVar>queue</oVar> Orléans, contenant 230 litres. Demi-<oVar>queue</oVar> Vauvray, contenant 259 litres.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Autant doit la queue comme li tonneaus</quote>
@@ -17205,7 +17205,7 @@
 <dictScrap>On écrit aussi, mais à tort, queue.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>...Kueus [cuisiniers] Avoient aiguisié à keus Leur coutiaus....</quote>
@@ -17272,7 +17272,7 @@
 <dictScrap>Grand <oVar>queux</oVar> de France, nom d'un officier de la maison du roi qui commandait à tous les officiers de la cuisine et de la bouche.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Sil [ainsi il le] comandat as cous de la maison</quote>
@@ -18406,7 +18406,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>IXe s.</label>
 <cit>
 <quote>Nul plaid, qui cist mon fradre Karle in damno sit</quote>
@@ -19060,7 +19060,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quand les lavandieres sont à quia et au bout du rollet de leurs injures</quote>
@@ -19105,7 +19105,7 @@
 <dictScrap>Par extension, avoir du <oVar>quibus</oVar>, être riche.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Premiere assiette : pastés de veel.... et pastés norrois de quibus [quibus désigne ici un mets]</quote>
@@ -19321,7 +19321,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Kikiunkes sunt paien, ensi servent....</quote>
@@ -19461,7 +19461,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>En ce temps fut escript par ung quidem en la chambre de monseigneur de Guienne ce qui s'ensuit</quote>
@@ -19496,7 +19496,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Qui veut honnestement passer le repaire de vie humaine doit vivre droitement par raison, et considerer et entendre la nature des choses, leurs qualités, quantités, quidités et dignités</quote>
@@ -19561,7 +19561,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Une mort recueillie en soy, quiete et solitaire</quote>
@@ -19582,7 +19582,7 @@
 <sense>
 <dictScrap>D'une façon quiète.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Et des principaux estudes de ma vie, c'est que le bout s'en porte bien, c'est à dire quietement et sourdement</quote>
@@ -19774,7 +19774,7 @@
 <sense n="2">
 <dictScrap>Terme rural. Tas de lin couvert de chaume, qu'on laisse quelque temps dans les champs.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Les faulcons perchent [dans les falaises] sur une plate pierre, ou sur un esquigon [roche pointue].... s'il perche sur ung esquigon, il empoigne l'esquigon des piez</quote>
@@ -19894,7 +19894,7 @@
 <dictScrap><oVar>Quille</oVar> d'un pont, grosse pièce de bois qui soutient le pont.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Il brisa et gasta les quilles et carenes de tous les vaisseaux de Candie, à fin que l'on ne les peust soubdainement poursuivre</quote>
@@ -20030,7 +20030,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Plusieurs compaignons se prindrent à jouer amiablement et par esbatement au jeu des grosses quilles, auquel jeu l'en gette de loin pour ferir lesdittes quilles d'un baston de la longueur ou environ d'une aulne</quote>
@@ -20086,7 +20086,7 @@
 
 
 
-<note type="R" ana="supplement"><cit><quote>De là il [Béranger] fut expédié à Péronne, chez sa tante l'aubergiste, qui, ne s'attendant pas à voir tomber chez elle le petit abandonné, le reçut comme un chien dans un jeu de quilles</quote><bibl><biblScope>Rev. Britann. août 1877, p. 434</biblScope></bibl></cit> La phrase n'est pas correcte ; il faudrait : comme on reçoit un chien dans un jeu de quilles. Il ne faut employer cette expression qu'avec le présent du verbe recevoir ou le participe passé reçu, qui se sous-entendent naturellement (voy. les exemples à QUILLE). </note>
+<note type="REM." ana="supplement"><cit><quote>De là il [Béranger] fut expédié à Péronne, chez sa tante l'aubergiste, qui, ne s'attendant pas à voir tomber chez elle le petit abandonné, le reçut comme un chien dans un jeu de quilles</quote><bibl><biblScope>Rev. Britann. août 1877, p. 434</biblScope></bibl></cit> La phrase n'est pas correcte ; il faudrait : comme on reçoit un chien dans un jeu de quilles. Il ne faut employer cette expression qu'avec le présent du verbe recevoir ou le participe passé reçu, qui se sous-entendent naturellement (voy. les exemples à QUILLE). </note>
 </re>
 </entry>
 <entry xml:id="quillé.1">
@@ -20128,7 +20128,7 @@
 <sense n="2">
 <dictScrap>V. a. Populairement. Jeter des pierres, des quilles ou des bâtons dans les jambes de quelqu'un, ou, simplement, viser un objet et chercher à l'atteindre avec quelque projectile que ce soit.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Le suppliant demanda aux compaignons qui jouoient à la quille, s'il quilleroit point avec eulx</quote>
@@ -20189,7 +20189,7 @@
 <sense>
 <dictScrap>Nombre valant 1000 quadrillions ; on dit aujourd'hui quintillion.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Un quillion vaut mille milliers de quadrillons</quote>
@@ -20342,7 +20342,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Voulez vous payer ung bussart de vin breton, si je vous foys quinault en ce propous ?</quote>
@@ -20413,7 +20413,7 @@
 <sense n="2">
 <dictScrap>Par mépris, la monnaie de cuivre. Pourquoi me donnez-vous cette <oVar>quincaille</oVar> ?</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>[Vieux deniers] il ne chantoit plus ; il ne songeoit plus qu'en ce pot de quincaille</quote>
@@ -20475,7 +20475,7 @@
 <sense n="2">
 <dictScrap>Terme de serrurerie. Tout ouvrage servant aux ferrures et fermetures des portes et croisées et provenant de diverses fabriques.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Tous marchans vendans quinquaillerie, come pots de terre, escuelles, plataux, vans.... doivent chascun.... quatre deniers parisis</quote>
@@ -20512,7 +20512,7 @@
 <sense>
 <dictScrap>Marchand de quincaille.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>1er rang, qui sont des meilleurs mestiers.... mercier grossier.... vendant bagues, quinquallerie d'armes et chenets.... 4e rang, qui sont des mestiers d'entre les mediocres et petits : tailleur de pierres ; vanier quinquallier d'osier</quote>
@@ -20565,8 +20565,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Rollin écrivait, à la latine, quincunx : La richesse des vergers plantés en quincunx, Hist. anc. Œuv. t. IV, p. 107, dans POUGENS. </note>
-<note type="H">
+<note type="REM.">Rollin écrivait, à la latine, quincunx : La richesse des vergers plantés en quincunx, Hist. anc. Œuv. t. IV, p. 107, dans POUGENS. </note>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Et les arrange-on en ligne droicte des deux costés, comme arbres plantés à la quin qu'once</quote>
@@ -20628,7 +20628,7 @@
 </entry>
 <entry xml:id="quindécemvirs">
 <form>
-<orth>QUINDÉCEMVIRS ou mieux QUINDÉCIMVIRS</orth>
+<orth>QUINDÉCEMVIRS</orth><orth>mieux QUINDÉCIMVIRS</orth>
 <pron>kuin-dé-sin-vir ou kuin-dé-sin-vir</pron>
 <gram>puisque le latin est quindecimviri, s. m. pl.</gram>
 </form>
@@ -20751,7 +20751,7 @@
 <sense n="3">
 <dictScrap>Au loto, cinq numéros marqués sur la même ligne horizontale.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>[Au jeu de dés] Et deux et deux giettent es carnes Et ambessas et le tiers ternes, à la foiée giettent quines</quote>
@@ -20904,7 +20904,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Jouer au quinola [au reversi]</quote>
@@ -20976,7 +20976,7 @@
 <dictScrap>Substantivement. Un, une <oVar>quinquagénaire</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Ce moyen a esté par moy heureusement pratiqué en la personne d'un homme quinquagenaire</quote>
@@ -21033,7 +21033,7 @@
 </entry>
 <entry xml:id="quinquangulaire">
 <form>
-<orth>QUINQUANGULAIRE ou QUINQUANGULÉ</orth>
+<orth>QUINQUANGULAIRE</orth><orth>QUINQUANGULÉ</orth>
 <pron>kuin-kouan-gu-lê-r' ou kuin-kouan-gu-lé, lée</pron>
 <gram>adj.</gram>
 </form>
@@ -21491,7 +21491,7 @@
 <dictScrap>Adj. Cinquième ; usité seulement en ces noms-ci : Charles-<oVar>Quint</oVar> ; Sixte-<oVar>Quint</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Li quint [le cinquième tour] après lur est pesant et gref</quote>
@@ -21580,7 +21580,7 @@
 <sense n="4">
 <dictScrap>Action de courir le quintan.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Sire Bernier, dist Raoul li senez, En la quintaine por moi amor ferrez [vous frapperez pour l'amour de moi]</quote>
@@ -21648,7 +21648,7 @@
 <dictScrap>Au plur. Des <oVar>quintaux</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Elles [les nefs des Chinois] sont moult grans, si que chascune porte bien XI m. à XII m. quintaux pesant</quote>
@@ -21705,7 +21705,7 @@
 <dictScrap>On dit aussi faquin.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Tireront leur coup de pistolet en courant contre la teste d'un chevalier qui sera peint en façon de quintan</quote>
@@ -21726,7 +21726,7 @@
 <sense>
 <dictScrap>Terme de médecine. Fièvre <oVar>quintane</oVar>, fièvre intermittente, qui revient tous les cinq jours, et dans laquelle il y a par conséquent trois jours d'apyrexie.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Fievres quintaines, sextaines</quote>
@@ -21840,7 +21840,7 @@
 <sense n="6">
 <dictScrap>Adj. Terme de médecine. Fièvre <oVar>quinte</oVar>, on dit maintenant fièvre quintane (voy. <ref target="quintane">QUINTANE</ref>).</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Nottes terçoyées, quintes et doublées</quote>
@@ -21889,7 +21889,7 @@
 <sense n="2">
 <dictScrap>Terme de manége. Mouvement désordonné que fait le cheval sous le cavalier</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Un beau matin que sa quinte le point</quote>
@@ -21950,7 +21950,7 @@
 <dictScrap>Terme de blason. Fleur de pervenche à cinq pétales.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quinte-fueille, ce nom procede des cinq fueilles que ceste herbe porte en chacune queue</quote>
@@ -22120,7 +22120,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Ce est le ciel que l'en appelle la quinte essence, qui est plus divine et plus precieuse pour ce que elle est plus haut que les elemens</quote>
@@ -22214,7 +22214,7 @@
 <sense>
 <dictScrap>Qui a rapport à la quintessence.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Les eaux et huiles quintessentielles des herbes chaudes, seiches et aromatiques se tirent par alembic</quote>
@@ -22252,7 +22252,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quintessencer</quote>
@@ -22526,7 +22526,7 @@
 <dictScrap>S. m. Rendre le <oVar>quintuple</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Ilz seront le quintuple du tiers</quote>
@@ -22608,7 +22608,7 @@
 <dictScrap><oVar>Quinzaine</oVar> de Pâques, ouvrage qui contient l'office de cette <oVar>quinzaine</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Au Mans avons sofert doulereuse quinzaine</quote>
@@ -22727,7 +22727,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>De dulce France i a quinze milliers</quote>
@@ -22830,7 +22830,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Les aveugles que fonda saint Loys, Qui quinze vins sont en une maison</quote>
@@ -22873,7 +22873,7 @@
 <sense n="4">
 <dictScrap>S. f. Terme de musique. La <oVar>quinzième</oVar>, la double octave ; un registre de l'orgue.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Cis fu quinzimes rois par conte, Que la mors donta qui tot donte</quote>
@@ -23005,7 +23005,7 @@
 <dictScrap>Au plur. Des <oVar>quiproquo</oVar>, selon le Dictionnaire de l'Académie ; mais on pourrait regarder le mot comme français et écrire : des <oVar>quiproquos</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>S'il est licite de transfigurer ainsi toutes choses, il y aura de terribles qui pro quod</quote>
@@ -23121,7 +23121,7 @@
 <dictScrap>Les lunettes et les cheveux gris sont des <oVar>quittances</oVar> d'amour, c'est-à-dire qu'on ne doit plus songer à la galanterie en cet état.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Si rouva [il demanda] qu'il eüssent paix, Toute paix et quittance eüssent</quote>
@@ -23444,9 +23444,9 @@
 <sense>
 <dictScrap>On dit dans le même sens : partant <oVar>quitte</oVar>. Voilà l'argent que vous m'avez prêté, partant <oVar>quitte</oVar>.</dictScrap>
 </sense>
-<re type="P"><form>Quitte à quitte et bons amis</form>. </re>
+<re type="PROV."><form>Quitte à quitte et bons amis</form>. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Bien sont asouz, quites de lur pecchez</quote>
@@ -23594,7 +23594,7 @@
 <sense>
 <dictScrap>Ancien terme de palais, employé dans cette locution : franchement et <oVar>quittement</oVar>, c'est-à-dire sans charge ni hypothèque. On m'a vendu ce bien franchement et <oVar>quittement</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Li reis.... fist par ban crier, C'um laissast quitement lui e les suens aler</quote>
@@ -24441,10 +24441,10 @@
 <sense n="17">
 <dictScrap>Être <oVar>quitté</oVar>. La flanelle sur la peau ne se <oVar>quitte</oVar> pas, même en été.</dictScrap>
 </sense>
-<re type="P">Qui quitte la partie la perd, on perd la partie quand on cesse le jeu avant qu'elle soit finie, et fig. cesser de s'occuper d'une affaire, c'est en compromettre le succès. </re>
-<re type="P">Qui quitte sa place la perd, on ne retrouve plus sa place une fois qu'on l'a quittée. </re>
-<re type="P"><form>Il ne quitte rien du sien</form>, se dit de celui qui renonce à une chose où il n'avait point de droit. </re>
-<note type="H">
+<re type="PROV.">Qui quitte la partie la perd, on perd la partie quand on cesse le jeu avant qu'elle soit finie, et fig. cesser de s'occuper d'une affaire, c'est en compromettre le succès. </re>
+<re type="PROV.">Qui quitte sa place la perd, on ne retrouve plus sa place une fois qu'on l'a quittée. </re>
+<re type="PROV."><form>Il ne quitte rien du sien</form>, se dit de celui qui renonce à une chose où il n'avait point de droit. </re>
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Se [elle] ne me veut retenir ou quiter</quote>
@@ -24589,7 +24589,7 @@
 <sense>
 <dictScrap>Celui, celle qui quitte, qui abandonne.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quitteur</quote>
@@ -24609,7 +24609,7 @@
 <sense>
 <dictScrap>Terme de finance. Arrêté ou jugement définitif d'un compte. Avoir le <oVar>quitus</oVar> d'un compte.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quittus</quote>
@@ -24647,7 +24647,7 @@
 <dictScrap>On écrit aussi qui va là ? sans trait d'union et avec un point d'interrogation.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Une sentinelle parla d'assez loin ; on repondit à son qui-va-là que....</quote>
@@ -24714,7 +24714,7 @@
 <dictScrap>On écrit aussi qui vive ? sans trait d'union, avec un point d'interrogation.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Il respondit Vezins au qui vive</quote>
@@ -24761,7 +24761,7 @@
 <sense>
 <dictScrap>Synonyme de quodlibétique.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Nos docteurs n'y trouvent que rire ny que frire ; car ils n'ont pas les questions quolibetaires si frequentes ; plus ne se passent tant de bacheliers</quote>
@@ -25504,9 +25504,9 @@
 <dictScrap>On y ajoute quelquefois l'interjection eh. Eh <oVar>quoi</oVar> ! vous n'êtes pas encore parti !</dictScrap>
 </sense>
 </sense>
-<note type="R">1. Ce pronom quoi a donné occasion à plusieurs de la compagnie de demander si cette manière de parler ordinaire à plusieurs auteurs : quoi de plus noble ? quoi de plus glorieux ? devait être tolérée, Acad. observ. sur Vaugel. p. 68, dans POUGENS. L'Académie condamna cette locution ; condamnation qui n'a pas été ratifiée.</note>
-<note type="R">2. Corneille l'a dit d'une personne, avec un sens indéterminé : <cit><quote>On vous les a nommés, mais sans vous les prescrire ; On vous obéira, quoi qu'il vous plaise élire</quote><bibl><author>CORN.</author><biblScope>D. Sanche, I, 2</biblScope></bibl></cit> Voy. à l'historique des exemples de cet emploi dans Perceforest, dans Commines et dans Montaigne.</note>
-<note type="H">
+<note type="REM.">1. Ce pronom quoi a donné occasion à plusieurs de la compagnie de demander si cette manière de parler ordinaire à plusieurs auteurs : quoi de plus noble ? quoi de plus glorieux ? devait être tolérée, Acad. observ. sur Vaugel. p. 68, dans POUGENS. L'Académie condamna cette locution ; condamnation qui n'a pas été ratifiée.</note>
+<note type="REM.">2. Corneille l'a dit d'une personne, avec un sens indéterminé : <cit><quote>On vous les a nommés, mais sans vous les prescrire ; On vous obéira, quoi qu'il vous plaise élire</quote><bibl><author>CORN.</author><biblScope>D. Sanche, I, 2</biblScope></bibl></cit> Voy. à l'historique des exemples de cet emploi dans Perceforest, dans Commines et dans Montaigne.</note>
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Et dist al rei : de quei avez pesance [chagrin] ?</quote>
@@ -25811,7 +25811,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">C'est une autre prononciation du même mot. </note>
+<note type="REM.">C'est une autre prononciation du même mot. </note>
 </entry>
 <entry xml:id="quoique">
 <form>
@@ -25883,16 +25883,16 @@
 <dictScrap>Peut-être la locution doit-elle s'interpréter autrement : quoi que ça, quoi que ça soit !</dictScrap>
 </sense>
 </sense>
-<note type="R">1. L'e de quoique ne s'élide que lorsqu'il est suivi de il, ils, elle, elles, on, un, une. Mais on écrit sans apostrophe : Quoique amis, ils ne se voient pas souvent.</note> 
-<note type="R">2. Quoique s'unit avec un participe présent : Quoique souffrant, je suis sorti ; mais l'usage n'admet pas qu'il s'unisse à un participe passé. On ne dit pas : Quoique n'ayant pu le voir, je... mais : Quoique je n'aie pu le voir, je....</note>
-<note type="R">3. On a dit qu'il ne doit pas non plus se construire avec le participe passé, et qu'il ne faut pas dire : quoique aimé de tous, mais : quoiqu'il soit aimé. Cette remarque n'est pas fondée ; car ce qui empêche la construction avec le participe présent, c'est qu'on ne peut sous-entendre le verbe être ; cette raison n'existe pas pour le participe passé.  <cit><quote>Seigneur, ainsi qu'à vous la liberté m'est chère : Quoique né sous un roi, j'en goûte les appas</quote><bibl><author>VOLT.</author><biblScope>Brut. II, 2</biblScope></bibl></cit></note>
-<note type="R">4. Vaugelas a employé quoique avec le conditionnel : Quoique quelques-uns seraient d'avis, etc. On le trouve aussi avec le futur : En attendant, on laissera tout faire au cardinal, quoique l'on parera plusieurs de ses coups les plus impertinents et les plus nuisibles, Mém. d'Argenson, t. III, p. 357 (in-8°, 1860).</note>
-<note type="R">5. Dans le XVIIe siècle, on le trouve quelquefois avec l'indicatif ; ce qui n'est plus usité.  
+<note type="REM.">1. L'e de quoique ne s'élide que lorsqu'il est suivi de il, ils, elle, elles, on, un, une. Mais on écrit sans apostrophe : Quoique amis, ils ne se voient pas souvent.</note> 
+<note type="REM.">2. Quoique s'unit avec un participe présent : Quoique souffrant, je suis sorti ; mais l'usage n'admet pas qu'il s'unisse à un participe passé. On ne dit pas : Quoique n'ayant pu le voir, je... mais : Quoique je n'aie pu le voir, je....</note>
+<note type="REM.">3. On a dit qu'il ne doit pas non plus se construire avec le participe passé, et qu'il ne faut pas dire : quoique aimé de tous, mais : quoiqu'il soit aimé. Cette remarque n'est pas fondée ; car ce qui empêche la construction avec le participe présent, c'est qu'on ne peut sous-entendre le verbe être ; cette raison n'existe pas pour le participe passé.  <cit><quote>Seigneur, ainsi qu'à vous la liberté m'est chère : Quoique né sous un roi, j'en goûte les appas</quote><bibl><author>VOLT.</author><biblScope>Brut. II, 2</biblScope></bibl></cit></note>
+<note type="REM.">4. Vaugelas a employé quoique avec le conditionnel : Quoique quelques-uns seraient d'avis, etc. On le trouve aussi avec le futur : En attendant, on laissera tout faire au cardinal, quoique l'on parera plusieurs de ses coups les plus impertinents et les plus nuisibles, Mém. d'Argenson, t. III, p. 357 (in-8°, 1860).</note>
+<note type="REM.">5. Dans le XVIIe siècle, on le trouve quelquefois avec l'indicatif ; ce qui n'est plus usité.  
 <cit><quote>Il [Ménage] apporte un endroit de M. d'Ablancourt où quoique est mis avec l'indicatif d'une manière agréable, mais c'est qu'il y a deux ou trois mots entre quoique et le verbe : Quoiqu'à dire vrai je ne suis guère en état de le faire</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. I, p. 144, dans POUGENS</biblScope></bibl></cit> <cit><quote>Quoiqu'il est superflu de dire</quote><bibl><author>BUSSY</author><biblScope>Hist. amour. des Gaules, t. I, p. 50 (éd. in-12).</biblScope></bibl></cit>
 <cit><quote>La mienne, quoique aux yeux elle n'est pas si forte</quote><bibl><author>MOL.</author><biblScope>Éc. des f. IV, 9</biblScope></bibl></cit> (dans les éditions du vivant de Molière ; les éditions posthumes de 1682 ont corrigé elle semble moins forte).
 <cit><quote>Jamais les Pères ne l'ont reprochée [une certaine loi], ni pendant la vie ni après la mort, ni à Valentinien, ni à Justine, cette prétendue seconde femme, quoique, devenue arienne et persécutrice des catholiques, elle n'avait pas mérité d'être flatée</quote><bibl><author>BOSSUET</author><biblScope>Déf. Var. 1er disc. 63</biblScope></bibl></cit>
 </note>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Hé, m'amie, dist-il, hé car ne m'oubliez, Quoique je soie pauvre et mal enlinagiez</quote>
@@ -25986,7 +25986,7 @@
 <dictScrap>Se dit aujourd'hui d'un centon musical.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Et quant les preescheurs et les cordeliers qui là estoient li ramentevoient aucun livre qu'il oyst volentiers, il leur disoit : Vous ne me lirez point ; car il n'est si bon livre, après manger, comme quolibez ; c'est à dire que chascun die ce que il veut</quote>
@@ -26082,7 +26082,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Nous avons.... no quote partie à cascun lot de vin que on vendera....</quote>
@@ -26149,7 +26149,7 @@
 <sense n="3">
 <dictScrap>S. m. Le <oVar>quotidien</oVar>, s'est dit, dans certains chapitres, des distributions manuelles et des petits émoluments.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Onques fievres n'eüs si males, Ne cotidianes, ne quartes</quote>
@@ -26200,7 +26200,7 @@
 <sense>
 <dictScrap>Tous les jours.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Quotidiennement</quote>
@@ -26229,7 +26229,7 @@
 <sense>
 <dictScrap>Terme d'arithmétique et d'algèbre. Résultat d'une division. Le <oVar>quotient</oVar> de 12 divisé par 3 est 4, de ab divisé par b est a.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Lequel nombre s'appelle la part ou le quotiens, pourtant qu'il demonstre quantesfois le partiteur est contenu ou [au] nombre à partir</quote>
@@ -26286,7 +26286,7 @@
 <sense n="4">
 <dictScrap>Aujourd'hui, en matière électorale, la <oVar>quotité</oVar> du cens, la somme d'impôts qu'il fallait payer en France et qu'il faut payer en certains pays pour être électeur.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Pareillement les meubles et acquets s'en iront en deux lignes par moitié, en maniere que, s'il y a aucun qui soit conjoint des deux costez du deffunt, il succedera esdites deux lignes pour sa cottité</quote>

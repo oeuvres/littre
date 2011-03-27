@@ -59,7 +59,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Je voy toutes les nations de l'Europe incliner en ceste opinion, et qu'il n'y a que nostre France où l'on prononce l'u comme nous faisons</quote>
@@ -247,7 +247,7 @@
 <sense>
 <dictScrap>Terme de médecine. Qui a la propriété d'ulcérer.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>La salamandre a une vertu chaude, corrosive et ulcerative</quote>
@@ -274,7 +274,7 @@
 <sense n="3">
 <dictScrap>Ulcère superficiel.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>La cure universel et particulier de plaies et de contusions et de ulcerations</quote>
@@ -347,9 +347,9 @@
 <sense n="8">
 <dictScrap><oVar>Ulcère</oVar> des arbres, plaie ayant son siége dans le système ligneux des végétaux arborescents, sur les tiges, les rameaux ou les racines.</dictScrap>
 </sense>
-<note type="R">Dans le XVIIe siècle, l'usage hésitait sur le genre de ce mot.  <cit><quote>M. Chapelain condamne ceux de la cour qui ont fait ulcère féminin ; il est masculin</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. II, p. 615, dans POUGENS</biblScope></bibl></cit> </note>
-<re type="S">ULCÈRE, PLAIE. La plaie résulte de l'action d'un corps étranger ; la cause de l'ulcère est inhérente à l'économie. La plaie est toujours idiopathique, l'ulcère toujours symptomatique. La plaie tend essentiellement à la guérison, parce que l'action de la cause a été instantanée ; l'ulcère tend, au contraire, à s'agrandir, avec perte de substance, parce que la cause en est subsistante. Le traitement de la plaie est purement chirurgical, celui de l'ulcère est plutôt médical. </re>
-<note type="H">
+<note type="REM.">Dans le XVIIe siècle, l'usage hésitait sur le genre de ce mot.  <cit><quote>M. Chapelain condamne ceux de la cour qui ont fait ulcère féminin ; il est masculin</quote><bibl><author>VAUGEL.</author><biblScope>Rem. not. Th. Corn. t. II, p. 615, dans POUGENS</biblScope></bibl></cit> </note>
+<re type="SYN.">ULCÈRE, PLAIE. La plaie résulte de l'action d'un corps étranger ; la cause de l'ulcère est inhérente à l'économie. La plaie est toujours idiopathique, l'ulcère toujours symptomatique. La plaie tend essentiellement à la guérison, parce que l'action de la cause a été instantanée ; l'ulcère tend, au contraire, à s'agrandir, avec perte de substance, parce que la cause en est subsistante. Le traitement de la plaie est purement chirurgical, celui de l'ulcère est plutôt médical. </re>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Le vice laisse comme un ulcere en la chair, une repentance en l'ame, qui tousjours s'esgratigne et s'ensenglante elle mesme</quote>
@@ -465,7 +465,7 @@
 <sense n="3">
 <dictScrap>S'<oVar>ulcérer</oVar>, v. réfl. Être <oVar>ulcéré</oVar>. La plaie s'est <oVar>ulcérée</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Aucune fois, par lonc procès de temps, se ulcere de soi meismes</quote>
@@ -528,7 +528,7 @@
 <sense n="2">
 <dictScrap>Qui tient de la nature de l'ulcère. Plaie <oVar>ulcéreuse</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Il contracte en son ame une disposition ulcereuse et catarreuse, qui à la fin luy cause une habitude de cholere</quote>
@@ -565,7 +565,7 @@
 <sense>
 <dictScrap>Chez les Turcs, les <oVar>uléma</oVar>, docteurs de la loi, ayant pour fonction d'expliquer le Coran, de présider aux exercices de la religion, de surveiller l'éducation des princes, de rendre la justice au peuple. Le corps des <oVar>uléma</oVar> comprend les imams, qui sont théologiens et prédicateurs ; les muftis, qui sont jurisconsultes ; les cadis, qui sont juges.</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. L'Académie, qui dans ses exemples ne donne que le pluriel, et avec raison, y met à tort une s : le corps des ulémas. </p>
 <p>2. C'est abusivement que l'on dirait au singulier un uléma. </p>
 </note>
@@ -794,7 +794,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Ultérieur n'admet aucun degré de comparaison. </p>
 <p>2. Autrefois on faisait toujours en vers ultérieur de quatre syllabes ; maintenant on le fait ordinairement de trois. </p>
 </note>
@@ -853,7 +853,7 @@
 <sense n="2">
 <dictScrap>Terme de médecine. Symptômes <oVar>ultimes</oVar>, symptômes qui annoncent la dissolution du malade.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Sur le point ultime de meschief prochain</quote>
@@ -1113,7 +1113,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Que nuls receveurs du roy ne soient ultramontains ou de Lombardie</quote>
@@ -1628,7 +1628,7 @@
 <sense>
 <dictScrap>C'est tout <oVar>un</oVar>, il n'importe, cela est égal. Qu'il m'approuve ou me blâme, ce m'est tout <oVar>un</oVar>.</dictScrap>
 </sense>
-<re type="P"> C'est bien tout un, mais ce n'est pas de même. </re>
+<re type="PROV."> C'est bien tout un, mais ce n'est pas de même. </re>
 </sense>
 <sense n="6">
 <dictScrap><oVar>Un</oVar> de, une de..., l'<oVar>un</oVar> de, l'une de..., quelqu'<oVar>un</oVar>, quelqu'une parmi.</dictScrap>
@@ -2321,7 +2321,7 @@
 <biblScope>dans GIRAULT-DUVIVIER</biblScope>
 </bibl>
 </cit>
-<re type="P"> Qui sert en commun ne sert à pas un, chaque particulier ne prend guère d'intérêt au bien public. </re>
+<re type="PROV."> Qui sert en commun ne sert à pas un, chaque particulier ne prend guère d'intérêt au bien public. </re>
 </sense>
 <sense n="20">
 <dictScrap>Plus d'<oVar>un</oVar>, terme collectif partitif, qui signifie proprement : une plus grande quantité que <oVar>un</oVar> (plus d'<oVar>un</oVar> est pour plus qu'<oVar>un</oVar>, voy. <ref target="de#var24">DE, n° 24</ref>).</dictScrap>
@@ -2434,7 +2434,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Votre ami est un des hommes qui manquèrent périr. Votre ami est un des hommes qui doit le moins compter sur moi. Dans la première phrase on veut dire votre ami est parmi ceux qui manquèrent périr ; dans la seconde, on veut le mettre à part. En d'autres termes, quand on peut tourner par : est parmi les hommes un qui..., on met le verbe au singulier ; quand on ne le peut pas, on met le verbe au pluriel. C'est une des plus belles actions qu'il ait faites, et non faite. Cette phrase-ci de Ménage est correcte : <cit><quote>Je suis un des premiers qui ai imité</quote><bibl><author>MÉNAGE</author><biblScope>dans son édition de Malherbe, p. 560</biblScope></bibl></cit> Je qui ai imité suis un parmi les premiers. De même pour Mme de Sévigné : <cit><quote>Vous êtes un des hommes qui me convient le plus</quote><bibl><author>SÉV.</author><biblScope>à Guitaut, 24 oct. 1679</biblScope></bibl></cit> <cit><quote>C'est une des personnes du monde qui a le plus de bonnes qualités</quote><bibl><author>SÉV.</author><biblScope>25 mai 1689</biblScope></bibl></cit> Celle-ci de Montesquieu l'est aussi : <cit><quote>Un grand seigneur qui est un des hommes du royaume qui représente le mieux</quote><bibl><author>MONTESQ.</author><biblScope>Lett. pers. 74</biblScope></bibl></cit> : est, parmi les hommes du royaume, un qui représente le mieux.  Mais ces phrases de Voiture, de Retz, de Sévigné et de Boileau sont incorrectes ; il y faut le pluriel : <cit><quote>Une des causes qui poussa l'un des Gracques à....</quote><bibl><author>VOIT.</author><biblScope>Lett. 125</biblScope></bibl></cit> <cit><quote>Ce point d'histoire est un de ceux qui m'a obligé....</quote><bibl><author>RETZ</author><biblScope>t. III, liv. IV, p. 500, dans POUGENS</biblScope></bibl></cit> <cit><quote>Rien n'est si vrai, et c'est une des raisons qui fait murmurer contre l'impossibilité</quote><bibl><author>SÉV.</author><biblScope>27 nov. 1689</biblScope></bibl></cit> <cit><quote>Je viens d'apprendre en ce moment que M. de Soubise, dont je ne parle point, est un de ceux qui s'y est le plus signalé</quote><bibl><author>BOILEAU</author><biblScope>Ép. IV, Avertiss.</biblScope></bibl></cit> À la vérité, dans les exemples de Voiture et de Sévigné, on peut, à la rigueur, défendre le singulier, en disant : parmi les causes une, parmi les raisons une ; mais, comme, de cette façon, causes et raisons ne se trouveraient pas déterminées, le pluriel doit être préféré ; au lieu que, dans la remarque 2, on conçoit qu'on peut dire parmi les hommes, parmi les sciences, au sens absolu. </p>
 <p>2. Quant à l'exemple cité ci-dessus : Votre ami est un des hommes qui doit le moins compter sur moi, on remarquera qu'on pourrait aussi mettre le pluriel, ayant dans l'idée : Votre ami est un parmi les hommes qui doivent le moins compter sur moi L'astronomie est une des sciences qui fait le plus ou qui font le plus d'honneur à l'esprit humain, Dict. de l'Acad. qui ajoute : Le dernier est le plus usité. On dira de même suivant l'idée : C'est une des pièces de Molière qui a eu ou qui ont eu le plus de succès. La nuance de l'idée entre le pluriel et le singulier est par exemple dans la phrase de Mme de Sévigné : Vous êtes un des hommes qui me convient le plus : avec le singulier cela signifie que, parmi les hommes, il y en a un qui me convient le plus, et c'est vous ; avec le pluriel cela signifie que vous êtes parmi les hommes qui me conviennent le plus. Le superlatif est, si l'on peut ainsi parler, plus superlatif avec le singulier. </p>
 <p>3. On remarquera que, si, au lieu d'être construit avec l'article, le substantif l'était avec le pronom démonstratif, la liberté du choix entre le singulier et le pluriel serait ôtée ; le pluriel seul serait admis par la syntaxe ; et l'on dira, par exemple, en parlant de l'intendant Courtin : C'est un de ces hommes qui ne dorment que quand leur conscience est satisfaite. </p>
@@ -2451,7 +2451,7 @@
 <p>14. On lit dans Mme de Sévigné : C'est avec les deux mille écus de dame de la reine.... vingt-une mille livres de rente qu'elle aura tous les ans, 25 déc. 1676, éd. RÉGNIER. D'autres éditions portent : vingt-un mille. Dans ces cas et cas semblables, c'est un qu'il faut. Un porte non pas sur le nom féminin, mais sur mille. </p>
 <p>15. On dit un au pluriel : les uns. Cela paraît contradictoire avec le sens du mot.  <cit><quote>Voici la filiation de cet emploi : le latin mettait unus au pluriel, quand, malgré ce pluriel, il ne s'agissait que d'une seule chose : satis una superque Vidimus excidia</quote><bibl><author>VIRG.</author><biblScope>Aen. II</biblScope></bibl></cit> L'ancien français, qui avait du latin l'emploi de unus au pluriel, a étendu cet emploi, et fait de uns, unes, un article indéfini pluriel ; voy. ci-dessous dans Joinville : Unes très grans roches. Cet article indéfini pluriel est devenu sans peine les uns. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 <label>Xe s.</label>
 <cit>
 <quote>Ad une spede [épée] li roveret tolir lo chief</quote>
@@ -2979,7 +2979,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>Xe s.</label>
 <cit>
 <quote>Seiets [soyez] unanimes in dei servitio</quote>
@@ -3014,7 +3014,7 @@
 <sense>
 <dictScrap>D'une commune voix, d'un commun sentiment. Ils votèrent <oVar>unanimement</oVar> la proposition.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Et tous unanimement louerent Dieu, de ce que. ..</quote>
@@ -3066,7 +3066,7 @@
 </cit>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Unanimité ou concorde</quote>
@@ -3588,7 +3588,7 @@
 </entry>
 <entry xml:id="uni2">
 <form>
-<orth>UNI ou UGNI</orth>
+<orth>UNI</orth><orth>UGNI</orth>
 <pron>u-ni ou u-gni</pron>
 <gram>s. m.</gram>
 </form>
@@ -3767,7 +3767,7 @@
 <sense n="3">
 <dictScrap>Narval.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Unicorne est une fiere beste, auques resemblable à cheval de son cors, mais il a piez d'olifant et coe de cerf.... et enmi sa teste est une corne qui a bien quatre piez de lonc ; mais ele est si fors et si ague que il perce legierement quanque il ataint</quote>
@@ -3863,7 +3863,7 @@
 <sense>
 <dictScrap>Faire un tout de plusieurs choses.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Unificare, unifier, faire un, unir</quote>
@@ -4044,7 +4044,7 @@
 <dictScrap>Se dit aussi du costume attribué aux différents ordres de fonctionnaires publics, de l'habit des collégiens, etc.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Mouvement uniforme</quote>
@@ -4075,7 +4075,7 @@
 <dictScrap>Terme de mécanique. Le mouvement <oVar>uniformément</oVar> varié est celui dans lequel la vitesse varie proportionnellement au temps ; <oVar>uniformément</oVar> accéléré, si la vitesse va en augmentant ; <oVar>uniformément</oVar> retardé, si elle va en diminuant.</dictScrap>
 </sense>
 </sense>
-<note type="R">Richelet écrit uniformement, sans accent. </note>
+<note type="REM.">Richelet écrit uniformement, sans accent. </note>
 <etym>Uniforme, et le suffixe ment.</etym>
 </entry>
 <entry xml:id="uniformisation">
@@ -4187,7 +4187,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Uniformité de mouvement</quote>
@@ -4341,7 +4341,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Car Diex en lor commencement Les ame [les aime] tous onniement, Et donne raisonnables ames Ausinc as hommes cum as fames</quote>
@@ -4643,7 +4643,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>C'est Dex.... Ki devisa, tout sans doutanche, En trois personnes sa sustanche ; Ne pour ceste devision Ne perdi pas Dex s'union</quote>
@@ -4768,7 +4768,13 @@
 </sense>
 </entry>
 <entry xml:id="unipétale">
-<form><orth>UNIPÉTALE</orth><pron>u-ni-pé-ta-l'</pron>, ou UNIPÉTALÉ, ÉE, (u-ni-pé-ta-lé, lée), adj. </form>
+<form>
+<orth>UNIPÉTALE</orth>
+<pron>u-ni-pé-ta-l'</pron>
+<orth>UNIPÉTALÉ, ÉE</orth>
+<pron>u-ni-pé-ta-lé, lée</pron>
+<gram>adj.</gram>
+</form>
 <sense>
 <dictScrap>Terme de botanique. Qui n'a qu'un seul pétale. Corolle <oVar>unipétale</oVar>.</dictScrap>
 </sense>
@@ -4969,8 +4975,8 @@
 <dictScrap>Espèce de coquille univalve.</dictScrap>
 </sense>
 </sense>
-<note type="R">Corneille a dit le plus unique : Je verrai mon amant, mon plus unique bien, Mourir pour son pays, ou détruire le mien, Hor. I, 3. Voltaire a blâmé cet emploi. Cependant on le trouve aussi dans Bossuet, du moins avec uniquement : Il n'y a qu'à considérer avec attention les paroles de Jésus-Christ dans leur tout, et ensuite l'une après l'autre ; c'est ce que je ferai dans ce discours plus uniquement que jamais, 2e instr. pastor. sur les Promesses de J. C. I. </note>
-<note type="H">
+<note type="REM.">Corneille a dit le plus unique : Je verrai mon amant, mon plus unique bien, Mourir pour son pays, ou détruire le mien, Hor. I, 3. Voltaire a blâmé cet emploi. Cependant on le trouve aussi dans Bossuet, du moins avec uniquement : Il n'y a qu'à considérer avec attention les paroles de Jésus-Christ dans leur tout, et ensuite l'une après l'autre ; c'est ce que je ferai dans ce discours plus uniquement que jamais, 2e instr. pastor. sur les Promesses de J. C. I. </note>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Ce tant louable labeur de traduire me semble moien unique et suffisant pour elever nostre vulgaire à l'égal des autres plus fameuses langues</quote>
@@ -5045,7 +5051,7 @@
 <dictScrap>D'une façon excellente. Corbinelli m'a été <oVar>uniquement</oVar> bon à Livry, 29 mai 1675.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>En la premiere entrée de son pays il perd sa femme Rachel en travail d'enfant, laquelle il aimoit uniquement</quote>
@@ -5353,8 +5359,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">M. Chapelain est du sentiment de M. de Vaugelas, et dit que ceux qui condamnent unir ensemble comme un pléonasme et une superfluité de mots, le font sans raison, VAUGEL. Rem. not. Th. Corn. t. I, p. 260, dans POUGENS. Cette observation est juste ; ensemble détermine unir, et ne fait pas pléonasme. </note>
-<note type="H">
+<note type="REM.">M. Chapelain est du sentiment de M. de Vaugelas, et dit que ceux qui condamnent unir ensemble comme un pléonasme et une superfluité de mots, le font sans raison, VAUGEL. Rem. not. Th. Corn. t. I, p. 260, dans POUGENS. Cette observation est juste ; ensemble détermine unir, et ne fait pas pléonasme. </note>
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Tuz dis [toujours] est unie et estable la volenté</quote>
@@ -5650,8 +5656,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">Voltaire se moque de l'abus que, de son temps, on faisait de la locution à l'unisson, quand on la transportait à une conformité physique. Vous lirez dans nos livres nouveaux de philosophie qu'Épicure avait un extérieur à l'unisson de son âme, Dict. phil. Langues. </note>
-<note type="H">
+<note type="REM.">Voltaire se moque de l'abus que, de son temps, on faisait de la locution à l'unisson, quand on la transportait à une conformité physique. Vous lirez dans nos livres nouveaux de philosophie qu'Épicure avait un extérieur à l'unisson de son âme, Dict. phil. Langues. </note>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Si je confere avecques une ame forte et un roide jousteur, il me presse les flancs.... l'unisson est qualité du tout ennuyeuse en la conference</quote>
@@ -5768,7 +5774,7 @@
 </entry>
 <entry xml:id="unitarianisme">
 <form>
-<orth>UNITARIANISME ou UNITARISME</orth>
+<orth>UNITARIANISME</orth><orth>UNITARISME</orth>
 <pron>u-ni-ta-ri-a-ni-sm' ou u-ni-ta-ri-sm'</pron>
 <gram>s. m.</gram>
 </form>
@@ -6009,7 +6015,7 @@
 <sense n="12">
 <dictScrap><oVar>Unité</oVar> tactique, voy. <ref target="tactique">TACTIQUE</ref>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>L'ofices de nature est en acorder les choses descordans, en tel maniere que totes diversités retornent en unité</quote>
@@ -6120,7 +6126,7 @@
 <dictScrap>Substantivement. Une <oVar>univalve</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="R">L'Académie fait univalve et bivalve, pris substantivement, du masculin, sous-entendu mollusque ; mais elle fait multivalve du féminin, sous-entendu coquille. Cette discordance ne peut subsister ; il vaut mieux mettre le féminin en tous les cas : une belle univalve. </note>
+<note type="REM.">L'Académie fait univalve et bivalve, pris substantivement, du masculin, sous-entendu mollusque ; mais elle fait multivalve du féminin, sous-entendu coquille. Cette discordance ne peut subsister ; il vaut mieux mettre le féminin en tous les cas : une belle univalve. </note>
 <etym>Un, et valve.</etym>
 </entry>
 <entry xml:id="univers">
@@ -6385,7 +6391,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Au salut des universes terres</quote>
@@ -6601,7 +6607,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>L'universalité d'esprit, par laquelle le sage jette sa veue et consideration sur tout l'univers</quote>
@@ -6881,8 +6887,8 @@
 <dictScrap>Voy. <ref target="universaux">UNIVERSAUX</ref>.</dictScrap>
 </sense>
 </sense>
-<note type="R">Il ne faut pas en général donner de comparaison à universel ; cependant de bons écrivains l'ont fait.  <cit><quote>Une erreur si stupide et si brutale n'était pas seulement la plus universelle, mais....</quote><bibl><author>BOSSUET</author><biblScope>Hist. II, 3</biblScope></bibl></cit> <cit><quote>Rédemption la plus universelle dans son étendue : tous les hommes y sont compris ; tous en général, chacun en particulier</quote><bibl><author>BOURDAL.</author><biblScope>Pensées, t. III, p. 193</biblScope></bibl></cit> <cit><quote>L'aveuglement est, de toutes les peines du péché, la plus universelle</quote><bibl><author>MASS.</author><biblScope>Carême, Confession.</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM.">Il ne faut pas en général donner de comparaison à universel ; cependant de bons écrivains l'ont fait.  <cit><quote>Une erreur si stupide et si brutale n'était pas seulement la plus universelle, mais....</quote><bibl><author>BOSSUET</author><biblScope>Hist. II, 3</biblScope></bibl></cit> <cit><quote>Rédemption la plus universelle dans son étendue : tous les hommes y sont compris ; tous en général, chacun en particulier</quote><bibl><author>BOURDAL.</author><biblScope>Pensées, t. III, p. 193</biblScope></bibl></cit> <cit><quote>L'aveuglement est, de toutes les peines du péché, la plus universelle</quote><bibl><author>MASS.</author><biblScope>Carême, Confession.</biblScope></bibl></cit> </note>
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Savoir les universels choses n'est pas seure chose sanz l'esperience</quote>
@@ -7005,7 +7011,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Induction est quant de plusieurs particuliers l'en conclut universellement</quote>
@@ -7122,7 +7128,7 @@
 <sense n="5">
 <dictScrap>Aujourd'hui, corps enseignant, unique pour toute la France, placé sous la direction du ministre de l'instruction publique. L'<oVar>université</oVar> a été fondée par un décret de Napoléon Ier, du 17 mars 1808 ; elle porta d'abord le nom d'<oVar>université</oVar> impériale, puis celui d'<oVar>université</oVar> de France ; elle comprend : 1° les facultés ; 2° les lycées ou colléges de l'État ; 3° les colléges communaux ; 4° les écoles primaires ; et tout cela sous la direction d'une administration centrale. Grand-maître de l'<oVar>université</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Li clerc de Paris la citei, Je di de l'universitei</quote>
@@ -7179,7 +7185,7 @@
 </entry>
 <entry xml:id="univoltain">
 <form>
-<orth>UNIVOLTAIN ou UNIVOLTIN</orth>
+<orth>UNIVOLTAIN</orth><orth>UNIVOLTIN</orth>
 <pron>u-ni-vol-tin</pron>
 <gram>s. m.</gram>
 </form>
@@ -7253,7 +7259,7 @@
 <sense n="6">
 <dictScrap>Terme de musique. Consonnances univoques, celles qui portent le même nom, comme l'octave et ses répliques.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Cela fait, le fit despouiller nud, et ne trouva sur son corps aucun signe de lepre, tant univoque qu'equivoque</quote>
@@ -7685,7 +7691,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Œuvres urbaines et privées</quote>
@@ -7805,8 +7811,8 @@
 </bibl>
 </cit>
 </sense>
-<note type="R">On a attribué ce mot à Balzac ; mais il est beaucoup plus ancien ; seulement, c'est Balzac qui l'a introduit définitivement et autorisé. </note>
-<note type="H">
+<note type="REM.">On a attribué ce mot à Balzac ; mais il est beaucoup plus ancien ; seulement, c'est Balzac qui l'a introduit définitivement et autorisé. </note>
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Il semble que selon chescune urbanité ou communicacion civile soit aucune espece d'amisté</quote>
@@ -7889,7 +7895,7 @@
 <re>URDU. Ajoutez : </re>
 <re>Adjectivement.  <cit><quote>La langue urdue</quote><bibl><author>GARCIN DE TASSY</author><biblScope>la Langue et la Littérature hindoustanies, en 1875, p. 15</biblScope></bibl></cit> </re>
 </re>
-<note type="R">Plusieurs prononcent ourdou. </note>
+<note type="REM.">Plusieurs prononcent ourdou. </note>
 </entry>
 <entry xml:id="ure">
 <form>
@@ -7900,7 +7906,7 @@
 <sense>
 <dictScrap>Aurochs, taureau sauvage.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Je tuay grand nombre de ures, bœufs, beuffles, sangliers, cerfz</quote>
@@ -8004,7 +8010,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Les reins ont connexion avec la vessie par les ureteres ou urinaires</quote>
@@ -8297,7 +8303,7 @@
 <sense>
 <dictScrap>Qui ne souffre point de retardement, pressant.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Encores de present nous est force et necessité urgente pour la conduite de nostre armée de recouvrer grans sommes de deniers</quote>
@@ -8379,7 +8385,7 @@
 <sense n="2">
 <dictScrap>S. f. Pissenlit.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Ces pierres descendent en la vessie par les vaisseaux urinaires</quote>
@@ -8406,7 +8412,7 @@
 <dictScrap>Terme d'alchimie. <oVar>Urinal</oVar> des philosophes, fourneau philosophal dans lequel se cuit et digère la matière de la pierre des sages, ou l'œuf hermétique.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Aportez moi un orinal, Et si verrai dedenz le mal</quote>
@@ -8499,7 +8505,7 @@
 <dictScrap>Fig. Le médecin qui a vu son <oVar>urine</oVar> dit qu'il n'ira pas loin, dicton vulgaire pour exprimer qu'un objet quelconque est usé, en mauvais état, durera peu.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Tant iert estreit mened [le peuple sera si étroitement mené], que li cuvendrad od vus mengier sa fiente demeine, e le urine beivre ki li isterad del cors</quote>
@@ -8545,7 +8551,7 @@
 <dictScrap>Il se conjugue avec avoir.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Illecques, oriner et pissier</quote>
@@ -9088,7 +9094,7 @@
 <sense n="2">
 <dictScrap>Au plur. Il se dit pour le couvent qu'habitent ces religieuses. Nous allâmes aux <oVar>Ursulines</oVar>.</dictScrap>
 </sense>
-<note type="R">D'après Ménage, l'usage à Paris et à la cour est partagé entre ursulines et urselines : on peut dire les deux. Urselines est plus usité par le peuple et parmi les dames. </note>
+<note type="REM.">D'après Ménage, l'usage à Paris et à la cour est partagé entre ursulines et urselines : on peut dire les deux. Urselines est plus usité par le peuple et parmi les dames. </note>
 </entry>
 <entry xml:id="urticaire">
 <form>
@@ -9197,7 +9203,7 @@
 <dictScrap>Il se joint presque toujours avec le mot coutumes. Selon les us et coutumes de Normandie.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Que por Dieu et por s'honour [elle] N'ait jà l'us de traïtour</quote>
@@ -9890,11 +9896,11 @@
 </sense>
 <sense n="12">
 <dictScrap>Au plur. Ancien terme de librairie. Livres pour le service divin, tels que bréviaires, rituels, etc. </dictScrap>
-<re type="P"> Usage rend maître, on devient maître, habile, en pratiquant beaucoup une chose. </re>
+<re type="PROV."> Usage rend maître, on devient maître, habile, en pratiquant beaucoup une chose. </re>
 </sense>
-<note type="R">Au mot monté, l'Académie, au lieu de dire : il est dans l'usage de faire, dit : en usage de faire. Pautex blâme cette locution, à tort. Disant être dans l'usage de faire, il n'y a aucune raison pour ne pas dire être en usage de faire. </note>
-<re type="S">USAGE, COUTUME. Suivant l'étymologie propre à chacun de ces mots, usage exprime la manière d'user, de se servir des choses de la vie ; et coutume, les habitudes que l'on a de faire telle ou telle chose. Mais on dit indistinctement : c'est la coutume, ou c'est l'usage. </re>
-<note type="H">
+<note type="REM.">Au mot monté, l'Académie, au lieu de dire : il est dans l'usage de faire, dit : en usage de faire. Pautex blâme cette locution, à tort. Disant être dans l'usage de faire, il n'y a aucune raison pour ne pas dire être en usage de faire. </note>
+<re type="SYN.">USAGE, COUTUME. Suivant l'étymologie propre à chacun de ces mots, usage exprime la manière d'user, de se servir des choses de la vie ; et coutume, les habitudes que l'on a de faire telle ou telle chose. Mais on dit indistinctement : c'est la coutume, ou c'est l'usage. </re>
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Je l'aim et serf et aor [adore] par usage [par habitude] ; Si ne li os [ose] mon penser descouvrir</quote>
@@ -10054,7 +10060,7 @@
 <sense>
 <dictScrap>Terme familier. Qui a de l'usage. Les femmes les moins <oVar>usagées</oVar>.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Usagés es faits d'armes</quote>
@@ -10083,7 +10089,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Quant aux usaigiers qui ont droit et coustume de prendre bois es forests</quote>
@@ -10141,7 +10147,7 @@
 <sense n="3">
 <dictScrap>Terme forestier. <oVar>Usance</oVar> du bois, espace de temps qui s'est écoulé depuis qu'on a coupé un taillis. On dit dans le même sens : âge du bois.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Telle est l'usance des prelatz d'Allemaigne [marcher accompagné d'un homme armé]</quote>
@@ -10824,11 +10830,11 @@
 <sense n="17">
 <dictScrap>Perdre son crédit sur l'opinion. Bonaparte vacille, tergiverse, perd et s'<oVar>use</oVar>, Papiers saisis à Bareuth, p. 150.</dictScrap>
 </sense>
-<note type="R">
+<note type="REM.">
 <p>1. Dans le sens de se servir de, l'ancienne langue l'employait souvent activement ; et Régnier a encore cet emploi : Mille autres caresses Qu'usent à leurs amants les plus douces maîtresses, Élég. II. </p>
 <p>2. En user pour agir est correct, parce qu'on dit user de quelque chose. Mais en agir, par lequel quelques-uns remplacent en user, ne se dit pas, vu qu'on ne dit pas agir de quelque chose. </p>
 </note>
-<note type="H">
+<note type="HIST.">
 <label>XIe s.</label>
 <cit>
 <quote>Il est mult vielz, si ad sun tens uset</quote>
@@ -11130,7 +11136,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Se nos avons besoin de mairien à nos moulins et à nos autres wisines de Valenchienes</quote>
@@ -11253,7 +11259,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVe s.</label>
 <cit>
 <quote>Tous quatre moult puissants de corps, et bien usités et esprouvés en armes</quote>
@@ -11401,8 +11407,8 @@
 <sense n="3">
 <dictScrap>Ancien terme d'administration militaire. Droit pour les troupes de passage de prendre chez l'habitant le lit, le pot et place au feu et à la chandelle. L'<oVar>ustensile</oVar> était quelquefois fourni en argent.</dictScrap>
 </sense>
-<note type="R">Le genre de ce mot a varié : <cit><quote>Dont pour toute ustensile Pierre faisait subsister sa famille</quote><bibl><author>LA FONT.</author><biblScope>Jum.</biblScope></bibl></cit> <cit><quote>On abandonnait le lieu ; les ustensiles sacrées étaient perdues</quote><bibl><author>FONT.</author><biblScope>Oracles, II, 2</biblScope></bibl></cit> Aujourd'hui le mot est masculin. </note>
-<note type="H">
+<note type="REM.">Le genre de ce mot a varié : <cit><quote>Dont pour toute ustensile Pierre faisait subsister sa famille</quote><bibl><author>LA FONT.</author><biblScope>Jum.</biblScope></bibl></cit> <cit><quote>On abandonnait le lieu ; les ustensiles sacrées étaient perdues</quote><bibl><author>FONT.</author><biblScope>Oracles, II, 2</biblScope></bibl></cit> Aujourd'hui le mot est masculin. </note>
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Leurs linges, meubles et autres utenciles</quote>
@@ -11429,8 +11435,8 @@
 <etym>Génev. utensile ; provenç. ustencilha ; du lat. utensilia, choses dont on peut se servir, de uti. La forme régulière serait utensille, au féminin, représentant le pluriel neutre, avec l'l mouillée. Quant à l's, elle est absolument barbare ; le XVIe siècle ne l'avait pas ; des parlers provinciaux ne l'ont pas non plus.</etym>
 <re ana="supplement">
 <re>USTENSILE. Ajoutez : 4° Au plur. <cit><quote>Dans l'exploitation du bois de flottage, indemnité de 30 francs que l'on donne au premier compagnon, quand le train est formé et prêt à partir</quote><bibl><biblScope>Mémoires de la Société centrale d'agriculture, 1873, p. 265</biblScope></bibl></cit> </re>
-<note type="R" ana="supplement">Ajoutez : 2. La forme utensile se trouve encore au commencement du XVIIIe siècle.  <cit><quote>La vaisselle et les autres utensiles...</quote><bibl><author>GARCILASSO DE LA VEGA</author><biblScope>Hist. des Yncas, t. I, p. 345 (traduction de Baudoin, éd. de 1704).</biblScope></bibl></cit> </note>
-<note type="H">
+<note type="REM." ana="supplement">Ajoutez : 2. La forme utensile se trouve encore au commencement du XVIIIe siècle.  <cit><quote>La vaisselle et les autres utensiles...</quote><bibl><author>GARCILASSO DE LA VEGA</author><biblScope>Hist. des Yncas, t. I, p. 345 (traduction de Baudoin, éd. de 1704).</biblScope></bibl></cit> </note>
+<note type="HIST.">
 <dictScrap>Ajoutez : </dictScrap>
 <label>XVe s.</label>
 <cit ana="supplement">
@@ -11481,7 +11487,7 @@
 <sense n="3">
 <dictScrap>Terme de chirurgie. Action de brûler, d'appliquer le cautère actuel.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>On cure l'acrochordon par ligature, par section et par ustion</quote>
@@ -11636,7 +11642,7 @@
 <dictScrap><oVar>Usufruit</oVar> légal, droit de jouissance du père et de la mère sur les biens de leurs enfants mineurs.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Retenu audit Pierrot le usfruit desdiz vingt sols parisis le cours de sa vie tant seulement.... et que ledit couvent ne puisse riens reclamer oudit usfruit</quote>
@@ -11688,7 +11694,7 @@
 <dictScrap>Adj. Réparations usufruitières, réparations à la charge de l'<oVar>usufruitier</oVar>.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Ladicte vicontesse, usuffructuaire à cause de doualre</quote>
@@ -11757,7 +11763,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>En imposant [alléguant] le cas estre usuraire</quote>
@@ -11922,7 +11928,7 @@
 <sense n="4">
 <dictScrap>Terme de pathologie. Atrophie, avec résorption complète, de la substance des dents, des cartilages ou des os pressés par certaines tumeurs, ou usés par le frottement.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Si comme s'il emprunte à uzures por le [la] defaute de paiement</quote>
@@ -11980,7 +11986,7 @@
 <sense>
 <dictScrap>Faire l'usure.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Avarice a le mont [monde] sorpris ; S'il est clamez dolent, chetis, Ne rente n'a se il n'usure</quote>
@@ -12058,9 +12064,9 @@
 <biblScope>Ém. II</biblScope>
 </bibl>
 </cit>
-<re type="P"><form>Il n'est pas usurier qui veut</form>. </re>
+<re type="PROV."><form>Il n'est pas usurier qui veut</form>. </re>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
 <quote>Cil Diex, se li vient à plaisir, Puet encore bien consentir à parler les bestes sauvages Et les usuriers fere larges</quote>
@@ -12225,7 +12231,7 @@
 <sense n="2">
 <dictScrap>La chose même qui est usurpée. La plupart des terres de cette seigneurie n'étaient que des usurpations.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Il ne s'estoit point laissé aller à ceste violente usurpation de tyrannie par effrenée concupiscence de vivre à son plaisir</quote>
@@ -12408,7 +12414,7 @@
 <dictScrap>Ce laboureur tâche toujours d'<oVar>usurper</oVar> sur ses voisins, d'accroître son terrain en poussant sa culture sur la leur.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>La commune renommée disoit qu'il vouloit usurper et avoir le royaume</quote>
@@ -12547,7 +12553,7 @@
 <dictScrap>S. pl. m. Les <oVar>utérins</oVar> et les consanguins.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Une femme saine et bien reglée de ses purgations uterines</quote>
@@ -12673,7 +12679,7 @@
 <dictScrap>Terme de médecine. <oVar>Utérus</oVar> irritable, condition inflammatoire et névralgique de l'<oVar>utérus</oVar>, dans laquelle il y a beaucoup de souffrances, surtout dans la station et la progression, ainsi qu'aux époques menstruelles.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>L'enfant a besoin quasi d'estre comme recuit et retenu dans l'uterus jusques à deux ou trois mois après</quote>
@@ -12803,7 +12809,7 @@
 </bibl>
 </cit>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Bien le sai que tu es prudum e utle e profitable à mun os [armée]</quote>
@@ -13017,7 +13023,7 @@
 <sense n="3">
 <dictScrap>Au plur. Terme de théâtre. Les emplois, les rôles utiles et non brillants de la pièce.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIIe s.</label>
 <cit>
 <quote>Quel utilitet el mien sanc, dementres que [pendant que] je descent en corruptiun ?</quote>
@@ -13105,7 +13111,7 @@
 <sense>
 <dictScrap>Mots latins qui s'emploient surtout en diplomatie pour dire : comme chacun possède. La base du traité fut l'<oVar>uti</oVar> possidetis, c'est-à-dire que chaque puissance conserverait ce dont elle était en possession.</dictScrap>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XIVe s.</label>
 <cit>
 <quote>Action de nouvelleté, comme vous tenez, que les clercs appellent uti possidetis</quote>
@@ -13132,7 +13138,7 @@
 <dictScrap>Projet imaginaire.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>Finablement arrivarent au port de Utopie, distant de la ville des Amaurotes par trois lieues</quote>
@@ -13283,7 +13289,7 @@
 <dictScrap>Utricules mères polliniques, utricules mères du pollen, les ovules mâles des phanérogames.</dictScrap>
 </sense>
 </sense>
-<note type="R">C'est à tort que quelques botanistes le font féminin : Utricule primordiale, utricule azotée qui tapisse certaines cellules végétales et est appliquée contre leur paroi de cellulose. </note>
+<note type="REM.">C'est à tort que quelques botanistes le font féminin : Utricule primordiale, utricule azotée qui tapisse certaines cellules végétales et est appliquée contre leur paroi de cellulose. </note>
 <etym>Lat. utriculus, dimin. de uter, outre.</etym>
 </entry>
 <entry xml:id="utriculeux">
@@ -13381,7 +13387,7 @@
 <dictScrap>Aujourd'hui, le système de parties représenté par la choroïde, les procès ciliaires et l'iris.</dictScrap>
 </sense>
 </sense>
-<note type="H">
+<note type="HIST.">
 <label>XVIe s.</label>
 <cit>
 <quote>La 3e tunique appelée uvée, pour la similitude qu'elle a en couleur avec un grain de raisin noir.... aucuns l'appellent choroïde, à raison qu'elle est tissue abondamment de veines et arteres, comme l'arriere-faix ou secondine des femmes</quote>

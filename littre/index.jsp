@@ -29,10 +29,12 @@ public void coucou(JspWriter out) throws IOException {
 %>
 <%
 // coucou(out);
+// préfixe des liens de redirection
+String baseHref="?q=";
+if(request.getParameter("baseHref") != null) baseHref=request.getParameter("baseHref");
 
-
-String orth="";
-if(request.getParameter("orth") != null) orth=request.getParameter("orth");
+String q="";
+if(request.getParameter("q") != null) q=request.getParameter("q");
 
 // si paramètre ?body=, pas d'emballage html
 if(request.getParameter("body") == null) {
@@ -41,11 +43,23 @@ if(request.getParameter("body") == null) {
   <head>
     <title>Littré</title>
     <link rel="stylesheet" type="text/css" href="theme/littre.css"/>
+    <script type="text/javascript">
+function go() {
+  var forme;
+  if (window.getSelection) forme=window.getSelection();
+  else if (document.getSelection) forme=document.getSelection();
+  else if (document.selection) forme=document.selection.createRange().text;
+  document.forms['search']['q'].value=forme;
+  document.forms['search'].submit();
+}
+    </script>
   </head>
-  <body>
+  <body ondblclick="go();">
     <form name="search" action="" method="get">
-      <p>Littré, consulter un mot<br/>
-        <input name="orth" size="44" value="<%=orth%>"/>
+      <p>
+        Littré, consulter un mot<br/>
+        <input id="q" name="q" size="44" value="<%=q%>"/>
+        <small>ou double-cliquer un mot dans le texte</small>
       </p>
     </form>
 <%
@@ -55,7 +69,7 @@ File appDir=new File(application.getRealPath("/"));
 File indexDir=new File(appDir, "index");
 // réindexer
 if (request.getParameter("index") != null) {
-  IndexEntry.index(new File(appDir, "xml"), indexDir);
+  IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
 }
 // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
 IndexSearcher searcher=(IndexSearcher)application.getAttribute("searcher");
@@ -67,25 +81,30 @@ if (searcher==null) {
   application.setAttribute("searcher", searcher);
 }
 Query query;
-TopDocs results;
+TopDocs results=null;
 Analyzer analyzer = Conf.getAnalyzer();
 Document doc;
 // chercher un mot
-if (!"".equals(orth)) {
-  query=(new QueryParser(Version.LUCENE_CURRENT, "orth", analyzer)).parse(orth);
+// écriture un peu particulière évitant trop de tests imbriqués
+// ! ne pas oublier de sortir
+while (true) {
+  if ("".equals(q)) break;
+  query=(new QueryParser(Version.LUCENE_CURRENT, "orth", analyzer)).parse(q);
   results=searcher.search(query, 100);
-  if (results.totalHits == 0) {
-    out.println("<p>Pas de résultats</p>");
+  if (results.totalHits != 0) break;
+  query=(new QueryParser(Version.LUCENE_CURRENT, "form", analyzer)).parse(q);
+  results=searcher.search(query, 100);
+  break;
+}
+if (results==null || results.totalHits == 0) {
+  out.println("<p>Pas de résultats</p>");
+}
+else {
+  for (int i = 0; i < results.totalHits; i++) {
+    // out.print(i);
+    doc = searcher.doc(results.scoreDocs[i].doc);
+    out.println(doc.get("html"));
   }
-  else {
-    for (int i = 0; i < results.totalHits; i++) {
-      // out.print(i);
-      doc = searcher.doc(results.scoreDocs[i].doc);
-      out.println(doc.get("html"));
-    }
-  }
-
-
 }
 
 if(request.getParameter("body") == null) {
