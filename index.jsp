@@ -69,6 +69,7 @@ File appDir=new File(application.getRealPath("/"));
 File indexDir=new File(appDir, "index");
 // réindexer
 if (request.getParameter("index") != null) {
+  application.setAttribute("searcher", null);
   IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
 }
 // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois

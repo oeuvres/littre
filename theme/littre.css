@@ -49,8 +49,13 @@ div.entryFree {
 p.dictScrap {
   margin:1ex 0 1ex 0;
   text-indent:0;
+  text-align:left;
+  line-height:140%;
 }
 .entry blockquote {
+  font-size:90%;
+  line-height:110%;
+  text-align:justify;
   margin:0;
   padding:0.8ex 5px 0.8ex 5px;
   border-left:1px dotted #888;
@@ -65,7 +70,7 @@ p.dictScrap {
 .entry ul blockquote {
   margin-left:-5ex;
 }
-div.H {
+div.HIST {
 	background:#EEEEEE;
 	background: -webkit-gradient(linear, left top, right top, from(#fff), to(#eee));
 	background: -moz-linear-gradient(left,  #fff,  #eee);
@@ -73,7 +78,7 @@ div.H {
   padding:2px 1px 2px 0.7ex;
   margin-top:1em;
 }
-div.H blockquote {
+div.HIST blockquote {
   background:transparent;
   margin-left:5.6ex;
 }
