@@ -169,7 +169,7 @@
     <xsl:attribute name="class">
       <xsl:choose>
         <xsl:when test="@type">
-          <xsl:value-of select="@type"/>
+          <xsl:value-of select="translate(@type, '.', '')"/>
         </xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="local-name()"/>
@@ -194,8 +194,8 @@
       <xsl:apply-templates/>
     </span>
   </xsl:template>
-  <xsl:template match="tei:note[@type='H']">
-    <div class="H">
+  <xsl:template match="tei:note[starts-with(@type, 'HIST')]">
+    <div class="HIST">
       <xsl:apply-templates/>
     </div>
   </xsl:template>
