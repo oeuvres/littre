@@ -12,6 +12,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.Properties;
 import java.util.Stack;
 import java.util.TreeSet;
 
@@ -36,6 +37,9 @@ import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.TransformerFactoryConfigurationError;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathExpressionException;
+import javax.xml.xpath.XPathFactory;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -111,10 +115,11 @@ public class IndexEntry {
 	 * @throws ParserConfigurationException
 	 * @throws ClassNotFoundException
 	 * @throws SQLException
+	 * @throws XPathExpressionException 
 	 */
 	public static void index(File xmlDir, File indexDir, File dbFile) throws IOException,
 			TransformerFactoryConfigurationError, XMLStreamException, TransformerException, ParserConfigurationException,
-			ClassNotFoundException, SQLException {
+			ClassNotFoundException, SQLException, XPathExpressionException {
 		// un petit message quand ça commence
 		System.out.println(xmlDir.getAbsolutePath() + " > " + indexDir.getAbsolutePath() + " (" + dbFile.getAbsolutePath()
 				+ ")");
@@ -122,7 +127,6 @@ public class IndexEntry {
 		Class.forName("org.sqlite.JDBC");
 		conn = DriverManager.getConnection("jdbc:sqlite:" + dbFile);
 		stat = conn.prepareStatement("SELECT forme FROM lexique WHERE lemme=?");
-
 		index = new IndexWriter(FSDirectory.open(indexDir), Conf.getAnalyzer(), true, IndexWriter.MaxFieldLength.UNLIMITED);
 		littre_html = TransformerFactory.newInstance().newTransformer(
 				new StreamSource(new File(new File(xmlDir.getParentFile(), "transform"), "littre_html.xsl")));
@@ -140,11 +144,11 @@ public class IndexEntry {
 			System.out.println(f);
 			parse(f);
 		}
-		System.out.println("Optimisation de l'index");
+		System.out.println("Optimisation de l'index…");
 		index.commit();
 		index.optimize();
 		index.close();
-		System.out.println("Indexation terminée");
+		System.out.println("Indexation terminée.");
 	}
 
 	/**
@@ -157,9 +161,10 @@ public class IndexEntry {
 	 * @throws IOException
 	 * @throws CorruptIndexException
 	 * @throws SQLException
+	 * @throws XPathExpressionException 
 	 */
 	public static void parse(File xml) throws XMLStreamException, TransformerException, CorruptIndexException,
-			IOException, SQLException {
+			IOException, SQLException, XPathExpressionException {
 		stackpath = new Stack<String>();
 		XMLEventReader reader = xins.createXMLEventReader(
 		// contre la spec XML, le flux de caractère ne tient pas compte du
@@ -175,12 +180,14 @@ public class IndexEntry {
 		String text = null;
 		// String buffer de text en cours
 		StringBuilder quote = new StringBuilder();
+		StringBuilder dictScrap = new StringBuilder();
 		// document lucene en cours
 		Document doc = null;
 		// résultat de la transformation <entry> vers html
 		StringWriter html = null;
 		// les <entry> sont recueillies dans un DOM
 		org.w3c.dom.Document dom = null;
+    XPath xp =  XPathFactory.newInstance().newXPath();
 		// un dédoublonneur
 		TreeSet<String> uniq = new TreeSet<String>();
 		String orth;
@@ -212,6 +219,9 @@ public class IndexEntry {
 				if ("quote".equals(name)) {
 					quote = new StringBuilder();
 				}
+				if ("dictScrap".equals(name)) {
+					dictScrap = new StringBuilder();
+				}
 			}
 			// ajouter l'événement au dom d'article en cours, après sa création
 			if (entry != null)
@@ -219,8 +229,8 @@ public class IndexEntry {
 			if (ev.isCharacters()) {
 				text = ev.asCharacters().getData();
 				// ajouter à la citation en cours
-				if (quote != null)
-					quote.append(text);
+				if (quote != null) quote.append(text);
+				if (dictScrap != null) dictScrap.append(text);
 			}
 
 			/*
@@ -238,6 +248,8 @@ public class IndexEntry {
 					pos=orth.indexOf(' ');
 					if (pos > 0) orth=orth.substring(0, pos);
 					doc.add(new Field("orth", orth, Field.Store.YES, Field.Index.ANALYZED));
+					// une version de la vedette pour un “tu veux dire…”
+					doc.add(new Field("orthGram", orth, Field.Store.NO, Field.Index.ANALYZED_NO_NORMS));
 					// chercher la forme dans la base
 					stat.setString(1, orth);
 					ResultSet rs = stat.executeQuery();
@@ -246,22 +258,30 @@ public class IndexEntry {
 					while (rs.next()) {
 						uniq.add(rs.getString(1));
 					}
-					// lemme inconnu de lexique, ajouter à la liste
 					if (uniq.size() == 0) {
 						// lemme inconu de lexique.org, ajouter le lemme (fléchir ?)
 						doc.add(new Field("form", orth, Field.Store.NO, Field.Index.NOT_ANALYZED));
+						// ne pas ajouter les ngram des formes, survalorise les verbes
+						// doc.add(new Field("formGram", orth, Field.Store.NO, Field.Index.ANALYZED_NO_NORMS));
 						if (unknown != null) unknown.println(orth);
 					}
 					else {
-						for (String s : uniq)
+						for (String s : uniq) {
 							doc.add(new Field("form", s, Field.Store.NO, Field.Index.NOT_ANALYZED));
-						;
+							// ne pas ajouter les ngram des formes, survalorise les verbes
+							// doc.add(new Field("formGram", s, Field.Store.NO, Field.Index.ANALYZED_NO_NORMS));
+						}
 					}
 				}
-				// citation
+				// citation (pour similarités)
 				if ("quote".equals(name)) {
-					doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED));
+					doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
 					quote = null;
+				}
+				// citation (pour similarités)
+				if ("dictScrap".equals(name)) {
+					doc.add(new Field("dictScrap", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
+					dictScrap = null;
 				}
 				// fin d'article, transformer le document XML capturé en HTML
 				if ("entry".equals(name)) {
@@ -272,6 +292,8 @@ public class IndexEntry {
 					html=new StringWriter(); 
 					littre_html.transform(new DOMSource(dom), new StreamResult(html));
 					entry = null;
+					// pour les simililarités
+					doc.add(new Field("text", xp.evaluate("string(/)", dom.getDocumentElement()),  Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
 					doc.add(new Field("html", html.toString(), Field.Store.YES, Field.Index.NO));
 					// ajouter un chanmp type de document (permettra par exemple d'indexer les citations séparément)
 					doc.add(new Field("type", "entry", Field.Store.NO, Field.Index.NOT_ANALYZED));
