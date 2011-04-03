@@ -82,8 +82,12 @@ function go() {
 // le dossier de l'application (ici)
 File appDir=new File(application.getRealPath("/"));
 File indexDir=new File(appDir, "index");
+if (!indexDir.mkdirs()) {
+  indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "index");
+  indexDir.mkdirs();
+}
 // réindexer
-if (request.getParameter("index") != null || !appDir.canRead()) {
+if (request.getParameter("index") != null || indexDir.listFiles().length < 3 ) {
 	out.println("Indexation lancée (peut prendre quelques minutes)…");
   application.setAttribute("searcher", null);
   IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
