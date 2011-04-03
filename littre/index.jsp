@@ -39,7 +39,7 @@ String q="";
 // utilisé pour écrire les liens
 String baseHref="";
 // accès par adresse jsp
-if (request.getRequestURI().indexOf("index.jsp") != -1) {
+if (request.getRequestURI().indexOf("index.jsp") != -1 || request.getParameter("q") != null) {
 	if(request.getParameter("q") != null) q=request.getParameter("q");
 	baseHref="?q=";
 }
