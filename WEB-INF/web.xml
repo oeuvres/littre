@@ -3,5 +3,14 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
      version="2.4">
+  <servlet>
+    <servlet-name>definition</servlet-name>
+    <jsp-file>/index.jsp</jsp-file>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>definition</servlet-name>
+    <url-pattern>/definition/*</url-pattern>
+  </servlet-mapping>
   
 </web-app>
