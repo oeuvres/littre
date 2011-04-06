@@ -260,27 +260,27 @@ public class IndexEntry {
 					}
 					if (uniq.size() == 0) {
 						// lemme inconu de lexique.org, ajouter le lemme (fléchir ?)
-						doc.add(new Field("form", orth, Field.Store.NO, Field.Index.NOT_ANALYZED));
+						doc.add(new Field("form", orth, Field.Store.NO, Field.Index.ANALYZED));
 						// ne pas ajouter les ngram des formes, survalorise les verbes
-						// doc.add(new Field("formGram", orth, Field.Store.NO, Field.Index.ANALYZED_NO_NORMS));
 						if (unknown != null) unknown.println(orth);
 					}
 					else {
 						for (String s : uniq) {
-							doc.add(new Field("form", s, Field.Store.NO, Field.Index.NOT_ANALYZED));
+							doc.add(new Field("form", s, Field.Store.NO, Field.Index.ANALYZED));
 							// ne pas ajouter les ngram des formes, survalorise les verbes
-							// doc.add(new Field("formGram", s, Field.Store.NO, Field.Index.ANALYZED_NO_NORMS));
 						}
 					}
 				}
 				// citation (pour similarités)
 				if ("quote".equals(name)) {
-					doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
+					doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED));
+					// doc.add(new Field("quoteSim", quote.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
 					quote = null;
 				}
 				// citation (pour similarités)
 				if ("dictScrap".equals(name)) {
-					doc.add(new Field("dictScrap", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
+					doc.add(new Field("gloss", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED));
+					// doc.add(new Field("glossSim", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
 					dictScrap = null;
 				}
 				// fin d'article, transformer le document XML capturé en HTML
@@ -293,7 +293,10 @@ public class IndexEntry {
 					littre_html.transform(new DOMSource(dom), new StreamResult(html));
 					entry = null;
 					// pour les simililarités
-					doc.add(new Field("text", xp.evaluate("string(/)", dom.getDocumentElement()),  Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
+					text=xp.evaluate("string(/)", dom.getDocumentElement());
+					doc.add(new Field("text", text,  Field.Store.NO, Field.Index.ANALYZED));
+					// doc.add(new Field("textSim", text,  Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
+					
 					doc.add(new Field("html", html.toString(), Field.Store.YES, Field.Index.NO));
 					// ajouter un chanmp type de document (permettra par exemple d'indexer les citations séparément)
 					doc.add(new Field("type", "entry", Field.Store.NO, Field.Index.NOT_ANALYZED));
