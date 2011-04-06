@@ -89,7 +89,8 @@ if (!indexDir.mkdirs()) {
   indexDir.mkdirs();
 }
 // réindexer
-if (request.getParameter("index") != null || indexDir.listFiles().length < 3 ) {
+// TODO, tester IP && (request.getRemoteAddr() == request.getLocalAddr())
+if ((request.getParameter("index") != null)  || indexDir.listFiles().length < 3 ) {
 	out.println("Indexation lancée (peut prendre quelques minutes)…");
   application.setAttribute("searcher", null);
   IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
@@ -121,13 +122,12 @@ while (true) {
   query=(new QueryParser(Version.LUCENE_CURRENT, "form", analyzer)).parse(q);
   results=searcher.search(query, 100);
   if (results.totalHits != 0) break;
+  /*
   q=q.replace("(s|aient|oient|oit|ait|ons|ont)$", "");
-  query=(new QueryParser(Version.LUCENE_CURRENT, "form", analyzer)).parse(q);
-  results=searcher.search(query, 100);
-  if (results.totalHits != 0) break;
   query=(new QueryParser(Version.LUCENE_CURRENT, "orthGram", analyzer)).parse(q);
   results=searcher.search(query, 100);
   break;
+  */
 }
 if (results==null || results.totalHits == 0) {
   out.println("<p>Pas de résultats</p>");
