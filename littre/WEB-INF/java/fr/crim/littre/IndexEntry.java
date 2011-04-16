@@ -1,5 +1,6 @@
 package fr.crim.littre;
 
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FilenameFilter;
@@ -12,7 +13,6 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.Properties;
 import java.util.Stack;
 import java.util.TreeSet;
 
@@ -47,6 +47,8 @@ import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.store.FSDirectory;
+import org.w3c.dom.Element;
+import org.w3c.dom.NodeList;
 
 /**
  * Indexation lucene des entrées Littré (dictionnaire en TEI)
@@ -187,7 +189,7 @@ public class IndexEntry {
 		StringWriter html = null;
 		// les <entry> sont recueillies dans un DOM
 		org.w3c.dom.Document dom = null;
-    XPath xp =  XPathFactory.newInstance().newXPath();
+
 		// un dédoublonneur
 		TreeSet<String> uniq = new TreeSet<String>();
 		String orth;
@@ -271,16 +273,16 @@ public class IndexEntry {
 						}
 					}
 				}
-				// citation (pour similarités)
+				// citations, autre approche, un document par citation, pour amener toutes les citation comportan un mot
 				if ("quote".equals(name)) {
-					doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED));
+					// doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED));
 					// doc.add(new Field("quoteSim", quote.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
 					quote = null;
 				}
-				// citation (pour similarités)
+				// gloses (pour similarités)
 				if ("dictScrap".equals(name)) {
 					doc.add(new Field("gloss", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED));
-					// doc.add(new Field("glossSim", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
+					doc.add(new Field("glose", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
 					dictScrap = null;
 				}
 				// fin d'article, transformer le document XML capturé en HTML
@@ -293,16 +295,34 @@ public class IndexEntry {
 					littre_html.transform(new DOMSource(dom), new StreamResult(html));
 					entry = null;
 					// pour les simililarités
+					/*
 					text=xp.evaluate("string(/)", dom.getDocumentElement());
 					doc.add(new Field("text", text,  Field.Store.NO, Field.Index.ANALYZED));
 					// doc.add(new Field("textSim", text,  Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
-					
+					*/
 					doc.add(new Field("html", html.toString(), Field.Store.YES, Field.Index.NO));
 					// ajouter un chanmp type de document (permettra par exemple d'indexer les citations séparément)
 					doc.add(new Field("type", "entry", Field.Store.NO, Field.Index.NOT_ANALYZED));
 					// remplacer le document dans l'index lucene
 					index.updateDocument(new Term("id", doc.get("id")), doc);
-
+					String entry=doc.get("id");
+					String s;
+					NodeList citList =dom.getElementsByTagName("cit");
+					for (int i = 0; i < citList.getLength(); i++) {
+						Element cit=(Element)citList.item(i);
+						doc = new Document();
+						String citid=entry+"#cit"+i;
+						doc.add(new Field("id", citid, Field.Store.YES, Field.Index.NOT_ANALYZED));
+						doc.add(new Field("type", "quote", Field.Store.NO, Field.Index.NOT_ANALYZED));
+						doc.add(new Field("entry", entry, Field.Store.YES, Field.Index.NOT_ANALYZED));
+						s=cit.getElementsByTagName("quote").item(0).getTextContent().replaceAll("\\s+", " ").trim();
+						doc.add(new Field("quote", s, Field.Store.YES, Field.Index.ANALYZED));
+						doc.add(new Field("quoteSim", s, Field.Store.NO, Field.Index.ANALYZED, Field.TermVector.YES));
+						doc.add(new Field("bibl", cit.getElementsByTagName("bibl").item(0).getTextContent().replaceAll("\\s+", " ").trim(), Field.Store.YES, Field.Index.ANALYZED));
+						NodeList nl=cit.getElementsByTagName("author");
+						if (nl.getLength() > 0) doc.add(new Field("author", nl.item(0).getTextContent(), Field.Store.YES, Field.Index.ANALYZED));
+						index.updateDocument(new Term("id", doc.get("id")), doc);
+					}
 				}
 				stackpath.pop();
 			}

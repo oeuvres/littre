@@ -4,31 +4,25 @@ session="false"
 pageEncoding="UTF-8"
 contentType="text/html; charset=UTF-8"
 import = "
-java.io.File,
-java.io.InputStreamReader,
-java.io.FileInputStream,
-java.io.Writer,
-java.io.IOException,
-java.util.Properties,
-fr.crim.littre.Conf,
-fr.crim.littre.IndexEntry,
-org.apache.lucene.analysis.Analyzer,
+java.io.*,
+java.util.*,
+fr.crim.littre.*,
+org.apache.lucene.analysis.*,
 org.apache.lucene.document.Document,
-org.apache.lucene.index.IndexReader,
+org.apache.lucene.index.*,
+org.apache.lucene.search.*,
 org.apache.lucene.queryParser.QueryParser,
-org.apache.lucene.search.IndexSearcher,
-org.apache.lucene.search.Query,
-org.apache.lucene.search.ScoreDoc,
-org.apache.lucene.search.TopDocs,
 org.apache.lucene.store.FSDirectory,
-org.apache.lucene.util.Version,
-org.apache.lucene.search.similar.MoreLikeThis
+org.apache.lucene.util.Version
 "
 %>
 <%!
+/** Afficher le contenu d'une specif comme une table HTML */
+void specif_table(Specif specif, Writer out) {
+	
+}
 %>
 <%
-// coucou(out);
 // préfixe des liens de redirection
 String baseHref="?q=";
 if(request.getParameter("baseHref") != null) baseHref=request.getParameter("baseHref");
@@ -73,6 +67,7 @@ if (request.getParameter("index") != null ) {
   application.setAttribute("searcher", null);
   IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
 }
+if (request.getParameter("force") != null ) application.setAttribute("searcher", null);
 // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
 IndexSearcher searcher=(IndexSearcher)application.getAttribute("searcher");
 // rien en cache, recharger
@@ -85,9 +80,6 @@ if (searcher==null) {
 Query query;
 TopDocs results=null;
 Analyzer analyzer = Conf.getAnalyzer();
-// chercher un mot
-// écriture un peu particulière évitant trop de tests imbriqués
-// ! ne pas oublier de sortir
 while (true) {
   if ("".equals(q)) break;
   query=(new QueryParser(Version.LUCENE_CURRENT, "orth", analyzer)).parse(q);
@@ -101,50 +93,45 @@ if (results==null || results.totalHits == 0) {
   out.println("<p>Pas de résultats</p>");
 }
 else {
-  MoreLikeThis mlt = new MoreLikeThis(searcher.getIndexReader());
-  Query mltq=null;
   String[] terms;
-  int refid;
+  int refid, qid;
   int likeid;
-	Document refdoc;
+	Document refdoc, qdoc;
 	Document likedoc;
-  String[][] fields={{"quoteSim"},{"glossSim"},{"textSim"}};
+	
   for (int i = 0; i < results.totalHits; i++) {
-    // out.print(i);
     refid=results.scoreDocs[i].doc;
     refdoc = searcher.doc(refid);
-    for (String[] field: fields) {
-    	mlt.setFieldNames(field);
-    	// mlt.setMaxQueryTerms(100); // augmenter le nb de termes ?
-      mltq=mlt.like(refid);
-    	out.print("<b title=\"");
-    	terms=mlt.retrieveInterestingTerms(refid);
-    	for (int z=0; z < terms.length; z++) {
-    		if (z !=0) out.print(", ");
-    		out.print(terms[z]);
-    	}
-    	out.print(".\">"+field[0]+"</b>");
-      TopDocs hits = searcher.search(mltq, null, 25);
-      int len = hits.totalHits;
-      ScoreDoc[] scoreDocs = hits.scoreDocs;
-      for (int j = 0; j < Math.min(25, len); j++) {
-      	likeid=scoreDocs[j].doc;
-      	likedoc = searcher.doc(likeid);
-      	out.print(", <a title=\"");
-      	terms=mlt.retrieveInterestingTerms(likeid);
-      	for (int z=0; z < terms.length; z++) {
-      		if (z !=0) out.print(", ");
-      		out.print(terms[z]);
-      	}
-      	out.print(".\">"+likedoc.get("id")+"</span>");
-      }
-      out.println(".<br/>");
-    }
     out.println(refdoc.get("html"));
+    String lemme=refdoc.get("orth");
+    out.println("<table>");
+    out.println("<caption>"+lemme+" : cooccurrents</caption>");
+    out.println("<tr><th>Glose</th><th>Citations</th></tr>");
+		out.print("<tr><td valign=\"top\">");
+ 	  Specif specif = new Specif(searcher.getIndexReader());
+ 	  specif.add(refid, "glose");
+ 	  specif.html(out);
+		out.print("</td><td valign=\"top\">");
+    query=new TermQuery(new Term("quote", lemme));
+    TopDocs quotes=searcher.search(query, 10000);
+    Specif speQuote=new Specif(searcher.getIndexReader());
+    for (int j = 0; j < quotes.totalHits; j++) {
+      qid=quotes.scoreDocs[j].doc;
+      speQuote.add(qid, "quoteSim");
+      qdoc = searcher.doc(qid);
+      // out.println(qdoc);
+    }
+    speQuote.html(out);
+		out.print("</td></tr>\n</table>");
+    // out.print("<textarea rows=\"20\" style=\"width:100%; \">");
+    // out.print("</textarea>");
+    
+   	// out.print(".\">"+field[0]+"</b>");
   }
 }
 
 if(request.getParameter("body") == null) {
+out.print("<script type=\"text/javascript\" src=\"theme/Sortable.js\">//</script>");
 %>
   </body>
 </html>
