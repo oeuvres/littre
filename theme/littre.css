@@ -55,7 +55,7 @@ p.dictScrap {
 
 blockquote {
   border-left: 1px dotted #888888;
-  margin:0 0 0 1.7em;
+  margin:0 0 0 1.25em; /* la bordure s'aligne avec les carreaux */
   line-height:105%;
   padding:0.5ex 0 0.5ex 0;
 }
