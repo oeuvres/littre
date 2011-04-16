@@ -131,7 +131,7 @@ public class Conf {
     analyzer.addAnalyzer("quote", new QuoteAnalyzer());
     analyzer.addAnalyzer("quoteSim", new SimAnalyzer());
     analyzer.addAnalyzer("glose", new SimAnalyzer());
-    analyzer.addAnalyzer("form", new SoundAnalyzer());
+    analyzer.addAnalyzer("form", new OrthAnalyzer());
     analyzer.addAnalyzer("author", new IdAnalyzer());
     return analyzer;
   }
