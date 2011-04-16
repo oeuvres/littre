@@ -34,12 +34,11 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.TransformerFactoryConfigurationError;
-import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathExpressionException;
-import javax.xml.xpath.XPathFactory;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -47,6 +46,7 @@ import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.store.LockObtainFailedException;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
@@ -56,7 +56,7 @@ import org.w3c.dom.NodeList;
  * @author Ginka
  * @author frederic.glorieux@fictif.org
  */
-public class IndexEntry {
+public class IndexEntry extends Thread {
 	/** Connexion sqlite au lexique */
 	static private Connection conn;
 	/** Requête préparée */
@@ -81,75 +81,80 @@ public class IndexEntry {
 	static final QName XML_ID = new QName("http://www.w3.org/XML/1998/namespace", "id", "xml");
 	/** Unknown */
 	static PrintStream unknown;
-
+	/** Dossier à indexer */
+	static File xmlDir;
+	/** Dossier de l'index */
+	static File indexDir;
+	/** Base sqlite du lexique */
+	static File dbFile;
 	/**
-	 * L'exécution sera généralement en ligne de commande, il faut cependant
-	 * pouvoir indexer depuis un serveur, cette méthode ne comportera que passage
-	 * des paramètres.
-	 * 
-	 * @param args
-	 * @throws Exception
+	 * Constructeur pour passer des paramètres
 	 */
-	public static void main(String[] args) throws Exception {
-		File xmlDir = new File("xml");
-		if (args.length > 0)
-			xmlDir = new File(args[0]);
-		File indexDir = new File("index");
-		if (args.length > 1)
-			indexDir = new File(args[1]);
-		File sqliteFile = new File("WEB-INF/lib/lexique.sqlite");
-		if (args.length > 2)
-			sqliteFile = new File(args[2]);
-		// ouvrir un fichier où écrire les formes inconnues
-		unknown=new PrintStream(new File("unknown.txt"), "UTF-8");
-		index(xmlDir, indexDir, sqliteFile);
-		unknown.close();
+	public IndexEntry(File aXmlDir, File aIndexDir, File aDbFile) {
+		xmlDir=aXmlDir;
+		indexDir=aIndexDir;
+		dbFile=aDbFile;
+		// connexion à la base du lexique
+		try {
+			Class.forName("org.sqlite.JDBC");
+			conn = DriverManager.getConnection("jdbc:sqlite:" + dbFile);
+			stat = conn.prepareStatement("SELECT forme FROM lexique WHERE lemme=?");
+			index = new IndexWriter(FSDirectory.open(indexDir), Conf.getAnalyzer(), true, IndexWriter.MaxFieldLength.UNLIMITED);
+			littre_html = TransformerFactory.newInstance().newTransformer(
+					new StreamSource(new File(new File(xmlDir.getParentFile(), "transform"), "littre_html.xsl")));
+			littre_html.setOutputProperty(OutputKeys.INDENT, "yes");
+			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+			dbf.setNamespaceAware(true);
+			xdoms = dbf.newDocumentBuilder();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (CorruptIndexException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (LockObtainFailedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (TransformerConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (TransformerFactoryConfigurationError e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ParserConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
-
-	/**
-	 * Parcours du dossier de documents XML
-	 * 
-	 * @param dir
-	 * @throws IOException
-	 * @throws TransformerFactoryConfigurationError
-	 * @throws XMLStreamException
-	 * @throws TransformerException
-	 * @throws ParserConfigurationException
-	 * @throws ClassNotFoundException
-	 * @throws SQLException
-	 * @throws XPathExpressionException 
-	 */
-	public static void index(File xmlDir, File indexDir, File dbFile) throws IOException,
-			TransformerFactoryConfigurationError, XMLStreamException, TransformerException, ParserConfigurationException,
-			ClassNotFoundException, SQLException, XPathExpressionException {
+	
+	@Override
+	public void run() {
 		// un petit message quand ça commence
 		System.out.println(xmlDir.getAbsolutePath() + " > " + indexDir.getAbsolutePath() + " (" + dbFile.getAbsolutePath()
 				+ ")");
-		// connexion à la base du lexique
-		Class.forName("org.sqlite.JDBC");
-		conn = DriverManager.getConnection("jdbc:sqlite:" + dbFile);
-		stat = conn.prepareStatement("SELECT forme FROM lexique WHERE lemme=?");
-		index = new IndexWriter(FSDirectory.open(indexDir), Conf.getAnalyzer(), true, IndexWriter.MaxFieldLength.UNLIMITED);
-		littre_html = TransformerFactory.newInstance().newTransformer(
-				new StreamSource(new File(new File(xmlDir.getParentFile(), "transform"), "littre_html.xsl")));
-		littre_html.setOutputProperty(OutputKeys.INDENT, "yes");
-		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-		dbf.setNamespaceAware(true);
-		xdoms = dbf.newDocumentBuilder();
-		
 		File[] files = xmlDir.listFiles(new FilenameFilter() {
 			public boolean accept(File f, String s) {
 				return s.endsWith(".xml");
 			}
 		});
+		try {
 		for (File f : files) {
 			System.out.println(f);
-			parse(f);
+				parse(f);
 		}
-		System.out.println("Optimisation de l'index…");
-		index.commit();
-		index.optimize();
-		index.close();
+			System.out.println("Optimisation de l'index…");
+			index.commit();
+			index.optimize();
+			index.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		} 
 		System.out.println("Indexation terminée.");
 	}
 
@@ -329,4 +334,29 @@ public class IndexEntry {
 		}
 
 	}
+	/**
+	 * L'exécution sera généralement en ligne de commande, il faut cependant
+	 * pouvoir indexer depuis un serveur, cette méthode ne comportera que passage
+	 * des paramètres.
+	 * 
+	 * @param args
+	 * @throws Exception
+	 */
+	public static void main(String[] args) throws Exception {
+		File indexDir = new File("index");
+		if (args.length > 0)
+			indexDir = new File(args[0]);
+		File xmlDir = new File("xml");
+		if (args.length > 1)
+			xmlDir = new File(args[1]);
+		File lexique = new File("WEB-INF/lib/lexique.sqlite");
+		if (args.length > 2)
+			lexique = new File(args[2]);
+		// ouvrir un fichier où écrire les formes inconnues
+		unknown=new PrintStream(new File("unknown.txt"), "UTF-8");
+		Thread task=new IndexEntry(xmlDir, indexDir, lexique);
+		task.run();
+		unknown.close();
+	}
+
 }
