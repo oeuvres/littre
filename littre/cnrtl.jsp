@@ -104,7 +104,12 @@ if(request.getParameter("body") == null) {
 				</ul>
 			</div>
 			<div id="main_content">
-<div><ul class="tab_box"><li><a href="http://cnrtl.fr/morphologie/" onclick="return sendRequest(0,'/morphologie/');">Morphologie</a></li><li><a class="active" href="http://cnrtl.fr/definition/" onclick="return sendRequest(0,'/definition/');">Lexicographie</a></li><li><a href="http://cnrtl.fr/etymologie/" onclick="return sendRequest(0,'/etymologie/');">Etymologie</a></li><li><a href="http://cnrtl.fr/synonymie/" onclick="return sendRequest(0,'/synonymie/');">Synonymie</a></li><li><a href="http://cnrtl.fr/antonymie/" onclick="return sendRequest(0,'/antonymie/');">Antonymie</a></li><li><a href="http://cnrtl.fr/proxemie/" onclick="return sendRequest(0,'/proxemie/');">Proxémie</a></li><li><a href="http://cnrtl.fr/concordance/" onclick="return sendRequest(0,'/concordance/');">Concordance</a></li><li><a href="http://cnrtl.fr/aide/" onclick="return sendRequest(0,'/aide/');">Aide</a></li></ul></div><div id="content"><table border="0" cellpadding="0" cellspacing="4" width="100%"><tbody><tr valign="top"><td id="menubox"><table class="plugin_menu" cellpadding="0" cellspacing="0"><tbody><tr class="plugin_on" onclick="return sendRequest(0,'/definition/');">
+<div><ul class="tab_box"><li><a href="http://cnrtl.fr/morphologie/" onclick="return sendRequest(0,'/morphologie/');">Morphologie</a></li><li><a class="active" href="http://cnrtl.fr/definition/" onclick="return sendRequest(0,'/definition/');">Lexicographie</a></li><li><a href="http://cnrtl.fr/etymologie/" onclick="return sendRequest(0,'/etymologie/');">Etymologie</a></li><li><a href="http://cnrtl.fr/synonymie/" onclick="return sendRequest(0,'/synonymie/');">Synonymie</a></li><li><a href="http://cnrtl.fr/antonymie/" onclick="return sendRequest(0,'/antonymie/');">Antonymie</a></li><li><a href="http://cnrtl.fr/proxemie/" onclick="return sendRequest(0,'/proxemie/');">Proxémie</a></li><li><a href="http://cnrtl.fr/concordance/" onclick="return sendRequest(0,'/concordance/');">Concordance</a></li><li><a href="http://cnrtl.fr/aide/" onclick="return sendRequest(0,'/aide/');">Aide</a></li></ul></div>
+
+<div id="content">
+<table border="0" cellpadding="0" cellspacing="4" width="100%"><tbody><tr valign="top"><td id="menubox">
+<table class="plugin_menu" cellpadding="0" cellspacing="0"><tbody><tr class="plugin_on" onclick="return sendRequest(0,'/definition/');">
+
 
 <td class="plugin_image"><img src="cnrtl/tlfi_icon.jpg" alt="" height="44" width="36"/></td><td><h1>TLFi</h1><h2></h2></td>
 </tr>
@@ -131,7 +136,8 @@ if(request.getParameter("body") == null) {
 <tr onclick="return sendRequest(0,'/definition/ducange/');">
 <td class="plugin_image"><img src="cnrtl/ducange.png" alt="" height="44" width="36"/></td><td><h1>Du Cange</h1><h2>Moyen Âge</h2></td>
 </tr>
-</tbody></table></td><td width="100%">			<div id="optionBox">
+</tbody></table></td><td width="100%">			
+<div id="optionBox">
 				<form name="optionBoxForm" action="">
 					<div align="left">
 
@@ -462,9 +468,15 @@ if(request.getParameter("body") == null) {
     if(request.getParameter("body") == null) {
     %>
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 			<div id="footer">
 				<div id="footerleft">
-
+	
 					<a href="http://www.lorraine.pref.gouv.fr/index.php?headingid=112">
 						<img src="cnrtl/Logo_Feder_Lorraine_h50.jpg" alt="" border="0"/>
 					</a>
@@ -474,7 +486,7 @@ if(request.getParameter("body") == null) {
 				</div>
 				<div id="footerright">
 					<a href="http://validator.w3.org/check?uri=referer">
-
+	
 						<img src="cnrtl/xhtml10.png" alt="Valid XHTML 1.0 Strict" border="0"/>
 					</a>
 					<a href="http://jigsaw.w3.org/css-validator/">
@@ -483,13 +495,14 @@ if(request.getParameter("body") == null) {
 				</div>
 				<p>
 					© 2009 - CNRTL<br/>
-
-					44, avenue de la Libération BP 30687 54063 Nancy Cedex - France<br>
+	
+					44, avenue de la Libération BP 30687 54063 Nancy Cedex - France<br/>
 					Tél. : +33 3 83 96 21 76 - Fax : +33 3 83 97 24 56
 				</p>
 			</div>
 		</div>
-	</body></html>
+	</body>
+</html>
   <%
 }
 %>
