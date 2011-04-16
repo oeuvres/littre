@@ -21,7 +21,10 @@ org.apache.lucene.store.FSDirectory,
 org.apache.lucene.util.Version
 "
 %>
-<%!public static int count(String text, String occ) {
+<%!
+final static String CACHE_LUC="littre_searcher";
+
+public static int count(String text, String occ) {
 	int count=0;
 	int pos=-1;
 	while (count < 500) {
@@ -88,17 +91,18 @@ function go() {
     // TODO, tester IP && (request.getRemoteAddr() == request.getLocalAddr())
     if ((request.getParameter("index") != null)  || indexDir.listFiles().length < 3 ) {
     	out.println("Indexation lancée (peut prendre plusieurs minutes)…");
-      application.setAttribute("searcher", null);
+      application.setAttribute(CACHE_LUC, null);
       IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
     }
+    if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
     // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
-    IndexSearcher searcher=(IndexSearcher)application.getAttribute("searcher");
+    IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);
     // rien en cache, recharger
     if (searcher==null) {
       searcher=new IndexSearcher(
         IndexReader.open(FSDirectory.open(indexDir), true)
       );
-      application.setAttribute("searcher", searcher);
+      application.setAttribute(CACHE_LUC, searcher);
     }
     Query query;
     TopDocs results=null;

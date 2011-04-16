@@ -401,6 +401,7 @@ if(request.getParameter("body") == null) {
       application.setAttribute(CACHE_LUC, null);
       IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
     }
+    if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
     // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
     IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);
     // rien en cache, recharger

@@ -31,10 +31,13 @@ p.dictScrap {
   line-height:140%;
 }
 .entry ul {
-  margin:0 0 0 1em;
+  list-style:none;
+  margin:0 0 0 0;
   padding:0;
 }
-
+.entry ul ul {
+  margin-left:1em;
+}
 .sense1{
   margin:1.5em 0 1ex 0;
   padding:0;
