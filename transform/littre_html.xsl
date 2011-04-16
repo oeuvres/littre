@@ -185,7 +185,7 @@
   <!-- -->
   <xsl:template match="tei:etym">
     <p>
-      <tt>Étymologie</tt>
+      <b class="label">Étymologie</b>
       <xsl:text> – </xsl:text>
       <xsl:apply-templates/>
     </p>
