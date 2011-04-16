@@ -400,13 +400,6 @@ if(request.getParameter("body") == null) {
       indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "index");
       indexDir.mkdirs();
     }
-    // réindexer
-    // TODO, tester IP && (request.getRemoteAddr() == request.getLocalAddr())
-    if ((request.getParameter("index") != null)  || indexDir.listFiles().length < 3 ) {
-    	out.println("Indexation lancée (peut prendre plusieurs minutes)…");
-      application.setAttribute(CACHE_LUC, null);
-      IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
-    }
     if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
     // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
     IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);
@@ -464,6 +457,7 @@ if(request.getParameter("body") == null) {
         out.print("<a href=\""+baseHref+doc.get("id")+"\">"+doc.get("orth")+"</a>");
       }
     }
+    out.print("<div type=\"credits\">Réalisation : <a href=\"\">École des chartes</a>, <a href=\"http://crim.fr/master_2\">INALCO, les étudiants du Master M2IM</a>. <a href=\"http://javacrim.sourceforge.net/littre/\">Crédits</a></div>");
 		out.println("</div>");
     if(request.getParameter("body") == null) {
     %>
