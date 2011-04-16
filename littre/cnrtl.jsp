@@ -457,7 +457,7 @@ if(request.getParameter("body") == null) {
         out.print("<a href=\""+baseHref+doc.get("id")+"\">"+doc.get("orth")+"</a>");
       }
     }
-    out.print("<div type=\"credits\">Cette édition du <i>Littré</i> est réalisée par l’<a href=\"\">École des chartes</a> et l’<a href=\"http://crim.fr/master_2\">INALCO</a> (<a href=\"http://javacrim.sourceforge.net/littre/\">Crédits</a>).</div>");
+    out.print("<p type=\"credits\">Cette édition du <i>Littré</i> est réalisée par l’<a href=\"\">École des chartes</a> et l’<a href=\"http://crim.fr/master_2\">INALCO</a> (<a href=\"http://javacrim.sourceforge.net/littre/\">Crédits</a>).</p>");
 		out.println("</div>");
     if(request.getParameter("body") == null) {
     %>
