@@ -9,8 +9,7 @@ java.io.InputStreamReader,
 java.io.FileInputStream,
 java.io.Writer,
 java.io.IOException,
-java.util.Properties,
-fr.crim.littre.Conf,
+java.util.Properties,,
 fr.crim.littre.IndexEntry,
 org.apache.lucene.analysis.Analyzer,
 org.apache.lucene.document.Document,
@@ -28,7 +27,6 @@ org.apache.lucene.search.similar.MoreLikeThis
 <%!
 %>
 <%
-// coucou(out);
 // préfixe des liens de redirection
 String baseHref="?q=";
 if(request.getParameter("baseHref") != null) baseHref=request.getParameter("baseHref");

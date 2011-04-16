@@ -1,6 +1,7 @@
-body {
-  padding:0;
-  font-family: Arial,sans-serif;
+
+/* Spécifique cnrtl, pas d’entête morphologique */
+.cnrtl .form {
+  display:none;
 }
 form small {
   display:block;
@@ -9,49 +10,66 @@ input#q {
   font-size:16px;
   padding:0 0.5ex;
 }
-div.entry,
-div.entryFree {
+
+body.littre {
+  font-family:Arial, sans-serif;
+}
+
+body.littre div.entry,
+body.littre div.entryFree {
   margin:2em 1ex;
   max-width:80ex;
 }
-.entry ol {
-  padding:0 0 0 2ex;
-  margin: 1ex 0 2em 0;
+
+div.entry p,
+div.entryFree p {
+  margin:0;
+}
+p.dictScrap {
+  text-indent:0;
+  text-align:left;
+  line-height:140%;
 }
 .entry ul {
-  margin-left:0;
-  padding-left:2ex;
+  margin:0 0 0 1em;
+  padding:0;
 }
-.sense1 b,
-.sense2 b {
-  float:left;
-  margin-right:0.5ex;
-}
+
 .sense1{
-  margin-bottom:1em;
-  margin-bottom:1ex;
+  margin:1.5em 0 1ex 0;
+  padding:0;
 }
 .sense2{
-  margin-left:1ex;
-  margin-bottom:1ex;
+  margin:0;
+  padding:0;
 }
-.entry li {
-  font-weight:bold;
-}
-.entry li * {
-  font-weight:normal;
-}
+
 .entry p {
   margin:0.5ex 0 0.2ex 0;
   text-indent:0;
   text-align:justify;
 }
-p.dictScrap {
-  margin:1ex 0 1ex 0;
-  text-indent:0;
-  text-align:left;
-  line-height:140%;
+
+blockquote {
+  border-left: 1px dotted #888888;
+  margin:0 0 0 1.7em;
+  line-height:105%;
+  padding:0.5ex 0 0.5ex 0;
 }
+.quote{
+  /*
+  font-style:italic;
+  */
+  padding: 0 0 0.5ex 0.8ex;
+  color:#4C4C4C;
+  font-family:verdana;
+  font-size:13px;
+}
+#contentbox a {
+  color:#96161A;
+}
+
+/*
 .entry blockquote {
   font-size:90%;
   line-height:110%;
@@ -62,31 +80,21 @@ p.dictScrap {
 	background:#EEEEEE;
 	background: -webkit-gradient(linear, left top, right top, from(#fff), to(#eee));
 	background: -moz-linear-gradient(left,  #fff,  #eee);
-	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=\'#ffffff\', endColorstr=\'#eeeeee\'); /*'*/
-}
-.entry ol blockquote {
-  margin-left:-2ex;
-}
-.entry ul blockquote {
-  margin-left:-5ex;
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=\'#ffffff\', endColorstr=\'#eeeeee\');
 }
 div.HIST {
 	background:#EEEEEE;
 	background: -webkit-gradient(linear, left top, right top, from(#fff), to(#eee));
 	background: -moz-linear-gradient(left,  #fff,  #eee);
-	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=\'#ffffff\', endColorstr=\'#eeeeee\'); /*'*/
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=\'#ffffff\', endColorstr=\'#eeeeee\');
   padding:2px 1px 2px 0.7ex;
   margin-top:1em;
 }
 div.HIST blockquote {
   background:transparent;
-  margin-left:5.6ex;
-}
-.quote {
-  text-indent:0;
-  /* font-family: serif; */
 }
 label {
   font-size:80%;
   float:left;
 }
+*/
