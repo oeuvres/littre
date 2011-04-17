@@ -36,7 +36,7 @@ org.apache.lucene.util.Version
 // réindexer
 // TODO, tester IP && (request.getRemoteAddr() == request.getLocalAddr())
 if ((request.getMethod().equals("POST") && request.getParameter("index") != null)  || indexDir.listFiles().length < 3 ) {
-	out.println("Indexation lancée (peut prendre plusieurs minutes)…");
+	out.println("Indexation lancée dans "+indexDir+" (peut prendre plusieurs minutes)…");
 	// vider les attributs de contexte où pourrait se trouver des searcher
 	for (Enumeration<String> e = application.getAttributeNames(); e.hasMoreElements();)
     application.removeAttribute(e.nextElement());
@@ -46,8 +46,8 @@ if ((request.getMethod().equals("POST") && request.getParameter("index") != null
 
 		%>
 		<form name="index" method="POST">
-			<input name="index" value="Indexer" type="submit"/>		
+			<input name="index" value="Indexer" type="submit"/>
 		</form>
-	
+
 	</body>
 </html>
