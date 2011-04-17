@@ -129,12 +129,6 @@
     <tt class="pron">(<xsl:apply-templates/>)</tt>
   </xsl:template>
   <!-- paragraphe générique -->
-  <xsl:template match="tei:etym">
-    <p>
-      <xsl:call-template name="class"/>
-      <xsl:apply-templates/>
-    </p>
-  </xsl:template>
   <xsl:template match="tei:dictScrap">
     <p>
       <xsl:call-template name="class"/>
@@ -184,7 +178,7 @@
   </xsl:template>
   <!-- -->
   <xsl:template match="tei:etym">
-    <p>
+    <p class="etym">
       <b class="label">Étymologie</b>
       <xsl:text> – </xsl:text>
       <xsl:apply-templates/>
