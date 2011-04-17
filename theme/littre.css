@@ -45,6 +45,7 @@ body.littre div.entryFree {
   text-align:left;
 }
 .entry p.dictScrap {
+  font-size:14px;
   margin:0;
   text-indent:0;
   text-align:left;
@@ -53,14 +54,14 @@ body.littre div.entryFree {
 blockquote {
   border-left: 1px dotted #888888;
   margin:0 0 0 1.25em; /* la bordure s'aligne avec les carreaux */
-  line-height:105%;
-  padding:0.5ex 0 0.5ex 0;
+  line-height:100%;
+  padding:0;
 }
 .quote {
-  /*
+  /* N'est-ce pas suffisant pour être repéré ?
   font-style:italic;
   */
-  padding: 0 0 0.5ex 0.8ex;
+  padding: 0.3ex 0 0.5ex 0.8ex; /* centré entre les réf biblio, ajusté selon le line-height */
   color:#4C4C4C;
   font-family:verdana;
   font-size:13px;
