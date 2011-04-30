@@ -156,7 +156,7 @@ var Sortable = {
     }
     // text
     else {
-      text=text.toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').replace(/ç/g, 'c').replace(/[éèêë]/g, 'e').replace(/[àâë]/g, 'a').replace(/[ïî]/g, 'a') +"__________";
+      text=text.toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').replace(/ç/g, 'c').replace(/[éèêë]/g, 'e').replace(/[àâä]/g, 'a').replace(/[ïî]/g, 'i') +"__________";
     }
     return text.substring(0, 10) ;
   },

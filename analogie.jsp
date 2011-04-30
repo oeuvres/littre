@@ -17,10 +17,7 @@ org.apache.lucene.util.Version
 "
 %>
 <%!
-/** Afficher le contenu d'une specif comme une table HTML */
-void specif_table(Specif specif, Writer out) {
-	
-}
+final static String CACHE_LUC="cnrtl_specif";
 %>
 <%
 // préfixe des liens de redirection
@@ -58,25 +55,26 @@ function go() {
     </form>
 <%
 }
+
 // le dossier de l'application (ici)
 File appDir=new File(application.getRealPath("/"));
 File indexDir=new File(appDir, "index");
-// réindexer
-if (request.getParameter("index") != null ) {
-	out.println("Indexation lancée (peut prendre quelques minutes)…");
-  application.setAttribute("searcher", null);
-  IndexEntry.index(new File(appDir, "xml"), indexDir, new File(appDir, "WEB-INF/lib/lexique.sqlite"));
+if (!indexDir.mkdirs()) {
+  indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "index");
+  indexDir.mkdirs();
 }
-if (request.getParameter("force") != null ) application.setAttribute("searcher", null);
+if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
 // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
-IndexSearcher searcher=(IndexSearcher)application.getAttribute("searcher");
+IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);
 // rien en cache, recharger
 if (searcher==null) {
   searcher=new IndexSearcher(
     IndexReader.open(FSDirectory.open(indexDir), true)
   );
-  application.setAttribute("searcher", searcher);
+  application.setAttribute(CACHE_LUC, searcher);
 }
+
+
 Query query;
 TopDocs results=null;
 Analyzer analyzer = Conf.getAnalyzer();
@@ -102,7 +100,6 @@ else {
   for (int i = 0; i < results.totalHits; i++) {
     refid=results.scoreDocs[i].doc;
     refdoc = searcher.doc(refid);
-    out.println(refdoc.get("html"));
     String lemme=refdoc.get("orth");
     out.println("<table>");
     out.println("<caption>"+lemme+" : cooccurrents</caption>");
@@ -123,6 +120,7 @@ else {
     }
     speQuote.html(out);
 		out.print("</td></tr>\n</table>");
+    out.println(refdoc.get("html"));
     // out.print("<textarea rows=\"20\" style=\"width:100%; \">");
     // out.print("</textarea>");
     

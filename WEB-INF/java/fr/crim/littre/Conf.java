@@ -48,7 +48,7 @@ public class Conf {
 	 * Un dossier avec des ressources
 	 */
 	public static File lib() {
-		if (lib != null) return lib();
+		if (lib != null) return lib;
 		lib=new File("WEB-INF/lib");
 		if (lib.exists()) return lib;
 		try {
@@ -140,9 +140,11 @@ public class Conf {
   	public TokenStream tokenStream(String fieldName, Reader reader) {
   		return new LexiqueFilter(
   			new StopFilter(true, 
-  			  new LetterTokenizer(reader), 
-  			  stopList(), true), 
-  			new File(lib, "lexique.sqlite"), 
+    			  new LetterTokenizer(reader), 
+    			  stopList(), 
+    			  true
+    			), 
+  			new File(lib(), "lexique.sqlite"), 
   			LexiqueFilter.LEMMAS_AND_FORM
   		);
   	}
@@ -211,8 +213,8 @@ public class Conf {
   }
 	public static void main(String[] args) throws IOException {
     // text to tokenize
-    final String text = "Je suis le petit lapin Bugs Bunny et je ne vais pas à Paris.";
-    Analyzer analyzer=new SimAnalyzer();
+    final String text = "Vous seule pouvez faire la joie et la douleur de ma vie ; je ne connais que vous, et hors de vous tout est loin de moi.";
+    Analyzer analyzer=new QuoteAnalyzer();
     System.out.println(text);
     new LuceneTagger().displayTokensWithPositions(analyzer, text);
   }
