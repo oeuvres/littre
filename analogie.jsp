@@ -92,22 +92,36 @@ if (results==null || results.totalHits == 0) {
 }
 else {
   String[] terms;
-  int refid, qid;
+  int refid, docid;
   int likeid;
-	Document refdoc, qdoc;
+	Document refdoc, qdoc, doc;
 	Document likedoc;
 	
   for (int i = 0; i < results.totalHits; i++) {
     refid=results.scoreDocs[i].doc;
     refdoc = searcher.doc(refid);
     String lemme=refdoc.get("orth");
+    query=new TermQuery(new Term("glose", lemme));
+    TopDocs hits=searcher.search(query, 10000);
+    out.println("<p>Se trouve aussi dans les gloses de : ");
+    for (int j = 0; j < hits.totalHits; j++) {
+      docid=hits.scoreDocs[j].doc;
+      doc = searcher.doc(docid);
+      if (j != 0) out.print(", ");
+      out.print("<a href=\"?q="+doc.get("id")+"\">"+doc.get("orth")+"</a>");
+    }
+    out.println(".</p>");
+    /*
     out.println("<table>");
     out.println("<caption>"+lemme+" : cooccurrents</caption>");
     out.println("<tr><th>Glose</th><th>Citations</th></tr>");
 		out.print("<tr><td valign=\"top\">");
+		*/
  	  Specif specif = new Specif(searcher.getIndexReader());
  	  specif.add(refid, "glose");
  	  specif.html(out);
+ 	  
+ 	  /*
 		out.print("</td><td valign=\"top\">");
     query=new TermQuery(new Term("quote", lemme));
     TopDocs quotes=searcher.search(query, 10000);
@@ -120,6 +134,7 @@ else {
     }
     speQuote.html(out);
 		out.print("</td></tr>\n</table>");
+		*/
     out.println(refdoc.get("html"));
     // out.print("<textarea rows=\"20\" style=\"width:100%; \">");
     // out.print("</textarea>");
