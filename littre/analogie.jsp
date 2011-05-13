@@ -71,6 +71,7 @@ if (searcher==null) {
   searcher=new IndexSearcher(
     IndexReader.open(FSDirectory.open(indexDir), true)
   );
+  searcher.setSimilarity(Conf.getSimilarity());
   application.setAttribute(CACHE_LUC, searcher);
 }
 
@@ -80,8 +81,12 @@ TopDocs results=null;
 Analyzer analyzer = Conf.getAnalyzer();
 while (true) {
   if ("".equals(q)) break;
+  query=new TermQuery(new Term("id", q));
+  results=searcher.search(query, 100);
+  if (results.totalHits != 0) break;
   query=(new QueryParser(Version.LUCENE_CURRENT, "orth", analyzer)).parse(q);
   results=searcher.search(query, 100);
+  out.println(query);
   if (results.totalHits != 0) break;
   query=(new QueryParser(Version.LUCENE_CURRENT, "form", analyzer)).parse(q);
   results=searcher.search(query, 100);

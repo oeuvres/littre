@@ -100,35 +100,17 @@ public class IndexEntry extends Thread {
 			conn = DriverManager.getConnection("jdbc:sqlite:" + dbFile);
 			stat = conn.prepareStatement("SELECT forme FROM lexique WHERE lemme=?");
 			index = new IndexWriter(FSDirectory.open(indexDir), Conf.getAnalyzer(), true, IndexWriter.MaxFieldLength.UNLIMITED);
+			// destruction brutale, on pourrait faire plus fin, par exemple par nom de fichier
+			index.deleteAll();
+			index.commit();
+			index.optimize();
 			littre_html = TransformerFactory.newInstance().newTransformer(
 					new StreamSource(new File(new File(xmlDir.getParentFile(), "transform"), "littre_html.xsl")));
 			littre_html.setOutputProperty(OutputKeys.INDENT, "yes");
 			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 			dbf.setNamespaceAware(true);
 			xdoms = dbf.newDocumentBuilder();
-		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (CorruptIndexException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (LockObtainFailedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (TransformerConfigurationException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (TransformerFactoryConfigurationError e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (ParserConfigurationException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
@@ -144,12 +126,15 @@ public class IndexEntry extends Thread {
 			}
 		});
 		try {
-		for (File f : files) {
-			System.out.println(f);
+			for (File f : files) {
+				System.out.print(f);
 				parse(f);
-		}
+				// envoyer régulièrement les résultats
+				System.out.print(" commit…");
+				index.commit();
+				System.out.println(" terminé.");
+			}
 			System.out.println("Optimisation de l'index…");
-			index.commit();
 			index.optimize();
 			index.close();
 		} catch (Exception e) {
@@ -309,12 +294,16 @@ public class IndexEntry extends Thread {
 					// ajouter un chanmp type de document (permettra par exemple d'indexer les citations séparément)
 					doc.add(new Field("type", "entry", Field.Store.NO, Field.Index.NOT_ANALYZED));
 					// remplacer le document dans l'index lucene
-					index.updateDocument(new Term("id", doc.get("id")), doc);
+					// index.updateDocument(new Term("id", doc.get("id")), doc);
+					// tout ayant été détruit, devrait aller plus vite
+					index.addDocument(doc);
+					/*
 					String entry=doc.get("id");
 					String s;
-					NodeList citList =dom.getElementsByTagName("cit");
-					for (int i = 0; i < citList.getLength(); i++) {
-						Element cit=(Element)citList.item(i);
+					NodeList nodeList;
+					nodeList =dom.getElementsByTagName("cit");
+					for (int i = 0; i < nodeList.getLength(); i++) {
+						Element cit=(Element)nodeList.item(i);
 						doc = new Document();
 						String citid=entry+"#cit"+i;
 						doc.add(new Field("id", citid, Field.Store.YES, Field.Index.NOT_ANALYZED));
@@ -328,6 +317,22 @@ public class IndexEntry extends Thread {
 						if (nl.getLength() > 0) doc.add(new Field("author", nl.item(0).getTextContent(), Field.Store.YES, Field.Index.ANALYZED));
 						index.updateDocument(new Term("id", doc.get("id")), doc);
 					}
+					*/
+					/*
+					nodeList =dom.getElementsByTagName("dictScrap");
+					for (int i = 0; i < nodeList.getLength(); i++) {
+						Element gloss=(Element)nodeList.item(i);
+						doc = new Document();
+						String glosid=entry+"#glose"+i;
+						doc.add(new Field("id", glosid, Field.Store.YES, Field.Index.NOT_ANALYZED));
+						doc.add(new Field("type", "gloss", Field.Store.NO, Field.Index.NOT_ANALYZED));
+						doc.add(new Field("entry", entry, Field.Store.YES, Field.Index.NOT_ANALYZED));
+						s=gloss.getTextContent().replaceAll("\\s+", " ").trim();
+						doc.add(new Field("gloss", s, Field.Store.YES, Field.Index.ANALYZED));
+						doc.add(new Field("glossSim", s, Field.Store.NO, Field.Index.ANALYZED, Field.TermVector.YES));
+						index.updateDocument(new Term("id", doc.get("id")), doc);
+					}
+					*/
 				}
 				stackpath.pop();
 			}
