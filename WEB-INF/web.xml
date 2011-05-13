@@ -12,5 +12,15 @@
     <servlet-name>definition</servlet-name>
     <url-pattern>/definition/*</url-pattern>
   </servlet-mapping>
+
+  <servlet>
+    <servlet-name>cnrtl</servlet-name>
+    <jsp-file>/cnrtl.jsp</jsp-file>
+  </servlet>
   
+  <servlet-mapping>
+    <servlet-name>cnrtl</servlet-name>
+    <url-pattern>/cnrtl/*</url-pattern>
+  </servlet-mapping>
+
 </web-app>

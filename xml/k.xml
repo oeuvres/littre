@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
 <?oxygen RNGSchema="littre.rng" type="xml"?>
+-->
 <?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
 <teiHeader>

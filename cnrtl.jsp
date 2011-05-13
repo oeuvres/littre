@@ -36,21 +36,24 @@ public static int count(String text, String occ) {
 }%>
 <%
 String q="";
-// utilisé pour écrire les liens
-String baseHref="";
+// base pour toucher les dossiers de ressources
+String baseHref="../../../../".substring(0, 3*(count(request.getRequestURI(), "/")-2));
+// lien pour avoir un mot
+String preHref="";
 // accès par adresse jsp
-if (request.getRequestURI().indexOf(".jsp") != -1 || request.getParameter("q") != null) {
+if (request.getRequestURI().indexOf(".jsp") != -1 ) {
 	if(request.getParameter("q") != null) q=request.getParameter("q");
-	baseHref="?q=";
+	preHref="?q=";
 }
 // accès par clean URI
 else {
 	if(request.getPathInfo() != null) q=request.getPathInfo().substring(1);
+
 }
-// verion affichabe du mot
+// version affichable du mot
 String mot=q.toUpperCase();
 // pour surcharge d'un préfixe de lien (comme WebService)
-if(request.getParameter("baseHref") != null) baseHref=request.getParameter("baseHref");
+if(request.getParameter("preHref") != null) preHref=request.getParameter("preHref");
 
 // si paramètre ?body=, pas d'emballage html
 if(request.getParameter("body") == null) {
@@ -64,11 +67,11 @@ if(request.getParameter("body") == null) {
 		<title><%= mot %> (Littré)</title>
 		<link type="image/x-icon" rel="icon" href="http://cnrtl.fr/favicon.ico"/>
 
-		<link type="text/css" rel="stylesheet" media="all" href="cnrtl/stylev24.css"/>
-		<link type="text/css" rel="stylesheet" media="all" href="cnrtl/portailv24.css"/>
-		<link type="text/css" rel="stylesheet" media="all" href="theme/littre.css"/>
-		<script type="text/javascript" src="cnrtl/overlib.js">//</script>
-		<script type="text/javascript" src="cnrtl/utilitiesv25.js">//</script>
+		<link type="text/css" rel="stylesheet" media="all" href="<%=baseHref%>theme-cnrtl/stylev24.css"/>
+		<link type="text/css" rel="stylesheet" media="all" href="<%=baseHref%>theme-cnrtl/portailv24.css"/>
+		<link type="text/css" rel="stylesheet" media="all" href="<%=baseHref%>theme/littre.css"/>
+		<script type="text/javascript" src="<%=baseHref%>theme-cnrtl/overlib.js">//</script>
+		<script type="text/javascript" src="<%=baseHref%>theme-cnrtl/utilitiesv25.js">//</script>
 	</head>
   <body onload="initPortail();">
 		<div id="wrap">
@@ -79,27 +82,27 @@ if(request.getParameter("body") == null) {
 					<area shape="rect" coords="780,35,825,80" href="http://www.cnrs.fr/" alt="Site du CNRS"/>
 					<area shape="rect" coords="830,35,890,80" href="http://www.atilf.fr/" alt="Site de l'ATILF"/>
 				</map>
-				<img src="cnrtl/bandeau.jpg" alt="" usemap="#Map"/>
+				<img src="<%=baseHref%>theme-cnrtl/bandeau.jpg" alt="" usemap="#Map"/>
 			</div>
 			<div id="nav">
 
 				<ul>
 					<li class="sep">&nbsp;</li>
-					<li><a href="http://cnrtl.fr/"><img src="cnrtl/PointR.jpg" alt=""/>Accueil</a></li>
+					<li><a href="http://cnrtl.fr/"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Accueil</a></li>
 					<li class="sep current_left">&nbsp;</li>
-					<li class="current"><a href="http://cnrtl.fr/portail/"><img src="cnrtl/PointR.jpg" alt=""/>Portail lexical</a></li>
+					<li class="current"><a href="http://cnrtl.fr/portail/"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Portail lexical</a></li>
 					<li class="sep current_right">&nbsp;</li>
-					<li><a href="http://cnrtl.fr/corpus/"><img src="cnrtl/PointR.jpg" alt=""/>Corpus</a></li>
+					<li><a href="http://cnrtl.fr/corpus/"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Corpus</a></li>
 
 					<li class="sep">&nbsp;</li>
-					<li><a href="http://cnrtl.fr/lexiques/"><img src="cnrtl/PointR.jpg" alt=""/>Lexiques</a></li>
+					<li><a href="http://cnrtl.fr/lexiques/"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Lexiques</a></li>
 					<li class="sep">&nbsp;</li>
-					<li><a href="http://cnrtl.fr/dictionnaires/"><img src="cnrtl/PointR.jpg" alt=""/>Dictionnaires</a></li>
+					<li><a href="http://cnrtl.fr/dictionnaires/"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Dictionnaires</a></li>
 					<li class="sep">&nbsp;</li>
-					<li><a href="http://cnrtl.fr/outils/"><img src="cnrtl/PointR.jpg" alt=""/>Outils</a></li>
+					<li><a href="http://cnrtl.fr/outils/"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Outils</a></li>
 					<li class="sep">&nbsp;</li>
 
-					<li><a href="mailto:contact@cnrtl.fr?subject=CNRTL"><img src="cnrtl/PointR.jpg" alt=""/>Contact</a></li>
+					<li><a href="mailto:contact@cnrtl.fr?subject=CNRTL"><img src="<%=baseHref%>theme-cnrtl/PointR.jpg" alt=""/>Contact</a></li>
 					<li class="sep">&nbsp;</li>
 				</ul>
 			</div>
@@ -111,32 +114,32 @@ if(request.getParameter("body") == null) {
 <table class="plugin_menu" cellpadding="0" cellspacing="0"><tbody><tr class="plugin_on" onclick="return sendRequest(0,'/definition/');">
 
 
-<td class="plugin_image"><img src="cnrtl/tlfi_icon.jpg" alt="" height="44" width="36"/></td><td><h1>TLFi</h1><h2></h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/tlfi_icon.jpg" alt="" height="44" width="36"/></td><td><h1>TLFi</h1><h2></h2></td>
 </tr>
 <tr onclick="return sendRequest(0,'/definition/academie9/');">
-<td class="plugin_image"><img src="cnrtl/aca9_icon.jpg" alt="" height="44" width="36"/></td><td><h1>Académie</h1><h2>9<sup>ème</sup> édition</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/aca9_icon.jpg" alt="" height="44" width="36"/></td><td><h1>Académie</h1><h2>9<sup>ème</sup> édition</h2></td>
 </tr>
 <tr onclick="return sendRequest(0,'/definition/academie8/');">
-<td class="plugin_image"><img src="cnrtl/aca8_icon.jpg" alt="" height="44" width="36"/></td><td><h1>Académie</h1><h2>8<sup>ème</sup> édition</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/aca8_icon.jpg" alt="" height="44" width="36"/></td><td><h1>Académie</h1><h2>8<sup>ème</sup> édition</h2></td>
 
 </tr>
 <tr onclick="return sendRequest(0,'/definition/academie4/');">
-<td class="plugin_image"><img src="cnrtl/aca4_icon.jpg" alt="" height="44" width="36"/></td><td><h1>Académie</h1><h2>4<sup>ème</sup> édition</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/aca4_icon.jpg" alt="" height="44" width="36"/></td><td><h1>Académie</h1><h2>4<sup>ème</sup> édition</h2></td>
 </tr>
 <tr onclick="return sendRequest(0,'/definition/francophonie/');">
-<td class="plugin_image"><img src="cnrtl/fran_icon.gif" alt="" height="44" width="36"/></td><td><h1>BDLP</h1><h2>Francophonie</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/fran_icon.gif" alt="" height="44" width="36"/></td><td><h1>BDLP</h1><h2>Francophonie</h2></td>
 </tr>
 <tr onclick="return sendRequest(0,'/definition/bhvf/');">
-<td class="plugin_image"><img src="cnrtl/atilf.gif" alt="" height="44" width="36"/></td><td><h1>BHVF</h1><h2>attestations</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/atilf.gif" alt="" height="44" width="36"/></td><td><h1>BHVF</h1><h2>attestations</h2></td>
 
 </tr>
 <tr onclick="return sendRequest(0,'/definition/dmf/');">
-<td class="plugin_image"><img src="cnrtl/dmf_cnrtl.jpg" alt="" height="44" width="36"/></td><td><h1>DMF</h1><h2>(1330 - 1500)</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/dmf_cnrtl.jpg" alt="" height="44" width="36"/></td><td><h1>DMF</h1><h2>(1330 - 1500)</h2></td>
 </tr>
 <tr onclick="return sendRequest(0,'/definition/ducange/');">
-<td class="plugin_image"><img src="cnrtl/ducange.png" alt="" height="44" width="36"/></td><td><h1>Du Cange</h1><h2>Moyen Âge</h2></td>
+<td class="plugin_image"><img src="<%=baseHref%>theme-cnrtl/ducange.png" alt="" height="44" width="36"/></td><td><h1>Du Cange</h1><h2>Moyen Âge</h2></td>
 </tr>
-</tbody></table></td><td width="100%">			
+</tbody></table></td><td width="100%">
 <div id="optionBox">
 				<form name="optionBoxForm" action="">
 					<div align="left">
@@ -357,10 +360,10 @@ if(request.getParameter("body") == null) {
 			</div>
 			<div class="box bottombox">
 
-				<div class="font_change" onclick="location.href='/definition/'"><img src="cnrtl/home.gif" alt="" title="Retour à la liste des formes" border="0" height="24" width="24"/></div>
-				<div class="font_change" onclick="printPage();"><img src="cnrtl/printer.jpg" alt="" title="Imprimer la page" border="0" height="25" width="25"/></div>
-				<div class="font_change" onclick="changeFontSize(+0.1);"><img src="cnrtl/font-inc.gif" alt="" title="Augmenter la taille du texte" border="0" height="25" width="25"/></div>
-				<div class="font_change" onclick="changeFontSize(-0.1);"><img src="cnrtl/font-dec.gif" alt="" title="Diminuer la taille du texte" border="0" height="25" width="25"/></div>
+				<div class="font_change" onclick="location.href='/definition/'"><img src="<%=baseHref%>theme-cnrtl/home.gif" alt="" title="Retour à la liste des formes" border="0" height="24" width="24"/></div>
+				<div class="font_change" onclick="printPage();"><img src="<%=baseHref%>theme-cnrtl/printer.jpg" alt="" title="Imprimer la page" border="0" height="25" width="25"/></div>
+				<div class="font_change" onclick="changeFontSize(+0.1);"><img src="<%=baseHref%>theme-cnrtl/font-inc.gif" alt="" title="Augmenter la taille du texte" border="0" height="25" width="25"/></div>
+				<div class="font_change" onclick="changeFontSize(-0.1);"><img src="<%=baseHref%>theme-cnrtl/font-dec.gif" alt="" title="Diminuer la taille du texte" border="0" height="25" width="25"/></div>
 				<form id="reqform" action="#" accept-charset="UTF-8">
 					<table border="0" cellpadding="0" cellspacing="1">
 						<tbody><tr>
@@ -454,7 +457,7 @@ if(request.getParameter("body") == null) {
       		break;
       	}
       	else if (i>0) out.println(", ");
-        out.print("<a href=\""+baseHref+doc.get("id")+"\">"+doc.get("orth")+"</a>");
+        out.print("<a href=\""+preHref+doc.get("id")+"\">"+doc.get("orth")+"</a>");
       }
     }
     out.print("<p class=\"credits\">Cette édition du <i>Littré</i> est réalisée par l’<a href=\"\">École des chartes</a> et l’<a href=\"http://crim.fr/master_2\">INALCO</a> (<a href=\"http://javacrim.sourceforge.net/littre/\">Crédits</a>).</p>");
@@ -470,26 +473,26 @@ if(request.getParameter("body") == null) {
 </div>
 			<div id="footer">
 				<div id="footerleft">
-	
+
 					<a href="http://www.lorraine.pref.gouv.fr/index.php?headingid=112">
-						<img src="cnrtl/Logo_Feder_Lorraine_h50.jpg" alt="" border="0"/>
+						<img src="<%=baseHref%>theme-cnrtl/Logo_Feder_Lorraine_h50.jpg" alt="" border="0"/>
 					</a>
 					<a href="http://www.tge-adonis.fr/">
-						<img src="cnrtl/logo-adonis.jpg" alt="" align="top" border="0"/>
+						<img src="<%=baseHref%>theme-cnrtl/logo-adonis.jpg" alt="" align="top" border="0"/>
 					</a>
 				</div>
 				<div id="footerright">
 					<a href="http://validator.w3.org/check?uri=referer">
-	
-						<img src="cnrtl/xhtml10.png" alt="Valid XHTML 1.0 Strict" border="0"/>
+
+						<img src="<%=baseHref%>theme-cnrtl/xhtml10.png" alt="Valid XHTML 1.0 Strict" border="0"/>
 					</a>
 					<a href="http://jigsaw.w3.org/css-validator/">
-						<img src="cnrtl/vcss.png" alt="Valid Cascading Style Sheet" border="0"/>
+						<img src="<%=baseHref%>theme-cnrtl/vcss.png" alt="Valid Cascading Style Sheet" border="0"/>
 					</a>
 				</div>
 				<p>
 					© 2009 - CNRTL<br/>
-	
+
 					44, avenue de la Libération BP 30687 54063 Nancy Cedex - France<br/>
 					Tél. : +33 3 83 96 21 76 - Fax : +33 3 83 97 24 56
 				</p>

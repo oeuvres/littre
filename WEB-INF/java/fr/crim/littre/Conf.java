@@ -101,12 +101,18 @@ public class Conf {
 	}
 	/**
 	 * Similarité adaptée à un dictionnaire
+	 * 
+	 * <ul>
+	 *   <li>docFreq - the number of documents which contain the term</li>
+   *   <li>numDocs - the total number of documents in the collection</li>
+   * </ul>
 	 */
 	@SuppressWarnings("serial")
 	static public class DicSim extends DefaultSimilarity {
 	  /* Pour diminuer l'effet de mots trop fréquents */
 	  public float idf(int docFreq, int numDocs) {
-	    return (float)(Math.log(numDocs/(double)(docFreq)) );
+	    return (float)((float)Math.log(1.0+docFreq)/(float)Math.log(1.0+numDocs));
+	  	// return (float)(Math.log(numDocs/(double)(docFreq)) );
 	  }
 	  
 	  /* avoid too much score for little docs */
