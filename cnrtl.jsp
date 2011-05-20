@@ -364,7 +364,7 @@ if(request.getParameter("body") == null) {
 				<div class="font_change" onclick="printPage();"><img src="<%=baseHref%>theme-cnrtl/printer.jpg" alt="" title="Imprimer la page" border="0" height="25" width="25"/></div>
 				<div class="font_change" onclick="changeFontSize(+0.1);"><img src="<%=baseHref%>theme-cnrtl/font-inc.gif" alt="" title="Augmenter la taille du texte" border="0" height="25" width="25"/></div>
 				<div class="font_change" onclick="changeFontSize(-0.1);"><img src="<%=baseHref%>theme-cnrtl/font-dec.gif" alt="" title="Diminuer la taille du texte" border="0" height="25" width="25"/></div>
-				<form id="reqform" action="#" accept-charset="UTF-8">
+				<form id="reqform" action="#" accept-charset="UTF-8"<%=(preHref!="?q=")?" onsubmit=\"this.action=this.q.value;\"":""%>>
 					<table border="0" cellpadding="0" cellspacing="1">
 						<tbody><tr>
 							<td><h2>Entrez une forme</h2></td>
