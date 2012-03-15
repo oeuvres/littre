@@ -19,7 +19,6 @@ import java.util.TreeSet;
 import javax.xml.namespace.QName;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.stream.XMLEventFactory;
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLEventWriter;
@@ -34,21 +33,15 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.TransformerFactoryConfigurationError;
 import javax.xml.xpath.XPathExpressionException;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.Term;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.store.LockObtainFailedException;
-import org.w3c.dom.Element;
-import org.w3c.dom.NodeList;
 
 /**
  * Indexation lucene des entrées Littré (dictionnaire en TEI)
@@ -57,6 +50,8 @@ import org.w3c.dom.NodeList;
  * @author frederic.glorieux@fictif.org
  */
 public class IndexEntry extends Thread {
+	/**  */
+	static private String glob=".*\\.xml";
 	/** Connexion sqlite au lexique */
 	static private Connection conn;
 	/** Requête préparée */
@@ -90,10 +85,12 @@ public class IndexEntry extends Thread {
 	/**
 	 * Constructeur pour passer des paramètres
 	 */
-	public IndexEntry(File aXmlDir, File aIndexDir, File aDbFile) {
+	public IndexEntry(File aXmlDir, File aIndexDir, File aDbFile, String pattern) {
 		xmlDir=aXmlDir;
 		indexDir=aIndexDir;
 		dbFile=aDbFile;
+		
+		if (pattern!= null) glob=pattern.replaceAll("([^.])([*?])", "$1.$2");
 		// connexion à la base du lexique
 		try {
 			Class.forName("org.sqlite.JDBC");
@@ -122,14 +119,13 @@ public class IndexEntry extends Thread {
 				+ ")");
 		File[] files = xmlDir.listFiles(new FilenameFilter() {
 			public boolean accept(File f, String s) {
-				return s.endsWith(".xml");
+				return s.matches(glob);
 			}
 		});
 		try {
 			for (File f : files) {
 				System.out.print(f);
 				parse(f);
-				// envoyer régulièrement les résultats
 				System.out.print(" commit…");
 				index.commit();
 				System.out.println(" terminé.");
@@ -158,10 +154,8 @@ public class IndexEntry extends Thread {
 	public static void parse(File xml) throws XMLStreamException, TransformerException, CorruptIndexException,
 			IOException, SQLException, XPathExpressionException {
 		stackpath = new Stack<String>();
-		XMLEventReader reader = xins.createXMLEventReader(
-		// contre la spec XML, le flux de caractère ne tient pas compte du
-		// prolog
-				new InputStreamReader(new FileInputStream(xml), "UTF-8"));
+		// contre la spec XML, le flux de caractère ne tient pas compte du prolog
+		XMLEventReader reader = xins.createXMLEventReader(new InputStreamReader(new FileInputStream(xml), "UTF-8"));
 		// événement XML courant
 		XMLEvent ev;
 		// élément XML courant
@@ -188,36 +182,36 @@ public class IndexEntry extends Thread {
 		// parcourir les événements
 		while (reader.hasNext()) {
 			ev = reader.nextEvent();
-			/*
-			 * début d'article – créer un nouveau document lucene – prendre
-			 * l'identifiant – démarrer l'enregistrement du XML
-			 */
+
+			// début d'élément, démarrer des captures
 			if (ev.isStartElement()) {
 				el = ev.asStartElement();
 				name = el.getName().getLocalPart();
+				// une pile qui garde en mémoire les noms d'éléments parents
+				// ne pas oublier de dépiler à la fermeture d'un élément
 				stackpath.push(name);
+				// début d'article, crére un document lucene, y ajouter son identifiant
+				// démarrer la capture des événements XML pour en faire un document DOM, qui sera ensuite transformé en html
 				if ("entry".equals(name)) {
 					// reprendre xml:id
 					id=el.getAttributeByName(XML_ID).getValue();
-					// créer le document lucene, démarrer la capture des événements XML pour en faire un document DOM
+					// créer le document lucene, 
 					doc = new Document();
 					doc.add(new Field("id", id, Field.Store.YES, Field.Index.NOT_ANALYZED));
+					// le dom pour capturer le XML
 					dom = xdoms.newDocument();
 					entry = xouts.createXMLEventWriter(new DOMResult(dom));
 					entry.add(xevs.createStartDocument("UTF-8", "1.0"));
-					
-					
 				}
-				if ("quote".equals(name)) {
-					quote = new StringBuilder();
-				}
-				if ("dictScrap".equals(name)) {
-					dictScrap = new StringBuilder();
-				}
+				// remise à 0 du buffer de capture d'une citation
+				else if ("quote".equals(name)) quote.setLength(0);
+				// remise à 0 du buffer de capture d'une glose
+				else if ("dictScrap".equals(name)) dictScrap.setLength(0);
 			}
-			// ajouter l'événement au dom d'article en cours, après sa création
-			if (entry != null)
-				entry.add(ev);
+			// quel que soit l'événement XML, l'ajouter au dom d'article en cours, mais après sa création
+			if (entry != null) entry.add(ev);
+			
+			// en cas de nœud texte, alimenter les buffers texte
 			if (ev.isCharacters()) {
 				text = ev.asCharacters().getData();
 				// ajouter à la citation en cours
@@ -225,9 +219,7 @@ public class IndexEntry extends Thread {
 				if (dictScrap != null) dictScrap.append(text);
 			}
 
-			/*
-			 * fin d'article – finir l'enregistrement du dom XML – transformer en html
-			 */
+			// Intercepter ici les éléments fermants, pour constituer les champs à indexer
 			if (ev.isEndElement()) {
 				// nom de l'élément
 				name = ev.asEndElement().getName().getLocalPart();
@@ -235,14 +227,16 @@ public class IndexEntry extends Thread {
 				if ("orth".equals(name)) {
 					// formes
 					orth = text.toLowerCase();
+					// il est arrivé à un moment que les vedettes étaient mal balisées, d’ou cette virgule
+					// TODO vérifier si c’est encore nécessaire
 					pos=orth.indexOf(',');
 					if (pos > 0) orth=orth.substring(0, pos);
 					pos=orth.indexOf(' ');
 					if (pos > 0) orth=orth.substring(0, pos);
 					doc.add(new Field("orth", orth, Field.Store.YES, Field.Index.ANALYZED));
-					// une version de la vedette pour un “tu veux dire…”
-					doc.add(new Field("orthGram", orth, Field.Store.NO, Field.Index.ANALYZED_NO_NORMS));
-					// chercher la forme dans la base
+					
+					// Ce code ajoute les formes fléchies issues de lexique.org à la vedette  
+					// cela permet d'accéder à un article par une forme fléchie
 					stat.setString(1, orth);
 					ResultSet rs = stat.executeQuery();
 					// dédoublonner les formes
@@ -253,30 +247,17 @@ public class IndexEntry extends Thread {
 					if (uniq.size() == 0) {
 						// lemme inconu de lexique.org, ajouter le lemme (fléchir ?)
 						doc.add(new Field("form", orth, Field.Store.NO, Field.Index.ANALYZED));
-						// ne pas ajouter les ngram des formes, survalorise les verbes
+						// laisser une trace dans le log des formes inconnues
 						if (unknown != null) unknown.println(orth);
 					}
 					else {
 						for (String s : uniq) {
 							doc.add(new Field("form", s, Field.Store.NO, Field.Index.ANALYZED));
-							// ne pas ajouter les ngram des formes, survalorise les verbes
 						}
 					}
 				}
-				// citations, autre approche, un document par citation, pour amener toutes les citation comportan un mot
-				if ("quote".equals(name)) {
-					// doc.add(new Field("quote", quote.toString(), Field.Store.NO, Field.Index.ANALYZED));
-					// doc.add(new Field("quoteSim", quote.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
-					quote = null;
-				}
-				// gloses (pour similarités)
-				if ("dictScrap".equals(name)) {
-					doc.add(new Field("gloss", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED));
-					doc.add(new Field("glose", dictScrap.toString(), Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
-					dictScrap = null;
-				}
 				// fin d'article, transformer le document XML capturé en HTML
-				if ("entry".equals(name)) {
+				else if ("entry".equals(name)) {
 					entry.add(xevs.createEndDocument());
 					entry.flush();
 					entry.close();
@@ -284,12 +265,7 @@ public class IndexEntry extends Thread {
 					html=new StringWriter(); 
 					littre_html.transform(new DOMSource(dom), new StreamResult(html));
 					entry = null;
-					// pour les simililarités
-					/*
-					text=xp.evaluate("string(/)", dom.getDocumentElement());
-					doc.add(new Field("text", text,  Field.Store.NO, Field.Index.ANALYZED));
-					// doc.add(new Field("textSim", text,  Field.Store.NO, Field.Index.ANALYZED,  Field.TermVector.YES));
-					*/
+					// html de l'article, stocké mais pas analysé
 					doc.add(new Field("html", html.toString(), Field.Store.YES, Field.Index.NO));
 					// ajouter un chanmp type de document (permettra par exemple d'indexer les citations séparément)
 					doc.add(new Field("type", "entry", Field.Store.NO, Field.Index.NOT_ANALYZED));
@@ -297,43 +273,9 @@ public class IndexEntry extends Thread {
 					// index.updateDocument(new Term("id", doc.get("id")), doc);
 					// tout ayant été détruit, devrait aller plus vite
 					index.addDocument(doc);
-					/*
-					String entry=doc.get("id");
-					String s;
-					NodeList nodeList;
-					nodeList =dom.getElementsByTagName("cit");
-					for (int i = 0; i < nodeList.getLength(); i++) {
-						Element cit=(Element)nodeList.item(i);
-						doc = new Document();
-						String citid=entry+"#cit"+i;
-						doc.add(new Field("id", citid, Field.Store.YES, Field.Index.NOT_ANALYZED));
-						doc.add(new Field("type", "quote", Field.Store.NO, Field.Index.NOT_ANALYZED));
-						doc.add(new Field("entry", entry, Field.Store.YES, Field.Index.NOT_ANALYZED));
-						s=cit.getElementsByTagName("quote").item(0).getTextContent().replaceAll("\\s+", " ").trim();
-						doc.add(new Field("quote", s, Field.Store.YES, Field.Index.ANALYZED));
-						doc.add(new Field("quoteSim", s, Field.Store.NO, Field.Index.ANALYZED, Field.TermVector.YES));
-						doc.add(new Field("bibl", cit.getElementsByTagName("bibl").item(0).getTextContent().replaceAll("\\s+", " ").trim(), Field.Store.YES, Field.Index.ANALYZED));
-						NodeList nl=cit.getElementsByTagName("author");
-						if (nl.getLength() > 0) doc.add(new Field("author", nl.item(0).getTextContent(), Field.Store.YES, Field.Index.ANALYZED));
-						index.updateDocument(new Term("id", doc.get("id")), doc);
-					}
-					*/
-					/*
-					nodeList =dom.getElementsByTagName("dictScrap");
-					for (int i = 0; i < nodeList.getLength(); i++) {
-						Element gloss=(Element)nodeList.item(i);
-						doc = new Document();
-						String glosid=entry+"#glose"+i;
-						doc.add(new Field("id", glosid, Field.Store.YES, Field.Index.NOT_ANALYZED));
-						doc.add(new Field("type", "gloss", Field.Store.NO, Field.Index.NOT_ANALYZED));
-						doc.add(new Field("entry", entry, Field.Store.YES, Field.Index.NOT_ANALYZED));
-						s=gloss.getTextContent().replaceAll("\\s+", " ").trim();
-						doc.add(new Field("gloss", s, Field.Store.YES, Field.Index.ANALYZED));
-						doc.add(new Field("glossSim", s, Field.Store.NO, Field.Index.ANALYZED, Field.TermVector.YES));
-						index.updateDocument(new Term("id", doc.get("id")), doc);
-					}
-					*/
 				}
+				// citations, une bonne approche pourrait être de créer un document par citation
+				// gloses ?
 				stackpath.pop();
 			}
 		}
@@ -349,17 +291,18 @@ public class IndexEntry extends Thread {
 	 */
 	public static void main(String[] args) throws Exception {
 		File indexDir = new File("index");
-		if (args.length > 0)
-			indexDir = new File(args[0]);
+		if (args.length > 0) indexDir = new File(args[0]);
 		File xmlDir = new File("xml");
-		if (args.length > 1)
-			xmlDir = new File(args[1]);
+		if (args.length > 1) xmlDir = new File(args[1]);
 		File lexique = new File("WEB-INF/lib/lexique.sqlite");
-		if (args.length > 2)
-			lexique = new File(args[2]);
+		if (args.length > 2) lexique = new File(args[2]);
+		String glob=null;
+		// pour test rapide
+		// glob="k.xml";
+		if (args.length > 3) glob = args[2];
 		// ouvrir un fichier où écrire les formes inconnues
 		unknown=new PrintStream(new File("unknown.txt"), "UTF-8");
-		Thread task=new IndexEntry(xmlDir, indexDir, lexique);
+		Thread task=new IndexEntry(xmlDir, indexDir, lexique, glob);
 		task.run();
 		unknown.close();
 	}
