@@ -6,7 +6,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
-import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
@@ -14,17 +13,13 @@ import java.util.Set;
 
 import lia.analysis.LuceneTagger;
 
-import org.apache.commons.codec.language.RefinedSoundex;
 import org.apache.lucene.analysis.ASCIIFoldingFilter;
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.GramcharFilter;
 import org.apache.lucene.analysis.KeywordTokenizer;
 import org.apache.lucene.analysis.LetterTokenizer;
-import org.apache.lucene.analysis.LexiqueFilter;
 import org.apache.lucene.analysis.LowerCaseFilter;
 import org.apache.lucene.analysis.LowerCaseTokenizer;
 import org.apache.lucene.analysis.PerFieldAnalyzerWrapper;
-import org.apache.lucene.analysis.PhoneticFilter;
 import org.apache.lucene.analysis.SimpleAnalyzer;
 import org.apache.lucene.analysis.StopFilter;
 import org.apache.lucene.analysis.TokenStream;
@@ -38,29 +33,14 @@ import org.apache.lucene.util.Version;
  *
  */
 public class Conf {
+	/** Permet de retrouver un dossier par défaut */
+	public static File WEB_INF=new File(Conf.class.getResource("Conf.class").getFile()).getParentFile().getParentFile().getParentFile().getParentFile().getParentFile();
 	/** Version de lucene utilisée */
 	static Version version=Version.LUCENE_35;
 	/** Un set de mots vides tout chargés */
 	static Set<String> stopList;
 	/** une chemin de fichier vers le dossier lib */
 	static File lib;
-	/**
-	 * Où trouver le dossier lib ?
-	 */
-	/**
-	 * Un dossier avec des ressources
-	 */
-	public static File lib() {
-		if (lib != null) return lib;
-		lib=new File("WEB-INF/lib");
-		if (lib.exists()) return lib;
-		try {
-			lib=new File(new File( Conf.class.getProtectionDomain().getCodeSource().getLocation().toURI()).getParentFile().getParentFile().getParentFile().getParentFile().getParentFile(), "lib");
-		} catch (URISyntaxException e) {
-			e.printStackTrace();
-		}
-		return lib;
-	}
 	/**
 	 * Charger les mots vide
 	 * @throws IOException 
@@ -69,7 +49,7 @@ public class Conf {
 		if (stopList != null) return stopList;
 		Properties props = new Properties();
 		try {
-			InputStreamReader isr= new InputStreamReader(new FileInputStream(new File(lib(), "fr.stop")), "UTF-8");
+			InputStreamReader isr= new InputStreamReader(new FileInputStream(new File(WEB_INF, "lib/fr.stop")), "UTF-8");
 			props.load(isr);
 			isr.close();
 		} catch (IOException e) {
@@ -87,7 +67,7 @@ public class Conf {
 		if (stopList != null) return stopList;
 		Properties props = new Properties();
 		try {
-			InputStreamReader isr= new InputStreamReader(new FileInputStream(new File(lib(), "fr.stop")), "UTF-8");
+			InputStreamReader isr= new InputStreamReader(new FileInputStream(new File(WEB_INF, "lib/fr.stop")), "UTF-8");
 			props.load(isr);
 			isr.close();
 		} catch (IOException e) {
@@ -100,31 +80,7 @@ public class Conf {
 	 * Similarité, calcul 
 	 */
 	public static Similarity getSimilarity() {
-		return new DicSim();
-	}
-	/**
-	 * Similarité adaptée à un dictionnaire
-	 * 
-	 * <ul>
-	 *   <li>docFreq - the number of documents which contain the term</li>
-	 *   <li>numDocs - the total number of documents in the collection</li>
-	 * </ul>
-	 */
-	@SuppressWarnings("serial")
-	static public class DicSim extends DefaultSimilarity {
-		/* Pour diminuer l'effet de mots trop fréquents */
-		@Override
-		public float idf(int docFreq, int numDocs) {
-			return ((float)Math.log(1.0+docFreq)/(float)Math.log(1.0+numDocs));
-			// return (float)(Math.log(numDocs/(double)(docFreq)) );
-		}
-
-		/* avoid too much score for little docs */
-		@Override
-		public float tf(float freq) {
-			return freq; // (float)Math.sqrt(freq);
-		} 
-
+		return new DefaultSimilarity();
 	}
 	/**
 	 * Envoi le même analyseur pour l'indexation et la recherche
@@ -147,14 +103,11 @@ public class Conf {
 	public static class TextAnalyzer extends Analyzer { 
 		@Override
 		public TokenStream tokenStream(String fieldName, Reader reader) {
-			return new LexiqueFilter(
-							new StopFilter(true, 
-											new LetterTokenizer(reader), 
-											stopList(), 
-											true
-							), 
-							new File(lib(), "lexique.sqlite"), 
-							LexiqueFilter.LEMMAS_AND_FORM
+			return new StopFilter(
+				version,
+				new LetterTokenizer(version, reader), 
+				stopList(), 
+				true
 			);
 		}
 	}
@@ -169,28 +122,14 @@ public class Conf {
 	public static class OrthAnalyzer extends Analyzer { 
 		@Override
 		public TokenStream tokenStream(String fieldName, Reader reader) {
-			return  new ASCIIFoldingFilter( new LowerCaseFilter(new KeywordTokenizer(reader)));
-		}
-	}
-	/** Analyseur phonétique américain */
-	public static class SoundAnalyzer extends Analyzer {
-		@Override
-		public TokenStream tokenStream(String fieldName, Reader reader) {
-			return new PhoneticFilter(new ASCIIFoldingFilter (new LetterTokenizer(reader)), new RefinedSoundex(), false);
-		}
-	}
-	/** Un analyseur qui indexe des motifs de lettres */
-	public static class ChargramAnalyzer extends Analyzer { 
-		@Override
-		public TokenStream tokenStream(String fieldName, Reader reader) {
-			return new GramcharFilter( new ASCIIFoldingFilter( new LowerCaseTokenizer(reader)));
+			return  new ASCIIFoldingFilter( new LowerCaseFilter(version, new KeywordTokenizer(reader)));
 		}
 	}
 	/** Un analyseur pour désaccentuer */
 	public static class AsciiAnalyzer extends Analyzer { 
 		@Override
 		public TokenStream tokenStream(String fieldName, Reader reader) {
-			return new ASCIIFoldingFilter( new LowerCaseTokenizer(reader));
+			return new ASCIIFoldingFilter( new LowerCaseTokenizer(version, reader));
 		}
 	}
 	public static void main(String[] args) throws IOException {
