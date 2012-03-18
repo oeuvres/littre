@@ -7,7 +7,9 @@ import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
+import java.io.PrintWriter;
 import java.io.StringWriter;
+import java.io.Writer;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -16,6 +18,7 @@ import java.sql.SQLException;
 import java.util.Stack;
 import java.util.TreeSet;
 
+import javax.servlet.jsp.JspWriter;
 import javax.xml.namespace.QName;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -79,20 +82,42 @@ public class IndexEntry extends Thread {
 	/** Unknown */
 	static PrintStream unknown;
 	/** Dossier à indexer */
-	static File xmlDir;
+	static File xmlDir=new File(Conf.WEB_INF.getParentFile().getParentFile(), "xml");
 	/** Dossier de l'index */
-	static File indexDir;
+	static File indexDir=new File(Conf.WEB_INF, "index");
 	/** Base sqlite du lexique */
-	static File dbFile;
+	static File dbFile=new File(Conf.WEB_INF, "lib/lexique.sqlite");
+	/** Où écrire */
+	static PrintWriter out=new PrintWriter(System.out);
+	/**
+	 * Constructeur avec valeurs par défaut
+	 */
+	public IndexEntry() {
+		this(null, null, null, null);
+	}
+	/**
+	 * Constructeur rediriger un flux Servlet
+	 */
+	public IndexEntry(JspWriter out) {
+		this(new PrintWriter(out), null, null, null);
+	}
+	/**
+	 * Constructeur rediriger le flux
+	 */
+	public IndexEntry(PrintWriter out) {
+		this(out, null, null, null);
+	}
 	/**
 	 * Constructeur pour passer des paramètres
 	 */
-	public IndexEntry(String aGlob, File aXmlDir, File aIndexDir, File aDbFile) {
-		xmlDir=aXmlDir;
-		indexDir=aIndexDir;
-		dbFile=aDbFile;
+	public IndexEntry(PrintWriter aOut, File aXmlDir, File aIndexDir, File aDbFile) {
+		if (aOut!= null) out=aOut;
+		// Si on voulais rendre le filtrage de fichier configurable
+		// aGlob.replaceAll("([^.])([*?])", "$1.$2");
+		if (aXmlDir != null) xmlDir=aXmlDir;
+		if (aIndexDir != null) indexDir=aIndexDir;
+		if (aDbFile != null) dbFile=aDbFile;
 		
-		if (aGlob!= null) glob=aGlob.replaceAll("([^.])([*?])", "$1.$2");
 		// connexion à la base du lexique
 		try {
 			Class.forName("org.sqlite.JDBC");
@@ -118,7 +143,7 @@ public class IndexEntry extends Thread {
 	@Override
 	public void run() {
 		// un petit message quand ça commence
-		System.out.println(xmlDir.getAbsolutePath() + " > " + indexDir.getAbsolutePath() + " (" + dbFile.getAbsolutePath()
+		out.println(xmlDir.getAbsolutePath() + " > " + indexDir.getAbsolutePath() + " (" + dbFile.getAbsolutePath()
 				+ ")");
 		File[] files = xmlDir.listFiles(new FilenameFilter() {
 			public boolean accept(File f, String s) {
@@ -127,20 +152,20 @@ public class IndexEntry extends Thread {
 		});
 		try {
 			for (File f : files) {
-				System.out.print(f);
+				out.print(f);
 				parse(f);
-				System.out.print(" commit…");
+				out.print(" commit…");
 				index.commit();
-				System.out.println(" terminé.");
+				out.println(" terminé.");
 			}
 			// déprécié, toujours utile ?
-			System.out.println("Optimisation de l'index…");
+			out.println("Optimisation de l'index…");
 			index.optimize();
 			index.close();
 		} catch (Exception e) {
 			e.printStackTrace();
 		} 
-		System.out.println("Indexation terminée.");
+		out.println("Indexation terminée.");
 	}
 
 	/**
@@ -294,21 +319,11 @@ public class IndexEntry extends Thread {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		String glob=null;
-		// pour test rapide
-		// glob="k.xml";
-		if (args.length > 0) glob = args[0];
-		// Valeurs par défaut reposant sur une compilation par fichier class
-		File webInf=Conf.WEB_INF;
-		File xmlDir = new File(webInf.getParentFile().getParentFile(), "xml");
-		if (args.length > 1) xmlDir = new File(args[1]);
-		File indexDir = new File(webInf, "index");
-		if (args.length > 2) indexDir = new File(args[2]);
-		File lexique = new File(webInf, "lib/lexique.sqlite");
-		if (args.length > 3) lexique = new File(args[3]);
+		Thread task;
+		if (args.length == 3) task=new IndexEntry(null, new File(args[0]), new File(args[1]), new File(args[2]));
+		else task=new IndexEntry();
 		// ouvrir un fichier où écrire les formes inconnues
 		unknown=new PrintStream(new File("unknown.txt"), "UTF-8");
-		Thread task=new IndexEntry(glob, xmlDir, indexDir, lexique);
 		task.run();
 		unknown.close();
 	}

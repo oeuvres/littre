@@ -1,0 +1,15 @@
+Projet Littré
+
+Cette distribution est pour l’instant principalement orienté
+vers une application Servlet.
+
+Démarrage minimal, brancher un moteur de servlet vers le
+dossier "web-app" (par exemple avec des fichiers de contexte)
+visiter la page 
+http://{littre}/admin.jsp
+puis quand l'index est constitué
+http://{littre}/
+
+Il est possible d'indexer en ligne de commande en exécutant la classe
+fr.crim.littre.IndexEntry
+(dans WEB-INF/classes après compilation de WEB-INF/java)
