@@ -41,7 +41,9 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.util.Version;
 
 /**
  * Indexation lucene des entrées Littré (dictionnaire en TEI)
@@ -85,22 +87,23 @@ public class IndexEntry extends Thread {
 	/**
 	 * Constructeur pour passer des paramètres
 	 */
-	public IndexEntry(File aXmlDir, File aIndexDir, File aDbFile, String pattern) {
+	public IndexEntry(String aGlob, File aXmlDir, File aIndexDir, File aDbFile) {
 		xmlDir=aXmlDir;
 		indexDir=aIndexDir;
 		dbFile=aDbFile;
 		
-		if (pattern!= null) glob=pattern.replaceAll("([^.])([*?])", "$1.$2");
+		if (aGlob!= null) glob=aGlob.replaceAll("([^.])([*?])", "$1.$2");
 		// connexion à la base du lexique
 		try {
 			Class.forName("org.sqlite.JDBC");
 			conn = DriverManager.getConnection("jdbc:sqlite:" + dbFile);
 			stat = conn.prepareStatement("SELECT forme FROM lexique WHERE lemme=?");
-			index = new IndexWriter(FSDirectory.open(indexDir), Conf.getAnalyzer(), true, IndexWriter.MaxFieldLength.UNLIMITED);
+			
+			IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_35, Conf.getAnalyzer());
+			index = new IndexWriter(FSDirectory.open(indexDir), conf);
 			// destruction brutale, on pourrait faire plus fin, par exemple par nom de fichier
 			index.deleteAll();
 			index.commit();
-			index.optimize();
 			littre_html = TransformerFactory.newInstance().newTransformer(
 					new StreamSource(new File(new File(xmlDir.getParentFile(), "transform"), "littre_html.xsl")));
 			littre_html.setOutputProperty(OutputKeys.INDENT, "yes");
@@ -130,6 +133,7 @@ public class IndexEntry extends Thread {
 				index.commit();
 				System.out.println(" terminé.");
 			}
+			// déprécié, toujours utile ?
 			System.out.println("Optimisation de l'index…");
 			index.optimize();
 			index.close();
@@ -290,19 +294,21 @@ public class IndexEntry extends Thread {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		File indexDir = new File("index");
-		if (args.length > 0) indexDir = new File(args[0]);
-		File xmlDir = new File("xml");
-		if (args.length > 1) xmlDir = new File(args[1]);
-		File lexique = new File("WEB-INF/lib/lexique.sqlite");
-		if (args.length > 2) lexique = new File(args[2]);
 		String glob=null;
 		// pour test rapide
 		// glob="k.xml";
-		if (args.length > 3) glob = args[2];
+		if (args.length > 0) glob = args[0];
+		// Valeurs par défaut reposant sur une compilation par fichier class
+		File webInf=Conf.WEB_INF;
+		File xmlDir = new File(webInf.getParentFile().getParentFile(), "xml");
+		if (args.length > 1) xmlDir = new File(args[1]);
+		File indexDir = new File(webInf, "index");
+		if (args.length > 2) indexDir = new File(args[2]);
+		File lexique = new File(webInf, "lib/lexique.sqlite");
+		if (args.length > 3) lexique = new File(args[3]);
 		// ouvrir un fichier où écrire les formes inconnues
 		unknown=new PrintStream(new File("unknown.txt"), "UTF-8");
-		Thread task=new IndexEntry(xmlDir, indexDir, lexique, glob);
+		Thread task=new IndexEntry(glob, xmlDir, indexDir, lexique);
 		task.run();
 		unknown.close();
 	}

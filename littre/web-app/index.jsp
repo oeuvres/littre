@@ -82,11 +82,13 @@ function go() {
     	}
     // le dossier de l'application (ici)
     File appDir=new File(application.getRealPath("/"));
-    File indexDir=new File(appDir, "index");
+    File indexDir=new File(appDir, "WEB-INF/index");
+    /* encore utile ?
     if (!indexDir.mkdirs()) {
-      indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "index");
+      indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "WEB-INF/index");
       indexDir.mkdirs();
     }
+    */
     if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
     // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
     IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);

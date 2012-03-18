@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="web-app/WEB-INF/lib/lucene-core-3.5.0.jar"/>
 	<classpathentry kind="lib" path="web-app/WEB-INF/lib/lucene-queries-3.5.0.jar"/>
 	<classpathentry kind="lib" path="web-app/WEB-INF/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="web-app/WEB-INF/lib/javacrim-lucene.jar"/>
 	<classpathentry kind="output" path="web-app/WEB-INF/classes"/>
 </classpath>
