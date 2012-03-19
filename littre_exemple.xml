@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Exemple de fichier contexte pour l'application Littré -->
+<Context docBase="[chemin complet vers le dossier]/littre/web-app"
+    privileged="true" allowLinking="true" crossContext="true" reloadable="true" path="/littre">
+</Context>

@@ -1,10 +1,10 @@
 Projet Littré
 
-Cette distribution est pour l’instant principalement orienté
+Cette distribution est pour l’instant principalement orientée
 vers une application Servlet.
 
 Démarrage minimal, brancher un moteur de servlet vers le
-dossier "web-app" (par exemple avec des fichiers de contexte)
+dossier "web-app" (par exemple avec un fichier contexte, cf. littre_exemple.xml)
 visiter la page 
 http://{littre}/admin.jsp
 puis quand l'index est constitué
@@ -13,3 +13,8 @@ http://{littre}/
 Il est possible d'indexer en ligne de commande en exécutant la classe
 fr.crim.littre.IndexEntry
 (dans WEB-INF/classes après compilation de WEB-INF/java)
+
+Note : Pour utiliser le projet dans Eclipse, il est nécessaire de déclarer la
+constante TOMCAT_HOME (Build path du projet -> onglet Libraries -> bouton
+Add Variable... -> Configure variables...) et d'y associer le chemin de votre
+installation de Tomcat
