@@ -80,74 +80,83 @@ function go() {
     
 <%
     	}
-    // le dossier de l'application (ici)
-    File appDir=new File(application.getRealPath("/"));
-    File indexDir=new File(appDir, "WEB-INF/index");
-    /* encore utile ?
-    if (!indexDir.mkdirs()) {
-      indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "WEB-INF/index");
-      indexDir.mkdirs();
-    }
-    */
-    if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
-    // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
-    IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);
-    // rien en cache, recharger
-    if (searcher==null) {
-      searcher=new IndexSearcher(
-        IndexReader.open(FSDirectory.open(indexDir), true)
-      );
-      application.setAttribute(CACHE_LUC, searcher);
-    }
-    Query query;
-    TopDocs results=null;
-    Analyzer analyzer = Conf.getAnalyzer();
-    Document doc;
-    // chercher un mot
-    // écriture un peu particulière évitant trop de tests imbriqués
-    // ! ne pas oublier de sortir
-    while (true) {
-      if ("".equals(q)) break;
-      query=(new QueryParser(Version.LUCENE_CURRENT, "id", analyzer)).parse(q);
-      results=searcher.search(query, 100);
-      if (results.totalHits != 0) break;
-      query=(new QueryParser(Version.LUCENE_CURRENT, "orth", analyzer)).parse(q);
-      results=searcher.search(query, 100);
-      if (results.totalHits != 0) break;
-      query=(new QueryParser(Version.LUCENE_CURRENT, "form", analyzer)).parse(q);
-      results=searcher.search(query, 100);
-      if (results.totalHits != 0) break;
+                // le dossier de l'application (ici)
+                File appDir=new File(application.getRealPath("/"));
+                File indexDir=new File(appDir, "WEB-INF/index");
+                /* encore utile ?
+                if (!indexDir.mkdirs()) {
+                  indexDir=new File(new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI()), "WEB-INF/index");
+                  indexDir.mkdirs();
+                }
+                */
+                if (request.getParameter("force") != null ) application.setAttribute(CACHE_LUC, null);
+                // charger un searcher, mis en cache pour éviter de le rouvrir à chaque fois
+                IndexSearcher searcher=(IndexSearcher)application.getAttribute(CACHE_LUC);
+                // rien en cache, recharger
+                if (searcher==null) {
+                  searcher=new IndexSearcher(
+                    IndexReader.open(FSDirectory.open(indexDir), true)
+                  );
+                  application.setAttribute(CACHE_LUC, searcher);
+                }
+                Query query;
+                TopDocs results=null;
+                Analyzer analyzer = new LittreAnalyzer(LittreAnalyzer.SEARCH);
+                Document doc;
+                // chercher un mot
+                // écriture un peu particulière évitant trop de tests imbriqués
+                // ! ne pas oublier de sortir
+                while (true) {
+                  if ("".equals(q)) break;
+                  query=(new QueryParser(LittreAnalyzer.version, "id", analyzer)).parse(q);
+                  results=searcher.search(query, 100);
+                  if (results.totalHits != 0) break;
+                  query=(new QueryParser(LittreAnalyzer.version, "orth", analyzer)).parse(q);
+                  results=searcher.search(query, 100);
+                  if (results.totalHits != 0) break;
+                  query=(new QueryParser(LittreAnalyzer.version, "form", analyzer)).parse(q);
+                  results=searcher.search(query, 100);
+                  if (results.totalHits != 0) break;
 
-      /* Intéressant
-      q=q.replace("(s|aient|oient|oit|ait|ons|ont)$", "");
-      query=(new QueryParser(Version.LUCENE_CURRENT, "orthGram", analyzer)).parse(q);
-      results=searcher.search(query, 100);
-    	*/
-      break;
-    }
-    if (results==null || results.totalHits == 0) {
-      out.println("<p>Pas de résultats</p>");
-    }
-    else if (results.totalHits < 5) {
-      for (int i = 0; i < results.totalHits; i++) {
-    	  doc = searcher.doc(results.scoreDocs[i].doc);
-    	  out.println(doc.get("html"));
-      }
-    }
-    else {
-    	float score=results.scoreDocs[0].score;
-      for (int i = 0; i < results.totalHits; i++) {
-        doc = searcher.doc(results.scoreDocs[i].doc);
-      	if ((results.scoreDocs[i].score / score) < 0.8) {
-      		out.println(" ?");
-      		break;
-      	}
-      	else if (i>0) out.println(", ");
-        out.print("<a href=\""+baseHref+doc.get("id")+"\">"+doc.get("orth")+"</a>");
-      }
-    }
+                  /* Intéressant
+                  q=q.replace("(s|aient|oient|oit|ait|ons|ont)$", "");
+                  query=(new QueryParser(Version.LUCENE_CURRENT, "orthGram", analyzer)).parse(q);
+                  results=searcher.search(query, 100);
+                	*/
+                  break;
+                }
+                if (results==null || results.totalHits == 0) {
+                  out.println("<p>Pas de résultats</p>");
+                }
+                else if (results.totalHits < 8) {
+                	if (results.totalHits>1) {
+                		out.print("<p class=\"\">Articles : ");
+                		for (int i = 0; i < results.totalHits; i++) {
+                   	  doc = searcher.doc(results.scoreDocs[i].doc);
+                   		if (i>0) out.print(", ");
+                      out.print("<a href=\"#"+doc.get("id")+"\">"+doc.get("orth")+"</a>");
+                     }
+                		out.print(".</p>");
+                	}
+                  for (int i = 0; i < results.totalHits; i++) {
+                	  doc = searcher.doc(results.scoreDocs[i].doc);
+                	  out.println(doc.get("html"));
+                  }
+                }
+                else {
+                	float max=results.scoreDocs[0].score;
+                	float score;
+	            		out.print("<p class=\"\">Quel article : ");
+                  for (int i = 0; i < results.totalHits; i++) {
+                    doc = searcher.doc(results.scoreDocs[i].doc);
+                  	score=results.scoreDocs[i].score / max;
+                  	if (i>0) out.println(", ");
+                    out.print("<a href=\""+baseHref+doc.get("id")+"\">"+doc.get("orth")+"</a>");
+                  }
+                  out.print(" ?</p>");
+                }
 
-    if(request.getParameter("body") == null) {
+                if(request.getParameter("body") == null) {
     %>
   </body>
 </html>

@@ -54,7 +54,7 @@ function go() {
       </p>
     </form>
 <%
-}
+	}
 
 // le dossier de l'application (ici)
 File appDir=new File(application.getRealPath("/"));
@@ -71,14 +71,14 @@ if (searcher==null) {
   searcher=new IndexSearcher(
     IndexReader.open(FSDirectory.open(indexDir), true)
   );
-  searcher.setSimilarity(Conf.getSimilarity());
+  searcher.setSimilarity(LittreAnalyzer.getSimilarity());
   application.setAttribute(CACHE_LUC, searcher);
 }
 
 
 Query query;
 TopDocs results=null;
-Analyzer analyzer = Conf.getAnalyzer();
+Analyzer analyzer = LittreAnalyzer.getAnalyzer();
 while (true) {
   if ("".equals(q)) break;
   query=new TermQuery(new Term("id", q));
