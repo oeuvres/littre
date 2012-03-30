@@ -36,7 +36,7 @@
     <xsl:value-of select="alix:addXMLField('html',$html,'S')" />
     <xsl:apply-templates select="tei:form" mode="alix"/>
     <!-- Ajouter le document en cours à l'index ? -->
-    <xsl:value-of select="alix:addDocument()" />
+    <xsl:value-of select="alix:writeDocument()" />
   </xsl:template>
   
 
