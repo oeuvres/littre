@@ -129,7 +129,7 @@ public class IndexEntry extends Thread {
 			dbf.setNamespaceAware(true);
 			xdoms = dbf.newDocumentBuilder();
 		} catch (Exception e) {
-			e.printStackTrace();
+			e.printStackTrace(out);
 		}
 	}
 	
@@ -159,7 +159,7 @@ public class IndexEntry extends Thread {
 			index.forceMerge(1);
 			index.close();
 		} catch (Exception e) {
-			e.printStackTrace();
+			e.printStackTrace(out);
 		} 
 		out.print("Indexation terminée.");
 	}
