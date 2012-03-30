@@ -16,73 +16,73 @@
   </xsl:variable>
 
 
-  <xsl:template match="tei:teiHeader" mode="text"/>
+  <xsl:template match="tei:teiHeader" mode="txt"/>
   <!-- par défaut tout traverser sans laisser de trace de texte -->
-  <xsl:template match="tei:TEI | tei:text | tei:entry | tei:form | tei:re[@type='supplement']" mode="text">
-    <xsl:apply-templates select="*" mode="text"/>
+  <xsl:template match="tei:TEI | tei:text | tei:entry | tei:form | tei:re[@type='supplement']" mode="txt">
+    <xsl:apply-templates select="*" mode="txt"/>
   </xsl:template>
 
   <!-- séparer les articles à ce niveau pour garder net match="tei:entry" -->
-  <xsl:template match="tei:body" mode="text">
+  <xsl:template match="tei:body" mode="txt">
     <xsl:for-each select="*">
       <xsl:text>-------</xsl:text>
       <xsl:value-of select="$lf"/>
       <xsl:value-of select="$lf"/>
-      <xsl:apply-templates select="*" mode="text"/>
+      <xsl:apply-templates select="*" mode="txt"/>
       <xsl:value-of select="$lf"/>
       <xsl:value-of select="$lf"/>
     </xsl:for-each>
   </xsl:template>
 
-  <xsl:template match="tei:entry/*" priority="0" mode="text">
+  <xsl:template match="tei:entry/*" priority="0" mode="txt">
     <xsl:value-of select="$lf"/>
     <xsl:value-of select="$lf"/>
-    <xsl:apply-templates mode="text"/>
+    <xsl:apply-templates mode="txt"/>
   </xsl:template>
 
-  <xsl:template match="tei:form" mode="text">
-    <xsl:apply-templates select="*" mode="text"/>
+  <xsl:template match="tei:form" mode="txt">
+    <xsl:apply-templates select="*" mode="txt"/>
   </xsl:template>
 
-  <xsl:template match="tei:dictScrap" mode="text">
+  <xsl:template match="tei:dictScrap" mode="txt">
     <xsl:value-of select="."/>
   </xsl:template>
 
-  <xsl:template match="tei:pron" mode="text">
+  <xsl:template match="tei:pron" mode="txt">
     <xsl:text> /</xsl:text>
-    <xsl:apply-templates mode="text"/>
+    <xsl:apply-templates mode="txt"/>
     <xsl:text>/ </xsl:text>
   </xsl:template>
 
-  <xsl:template match="tei:entry/tei:sense" mode="text">
+  <xsl:template match="tei:entry/tei:sense" mode="txt">
     <xsl:value-of select="$lf"/>
     <xsl:value-of select="$lf"/>
     <xsl:if test="@n">
       <xsl:value-of select="@n"/>
       <xsl:text>. </xsl:text>
     </xsl:if>
-    <xsl:apply-templates select="*" mode="text"/>
+    <xsl:apply-templates select="*" mode="txt"/>
   </xsl:template>
 
-  <xsl:template match="tei:sense/tei:sense" mode="text">
+  <xsl:template match="tei:sense/tei:sense" mode="txt">
     <xsl:value-of select="$lf"/>
     <xsl:text>   ♦ </xsl:text>
-    <xsl:apply-templates select="*" mode="text"/>
+    <xsl:apply-templates select="*" mode="txt"/>
   </xsl:template>
 
-  <xsl:template match="tei:note[@type='H']" mode="text">
+  <xsl:template match="tei:note[@type='H']" mode="txt">
     <xsl:value-of select="$lf"/>
     <xsl:value-of select="$lf"/>
-    <xsl:apply-templates select="*" mode="text"/>
+    <xsl:apply-templates select="*" mode="txt"/>
   </xsl:template>
 
-  <xsl:template match="tei:label" mode="text">
+  <xsl:template match="tei:label" mode="txt">
     <xsl:value-of select="$lf"/>
-    <xsl:apply-templates mode="text"/>
+    <xsl:apply-templates mode="txt"/>
   </xsl:template>
 
   <!-- Utilisé pour sortir les citations modernes -->
-  <xsl:template match="tei:cit" mode="text">
+  <xsl:template match="tei:cit" mode="txt">
     <xsl:value-of select="$lf"/>
     <xsl:text>– </xsl:text>
     <xsl:value-of select="tei:quote"/>

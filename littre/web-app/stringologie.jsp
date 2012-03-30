@@ -45,7 +45,7 @@ if(request.getParameter("body") == null) {
   <body>
   	<h1>“Stringologie”, expériences de recherches floues sur le français</h1>
 <%
-}
+	}
 // le dossier de l'application (ici)
 File appDir=new File(application.getRealPath("/"));
 File indexDir=new File(appDir, "index");
@@ -66,7 +66,7 @@ if (searcher==null) {
 }
 Query query;
 TopDocs results=null;
-Analyzer analyzer = Conf.getAnalyzer();
+Analyzer analyzer = LittreAnalyzer.getAnalyzer();
 // chercher un mot
 // écriture un peu particulière évitant trop de tests imbriqués
 // ! ne pas oublier de sortir

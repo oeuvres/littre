@@ -9,15 +9,10 @@ import java.io.InputStreamReader;
 import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.io.StringWriter;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
+import java.io.Writer;
 import java.sql.SQLException;
 import java.util.Stack;
-import java.util.TreeSet;
 
-import javax.servlet.jsp.JspWriter;
 import javax.xml.namespace.QName;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -44,6 +39,7 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
@@ -56,10 +52,6 @@ import org.apache.lucene.util.Version;
 public class IndexEntry extends Thread {
 	/**  */
 	static private String glob=".*\\.xml";
-	/** Connexion sqlite au lexique */
-	static private Connection conn;
-	/** Requête préparée */
-	static private PreparedStatement stat;
 	/** Chemin XML courant */
 	static Stack<String> stackpath;
 	/** Article en cours d'écriture */
@@ -81,53 +73,55 @@ public class IndexEntry extends Thread {
 	/** Unknown */
 	static PrintStream unknown;
 	/** Dossier à indexer */
-	static File xmlDir=new File(Conf.WEB_INF.getParentFile().getParentFile(), "xml");
+	static File xmlDir=new File(LittreAnalyzer.WEB_INF.getParentFile().getParentFile(), "xml");
 	/** Dossier de l'index */
-	static File indexDir=new File(Conf.WEB_INF, "index");
-	/** Base sqlite du lexique */
-	static File dbFile=new File(Conf.WEB_INF, "lib/lexique.sqlite");
+	static File indexDir=new File(LittreAnalyzer.WEB_INF, "index");
 	/** Où écrire */
 	static PrintWriter out=new PrintWriter(System.out);
 	/**
 	 * Constructeur avec valeurs par défaut
+	 * @throws IOException 
 	 */
-	public IndexEntry() {
-		this(null, null, null, null);
+	public IndexEntry() throws IOException {
+		this(null, null, null);
 	}
 	/**
 	 * Constructeur rediriger un flux Servlet
+	 * @throws IOException 
 	 */
-	public IndexEntry(JspWriter out) {
-		this(new PrintWriter(out), null, null, null);
+	public IndexEntry(Writer out) throws IOException {
+		this(new PrintWriter(out), null, null);
 	}
 	/**
 	 * Constructeur rediriger le flux
+	 * @throws IOException 
 	 */
-	public IndexEntry(PrintWriter out) {
-		this(out, null, null, null);
+	public IndexEntry(PrintWriter out) throws IOException {
+		this(out, null, null);
 	}
 	/**
 	 * Constructeur pour passer des paramètres
+	 * @throws IOException 
 	 */
-	public IndexEntry(PrintWriter aOut, File aXmlDir, File aIndexDir, File aDbFile) {
+	public IndexEntry(PrintWriter aOut, File aXmlDir, File aIndexDir) throws IOException {
 		if (aOut!= null) out=aOut;
 		// Si on voulais rendre le filtrage de fichier configurable
 		// aGlob.replaceAll("([^.])([*?])", "$1.$2");
 		if (aXmlDir != null) xmlDir=aXmlDir;
 		if (aIndexDir != null) indexDir=aIndexDir;
-		if (aDbFile != null) dbFile=aDbFile;
 		
+		Directory dir=FSDirectory.open(indexDir);
+		if (IndexWriter.isLocked(dir)) throw new java.util.ConcurrentModificationException("Indexation déjà lancée.");
 		// connexion à la base du lexique
 		try {
-			Class.forName("org.sqlite.JDBC");
-			conn = DriverManager.getConnection("jdbc:sqlite:" + dbFile);
-			stat = conn.prepareStatement("SELECT forme FROM lexique WHERE lemme=?");
 			
-			IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_35, Conf.getAnalyzer());
-			index = new IndexWriter(FSDirectory.open(indexDir), conf);
+			IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_35, new LittreAnalyzer());
+			index = new IndexWriter(dir, conf);
 			// destruction brutale, on pourrait faire plus fin, par exemple par nom de fichier
 			index.deleteAll();
 			index.commit();
+			
+
 			littre_html = TransformerFactory.newInstance().newTransformer(
 					new StreamSource(new File(new File(xmlDir.getParentFile(), "transform"), "littre_html.xsl")));
 			littre_html.setOutputProperty(OutputKeys.INDENT, "yes");
@@ -142,8 +136,7 @@ public class IndexEntry extends Thread {
 	@Override
 	public void run() {
 		// un petit message quand ça commence
-		out.println(xmlDir.getAbsolutePath() + " > " + indexDir.getAbsolutePath() + " (" + dbFile.getAbsolutePath()
-				+ ")");
+		out.println(xmlDir.getAbsolutePath() + " > " + indexDir.getAbsolutePath() );
 		File[] files = xmlDir.listFiles(new FilenameFilter() {
 			public boolean accept(File f, String s) {
 				return s.matches(glob);
@@ -152,19 +145,23 @@ public class IndexEntry extends Thread {
 		try {
 			for (File f : files) {
 				out.print(f);
+				out.print("… ");
+				out.flush();
 				parse(f);
-				out.print(" commit…");
+				out.print("… ");
 				index.commit();
-				out.println(" terminé.");
+				out.println(" OK.");
+				out.flush();
 			}
-			// déprécié, toujours utile ?
+			// réduit le nombre de fichiers de l'index
 			out.println("Optimisation de l'index…");
-			index.optimize();
+			out.flush();
+			index.forceMerge(1);
 			index.close();
 		} catch (Exception e) {
 			e.printStackTrace();
 		} 
-		out.println("Indexation terminée.");
+		out.print("Indexation terminée.");
 	}
 
 	/**
@@ -203,7 +200,6 @@ public class IndexEntry extends Thread {
 		org.w3c.dom.Document dom = null;
 
 		// un dédoublonneur
-		TreeSet<String> uniq = new TreeSet<String>();
 		String orth;
 		String id;
 		int pos;
@@ -262,27 +258,7 @@ public class IndexEntry extends Thread {
 					pos=orth.indexOf(' ');
 					if (pos > 0) orth=orth.substring(0, pos);
 					doc.add(new Field("orth", orth, Field.Store.YES, Field.Index.ANALYZED));
-					
-					// Ce code ajoute les formes fléchies issues de lexique.org à la vedette  
-					// cela permet d'accéder à un article par une forme fléchie
-					stat.setString(1, orth);
-					ResultSet rs = stat.executeQuery();
-					// dédoublonner les formes
-					uniq.clear();
-					while (rs.next()) {
-						uniq.add(rs.getString(1));
-					}
-					if (uniq.size() == 0) {
-						// lemme inconu de lexique.org, ajouter le lemme (fléchir ?)
-						doc.add(new Field("form", orth, Field.Store.NO, Field.Index.ANALYZED));
-						// laisser une trace dans le log des formes inconnues
-						if (unknown != null) unknown.println(orth);
-					}
-					else {
-						for (String s : uniq) {
-							doc.add(new Field("form", s, Field.Store.NO, Field.Index.ANALYZED));
-						}
-					}
+					doc.add(new Field("form", orth, Field.Store.NO, Field.Index.ANALYZED));
 				}
 				// fin d'article, transformer le document XML capturé en HTML
 				else if ("entry".equals(name)) {
@@ -319,7 +295,7 @@ public class IndexEntry extends Thread {
 	 */
 	public static void main(String[] args) throws Exception {
 		Thread task;
-		if (args.length == 3) task=new IndexEntry(null, new File(args[0]), new File(args[1]), new File(args[2]));
+		if (args.length == 2) task=new IndexEntry(null, new File(args[0]), new File(args[1]));
 		else task=new IndexEntry();
 		// ouvrir un fichier où écrire les formes inconnues
 		unknown=new PrintStream(new File("unknown.txt"), "UTF-8");

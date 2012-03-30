@@ -27,6 +27,9 @@ org.apache.lucene.util.Version
 		<title>Littré, Administration</title>
 	</head>
 	<body>
+		<form name="index" method="POST">
+			<input name="index" value="Indexer" type="submit"/>
+		</form>
 		<%
 // réindexer
 // TODO, tester IP && (request.getRemoteAddr() == request.getLocalAddr())
@@ -36,13 +39,12 @@ else if (request.getParameter("index") != null) {
 	// vider les attributs de contexte où pourrait se trouver des searcher
 	for (Enumeration<String> e = application.getAttributeNames(); e.hasMoreElements();) application.removeAttribute(e.nextElement());
 	Thread task=new IndexEntry(out);
-	task.start();
+	out.println("<pre>");
+	task.run();
+	out.println("</pre>");
 }
 
 		%>
-		<form name="index" method="POST">
-			<input name="index" value="Indexer" type="submit"/>
-		</form>
 
 	</body>
 </html>

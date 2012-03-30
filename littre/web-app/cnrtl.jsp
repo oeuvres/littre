@@ -394,7 +394,7 @@ if(request.getParameter("body") == null) {
 
 
 <%
-  }
+	}
 		out.println("<div class=\"cnrtl\">");
     // le dossier de l'application (ici)
     File appDir=new File(application.getRealPath("/"));
@@ -415,7 +415,7 @@ if(request.getParameter("body") == null) {
     }
     Query query;
     TopDocs results=null;
-    Analyzer analyzer = Conf.getAnalyzer();
+    Analyzer analyzer = LittreAnalyzer.getAnalyzer();
     Document doc;
     // chercher un mot
     // écriture un peu particulière évitant trop de tests imbriqués
@@ -463,7 +463,7 @@ if(request.getParameter("body") == null) {
     out.print("<p class=\"credits\">Cette édition du <i>Littré</i> est réalisée par l’<a href=\"\">École des chartes</a> et l’<a href=\"http://crim.fr/master_2\">INALCO</a> (<a href=\"http://javacrim.sourceforge.net/littre/\">Crédits</a>).</p>");
 		out.println("</div>");
     if(request.getParameter("body") == null) {
-    %>
+%>
 </div>
 </td>
 </tr>
