@@ -99,7 +99,6 @@ public class LittreAnalyzer extends Analyzer {
 		
 		public InflectAnalyzer() {
 			super();
-			System.out.println("InflectAnalyzer()");
 			
 			File dbFile = new File(WEB_INF, "lib/lexique.sqlite");
 			try {
@@ -111,7 +110,8 @@ public class LittreAnalyzer extends Analyzer {
 			}
 		}
 		
-		public void finalyze() {
+		@Override
+		public void finalize() {
 			dbLookup.close();
 		}
 		
