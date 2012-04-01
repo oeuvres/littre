@@ -28,6 +28,8 @@ import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.Tokenizer;
 import org.apache.lucene.util.Version;
 
+import fr.crim.lucene.lexique.DBLookup;
+
 /**
  * Analyseur pour le corpus Littré
  * @author frederic.glorieux@fictif.org
@@ -93,10 +95,30 @@ public class LittreAnalyzer extends Analyzer {
 	 * Prendre la forme complète, pour éviter de répondre “peut-être” pour “es”.
 	 */
 	public static class InflectAnalyzer extends ReusableAnalyzerBase {
+		private DBLookup dbLookup;
+		
+		public InflectAnalyzer() {
+			super();
+			System.out.println("InflectAnalyzer()");
+			
+			File dbFile = new File(WEB_INF, "lib/lexique.sqlite");
+			try {
+				// Sans activation du cache pour limiter la consommation mémoire
+				dbLookup = new DBLookup(dbFile, false);
+			} catch (Exception e) {
+				e.printStackTrace();
+				System.err.println("Impossible de se connecter à la base de données ["+dbFile+"]");
+			}
+		}
+		
+		public void finalyze() {
+			dbLookup.close();
+		}
+		
 		@Override
 		protected TokenStreamComponents createComponents(String fieldName, Reader reader) {
 			final Tokenizer source = new KeywordTokenizer(reader);
-		    TokenStream sink = new LexiqueFilter(source, new File(WEB_INF, "lib/lexique.sqlite"), LexiqueFilter.FORMS);
+	    	final TokenStream sink = new LexiqueFilter(source, dbLookup, LexiqueFilter.FORMS);
 		    return new TokenStreamComponents(source, sink);
 		}
 	}
@@ -126,7 +148,7 @@ public class LittreAnalyzer extends Analyzer {
 		final String text = "COURIR, GÂTER, je-suis-un-mot-qui-n'existe-pas PARMESAN, CONNERIE";
 		Analyzer analyzer=new InflectAnalyzer();
 		System.out.println(text);
-		new LuceneTagger().displayTokensWithPositions(analyzer, text);
+		new LuceneTagger().displayTokensWithFullDetails(analyzer, text);
 	}
 }
 
