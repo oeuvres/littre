@@ -90,6 +90,12 @@ public class LittreAnalyzer extends Analyzer {
 		return analyzer.tokenStream(fieldName, reader);
 	}
 
+	@Override
+	public TokenStream reusableTokenStream(String fieldName, Reader reader)
+		throws IOException {
+		return analyzer.reusableTokenStream(fieldName, reader);
+	}
+
 	/** 
 	 * Analyseur félchissant une forme.
 	 * Prendre la forme complète, pour éviter de répondre “peut-être” pour “es”.
@@ -122,6 +128,7 @@ public class LittreAnalyzer extends Analyzer {
 		    return new TokenStreamComponents(source, sink);
 		}
 	}
+
 	/** 
 	 * Analyseur pour les vedettes, spliter les mots composés.
 	 */
