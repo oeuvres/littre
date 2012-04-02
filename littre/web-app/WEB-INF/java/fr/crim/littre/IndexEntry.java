@@ -43,6 +43,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
+
 /**
  * Indexation lucene des entrées Littré (dictionnaire en TEI)
  * 

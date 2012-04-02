@@ -1,0 +1,2529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Littré, Dictionnaire de la Langue Française</title>
+</titleStmt>
+<publicationStmt>
+<date>2011</date>
+<idno>http://javacrim.svn.sourceforge.net/svnroot/javacrim/littre/xml/a.xml</idno>
+<publisher>http://javacrim.sourceforge.net/</publisher>
+<availability status="restricted">
+<p> Licence Creative Commons : <ref target="http://creativecommons.org/licenses/by-sa/2.0/fr/">Paternité – Partage des Conditions Initiales à l'Identique – 2.0 France</ref></p>
+<p> Cette ressource électronique structurée est protégée en France par le code de la propriété intellectuelle sur les bases de données (L341-1). En adoptant une licence CreativeCommons by-sa, les contributeurs de ce travail souhaitent que la ressource soit librement diffusée, notamment pour la recherche. La clause « Partage des Conditions Initiales à l'Identique » invite les contributeurs futurs à rendre leurs améliorations publiques, par exemple en rejoignant le projet libre <ref target="https://sourceforge.net/projects/javacrim/">Javacrim</ref>.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl><ref target="http://francois.gannaz.free.fr/Littre/">XMLittré v1.3</ref></bibl>
+<bibl>Littré, Dictionnaire de la Langue Française</bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<entry xml:id="a.1">
+<form>
+<orth>A</orth>
+<pron>â</pron>
+<gram>s. m.</gram>
+</form>
+<sense>
+<dictScrap>Voyelle et première lettre de l'alphabet. Un grand <oVar>A</oVar>. Un petit <oVar>A</oVar>. Deux <oVar>A</oVar>. Des <oVar>A</oVar> mal formés, sans s au pluriel.</dictScrap>
+<cit>
+<quote>Il y a une géométrie matérielle qui se contente de lignes, de points, d'A + B</quote>
+<bibl>
+<author>CHATEAUB.</author>
+<biblScope>Gén. du Chr. III, II, 1</biblScope>
+</bibl>
+</cit>
+<dictScrap>Une panse d'<oVar>a</oVar>, la première partie d'un petit <oVar>a</oVar> dans l'écriture cursive. N'avoir pas fait une panse d'<oVar>a</oVar>, c'est-à-dire n'avoir rien écrit, rien copié, rien composé.</dictScrap>
+<cit>
+<quote>Si je voulais recevoir tous les ans vos quatre mille livres, sans faire jamais une panse d'a, vous seriez l'homme le plus propre à vous laisser faire</quote>
+<bibl>
+<author>VOIT.</author>
+<biblScope>Lett. CLXXXIV</biblScope>
+</bibl>
+</cit>
+<dictScrap>Ne savoir ni <oVar>A</oVar> ni B, ne pas savoir lire, être très ignorant (voy. <oVar>A</oVar> B C).</dictScrap>
+<sense>
+<dictScrap>Il est marqué à l'<oVar>A</oVar> se dit d'un homme de bien, d'honneur et de mérite ; et ce proverbe est emprunté des monnaies qu'on marquait aux villes de France par ordre alphabétique, selon leur primauté : la monnaie de Paris, réputée du meilleur aloi, était marquée de l'<oVar>A</oVar>.</dictScrap>
+</sense>
+<sense>
+<dictScrap><oVar>A</oVar>, dans la musique moderne et notamment dans la musique allemande, le sixième degré de la gamme diatonique et naturelle, ou la dixième corde de la gamme diatonico-chromatique, appelé dans l'ancien solfège <oVar>a</oVar> la mi ré, <oVar>a</oVar> mi la, ou l<oVar>a</oVar>. <oVar>A</oVar> majuscule, écrit sur une partition, indique l'alto.</dictScrap>
+</sense>
+</sense>
+<note type="HIST.">
+<label>XIIIe s.</label>
+<cit>
+<quote>Oiez que tesmoigne li A ; A veut tous tems qu'on la bouche oevre ; Tuit [tout] prelat beent à ceste oevre. Icil qui l'A B C para, Fist le commencement par A, Senefiance de l'A B C</quote>
+<bibl>
+<author>JUBINAL</author>
+<biblScope>II, 276</biblScope>
+</bibl>
+</cit>
+</note>
+<etym>A latin, lequel vient du grec, lequel a été apporté par les Phéniciens sous le nom d'alpha (voy. <ref target="alpha">ce mot</ref>).</etym>
+</entry>
+<entry xml:id="à">
+<form>
+<orth>À</orth>
+<pron>a</pron>
+<gram>prép.</gram>
+<note>Lorsque "à" précède l'article masculin suivi d'une consonne autre que l'h muette, on les contracte en au pour à le ; lorsqu'il précède l'article pluriel des deux genres, on les contracte en aux pour à les. </note>
+</form>
+<note type="REM.">
+<p>Ces formes proviennent de l'ancienne langue : à le se disait al, qui devant une consonne se prononçait ordinairement au, comme on le voit dans autre, écrit anciennement altre et venant du latin alter. Pour le pluriel, à les se contractait en as ou aus ; d'où notre forme aux. </p>
+<p>À exprime trois rapports différents : direction, aller à Paris ; repos, résider à Paris ; extraction, prendre à un tas. Quand, partant de ces trois significations fondamentales, on examine les acceptions telles qu'elles se comportent dans le langage, on rencontre une variété extrême de nuances, qui rend très difficile le classement des sens. Un mot aussi petit et aussi employé que à est devenu très indéterminé, de manière à se prêter à une foule d'emplois différents. Comme toute préposition, il exprime un rapport, et ne peut être bien apprécié indépendamment des deux termes qu'il lie, aussi bien l'antécédent que le conséquent. Au lieu de la classification par significations, on peut adopter une classification d'après les deux termes du rapport où à figure, le sens étant aussi bien déterminé, en beaucoup de cas, par le mot qui précède que par le mot qui suit. En conséquence, on peut considérer à dans les positions suivantes : </p>
+</note>
+<sense n="1">
+<dictScrap>Entre un substantif et un substantif ou un pronom. Séjour <oVar>à</oVar> Paris. Habitation <oVar>à</oVar> la campagne. La vie aux champs. Retour <oVar>à</oVar> la ville. L'ascension au haut du pic. L'orientation au nord. La remise <oVar>à</oVar> un autre temps. Le recours au juge. Le discours au roi. La réponse <oVar>à</oVar> une lettre. L'élévation aux dignités. La disposition <oVar>à</oVar> la plaisanterie. La préparation <oVar>à</oVar> la communion. La contribution au fonds commun. La légèreté <oVar>à</oVar> la course. Le lion <oVar>à</oVar> la gueule menaçante. Terre <oVar>à</oVar> potier. Vases <oVar>à</oVar> huile. Marché aux bœufs. Cruche <oVar>à</oVar> anses. Chaise <oVar>à</oVar> porteurs. Terre <oVar>à</oVar> blé. Tunique <oVar>à</oVar> manches. L'emprunt au banquier. L'achat au marchand. La demande au professeur. La suspension au plancher. L'arrachement <oVar>à</oVar> toutes les affections. La répugnance au mariage. Le manquement au devoir. L'obéissance au maître.</dictScrap>
+<cit>
+<quote>Il n'est rien de cela aux exemples des payens ; nous n'avons pas de liaison à eux</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Pens. II, 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je méditais ma fuite aux terres étrangères</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Baj. III, 2</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="2">
+<dictScrap>Entre un substantif et un pronom, construction où <oVar>à</oVar> exprime la possession. Un ami <oVar>à</oVar> moi. C'est un ami <oVar>à</oVar> moi ; je vous le recommande. Il a un style <oVar>à</oVar> lui. Vous avez une manière <oVar>à</oVar> vous.</dictScrap>
+</sense>
+<sense n="3">
+<dictScrap>Entre un substantif et un verbe. L'exhortation <oVar>à</oVar> combattre. L'encouragement <oVar>à</oVar> bien vivre. La disposition <oVar>à</oVar> plaisanter. La promptitude <oVar>à</oVar> faire. L'habileté <oVar>à</oVar> parler. La facilité <oVar>à</oVar> comprendre. La répugnance <oVar>à</oVar> venir. Le plaisir <oVar>à</oVar> obéir. La fermeté <oVar>à</oVar> soutenir la vérité. La honte <oVar>à</oVar> mentir.</dictScrap>
+<cit>
+<quote>Quelque effort que l'on fasse à rompre vos beaux nœuds</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Her. I, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il n'a pas de peine à se rendre</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. VIII, 7, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les biais qu'on doit prendre à terminer vos vœux</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>l'Étourdi, IV, 1</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="4">
+<dictScrap>Entre un adjectif et un substantif ou un pronom. Exposé au midi. Porté <oVar>à</oVar> la violence. Enclin au mal. Prêt au combat. Parti hostile au gouvernement. Obéissant <oVar>à</oVar> la loi. Nuisible <oVar>à</oVar> la santé. Plaisant <oVar>à</oVar> l'œil. Important <oVar>à</oVar> l'État. Habitué aux théâtres. Utile <oVar>à</oVar> tous, propre au travail. Affable aux petits. Semblable au loup. Égal aux plus grands. Sa mort fut conforme <oVar>à</oVar> sa vie. Attaché <oVar>à</oVar> ses habitudes. Rebelle <oVar>à</oVar> l'autorité. Répugnant aux sens.</dictScrap>
+<cit>
+<quote>Il est loisible à tout homme de.... Il était naturel à Adam et juste à son innocence</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>édit. Cousin.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ils étaient cruels à ceux qui leur résistaient</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. III, 6</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="5">
+<dictScrap>Entre un adjectif et un verbe. Disposé <oVar>à</oVar> médire. Prêt <oVar>à</oVar> partir. Enclin <oVar>à</oVar> ne rien faire. Facile <oVar>à</oVar> apprendre. Important <oVar>à</oVar> comprendre. Chose honteuse <oVar>à</oVar> dire. Charmant <oVar>à</oVar> contempler. Agréable <oVar>à</oVar> faire. Inutile <oVar>à</oVar> dire. Le dernier <oVar>à</oVar> fuir. Le premier <oVar>à</oVar> s'élancer. Prompt <oVar>à</oVar> se mettre en colère. Habile <oVar>à</oVar> parler. Propre <oVar>à</oVar> supporter les fatigues.</dictScrap>
+<cit>
+<quote>C'est bientôt le premier à prendre</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. VIII, 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>... Les riches grossiers N'ont pas une âme ouverte à sentir les talents</quote>
+<bibl>
+<author>A. CHÉN.</author>
+<biblScope>26</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="6">
+<dictScrap>Entre un adverbe et un nom ou un pronom. Conformément <oVar>à</oVar> ce que vous dites. Semblablement aux feuilles des arbres, les générations humaines se succèdent sur la terre.</dictScrap>
+</sense>
+<sense n="7">
+<dictScrap>Entre le même mot répété sans article, indiquant que personnes ou choses se suivent ou se touchent. Un <oVar>à</oVar> un. Trois <oVar>à</oVar> trois. Il passèrent un <oVar>à</oVar> un. On les compta trois <oVar>à</oVar> trois. Goutte <oVar>à</oVar> goutte. Seul <oVar>à</oVar> seul. Tête <oVar>à</oVar> tête. Ils s'introduisirent homme <oVar>à</oVar> homme. Pas <oVar>à</oVar> pas. Mot <oVar>à</oVar> mot. Traduire mot <oVar>à</oVar> mot. Corps <oVar>à</oVar> corps. Lutte corps <oVar>à</oVar> corps. Bec <oVar>à</oVar> bec. Bout <oVar>à</oVar> bout. En termes de jeu, nous sommes fiche <oVar>à</oVar> fiche, dix <oVar>à</oVar> dix, nous avons chacun une fiche, dix points ; et même, elliptiquement, nous sommes fiche <oVar>à</oVar>, dix <oVar>à</oVar>.</dictScrap>
+</sense>
+<sense n="8">
+<dictScrap>Entre un verbe ayant <oVar>à</oVar> pour complément indirect et un substantif ou un pronom. Se rendre <oVar>à</oVar> la ville. Reléguer aux champs. Recevoir au camp. Aller <oVar>à</oVar> Rouen, <oVar>à</oVar> la campagne. Monter au ciel. Envoyer un livre <oVar>à</oVar> quelqu'un. Monter <oVar>à</oVar> cheval. Être tourné <oVar>à</oVar> l'est. être exposé au danger. Jeter quelqu'un <oVar>à</oVar> terre. Jeter <oVar>à</oVar> l'eau. Revenir <oVar>à</oVar> soi. J'en viens <oVar>à</oVar> un autre objet. Courir <oVar>à</oVar> sa perte. Appeler aux armes. Exhorter au travail. Recourir au juge. Descendre aux dernières prières. S'adresser <oVar>à</oVar> ses amis. Réduire <oVar>à</oVar> l'extrémité. Arracher quelqu'un <oVar>à</oVar> son opinion. Élever au rang suprême. Courir au danger. Se préparer au combat. Lever les mains au ciel. Accorder la récompense au mérite. Devoir de l'argent <oVar>à</oVar> quelqu'un. Exposer au péril. Se rendre <oVar>à</oVar> César. Écrire <oVar>à</oVar> quelqu'un. Enseigner les lettres aux jeunes gens. Ajouter <oVar>à</oVar> quelque chose. Imputer <oVar>à</oVar> crime. Assister au jugement. Plaire <oVar>à</oVar> quelqu'un. Il importe <oVar>à</oVar> tout le monde. Elle pense <oVar>à</oVar> moi. Il s'accoutume <oVar>à</oVar> l'obéissance. Ce vêtement sied bien aux hommes âgés. Il convient <oVar>à</oVar> chacun. Ce livre appartient <oVar>à</oVar> mon frère. Se joindre <oVar>à</oVar> une compagnie. Mettre une chose <oVar>à</oVar> sa place. Associer sa cause au salut public. Faire part de sa gloire <oVar>à</oVar> quelqu'un. Mêler de l'huile <oVar>à</oVar> de la chaux. Comparer Aristote <oVar>à</oVar> Platon. Répondre <oVar>à</oVar> l'amour. Répugner <oVar>à</oVar> certaines démarches. Le chien ressemble au loup. Conformer sa vie aux préceptes de la sagesse. Condamner <oVar>à</oVar> mort, aux galères. Puiser de l'eau <oVar>à</oVar> une fontaine. Boire <oVar>à</oVar> la source. Prendre au tas. Demander quelque chose <oVar>à</oVar> quelqu'un. Allumer une chandelle au feu. Acheter du drap au marchand. Emprunter de l'argent <oVar>à</oVar> un ami. Dire une parole, un mot <oVar>à</oVar> quelqu'un. Commencer <oVar>à</oVar> dormir. Suspendre au plafond. Arracher aux arbres leurs fruits, un fils <oVar>à</oVar> sa mère. Dérober au danger. La marcotte a été prise <oVar>à</oVar> un bon cep. Dépouilles enlevées <oVar>à</oVar> l'ennemi. Retirer sa confiance <oVar>à</oVar> quelqu'un. Manquer <oVar>à</oVar> son devoir, <oVar>à</oVar> ses amis. Toucher <oVar>à</oVar> quelque chose. Toucher au terme, au port.</dictScrap>
+<cit>
+<quote>La vérité était contraire à vos fins ; il a fallu mettre votre confiance au mensonge</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Prov. 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Pensez-vous.... Et quand nous nous mettons quelque chose à la tête, Que l'homme le plus fin ne soit pas une bête ?</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Éc. des M. I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Moi-même la cherchant aux climats étrangers</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Baj. III, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Enfin je viens à vous</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Phèd. I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Mais enfin à l'autel il est allé tomber</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Andr. V, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>On dit même qu'au trône une brigue insolente Veut placer Aricie et le sang de Pallante</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Phèd. I, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et Phèdre au labyrinthe avec vous descendue</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>ib. II, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Mettons le sceptre aux mains dignes de le porter</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>ib. II, 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'aurais trop de regrets, si quelque autre guerrier Au rivage troyen descendait le premier</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Iphig. I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Le comte d'Harcourt, fortifié par les troupes qui avaient joint son armée, se résolut de marcher à M. le Prince</quote>
+<bibl>
+<author>LA ROCHEF.</author>
+<biblScope>Mém. 202</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cours, assemble au drapeau nos braves combattants</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Scyth. IV, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ce fatal berceau l'instinct m'a rappelé</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Orphel. II, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>S'il y a une autorité dans le monde à laquelle la raison doive céder, c'est à celle de la religion chrétienne</quote>
+<bibl>
+<author>MASS.</author>
+<biblScope>Vérité.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Elle est donc plongée au tombeau !</quote>
+<bibl>
+<author>GILB.</author>
+<biblScope>à la Reine</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et je le donnerais à bien d'autres qu'à moi De se voir sans chagrin au point où je me voi</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Sgan. 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Voilà un homme qui veut parler à vous</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Mal. imag. II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il est ce que tu dis, s'il embrasse leur foi ; Mais il est mon époux, et tu parles à moi</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Poly. III, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>L'hypocrisie est un hommage Que rend le vice à la vertu</quote>
+<bibl>
+<author>AUBERT</author>
+<biblScope>II, 10</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'ai conclu que la recherche de la vérité était une folie, parce que, quand on la trouverait, on ne saurait à qui la dire</quote>
+<bibl>
+<author>BERN. DE S. P.</author>
+<biblScope>Ch. ind.</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="9">
+<dictScrap>Entre un verbe et un verbe. Exhorter <oVar>à</oVar> faire. Inviter <oVar>à</oVar> venir. Condescendre <oVar>à</oVar> traiter. Il en est venu <oVar>à</oVar> nous dire. Réduire <oVar>à</oVar> capituler. Forcer <oVar>à</oVar> mourir de faim. Il incline <oVar>à</oVar> prendre ce parti. Se préparer <oVar>à</oVar> partir. Apprendre <oVar>à</oVar> lire. Enseigner <oVar>à</oVar> s'exprimer correctement. Cela contribue <oVar>à</oVar> augmenter le patrimoine. Ce discours le portait <oVar>à</oVar> céder. Se décider <oVar>à</oVar> comparaître. Sa démarche l'exposait <oVar>à</oVar> périr. Il se plaît <oVar>à</oVar> étudier. Il pense <oVar>à</oVar> exécuter son projet. S'accoutumer <oVar>à</oVar> obéir. Aimer <oVar>à</oVar> donner. Condamner <oVar>à</oVar> faire amende honorable. Chercher <oVar>à</oVar> comprendre. Donner <oVar>à</oVar> copier une lettre. Donner <oVar>à</oVar> porter un fardeau. Il reste <oVar>à</oVar> finir le travail. Demander <oVar>à</oVar> être reçu. Manquer <oVar>à</oVar> venir. Répugner <oVar>à</oVar> travailler.</dictScrap>
+<cit>
+<quote>On l'exhorta à avoir courage</quote>
+<bibl>
+<author>SCARR.</author>
+<biblScope>Rom. com. II, 12</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et je me vois réduit à chercher dans vos yeux une mort qui me fuit</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Phèd. II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Essayez un peu, par plaisir, à m'envoyer des ambassades, à m'écrire secrètement de petits billets doux, à épier les moments que mon mari n'y sera pas</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>G. Dand. I, 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Manquez un peu, manquez à le bien recevoir</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Sgan. I</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Depuis assez longtemps je tâche à le comprendre</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>ib. III, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>L'œil ébloui se perd dans leur foule innombrable [des insectes] ; Il en faudrait un monde à faire un grain de sable</quote>
+<bibl>
+<author>LAMART.</author>
+<biblScope>Joc. IV, 34</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est une chose grande et que tout homme envie, D'avoir un lustre en soi qu'on répand sur sa vie, D'être choisi d'un peuple à venger son affront</quote>
+<bibl>
+<author>V. HUGO</author>
+<biblScope>F. d'aut. 13</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="10">
+<dictScrap>Absolument, devant un nom ou un pronom, exprimant une circonstance, <oVar>à</oVar> la façon d'un adverbe ou d'une locution adverbiale. <oVar>à</oVar> Paris. <oVar>à</oVar> la ville. Aux champs. Au midi. Au nord. <oVar>à</oVar> terre. <oVar>à</oVar> l'entrée de l'église. <oVar>à</oVar> l'armée. Au feu. <oVar>à</oVar> l'ombre. Au soleil. <oVar>à</oVar> table. Au doigt. Porter une bague au doigt. Au front. Blessé au front. <oVar>à</oVar> l'oreille. Mal <oVar>à</oVar> l'oreille. Je vous dirai cela <oVar>à</oVar> l'oreille. <oVar>à</oVar> tout âge. <oVar>à</oVar> l'âge de trente ans. Au temps que les bêtes parlaient. <oVar>à</oVar> neuf heures. <oVar>à</oVar> midi. Au jour fixé. <oVar>à</oVar> échéance. Payer <oVar>à</oVar> échéance. Au commencement. <oVar>à</oVar> la fin de l'année. Au printemps. <oVar>à</oVar> l'année. Louer une maison <oVar>à</oVar> l'année. Pension <oVar>à</oVar> vie. Travailler <oVar>à</oVar> la journée. <oVar>à</oVar> la longue. Au point du jour. Au mois de mai. <oVar>à</oVar> toutes les heures. <oVar>à</oVar> chaque fois. <oVar>à</oVar> quelques jours de là. <oVar>à</oVar> de longs intervalles. <oVar>à</oVar> mon arrivée. <oVar>à</oVar> l'approche de Xerxès. <oVar>à</oVar> cette vue. <oVar>à</oVar> ce récit. Au bruit de sa mort. <oVar>à</oVar> la nouvelle que.... <oVar>à</oVar> la vue du bourreau. <oVar>à</oVar> la prière. <oVar>à</oVar> l'instigation des ennemis. <oVar>à</oVar> grandes journées. Venir <oVar>à</oVar> grandes journées. <oVar>à</oVar> la façon des Grecs. <oVar>à</oVar> pleines mains. <oVar>à</oVar> genoux. <oVar>à</oVar> pied. Au toucher. Au goût. <oVar>à</oVar> dessein. <oVar>à</oVar> souhait. <oVar>à</oVar> l'huile. Manger des légumes <oVar>à</oVar> l'huile. <oVar>à</oVar> l'épée. Se battre <oVar>à</oVar> l'épée. <oVar>à</oVar> l'aiguille. Broder <oVar>à</oVar> l'aiguille. <oVar>à</oVar> la paume. Jouer <oVar>à</oVar> la paume. <oVar>à</oVar> voiles et <oVar>à</oVar> rames. <oVar>à</oVar> toute vapeur. <oVar>à</oVar> la main. Fait <oVar>à</oVar> la main. Au poids. <oVar>à</oVar> la mesure. <oVar>à</oVar> prix d'argent. <oVar>à</oVar> bon marché. <oVar>à</oVar> un prix élevé. <oVar>à</oVar> vingt sous la livre. <oVar>à</oVar> gros intérêts. <oVar>à</oVar> sept kilomètres de Paris. <oVar>à</oVar> dix lieues environ. <oVar>à</oVar> une journée de marche. <oVar>à</oVar> mon avis. <oVar>à</oVar> l'exemple des autres. <oVar>à</oVar> ce que je vois. <oVar>à</oVar> ce que je sais. <oVar>à</oVar> l'enseigne du Lion d'argent. Au Veau qui tette. <oVar>à</oVar> la Boule d'or. <oVar>à</oVar> la cour de cassation. Conseiller <oVar>à</oVar> la cour de cassation. Avocat <oVar>à</oVar> la cour d'appel. Commis au ministère de la guerre.</dictScrap>
+<cit>
+<quote>Tu reviens seul, Hémon ; ô sinistre présage ! Que je lis d'infortune aux traits de ton visage !</quote>
+<bibl>
+<author>ROTROU</author>
+<biblScope>Antig. III, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Viens, suis-moi, va combattre et montrer à ton roi Que ce qu'il perd au comte, il le retrouve en toi</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, III, 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et n'est-ce pas depuis ce temps-là qu'Escobar a tant été imprimé de fois en France et aux Pays-Bas ?</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Prov. 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cette pratique est juste ; elle est autorisée aux Pères de l'Église</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À demi-lieue de là, L'Étoile commença de se plaindre</quote>
+<bibl>
+<author>SCARR.</author>
+<biblScope>Rom. com. II, 12</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cet usage du mot sceptre se trouve à toutes les pages de l'Écriture</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Aux bords que j'habitais, je n'ai pu vous souffrir</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Phèd. II, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>.... Ainsi tout mon espoir N'est plus qu'au coup mortel que je vais recevoir</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Iphig. V, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Mais ma force est au dieu dont l'intérêt me guide</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Athal. IV, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Trempa-t-elle au complot de ses frères perfides ?</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Phèd. I, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>De vous laisser au trône où je serais placée</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Britann. IV, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Vous qui gardant au cœur d'infidèles amours</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Mithrid. IV, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Qu'est-ce qu'un nom, pour immortel qu'il soit, s'il n'est écrit au livre de vie ?</quote>
+<bibl>
+<author>FLÉCH.</author>
+<biblScope>t. I, p. 53</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Si quelques mariages se faisaient à mon voisinage</quote>
+<bibl>
+<author>J. J. ROUSS.</author>
+<biblScope>Ém. IV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>D'Assas, capitaine au régiment d'Auvergne</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>S. de L. XIV, chap. 34</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Zamore vit encore au cœur de son amante</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Alz. I, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est avec éclat Que je veux aujourd'hui me venger au sénat</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Catil. II, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Pour languir aux déserts de l'antique Arabie</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Zaïre, III, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Unis pour le butin, divisés au partage</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Cat. III, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les mendiants groupés dans l'ombre des portiques Ont moins de haine au cœur et moins de flamme aux yeux</quote>
+<bibl>
+<author>V. HUGO</author>
+<biblScope>Voix, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et tout ce peuple ingrat pour qui je périrai, Viendra, la joie au front, sourire à mes tortures</quote>
+<bibl>
+<author>C. DELAV.</author>
+<biblScope>V, Sicil. II, 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les choses qui se pratiquaient aux siècles passés</quote>
+<bibl>
+<author>DESC.</author>
+<biblScope>Méth.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'était au temps même que le roi de Prusse vers la Saxe et le prince de Conti vers le Rhin empêchaient que les forces autrichiennes ne pussent secourir l'Italie</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>S. de L. XIV, III, 302</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>On fit mourir au même mois soixante-dix personnes</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>ib. III, 389</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>On vit encore à cette journée quelle était l'inimitié naturelle entre les Suédois et les Danois</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Hist. de Russ. II, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ô ciel ! qu'aux châtiments ta justice est sévère, Et qu'il est dangereux d'exciter ta colère !</quote>
+<bibl>
+<author>ROTROU</author>
+<biblScope>Antig. III, 9</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>.... à l'orgueil de ce traître, De mes ressentiments je n'ai pas été maître</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Tart. V, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je n'en serai point cru à mon serment, et l'on dira que je rêve</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>G. Dand. II, 8</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À mon serment l'on peut m'en croire</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Amph. II, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Aux événements de la guerre il faut....</quote>
+<bibl>
+<author>HAM.</author>
+<biblScope>Gramm. 121</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Mme de La Tour, à cette scène, venant à se rappeler l'abandon où l'avaient laissée ses propres parents, ne pouvait s'empêcher de pleurer</quote>
+<bibl>
+<author>BERN. DE S. P.</author>
+<biblScope>P. et Virg.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les gardes, sans tarder, l'ont ouverte à genoux</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Baj. III, 8</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les emportant aux dents, dans les bois se retirent</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. III, 13</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À toute peine, il regagna le bord</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>ib. VI, 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les mauvais effets qui en germent à milliers</quote>
+<bibl>
+<author>MONTESQ.</author>
+<biblScope>Lett. pers. 85</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cette déclaration est suivie d'un prompt courroux qui paraît à notre rougeur</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Préc. 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ce grand cœur qui paraît au discours que tu tiens</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ce que je puis voir, vous avez combattu, Prince, par intérêt plutôt que par vertu</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Nic. II, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ce que je voi, Chacun n'est pas ici criminel comme moi</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Théb. I, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>L'échange en était fait aux formes ordinaires</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. III, 13</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Faire sa ronde ainsi qu'à l'ordinaire</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>ib. IV, 22</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Croyant que ces propositions pouvaient être prises au sens de la grâce efficace</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Prov. 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Pour faire croire que nous les soutenons au même sens qu'ils ont exprimé par leurs écrits</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Condamner ces propositions au sens de Jansénius</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il s'est fait un miracle à une religieuse de Pontoise</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>ib. 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ton ordre suprême, ils se rendent ici</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>M. de Cés. I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Abandonner mon camp en est un [crime] capital, Inexcusable en tous et plus au général</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Nic. II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Aux rebelles vaincus il usait de douceur</quote>
+<bibl>
+<author>RÉGNIER</author>
+<biblScope>Ép. I</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Lâches aux dangers et perfides dans l'occasion</quote>
+<bibl>
+<author>PERROT D'ABLANCOURT</author>
+<biblScope>Tac. 450</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ils s'engagèrent, à peine de la vie, à....</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. I, 9</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="11">
+<dictScrap>Absolument, devant un pronom interrogatif.</dictScrap>
+<cit>
+<quote>À qui cela ? à quoi bon ? à quelle fin ? à quelle utilité ?</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. II, 13</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À quoi vos jours, vos années se sont-elles écoulées ?</quote>
+<bibl>
+<author>MASS.</author>
+<biblScope>Conv.</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="12">
+<dictScrap>Absolument, devant un verbe exprimant une circonstance <oVar>à</oVar> la façon d'un adverbe ou d'une locution adverbiale. <oVar>à</oVar> vrai dire. <oVar>à</oVar> ne pas mentir. <oVar>à</oVar> en croire Homère. <oVar>à</oVar> y bien regarder. <oVar>à</oVar> tout prendre. <oVar>à</oVar> compter de ce jour. <oVar>à</oVar> partir de telle époque. Que gagnerai-je <oVar>à</oVar> vous tromper ? Perdre son temps <oVar>à</oVar> jouer. Il passe le temps <oVar>à</oVar> se lamenter. Il s'arrête <oVar>à</oVar> lire les affiches.</dictScrap>
+<cit>
+<quote>Le bon sens n'est pas à penser sur les choses avec trop de sagacité</quote>
+<bibl>
+<author>VAUVENARGUES.</author>
+<biblScope>Bon Sens.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Guzman, du sang des miens ta main déjà rougie Frémira moins qu'une autre à m'arracher la vie</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>Alz. III, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ils triomphent à montrer là-dessus la folie du monde</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Pens. div. 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et que deviendra lors cette publique estime, Qui te vante partout pour un fourbe sublime, Et que tu t'es acquise en tant d'occasions à ne t'être jamais vu court d'inventions ?</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>l'Étourdi, III, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>L'allégresse du cœur s'augmente à la répandre</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Écol. des F. IV, 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>La curiosité qui vous presse est bien forte, Ma mie, à nous venir écouter de la sorte</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Tart. II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il faut avec vigueur ranger les jeunes gens, Et nous faisons contre eux à leur être indulgents</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Éc. des F. V, 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À parler franchement</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>l'Étourdi, I, 9</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À vous dire la vérité</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>D. Juan, I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Imitez son exemple à ne pardonner pas</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>VI, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'entreprendrais sur elle à l'accepter de vous</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Rod. III, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'en ferais autant qu'elle à vous connaître moins</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>ib. V, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À vaincre sans péril on triomphe sans gloire</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À les défendre mal je les aurais trahis</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>ib. v.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je deviendrais suspect à parler davantage</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cinna, I, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À raconter ses maux souvent on les soulage</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Poly., I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>... J'aurais en mon malheur Quelque contentement à flatter ma douleur</quote>
+<bibl>
+<author>RÉGNIER</author>
+<biblScope>Sat. XV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À commencer par leur fils Hinyas</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. III, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les apôtres, à les regarder par les yeux humains....</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>ib. II, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À remonter à la source, c'était....</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>ib. II, 12</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À l'entendre, rien n'était difficile</quote>
+<bibl>
+<author>FÉN.</author>
+<biblScope>Tél. XVI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cette prétendue règle, à la prendre sans restriction, est évidemment fausse</quote>
+<bibl>
+<author>D'OLIV.</author>
+<biblScope>Prosod. fr.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il est faux qu'à s'en abstraire par vertu l'on se fasse mépriser</quote>
+<bibl>
+<author>J. J. ROUSS.</author>
+<biblScope>Hél. I, 57</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'avilirais le sceptre à venger mon injure</quote>
+<bibl>
+<author>C. DELAV.</author>
+<biblScope>V, Sicil. III, 2</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="13">
+<dictScrap>Absolument, devant un nom de nombre ou devant un pronom suivi d'un nom de nombre. <oVar>à</oVar> quatre. Ils soulevèrent ce fardeau <oVar>à</oVar> quatre. <oVar>à</oVar> lui seul. <oVar>à</oVar> moi seul. Médée, <oVar>à</oVar> elle seule, bravait une armée. Ignominie qui, <oVar>à</oVar> elle seule.... <oVar>à</oVar> trois que nous étions, nous ne pouvions soulever ce fardeau.</dictScrap>
+</sense>
+<sense n="14">
+<dictScrap>Absolument, avec un adverbe de temps. <oVar>à</oVar> quand ? <oVar>à</oVar> quand le rendez-vous ? <oVar>à</oVar> demain. <oVar>à</oVar> demain, je vous attends. <oVar>à</oVar> demain les affaires. <oVar>à</oVar> jamais. Événement <oVar>à</oVar> jamais déplorable. <oVar>à</oVar> toujours.</dictScrap>
+<cit>
+<quote>Soyez prêt à demain</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, IV, 5</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="15">
+<dictScrap>Elliptiquement, devant un nom ou un pronom. Au secours ! <oVar>à</oVar> moi, citoyens ! Au voleur ! Au feu ! <oVar>à</oVar> la porte, l'insolent ! <oVar>à</oVar> table, messieurs ! <oVar>à</oVar> l'ennemi, soldats ! <oVar>à</oVar> votre santé ! <oVar>à</oVar> monsieur un tel (sur une adresse). <oVar>à</oVar> Jupiter, très bon, très grand. Au revoir (revoir est ici un substantif). <oVar>à</oVar> ce soir. <oVar>à</oVar> dimanche. <oVar>à</oVar> la vie, <oVar>à</oVar> la mort. <oVar>à</oVar> perpétuité. Concession <oVar>à</oVar> perpétuité dans un cimetière.</dictScrap>
+<cit>
+<quote>À moi, comte, deux mots</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Holà, gardes, à moi !</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Iphig. IV, 7</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="16">
+<dictScrap>Elliptiquement, entre un substantif et un verbe (équivalent <oVar>à</oVar> bon, propre). Chose <oVar>à</oVar> dire. Lettre <oVar>à</oVar> écrire. Homme <oVar>à</oVar> pendre. Je ne vous crois pas homme <oVar>à</oVar> faire cela. Occasion <oVar>à</oVar> ne pas laisser échapper. Affaire <oVar>à</oVar> perdre un homme. Procès <oVar>à</oVar> ne pas finir. Conte <oVar>à</oVar> dormir debout. Chambre <oVar>à</oVar> coucher. Pierre <oVar>à</oVar> aiguiser. Arbres <oVar>à</oVar> transplanter. Compte <oVar>à</oVar> revoir. Travail <oVar>à</oVar> refaire. Lettre <oVar>à</oVar> porter. Par abréviation : <oVar>à</oVar> revoir, <oVar>à</oVar> refaire, <oVar>à</oVar> porter.</dictScrap>
+<cit>
+<quote>Un voile à couvrir d'autres flammes</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Dépit am. I, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Un cœur qui jamais n'a fait la moindre chose à mériter l'affront où ton mépris l'expose</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Sgan. 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>La couronne n'a rien à me rendre content</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>D. Garc. V, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cherchons une maison à vous mettre en repos</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>l'Étourdi, V, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je me sens un cœur à aimer toute la terre</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>D. Juan, I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je n'ai point un courroux à l'exhaler en paroles vaines</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>ib. I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Si je te disais le nom de toutes celles qu'il a épousées en divers lieux, ce serait un chapitre à durer jusqu'au soir</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>ib. I, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Sous quel astre ton maître a-t-il reçu le jour ? Sous un astre à jamais ne changer son amour</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>l'Étourdi, I, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>De taille à se défendre hardiment</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. I, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'était une clameur à rendre les gens sourds</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>ib. VIII, 12</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ce n'était pas un homme à conquérir des royaumes</quote>
+<bibl>
+<author>VOLT.</author>
+<biblScope>S. de L. XIV, IV, 155</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="17">
+<dictScrap>Elliptiquement, devant un verbe. Demain, <oVar>à</oVar> recommencer. Après-demain, <oVar>à</oVar> dîner. <oVar>à</oVar> revoir, monsieur.</dictScrap>
+<cit>
+<quote>Finissons ; mais demain, muse, a recommencer</quote>
+<bibl>
+<author>BOILEAU</author>
+<biblScope>Sat. VII</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="18">
+<dictScrap>Locutions avec le verbe être. Cela est <oVar>à</oVar> moi. Tout était <oVar>à</oVar> l'ennemi. C'est <oVar>à</oVar> vous de prendre garde. Ce n'est pas <oVar>à</oVar> nous d'examiner. On ne peut être <oVar>à</oVar> soi un seul instant. Cet homme est <oVar>à</oVar> lui-même une énigme. C'est bien fait <oVar>à</oVar> vous. C'est <oVar>à</oVar> un bon consul de prévoir ce qui arrivera. C'est <oVar>à</oVar> faire <oVar>à</oVar> lui. C'est folie <oVar>à</oVar> vous de croire. Cinq est <oVar>à</oVar> quinze comme vingt est <oVar>à</oVar> soixante. <oVar>à</oVar> cette partie de trictrac, nous étions cinq trous <oVar>à</oVar> dix. Dans cette partie de billard, nous sommes quatre <oVar>à</oVar> six. Je suis ici <oVar>à</oVar> l'attendre. Je suis encore <oVar>à</oVar> savoir comment. Cet homme est <oVar>à</oVar> craindre.</dictScrap>
+<cit>
+<quote>Avec ellipse de soit : Honneur aux braves, c'est-à-dire honneur soit aux braves, et ainsi pour les exemples suivants : Gloire à Dieu dans le ciel ! Guerre aux châteaux et paix aux chaumières ! Malheur aux vaincus ! Les fureurs de la terre Ne sont que paille et que verre à la colère des cieux</quote>
+<bibl>
+<author>MALH.</author>
+<biblScope>II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>L'amour que J'ai pour vous est tout à votre gloire</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>D. Sanche, II, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Qui n'est point au vaincu ne craint pas le vainqueur</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>M. de Pomp. I, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'était bien dit à lui ; j'approuve sa prudence</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. III, 18</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>L'homme est à lui-même le plus prodigieux objet de la nature. Connaissez donc, superbe, quel paradoxe vous êtes à vous-même</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>édit. Cousin.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Elle était à la conversation comme si elle n'avait eu autre chose à faire</quote>
+<bibl>
+<author>J. J. ROUSS.</author>
+<biblScope>Hél. VI, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Chaque juge est un homme à moi</quote>
+<bibl>
+<author>BÉRANG.</author>
+<biblScope>M. du S. E.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Elle revint longtemps après ; J'étais à chanter sous la treille</quote>
+<bibl>
+<author>BÉRANG.</author>
+<biblScope>Print. et Aut.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les clameurs des soldats par la crainte étouffées Sont un faible rempart au chef audacieux, Qui brave le courroux d'un ministre des cieux</quote>
+<bibl>
+<author>C. DELAV.</author>
+<biblScope>Paria, I, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>La bonne grâce est au corps ce que le bon sens est à l'esprit</quote>
+<bibl>
+<author>LA ROCHEF.</author>
+<biblScope>Réflex. 67</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est bien à vous, infâme que vous êtes, à vouloir faire l'homme d'importance</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Préc. 14</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il est encore à revenir</quote>
+<bibl>
+<author>SÉV.</author>
+<biblScope>212</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Est-ce donc une chose à dire gaiement ? et n'est-ce pas une chose à dire, au contraire, tristement, comme la chose du monde la plus triste ?</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Pens. II, 2</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="19">
+<dictScrap>Locutions avec avoir. Avoir affaire <oVar>à</oVar> quelqu'un. Il y a de la folie <oVar>à</oVar> croire que.... Je n'avais rien <oVar>à</oVar> vous écrire. Vous n'avez qu'<oVar>à</oVar> parler. J'ai <oVar>à</oVar> vous entretenir. Il y aurait <oVar>à</oVar> craindre. Le temps que j'ai <oVar>à</oVar> vivre. L'argent que j'ai <oVar>à</oVar> dépenser.</dictScrap>
+<cit>
+<quote>Ils eurent un peu à souffrir sous ses successeurs</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. II, 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Si c'était une paysanne, vous auriez maintenant toutes vos coudées franches à vous en faire la justice à bons coups de bâton</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>G. Dand. I, 3</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="20">
+<dictScrap>Locutions avec faire suivi d'un infinitif. J'ai fait faire un habit <oVar>à</oVar> mon tailleur. Il a fait accepter un cadeau <oVar>à</oVar> son ami. Faire prendre les armes <oVar>à</oVar> la troupe.</dictScrap>
+<cit>
+<quote>Ils l'ont fait recevoir [la bulle] au clergé</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Prov. 16</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="21">
+<dictScrap>Locutions avec se laisser et un infinitif. Se laisser séduire aux voluptés. Se laissant conduire <oVar>à</oVar> leurs inclinations et <oVar>à</oVar> leurs désirs.</dictScrap>
+<cit>
+<quote>Ne nous laissons pas abattre à la tristesse</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>édit. Cousin.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'avance cette opinion ; mais, parce qu'elle est nouvelle, je la laisse mûrir au temps</quote>
+<bibl>
+<author>PASC.</author>
+<biblScope>Prov. 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ce peuple se laissait conduire à ses magistrats</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. III, 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>On se laissait dominer à l'amour</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>ib. II, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et ne vous laissez pas séduire à vos bontés</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Femmes sav. V, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et que j'aurais cette faiblesse d'âme De me laisser mener par le nez à ma femme</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>ib. V, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Vous vous laissez tenter à l'envie de causer</quote>
+<bibl>
+<author>SÉV.</author>
+<biblScope>402</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Quand je vous écris, je me laisse conduire à ma plume</quote>
+<bibl>
+<author>BALZ.</author>
+<biblScope>liv. XV, lett. XV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ne vous laissez point abattre à la douleur</quote>
+<bibl>
+<author>FÉN.</author>
+<biblScope>Tél. XXIII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ne vous laissez point vaincre à votre malheur</quote>
+<bibl>
+<author>FÉN.</author>
+<biblScope>ib. II</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>.... Ce héros Laisse aux pleurs d'une épouse attendrir sa victoire</quote>
+<bibl>
+<author>RAC.</author>
+<biblScope>Iphig. IV, 4</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="22">
+<dictScrap>Locutions avec ouïr dire, voir faire, entendre dire, etc. J'ai ouï dire <oVar>à</oVar> des vieillards.</dictScrap>
+<note type="REM.">
+<p>Des lexicographes ont critiqué cette locution, comme étant amphibologique et pouvant signifier : j'ai entendu qu'on disait à des vieillards ; ils voulaient que l'on mît : " J'ai ouï dire par des vieillards. " Mais ce scrupule est excessif ; ouï dire est une locution inséparable et on ne peut jamais intercaler quelque chose entre ouï et dire, ni supposer, j'ai ouï quelqu'un dire à des vieillards. Cela étant impossible, le sens de la locution ne prête à aucune amphibologie. On dira de même : j'ai entendu dire à votre frère que vous viendrez, c'est-à-dire j'ai entendu votre frère qui disait : j'ai vu faire à ces hommes une action généreuse, c'est-à-dire j'ai vu ces hommes faisant. Mais il n'en serait plus de même si un pronom intervenait au lieu d'un nom : je lui ai entendu dire ; je lui ai vu faire ; je lui ai vu donner ; l'amphibologie commence, et il y a à distinguer deux cas :</p>
+<p>1° si le verbe à l'infinitif ne peut avoir de régime indirect avec à, la locution est bonne, l'amphibologie n'existe pas : je lui ai vu franchir le fossé : on ne dit pas franchir à quelqu'un ; le cas n'est pas douteux ; je l'ai vu franchissant le fossé ; je lui ai vu faire une action généreuse ; on ne dit pas faire à quelqu'un ; le sens est donc, je l'ai vu faisant. </p> 
+<p>2° Si le verbe à l'infinitif peut avoir un régime indirect avec à, l'amphibologie commence réellement : je lui ai vu donner un soufflet pourrait également signifier, je l'ai vu donnant un soufflet, et j'ai vu qu'on lui donnait un soufflet. On évitera donc cette tournure.</p>
+</note>  
+</sense>
+<sense n="23">
+<dictScrap>Locutions avec attendre. J'ai attendu <oVar>à</oVar> vous parler que tout le monde fût sorti.</dictScrap>
+<cit>
+<quote>Elle.... Attend l'ordre d'un père à choisir un époux</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, I, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Qu'attendons-nous à nous soumettre ?</quote>
+<bibl>
+<author>BOSSUET</author>
+<biblScope>Hist. II, 13</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Attendez à les lui donner quand il aura assez de force</quote>
+<bibl>
+<author>FÉN.</author>
+<biblScope>Tél. XXI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Le feu demeure caché dans les veines des cailloux, et il attend à éclater jusqu'à ce que le choc d'un autre corps l'excite</quote>
+<bibl>
+<author>FÉN.</author>
+<biblScope>Exist. de Dieu, 15</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="24">
+<dictScrap>Locutions avec trouver. J'ai trouvé <oVar>à</oVar> votre ami un air soucieux. Trouver <oVar>à</oVar> dire.</dictScrap>
+<cit>
+<quote>Écoutez si vous trouvez l'air à votre goût</quote>
+<bibl>
+<author>MOL.</author>
+<biblScope>Préc. 10</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="25">
+<dictScrap>Devant de. Rien ne plaît <oVar>à</oVar> des gens malades. Répondez avec fermeté <oVar>à</oVar> de telles prétentions. Il se livre <oVar>à</oVar> des extravagances.</dictScrap>
+<cit>
+<quote>À de plus hauts partis Rodrigue doit prétendre</quote>
+<bibl>
+<author>CORN.</author>
+<biblScope>Cid, I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>La nature, féconde en bizarres portraits, Dans chaque âme est marquée à de différents traits</quote>
+<bibl>
+<author>BOILEAU</author>
+<biblScope>Art. Poét. III</biblScope>
+</bibl>
+</cit>
+<dictScrap>Cette locution s'explique par la construction partitive (voy. <ref target="de">DE</ref>).</dictScrap>
+</sense>
+<sense n="26">
+<dictScrap>De.... <oVar>à</oVar>. De Paris <oVar>à</oVar> Rouen il y a trente lieues. D'eux <oVar>à</oVar> moi il y a cette différence. D'homme <oVar>à</oVar> homme. Elliptiquement : vingt <oVar>à</oVar> trente, dix <oVar>à</oVar> douze, pour de vingt <oVar>à</oVar> trente, de dix <oVar>à</oVar> douze. Du matin au soir. De la tête aux pieds. Du jour au lendemain. De vous <oVar>à</oVar> moi. De nation <oVar>à</oVar> nation. Vivre de pair <oVar>à</oVar> compagnon. Traiter de Turc <oVar>à</oVar> More. De gré <oVar>à</oVar> gré.</dictScrap>
+</sense>
+<sense n="27">
+<dictScrap>Locution <oVar>à</oVar> qui. C'était <oVar>à</oVar> qui partirait le premier. Ils se disputent <oVar>à</oVar> qui sera préféré <oVar>à</oVar> l'autre. Tirons <oVar>à</oVar> qui jouera le premier.</dictScrap>
+<cit>
+<quote>Eh bien ! gageons nous deux à qui plus tôt aura dégarni les épaules Du cavalier</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Fab. VI, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Hélène adorée vit les peuples et les dieux combattre à qui la posséderait</quote>
+<bibl>
+<author>P. L. COUR.</author>
+<biblScope>I, 39</biblScope>
+</bibl>
+</cit>
+</sense>
+<sense n="28">
+<dictScrap>Locutions par pléonasme. <oVar>à</oVar> est suivi d'un pronom personnel reproduisant le pronom possessif qui précède. C'est mon opinion <oVar>à</oVar> moi. Votre devoir <oVar>à</oVar> vous, est de partir. Sa manière <oVar>à</oVar> lui, c'est de parler par sentences. Leur gain <oVar>à</oVar> eux est de cent francs.</dictScrap>
+</sense>
+<sense n="29">
+<dictScrap>Locution populaire, la barque <oVar>à</oVar> Caron. Cette tournure n'est plus usitée que dans cette locution, et ce serait une faute que de s'en servir autre part. Pourtant elle n'est qu'un archaïsme, et, aujourd'hui encore, on dit parmi les ouvriers et les gens de campagne : la femme <oVar>à</oVar> Jean, la fille <oVar>à</oVar> Thomas, la sœur au bedeau.</dictScrap>
+<dictScrap>Pour l'emploi populaire et archaïque de <oVar>à</oVar> au sens possessif, on peut citer : épouvantail <oVar>à</oVar> chènevière, et cet exemple de La Fontaine :.... car le greffe tient bon, Quand une fois il est saisi des choses : C'est proprement la caverne au lion, Oraison.</dictScrap>
+<sense>
+<dictScrap>Joinville disait comme nos paysans : La comtesse Marie qui fut sœur au roi de France, édit. de la Bibl. nat. p. 17.</dictScrap>
+</sense>
+</sense>
+<note type="REM.">
+<p>À étant entre deux substantifs où le conséquent détermine l'antécédent, le conséquent doit-il prendre le pluriel, quand l'antécédent change de nombre, ou quand le conséquent peut représenter une pluralité ? En d'autres termes, si l'on écrit fruit à noyau, faut-il écrire, au pluriel, fruits à noyau ou à noyaux ; et faut-il écrire arbre à fruit ou à fruits ? Il y a quatre cas :</p>
+<p>1° L'antécédent est au singulier ou au pluriel, et le conséquent n'est pas susceptible de pluralité ; alors on met toujours le singulier : pomme à cidre et pommes à cidre ; mouche à miel et mouches à miel ; machine à vapeur et machines à vapeur ; une arme à feu, des armes à feu ; un moulin à eau, des moulins à eau ; une rente à perpétuité, des rentes à perpétuité ; </p> 
+<p>2° l'antécédent est au singulier ou au pluriel, et le conséquent indique la pluralité : une bête à cornes, des bêtes à cornes ; un serpent à sonnettes, des serpents à sonnettes ; un homme à projets, à préjugés ; </p> 
+<p>3° le conséquent est nécessairement singulier ; alors quand l'antécédent est mis au pluriel, on peut maintenir le conséquent au singulier, attendu qu'il est unique pour chaque antécédent, ou le mettre au pluriel en considérant qu'il y en a autant que d'antécédents : une comète est un astre à queue ; les comètes sont des astres à queue ou à queues ; manchette à dentelle, manchettes à dentelle ou à dentelles ; couteau à ressort, couteaux à ressort ou à ressorts ; cuiller à pot, cuillers à pot ou à pots. L'usage le plus ordinaire est de mettre le singulier ; mais, comme on voit, le pluriel n'est pas une faute ; </p> 
+<p>4° le conséquent, bien que multiple, peut être considéré comme un nom collectif, par exemple, fruit, feuille, fleur, puisqu'on dit le fruit de cet arbre, la fleur du poirier, la feuille de l'acacia. Dans ce cas, on peut mettre le nombre que l'on veut, que l'antécédent soit au singulier ou au pluriel : arbre à fruit ou à fruits, arbres à fruit ou à fruits ; mais si le conséquent ne se prend pas habituellement au sens collectif, il faut toujours le mettre au pluriel. Ainsi on ne dira pas fleur à pistil, mais à pistils, fruit à noyau, mais fruit à noyaux, à moins, bien entendu, que la fleur n'ait qu'un pistil, le fruit qu'un noyau. Considérer ces mots-là comme collectifs se peut à la rigueur ; mais c'est leur attribuer un usage qu'ils n'ont pas, et dès lors il vaut mieux suivre l'idée naturelle, qui est celle du pluriel.</p>
+<p>2. On lisait dans l'avant-dernière édition du Dictionnaire de l'Académie : il y avait sept à huit personnes dans cette assemblée. La dernière édition et tous les grammairiens modernes condamnent cette locution. On ne peut employer la préposition à qu'entre deux nombres qui en laissent supposer un intermédiaire ou qu'entre deux nombres consécutifs, quand il s'agit de choses qu'on peut diviser par fractions. Mais, dans l'exemple cité, il faut la conjonction ou, parce qu'une personne ne se divise pas. Les bons auteurs ont reconnu la règle donnée ici.  <cit><quote>On a pris ou tué aux Allemands sept à huit cents hommes</quote><bibl><author>RAC.</author><biblScope>Lett. à Boil. XLI</biblScope></bibl></cit> <cit><quote>Les deux jeunes bergères assises voyaient, à dix pas d'elles, cinq ou six chèvres</quote><bibl><author>LA FONT.</author><biblScope>Psyché.</biblScope></bibl></cit> <cit><quote>Il y avait dans la maison du paysan où je logeais cinq ou six femmes et autant d'enfants qui s'y étaient réfugiés</quote><bibl><author>BERN. DE S. P.</author><biblScope>Études, 13</biblScope></bibl></cit> <cit><quote>Je fus étonné de voir jusqu'à sept ou huit personnes se rassembler sous ce même toit</quote><bibl><author>LA BRUY.</author><biblScope>13</biblScope></bibl></cit> La faute vulgaire provient d'une extension non raisonnée du cas où la locution convient, sept à huit livres, au cas où elle ne convient pas, sept à huit hommes. </p>
+<p>3. C'est à lui à qui on en veut. Dites c'est à lui qu'on en veut, ou c'est lui à qui on en veut. L'usage actuel condamne la répétition de à ; et c'est en effet un pléonasme. Ainsi on trouve une faute dans ce vers de Boileau : C'est à vous, mon esprit, à qui je veux parler, Sat. IX. Mais si Boileau y avait vu une faute, il lui était bien facile de l'éviter, en mettant : Oui, c'est vous, mon esprit, à qui je veux parler. Le fait est que de son temps cela n'était pas considéré comme une faute. Ses contemporains ne se font aucun scrupule de répéter à.  <cit><quote>Que de son cuisinier il s'est fait un mérite, Et que c'est à sa table à qui l'on rend visite</quote><bibl><author>MOL.</author><biblScope>Misanth. II, 5</biblScope></bibl></cit> <cit><quote>Ce sera à vos oreilles à qui j'ajusterai la cadence de mes périodes</quote><bibl><author>BALZ.</author><biblScope>liv. VII, lett. XXI</biblScope></bibl></cit> Les auteurs plus anciens usent également de cette façon de parler. Aujourd'hui on rejette absolument ce pléonasme. </p>
+<p>4. On dit, à Paris, à Bordeaux, quand il s'agit de la demeure, soit fixe, soit passagère. Il est à Paris, il réside à Paris, il passera quelques jours à Paris ; autrement, on peut dire dans : il y a douze cent mille habitants dans Paris </p>
+<p>5. à devant les noms de lieux. 1° On se sert toujours de à devant les noms de villes ou de villages : aller ou résider à Paris, à Meudon, à Saint-Cloud ; 2° de en devant les noms de continents, de pays, de provinces, quand ils sont féminins. Aller ou résider en France, en Afrique, en Algérie, en Angleterre, en Normandie ; 3° de à, s'ils sont masculins : aller ou résider au Japon, au Mexique, au Canada, au Perche, au Maine : Cependant on dit : en Portugal, en Danemark, en Béarn, bien qu'ils soient masculins ; 4° autrefois la distinction entre l'emploi de à et celui de en n'était pas faite, et l'on disait aller à l'Amérique.  <cit><quote>L'un des trois jouvenceaux Se noya dès le port, allant à l'Amérique</quote><bibl><author>LA FONT.</author><biblScope>Fab. XI, 8</biblScope></bibl></cit> <cit><quote>Solon passa à Chypre</quote><bibl><author>FÉN.</author><biblScope>Solon</biblScope></bibl></cit> De cet ancien usage il est resté, à la Chine : aller à la Chine ; mais on commence à dire de préférence, en Chine. </p>
+<p>6. C'est à vous à faire cela ; c'est à vous de faire cela. Ces deux tournures s'emploient l'une et l'autre et sont équivalentes ; il est impossible de fixer entre elles une nuance réelle et fondée sur l'usage.  <cit><quote>C'est au prince à juger de ses ministres</quote><bibl><author>D'ABLANC.</author><biblScope>dans BOUHOURS</biblScope></bibl></cit> <cit><quote>Ce n'est pas à vous d'élire quelle charge et quelle fonction vous devez faire</quote><bibl><author>l'abbé RÉGNIER</author><biblScope>dans BOUHOURS</biblScope></bibl></cit> <cit><quote>C'était à lui à vous faire entendre....</quote><bibl><author>BOSSUET</author><biblScope>Hist. II, 6</biblScope></bibl></cit> Ces deux tournures, autorisées par l'usage, n'ont pas un titre égal devant la grammaire. C'est à vous de parler s'explique grammaticalement : de parler est à vous. Mais c'est à vous à parler ne s'explique pas ; il faut y voir une incorrection causée par l'oreille, que le premier à décida à en vouloir un second. </p>
+<p>7. On doit répéter la préposition à devant chacun de ses compléments : il écrit à Pierre et à Jean, et non, il écrit à Pierre et Jean ; il aime à lire et à écrire, et non à lire et écrire. Ainsi on n'imitera pas ces exemples de Molière : <cit><quote>On sait bien que Célie A causé des désirs à Léandre et Lélie</quote><bibl><author>MOL.</author><biblScope>l'Étourdi, V, 3</biblScope></bibl></cit> <cit><quote>Comme si j'étais femme à violer la foi que j'ai donnée à mon mari et m'éloigner jamais de la vertu</quote><bibl><author>MOL.</author><biblScope>G. Dand. II, 10</biblScope></bibl></cit> Exceptions : Parmi tous les romans de l'antiquité, je donne la préférence à Théagène et Chariclée, parce que ces deux mots Théagène et Chariclée, étant le titre d'un ouvrage, ne font qu'une expression unique. Par la même raison on dira, il aime à aller et venir, parce qu'aller et venir forment une locution. On pourra semblablement supprimer à quand deux verbes placés l'un à côté de l'autre ressembleront à une locution ; ce qui est délicat à apprécier.  <cit><quote>On pourra encore supprimer à, du moins en poésie, quand la phrase est longue, comme ici : Pour de l'esprit, j'en ai, sans doute, et du bon goût à juger sans étude et raisonner de tout, à faire aux nouveautés, dont je suis idolâtre, Figure de savant sur les bancs d'un théâtre, Y décider en chef et faire du fracas à tous les bons endroits qui méritent des ah !</quote><bibl><author>MOL.</author><biblScope>Misanth. III, 1</biblScope></bibl></cit> Supprimer à n'est point une faute contre la logique ou la grammaire ; c'est seulement une faute contre un usage qui, dans le fait, est favorable à la clarté.  <cit><quote>C'est avec cette remarque que l'on appréciera les phrases suivantes de bons auteurs : Moïse qui m'a dit que j'étais fait à l'image et ressemblance de Dieu</quote><bibl><author>BOSSUET</author><biblScope>Connaiss. de D. IV, 8</biblScope></bibl></cit> <cit><quote>La disposition qu'a le corps, dans les passions, à s'avancer ou se reculer</quote><bibl><author>BOSSUET</author><biblScope>ib. IV, 3</biblScope></bibl></cit> <cit><quote>Il ne songe plus qu'à vivre et avoir de la santé</quote><bibl><author>LA BRUY.</author><biblScope>8</biblScope></bibl></cit> <cit><quote>Une animosité qui commençait à aigrir et troubler votre cœur</quote><bibl><author>MASS.</author><biblScope>Profes. relig. Serm. 4</biblScope></bibl></cit> </p>
+<p>8. à se répète avec l'un et l'autre. Cela convient à l'un et à l'autre, et non à l'un et l'autre. Cependant, en poésie, la règle ne s'observe pas.  <cit><quote>À l'une ou l'autre enfin votre âme à l'abandon Ne lui pourra jamais refuser ce pardon</quote><bibl><author>CORN.</author><biblScope>Perth. IV, 1</biblScope></bibl></cit> </p>
+<p>9° Locut. vic. Le fils à Guillaume. Loc. corr. Le fils de Guillaume. Le rapport d'origine n'est plus marqué par la prép. à. Ne dites pas non plus, la maison à mon père. Loc. vic. Je suis l'aîné à mon frère qui est à Paris. Loc. corr. Je suis l'aîné de mon frère qui est à Paris. Loc. vic. Je suis cousin à votre apothicaire. Loc. corr. Je suis cousin de votre apothicaire. Loc. vic. Sept ôtés de dix, reste à trois. Loc. corr. Sept ôtés de dix, reste trois ; comme s'il y avait, il reste trois. Loc. vic. Il demeure à la grande rue. Avez-vous votre mouchoir à la poche ? Loc. corr. Il demeure dans la grande rue. Avez-vous votre mouchoir dans votre poche ? </p>
+</note>
+<note type="HIST.">
+<label>IXe s.</label>
+<cit>
+<quote>Et ab Ludher nul plaid nunquam prindrai</quote>
+<bibl>
+<biblScope>Serment</biblScope>
+</bibl>
+</cit>
+<label>Xe s.</label>
+<cit>
+<quote>Chi [qui] rex eret à cels dis sovre pagiens</quote>
+<bibl>
+<biblScope>Eulalie</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ad une spede [épée] li roverent tolir le chief</quote>
+<bibl>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Jonas propheta habebat mult laboret e mult penet à cel populum</quote>
+<bibl>
+<biblScope>Fragm. de Valenc. p. 468</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Dunc si rogavit Deus ad un verme que percussist cel edre [lierre]</quote>
+<bibl>
+<biblScope>ib. p. 468</biblScope>
+</bibl>
+</cit>
+<label>XIe s.</label>
+<cit>
+<quote>Car fut l'espée à moult noble vassal</quote>
+<bibl>
+<biblScope>Ch. de Roland, LXXXVI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Trahi vous a, qui à garder vous ot</quote>
+<bibl>
+<biblScope>ib. XCI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Or je sai bien, n'avons gueres à vivre</quote>
+<bibl>
+<biblScope>ib. CXLI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Sire, à pied estes, et je sui à cheval</quote>
+<bibl>
+<biblScope>ib. CLVII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Conseillez moi à dreit et à honur</quote>
+<bibl>
+<biblScope>ib. CLXXIV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Puis il s'escrie à sa voiz grant et haute : Baron franceis as chevals et as armes !</quote>
+<bibl>
+<biblScope>ib. CCXII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Seigneur baron, à Charlemagne irez</quote>
+<bibl>
+<biblScope>ib. V</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Sa coustume est qu'il parole à loisir</quote>
+<bibl>
+<biblScope>ib. X</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Que nous seions conduit à mendier</quote>
+<bibl>
+<biblScope>ib. III</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Quand [il] le dut prendre, si lui cheït [tomba] à terre</quote>
+<bibl>
+<biblScope>ib. XXV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Tant vous [mon épée] [je] aurai en court à rei portée</quote>
+<bibl>
+<biblScope>ib. XXXIII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>En France ad Ais s'en doit ben repairer [aller]</quote>
+<bibl>
+<biblScope>ib. III</biblScope>
+</bibl>
+</cit>
+<label>XIIe s.</label>
+<cit>
+<quote>La nuvele vint al rei Salomun que Adonias fud al tabernacle</quote>
+<bibl>
+<biblScope>Rois, p. 26</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>David parla à nostre Seigneur al jur qu'il l'out delivred de tuz ses enemis</quote>
+<bibl>
+<biblScope>ib. p. 205</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>E sis peres le fist al ostel porter</quote>
+<bibl>
+<biblScope>ib. p. 317</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Entrer vuel [je veux] en sa terre à [avec] mon barnage fier</quote>
+<bibl>
+<biblScope>Sax. 6</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Qui donc veïst le duc sor un cheval gascon, Poindre parmi les rues, à sa main un baston...</quote>
+<bibl>
+<biblScope>ib. 8</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Quant li dux fu ocis à duel et à tourment</quote>
+<bibl>
+<biblScope>ib. 12</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>... il ot fait asembler Touz les princes qu'il pot à sa terre trover</quote>
+<bibl>
+<biblScope>ib. 13</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et si escrie : Or à eux [allons sur eux], chevalier</quote>
+<bibl>
+<biblScope>Ronc. p. 57</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ces paroles [ils] font les grailles [trompettes] sonner</quote>
+<bibl>
+<biblScope>ib. p. 57</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Au duel [deuil] qu'il ot, li cuens [comte] cheït pasmé</quote>
+<bibl>
+<biblScope>ib. p. 93</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À icest mot l'a Roland coneü</quote>
+<bibl>
+<biblScope>ib. p. 93</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Vous fustes fils au bon comte Reynier</quote>
+<bibl>
+<biblScope>ib. p. 99</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À voiz escrie : Car chevauchez, baron</quote>
+<bibl>
+<biblScope>ib. p. 71</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Freins à or</quote>
+<bibl>
+<biblScope>ib. p. 5</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À toute vostre vie</quote>
+<bibl>
+<biblScope>ib. p. 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À honte et à vilté</quote>
+<bibl>
+<biblScope>ib. p. 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À une lieue erent [étaient] jà li glouton</quote>
+<bibl>
+<biblScope>ib. p. 47</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À [avec] mil franzois [il] s'est de Rolant partis</quote>
+<bibl>
+<biblScope>ib. p. 57</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Vers le palais qui fut au roi Gibon</quote>
+<bibl>
+<biblScope>ib. p. 120</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Garez en vous, gentils fils à baron</quote>
+<bibl>
+<biblScope>ib. p. 140</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Si estes suer [sœur] al marquis Olivier</quote>
+<bibl>
+<biblScope>ib. p. 161</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>[Il] mit jambe à terre du bon destrier corant</quote>
+<bibl>
+<biblScope>ib. p. 152</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Las ! quel amour à duel est departie !</quote>
+<bibl>
+<biblScope>ib. p. 163</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À Marsile en alai, ad enviz ou de gré</quote>
+<bibl>
+<biblScope>ib. p. 199</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ces paroles li saint anges descent</quote>
+<bibl>
+<biblScope>ib. p. 173</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ne m'i laissez mourir à tel tourment</quote>
+<bibl>
+<biblScope>Couci, XI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Car vostre [je] sui, et serai à tous dis [jours]</quote>
+<bibl>
+<biblScope>ib. XVII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et nule riens [chose] n'est tant à mon desir</quote>
+<bibl>
+<biblScope>ib. XIX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ou cil qui aime du cuer à son pooir</quote>
+<bibl>
+<biblScope>ib. XX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À la douçor du tens qui raverdoie, Chantent oisel et florissent verger</quote>
+<bibl>
+<biblScope>ib. XXI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Mais il convient qu'à sa volenté [je] soie</quote>
+<bibl>
+<biblScope>ib. XXI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Que me partir [je] n'en pourroie à nul jor</quote>
+<bibl>
+<biblScope>ib. XVII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Tuit [tout] mi penser sont à ma dame amie</quote>
+<bibl>
+<biblScope>ib. II</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Vous pouvez bien savoir par ma chanson Et à mes diz, que je n'aim se vous non</quote>
+<bibl>
+<biblScope>ib. II</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Tant s'est amors afermée En mon cuer à long sejor</quote>
+<bibl>
+<biblScope>ib. I</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Or à mari autre que vous n'aurai</quote>
+<bibl>
+<biblScope>Romancero, p. 72</biblScope>
+</bibl>
+</cit>
+<label>XIIIe s.</label>
+<cit>
+<quote>Là trouverent il le comte Looys à moult plenté de bone gent et de moult bone chevalerie</quote>
+<bibl>
+<author>VILLEH.</author>
+<biblScope>XXXII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il s'agenoilla tout plorant et leur jura sur sains que il à bonne foi tenroit les convenances [conventions]</quote>
+<bibl>
+<biblScope>ib. XIX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Quar à si grant chose convient moult à penser</quote>
+<bibl>
+<biblScope>ib. XIII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et sachez qu'il n'avoient viandes entre aus [eux] tous à plus de trois semaines</quote>
+<bibl>
+<biblScope>ib. LXXIV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et les gens du païs vindrent à merci au fil de l'empereur de Constantinople, et tant lui donnerent que paix firent à lui</quote>
+<bibl>
+<biblScope>ib. LX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Adonc issi li empereres Alexis par une autre porte. à [avec] toute sa force</quote>
+<bibl>
+<biblScope>ib. LXX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Au roy [ils] aporterent divers joiaus à present</quote>
+<bibl>
+<author>JOINV.</author>
+<biblScope>279</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je te donrai victoire de desconfire l'empereur de Perse, qui se combatra à toi à tout [avec] trois cent mille hommes</quote>
+<bibl>
+<author>JOINV.</author>
+<biblScope>264</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À un coup je ferai la teste trebucher</quote>
+<bibl>
+<biblScope>Berte, XIX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ses mains [elle] avoit trait [tiré] un petit [peu] de fougere</quote>
+<bibl>
+<biblScope>ib. XL</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Me gardez que [je] ne soie prise à [par] beste cuiverte [malfaisante]</quote>
+<bibl>
+<biblScope>ib. XXXVI</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À l'issue d'avril, un temps dous et joli</quote>
+<bibl>
+<biblScope>ib. I</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Car nuls ne vient à vie, ne conviene [qui ne doive] finer [finir]</quote>
+<bibl>
+<biblScope>ib. III</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À Pepin [ils] orent guerre qu'avez ouï conter</quote>
+<bibl>
+<biblScope>ib. III</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Car il ne plot à Dieu, qui tout a à garder</quote>
+<bibl>
+<biblScope>ib. III</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À tous se fit aimer Berte, tant vous en di</quote>
+<bibl>
+<biblScope>ib. LXIX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Que jamais ne dirai que soie fille à roi</quote>
+<bibl>
+<biblScope>ib. XLIII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Mais de lui vous lairons ore à parler ici</quote>
+<bibl>
+<biblScope>ib. LIX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les dismes furent establies et donées anciennement à sainte eglise soustenir</quote>
+<bibl>
+<author>BEAUMANOIR</author>
+<biblScope>XI, 39</biblScope>
+</bibl>
+</cit>
+<label>XIVe s.</label>
+<cit>
+<quote>Mais à ce que je voy.... N'estes pas asseür [en sûreté]</quote>
+<bibl>
+<biblScope>du Guesclin, 8455</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et à ceux qui sont en eage moyen, amis leur sont necessaires à leurs bonnes actions acomplir</quote>
+<bibl>
+<author>ORESME</author>
+<biblScope>Éth. 229</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ce que dit est s'acorde ce que disoit un philosophe appellé Eudoxus</quote>
+<bibl>
+<author>ORESME</author>
+<biblScope>ib. 28</biblScope>
+</bibl>
+</cit>
+<label>XVe s.</label>
+<cit>
+<quote>Le duc de Bourgogne y [à Aire] establit à demeure le vicomte de Meaux</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>II, II, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Le roi de France, qui tint à bonne et belle ceste chevauchée...</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>II, II, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Edouard II, qui fut pere au gentil roi Edouard</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Quand ils eurent bien considéré toutes leurs besognes et la dure guerre qu'ils avoient aux Anglois</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 75</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Messire Thomas avoit escrit aux seigneurs qu'ils ne vinssent à Bordeaux à [avec] toute leur puissance</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>II, II, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il leur avoit donné à capitaine un moult gentil prince</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 34</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les Hainuyers se logerent assez près de la ville et considererent au quel lez [côté] elle estoit plus prenable</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 102</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ils furent moult esbahis : neanmoins ils se mirent à defense</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 110</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il l'appela et dit : Sire de Maubuisson, parlez à moi</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 119</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ils sentoient le comte de Foix à trop cruel.... Mieux leur valoit à estre ses prisonniers que là mourir honteusement par famine</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>II, III, 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Une treve fut accordée à durer quatre mois tant seulement</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 159</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Volontiers il eust attendu à bataille le roi d'Angleterre</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 164</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Là il monta en mer, et cinglerent tant au vent et aux estoiles qu'ils arriverent au havre de Bayonne</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 216</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et il atourneroit tel le pays que, à quarante ans après, il ne seroit pas recouvré</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 202</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Monseigneur mon frere et madame la comtesse de Hainaut vous recevront à grand joie</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 14</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et souvent y avoit des chevauchées, des rencontres et des faits d'armes des uns aux autres</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 113</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et fit dire à sa sœur qu'elle vuidast tost et hastivement son royaume, ou il l'en feroit vuider à honte</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Le roi Philippe de France, qui avoit grands alliances au roi d'Escosse</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 304</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À saillir un fossé, le coursier trebucha et rompit à son maistre le col</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 325</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et à ce temps là, les Escots [Écossais] aimoient et prisoient assez peu les Anglois, et encore font ils à present</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 34</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les Escots n'ont que faire de chaudieres ne de chaudrons, car ils cuisent bien leur chair au cuir des bestes memes, quand ils les ont escorchées</quote>
+<bibl>
+<author>FROISS.</author>
+<biblScope>I, I, 34</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est à vous à qui je boy</quote>
+<bibl>
+<author>BASSELIN</author>
+<biblScope>XX</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Par la croix où Dieu s'estendy, C'est à vous à qui je vendy Six aunes de drap, Me P.</quote>
+<bibl>
+<biblScope>Patelin</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cherchant rompre le dit voyage à leur pouvoir [autant qu'ils pouvaient]</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il pourroit sembler au lecteur que je disse ces choses pour quelque haine particuliere que j'aurois à eux</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>VII, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il preschoit que l'estat de l'Eglise seroit reformé à l'espée</quote>
+<bibl>
+<author>ID.</author>
+<biblScope>VIII, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ceste povre et jeune princesse, car ainsi se povoit elle bien appeller, non point seulement pour la perte qui.... mais à se trouver entre les mains des persecuteurs de sa maison</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et n'estoient point les trous entre les barreaux plus grans que à y bouter ung bras à son aise</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>IV, 9</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À peu de defense fut desconfit le dit duc et mis en fuite</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>La quelle chose lui fut à très grant prejudice et desplaisir</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et aux paroles d'hommes insensés il delibera d'attendre la fortune</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 8</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>La joie fut très grande au roi de se veoir au dessus de tous ceux qu'il hayoit [haïssait]</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 12</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ceste cause tindrent conseil les dits Pisans</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>VII, 7</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Au temps que le roi Henri regnoit</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>I, 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ce povre rey de Portugal, qui estoit très bon et juste, mist à son imagination qu'il yroit devers le duc de Bourgogne</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>V, 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À toute diligence</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il se mettoit à chemin</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il avoit esté dit que l'on se reposeroit deux fois au chemin pour donner haleine aux gens de pied</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>I, 3</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les autres ont trop d'amour à leurs biens, à leurs femmes et à leurs enfants</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>IV, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il avoit eu à espouse et à femme la sœur du dit roi Ferrand</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>VII, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ceulx qui sont aux grans auctoritez vers les princes doivent beaucoup craindre....</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>III, 11</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les langages dont ils devront user à ceux qui les enquerront</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>I, 9</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il estoit né et marié au dit pays de Guyenne</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>II, 15</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ceste fois</quote>
+<bibl>
+<author>COMM.</author>
+<biblScope>III, 7</biblScope>
+</bibl>
+</cit>
+<label>XVIe s.</label>
+<cit>
+<quote>À ce qui me peut souvenir, Fut un bruit comme l'empereur Devoit vers Pesquiere venir</quote>
+<bibl>
+<author>J. MAROT</author>
+<biblScope>V, 164</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>... en leur faisant à cognoistre et sentir que....</quote>
+<bibl>
+<author>ID.</author>
+<biblScope>V, 298</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'attends à ce soir M. de Villars et ma niece</quote>
+<bibl>
+<author>MARGUER.</author>
+<biblScope>lett. XCVII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Pensant vous voir à ces pasques, ai attendu à vous escrire</quote>
+<bibl>
+<author>MARGUER.</author>
+<biblScope>lett. CVII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Le comte de Carman, à ce que j'ai entendu, vous mene une bande de bons hommes et bien esperimentés</quote>
+<bibl>
+<author>MARGUER.</author>
+<biblScope>lett. CXIV</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Le roy de Navarre, lequel je pense estre à chemin....</quote>
+<bibl>
+<author>MARGUER.</author>
+<biblScope>lett. CXXIII</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Si est-ce qu'il se resolut d'en avoir raison, à peril que ce fust</quote>
+<bibl>
+<author>MARGUER.</author>
+<biblScope>Nouv. 44</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Elles estoient belles à l'œil et delitieuses on goust</quote>
+<bibl>
+<author>RAB.</author>
+<biblScope>Pant. II, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À les veoir, eussiez dit que c'estoient.....</quote>
+<bibl>
+<author>RAB.</author>
+<biblScope>ib. II, 1</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Donnez dessus à [avec] vostre mast</quote>
+<bibl>
+<author>RAB.</author>
+<biblScope>ib. II, 29</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Puis à tout son baston de croix, guaigna....</quote>
+<bibl>
+<author>RAB.</author>
+<biblScope>Garg. I, 27</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Toutes les langues ont esté formées d'un mesme jugement à une mesme fin</quote>
+<bibl>
+<author>DU BELLAY</author>
+<biblScope>I, p. 3, verso.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je laisserai cest argument choisir Aux plus savants et aux plus de loisir</quote>
+<bibl>
+<author>DU BELLAY</author>
+<biblScope>VII, p. 29, verso.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Afin qu'à son retour le malheureux se voye Manger aux avocats</quote>
+<bibl>
+<author>DU BELLAY</author>
+<biblScope>VIII, p. 50, verso.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il n'y a jour auquel les personnes soient si tristes qu'à celui-là</quote>
+<bibl>
+<author>AMYOT</author>
+<biblScope>Numa, 18</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il fut si effrayé qu'il se partit à la plus grande diligence qui luy fut possible</quote>
+<bibl>
+<author>AMYOT</author>
+<biblScope>Thém. 32</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Subjuguant toutes les nations qui par avant ne recognoissoient point les Romains à seigneurs</quote>
+<bibl>
+<author>AMYOT</author>
+<biblScope>Cés. 14</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il se teint sans rien entreprendre dedans sa maison, comme personne qui se deliberoit de vivre à soy petitement, sans plus s'entremettre d'affaires quelconques</quote>
+<bibl>
+<author>AMYOT</author>
+<biblScope>Gracq. 32</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ilz ne pensoient à autre chose qu'à prendre les plus precieux meubles qu'ilz eussent pour s'enfouir à touz es deserts de la Scythie</quote>
+<bibl>
+<author>AMYOT</author>
+<biblScope>Crass. 40</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il ne fut pas si tost retourné à Sparte que Aratus lui prit à son dos la ville de Caphyes</quote>
+<bibl>
+<author>AMYOT</author>
+<biblScope>Agés. et Cléom. 28</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est à Dieu, auquel il faut avoir tout son recours</quote>
+<bibl>
+<author>LANOUE</author>
+<biblScope>30</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ceux qui cheminent encore par les sentiers des doctrines estranges, ils leur donnent des noms ignominieux</quote>
+<bibl>
+<author>LANOUE</author>
+<biblScope>71</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il suffit donc, à ce que [pour que] quelqu'un soit nostre prochain, qu'il soit homme</quote>
+<bibl>
+<author>LANOUE</author>
+<biblScope>72</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ceux qui plus sont despourvus des facultés de nature, c'est à ceux-là auxquels il faut plus adjouster d'art</quote>
+<bibl>
+<author>LANOUE</author>
+<biblScope>112</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>J'ai assez dit : c'est à vous à penser</quote>
+<bibl>
+<author>LANOUE</author>
+<biblScope>156</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les hommes brûlés à centaines dedans les granges</quote>
+<bibl>
+<author>D'AUBIGNÉ</author>
+<biblScope>Hist I, 66</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À cachettes</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 4</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Blecé à mort</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Un homme à qui chascun avoit veu bien faire en la meslée</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 8</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À jamais</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 270</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À celui qui en estoit requis, c'estoit titre de gaing</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 15</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Au hasard du combat</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>ib.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Un tabourin à porter à la guerre</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 15</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Reverence à la religion</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 17</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les choses mortes ont encore des relations occultes à la vie</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 20</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À belles dents</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 21</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À pleine bouche</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 24</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À tort ou à droit</quote>
+<bibl>
+<author>ID.</author>
+<biblScope>I, 21</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À ce compte</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 25</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À peine est-il en son pouvoir de...</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 227</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À la vérité</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 22</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À l'abri des coups</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 25</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>A l'exemple des Thraces</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 23</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Au royaume de Ternate</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 24</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À l'advenir</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 230</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À nage</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 277</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les moyens qu'ils ont à y employer</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 24</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À quoi faire voulez vous....</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 85</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il l'envoya subjuguer le monde à tout [avec] seulement 30000 hommes</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 180</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Les yeux me troublent à monter [quand je monte]</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 224</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À parler en bon escient</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 227</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il le somma de sortir à parlementer</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Estre deslogé à force</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 26</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ne craindre point a mourir</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>I, 69</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>C'est à Dieu seul à qui gloire appartient</quote>
+<bibl>
+<author>MONTAIGNE</author>
+<biblScope>III, 10</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Ce n'est pas moi que l'on abuse ainsi : Qu'à quelque enfant ces ruses on employe</quote>
+<bibl>
+<author>LA BOET.</author>
+<biblScope>445</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>De m'effrayer depuis ce presage ne cesse ; Mais j'en consulterai sans plus à ma maistresse</quote>
+<bibl>
+<author>LA BOET.</author>
+<biblScope>505</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Sœur de Pâris, la fille au roy d'Asie</quote>
+<bibl>
+<author>RONS.</author>
+<biblScope>106</biblScope>
+</bibl>
+</cit>
+</note>
+<etym>Ad et ab qui se sont confondus ; bourguig. ai ; provenç. espagn. et ital. a.</etym>
+<re ana="supplement" orig=" À. ">
+
+<dictScrap>Ajoutez : </dictScrap>
+
+</re>
+</entry>
+<entry xml:id="da-capo">
+<form>
+<orth>DA-CAPO</orth>
+<pron>da-ka-po</pron>
+<gram>loc. adv.</gram>
+</form>
+<sense>
+<dictScrap>Terme de musique, signifiant qu'il faut reprendre au commencement du morceau pour aller jusqu'au point final.</dictScrap>
+<sense>
+<dictScrap><oVar>Da-capo</oVar> al segno, signifie qu'il faut reprendre à un endroit marqué.</dictScrap>
+</sense>
+</sense>
+<etym>Ital. da, de, capo, commencement, chef (voy. <ref target="chef">CHEF</ref>), et al segno, au signe.</etym>
+</entry>
+</body>
+</text>
+</TEI>
