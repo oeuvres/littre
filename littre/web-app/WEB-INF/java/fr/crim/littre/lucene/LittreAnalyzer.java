@@ -39,7 +39,7 @@ public class LittreAnalyzer extends Analyzer {
 	/** L'analyseur configuré par champs */
 	private static PerFieldAnalyzerWrapper analyzer;
 	/** Permet de retrouver un dossier par défaut pour trouver un chemin vers les ressources */
-	public static File WEB_INF=new File(LittreAnalyzer.class.getResource("LittreAnalyzer.class").getFile()).getParentFile().getParentFile().getParentFile().getParentFile().getParentFile();
+	public static File WEB_INF=new File(LittreAnalyzer.class.getResource("LittreAnalyzer.class").getFile()).getParentFile().getParentFile().getParentFile().getParentFile().getParentFile().getParentFile();
 	/** Version de lucene utilisée */
 	public static final Version version=Version.LUCENE_35;
 	/** Un set de mots vides tout chargés */
