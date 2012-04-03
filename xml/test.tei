@@ -2524,6 +2524,130 @@
 </sense>
 <etym>Ital. da, de, capo, commencement, chef (voy. <ref target="chef">CHEF</ref>), et al segno, au signe.</etym>
 </entry>
+<entry xml:id="dague">
+<form>
+<orth>DAGUE</orth>
+<pron>da-gh'</pron>
+<gram>s. f.</gram>
+</form>
+<sense n="1">
+<dictScrap>Espèce de poignard, qui se porte dans plusieurs pays, pendu à la ceinture du côté droit.</dictScrap>
+<cit>
+<quote>Aod se fit faire une dague à deux tranchants, qui avait une garde de la longueur de la paume de la main</quote>
+<bibl>
+<author>SACI</author>
+<biblScope>Bible, Juges, III, 16</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Je la vis [Cléopatre] l'autre jour aiguiser une dague</quote>
+<bibl>
+<author>LA FONT.</author>
+<biblScope>Ragotin, IV, 9</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Cambyse tire sa dague, dont lui voulant donner dans le ventre [au bœuf Apis], il l'atteint à la cuisse</quote>
+<bibl>
+<author>P. L. COUR.</author>
+<biblScope>II, 152</biblScope>
+</bibl>
+</cit>
+<sense>
+<dictScrap>Fig. Il est fin comme une <oVar>dague</oVar> de plomb, se dit d'un homme qui, ayant l'esprit grossier, veut faire le fin.</dictScrap>
+</sense>
+</sense>
+<sense n="2">
+<dictScrap>Terme de vénerie. Les <oVar>dagues</oVar> du cerf sont la première tête qu'il porte à sa seconde année, où, étant encore sans andouillers et sans chevillures, il n'a que deux petites cornes pointues.</dictScrap>
+<sense>
+<dictScrap>S. f. pl. Se dit quelquefois des défenses du sanglier.</dictScrap>
+</sense>
+</sense>
+<sense n="3">
+<dictScrap>Lame de fer garnie d'un manche qui sert, dans la reliure, à ratisser les peaux de veau.</dictScrap>
+</sense>
+<sense n="4">
+<dictScrap>Ancien terme de marine. Bout de cordage avec lequel on frappait les matelots condamnés au fouet.</dictScrap>
+</sense>
+<note type="HIST.">
+
+<label>XIIIe s.</label>
+<cit>
+<quote>Un de nos gendarmes gecta sa dague à un de ces Turcs</quote>
+<bibl>
+<author>JOINV.</author>
+<biblScope>dans LACURNE</biblScope>
+</bibl>
+</cit>
+
+
+<label>XIVe s.</label>
+<cit>
+<quote>Les cousteaulx que on porte maintenant, que on nomme dagues</quote>
+<bibl>
+<biblScope>Modus, f° LXIV, verso</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Et pour ce qu'il sembla au dit Touse qu'il deist ce par maniere de raffarde ou moquerie, lui dist : Je te prie, ne me baille point de dague [raillerie], j'en ai assez d'une [poignard à mon côté]</quote>
+<bibl>
+<author>DU CANGE</author>
+<biblScope>dagger.</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Se icelle dague n'eust encontré une armiole pleine de vin</quote>
+<bibl>
+<author>DU CANGE</author>
+<biblScope>armillum.</biblScope>
+</bibl>
+</cit>
+
+
+<label>XVe s.</label>
+<cit>
+<quote>En ce temps le roi fit casser et abatre tous les francs archiers du royaulme de France, et en leur place y voult estre et demourer, pour servir en ses guerres, les Souisses et picquiers, et fit faire par tous cousteliers grant quantité de picques, hallebardes et grans dagues à larges rouelles</quote>
+<bibl>
+<biblScope>Chron. scandal. de Louis XI, an 1480, p. 319, dans LACURNE</biblScope>
+</bibl>
+</cit>
+
+
+<label>XVIe s.</label>
+<cit>
+<quote>Avec leurs belles halebardes à longues dagues et de nouvelle façon</quote>
+<bibl>
+<author>CARL.</author>
+<biblScope>VI. 2</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>À leur costé l'espée longue et large, La courte dague pour son homme aborder</quote>
+<bibl>
+<author>OCTAVIEN DE ST-GELAIS</author>
+<biblScope>dans DU CANGE, dagger</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Il s'est trouvé qu'à la descente du sel, qui se faisoit en nos greniers, les mesureurs ont fait ... les mesures plus grandes qu'à la vente..., tant au moyen de dagues et bastons qu'ils mestoient sur le minot à la descente, et rasoyent sur iceluy, en façon qu'il y avoit grande et excessive quantité de sel plus receu que vendu ; car à la vente estoit delivré au peuple le grain sur le bord sans dague ne baston....</quote>
+<bibl>
+<biblScope>Ordonn. 11 nov. 1508</biblScope>
+</bibl>
+</cit>
+<cit>
+<quote>Panurge.... fin à dorer comme une dague de plomb, bien galant homme de sa personne</quote>
+<bibl>
+<author>RAB.</author>
+<biblScope>Pant. II, 16</biblScope>
+</bibl>
+</cit>
+
+</note>
+<etym>Espagn. daga ; portug. daga et adaga ; ital. daga ; angl. dagger ; bas-bret. dag, dager ; bas-latin, daca dans la Philippide de Guillaume Breton (XIIIe siècle). D'après Diez, l'allemand Degen, épée, est un mot introduit au XVe siècle et formé de dague, dont l'origine reste douteuse. Dans le celtique vient-il du français ; ou le mot français vient-il du celtique ? La forme portugaise a-daga pourrait indiquer une origine arabe.</etym>
+<re ana="supplement">
+<re>DAGUE. Ajoutez : - REM. La dague est une arme dont la longueur est environ le tiers de l'épée ordinaire. </re>
+</re>
+</entry>
 </body>
 </text>
 </TEI>

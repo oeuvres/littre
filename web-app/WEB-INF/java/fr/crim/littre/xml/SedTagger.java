@@ -7,33 +7,42 @@ import java.util.regex.Pattern;
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 
-public class DomainTagger extends Tagger {
-	Pattern pattern;
+public class SedTagger extends Tagger {
+	/** Obligatoire, le motif à chercher */
+	Pattern search;
+	/** Obligatoire, l'expression de remplacement */
 	String replace;
-	Pattern test;
+	/** Optionnel, une expression plus large que le motif en search pour repérer ce qui aurait été manqué  */
+	Pattern silence;
 	
-	public DomainTagger(String regex, String replace) {
-		pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
+	public SedTagger(String regex, String replace) {
+		this(regex, replace, null);
+	}
+	public SedTagger(String regex, String replace, String silence) {
+		search = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
 		this.replace=replace;
-		test= Pattern.compile("terme", Pattern.CASE_INSENSITIVE);
+		if (silence != null) this.silence= Pattern.compile("terme", Pattern.CASE_INSENSITIVE);
 	}
 	
-	/** Cherche les temres de domaines */
+	/**
+	 * Recherche remplace par expressions régulières. 
+	 */
 	public Node tag(Node n) {
 		Node ret;
 		String xml=dom2string(n);
-		Matcher match = pattern.matcher(xml);
+		Matcher match = search.matcher(xml);
 		// renvoyer sans modification
 		if ( !match.find() ) {
-			// laisser une trace d'erreur s'il y a pourtant le mot "terme"
-			// if(test.matcher(xml).find()) System.err.println(xml);
+			// laisser une trace d'erreur si on pense qu'il y aurait un oublié
+			// permet de perfectionner l’expresson régulière
+			if(silence != null && silence.matcher(xml).find()) System.err.println(xml);
 			return n;
 		}
-		xml=pattern.matcher(xml).replaceAll(replace);
-		// System.out.println(xml);
+		xml=match.replaceAll(replace);
 		try {
 			ret=string2dom(xml);
 		}
+		// Si le remplacement produit du mauvais xml
 		catch (Exception e) {
 			System.err.println(this.getClass().getSimpleName()+".tag(), XML error: "+xml);
 			return n;
@@ -49,7 +58,9 @@ public class DomainTagger extends Tagger {
 		String regex="((en )?termes?)( de | d’| d'| | de l’| de l')([^\\.]+)([.,])";
 		// cette expression un peu complexe permet d'isoler toute l'expression en distinguant le terme
 		String replace="<usg type=\"dom\">$1$2<term>$3</term>$4</usg>";
-		Tagger tagger=new DomainTagger(regex, replace);
+		// pour mise au point, parmi les noeuds qui n'ont pas été modifié, chercher ceux contenant pourtant le mot "terme"
+		String silence="terme";
+		Tagger tagger=new SedTagger(regex, replace, silence);
 		// parcourir la liste de fichiers
 		for (File file : xmlDir.listFiles(new GlobFilter("*.xml"))) {
 			Document doc=tagger.parse(file, xpath);
