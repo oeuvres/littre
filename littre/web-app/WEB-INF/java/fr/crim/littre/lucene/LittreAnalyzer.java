@@ -1,4 +1,4 @@
-package fr.crim.littre;
+package fr.crim.littre.lucene;
 
 
 import java.io.File;
