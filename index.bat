@@ -13,9 +13,19 @@ if "%1" == "defaut" (
 	set INDEX_DIR=%WEBINF%/index
 	set XSL_FILE=transform/littre_alix.xsl
 ) else (
-	echo usage: index.bat {defaut}
+if "%1" == "lemmatizer" (
+	set ANALYZER_OPT=
+	set INDEX_DIR=%WEBINF%/index/lemmatizer
+	set XSL_FILE=transform/littre_alix_lemmatizer.xsl
+) else (
+if "%1" == "similarity" (
+	set ANALYZER_OPT=
+	set INDEX_DIR=%WEBINF%/index/similarity
+	set XSL_FILE=transform/littre_alix_similarity.xsl
+) else (
+	echo usage: index.bat {defaut|lemmatizer|similarity}
 	goto END
-)
+)))
 
 :: Lancement de la commande
 java -Xmx512m -cp %CP% fr.crim.lucene.alix.Alix %ANALYZER_OPT% -dir %INDEX_DIR% -xsl %XSL_FILE% index xml
