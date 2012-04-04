@@ -14,8 +14,18 @@ case $1 in
 		INDEX_DIR=$WEBINF/index
 		XSL_FILE='transform/littre_alix.xsl'
 		;;
+	example)
+		ANALYZER_OPT=''
+		INDEX_DIR=$WEBINF/index/example
+		XSL_FILE='transform/littre_alix_example.xsl'
+		;;
+	search)
+		ANALYZER_OPT=''
+		INDEX_DIR=$WEBINF/index/search
+		XSL_FILE='transform/littre_alix_search.xsl'
+		;;
 	*)
-		echo 'usage: index.sh {defaut}'
+		echo 'usage: index.sh {defaut|example|search}'
 		exit;
 		;;
 esac
