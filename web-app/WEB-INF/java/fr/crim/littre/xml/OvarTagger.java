@@ -4,12 +4,20 @@ package fr.crim.littre.xml;
 
 import java.io.File;
 import java.sql.Connection;
+import java.sql.Date;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.HashSet;
 import java.util.regex.Pattern;
+
+import javax.xml.transform.Result;
+import javax.xml.transform.Source;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
@@ -22,8 +30,10 @@ public class OvarTagger extends Tagger {
 	private Pattern idNorm=Pattern.compile("\\.[0-9]+$");
 	/** Lemme courant */
 	private String lemma;
-	/** Formes */
+	/** Formes chargées depuis le lexique */
 	private HashSet<String> forms=new HashSet<String>();
+	/** Une forme a été trouvée */
+	int tagCount;
 	/** Connexion à un lexique */
 	static private Connection conn;
 	/** Requêtes pour récupérr des formes */
@@ -61,6 +71,7 @@ public class OvarTagger extends Tagger {
 			}
 			// noter ici les lemmes inconnus du lexique
 			if (this.forms.size()==0) {
+				this.forms.add(lemma);
 				// essayer de la flexion auto ? Ajouter au 
 				// System.err.println(lemma);
 				if (log == null);
@@ -69,12 +80,18 @@ public class OvarTagger extends Tagger {
 					// exceptions : tripudier
 				}
 				// verbe ?
-				else if (lemma.endsWith("er")) log.println(lemma);
+				else if (lemma.endsWith("er")); // log.println(lemma);
 			}
 		}
 		Node ret;
 		String xml=dom2string(n);
-		// Ne pas oublier si rien noter
+		// Le tokenizer appelle la méthode word() sur chaque mot
+		tagCount=0;
+		xml=tokenize(xml);
+		// si rien n'a été balisé, logger, mais quand on aura essayé la stratégie d'élargissement automatique du lexique
+		if (tagCount == 0) {
+			
+		}
 		try {
 			ret=string2dom(xml);
 		}
@@ -84,15 +101,27 @@ public class OvarTagger extends Tagger {
 		}
 		return ret;
 	}
+	/**
+	 * Si le mot est dans la liste chargée de formes, le baliser
+	 */
+	String word(String word) {
+		if (!forms.contains(word.toLowerCase())) return word;
+		// a déjà été balisé
+		if (path.indexOf("/oVar")>-1) return word;
+		tagCount++;
+		return "<oVar>"+word+"</oVar>";
+	}
 
 	/**
 	 * @param args
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
+		long start = System.currentTimeMillis() ;
 		File db=new File("web-app/WEB-INF/lib/lexique.sqlite");
 		File xmlDir = new File("xml");
-		String xpath = "//quote";
+		// plus facile de ne pas rebaliser plsuieurs fois
+		String xpath = "//quote[not(oVar)]";
 		if (args.length > 1)  xpath=args[0];
 		if (args.length > 2) xmlDir = new File(args[1]);
 		// parcourir la liste de fichiers
@@ -100,9 +129,17 @@ public class OvarTagger extends Tagger {
 		tagger.setLog(new File("unknown.txt"));
 		for (File file : xmlDir.listFiles(new GlobFilter("*.xml"))) {
 			Document doc=tagger.parse(file, xpath);
-			// voir ici ce qu'on fait avec le résultat, prudence avant de remplacer
+			// voir ici ce qu'on fait avec le résultat, prudence avant de remplacer le fichier
+			// pour sortie sur la console pour écriture de fichier en pipe
 			// System.out.println(dom2string(doc));
+			/* inutile de refaire pour l'instant, compléter d'abord le lexique et l'algorithmie
+			Source source = new DOMSource(doc);
+			Result result = new StreamResult(file);
+			Transformer xformer = TransformerFactory.newInstance().newTransformer();
+			xformer.transform(source, result);
+			*/
 		}
+		System.err.println(System.currentTimeMillis() -start + " ms");
 	}
 
 	
