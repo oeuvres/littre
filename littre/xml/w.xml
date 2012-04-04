@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?oxygen RNGSchema="littre.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_w">
 <teiHeader>
@@ -61,7 +60,7 @@
 <sense>
 <dictScrap>Bois de la Guyane française.</dictScrap>
 <cit>
-<quote>Pour ne nous occuper en ce moment que des essences propres à l'ébénisterie, nous signalerons le wacapou ; cette magnifique essence, dit le rapport, plus belle que nos vieux chênes et si propre aux sculptures et à l'ébénisterie de luxe, est demandée à 230 francs le stère</quote>
+<quote>Pour ne nous occuper en ce moment que des essences propres à l'ébénisterie, nous signalerons le <oVar>wacapou</oVar> ; cette magnifique essence, dit le rapport, plus belle que nos vieux chênes et si propre aux sculptures et à l'ébénisterie de luxe, est demandée à 230 francs le stère</quote>
 <bibl>
 <biblScope>Journ. offic. 3 avril 1876, p. 2384, 2e et 3e col.</biblScope>
 </bibl>
@@ -90,7 +89,7 @@
 <sense>
 <dictScrap>Le même que vaquois (voy. ce mot au Dictionnaire).</dictScrap>
 <cit>
-<quote>Comme le wacoua et autres feuilles du même genre, telles que celles du latanier, par exemple, sont très abondantes à Cuba, il n'y a aucun motif pour qu'on n'en fasse pas des nattes ou sacs</quote>
+<quote>Comme le <oVar>wacoua</oVar> et autres feuilles du même genre, telles que celles du latanier, par exemple, sont très abondantes à Cuba, il n'y a aucun motif pour qu'on n'en fasse pas des nattes ou sacs</quote>
 <bibl>
 <biblScope>Journ. offic. 6 août 1872, p. 5398, 2e col.</biblScope>
 </bibl>
@@ -121,7 +120,7 @@
 <sense>
 <dictScrap>Limon de rivière.</dictScrap>
 <cit>
-<quote>Elle [la région du N.-O.] fait aussi usage de tourteaux..., de limon de rivière ou wagage, de colombine</quote>
+<quote>Elle [la région du N.-O.] fait aussi usage de tourteaux..., de limon de rivière ou <oVar>wagage</oVar>, de colombine</quote>
 <bibl>
 <author>HEUZÉ</author>
 <biblScope>la France agricole, carte n° 7</biblScope>
@@ -148,7 +147,7 @@
 <sense>
 <dictScrap>Musique, manière musicale de Wagner, musicien allemand contemporain.</dictScrap>
 <cit>
-<quote>M. Gounod a tiré du wagnerisme tout ce qu'il avait de bon à nous donner</quote>
+<quote>M. Gounod a tiré du <oVar>wagnerisme</oVar> tout ce qu'il avait de bon à nous donner</quote>
 <bibl>
 <author>DE LAGENEVAIS</author>
 <biblScope>Rev. des Deux-Mondes, 15 juin 1874, p. 951</biblScope>
@@ -189,7 +188,7 @@
 <sense>
 <dictScrap>Sorte de voiture.</dictScrap>
 <cit>
-<quote>Voitures, coupé, landau, calèche, phaéton, wagonnette, victoria</quote>
+<quote>Voitures, coupé, landau, calèche, phaéton, <oVar>wagonnette</oVar>, victoria</quote>
 <bibl>
 <biblScope>Journ. offic. Ann. 9 déc. 1871</biblScope>
 </bibl>
@@ -357,13 +356,13 @@
 <sense>
 <dictScrap>Sorte de cétacé, le morse.</dictScrap>
 <cit>
-<quote>Le walrus est un véritable monstre ; sa longueur est de trois à cinq mètres, il pèse vingt quintaux</quote>
+<quote>Le <oVar>walrus</oVar> est un véritable monstre ; sa longueur est de trois à cinq mètres, il pèse vingt quintaux</quote>
 <bibl>
 <biblScope>le Tour du monde, livraison du 15 août 1874, p. 107</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Au moment de l'abandon [de la flotte baleinière du North Pacific], la cargaison totale de ces douze navires se composait de 12 000 barils d'huile, de 2300 gallons de spermaceti, de 64 000 livres de fanons et des 48 000 livres d'ivoire du walrus</quote>
+<quote>Au moment de l'abandon [de la flotte baleinière du North Pacific], la cargaison totale de ces douze navires se composait de 12 000 barils d'huile, de 2300 gallons de spermaceti, de 64 000 livres de fanons et des 48 000 livres d'ivoire du <oVar>walrus</oVar></quote>
 <bibl>
 <biblScope>Journ. offic. 23 nov. 1876, p. 8603, 2e col.</biblScope>
 </bibl>
@@ -402,7 +401,7 @@
 <sense>
 <dictScrap>Sorte de cerf de l'Amérique du Nord.</dictScrap>
 <cit>
-<quote>Dans les nouveaux États et territoires de par delà le Mississipi, on parle de la disparition rapide non-seulement de l'élan et du cerf, mais encore des moufflons et des wapitis</quote>
+<quote>Dans les nouveaux États et territoires de par delà le Mississipi, on parle de la disparition rapide non-seulement de l'élan et du cerf, mais encore des moufflons et des <oVar>wapitis</oVar></quote>
 <bibl>
 <biblScope>Rev. britan. août 1876, p. 474</biblScope>
 </bibl>
@@ -495,7 +494,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Il [un négociant] peut hypothéquer ses magasins, warranter ses marchandises, donner en garantie son portefeuille</quote>
+<quote>Il [un négociant] peut hypothéquer ses magasins, <oVar>warranter</oVar> ses marchandises, donner en garantie son portefeuille</quote>
 <bibl>
 <biblScope>ib. 28 juin 1874, p. 4413, 2e col.</biblScope>
 </bibl>
@@ -636,7 +635,7 @@
 </bibl>
 </cit>
 </sense>
-<sense n="2" ana="supplement">
+<sense ana="supplement" n="2">
 <dictScrap>Se dit quelquefois pour désigner la direction qui administre une <oVar>wateringue</oVar>.</dictScrap>
 </sense>
 <etym>Flamand, wateringen, de water, eau.</etym>
@@ -730,7 +729,7 @@
 <sense>
 <dictScrap>Terme germanique appartenant à la période barbare. Prix qu'on payait pour le meurtre d'un homme.</dictScrap>
 <cit>
-<quote>Ils [les antrustions] avaient droit au triple wehrgeld, en d'autres termes, la liberté et la vie d'un antrustion étaient estimées au triple de celles d'un Franc de condition ordinaire</quote>
+<quote>Ils [les antrustions] avaient droit au triple <oVar>wehrgeld</oVar>, en d'autres termes, la liberté et la vie d'un antrustion étaient estimées au triple de celles d'un Franc de condition ordinaire</quote>
 <bibl>
 <author>F. ROCQUAIN</author>
 <biblScope>Revue polit. et litt. 27 mai 1875</biblScope>
@@ -785,7 +784,7 @@
 <sense>
 <dictScrap>Nouveau fusil perfectionné, ainsi dit du nom de son inventeur.</dictScrap>
 <cit>
-<quote>La landwehr sera progressivement armée du wetterli</quote>
+<quote>La landwehr sera progressivement armée du <oVar>wetterli</oVar></quote>
 <bibl>
 <biblScope>Journ. offic. 20 oct. 1873, p. 6461, 3e col.</biblScope>
 </bibl>
@@ -801,7 +800,7 @@
 <sense n="1">
 <dictScrap>Celui, celle qui, en Angleterre, appartient au parti faisant profession de défendre la liberté. Un <oVar>whig</oVar>. Une <oVar>whig</oVar>. Les <oVar>whigs</oVar> sont opposés aux torys.</dictScrap>
 <cit>
-<quote>Souvent, pour empêcher une pièce nouvelle de paraître, pour la faire tomber.... on emploie plus d'intrigues que les whigs n'en ont tramé contre les torys</quote>
+<quote>Souvent, pour empêcher une pièce nouvelle de paraître, pour la faire tomber.... on emploie plus d'intrigues que les <oVar>whigs</oVar> n'en ont tramé contre les torys</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Albergati, 23 déc. 1760</biblScope>
@@ -856,7 +855,7 @@
 <sense>
 <dictScrap>Sorte de jeu de cartes qui se joue à quatre personnes, deux contre deux ou à trois, avec un mort.</dictScrap>
 <cit>
-<quote>Apôtre de la raison jusqu'au bout, on peut dire que Voltaire est mort en combattant ; la fin de sa vie n'a pas ressemblé à une partie de whist où l'on gagne en calculant</quote>
+<quote>Apôtre de la raison jusqu'au bout, on peut dire que Voltaire est mort en combattant ; la fin de sa vie n'a pas ressemblé à une partie de <oVar>whist</oVar> où l'on gagne en calculant</quote>
 <bibl>
 <author>SAINTE-BEUVE</author>
 <biblScope>Nouv. lundis, XII, Talleyrand.</biblScope>
@@ -968,7 +967,7 @@
 <sense>
 <dictScrap>Écorce de <oVar>winter</oVar>, écorce du wintera aromatica, qui est employée en pharmacie.</dictScrap>
 <cit>
-<quote>Les écorces.... de winter, d'yèble, etc.</quote>
+<quote>Les écorces.... de <oVar>winter</oVar>, d'yèble, etc.</quote>
 <bibl>
 <biblScope>Tarif des douanes de 1844, note 194</biblScope>
 </bibl>
@@ -1061,7 +1060,7 @@
 <sense>
 <dictScrap>Chez les Australiens, bâton à lancer la zagaie.</dictScrap>
 <cit>
-<quote>La zagaie se lance avec une merveilleuse précision à cinquante pas avec la main, et jusqu'à cent cinquante avec le woomera</quote>
+<quote>La zagaie se lance avec une merveilleuse précision à cinquante pas avec la main, et jusqu'à cent cinquante avec le <oVar>woomera</oVar></quote>
 <bibl>
 <biblScope>Journ. offic. 9 juill. 1872, p. 4935, 1er col.</biblScope>
 </bibl>

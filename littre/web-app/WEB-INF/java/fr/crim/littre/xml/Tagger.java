@@ -1,6 +1,5 @@
 package fr.crim.littre.xml;
 
-import java.io.BufferedWriter;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,6 +9,7 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.io.UnsupportedEncodingException;
+import java.util.Stack;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -79,6 +79,88 @@ public abstract class Tagger {
 		return doc;
 	}
 	/**
+	 * Segmenter des mots
+	 */
+	public String path="";
+	private final static int TOK_MISC=0;
+	private final static int TOK_WORD=1;
+	private final static int TOK_TAG=2;
+	private int tokFlag;
+	private StringBuilder ret=new StringBuilder();
+	private StringBuilder word=new StringBuilder();
+	// l'intérieur d'un tag
+	private StringBuilder tag=new StringBuilder();
+	public String tokenize(String text) {
+		int len=text.length();
+		ret.setLength(0);
+		word.setLength(0);
+		tokFlag=TOK_MISC;
+		Character c;
+		boolean tagName=false;
+		for (int i=0; i<len; i++) {
+			c=text.charAt(i);
+			// fin de balise
+			if (tokFlag == TOK_TAG && c=='>') {
+				if (tagName) {
+					path+="/"+tag.toString();
+					tagName=false;
+				}
+				ret.append(c);
+				tokFlag=TOK_MISC;
+			}
+			// en cours de balise
+			else if (tokFlag == TOK_TAG) {
+				// tag fermant
+				if (tag.length()==0 && c=='/' && path.length()>0) {
+					path=path.substring(0, path.lastIndexOf('/'));
+				}
+				else if (tag.length()==0) {
+					tagName=true;
+				}
+				else if (c==' ' && tagName) {
+					path+="/"+tag.toString();
+					tagName=false;
+				}
+				tag.append(c);
+				ret.append(c);
+			}
+			// début de balise
+			else if (c=='<') {
+				// fin de mot
+				if (tokFlag==TOK_WORD) ret.append(word(word.toString()));
+				word.setLength(0);
+				ret.append(c);
+				tag.setLength(0);
+				tokFlag=TOK_TAG;
+			}
+			// lettre, probablement un mot, retenir pour le token, ne pas sortir
+			else if (Character.isLetter(c)) {
+				tokFlag=TOK_WORD;
+				word.append(c);
+			}
+			// fin de mot : espace, ponctuation, nombre… problème de l'apostrophe, et du tiret
+			else if (tokFlag==TOK_WORD) {
+				ret.append(word(word.toString()));
+				ret.append(c);
+				tokFlag=TOK_MISC;
+				word.setLength(0);
+			}
+			else {
+				ret.append(c);
+			}
+		}
+		// si fin de mot
+		if (tokFlag==TOK_WORD) ret.append(word(word.toString()));
+		return ret.toString();
+	}
+	/**
+	 * Surcharger pour tagger un token.
+	 * N'est pas abstraite pour ne pas forcer à l'implémentation.
+	 */
+	String word(String word) {
+		return word;
+	}
+	/**
 	 * Rechercher l'identifiant le plus proche du nœud
 	 * 
 	 * @param n
@@ -133,7 +215,8 @@ public abstract class Tagger {
 			serTr= TransformerFactory.newInstance().newTransformer();
 		} catch (Exception e) {
 			throw new RuntimeException(e);
-		} 
+		}
+		// éviter de rendre un prologue XML
 		serTr.setOutputProperty(OutputKeys.OMIT_XML_DECLARATION, "yes");
 		serTr.setOutputProperty(OutputKeys.METHOD,"xml");
 	}

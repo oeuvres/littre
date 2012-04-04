@@ -21,6 +21,14 @@ public class DemoTagger extends Tagger {
 		return ret;
 	}
 	/**
+	 * Tester le balisage de token
+	 */
+	public String word(String word) {
+		if (path.length()>0) return "<w path=\""+path+"\">"+word+"</w>";
+		else return "<w>"+word+"</w>";
+	}
+
+	/**
 	 * @param args
 	 * @throws Exception
 	 */
@@ -31,9 +39,11 @@ public class DemoTagger extends Tagger {
 		if (args.length > 2) xmlDir = new File(args[1]);
 		// parcourir la liste de fichiers
 		Tagger tagger=new DemoTagger();
+		System.out.println(tagger.tokenize("Ma <phr>chatte <o>me</o> ronronne</phr> dans l'oreille."));
+		System.exit(0);
 		for (File file : xmlDir.listFiles(new GlobFilter("test.tei"))) {
 			Document doc=tagger.parse(file, xpath);
-			// voir ici ce qu'on fait avec le résultat, prudence avant de remplacer
+			// voir ici ce qu'on fait avec le résultat, prudence avant de remplacer le fichier
 			// System.out.println(dom2string(doc));
 		}
 	}

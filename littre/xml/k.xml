@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
 <?oxygen RNGSchema="littre.rng" type="xml"?>
--->
-<?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+--><?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_k">
 <teiHeader>
 <fileDesc>
@@ -35,7 +33,7 @@
 <sense>
 <dictScrap>Lettre consonne, la onzième de l'alphabet ; elle n'est employée que dans quelques mots tirés du grec ou des langues étrangères.</dictScrap>
 <cit>
-<quote>Le K est la lettre dont nous faisons le moins et dont nous devrions faire le plus d'usage, attendu qu'il n'a jamais d'emploi vicieux</quote>
+<quote>Le <oVar>K</oVar> est la lettre dont nous faisons le moins et dont nous devrions faire le plus d'usage, attendu qu'il n'a jamais d'emploi vicieux</quote>
 <bibl>
 <author>DUCLOS</author>
 <biblScope>Gramm. P. R. Rem. Œuv. t. IX, p. 14, dans POUGENS</biblScope>
@@ -54,7 +52,7 @@
 <note type="HIST.">
 <label>XIIIe s.</label>
 <cit>
-<quote>Parler vous doit on bien de K ; Iceste letre, pour Dieu, qu'a, Qui crie adès, quant on la nomme ?</quote>
+<quote>Parler vous doit on bien de <oVar>K</oVar> ; Iceste letre, pour Dieu, qu'a, Qui crie adès, quant on la nomme ?</quote>
 <bibl>
 <biblScope>Senefiance de l'ABC, dans JUBINAL, t. II, p. 279</biblScope>
 </bibl>
@@ -157,7 +155,7 @@
 <sense>
 <dictScrap>Nom d'un oiseau dans les forêts du sud de la Nouvelle-Calédonie.</dictScrap>
 <cit>
-<quote>Le kagou (rhinocheros jubatus), le plus remarquable des oiseaux propres à la Nouvelle-Calédonie</quote>
+<quote>Le <oVar>kagou</oVar> (rhinocheros jubatus), le plus remarquable des oiseaux propres à la Nouvelle-Calédonie</quote>
 <bibl>
 <biblScope>Journ. offic. 9 sept. 1875, p. 7703, 3e col.</biblScope>
 </bibl>
@@ -183,14 +181,14 @@
 <sense>
 <dictScrap>Sorte de sorbet turc.</dictScrap>
 <cit>
-<quote>Du kaïmac piqué d'écorces de cédrat confit</quote>
+<quote>Du <oVar>kaïmac</oVar> piqué d'écorces de cédrat confit</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Candide, 30</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>La sienne [femme] eut une envie ou plutôt une rage De tâter d'un certain laitage Qu'on nomme en turc du kaïmac</quote>
+<quote>La sienne [femme] eut une envie ou plutôt une rage De tâter d'un certain laitage Qu'on nomme en turc du <oVar>kaïmac</oVar></quote>
 <bibl>
 <author>SÉNECÉ</author>
 <biblScope>Serpent mangeur de kaïmac.</biblScope>
@@ -221,7 +219,7 @@
 <sense>
 <dictScrap>Particulièrement, sorte de perroquet remarquable par une huppe formée de longues plumes, jaunes ou rouges, ou blanches, qui se couchent et se redressent au gré de l'oiseau.</dictScrap>
 <cit>
-<quote>Ces perroquets kakatoës apprennent difficilement à parler, il y a même des espèces qui ne parlent jamais</quote>
+<quote>Ces perroquets <oVar>kakatoës</oVar> apprennent difficilement à parler, il y a même des espèces qui ne parlent jamais</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Ois. t. XI, p. 126 (voy. aussi CACATOIS 1).</biblScope>
@@ -234,7 +232,7 @@
 </sense>
 <etym>
 <cit>
-<quote>Leur nom de kakatoës, de catacua et cacatou vient de la ressemblance de ce mot à leur cri</quote>
+<quote>Leur nom de <oVar>kakatoës</oVar>, de catacua et cacatou vient de la ressemblance de ce mot à leur cri</quote>
 <bibl>
 <author>BUFFON</author>
 <biblScope>Ois. t. XI, p. 125</biblScope>
@@ -322,7 +320,7 @@
 <sense>
 <dictScrap>Terme de botanique. Espèce de soude à feuilles épineuses qui croît abondamment et sans culture sur les bords de la mer, dans toute l'Europe, salsola <oVar>kali</oVar>, L., chénopodées. C'est de la décoction de cette herbe maritime que les Arabes faisaient le sel qu'ils ont nommé alcali.</dictScrap>
 <cit>
-<quote>Il fit semer du kali à Denainvilliers.... et pria M. Cadet d'examiner les sels que contenaient les cendres des kalis de Denainvilliers</quote>
+<quote>Il fit semer du <oVar>kali</oVar> à Denainvilliers.... et pria M. Cadet d'examiner les sels que contenaient les cendres des kalis de Denainvilliers</quote>
 <bibl>
 <author>CONDORCET</author>
 <biblScope>Duhamel.</biblScope>
@@ -446,7 +444,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Ils craignent de se compromettre en répondant à un étranger, le kampong étant responsable du voyageur qui traverse son territoire</quote>
+<quote>Ils craignent de se compromettre en répondant à un étranger, le <oVar>kampong</oVar> étant responsable du voyageur qui traverse son territoire</quote>
 <bibl>
 <biblScope>ib. p. 8988, 2e col.</biblScope>
 </bibl>
@@ -559,7 +557,7 @@
 <sense>
 <dictScrap>Mot imitant le cri du canard.</dictScrap>
 <cit>
-<quote>Le chant des oiseaux, les cris des volailles variés par le fréquent et bruyant kankan des canards</quote>
+<quote>Le chant des oiseaux, les cris des volailles variés par le fréquent et bruyant <oVar>kankan</oVar> des canards</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Ois. t. XVII, p. 230</biblScope>
@@ -627,13 +625,13 @@
 <sense>
 <dictScrap>Qui appartient au kaolin.</dictScrap>
 <cit>
-<quote>Composition lithologique du sable kaolinique de Montainville</quote>
+<quote>Composition lithologique du sable <oVar>kaolinique</oVar> de Montainville</quote>
 <bibl>
 <biblScope>Acad. des sc. Comptes rend. t. LXXXI, p. 400</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le sable kaolinique</quote>
+<quote>Le sable <oVar>kaolinique</oVar></quote>
 <bibl>
 <author>MEUNIER</author>
 <biblScope>ib. t. LXXXIII, p. 576</biblScope>
@@ -650,7 +648,7 @@
 <sense>
 <dictScrap>Transformation en kaolin.</dictScrap>
 <cit>
-<quote>L'oligoclase, minéral très sujet à la kaolinisation</quote>
+<quote>L'oligoclase, minéral très sujet à la <oVar>kaolinisation</oVar></quote>
 <bibl>
 <author>FOURNET</author>
 <biblScope>Acad. des sc. Comptes rendus, t. LIII, p. 695</biblScope>
@@ -734,7 +732,7 @@
 <sense n="2">
 <dictScrap>Nom d'un petit mammifère.</dictScrap>
 <cit>
-<quote>Lemmings aux yeux rouges, karagouz aux yeux noirs, petites gerboises, dont la forme rappelle le kanguroo</quote>
+<quote>Lemmings aux yeux rouges, <oVar>karagouz</oVar> aux yeux noirs, petites gerboises, dont la forme rappelle le kanguroo</quote>
 <bibl>
 <biblScope>Rev. Britann. avril 1876, p. 294</biblScope>
 </bibl>
@@ -798,7 +796,7 @@
 <sense>
 <dictScrap>Nom du buffle à Sumatra.</dictScrap>
 <cit>
-<quote>Les services multipliés que le bambou rend comme végétal aux indigènes ont leur parallèle dans ceux qu'ils tirent du buffle ou karbau, en tant qu'animal domestique</quote>
+<quote>Les services multipliés que le bambou rend comme végétal aux indigènes ont leur parallèle dans ceux qu'ils tirent du buffle ou <oVar>karbau</oVar>, en tant qu'animal domestique</quote>
 <bibl>
 <author>LENTHIOLLE</author>
 <biblScope>Journ. offic. 27 fév. 1876, p. 1423, 3e col.</biblScope>
@@ -819,7 +817,7 @@
 
 <dictScrap>Arbre de l'Australie. </dictScrap>
 <cit ana="supplement">
-<quote>Le tuart et le kari, deux eucalyptus d'une grosseur fabuleuse, sont des bois de haute futaie d'un très grand prix [en Australie]</quote>
+<quote>Le tuart et le <oVar>kari</oVar>, deux eucalyptus d'une grosseur fabuleuse, sont des bois de haute futaie d'un très grand prix [en Australie]</quote>
 <bibl>
 <biblScope>Journ. offic. 21 nov. 1872, p. 7170, 2e col.</biblScope>
 </bibl>
@@ -910,7 +908,7 @@
 <sense>
 <dictScrap>Boisson enivrante usitée dans la Polynésie, qui agit au bout de vingt minutes de fermentation et dure de deux à six heures, et qui produit une sorte de torpeur, de calme, de bien-être et parfois des visions érotiques ; elle provient du piper methystiacum.</dictScrap>
 <cit>
-<quote>Tous [les Canaques, habitants des îles Marquises] couchés à terre, les uns à plat ventre, les autres assis.... formaient le cercle autour d'un vase de bois plein aux trois quarts d'un liquide savonneux, et tenaient en main des paquets d'une racine à peu près semblable à la réglisse ; tous se livraient à une mastication acharnée de cette racine et lançaient à l'envi des flots de salive écumante dans le récipient commun.... Iotété.... nous présenta une poignée de racines et nous pria de participer à la singulière besogne qui s'accomplissait et qu'on nous dit être le kava</quote>
+<quote>Tous [les Canaques, habitants des îles Marquises] couchés à terre, les uns à plat ventre, les autres assis.... formaient le cercle autour d'un vase de bois plein aux trois quarts d'un liquide savonneux, et tenaient en main des paquets d'une racine à peu près semblable à la réglisse ; tous se livraient à une mastication acharnée de cette racine et lançaient à l'envi des flots de salive écumante dans le récipient commun.... Iotété.... nous présenta une poignée de racines et nous pria de participer à la singulière besogne qui s'accomplissait et qu'on nous dit être le <oVar>kava</oVar></quote>
 <bibl>
 <author>MAX RADIGUET</author>
 <biblScope>les Dern. sauvages, III</biblScope>
@@ -1526,7 +1524,7 @@
 <re ana="supplement" orig="KILOGRAMMÈTRE. ">
 
 <dictScrap>Ajoutez : </dictScrap>
-<note type="REM." ana="supplement">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
+<note ana="supplement" type="REM.">- REM. Un cheval-vapeur est généralement évalué à 75 kilogrammètres par seconde, sauf dans la marine, où le mode d'évaluation de la puissance des machines à vapeur est plus compliqué et conduit à considérer la force nominale du cheval-vapeur comme variant entre 100 et 300 kilogrammètres. </note>
 </re>
 </entry>
 <entry xml:id="kilolitre">
@@ -1586,7 +1584,7 @@
 <re ana="supplement" orig="KILOMÉTRIQUE. ">
 
 <dictScrap>Ajoutez : </dictScrap>
-<re>Tonne kilométrique, voyageur kilométrique, tonne réduite, voyageur réduit, par hypothèse, à un kilomètre ; celle, celui qui en parcourent 10, 20, 30, etc., représentent 10, 20, 30, etc.  <cit><quote>tonnes ou voyageurs kilométriques</quote><bibl><author>P. BOITEAU</author><biblScope>Journ. des Débats, 8 juin 1877</biblScope></bibl></cit> </re>
+<re>Tonne kilométrique, voyageur kilométrique, tonne réduite, voyageur réduit, par hypothèse, à un kilomètre ; celle, celui qui en parcourent 10, 20, 30, etc., représentent 10, 20, 30, etc.  <cit><quote>tonnes ou voyageurs <oVar>kilométriques</oVar></quote><bibl><author>P. BOITEAU</author><biblScope>Journ. des Débats, 8 juin 1877</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="kilométriquement">
@@ -1806,7 +1804,7 @@
 <sense n="1">
 <dictScrap>Belvédère situé dans un jardin, sur une terrasse ; pavillon turc ouvert de tous côtés, dont on décore les parcs, les jardins.</dictScrap>
 <cit>
-<quote>Médine aux mille tours, d'aiguilles hérissées, Avec ses flèches d'or, ses kiosques brillants</quote>
+<quote>Médine aux mille tours, d'aiguilles hérissées, Avec ses flèches d'or, ses <oVar>kiosques</oVar> brillants</quote>
 <bibl>
 <author>V. HUGO</author>
 <biblScope>Odes et Ballades, la fée et la péri</biblScope>
@@ -1928,7 +1926,7 @@
 <sense n="1">
 <dictScrap>Instrument de supplice, chez les Russes, composé de plusieurs nerfs de bœuf fortement entrelacés et terminés par des crochets en fer ; il sert à infliger les châtiments légaux.</dictScrap>
 <cit>
-<quote>Un petit nombre de coups de knout donnent la mort ; quatre à cinq suffisent pour ne faire qu'une plaie du corps du condamné</quote>
+<quote>Un petit nombre de coups de <oVar>knout</oVar> donnent la mort ; quatre à cinq suffisent pour ne faire qu'une plaie du corps du condamné</quote>
 <bibl>
 <author>LEGOARANT</author>
 <biblScope/>
@@ -1938,7 +1936,7 @@
 <sense n="2">
 <dictScrap>Supplice que l'on inflige avec cet instrument.</dictScrap>
 <cit>
-<quote>Ils [les Russes] regarderont toujours les hommes libres comme il faut les regarder eux-mêmes, c'est-à-dire comme des hommes nuls, sur lesquels deux seuls instruments ont prise, savoir l'argent et le knout</quote>
+<quote>Ils [les Russes] regarderont toujours les hommes libres comme il faut les regarder eux-mêmes, c'est-à-dire comme des hommes nuls, sur lesquels deux seuls instruments ont prise, savoir l'argent et le <oVar>knout</oVar></quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Gouvern. Pologne, ch. 15</biblScope>
@@ -2141,7 +2139,7 @@
 <sense>
 <dictScrap>Nom, à Java, de la résidence des princes indigènes.</dictScrap>
 <cit>
-<quote>Nous nous rendons au kraton ; c'est une vaste enceinte de hautes murailles fermées par des portes que gardent les soldats déguenillés du sultan</quote>
+<quote>Nous nous rendons au <oVar>kraton</oVar> ; c'est une vaste enceinte de hautes murailles fermées par des portes que gardent les soldats déguenillés du sultan</quote>
 <bibl>
 <author>BOUSQUET</author>
 <biblScope>Rev. des Deux-Mondes, 15 janv. 1877, p. 320</biblScope>
@@ -2158,7 +2156,7 @@
 <sense>
 <dictScrap>Palais des czars de Russie à Moscou.</dictScrap>
 <cit>
-<quote>Son ambition [de Napoléon] est flattée de cette conquête : on l'entend s'écrier : je suis enfin dans Moscou, dans l'antique palais des czars, dans le Kremlin</quote>
+<quote>Son ambition [de Napoléon] est flattée de cette conquête : on l'entend s'écrier : je suis enfin dans Moscou, dans l'antique palais des czars, dans le <oVar>Kremlin</oVar></quote>
 <bibl>
 <author>SÉGUR</author>
 <biblScope>Hist. de Nap. VIII, 6</biblScope>
@@ -2358,14 +2356,14 @@
 <sense n="2">
 <dictScrap>Fig. Longue suite de choses qui ne finissent pas.</dictScrap>
 <cit>
-<quote>Si le mari ne se fût fait connaître, Elle en allait enfiler beaucoup plus [de ses infidélités] ; Courte n'était, pour sûr, la kyrielle</quote>
+<quote>Si le mari ne se fût fait connaître, Elle en allait enfiler beaucoup plus [de ses infidélités] ; Courte n'était, pour sûr, la <oVar>kyrielle</oVar></quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Mari conf.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>.... Tout hors d'haleine il [Apollon] courait après elle [Daphné], Et lui contait pourtant la longue kyrielle Des rares qualités dont il était orné</quote>
+<quote>.... Tout hors d'haleine il [Apollon] courait après elle [Daphné], Et lui contait pourtant la longue <oVar>kyrielle</oVar> Des rares qualités dont il était orné</quote>
 <bibl>
 <author>FONTEN.</author>
 <biblScope>Sonnet.</biblScope>
@@ -2392,7 +2390,7 @@
 </cit>
 <label>XVe s.</label>
 <cit>
-<quote>Le quel prieur mist la main à son espée et la tira toute nue, en reynyant [reniant] Dieu et la kyrielle qu'il tueroit....</quote>
+<quote>Le quel prieur mist la main à son espée et la tira toute nue, en reynyant [reniant] Dieu et la <oVar>kyrielle</oVar> qu'il tueroit....</quote>
 <bibl>
 <author>DU CANGE</author>
 <biblScope>kyrieles.</biblScope>
@@ -2407,7 +2405,7 @@
 </cit>
 <label>XVIe s.</label>
 <cit>
-<quote>Kyrielle ou palinode est quand le vers final du premier couplet se repete à la fin des autres couplets, comme en la ballade ; et est bien seant aux chans lyriques et odes, dont se dit palinodes</quote>
+<quote><oVar>Kyrielle</oVar> ou palinode est quand le vers final du premier couplet se repete à la fin des autres couplets, comme en la ballade ; et est bien seant aux chans lyriques et odes, dont se dit palinodes</quote>
 <bibl>
 <author>BOISSIÈRE</author>
 <biblScope>Poétique, p. 258, dans LACURNE</biblScope>

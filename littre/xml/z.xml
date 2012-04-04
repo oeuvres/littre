@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?oxygen RNGSchema="littre.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_z">
 <teiHeader>
@@ -33,7 +32,7 @@
 <sense n="1">
 <dictScrap>Lettre consonne, la vingt-cinquième et dernière lettre de l'alphabet.</dictScrap>
 <cit>
-<quote>Renvoyons à Palamède, Qui le premier les mit au jour, Le p avec x, y, z</quote>
+<quote>Renvoyons à Palamède, Qui le premier les mit au jour, Le p avec x, y, <oVar>z</oVar></quote>
 <bibl>
 <author>VOITURE</author>
 <biblScope>dans RICHELET</biblScope>
@@ -42,7 +41,7 @@
 <sense>
 <dictScrap>Familièrement, il est fait comme un <oVar>z</oVar>, se dit d'un homme tortu.</dictScrap>
 <cit>
-<quote>Et ma tête se penchant sur mon estomac, je ne ressemble pas mal à un z</quote>
+<quote>Et ma tête se penchant sur mon estomac, je ne ressemble pas mal à un <oVar>z</oVar></quote>
 <bibl>
 <author>SCARR.</author>
 <biblScope>Portr.</biblScope>
@@ -72,14 +71,14 @@
 <sense>
 <dictScrap>Syllabe qui sert, dans la solmisation moderne du plain-chant, à désigner le si bémol.</dictScrap>
 <cit>
-<quote>Depuis l'invention du nom za au lieu de si, lorsqu'il est précédé d'un bémol, la gamme est devenue encore plus facile ; et il suffit de dire : ut, ré, mi, fa, sol, la, si ou za, suivant que cette dernière corde varie par bécarre ou par bémol</quote>
+<quote>Depuis l'invention du nom <oVar>za</oVar> au lieu de si, lorsqu'il est précédé d'un bémol, la gamme est devenue encore plus facile ; et il suffit de dire : ut, ré, mi, fa, sol, la, si ou <oVar>za</oVar>, suivant que cette dernière corde varie par bécarre ou par bémol</quote>
 <bibl>
 <author>PAISSON</author>
 <biblScope>Traité du chant grégorien, p. 42</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Nom que les symphonistes modernes ont donné à la note si, seule corde du système ancien qui soit mobile ; c'est à raison de cette propriété qu'on l'appelle si ou za, suivant qu'elle se présente à l'état de nature ou à l'état de bémol</quote>
+<quote>Nom que les symphonistes modernes ont donné à la note si, seule corde du système ancien qui soit mobile ; c'est à raison de cette propriété qu'on l'appelle si ou <oVar>za</oVar>, suivant qu'elle se présente à l'état de nature ou à l'état de bémol</quote>
 <bibl>
 <author>J. D'ORTIGUE</author>
 <biblScope>Dict. du plain-chant, au mot za.</biblScope>
@@ -335,7 +334,7 @@
 <sense n="1">
 <dictScrap>Animal du sous-genre âne, habitant l'Afrique, et remarquable par sa robe dont le fond jaune ou isabelle est rayé de nombreuses bandes brunes (equus zebra) ; dit aussi cheval sauvage et âne rayé.</dictScrap>
 <cit>
-<quote>Le zèbre est peut-être de tous les animaux quadrupèdes le mieux fait et le plus élégamment vêtu</quote>
+<quote>Le <oVar>zèbre</oVar> est peut-être de tous les animaux quadrupèdes le mieux fait et le plus élégamment vêtu</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Quadrup. t. v, p. 164</biblScope>
@@ -381,7 +380,7 @@
 </sense>
 <re ana="supplement">
 <re>ZÉBRURE. Ajoutez : </re>
-<re>Par extension.  <cit><quote>Les flammes jaillissant au dehors ont crevé les fenêtres et tracé de larges zébrures noires le long des murailles</quote><bibl><author>TH. GAUTIER</author><biblScope>Journ. offic. 5 août 1871</biblScope></bibl></cit> </re>
+<re>Par extension.  <cit><quote>Les flammes jaillissant au dehors ont crevé les fenêtres et tracé de larges <oVar>zébrures</oVar> noires le long des murailles</quote><bibl><author>TH. GAUTIER</author><biblScope>Journ. offic. 5 août 1871</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="zébu">
@@ -407,7 +406,7 @@
 <dictScrap>Terme d'astronomie. Étoile de seconde grandeur, située dans la constellation de Cassiopée.</dictScrap>
 </sense>
 <re ana="supplement">
-<re>ZÉDARON. Ajoutez.  <cit><quote>- ÉTYM. Zédaron est placé sur la poitrine de Cassiopée, et vient de l'arabe sade, poitrine</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
+<re>ZÉDARON. Ajoutez.  <cit><quote>- ÉTYM. <oVar>Zédaron</oVar> est placé sur la poitrine de Cassiopée, et vient de l'arabe sade, poitrine</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="zédoaire">
@@ -507,28 +506,28 @@
 <sense n="1">
 <dictScrap>Celui, celle qui agit avec zèle pour quelque chose ou quelqu'un.</dictScrap>
 <cit>
-<quote>Le prophète disait : mon zèle me dévore ; mais combien de prétendus zélateurs ou zélatrices pourraient dire : mon zèle, au lieu de me dévorer moi-même, dévore les autres !</quote>
+<quote>Le prophète disait : mon zèle me dévore ; mais combien de prétendus <oVar>zélateurs</oVar> ou zélatrices pourraient dire : mon zèle, au lieu de me dévorer moi-même, dévore les autres !</quote>
 <bibl>
 <author>BOURDAL.</author>
 <biblScope>Pensées, Défauts à éviter dans la dévotion, t. I, p. 433</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ce roi [David] selon le cœur de Dieu, observateur de ses ordonnances, zélateur de sa sainte loi</quote>
+<quote>Ce roi [David] selon le cœur de Dieu, observateur de ses ordonnances, <oVar>zélateur</oVar> de sa sainte loi</quote>
 <bibl>
 <author>FLÉCH.</author>
 <biblScope>Duc de Montaus.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ce ne sont plus ces anciens zélateurs de la liberté, uniquement attentifs au bien public et à la gloire de la nation</quote>
+<quote>Ce ne sont plus ces anciens <oVar>zélateurs</oVar> de la liberté, uniquement attentifs au bien public et à la gloire de la nation</quote>
 <bibl>
 <author>ROLLIN</author>
 <biblScope>Hist. anc. Œuv. t. VII, p. 54, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>J'entends les zélateurs de Boileau s'écrier que je lui préfère Ronsard</quote>
+<quote>J'entends les <oVar>zélateurs</oVar> de Boileau s'écrier que je lui préfère Ronsard</quote>
 <bibl>
 <author>MARMONTEL</author>
 <biblScope>Œuv. t. v, p. 199</biblScope>
@@ -537,7 +536,7 @@
 <sense>
 <dictScrap>Adj.</dictScrap>
 <cit>
-<quote>Les plus capables, ceux qui tempéreraient le mieux par leurs sages réflexions l'esprit zélateur de l'assemblée [des états généraux], craindront de se commettre avec elle</quote>
+<quote>Les plus capables, ceux qui tempéreraient le mieux par leurs sages réflexions l'esprit <oVar>zélateur</oVar> de l'assemblée [des états généraux], craindront de se commettre avec elle</quote>
 <bibl>
 <author>SAINT-SIMON</author>
 <biblScope>465, 82</biblScope>
@@ -593,63 +592,63 @@
 <sense n="1">
 <dictScrap>Affection vive, ardente pour le service de quelque chose, de quelqu'un, de Dieu.</dictScrap>
 <cit>
-<quote>Le révérend père Petau, que je nomme volontiers à cause de sa grande doctrine, de son zèle à la religion....</quote>
+<quote>Le révérend père Petau, que je nomme volontiers à cause de sa grande doctrine, de son <oVar>zèle</oVar> à la religion....</quote>
 <bibl>
 <author>LA MOTHE LE VAYER</author>
 <biblScope>Vertu des païens, II, Julien.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le plus violent bouillon de mon zèle serait refroidi par la crainte de vous fâcher</quote>
+<quote>Le plus violent bouillon de mon <oVar>zèle</oVar> serait refroidi par la crainte de vous fâcher</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>9 févr. 1683</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Qui pourrait assez exprimer le zèle dont elle brûlait pour le rétablissement de cette foi [catholique] dans le royaume d'Angleterre, où l'on en conserve encore tant de précieux monuments ?</quote>
+<quote>Qui pourrait assez exprimer le <oVar>zèle</oVar> dont elle brûlait pour le rétablissement de cette foi [catholique] dans le royaume d'Angleterre, où l'on en conserve encore tant de précieux monuments ?</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Duch. d'Orl.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Un zèle inquiet de la perfection d'autrui, tandis qu'on néglige la sienne propre</quote>
+<quote>Un <oVar>zèle</oVar> inquiet de la perfection d'autrui, tandis qu'on néglige la sienne propre</quote>
 <bibl>
 <author>BOURDAL.</author>
 <biblScope>Domin. Serm. pour le 10e dim. après la Pentec. sur l'État de vie, t. III, p. 226</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le zèle pour le bien de l'Église est encore moins rare que le zèle pour le bien de la patrie</quote>
+<quote>Le <oVar>zèle</oVar> pour le bien de l'Église est encore moins rare que le <oVar>zèle</oVar> pour le bien de la patrie</quote>
 <bibl>
 <author>MAINTENON</author>
 <biblScope>Lett. à Mme de Caylus, 24 nov. 1716</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>C'est lui, c'est ce ministre infidèle et barbare Qui, d'un zèle trompeur à vos yeux revêtu....</quote>
+<quote>C'est lui, c'est ce ministre infidèle et barbare Qui, d'un <oVar>zèle</oVar> trompeur à vos yeux revêtu....</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Esth. III, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Une grande habileté ne suffit pas pour oser se charger d'un événement considérable ; il faut encore un zèle vif qui veuille bien courir les risques de l'injustice des hommes, toujours portés à ne donner leur approbation qu'aux succès</quote>
+<quote>Une grande habileté ne suffit pas pour oser se charger d'un événement considérable ; il faut encore un <oVar>zèle</oVar> vif qui veuille bien courir les risques de l'injustice des hommes, toujours portés à ne donner leur approbation qu'aux succès</quote>
 <bibl>
 <author>FONTEN.</author>
 <biblScope>Chazelles</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le zèle du salut des âmes est comme le premier devoir d'un pasteur</quote>
+<quote>Le <oVar>zèle</oVar> du salut des âmes est comme le premier devoir d'un pasteur</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Confér. Zèle pour le salut des âmes</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ce zèle tendre qui donne l'âme à tout, et qui répand dans les cœurs le plus divin des sentiments, l'envie de rendre service</quote>
+<quote>Ce <oVar>zèle</oVar> tendre qui donne l'âme à tout, et qui répand dans les cœurs le plus divin des sentiments, l'envie de rendre service</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Thiriot, 9 janv. 1739</biblScope>
@@ -658,14 +657,14 @@
 <sense>
 <dictScrap><oVar>Zèle</oVar> indiscret, <oVar>zèle</oVar> inconsidéré, <oVar>zèle</oVar> qui n'est pas réglé par la prudence.</dictScrap>
 <cit>
-<quote>Aux zèles indiscrets tout paraît légitime</quote>
+<quote>Aux <oVar>zèles</oVar> indiscrets tout paraît légitime</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Tite et Bérén. v. 5</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mais surtout ne va point, par un zèle indiscret, Découvrir à ses yeux mon funeste secret</quote>
+<quote>Mais surtout ne va point, par un <oVar>zèle</oVar> indiscret, Découvrir à ses yeux mon funeste secret</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Iphig. I, 1</biblScope>
@@ -675,7 +674,7 @@
 <sense>
 <dictScrap>Dans le langage de l'Écriture. Le <oVar>zèle</oVar> de la maison de Dieu le dévore, il a un <oVar>zèle</oVar> extrême pour le service de Dieu.</dictScrap>
 <cit>
-<quote>Étant transporté du zèle de la loi, comme le fut Phinée lorsqu'il tua Zamri fils de Salomi</quote>
+<quote>Étant transporté du <oVar>zèle</oVar> de la loi, comme le fut Phinée lorsqu'il tua Zamri fils de Salomi</quote>
 <bibl>
 <author>SACI</author>
 <biblScope>Bible, Machabées, I, II, 26</biblScope>
@@ -692,49 +691,49 @@
 <sense n="3">
 <dictScrap>Particulièrement, le <oVar>zèle</oVar>, le <oVar>zèle</oVar> pour la religion.</dictScrap>
 <cit>
-<quote>Ces gens.... Qui savent ajuster leur zèle avec leurs vices, Sont prompts, vindicatifs, sans foi, plein d'artifices</quote>
+<quote>Ces gens.... Qui savent ajuster leur <oVar>zèle</oVar> avec leurs vices, Sont prompts, vindicatifs, sans foi, plein d'artifices</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Tart. I, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Quatre sortes de personnes : zèle sans science ; science sans zèle ; ni science ni zèle ; zèle et science</quote>
+<quote>Quatre sortes de personnes : <oVar>zèle</oVar> sans science ; science sans <oVar>zèle</oVar> ; ni science ni <oVar>zèle</oVar> ; <oVar>zèle</oVar> et science</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Pens. XXIV, 25, éd. HAVET.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Tandis que les prophètes ont été pour maintenir la loi, le peuple a été négligent ; mais, depuis qu'il n'y a plus eu de prophètes, le zèle a succédé</quote>
+<quote>Tandis que les prophètes ont été pour maintenir la loi, le peuple a été négligent ; mais, depuis qu'il n'y a plus eu de prophètes, le <oVar>zèle</oVar> a succédé</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>ib. XV, 13 bis.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ô filles de Lévi, troupe jeune et fidèle, Que déjà le Seigneur embrase de son zèle</quote>
+<quote>Ô filles de Lévi, troupe jeune et fidèle, Que déjà le Seigneur embrase de son <oVar>zèle</oVar></quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Athal. I, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Parce qu'il [le monde] a vu souvent des zèles déplacés, il ne lui en faut pas davantage pour conclure qu'il n'en est point de solide et de véritable</quote>
+<quote>Parce qu'il [le monde] a vu souvent des <oVar>zèles</oVar> déplacés, il ne lui en faut pas davantage pour conclure qu'il n'en est point de solide et de véritable</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Confér. Conduite des clercs dans le monde</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le chrétien qui déchira publiquement l'édit de l'empereur Dioclétien, et qui attira sur ses frères la grande persécution.... n'avait pas un zèle selon la science</quote>
+<quote>Le chrétien qui déchira publiquement l'édit de l'empereur Dioclétien, et qui attira sur ses frères la grande persécution.... n'avait pas un <oVar>zèle</oVar> selon la science</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Pol. et lég. Des martyrs.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>D'un côté la haine sous le nom de zèle, de l'autre le zèle sans discernement ou sans lumières, se soulevèrent et se réunirent contre les Lettres persanes</quote>
+<quote>D'un côté la haine sous le nom de <oVar>zèle</oVar>, de l'autre le <oVar>zèle</oVar> sans discernement ou sans lumières, se soulevèrent et se réunirent contre les Lettres persanes</quote>
 <bibl>
 <author>D'ALEMB.</author>
 <biblScope>Élog. Montesq.</biblScope>
@@ -743,21 +742,21 @@
 <sense>
 <dictScrap>Faux <oVar>zèle</oVar>, <oVar>zèle</oVar> aveugle et mal entendu pour la religion.</dictScrap>
 <cit>
-<quote>S'ils mêlent avec la dévotion.... le faux zèle de leurs intérêts, les vues et les intrigues de leur ambition</quote>
+<quote>S'ils mêlent avec la dévotion.... le faux <oVar>zèle</oVar> de leurs intérêts, les vues et les intrigues de leur ambition</quote>
 <bibl>
 <author>BOURDAL.</author>
 <biblScope>1er avent, sur le scandale, p. 134</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le faux zèle prend la défense Des crimes qu'il a consacrés</quote>
+<quote>Le faux <oVar>zèle</oVar> prend la défense Des crimes qu'il a consacrés</quote>
 <bibl>
 <author>LAMOTTE</author>
 <biblScope>Odes, t. I, p. 110, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Un zèle faux et amer, passion la plus aveugle de toutes</quote>
+<quote>Un <oVar>zèle</oVar> faux et amer, passion la plus aveugle de toutes</quote>
 <bibl>
 <author>D'OLIVET</author>
 <biblScope>Hist. Acad. t. II, p. 78, dans POUGENS</biblScope>
@@ -812,42 +811,42 @@
 <sense>
 <dictScrap>Qui a du zèle.</dictScrap>
 <cit>
-<quote>Car il contrôle tout, ce critique zélé</quote>
+<quote>Car il contrôle tout, ce critique <oVar>zélé</oVar></quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Tart. I, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Nous ne sommes plus étonnés de voir que les papes et quelques évêques aient été si zélés contre le sens de Jansénius</quote>
+<quote>Nous ne sommes plus étonnés de voir que les papes et quelques évêques aient été si <oVar>zélés</oVar> contre le sens de Jansénius</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Prov. XVIII</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Toute la France destinait la charge de chancelier à un ministre si zélé pour la justice</quote>
+<quote>Toute la France destinait la charge de chancelier à un ministre si <oVar>zélé</oVar> pour la justice</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>le Tellier.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mais ce sujet zélé qui, d'un œil si subtil, Sut de leur noir complot développer le fil</quote>
+<quote>Mais ce sujet <oVar>zélé</oVar> qui, d'un œil si subtil, Sut de leur noir complot développer le fil</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Esth. II, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le fameux Zuingle, en établissant sa secte, avait paru plus zélé pour la liberté que pour le christianisme</quote>
+<quote>Le fameux Zuingle, en établissant sa secte, avait paru plus <oVar>zélé</oVar> pour la liberté que pour le christianisme</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Mœurs, 129</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Une rustique épouse et soigneuse et zélée.... M'offrirait un doux miel, les fruits de mon verger</quote>
+<quote>Une rustique épouse et soigneuse et <oVar>zélée</oVar>.... M'offrirait un doux miel, les fruits de mon verger</quote>
 <bibl>
 <author>A. CHÉN.</author>
 <biblScope>Élégies, II, 22</biblScope>
@@ -856,14 +855,14 @@
 <sense>
 <dictScrap>Substantivement. Un <oVar>zélé</oVar>, une <oVar>zélée</oVar>.</dictScrap>
 <cit>
-<quote>Ne vous représentez pas ici un de ces zélés fastueux qui n'aiment, pour ainsi dire, à placer leur argent [leurs charités] que sur le public....</quote>
+<quote>Ne vous représentez pas ici un de ces <oVar>zélés</oVar> fastueux qui n'aiment, pour ainsi dire, à placer leur argent [leurs charités] que sur le public....</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Or. fun. Villars.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Nous n'aimons pas les zélés qui font profession de mépriser tout ce dont nous nous piquons</quote>
+<quote>Nous n'aimons pas les <oVar>zélés</oVar> qui font profession de mépriser tout ce dont nous nous piquons</quote>
 <bibl>
 <author>VAUVENARGUES.</author>
 <biblScope>Max. CCXLI</biblScope>
@@ -873,14 +872,14 @@
 <sense>
 <dictScrap>Faux <oVar>zélé</oVar>, celui qui est animé d'un zèle faux pour la religion.</dictScrap>
 <cit>
-<quote>Cent mille faux zélés, le fer en main courants</quote>
+<quote>Cent mille faux <oVar>zélés</oVar>, le fer en main courants</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Sat. XII</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les faux zélés, l'espèce d'hommes la plus dangereuse, crièrent contre Molière, et séduisirent même quelques gens de bien</quote>
+<quote>Les faux <oVar>zélés</oVar>, l'espèce d'hommes la plus dangereuse, crièrent contre Molière, et séduisirent même quelques gens de bien</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Vie de Molière.</biblScope>
@@ -920,7 +919,7 @@
 <sense n="1">
 <dictScrap>Surnom donné à l'un des douze disciples de Jésus, appelé tour à tour dans le Nouveau Testament (Math. X, 4 ; Marc, III, 18 ; Luc, VI, 15 ; Act. I, 13) Simon le <oVar>Zélote</oVar> ou le Cananite (de l'hébreu chaldéen kannai, zélateur).</dictScrap>
 <cit>
-<quote>On nomme aussi parmi les disciples un Simon le Zélote, peut-être disciple de Juda le Gualonite</quote>
+<quote>On nomme aussi parmi les disciples un Simon le <oVar>Zélote</oVar>, peut-être disciple de Juda le Gualonite</quote>
 <bibl>
 <author>RENAN</author>
 <biblScope>Vie de Jésus, IX.</biblScope>
@@ -930,7 +929,7 @@
 <sense n="2">
 <dictScrap>Nom donné, en général, dans le Nouveau Testament, aux sectateurs ardents de la loi mosaïque et des traditions des pères (Gal. I, 14).</dictScrap>
 <cit>
-<quote>Que nous sommes loin avec ce zélote fougueux [Pseudo-Esdras] d'un Josèphe traitant de scélérats les défenseurs de Jérusalem !</quote>
+<quote>Que nous sommes loin avec ce <oVar>zélote</oVar> fougueux [Pseudo-Esdras] d'un Josèphe traitant de scélérats les défenseurs de Jérusalem !</quote>
 <bibl>
 <author>E. RENAN</author>
 <biblScope>Rev. des Deux-Mondes, 1er mars 1875, p. 144</biblScope>
@@ -943,7 +942,7 @@
 <sense n="4">
 <dictScrap>Aujourd'hui, dénomination appliquée, d'une manière générale, aux hommes emportés par un zèle religieux excessif et touchant au fanatisme.</dictScrap>
 <cit>
-<quote>La papauté condamne ces zélotes qui, de leur côté, déclarent que l'Église de Rome, avec ses ambitions de puissance séculière et de richesses terrestres, était déchue du Christ</quote>
+<quote>La papauté condamne ces <oVar>zélotes</oVar> qui, de leur côté, déclarent que l'Église de Rome, avec ses ambitions de puissance séculière et de richesses terrestres, était déchue du Christ</quote>
 <bibl>
 <author>CH. BERTHOUD</author>
 <biblScope>François d'Assise, d'après K. Hase, ch. XIV, Paris, 1864</biblScope>
@@ -961,13 +960,13 @@
 <sense>
 <dictScrap>Excès de zèle religieux.</dictScrap>
 <cit>
-<quote>Elle [l'orthodoxie étroite] amène les caractères qui ne sont pas encore formés, à l'indolence et à l'hypocrisie, et les caractères plus sérieux aux angoisses piétistes, au fanatisme et au zélotisme</quote>
+<quote>Elle [l'orthodoxie étroite] amène les caractères qui ne sont pas encore formés, à l'indolence et à l'hypocrisie, et les caractères plus sérieux aux angoisses piétistes, au fanatisme et au <oVar>zélotisme</oVar></quote>
 <bibl>
 <biblScope>le Protestant libéral, 9 juin 1870, 9e col.</biblScope>
 </bibl>
 </cit>
 </sense>
-<sense n="2" ana="supplement">
+<sense ana="supplement" n="2">
 <dictScrap>Terme d'histoire ancienne. Parti de ceux des Juifs qui, sous la domination romaine, voulaient à tout prix secouer le joug étranger.</dictScrap>
 </sense>
 <etym>Du grec zélateur, du grec zèle.</etym>
@@ -1045,21 +1044,21 @@
 <sense n="1">
 <dictScrap>Terme d'astronomie. Point de la sphère céleste qui, pour chaque lieu de la terre, est rencontré par la verticale élevée en ce lieu.</dictScrap>
 <cit>
-<quote>On connaît le zénith, lorsqu'on observe la direction d'un fil chargé d'un plomb ; cette direction se nomme ligne verticale</quote>
+<quote>On connaît le <oVar>zénith</oVar>, lorsqu'on observe la direction d'un fil chargé d'un plomb ; cette direction se nomme ligne verticale</quote>
 <bibl>
 <author>CONDILL.</author>
 <biblScope>Art de rais. v, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On découvrit que les points de la plus grande élévation des astres se trouvaient dans un cercle perpendiculaire à l'horizon, passant par le zénith et par le pôle du monde</quote>
+<quote>On découvrit que les points de la plus grande élévation des astres se trouvaient dans un cercle perpendiculaire à l'horizon, passant par le <oVar>zénith</oVar> et par le pôle du monde</quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astr. anc. p. 38</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>À l'équateur.... le soleil s'élève, à midi, jusqu'au au zénith dans les équinoxes</quote>
+<quote>À l'équateur.... le soleil s'élève, à midi, jusqu'au au <oVar>zénith</oVar> dans les équinoxes</quote>
 <bibl>
 <author>LAPLACE</author>
 <biblScope>Exp. I, 2</biblScope>
@@ -1068,7 +1067,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Je suis fâché que mon étoile n'établisse pas son zénith directement sur le canal de la mer Noire</quote>
+<quote>Je suis fâché que mon étoile n'établisse pas son <oVar>zénith</oVar> directement sur le canal de la mer Noire</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. à Catherine II, 9 février 1770</biblScope>
@@ -1079,28 +1078,28 @@
 <sense n="2">
 <dictScrap>Fig. Le point le plus élevé où on puisse parvenir.</dictScrap>
 <cit>
-<quote>Il semble en leurs discours hautains et généreux.... Qu'ils ont seuls ici-bas trouvé la pie au nid, Et que des hauts esprits le leur est le zénith</quote>
+<quote>Il semble en leurs discours hautains et généreux.... Qu'ils ont seuls ici-bas trouvé la pie au nid, Et que des hauts esprits le leur est le <oVar>zénith</oVar></quote>
 <bibl>
 <author>RÉGNIER</author>
 <biblScope>Sat. IX.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>C'étaient les fleurs de rhétorique de cet heureux siècle [le XVIe].... le zénith de la vertu, le solstice de l'honneur....</quote>
+<quote>C'étaient les fleurs de rhétorique de cet heureux siècle [le XVIe].... le <oVar>zénith</oVar> de la vertu, le solstice de l'honneur....</quote>
 <bibl>
 <author>BALZ.</author>
 <biblScope>Dissert. crit. 8</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le zénith de votre esprit ne va pas au nadir de celui du moindre des imans</quote>
+<quote>Le <oVar>zénith</oVar> de votre esprit ne va pas au nadir de celui du moindre des imans</quote>
 <bibl>
 <author>MONTESQ.</author>
 <biblScope>Lett. pers. 18</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vous pouviez.... Bravant la foudre et dépassant les nues, La gloire en face, atteindre à son zénith</quote>
+<quote>Vous pouviez.... Bravant la foudre et dépassant les nues, La gloire en face, atteindre à son <oVar>zénith</oVar></quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Suicide.</biblScope>
@@ -1169,14 +1168,14 @@
 <sense>
 <dictScrap>Philosophie de Zénon le stoïcien.</dictScrap>
 <cit>
-<quote>Mais je vois déjà d'ici Frémir tout le zénonisme, D'entendre traiter ainsi Un des saints du paganisme</quote>
+<quote>Mais je vois déjà d'ici Frémir tout le <oVar>zénonisme</oVar>, D'entendre traiter ainsi Un des saints du paganisme</quote>
 <bibl>
 <author>J. B. ROUSS.</author>
 <biblScope>Odes, II, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Porter les livrées du zénonisme à côté d'un Néron....</quote>
+<quote>Porter les livrées du <oVar>zénonisme</oVar> à côté d'un Néron....</quote>
 <bibl>
 <author>DIDER.</author>
 <biblScope>Cl. et Nér. I, 13</biblScope>
@@ -1203,14 +1202,14 @@
 <sense>
 <dictScrap>Terme de minéralogie. Sorte de roche qui bouillonne au chalumeau, à cause de l'eau qu'elle contient.</dictScrap>
 <cit>
-<quote>Il n'y a pas de dénominations en minéralogie qui aient un sens plus vague que celle de zéolithe, et que l'on ait appliquées à un plus grand nombre de substances mal assorties et comme étrangères les unes à l'égard des autres</quote>
+<quote>Il n'y a pas de dénominations en minéralogie qui aient un sens plus vague que celle de <oVar>zéolithe</oVar>, et que l'on ait appliquées à un plus grand nombre de substances mal assorties et comme étrangères les unes à l'égard des autres</quote>
 <bibl>
 <author>HAÜY</author>
 <biblScope>Instit. Mém. scienc. t. I, p. 49</biblScope>
 </bibl>
 </cit>
 </sense>
-<note type="REM.">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la zéolithe, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
+<note type="REM.">L'Académie fait ce mot du masculin ; mais les minéralogistes le font féminin.  <cit><quote>Une analyse de la <oVar>zéolithe</oVar>, imprimée parmi les mémoires des savants étrangers</quote><bibl><author>CONDORCET</author><biblScope>Bucquet.</biblScope></bibl></cit> </note>
 <etym>Du grec bouillir, et du grec pierre.</etym>
 </entry>
 <entry xml:id="zéolithique">
@@ -1257,14 +1256,14 @@
 <sense n="2">
 <dictScrap>Dans la Fable, le vent d'occident personnifié et qualifié de dieu (on met une majuscule). Les amours de Flore et de <oVar>Zéphire</oVar>.</dictScrap>
 <cit>
-<quote>Le vent Eure et le vent Zéphire à cela n'eurent rien à dire</quote>
+<quote>Le vent Eure et le vent <oVar>Zéphire</oVar> à cela n'eurent rien à dire</quote>
 <bibl>
 <author>SCARR.</author>
 <biblScope>Virg. I</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Elle [Psyché] se sentit enlever en l'air ; d'abord elle se tint pour perdue.... c'était le Zéphire qui incontinent la tira de peine et lui dit l'ordre qu'il avait de l'enlever de la sorte</quote>
+<quote>Elle [Psyché] se sentit enlever en l'air ; d'abord elle se tint pour perdue.... c'était le <oVar>Zéphire</oVar> qui incontinent la tira de peine et lui dit l'ordre qu'il avait de l'enlever de la sorte</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Psyché, I, p. 35</biblScope>
@@ -1274,7 +1273,7 @@
 <sense n="3">
 <dictScrap>Tout souffle de vent doux et agréable (on met une minuscule).</dictScrap>
 <cit>
-<quote>En cet endroit le baume, en cet autre la myrrhe Me portent leurs parfums sur l'aile du zéphire</quote>
+<quote>En cet endroit le baume, en cet autre la myrrhe Me portent leurs parfums sur l'aile du <oVar>zéphire</oVar></quote>
 <bibl>
 <author>GODEAU</author>
 <biblScope>Poésies, 1re partie, Églogue 4</biblScope>
@@ -1302,14 +1301,14 @@
 </bibl>
 </cit>
 <cit>
-<quote>La nuit, qui sur son char s'élève au firmament, Amène le repos, suspend le mouvement ; Et le bruit faible et doux du zéphire et de l'onde Se fait entendre seul dans le calme du monde</quote>
+<quote>La nuit, qui sur son char s'élève au firmament, Amène le repos, suspend le mouvement ; Et le bruit faible et doux du <oVar>zéphire</oVar> et de l'onde Se fait entendre seul dans le calme du monde</quote>
 <bibl>
 <author>ST-LAMB.</author>
 <biblScope>Sais. I</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Zéphire nous portait ses fleurs fraîches écloses, De son aile embaumée il secouait les roses</quote>
+<quote><oVar>Zéphire</oVar> nous portait ses fleurs fraîches écloses, De son aile embaumée il secouait les roses</quote>
 <bibl>
 <author>DELILLE</author>
 <biblScope>Parad. perdu, VIII</biblScope>
@@ -1349,10 +1348,10 @@
 <sense n="5">
 <dictScrap>Nom donné, dans l'armée, à des soldats de compagnie de discipline qu'on envoie d'ordinaire en Algérie. Un <oVar>zéphire</oVar>. Des zéphires.</dictScrap>
 </sense>
-<sense n="5" ana="supplement">
+<sense ana="supplement" n="5">
 <dictScrap>Sorte de laine.</dictScrap>
 <cit>
-<quote>En mars dernier, les laines zéphire, pour tapisserie, qu'on appelle en France laines Ternaux, se vendaient en couleurs ordinaires 15 francs le kilo à Berlin, tandis qu'à Paris il serait impossible de les établir au-dessous de 20 à 22 francs</quote>
+<quote>En mars dernier, les laines <oVar>zéphire</oVar>, pour tapisserie, qu'on appelle en France laines Ternaux, se vendaient en couleurs ordinaires 15 francs le kilo à Berlin, tandis qu'à Paris il serait impossible de les établir au-dessous de 20 à 22 francs</quote>
 <bibl>
 <biblScope>Enquête, Traité de comm. avec l'Anglet. t. III, p. 517</biblScope>
 </bibl>
@@ -1436,7 +1435,7 @@
 <sense n="1">
 <dictScrap>Terme d'arithmétique. Chiffre en forme d'O, qui de lui-même ne marque aucun nombre, mais qui, étant mis à la droite des autres, indique qu'ils prennent une valeur dix fois plus forte. Un 2 et trois <oVar>zéros</oVar> font deux mille [2000].</dictScrap>
 <cit>
-<quote>Le zéro n'est pas du même genre que les nombres, parce qu'étant multiplié, il ne peut les surpasser ; de sorte que c'est un véritable indivisible de nombre, comme l'indivisible est un véritable zéro d'étendue</quote>
+<quote>Le <oVar>zéro</oVar> n'est pas du même genre que les nombres, parce qu'étant multiplié, il ne peut les surpasser ; de sorte que c'est un véritable indivisible de nombre, comme l'indivisible est un véritable <oVar>zéro</oVar> d'étendue</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Géom. 1</biblScope>
@@ -1445,7 +1444,7 @@
 <sense>
 <dictScrap>Je ne veux pas qu'il y manque un <oVar>zéro</oVar>, je ne veux pas qu'il y manque rien.</dictScrap>
 <cit>
-<quote>Le logis sera magnifique ; je ne veux pas qu'il y manque un zéro : je le ferais plutôt abattre deux ou trois fois</quote>
+<quote>Le logis sera magnifique ; je ne veux pas qu'il y manque un <oVar>zéro</oVar> : je le ferais plutôt abattre deux ou trois fois</quote>
 <bibl>
 <author>LESAGE</author>
 <biblScope>Turcaret, III, 4</biblScope>
@@ -1458,7 +1457,7 @@
 <sense>
 <dictScrap>Fig. Ajouter des <oVar>zéros</oVar> à un compte, l'amplifier, comme les <oVar>zéros</oVar> multiplient un nombre.</dictScrap>
 <cit>
-<quote>Combien un financier, pour être en équipage, De zéros criminels remplit-il une page ?</quote>
+<quote>Combien un financier, pour être en équipage, De <oVar>zéros</oVar> criminels remplit-il une page ?</quote>
 <bibl>
 <author>BOURSAULT</author>
 <biblScope>Fabl. d'És. IV, 3</biblScope>
@@ -1468,7 +1467,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Toutes les fois que quelqu'un se met d'humeur à faire quelque conte, il ne manque jamais d'y ajouter quelques zéros de sa façon, pour en dire toujours plus qu'il n'y en a, et jamais moins</quote>
+<quote>Toutes les fois que quelqu'un se met d'humeur à faire quelque conte, il ne manque jamais d'y ajouter quelques <oVar>zéros</oVar> de sa façon, pour en dire toujours plus qu'il n'y en a, et jamais moins</quote>
 <bibl>
 <author>LESAGE</author>
 <biblScope>Guzm. d'Alf. I, 1</biblScope>
@@ -1478,7 +1477,7 @@
 <sense>
 <dictScrap>Fig. Tout est <oVar>zéro</oVar>, rien ne vaut.</dictScrap>
 <cit>
-<quote>Rien n'est plus propre à me consoler des misères de cette vie, que de songer continuellement que tout est zéro</quote>
+<quote>Rien n'est plus propre à me consoler des misères de cette vie, que de songer continuellement que tout est <oVar>zéro</oVar></quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Messance, 1777</biblScope>
@@ -1488,28 +1487,28 @@
 <sense>
 <dictScrap>Fig. C'est un <oVar>zéro</oVar>, un vrai <oVar>zéro</oVar>, un <oVar>zéro</oVar> en chiffre, se dit d'un homme qui n'est d'aucune considération.</dictScrap>
 <cit>
-<quote>Ce chef de parti [Conti] était un zéro, qui ne multipliait que parce qu'il était prince du sang</quote>
+<quote>Ce chef de parti [Conti] était un <oVar>zéro</oVar>, qui ne multipliait que parce qu'il était prince du sang</quote>
 <bibl>
 <author>RETZ</author>
 <biblScope>II, 217</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Et qui ne sert de rien à la chose publique, Ne vaut pas un zéro qui n'a rien devant soi</quote>
+<quote>Et qui ne sert de rien à la chose publique, Ne vaut pas un <oVar>zéro</oVar> qui n'a rien devant soi</quote>
 <bibl>
 <author>BOURSAULT</author>
 <biblScope>Lett. nouv. t. III, p. 393, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ses ministres [du roi d'Angleterre] le regardaient comme un zéro</quote>
+<quote>Ses ministres [du roi d'Angleterre] le regardaient comme un <oVar>zéro</oVar></quote>
 <bibl>
 <author>SAINT-SIMON</author>
 <biblScope>486, 39</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Je vois l'Académie où vous êtes présente : Si je vous plais, mon sort est assez beau ; Nous aurons à nous deux de l'esprit pour quarante, Vous comme quatre, et moi comme zéro</quote>
+<quote>Je vois l'Académie où vous êtes présente : Si je vous plais, mon sort est assez beau ; Nous aurons à nous deux de l'esprit pour quarante, Vous comme quatre, et moi comme <oVar>zéro</oVar></quote>
 <bibl>
 <author>BOUFFLERS</author>
 <biblScope>Madrigal</biblScope>
@@ -1524,7 +1523,7 @@
 <sense n="2">
 <dictScrap>Point qui correspond à la température de la glace fondante dans le thermomètre de Réaumur et dans le thermomètre centigrade. Le thermomètre est descendu à <oVar>zéro</oVar>.</dictScrap>
 <cit>
-<quote>Si le rayonnement des astres donnait à tous les points de l'espace planétaire la température d'environ 40 degrés au-dessous de zéro</quote>
+<quote>Si le rayonnement des astres donnait à tous les points de l'espace planétaire la température d'environ 40 degrés au-dessous de <oVar>zéro</oVar></quote>
 <bibl>
 <author>FOURIER</author>
 <biblScope>Instit. Mém. scienc. t. VII, p. 398</biblScope>
@@ -1539,7 +1538,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Il y a des profondeurs où l'on approche du zéro de la vie animale, par exemple dans la Méditerranée, à environ 230 brasses</quote>
+<quote>Il y a des profondeurs où l'on approche du <oVar>zéro</oVar> de la vie animale, par exemple dans la Méditerranée, à environ 230 brasses</quote>
 <bibl>
 <author>HUGARD</author>
 <biblScope>Manuel de géologie élém. de Lyell, t. I, p. 58</biblScope>
@@ -1555,7 +1554,7 @@
 
 <label>XVIe s.</label>
 <cit>
-<quote>Se réduire au zéro</quote>
+<quote>Se réduire au <oVar>zéro</oVar></quote>
 <bibl>
 <author>COTGRAVE</author>
 <biblScope/>
@@ -1574,7 +1573,7 @@
 <sense>
 <dictScrap>Fixation du zéro dans les instruments de précision.</dictScrap>
 <cit>
-<quote>Un nouveau zérotage des thermomètres a montré que leur zéro avait subi les déplacements suivants...</quote>
+<quote>Un nouveau <oVar>zérotage</oVar> des thermomètres a montré que leur zéro avait subi les déplacements suivants...</quote>
 <bibl>
 <biblScope>Acad. des sc. Comptes rend. 6 mai 1872</biblScope>
 </bibl>
@@ -1649,7 +1648,7 @@
 <sense>
 <dictScrap>Il se dit aussi d'une chose qui n'est ni bonne ni mauvaise.</dictScrap>
 <cit>
-<quote>Il n'est pas assez dépourvu d'esprit pour être tout à fait un sot.... il est entre le zist et le zest</quote>
+<quote>Il n'est pas assez dépourvu d'esprit pour être tout à fait un sot.... il est entre le zist et le <oVar>zest</oVar></quote>
 <bibl>
 <author>CARMONTELLE</author>
 <biblScope>Prov. Entr'actes, t. IV, p. XXXI, dans POUGENS</biblScope>
@@ -1683,7 +1682,7 @@
 <sense n="2">
 <dictScrap>Écorce extérieure, jaune et colorante, de l'orange ou du citron, séparée de la peau blanche et amère qui est au-dessous. Des <oVar>zestes</oVar> confits. Couper un <oVar>zeste</oVar>.</dictScrap>
 <cit>
-<quote>On dit qu'un Allemand a fait un livre sur un zeste de citron ; j'en aurais fait un sur chaque gramen des prés, sur chaque mousse des bois, sur chaque lichen qui tapisse les rochers</quote>
+<quote>On dit qu'un Allemand a fait un livre sur un <oVar>zeste</oVar> de citron ; j'en aurais fait un sur chaque gramen des prés, sur chaque mousse des bois, sur chaque lichen qui tapisse les rochers</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>5e prom.</biblScope>
@@ -1693,21 +1692,21 @@
 <sense n="3">
 <dictScrap>Fig. Chose de la plus mince valeur.</dictScrap>
 <cit>
-<quote>Chamillart fut extrêmement sensible à ce zeste de retour [du roi pour lui] qui ne fut pas du goût de Mme de Maintenon</quote>
+<quote>Chamillart fut extrêmement sensible à ce <oVar>zeste</oVar> de retour [du roi pour lui] qui ne fut pas du goût de Mme de Maintenon</quote>
 <bibl>
 <author>SAINT-SIMON</author>
 <biblScope>337, 170</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mais cela qu'est-ce ? un rien, un zeste</quote>
+<quote>Mais cela qu'est-ce ? un rien, un <oVar>zeste</oVar></quote>
 <bibl>
 <author>LE P. BRUMOY</author>
 <biblScope>Boîte de Pandore, II, 10</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>La société s'en souciera comme d'un zeste</quote>
+<quote>La société s'en souciera comme d'un <oVar>zeste</oVar></quote>
 <bibl>
 <author>DIDER.</author>
 <biblScope>Lett. Mlle Voland, 19 oct. 1761</biblScope>
@@ -1788,7 +1787,7 @@
 <sense>
 <dictScrap>Terme de rhétorique. Figure d'élocution plus connue sous le nom d'adjonction. Le <oVar>zeugme</oVar> a lieu quand un mot, déjà exprimé dans une proposition, est sous-entendu dans une autre proposition analogue à la première et attachée à celle-ci.</dictScrap>
 <cit>
-<quote>Le zeugme est simple quand le mot sous-entendu est exactement celui qui a été exprimé, par exemple : Je renonce à la Grèce, à Sparte, à mon empire, à ma famille</quote>
+<quote>Le <oVar>zeugme</oVar> est simple quand le mot sous-entendu est exactement celui qui a été exprimé, par exemple : Je renonce à la Grèce, à Sparte, à mon empire, à ma famille</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Androm. v, 3</biblScope>
@@ -1859,7 +1858,7 @@
 <sense n="1">
 <dictScrap>Martre de Sibérie à poil très fin.</dictScrap>
 <cit>
-<quote>La chasse des zibelines se fait par des criminels confinés en Sibérie, ou par des soldats qu'on y envoie exprès</quote>
+<quote>La chasse des <oVar>zibelines</oVar> se fait par des criminels confinés en Sibérie, ou par des soldats qu'on y envoie exprès</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Quadrup. t. VI, p. 250</biblScope>
@@ -1869,13 +1868,13 @@
 <sense n="2">
 <dictScrap>La peau de cet animal employée comme fourrure.</dictScrap>
 <cit>
-<quote>La martre la plus estimée est la sibérine, la même que nous appelons zibeline ; la plus noire est la plus chère</quote>
+<quote>La martre la plus estimée est la sibérine, la même que nous appelons <oVar>zibeline</oVar> ; la plus noire est la plus chère</quote>
 <bibl>
 <biblScope>Dict. des arts et mét. Pelletier</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On a beau faire tirer le canon des sept tours pour de prétendues victoires ; la vérité perce à travers la fumée du canon, et vient effrayer Moustapha sur ses tapis de zibeline</quote>
+<quote>On a beau faire tirer le canon des sept tours pour de prétendues victoires ; la vérité perce à travers la fumée du canon, et vient effrayer Moustapha sur ses tapis de <oVar>zibeline</oVar></quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. à Catherine II, 28 nov. 1769</biblScope>
@@ -1974,14 +1973,14 @@
 <sense n="1">
 <dictScrap>Suite de lignes formant des angles alternativement saillants et rentrants.</dictScrap>
 <cit>
-<quote>Une zone noire descend depuis l'œil, et, traçant un zigzag, tombe jusque sur l'aile</quote>
+<quote>Une zone noire descend depuis l'œil, et, traçant un <oVar>zigzag</oVar>, tombe jusque sur l'aile</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Ois. t. XIII, p. 31</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>C'est une force, belle jusqu'au sublime, que celle qui, pendant l'orage, trace sur le ciel noir son zigzag enflammé, avec une soudaineté terrible</quote>
+<quote>C'est une force, belle jusqu'au sublime, que celle qui, pendant l'orage, trace sur le ciel noir son <oVar>zigzag</oVar> enflammé, avec une soudaineté terrible</quote>
 <bibl>
 <author>CH. LÉVÊQUE</author>
 <biblScope>Science du beau, t. II, p. 355</biblScope>
@@ -1990,14 +1989,14 @@
 <sense>
 <dictScrap>On dit dans un sens analogue : aller, marcher en <oVar>zigzag</oVar>.</dictScrap>
 <cit>
-<quote>Un chemin tracé en zigzag</quote>
+<quote>Un chemin tracé en <oVar>zigzag</oVar></quote>
 <bibl>
 <author>DUCLOS</author>
 <biblScope>Œuvr. t. VII, p. 206</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On voit le beau glacier qui porte le nom du village d'Argentières, descendre en zigzag jusqu'au fond de la vallée</quote>
+<quote>On voit le beau glacier qui porte le nom du village d'Argentières, descendre en <oVar>zigzag</oVar> jusqu'au fond de la vallée</quote>
 <bibl>
 <author>SAUSSURE</author>
 <biblScope>Voy. Alpes, t. II, p. 273</biblScope>
@@ -2007,7 +2006,7 @@
 <sense>
 <dictScrap>Fig.</dictScrap>
 <cit>
-<quote>Jugez si ces dispositions le rendaient propre à faire son chemin dans le monde, où l'on ne marche que par zigzag</quote>
+<quote>Jugez si ces dispositions le rendaient propre à faire son chemin dans le monde, où l'on ne marche que par <oVar>zigzag</oVar></quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>2e dial.</biblScope>
@@ -2033,7 +2032,7 @@
 <sense n="4">
 <dictScrap>Ornement en forme de <oVar>zigzag</oVar>.</dictScrap>
 <cit>
-<quote>Les jambes [des femmes costumées à la grecque sous le Directoire] étaient toutes nues, les pieds chaussés d'un cothurne avec des zigzags à jour et en galon rouge, et ceci montait jusqu'à mi-jambe</quote>
+<quote>Les jambes [des femmes costumées à la grecque sous le Directoire] étaient toutes nues, les pieds chaussés d'un cothurne avec des <oVar>zigzags</oVar> à jour et en galon rouge, et ceci montait jusqu'à mi-jambe</quote>
 <bibl>
 <author>DECOURCHAMPS</author>
 <biblScope>Souvenirs de la marquise de Créquy, t. IX, ch. 3</biblScope>
@@ -2077,27 +2076,27 @@
 <sense>
 <dictScrap>Métal qui existe, dans la nature, combiné avec le soufre dans la blende, et à l'état d'hydrate et d'oxyde dans la calamine. Couvrir un toit en <oVar>zinc</oVar>.</dictScrap>
 <cit>
-<quote>On coule le zinc dans des moules de fer pour le réduire en saumons, qui pèsent depuis 50 jusqu'à 70 livres ; dans cet état les mineurs le nomment zinc arco, et dans le commerce on le nomme zinc en navettes</quote>
+<quote>On coule le <oVar>zinc</oVar> dans des moules de fer pour le réduire en saumons, qui pèsent depuis 50 jusqu'à 70 livres ; dans cet état les mineurs le nomment <oVar>zinc</oVar> arco, et dans le commerce on le nomme <oVar>zinc</oVar> en navettes</quote>
 <bibl>
 <biblScope>Dict. des arts et mét. 1767, Mines</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>M. de Morveau est le premier qui ait donné, cette année 1780, un procédé pour faire â volonté l'union directe du zinc et du soufre</quote>
+<quote>M. de Morveau est le premier qui ait donné, cette année 1780, un procédé pour faire â volonté l'union directe du <oVar>zinc</oVar> et du soufre</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Min. t. v, p. 403</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le zinc n'était pas connu des anciens ; suivant Bergmann, Paracelse est le premier chimiste qui en ait parlé et qui lui ait donné le nom qu'il porte</quote>
+<quote>Le <oVar>zinc</oVar> n'était pas connu des anciens ; suivant Bergmann, Paracelse est le premier chimiste qui en ait parlé et qui lui ait donné le nom qu'il porte</quote>
 <bibl>
 <author>FOURCROY</author>
 <biblScope>Conn. chim. t. v, p. 359</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [le zinc] passe beaucoup mieux au laminoir qu'à la filière ; aussi existe-t-il des lames de zinc assez minces, et n'existe-t-il point de fil d'un diamètre très fin</quote>
+<quote>Il [le <oVar>zinc</oVar>] passe beaucoup mieux au laminoir qu'à la filière ; aussi existe-t-il des lames de <oVar>zinc</oVar> assez minces, et n'existe-t-il point de fil d'un diamètre très fin</quote>
 <bibl>
 <author>THENARD</author>
 <biblScope>Traité de chim. t. I, p. 268, dans POUGENS</biblScope>
@@ -2236,7 +2235,7 @@
 <sense>
 <dictScrap>Galvaniser le fer.</dictScrap>
 <cit>
-<quote>Si elles [les tôles galvanisées] sont d'un millimètre ou au-dessous, elles doivent être traitées comme fer étamé, cuivré, plombé ou zingué</quote>
+<quote>Si elles [les tôles galvanisées] sont d'un millimètre ou au-dessous, elles doivent être traitées comme fer étamé, cuivré, plombé ou <oVar>zingué</oVar></quote>
 <bibl>
 <biblScope>Tarif des douanes de 1869, p. 124</biblScope>
 </bibl>
@@ -2290,7 +2289,7 @@
 <sense>
 <dictScrap>Couleur d'un violet rougeâtre. C'est du <oVar>zinzolin</oVar>.</dictScrap>
 <cit>
-<quote>Ce grand serpent long de deux aunes, Tout parsemé de taches jaunes, De bleu, vert, gris, noir, zinzolin, Avait le regard très malin</quote>
+<quote>Ce grand serpent long de deux aunes, Tout parsemé de taches jaunes, De bleu, vert, gris, noir, <oVar>zinzolin</oVar>, Avait le regard très malin</quote>
 <bibl>
 <author>SCARR.</author>
 <biblScope>Virg. v.</biblScope>
@@ -2337,7 +2336,7 @@
 <sense>
 <dictScrap>Terme de minéralogie. Minéral cristallin, pierre précieuse qui affecte diverses couleurs ; on la nomme aussi hyacinthe.</dictScrap>
 <cit>
-<quote>Le zircon, pierre qui est formée, d'après les analyses de MM. Klaproth et Vauquelin, d'environ 65 de zircone, 33 de silice et 2 d'oxyde de fer</quote>
+<quote>Le <oVar>zircon</oVar>, pierre qui est formée, d'après les analyses de MM. Klaproth et Vauquelin, d'environ 65 de zircone, 33 de silice et 2 d'oxyde de fer</quote>
 <bibl>
 <author>THENARD</author>
 <biblScope>Traité de chim. t. II, p. 42, dans POUGENS</biblScope>
@@ -2354,14 +2353,14 @@
 <sense>
 <dictScrap>Terme de chimie. Oxyde de zirconium.</dictScrap>
 <cit>
-<quote>La zircone est sans usages ; elle fut découverte en 1789 par M. Klaproth</quote>
+<quote>La <oVar>zircone</oVar> est sans usages ; elle fut découverte en 1789 par M. Klaproth</quote>
 <bibl>
 <author>THENARD</author>
 <biblScope>Traité de chim. t. II, p. 43, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>M. Caron a trouvé que la zircone a la propriété d'être infusible et de briller d'un éclat éblouissant</quote>
+<quote>M. Caron a trouvé que la <oVar>zircone</oVar> a la propriété d'être infusible et de briller d'un éclat éblouissant</quote>
 <bibl>
 <author>H. REY</author>
 <biblScope>Monit. univ. 12 juin 1868, p. 825, 6e col.</biblScope>
@@ -2463,28 +2462,28 @@
 <sense n="2">
 <dictScrap>Fig. Désunion, mésintelligence.</dictScrap>
 <cit>
-<quote>Ce parti croît.... désole le champ du père de famille en y semant la zizanie</quote>
+<quote>Ce parti croît.... désole le champ du père de famille en y semant la <oVar>zizanie</oVar></quote>
 <bibl>
 <author>BOURDAL.</author>
 <biblScope>Domin. 20e dim. après la Pentec. Zèle pour l'honn. de la relig. t. IV, p. 238</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Hélas ! faut-il.... que, dès la naissance de l'Évangile, cette triste zizanie se soit glissée parmi ses plus saints ouvriers ?</quote>
+<quote>Hélas ! faut-il.... que, dès la naissance de l'Évangile, cette triste <oVar>zizanie</oVar> se soit glissée parmi ses plus saints ouvriers ?</quote>
 <bibl>
 <author>MASS.</author>
 <biblScope>Pet. carême, Obstacles.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il y a quelque apparence qu'une certaine personne, qui avait voulu desservir M. de Valori à la cour de Berlin, a semé encore ce petit grain de zizanie</quote>
+<quote>Il y a quelque apparence qu'une certaine personne, qui avait voulu desservir M. de Valori à la cour de Berlin, a semé encore ce petit grain de <oVar>zizanie</oVar></quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. d'Argenson, 30 mars 1740</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Tous ces coups indirects et dérobés, donnés et reçus de part et d'autre, entretenaient entre le poëte [Boileau] et la Société [des jésuites] une zizanie sourde, qui aurait fini par une guerre déclarée</quote>
+<quote>Tous ces coups indirects et dérobés, donnés et reçus de part et d'autre, entretenaient entre le poëte [Boileau] et la Société [des jésuites] une <oVar>zizanie</oVar> sourde, qui aurait fini par une guerre déclarée</quote>
 <bibl>
 <author>D'ALEMBERT</author>
 <biblScope>Élog. Despr. note 34</biblScope>
@@ -2498,7 +2497,7 @@
 
 <label>XVe s.</label>
 <cit>
-<quote>Fut semé certain langage par gens pleins de zizanie, et disoit on qu'on vouloit empoisonner le roy</quote>
+<quote>Fut semé certain langage par gens pleins de <oVar>zizanie</oVar>, et disoit on qu'on vouloit empoisonner le roy</quote>
 <bibl>
 <author>J. CHARTIER</author>
 <biblScope>Hist. de Charles VII, p. 316, dans LACURNE</biblScope>
@@ -2508,7 +2507,7 @@
 
 <label>XVIe s.</label>
 <cit>
-<quote>Le diable seme des zizanies pour corrompre la semence de la vie eternelle</quote>
+<quote>Le diable seme des <oVar>zizanies</oVar> pour corrompre la semence de la vie eternelle</quote>
 <bibl>
 <author>CALV.</author>
 <biblScope>Instit. 112</biblScope>
@@ -2610,14 +2609,14 @@
 <sense>
 <dictScrap>Lumière <oVar>zodiacale</oVar>, lumière de forme lenticulaire qui s'appuie sur l'horizon, et qui apparaît après le coucher du soleil à l'époque de l'équinoxe du printemps, et avant son lever à l'époque de l'équinoxe d'automne.</dictScrap>
 <cit>
-<quote>Il [Cassini] a le premier observé et fait connaître la lumière zodiacale</quote>
+<quote>Il [Cassini] a le premier observé et fait connaître la lumière <oVar>zodiacale</oVar></quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Louis XIV, Écriv. Cassini.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Cassini avait l'esprit d'analogie ; il eut bientôt remarqué que non-seulement cette lumière qu'il nomme zodiacale était toujours enfermée dans le zodiaque, mais encore qu'elle était inclinée à l'écliptique, comme l'équateur solaire</quote>
+<quote>Cassini avait l'esprit d'analogie ; il eut bientôt remarqué que non-seulement cette lumière qu'il nomme <oVar>zodiacale</oVar> était toujours enfermée dans le zodiaque, mais encore qu'elle était inclinée à l'écliptique, comme l'équateur solaire</quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astr. mod. t. II, p. 413</biblScope>
@@ -2642,21 +2641,21 @@
 <sense n="1">
 <dictScrap>Terme d'astronomie. Zone de la sphère céleste s'étendant à huit degrés de part et d'autre de l'écliptique et dans laquelle sont toujours comprises les planètes anciennement connues. Le <oVar>zodiaque</oVar> est divisé en douze parties égales par de grands cercles perpendiculaires à l'écliptique, à partir de l'équinoxe du printemps ; ces douze parties sont les signes du <oVar>zodiaque</oVar> ; ils ont reçu les noms des constellations les plus rapprochées ; ces noms sont contenus dans ces deux vers mnémoniques : Sunt Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libraque, Scorpius, Arcitenens, Caper, Amphora, Pisces.</dictScrap>
 <cit>
-<quote>On divisa, dit-il [Albategni], d'abord le zodiaque en quatre par les solstices et les équinoxes</quote>
+<quote>On divisa, dit-il [Albategni], d'abord le <oVar>zodiaque</oVar> en quatre par les solstices et les équinoxes</quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astr. anc. p. 315</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le zodiaque n'est d'aucun usage réel aux astronomes ; peu importe quelle largeur on lui donnera ; rien n'empêche de le faire aller jusqu'aux deux pôles</quote>
+<quote>Le <oVar>zodiaque</oVar> n'est d'aucun usage réel aux astronomes ; peu importe quelle largeur on lui donnera ; rien n'empêche de le faire aller jusqu'aux deux pôles</quote>
 <bibl>
 <author>DELAMBRE</author>
 <biblScope>Abr. astron. 16e leçon.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Dès 1802, on sut que le zodiaque devait être élargi ; sa découverte [de la planète de Cérès en 1801 par Piazzi] a changé tout à coup les idées reçues sur la largeur du zodiaque : l'étendue de cette zone du ciel dans laquelle sont observés les mouvements des planètes avait toujours été comprise dans une largeur d'environ 16 degrés ; c'était celle du zodiaque consacré par l'ancienne astronomie ; Cérès en a franchi les bornes et porté sa largeur jusqu'à 37 degrés</quote>
+<quote>Dès 1802, on sut que le <oVar>zodiaque</oVar> devait être élargi ; sa découverte [de la planète de Cérès en 1801 par Piazzi] a changé tout à coup les idées reçues sur la largeur du <oVar>zodiaque</oVar> : l'étendue de cette zone du ciel dans laquelle sont observés les mouvements des planètes avait toujours été comprise dans une largeur d'environ 16 degrés ; c'était celle du <oVar>zodiaque</oVar> consacré par l'ancienne astronomie ; Cérès en a franchi les bornes et porté sa largeur jusqu'à 37 degrés</quote>
 <bibl>
 <author>VOIRON</author>
 <biblScope>Hist. de l'astronomie, p. 72</biblScope>
@@ -2680,7 +2679,7 @@
 
 <label>XIVe s.</label>
 <cit>
-<quote>Le zodiaque est comme une large rengée, noblement parée des ymages des signes....</quote>
+<quote>Le <oVar>zodiaque</oVar> est comme une large rengée, noblement parée des ymages des signes....</quote>
 <bibl>
 <author>ORESME</author>
 <biblScope>Thèse de MEUNIER.</biblScope>
@@ -2731,7 +2730,7 @@
 <sense n="2">
 <dictScrap>Fig. Mauvais critique.</dictScrap>
 <cit>
-<quote>Comment avez-vous pu imaginer, mon cher et illustre maître, que j'aie eu l'intention de vous comparer à Zoïle ? je ne suis ni injuste ni sot à ce point-là</quote>
+<quote>Comment avez-vous pu imaginer, mon cher et illustre maître, que j'aie eu l'intention de vous comparer à <oVar>Zoïle</oVar> ? je ne suis ni injuste ni sot à ce point-là</quote>
 <bibl>
 <author>D'ALEMB.</author>
 <biblScope>Lett. à Voltaire, 31 juill. 1762</biblScope>
@@ -2741,7 +2740,7 @@
 <sense n="3">
 <dictScrap>Fig. et abusivement. Critique envieux et méchant (on met une majuscule).</dictScrap>
 <cit>
-<quote>Peu s'en fallut que le Zoïle couronné [Caligula], condamnant à l'oubli les noms d'Homère, de Virgile et de Tite-Live, ne fit enlever des bibliothèques les ouvrages et les statues des deux derniers</quote>
+<quote>Peu s'en fallut que le <oVar>Zoïle</oVar> couronné [Caligula], condamnant à l'oubli les noms d'Homère, de Virgile et de Tite-Live, ne fit enlever des bibliothèques les ouvrages et les statues des deux derniers</quote>
 <bibl>
 <author>DIDER.</author>
 <biblScope>Claude et Nér. I, 5</biblScope>
@@ -2814,14 +2813,14 @@
 <sense n="1">
 <dictScrap>Terme de géographie. Chacune des cinq grandes divisions du globe terrestre, que l'on conçoit séparées par des cercles parallèles à l'équateur. La surface de la terre est divisée en cinq <oVar>zones</oVar> : 1° deux <oVar>zones</oVar> glaciales, qui s'étendent des pôles jusqu'aux cercles polaires, à la distance de 23° 28', quantité égale à l'inclinaison de l'équateur sur l'écliptique ; pour tous les points de ces <oVar>zones</oVar>, le soleil reste, à certaines époques de l'année, sans se lever ou se coucher ; 2° une <oVar>zone</oVar> torride, qui s'étend jusqu'à 23° 28' de part et d'autre de l'équateur ; pour tous les points de cette <oVar>zone</oVar>, le soleil passe au zénith à certaines époques de l'année ; 3° deux <oVar>zones</oVar> tempérées, comprises entre la <oVar>zone</oVar> torride et les <oVar>zones</oVar> glaciales ; pour tous les points de ces <oVar>zones</oVar>, le soleil se lève et se couche chaque jour, sans jamais passer au zénith.</dictScrap>
 <cit>
-<quote>Le loup, qui, dans cette zone tempérée, est peut-être de tous les animaux le plus féroce, n'est pas, à beaucoup près, aussi terrible, aussi cruel que le tigre, la panthère, le lion de la zone torride, ou l'ours blanc, le loup cervier, l'hyène de la zone glacée</quote>
+<quote>Le loup, qui, dans cette <oVar>zone</oVar> tempérée, est peut-être de tous les animaux le plus féroce, n'est pas, à beaucoup près, aussi terrible, aussi cruel que le tigre, la panthère, le lion de la <oVar>zone</oVar> torride, ou l'ours blanc, le loup cervier, l'hyène de la <oVar>zone</oVar> glacée</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Quadr. t. II, p. 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Parménidas divisa la terre en zones</quote>
+<quote>Parménidas divisa la terre en <oVar>zones</oVar></quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astr. anc. p. 457</biblScope>
@@ -2837,7 +2836,7 @@
 <sense n="3">
 <dictScrap>Région considérée par rapport à sa température.</dictScrap>
 <cit>
-<quote>L'Asie n'a point précisément de zone tempérée ; et les lieux situés dans un climat très froid y touchent immédiatement ceux qui sont dans un climat très chaud</quote>
+<quote>L'Asie n'a point précisément de <oVar>zone</oVar> tempérée ; et les lieux situés dans un climat très froid y touchent immédiatement ceux qui sont dans un climat très chaud</quote>
 <bibl>
 <author>MONTESQ.</author>
 <biblScope>Esp. XVII, 3</biblScope>
@@ -2850,7 +2849,7 @@
 <sense n="5">
 <dictScrap>Terme d'histoire naturelle. Bandes ou marques circulaires.</dictScrap>
 <cit>
-<quote>Son cou et sa poitrine ondés distinctement de zones noires et blanches</quote>
+<quote>Son cou et sa poitrine ondés distinctement de <oVar>zones</oVar> noires et blanches</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Ois. t. XIII, p. 57</biblScope>
@@ -2866,28 +2865,28 @@
 <sense n="7">
 <dictScrap>Il se dit d'un espace plus ou moins étendu que l'on compare à une bande, à une <oVar>zone</oVar>.</dictScrap>
 <cit>
-<quote>Daniel Bernoulli nous a donné un savant mémoire où il cherche par quelle raison les orbites des planètes sont renfermées dans une très petite zone parallèle à l'écliptique, et qui n'est que la dix-septième partie de la sphère</quote>
+<quote>Daniel Bernoulli nous a donné un savant mémoire où il cherche par quelle raison les orbites des planètes sont renfermées dans une très petite <oVar>zone</oVar> parallèle à l'écliptique, et qui n'est que la dix-septième partie de la sphère</quote>
 <bibl>
 <author>D'ALEMB.</author>
 <biblScope>Œuv. t. IV, p. 307</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On sait que dans cette vaste partie du grand océan équatorial il existe une zone de 12 à 14 degrés environ du nord au sud, et de 140 degrés de l'est à l'ouest, parsemée d'îles, qui sont sur le globe terrestre ce qu'est la voie lactée dans le ciel</quote>
+<quote>On sait que dans cette vaste partie du grand océan équatorial il existe une <oVar>zone</oVar> de 12 à 14 degrés environ du nord au sud, et de 140 degrés de l'est à l'ouest, parsemée d'îles, qui sont sur le globe terrestre ce qu'est la voie lactée dans le ciel</quote>
 <bibl>
 <author>LAPÉROUSE</author>
 <biblScope>Voy. t. III, p. 169, dans POUGENS</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Quand on eut reconnu que la lune et les autres planètes ne sortaient jamais d'une zone assez étroite que les Grecs ont nommée le zodiaque</quote>
+<quote>Quand on eut reconnu que la lune et les autres planètes ne sortaient jamais d'une <oVar>zone</oVar> assez étroite que les Grecs ont nommée le zodiaque</quote>
 <bibl>
 <author>BAILLY</author>
 <biblScope>Hist. astr. anc. p. 475</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les taches du soleil sont presque toujours comprises dans une zone de sa surface dont la largeur, mesurée sur un méridien solaire, ne s'étend pas au delà de 34 degrés, de chaque côté de son équateur</quote>
+<quote>Les taches du soleil sont presque toujours comprises dans une <oVar>zone</oVar> de sa surface dont la largeur, mesurée sur un méridien solaire, ne s'étend pas au delà de 34 degrés, de chaque côté de son équateur</quote>
 <bibl>
 <author>LAPLACE</author>
 <biblScope>Exp. 1, 2</biblScope>
@@ -2896,7 +2895,7 @@
 <sense>
 <dictScrap>Terme de marine. <oVar>Zone</oVar> des vents alizés, des vents variables, etc., la partie du globe où ces vents règnent habituellement.</dictScrap>
 <cit>
-<quote>Il me paraît qu'on pourrait diviser les vents par zones</quote>
+<quote>Il me paraît qu'on pourrait diviser les vents par <oVar>zones</oVar></quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Hist. nat. preuv. th. terr. t. II, p. 244</biblScope>
@@ -2937,7 +2936,7 @@
 <sense n="12">
 <dictScrap>Fig. et par assimilation. Les diverses classes de la société.</dictScrap>
 <cit>
-<quote>Chacun, en régalant ses amis, s'est efforcé de leur offrir ce qu'il avait remarqué de meilleur dans les zones supérieures</quote>
+<quote>Chacun, en régalant ses amis, s'est efforcé de leur offrir ce qu'il avait remarqué de meilleur dans les <oVar>zones</oVar> supérieures</quote>
 <bibl>
 <author>BRILLAT-SAVARIN</author>
 <biblScope>Physiologie du goût, méditation XXVII</biblScope>
@@ -2948,7 +2947,7 @@
 
 <label>XIVe s.</label>
 <cit>
-<quote>L'espere [la sphère] du ciel est divisée en v parties par les IV mendres [moindres] cercles, et ces parties sont appelées zones</quote>
+<quote>L'espere [la sphère] du ciel est divisée en v parties par les IV mendres [moindres] cercles, et ces parties sont appelées <oVar>zones</oVar></quote>
 <bibl>
 <author>ORESME</author>
 <biblScope>Thèse de MEUNIER.</biblScope>
@@ -2958,7 +2957,7 @@
 
 <label>XVe s.</label>
 <cit>
-<quote>Je leur donrray, n'en doubtez mie, Pour douce odeur grant punesie ; Pour la belle zone [ceinture] averont Or funicle et s'en couverront</quote>
+<quote>Je leur donrray, n'en doubtez mie, Pour douce odeur grant punesie ; Pour la belle <oVar>zone</oVar> [ceinture] averont Or funicle et s'en couverront</quote>
 <bibl>
 <author>E. DESCH.</author>
 <biblScope>Poésies mss. f° 532</biblScope>
@@ -3138,7 +3137,7 @@
 <sense n="2">
 <dictScrap>Peintre d'animaux.</dictScrap>
 <cit>
-<quote>Polycyde, zoographe et musicien, IVe siècle avant Jésus-Christ</quote>
+<quote>Polycyde, <oVar>zoographe</oVar> et musicien, IVe siècle avant Jésus-Christ</quote>
 <bibl>
 <author>BARTHÉL.</author>
 <biblScope>Anach. t. VII, tabl. 5</biblScope>
@@ -3304,7 +3303,7 @@
 <sense>
 <dictScrap>Qui concerne la zoologie.</dictScrap>
 <cit>
-<quote>Son beau cabinet d'anatomie zoologique [de Bourgelat]</quote>
+<quote>Son beau cabinet d'anatomie <oVar>zoologique</oVar> [de Bourgelat]</quote>
 <bibl>
 <author>BUFF.</author>
 <biblScope>Quadrup. t. VIII, p. 154</biblScope>
@@ -3324,7 +3323,7 @@
 <sense>
 <dictScrap>Au point de vue zoologique.</dictScrap>
 <cit>
-<quote>Qu'est-ce que l'âge du renne ? géologiquement, c'est le quaternaire ; zoologiquement, c'est l'absence d'animaux domestiqués et l'association au renne d'animaux ou éteints ou émigrés ; archéologiquement, c'est la période de la pierre taillée</quote>
+<quote>Qu'est-ce que l'âge du renne ? géologiquement, c'est le quaternaire ; <oVar>zoologiquement</oVar>, c'est l'absence d'animaux domestiqués et l'association au renne d'animaux ou éteints ou émigrés ; archéologiquement, c'est la période de la pierre taillée</quote>
 <bibl>
 <biblScope>Bulletin de la soc. anthr. 2e série, t. II, p. 247</biblScope>
 </bibl>
@@ -3546,7 +3545,7 @@
 </bibl>
 </cit>
 <cit>
-<quote>Moi, j'ai amélioré le mollusque, et complété la monographie du zoophyte</quote>
+<quote>Moi, j'ai amélioré le mollusque, et complété la monographie du <oVar>zoophyte</oVar></quote>
 <bibl>
 <author>REYBAUD</author>
 <biblScope>Jér. Patur. II, 14</biblScope>
@@ -3718,7 +3717,7 @@
 <sense n="2">
 <dictScrap>Aujourd'hui, l'art de perfectionner les animaux domestiques, et de les adapter à des besoins déterminés.</dictScrap>
 <cit>
-<quote>La zootechnie pratique, qui, pour nous, doit passer avant l'histoire naturelle</quote>
+<quote>La <oVar>zootechnie</oVar> pratique, qui, pour nous, doit passer avant l'histoire naturelle</quote>
 <bibl>
 <author>MAGNE</author>
 <biblScope>Bulletin de la Soc. d'agr. de Fr. 3e série, t. III, p. 558</biblScope>
@@ -3736,7 +3735,7 @@
 <sense>
 <dictScrap>Qui appartient à la zootechnie.</dictScrap>
 <cit>
-<quote>La question zootechnique</quote>
+<quote>La question <oVar>zootechnique</oVar></quote>
 <bibl>
 <author>MAGNE</author>
 <biblScope>Bulletin de la Soc. d'agr. de Fr. 3e série, t. III, p. 581</biblScope>
@@ -3799,7 +3798,7 @@
 <sense>
 <dictScrap>Celui qui étudie ou qui pratique la zootomie.</dictScrap>
 <cit>
-<quote>Geoffroy Saint-Hilaire, cet illustre zootomiste</quote>
+<quote>Geoffroy Saint-Hilaire, cet illustre <oVar>zootomiste</oVar></quote>
 <bibl>
 <author>SERRES</author>
 <biblScope>Instit. Mém. Acad. scienc. t. XI, p. 662</biblScope>
@@ -4097,7 +4096,7 @@
 
 <label>XVIe s.</label>
 <cit>
-<quote>Le zygoma, qui a esté fait de nature pour la conservation du muscle temporal</quote>
+<quote>Le <oVar>zygoma</oVar>, qui a esté fait de nature pour la conservation du muscle temporal</quote>
 <bibl>
 <author>PARÉ</author>
 <biblScope>IV, 1</biblScope>
@@ -4192,7 +4191,7 @@
 <sense>
 <dictScrap>Terme de chimie. Substance qui, dans les moisissures, est le ferment glycosique du sucre de canne, comme la diastase dans l'orge germée est le ferment glycosique de la fécule.</dictScrap>
 <cit>
-<quote>Une zymase est toujours le produit de l'activité d'une cellule ou d'un groupe de cellules vivantes ; spontanément, aucune matière albuminoïde ou autre ne devient une zymase, ou n'acquiert les propriétés de zymase ; partout où celles-ci apparaissent, on est sûr de trouver quelque chose d'organisé</quote>
+<quote>Une <oVar>zymase</oVar> est toujours le produit de l'activité d'une cellule ou d'un groupe de cellules vivantes ; spontanément, aucune matière albuminoïde ou autre ne devient une <oVar>zymase</oVar>, ou n'acquiert les propriétés de <oVar>zymase</oVar> ; partout où celles-ci apparaissent, on est sûr de trouver quelque chose d'organisé</quote>
 <bibl>
 <author>BÉCHAMP et ESTOR</author>
 <biblScope>Acad. des sc. Comptes rendus, t. LXVI, p. 421</biblScope>

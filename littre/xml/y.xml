@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="littre.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?oxygen RNGSchema="littre.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_y">
 <teiHeader>
@@ -33,7 +32,7 @@
 <sense n="1">
 <dictScrap>Vingt-quatrième lettre de l'alphabet.</dictScrap>
 <cit>
-<quote>L'i final était trop simple et mal propre à recevoir l'ornement des paraphes ou bravoures dont la queue de l'y grec est susceptible</quote>
+<quote>L'i final était trop simple et mal propre à recevoir l'ornement des paraphes ou bravoures dont la queue de l'<oVar>y</oVar> grec est susceptible</quote>
 <bibl>
 <author>LA MOTHE LE VAYER</author>
 <biblScope>la Promenade, Dial. I</biblScope>
@@ -64,14 +63,14 @@
 <sense n="9">
 <dictScrap>Embranchement en forme d'<oVar>y</oVar>.</dictScrap>
 <cit>
-<quote>Cette grande chaîne qui, en s'abaissant graduellement, vient aboutir à la Méditerranée, se divise là comme un y grec en deux branches inégales</quote>
+<quote>Cette grande chaîne qui, en s'abaissant graduellement, vient aboutir à la Méditerranée, se divise là comme un <oVar>y</oVar> grec en deux branches inégales</quote>
 <bibl>
 <author>SAUSSURE</author>
 <biblScope>Voy. Alpes, t. v, p. 222</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Placés à l'y du carrefour, nous hésitions entre les deux routes</quote>
+<quote>Placés à l'<oVar>y</oVar> du carrefour, nous hésitions entre les deux routes</quote>
 <bibl>
 <author>TH. GAUTIER</author>
 <biblScope>le Bien public, 10 mars 1872</biblScope>
@@ -88,7 +87,7 @@
 
 <label>XIVe s.</label>
 <cit>
-<quote>Un petit fermail d'or, a un Y gregeois ou milieu, et autour a x perles</quote>
+<quote>Un petit fermail d'or, a un <oVar>Y</oVar> gregeois ou milieu, et autour a x perles</quote>
 <bibl>
 <author>DE LABORDE</author>
 <biblScope>Émaux, p. 546</biblScope>
@@ -107,49 +106,49 @@
 <sense n="1">
 <dictScrap>En cet endroit-là. Voulez-vous <oVar>y</oVar> aller ? Rendez-vous-<oVar>y</oVar>. J'<oVar>y</oVar> cours.</dictScrap>
 <cit>
-<quote>La Provence est mon pays depuis que vous y êtes</quote>
+<quote>La Provence est mon pays depuis que vous <oVar>y</oVar> êtes</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>22 nov. 1671</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>De son temps [un conquérant], les hommes venaient ici [dans les enfers] tous les jours par trente et quarante mille ; jamais personne n'y en a tant envoyé</quote>
+<quote>De son temps [un conquérant], les hommes venaient ici [dans les enfers] tous les jours par trente et quarante mille ; jamais personne n'<oVar>y</oVar> en a tant envoyé</quote>
 <bibl>
 <author>BOILEAU</author>
 <biblScope>Héros de romans.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ici ! vous y pourriez rencontrer votre perte</quote>
+<quote>Ici ! vous <oVar>y</oVar> pourriez rencontrer votre perte</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Mithr. I, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il y aura demain trois semaines que je ne suis sorti de Paris ; et je pourrais bien y en demeurer encore autant</quote>
+<quote>Il <oVar>y</oVar> aura demain trois semaines que je ne suis sorti de Paris ; et je pourrais bien <oVar>y</oVar> en demeurer encore autant</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Lettres à son fils, 2 mai 1698</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On ne recevait plus de nouvelles de la Suède, et on ne pouvait y en faire tenir</quote>
+<quote>On ne recevait plus de nouvelles de la Suède, et on ne pouvait <oVar>y</oVar> en faire tenir</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Charles XII, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>J'ai empêché, autant que je l'ai pu, que le petit Avis entrât en France ; mais plusieurs voyageurs y en ont apporté des exemplaires</quote>
+<quote>J'ai empêché, autant que je l'ai pu, que le petit Avis entrât en France ; mais plusieurs voyageurs <oVar>y</oVar> en ont apporté des exemplaires</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Damilaville, 17 déc. 1766</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Eh non, reprit un autre, il [Diogène] est de Sinope ; les habitants l'ont condamné à sortir de leur ville. - Et moi je les ai condamnés à y rester</quote>
+<quote>Eh non, reprit un autre, il [Diogène] est de Sinope ; les habitants l'ont condamné à sortir de leur ville. - Et moi je les ai condamnés à <oVar>y</oVar> rester</quote>
 <bibl>
 <author>BARTHÉL.</author>
 <biblScope>Anach. ch. 28</biblScope>
@@ -158,14 +157,14 @@
 <sense>
 <dictScrap><oVar>Y</oVar> avec s'en retourner, s'en aller, s'en venir.</dictScrap>
 <cit>
-<quote>J'ai ici un honnête homme de Lyon, qui s'y en retournera après Pâques</quote>
+<quote>J'ai ici un honnête homme de Lyon, qui s'<oVar>y</oVar> en retournera après Pâques</quote>
 <bibl>
 <author>GUI PATIN</author>
 <biblScope>Lettres, t. II, p. 497</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>D. Juan : Je veux souper en repos, au moins, et qu'on ne laisse entrer personne. - Sganarelle : Laissez-moi faire, je m'y en vais moi-même</quote>
+<quote>D. Juan : Je veux souper en repos, au moins, et qu'on ne laisse entrer personne. - Sganarelle : Laissez-moi faire, je m'<oVar>y</oVar> en vais moi-même</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>D. Juan, IV, 11</biblScope>
@@ -176,49 +175,49 @@
 <sense n="2">
 <dictScrap>Du sens d'adverbe de lieu, <oVar>y</oVar> passe au rôle de pronom (comme où qui, du rôle d'adverbe de lieu, passe au rôle de pronom relatif dans : le bonheur où j'aspire), et signifie en ce, en ceci, en cela, en cette chose, en ces choses.</dictScrap>
 <cit>
-<quote>Pour toutes les opinions que j'avais reçues jusques alors en ma créance, je ne pouvais mieux faire que d'entreprendre une bonne fois de les en ôter, afin d'y en remettre par après ou d'autres meilleures ou bien les mêmes...</quote>
+<quote>Pour toutes les opinions que j'avais reçues jusques alors en ma créance, je ne pouvais mieux faire que d'entreprendre une bonne fois de les en ôter, afin d'<oVar>y</oVar> en remettre par après ou d'autres meilleures ou bien les mêmes...</quote>
 <bibl>
 <author>DESC.</author>
 <biblScope>Méth. II, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Rien n'y contredit [dans cette tragédie] l'histoire</quote>
+<quote>Rien n'<oVar>y</oVar> contredit [dans cette tragédie] l'histoire</quote>
 <bibl>
 <author>CORN</author>
 <biblScope>Cinna, Examen.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Et, pour se bien conduire en ces difficultés, Il y faut, comme en tout, fuir les extrémités</quote>
+<quote>Et, pour se bien conduire en ces difficultés, Il <oVar>y</oVar> faut, comme en tout, fuir les extrémités</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Ec. des f. IV, 8</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Écritures.... qu'on a conservées avec tant de religion, qu'on n'a pas cru pouvoir sans impiété y altérer une seule lettre</quote>
+<quote>Écritures.... qu'on a conservées avec tant de religion, qu'on n'a pas cru pouvoir sans impiété <oVar>y</oVar> altérer une seule lettre</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Hist. II, 13</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>En même temps que pour prier on se met dans l'esprit cette première vérité.... on doit encore s'y en mettre une autre....</quote>
+<quote>En même temps que pour prier on se met dans l'esprit cette première vérité.... on doit encore s'<oVar>y</oVar> en mettre une autre....</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Méd. sur l'Év. 2e partie, 7e jour.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mon trône vous est dû : loin de m'en repentir, Je vous y place même avant que de partir</quote>
+<quote>Mon trône vous est dû : loin de m'en repentir, Je vous <oVar>y</oVar> place même avant que de partir</quote>
 <bibl>
 <author>RAC.</author>
 <biblScope>Mithr. III, 5</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Une mouche, ayant vu un jour une hirondelle, qui, en volant, emportait des toiles d'araignée, en voulut faire autant, elle y fut prise</quote>
+<quote>Une mouche, ayant vu un jour une hirondelle, qui, en volant, emportait des toiles d'araignée, en voulut faire autant, elle <oVar>y</oVar> fut prise</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Dict. phil. Pierre le Grand.</biblScope>
@@ -227,21 +226,21 @@
 <sense>
 <dictScrap>Il se dit dans le même sens avec un nom de personne.</dictScrap>
 <cit>
-<quote>Je ne distingue rien en celui qui m'offense ; Tout y devient l'objet de mon courroux</quote>
+<quote>Je ne distingue rien en celui qui m'offense ; Tout <oVar>y</oVar> devient l'objet de mon courroux</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Amph. II, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Et encore que ces sentiments n'aient pas été assez vifs, ni assez suivis dans les païens, nous y en voyons des vestiges qui...</quote>
+<quote>Et encore que ces sentiments n'aient pas été assez vifs, ni assez suivis dans les païens, nous <oVar>y</oVar> en voyons des vestiges qui...</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Libre arb. IV</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>L'on me dit tant de mal de cet homme, et j'y en vois si peu, que je commence à soupçonner qu'il n'ait un mérite importun, et qui éteigne celui des autres</quote>
+<quote>L'on me dit tant de mal de cet homme, et j'<oVar>y</oVar> en vois si peu, que je commence à soupçonner qu'il n'ait un mérite importun, et qui éteigne celui des autres</quote>
 <bibl>
 <author>LA BRUY.</author>
 <biblScope>VIII</biblScope>
@@ -252,91 +251,91 @@
 <sense n="3">
 <dictScrap>Il se dit aussi pour : à ce, à ceci, à cette chose, à ces choses.</dictScrap>
 <cit>
-<quote>Dure à jamais le mal, s'il y faut ce remède !</quote>
+<quote>Dure à jamais le mal, s'il <oVar>y</oVar> faut ce remède !</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Hor. I, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ici l'honneur m'oblige, et j'y veux satisfaire</quote>
+<quote>Ici l'honneur m'oblige, et j'<oVar>y</oVar> veux satisfaire</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Poly. IV, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il faut toujours garder les formalités, quoi qu'il puisse arriver. - Pour moi, j'y suis sévère en diable</quote>
+<quote>Il faut toujours garder les formalités, quoi qu'il puisse arriver. - Pour moi, j'<oVar>y</oVar> suis sévère en diable</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Am. méd. II, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Je me vois, ma cousine, ici persécutée Par des gens dont l'humeur y paraît concertée</quote>
+<quote>Je me vois, ma cousine, ici persécutée Par des gens dont l'humeur <oVar>y</oVar> paraît concertée</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Mis. v, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Par ma foi, il mériterait qu'elle lui fît dire vrai ; et, si j'étais en sa place, je n'y marchanderais pas</quote>
+<quote>Par ma foi, il mériterait qu'elle lui fît dire vrai ; et, si j'étais en sa place, je n'<oVar>y</oVar> marchanderais pas</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>G. Dand. I, 7</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Promettez-moi donc.... que je pourrai vous parler cette nuit. - J'y ferai mes efforts</quote>
+<quote>Promettez-moi donc.... que je pourrai vous parler cette nuit. - J'<oVar>y</oVar> ferai mes efforts</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>ib. II, 10</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Accablez-moi de noms encor plus détestés : Je n'y contredis point, je les ai mérités</quote>
+<quote>Accablez-moi de noms encor plus détestés : Je n'<oVar>y</oVar> contredis point, je les ai mérités</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Tart. III, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le roi donne cent mille francs à Brancas pour marier sa fille au duc de Brancas son neveu ; et Brancas y ajoute cent mille écus</quote>
+<quote>Le roi donne cent mille francs à Brancas pour marier sa fille au duc de Brancas son neveu ; et Brancas <oVar>y</oVar> ajoute cent mille écus</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>26 avril 1680</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Aussitôt qu'il sera temps d'agir, je n'y perdrai pas un seul moment</quote>
+<quote>Aussitôt qu'il sera temps d'agir, je n'<oVar>y</oVar> perdrai pas un seul moment</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>19 août 1675</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Sensible jusques à la fin à la tendresse des siens, il ne s'y laissa jamais vaincre ; et au contraire il craignait toujours de trop donner à la nature</quote>
+<quote>Sensible jusques à la fin à la tendresse des siens, il ne s'<oVar>y</oVar> laissa jamais vaincre ; et au contraire il craignait toujours de trop donner à la nature</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Louis de Bourbon.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Aimons-nous, tout nous y convie</quote>
+<quote>Aimons-nous, tout nous <oVar>y</oVar> convie</quote>
 <bibl>
 <author>QUIN.</author>
 <biblScope>Armide, v, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [le czar] acheva de conquérir la Livonie et l'Ingrie, et y joignit la Finlande et une partie de la Poméranie suédoise</quote>
+<quote>Il [le czar] acheva de conquérir la Livonie et l'Ingrie, et <oVar>y</oVar> joignit la Finlande et une partie de la Poméranie suédoise</quote>
 <bibl>
 <author>FONTENELLE</author>
 <biblScope>Czar Pierre Ier.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les Guyon, les Gauchat, les Chaumeix en seront peut-être fâchés ; mais je ne peux qu'y faire</quote>
+<quote>Les Guyon, les Gauchat, les Chaumeix en seront peut-être fâchés ; mais je ne peux qu'<oVar>y</oVar> faire</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Lebrun, 2 janv. 1761</biblScope>
@@ -348,28 +347,28 @@
 <sense>
 <dictScrap>Il se dit d'une façon analogue avec un nom de personne.</dictScrap>
 <cit>
-<quote>Le pauvre M. du Bois [mort], j'y ai un regret extrême</quote>
+<quote>Le pauvre M. du Bois [mort], j'<oVar>y</oVar> ai un regret extrême</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>20 juill. 1694</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Rien ne peut me distraire de penser à vous ; j'y rapporte toutes choses</quote>
+<quote>Rien ne peut me distraire de penser à vous ; j'<oVar>y</oVar> rapporte toutes choses</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>17 mars 1680</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>J'ai le cœur et l'imagination tout remplis de vous [de sa fille] ; je n'y puis penser sans pleurer, et j'y pense toujours</quote>
+<quote>J'ai le cœur et l'imagination tout remplis de vous [de sa fille] ; je n'<oVar>y</oVar> puis penser sans pleurer, et j'<oVar>y</oVar> pense toujours</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>160</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Y se dit quelquefois des personnes : avez-vous pensé à moi ? je n'y ai pas pensé ; y, c'est-à-dire à vous</quote>
+<quote><oVar>Y</oVar> se dit quelquefois des personnes : avez-vous pensé à moi ? je n'<oVar>y</oVar> ai pas pensé ; <oVar>y</oVar>, c'est-à-dire à vous</quote>
 <bibl>
 <author>CONDIL.</author>
 <biblScope>Gramm. II, 16</biblScope>
@@ -380,35 +379,35 @@
 <sense n="4">
 <dictScrap><oVar>Y</oVar> employé pour à lui, à elle, à eux, à elles, en parlant de personnes.</dictScrap>
 <cit>
-<quote>Pour ébranler mon cœur, Est-ce peu de Camille ? y joignez-vous ma sœur ?</quote>
+<quote>Pour ébranler mon cœur, Est-ce peu de Camille ? <oVar>y</oVar> joignez-vous ma sœur ?</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Hor. II, 6</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Qu'il se donne à Mandane, il n'aura plus de crime. - Eurydice : Qu'il s'y donne, madame, et ne m'en dise rien</quote>
+<quote>Qu'il se donne à Mandane, il n'aura plus de crime. - Eurydice : Qu'il s'<oVar>y</oVar> donne, madame, et ne m'en dise rien</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Sur. IV, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Prince, n'y pensez plus [à Laodice], si vous pouvez m'en croire</quote>
+<quote>Prince, n'<oVar>y</oVar> pensez plus [à Laodice], si vous pouvez m'en croire</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Nicom. IV, 5</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vadius : Oui, oui, je te renvoie à l'auteur des satires. - Trissotin : Je t'y renvoie aussi</quote>
+<quote>Vadius : Oui, oui, je te renvoie à l'auteur des satires. - Trissotin : Je t'<oVar>y</oVar> renvoie aussi</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Femm. sav. III, 5</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Tous ceux qui la voient [Mme de Grignan], et qui y prennent quelque intérêt</quote>
+<quote>Tous ceux qui la voient [Mme de Grignan], et qui <oVar>y</oVar> prennent quelque intérêt</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>27 mai 1678</biblScope>
@@ -417,55 +416,55 @@
 <sense>
 <dictScrap>En parlant de choses.</dictScrap>
 <cit>
-<quote>Ils [les amants] comptent les défauts pour des perfections, Et savent y donner de favorables noms</quote>
+<quote>Ils [les amants] comptent les défauts pour des perfections, Et savent <oVar>y</oVar> donner de favorables noms</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Mis. II, 5</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Les passages étant catholiques, il fallait que la proposition y fût contraire pour être hérétique</quote>
+<quote>Les passages étant catholiques, il fallait que la proposition <oVar>y</oVar> fût contraire pour être hérétique</quote>
 <bibl>
 <author>PASC.</author>
 <biblScope>Prov. III</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mes pauvres lettres n'ont de prix que celui que vous y donnez en les lisant comme vous faites</quote>
+<quote>Mes pauvres lettres n'ont de prix que celui que vous <oVar>y</oVar> donnez en les lisant comme vous faites</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>24 juill. 1691</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le mal de Mme de Chaulnes n'est pas à négliger ; ces eaux y sont bonnes</quote>
+<quote>Le mal de Mme de Chaulnes n'est pas à négliger ; ces eaux <oVar>y</oVar> sont bonnes</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>22 sept. 1687</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ce cuir ne vaut rien, on y a donné un mauvais apprêt</quote>
+<quote>Ce cuir ne vaut rien, on <oVar>y</oVar> a donné un mauvais apprêt</quote>
 <bibl>
 <biblScope>Dict. de l'Acad. à apprêt.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [le mot caryophyllées] se dit des fleurs de l'Œillet et de toutes celles qui y ressemblent par leur structure</quote>
+<quote>Il [le mot caryophyllées] se dit des fleurs de l'Œillet et de toutes celles qui <oVar>y</oVar> ressemblent par leur structure</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>au mot caryophyllées.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mauvais, avec la négative,... signifie souvent assez bon, ou même fort bon, selon le ton qu'on y donne</quote>
+<quote>Mauvais, avec la négative,... signifie souvent assez bon, ou même fort bon, selon le ton qu'on <oVar>y</oVar> donne</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>au mot mauvais.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>C'est un homme qui abuse de la parole de Dieu, en y donnant des explications forcées</quote>
+<quote>C'est un homme qui abuse de la parole de Dieu, en <oVar>y</oVar> donnant des explications forcées</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>au mot parole.</biblScope>
@@ -479,77 +478,77 @@
 <sense n="5">
 <dictScrap><oVar>Y</oVar> représente quelquefois une locution tout entière.</dictScrap>
 <cit>
-<quote>C'est assez mériter d'être réduit en cendre, D'y voir réduit tout l'isthme....</quote>
+<quote>C'est assez mériter d'être réduit en cendre, D'<oVar>y</oVar> voir réduit tout l'isthme....</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Méd. I, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mascarille : Quoi ! Lucile n'est pas, sous des liens secrets, à mon maître ? - Albert : Non, traître, et n'y sera jamais</quote>
+<quote>Mascarille : Quoi ! Lucile n'est pas, sous des liens secrets, à mon maître ? - Albert : Non, traître, et n'<oVar>y</oVar> sera jamais</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Dép. am. III, 8</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Je romps avecque vous, et j'y romps pour jamais</quote>
+<quote>Je romps avecque vous, et j'<oVar>y</oVar> romps pour jamais</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Dép. am. IV, 3</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vivez, vivez contente, et bravez ma mémoire Avec le digne époux qui vous comble de gloire. - Oui, traître, j'y veux vivre</quote>
+<quote>Vivez, vivez contente, et bravez ma mémoire Avec le digne époux qui vous comble de gloire. - Oui, traître, j'<oVar>y</oVar> veux vivre</quote>
 <bibl>
 <author>MOL.</author>
 <biblScope>Sgan. 20</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>J'achève tous les livres, et vous les commencez ; cela s'ajusterait fort bien si nous étions ensemble.... ah ! ma bonne, c'est dommage que nous n'y sommes quelquefois au moins</quote>
+<quote>J'achève tous les livres, et vous les commencez ; cela s'ajusterait fort bien si nous étions ensemble.... ah ! ma bonne, c'est dommage que nous n'<oVar>y</oVar> sommes quelquefois au moins</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>8 juill. 1671</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Mme de Fontevrault fut bénite hier ; MM. les prélats furent un peu fâchés de n'y voir que des tabourets</quote>
+<quote>Mme de Fontevrault fut bénite hier ; MM. les prélats furent un peu fâchés de n'<oVar>y</oVar> voir que des tabourets</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>9 fév. 1671</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>La raison qu'il en apporte, c'est qu'il [le roi] juge selon la justice : ce n'est pas qu'il y juge toujours, mais c'est qu'il est réputé y juger</quote>
+<quote>La raison qu'il en apporte, c'est qu'il [le roi] juge selon la justice : ce n'est pas qu'il <oVar>y</oVar> juge toujours, mais c'est qu'il est réputé <oVar>y</oVar> juger</quote>
 <bibl>
 <author>BOSSUET</author>
 <biblScope>Politique, IV, 1, 2</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vous voulez vivre à votre manière, vous y vivrez</quote>
+<quote>Vous voulez vivre à votre manière, vous <oVar>y</oVar> vivrez</quote>
 <bibl>
 <author>BARON</author>
 <biblScope>Coquette et fausse prude, I, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il ne me sert donc de rien d'avoir voulu troubler ces deux amants, en déclarant que je veux être de cette chasse ? non, je n'y irai pas ; ils n'y iront pas eux-mêmes, je saurai les en empêcher</quote>
+<quote>Il ne me sert donc de rien d'avoir voulu troubler ces deux amants, en déclarant que je veux être de cette chasse ? non, je n'<oVar>y</oVar> irai pas ; ils n'<oVar>y</oVar> iront pas eux-mêmes, je saurai les en empêcher</quote>
 <bibl>
 <author>FÉN.</author>
 <biblScope>Tél. VII</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>À Annecy, j'étais dans l'ivresse, à Chambéry je n'y étais plus</quote>
+<quote>À Annecy, j'étais dans l'ivresse, à Chambéry je n'<oVar>y</oVar> étais plus</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Confess. v.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Je suis en repos, je veux tâcher d'y rester</quote>
+<quote>Je suis en repos, je veux tâcher d'<oVar>y</oVar> rester</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Lett. à M. d'Yvernois, Corresp. t. VI, p. 293, dans POUGENS.</biblScope>
@@ -559,63 +558,63 @@
 <sense n="6">
 <dictScrap><oVar>Y</oVar> représente chez quelqu'un, auprès de quelqu'un, avec quelqu'un.</dictScrap>
 <cit>
-<quote>Je vois ce qu'il prétend auprès de l'empereur ; De ce qu'il me demande il m'y ferait un crime</quote>
+<quote>Je vois ce qu'il prétend auprès de l'empereur ; De ce qu'il me demande il m'<oVar>y</oVar> ferait un crime</quote>
 <bibl>
 <author>CORN.</author>
 <biblScope>Poly. v, 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Je sais bien par les registres de l'Académie, qu'on ne commença d'y parler du Cid que le 16 juin 1637 ; que ce fut après qu'on y eut lu une lettre de M. Corneille</quote>
+<quote>Je sais bien par les registres de l'Académie, qu'on ne commença d'<oVar>y</oVar> parler du Cid que le 16 juin 1637 ; que ce fut après qu'on <oVar>y</oVar> eut lu une lettre de M. Corneille</quote>
 <bibl>
 <author>PELLISSON</author>
 <biblScope>Hist. Acad. t. I, p. 126</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Pour l'aimable comtesse Meurt tous les jours Quelque amant qu'elle laisse Sans nul secours, Et cependant la presse Y est toujours</quote>
+<quote>Pour l'aimable comtesse Meurt tous les jours Quelque amant qu'elle laisse Sans nul secours, Et cependant la presse <oVar>Y</oVar> est toujours</quote>
 <bibl>
 <author>SEGRAIS</author>
 <biblScope>dans MALHERBE, éd. MÉNAGE, p. 274</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Je vois Mme de Villars ; je m'y plais, parce qu'elle entre dans mes sentiments</quote>
+<quote>Je vois Mme de Villars ; je m'<oVar>y</oVar> plais, parce qu'elle entre dans mes sentiments</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>18 fév. 1671</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Ma nièce de Bussy est veuve ; son mari est mort, à l'armée de M. de Schomberg, d'une horrible fièvre ; la maréchale de Schomberg veut que je l'y mène après dîner</quote>
+<quote>Ma nièce de Bussy est veuve ; son mari est mort, à l'armée de M. de Schomberg, d'une horrible fièvre ; la maréchale de Schomberg veut que je l'<oVar>y</oVar> mène après dîner</quote>
 <bibl>
 <author>SÉV.</author>
 <biblScope>293</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>On se fait un plaisir de vivre avec les comédiens, et on ne veut pas y [avec eux] être enterré</quote>
+<quote>On se fait un plaisir de vivre avec les comédiens, et on ne veut pas <oVar>y</oVar> [avec eux] être enterré</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. Damilaville, 18 juill. 1762</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>J'ai déjà soupé avec vous.... j'y souperai encore bien ici</quote>
+<quote>J'ai déjà soupé avec vous.... j'<oVar>y</oVar> souperai encore bien ici</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Pr. de Babyl. 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vous avez connu M. Dorneville ? - Un brave homme ; j'y dînais tous les mercredis</quote>
+<quote>Vous avez connu M. Dorneville ? - Un brave homme ; j'<oVar>y</oVar> dînais tous les mercredis</quote>
 <bibl>
 <author>PICARD et MAZÈRES</author>
 <biblScope>les Trois quartiers, II, 15</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Le roi passa le reste de la soirée chez Mme de Montespan, y fut triste et rêveur</quote>
+<quote>Le roi passa le reste de la soirée chez Mme de Montespan, <oVar>y</oVar> fut triste et rêveur</quote>
 <bibl>
 <author>GENLIS</author>
 <biblScope>Mme de Maintenon, t. I, p. 50, dans POUGENS</biblScope>
@@ -624,7 +623,7 @@
 <sense>
 <dictScrap>Il <oVar>y</oVar> est, il n'<oVar>y</oVar> est pas, se dit d'une personne qui est ou qui n'est pas à son logis.</dictScrap>
 <cit>
-<quote>Voyez pour quel sujet le sot nous interrompt ; Dis qu'elles n'y sont pas. - Champagne : J'ai dit qu'elles y sont</quote>
+<quote>Voyez pour quel sujet le sot nous interrompt ; Dis qu'elles n'<oVar>y</oVar> sont pas. - Champagne : J'ai dit qu'elles <oVar>y</oVar> sont</quote>
 <bibl>
 <author>BOURSAULT</author>
 <biblScope>Mots à la mode, sc. 9</biblScope>
@@ -638,7 +637,7 @@
 <sense n="7">
 <dictScrap><oVar>Y</oVar>, en termes de pratique ou dans un langage analogue, se construit avec un participe passé ou un adjectif. Lisez l'acte ; les personnes <oVar>y</oVar> nommées. Les pièces <oVar>y</oVar> afférentes.</dictScrap>
 <cit>
-<quote>Assurez-vous, je vous supplie, que les corrections y marquées [dans une épreuve] auront été faites très exactement</quote>
+<quote>Assurez-vous, je vous supplie, que les corrections <oVar>y</oVar> marquées [dans une épreuve] auront été faites très exactement</quote>
 <bibl>
 <author>J. J. ROUSS.</author>
 <biblScope>Lett. à Duchesne, 19 oct. 1761</biblScope>
@@ -648,7 +647,7 @@
 <sense n="8">
 <dictScrap>Il est quelquefois explétif. Il n'<oVar>y</oVar> voit pas, il n'<oVar>y</oVar> voit goutte.</dictScrap>
 <cit>
-<quote>Quand déjà l'on n'y voit guère, Quand on a peine à marcher</quote>
+<quote>Quand déjà l'on n'<oVar>y</oVar> voit guère, Quand on a peine à marcher</quote>
 <bibl>
 <author>BÉRANG.</author>
 <biblScope>Censure.</biblScope>
@@ -660,7 +659,7 @@
 <sense>
 <dictScrap>Il <oVar>y</oVar> va, vo<oVar>y</oVar>. <ref target="aller#var25">ALLER, n° 25</ref>. C'est peut-être cette raison de l'énergie qui a consacré le pléonasme en certaines façons de parler, comme quand on dit :</dictScrap>
 <cit>
-<quote>C'est une affaire où il y va du salut de l'État, ce qui est mieux que si l'on disait : C'est une affaire où il va etc. en supprimant y qui est inutile à cause de où</quote>
+<quote>C'est une affaire où il <oVar>y</oVar> va du salut de l'État, ce qui est mieux que si l'on disait : C'est une affaire où il va etc. en supprimant <oVar>y</oVar> qui est inutile à cause de où</quote>
 <bibl>
 <author>DUMARS.</author>
 <biblScope>Œuv. t. v, p. 28</biblScope>
@@ -673,21 +672,21 @@
 <sense>
 <dictScrap>Vous <oVar>y</oVar> êtes, vous avez deviné.</dictScrap>
 <cit>
-<quote>Faire tirer des fusées, des feux d'artifices ? - Vous n'y êtes pas</quote>
+<quote>Faire tirer des fusées, des feux d'artifices ? - Vous n'<oVar>y</oVar> êtes pas</quote>
 <bibl>
 <author>DANCOURT</author>
 <biblScope>Gal. jard. sc. 1</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il aura sans doute été occupé de quelque aventure galante, dit Zambullo. - Vous y êtes, reprit Asmodée ; je vais la détailler</quote>
+<quote>Il aura sans doute été occupé de quelque aventure galante, dit Zambullo. - Vous <oVar>y</oVar> êtes, reprit Asmodée ; je vais la détailler</quote>
 <bibl>
 <author>LESAGE</author>
 <biblScope>Diable boit. 8</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Vous y êtes, Sacrée Majesté ; la grâce opère déjà</quote>
+<quote>Vous <oVar>y</oVar> êtes, Sacrée Majesté ; la grâce opère déjà</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Dial. 27</biblScope>
@@ -697,7 +696,7 @@
 <sense>
 <dictScrap>Vous <oVar>y</oVar> êtes, j'<oVar>y</oVar> suis, vous êtes, je suis au point voulu ; vous <oVar>y</oVar> voilà, m'<oVar>y</oVar> voilà, vous voilà, me voilà au point voulu.</dictScrap>
 <cit>
-<quote>Elle.... [la grenouille] se travaille Pour égaler l'animal [le bœuf] en grosseur, Disant : regardez bien, ma sœur : Est-ce assez, dites-moi ? n'y suis-je point encore ? , -N, enni. - M'y voici donc ? - Point du tout. - M'y voilà</quote>
+<quote>Elle.... [la grenouille] se travaille Pour égaler l'animal [le bœuf] en grosseur, Disant : regardez bien, ma sœur : Est-ce assez, dites-moi ? n'<oVar>y</oVar> suis-je point encore ? , -N, enni. - M'<oVar>y</oVar> voici donc ? - Point du tout. - M'<oVar>y</oVar> voilà</quote>
 <bibl>
 <author>LA FONT.</author>
 <biblScope>Fabl. I, 3</biblScope>
@@ -709,20 +708,20 @@
 <dictScrap>Dans le langage des classes, on dit qu'un vers n'<oVar>y</oVar> est pas, pour exprimer qu'il pèche contre les règles de la versification.</dictScrap>
 </sense>
 <note type="REM.">
-<p>1. Y se place avant le verbe : il y va ; y est-il ? à l'impératif il se place après : allons-y, excepté quand la phrase est négative : n'y allons pas. Cependant, même dans une phrase affirmative, s'il y a deux impératifs qui se suivent, un second y peut être mis avant le verbe.  <cit><quote>Allez présentement en la grande ville de Ninive, et y prêchez</quote><bibl><author>SACI</author><biblScope>Bible, Jonas, I, 2</biblScope></bibl></cit> </p>
+<p>1. Y se place avant le verbe : il y va ; y est-il ? à l'impératif il se place après : allons-y, excepté quand la phrase est négative : n'y allons pas. Cependant, même dans une phrase affirmative, s'il y a deux impératifs qui se suivent, un second y peut être mis avant le verbe.  <cit><quote>Allez présentement en la grande ville de Ninive, et <oVar>y</oVar> prêchez</quote><bibl><author>SACI</author><biblScope>Bible, Jonas, I, 2</biblScope></bibl></cit> </p>
 <p>2. Il se met après les pronoms personnels. Je vous y conduirai. Fiez-vous-y. Nous nous y rendrons. Menez-nous-y. Menez-les-y. Mène-l'y, menez-l'y. </p>
-<p>3. Il faut observer que, quand y est placé immédiatement après la seconde personne du singulier de l'impératif, on ajoute à cette seconde personne une s euphonique, comme dans vas-y, donnes-y tes soins, cueilles-y des fruits. Sur quoi Legoarant ajoute : " D'après le principe donné ici par l'Académie sur l'impératif suivi du pronom y, on ne se douterait pas que c'est une faute de le faire précéder d'une s dans : va y donner des ordres, va y prendre mon habit, etc. En effet alors y appartient non à va, mais à donner, à prendre. " 4. à l'impératif, quand y se trouve avec moi et toi, on ne peut dire, à cause de l'hiatus trop dur : mène-moi-y, confie-toi-y, ce qui serait la forme régulière ; alors on dit : mènes-y-moi, menez-y-moi, confies-y-toi.  <cit><quote>Tiens-y-toi [sur la terre], comme un étranger Qui, dans l'ardeur de voyager, N'a point de cité permanente</quote><bibl><author>CORN.</author><biblScope>Imit. I, 23</biblScope></bibl></cit> <cit><quote>Prépares-y-toi sans ennui</quote><bibl><author>CORN.</author><biblScope>Imit. I, 23</biblScope></bibl></cit> <cit><quote>Te voilà bien, cadet ; tiens-y-toi</quote><bibl><author>TH. CORN.</author><biblScope>Comt. d'org. v, 9</biblScope></bibl></cit> Mais on dit aussi et mieux : mène-m'y, confie-t'y.  <cit><quote>Ne te compare pas aux autres, mais à moi [Dieu].... si tu m'y trouves [dans les autres], compare-t'y</quote><bibl><author>PASC.</author><biblScope>Pens. XXV, 7, éd. HAVET.</biblScope></bibl></cit> <cit><quote>Tu as déjà prêté un serment ; tiens-t'y</quote><bibl><author>CH. DE BERNARD</author><biblScope>Gentilh. camp. II, 28</biblScope></bibl></cit> </p>
+<p>3. Il faut observer que, quand y est placé immédiatement après la seconde personne du singulier de l'impératif, on ajoute à cette seconde personne une s euphonique, comme dans vas-y, donnes-y tes soins, cueilles-y des fruits. Sur quoi Legoarant ajoute : " D'après le principe donné ici par l'Académie sur l'impératif suivi du pronom y, on ne se douterait pas que c'est une faute de le faire précéder d'une s dans : va y donner des ordres, va y prendre mon habit, etc. En effet alors y appartient non à va, mais à donner, à prendre. " 4. à l'impératif, quand y se trouve avec moi et toi, on ne peut dire, à cause de l'hiatus trop dur : mène-moi-y, confie-toi-y, ce qui serait la forme régulière ; alors on dit : mènes-y-moi, menez-y-moi, confies-y-toi.  <cit><quote>Tiens-<oVar>y</oVar>-toi [sur la terre], comme un étranger Qui, dans l'ardeur de voyager, N'a point de cité permanente</quote><bibl><author>CORN.</author><biblScope>Imit. I, 23</biblScope></bibl></cit> <cit><quote>Prépares-<oVar>y</oVar>-toi sans ennui</quote><bibl><author>CORN.</author><biblScope>Imit. I, 23</biblScope></bibl></cit> <cit><quote>Te voilà bien, cadet ; tiens-<oVar>y</oVar>-toi</quote><bibl><author>TH. CORN.</author><biblScope>Comt. d'org. v, 9</biblScope></bibl></cit> Mais on dit aussi et mieux : mène-m'y, confie-t'y.  <cit><quote>Ne te compare pas aux autres, mais à moi [Dieu].... si tu m'<oVar>y</oVar> trouves [dans les autres], compare-t'<oVar>y</oVar></quote><bibl><author>PASC.</author><biblScope>Pens. XXV, 7, éd. HAVET.</biblScope></bibl></cit> <cit><quote>Tu as déjà prêté un serment ; tiens-t'<oVar>y</oVar></quote><bibl><author>CH. DE BERNARD</author><biblScope>Gentilh. camp. II, 28</biblScope></bibl></cit> </p>
 <p>5. Y se met toujours devant en et non après. Il faut dire : Il y en a, et jamais il en y a, comme l'on disait anciennement. Il y en apporta, etc. </p>
 <p>6. On dit : il n'y a pas de soieries en cette ville ; on y en expédiera. à l'impératif, on dira : expédiez-y-en. </p>
-<p>7. Dans les verbes s'en retourner, s'en aller, s'en venir, etc. on dit à l'impératif : retournez-vous-y-en, allez-vous-y-en, etc. <cit><quote>Les plus exquises choses qui soient au monde sont là assemblées comme en abrégé ; venez-vous-y-en, je vous en prie, car je n'ai garde d'y aller sans vous</quote><bibl><biblScope>Francion, IX, p. 367</biblScope></bibl></cit> <cit><quote>Retourne-t'y-en</quote><bibl><author>BOILEAU</author><biblScope>Héros de romans.</biblScope></bibl></cit> <cit><quote>Va-t'y-en, toi</quote><bibl><author>DANCOURT</author><biblScope>Gal. jard, sc. 10</biblScope></bibl></cit> Il n'y a aucune raison pour ne pas s'exprimer comme ces auteurs. </p>
+<p>7. Dans les verbes s'en retourner, s'en aller, s'en venir, etc. on dit à l'impératif : retournez-vous-y-en, allez-vous-y-en, etc. <cit><quote>Les plus exquises choses qui soient au monde sont là assemblées comme en abrégé ; venez-vous-<oVar>y</oVar>-en, je vous en prie, car je n'ai garde d'<oVar>y</oVar> aller sans vous</quote><bibl><biblScope>Francion, IX, p. 367</biblScope></bibl></cit> <cit><quote>Retourne-t'<oVar>y</oVar>-en</quote><bibl><author>BOILEAU</author><biblScope>Héros de romans.</biblScope></bibl></cit> <cit><quote>Va-t'<oVar>y</oVar>-en, toi</quote><bibl><author>DANCOURT</author><biblScope>Gal. jard, sc. 10</biblScope></bibl></cit> Il n'y a aucune raison pour ne pas s'exprimer comme ces auteurs. </p>
 <p>8. Toutes les fois qu'y est construit avec un impératif, il prend un trait d'union. </p>
 <p>9. Vaugelas : " - J'ai remis les hardes de mon frère à un tel, afin qu'il les y donne, pour dire afin qu'il les lui donne. C'est une faute toute commune parmi nos courtisans. " La remarque de Vaugelas est juste, et, dans l'exemple qu'il a cité, y est une faute. Mais il n'en est pas moins vrai que y s'emploie aussi en parlant de personnes, voyez les exemples. Toutefois c'est une des choses les plus difficiles que d'indiquer la nuance qui permet ou défend cet emploi. En général, il semble que y ne peut pas être mis quand il s'agit d'une action matérielle, ainsi on ne dira pas : j'y donne, pour : je lui donne, j'y prends, pour je lui prends. Mais, pour peu que l'action puisse être considérée au sens moral ou abstrait, y peut être employé. </p>
 <p>10. Des grammairiens ont dit que, quand le verbe qui suit y commence par un i, on supprime ce pronom pour éviter la rencontre de deux i, qui formerait un son désagréable, et qu'ainsi, au lieu de : Il m'a dit qu'il y irait, il faut : il m'a dit qu'il irait. C'est une vaine délicatesse d'oreille.  <cit><quote>Du reste, voici des exemples de cette suppression : On m'écrivit que vous étiez à Paris.... pour moi, je n'irai pas cette campagne</quote><bibl><author>BUSSY-RABUTIN</author><biblScope>Lett. à Mme de Sévigné, 23 mai, 1667</biblScope></bibl></cit> <cit><quote>Ne vous étonnez pas si je prends Paris toujours plus en haine ; je n'irai jamais</quote><bibl><author>J. J. ROUSS.</author><biblScope>Lett. à Mme d'Épinay, jeudi, 1757</biblScope></bibl></cit> </p>
-<p>11. Y ne doit pas faire hiatus en poésie.  <cit><quote>Il y a de l'adresse à bien cueillir des roses</quote><bibl><author>THÉOPHILE</author><biblScope>dans MALHERBE, édit. MÉNAGE, p. 274</biblScope></bibl></cit> <cit><quote>Tant y a qu'il n'est rien que votre chien ne prenne</quote><bibl><author>RAC.</author><biblScope>Plaid. III, 3</biblScope></bibl></cit> </p>
+<p>11. Y ne doit pas faire hiatus en poésie.  <cit><quote>Il <oVar>y</oVar> a de l'adresse à bien cueillir des roses</quote><bibl><author>THÉOPHILE</author><biblScope>dans MALHERBE, édit. MÉNAGE, p. 274</biblScope></bibl></cit> <cit><quote>Tant <oVar>y</oVar> a qu'il n'est rien que votre chien ne prenne</quote><bibl><author>RAC.</author><biblScope>Plaid. III, 3</biblScope></bibl></cit> </p>
 </note>
- <note type="REM." ana="supplement">12. Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.
+ <note ana="supplement" type="REM.">12. Dans une construction commençant par où, et le membre principal de la phrase venant après, on ne répugnait pas autrefois à mettre un <oVar>y</oVar> pléonastique dans ce membre.
 <cit>
-<quote>Où il n'y a rien, le roi y perd ses droits, et la nature aussi</quote>
+<quote>Où il n'<oVar>y</oVar> a rien, le roi <oVar>y</oVar> perd ses droits, et la nature aussi</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Lett. en vers et en prose, 162</biblScope>
@@ -734,7 +733,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 
 <label>IXe s.</label>
 <cit>
-<quote>In nulla aiudha contra Lodhuwig non li vi er [je ne lui y serai]</quote>
+<quote>In nulla aiudha contra Lodhuwig non li vi er [je ne lui <oVar>y</oVar> serai]</quote>
 <bibl>
 <biblScope>Serment</biblScope>
 </bibl>
@@ -815,7 +814,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 </bibl>
 </cit>
 <cit>
-<quote>Et se il l'otreent [octroient], il sont tenus d'estre y</quote>
+<quote>Et se il l'otreent [octroient], il sont tenus d'estre <oVar>y</oVar></quote>
 <bibl>
 <biblScope>Ass. de Jérus. I, 95</biblScope>
 </bibl>
@@ -824,7 +823,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 
 <label>XIVe s.</label>
 <cit>
-<quote>Li contes de Monfort y mist et ordena Ung chevalier engloiz qui grant renon ot jà ; Cappitaine le fist de ce chastel y-là</quote>
+<quote>Li contes de Monfort <oVar>y</oVar> mist et ordena Ung chevalier engloiz qui grant renon ot jà ; Cappitaine le fist de ce chastel <oVar>y</oVar>-là</quote>
 <bibl>
 <biblScope>Guesclin. 835</biblScope>
 </bibl>
@@ -833,56 +832,56 @@ Aujourd'hui ce pléonasme n'est plus admis.
 
 <label>XVIe s.</label>
 <cit>
-<quote>Reculant toujours à mettre la main à l'œuvre, pour autant qu'ilz avoient faulte de choses y necessaires</quote>
+<quote>Reculant toujours à mettre la main à l'œuvre, pour autant qu'ilz avoient faulte de choses <oVar>y</oVar> necessaires</quote>
 <bibl>
 <author>AMYOT</author>
 <biblScope>Cam. 52</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Lui assurant que la premiere fois qu'elle y parleroit [à un homme], qu'il la tueroit</quote>
+<quote>Lui assurant que la premiere fois qu'elle <oVar>y</oVar> parleroit [à un homme], qu'il la tueroit</quote>
 <bibl>
 <author>MARG.</author>
 <biblScope>Nouv. XXI</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il est malaysé d'y [sur l'homme] fonder jugement uniforme</quote>
+<quote>Il est malaysé d'<oVar>y</oVar> [sur l'homme] fonder jugement uniforme</quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>I, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Betis qui y [à Gaza] commandoit</quote>
+<quote>Betis qui <oVar>y</oVar> [à Gaza] commandoit</quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>I, 4</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Attendez-vous-y</quote>
+<quote>Attendez-vous-<oVar>y</oVar></quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>I, 88</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il n'est besoing que je m'y estende</quote>
+<quote>Il n'est besoing que je m'<oVar>y</oVar> estende</quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>I, 15</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Quiconque a eu besoing d'oracles en y a trouvé</quote>
+<quote>Quiconque a eu besoing d'oracles en <oVar>y</oVar> a trouvé</quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>II, 354</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Fiez-vous-y, pour veoir, à....</quote>
+<quote>Fiez-vous-<oVar>y</oVar>, pour veoir, à....</quote>
 <bibl>
 <author>MONT.</author>
 <biblScope>III, 373</biblScope>
@@ -928,13 +927,13 @@ Aujourd'hui ce pléonasme n'est plus admis.
 </bibl>
 </cit>
 <cit>
-<quote>Il [Charles II] fit le tour de quelques vaisseaux avec sa chaloupe, et en aurait considéré bien davantage, si le vent, devenu assez frais et contraire, ne l'eût obligé de monter sur un yacht pour retourner à Portsmouth</quote>
+<quote>Il [Charles II] fit le tour de quelques vaisseaux avec sa chaloupe, et en aurait considéré bien davantage, si le vent, devenu assez frais et contraire, ne l'eût obligé de monter sur un <oVar>yacht</oVar> pour retourner à Portsmouth</quote>
 <bibl>
 <biblScope>Mém. de d'Estrées, dans JAL.</biblScope>
 </bibl>
 </cit>
 <cit>
-<quote>Il [Guillaume III] lui donna [à Pierre Ier] un yacht de vingt-cinq pièces de canon, le meilleur voilier de la mer, doré comme un autel de Rome, avec des provisions de toute espèce</quote>
+<quote>Il [Guillaume III] lui donna [à Pierre Ier] un <oVar>yacht</oVar> de vingt-cinq pièces de canon, le meilleur voilier de la mer, doré comme un autel de Rome, avec des provisions de toute espèce</quote>
 <bibl>
 <author>VOLT.</author>
 <biblScope>Russie, Anecd.</biblScope>
@@ -979,7 +978,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 <sense>
 <dictScrap>Nom d'un des livres sacrés des Parses (avec un grand Y).</dictScrap>
 <cit>
-<quote>Agni [le dieu du feu] est représenté avec la ceinture en plusieurs endroits des Védas, et, dans le Yaçna, Ormusd présente la première ceinture à Haoma</quote>
+<quote>Agni [le dieu du feu] est représenté avec la ceinture en plusieurs endroits des Védas, et, dans le <oVar>Yaçna</oVar>, Ormusd présente la première ceinture à Haoma</quote>
 <bibl>
 <author>F. DELAUNAY</author>
 <biblScope>Journ. offic. 24 sept. 1872, p. 6168, 2e col.</biblScope>
@@ -1032,7 +1031,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 <sense>
 <dictScrap>Arme d'estoc et de taille, dont le tranchant affecte une forme concave, de manière à trancher en agissant du talon à la pointe.</dictScrap>
 <cit>
-<quote>Les armes blanches, sabres, grands couteaux appelés yatagans, et couteaux ordinaires que l'on fabrique à Rizé, sont très renommés</quote>
+<quote>Les armes blanches, sabres, grands couteaux appelés <oVar>yatagans</oVar>, et couteaux ordinaires que l'on fabrique à Rizé, sont très renommés</quote>
 <bibl>
 <author>DE PEYSSONNEL</author>
 <biblScope>Commerce de la mer Noire, II, 60</biblScope>
@@ -1070,7 +1069,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 <dictScrap>Terme d'astronomie. Nom d'une étoile de moyenne grandeur, dans la constellation de Pégase.</dictScrap>
 </sense>
 <re ana="supplement">
-<re>YED.  Ajoutez : - ÉTYM. <cit><quote>Arabe, yed, main, bras ; cette étoile est ainsi nommée à cause de sa position</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
+<re>YED.  Ajoutez : - ÉTYM. <cit><quote>Arabe, <oVar>yed</oVar>, main, bras ; cette étoile est ainsi nommée à cause de sa position</quote><bibl><author>DEVIC</author><biblScope>Dict. étym.</biblScope></bibl></cit> </re>
 </re>
 </entry>
 <entry xml:id="yéménique">
@@ -1160,7 +1159,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 <sense>
 <dictScrap>Chêne qui conserve ses feuilles vertes en toute saison, quercus ilex, L. On le nomme vulgairement chêne vert, mais cette dénomination convient aussi à d'autres chênes.</dictScrap>
 <cit>
-<quote>Ainsi croissent l'yeuse, Qui redouble des bois l'horreur religieuse, Le châtaignier....</quote>
+<quote>Ainsi croissent l'<oVar>yeuse</oVar>, Qui redouble des bois l'horreur religieuse, Le châtaignier....</quote>
 <bibl>
 <author>DELILLE</author>
 <biblScope>Géorg. II</biblScope>
@@ -1171,7 +1170,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 
 <label>XVIe s.</label>
 <cit>
-<quote>L'yeuse ressemble plus au roure qu'au chesne.... il est aussi appelé en France chesne-vert.... Le plus grand desquels yeuses tiendra rang en la forest</quote>
+<quote>L'<oVar>yeuse</oVar> ressemble plus au roure qu'au chesne.... il est aussi appelé en France chesne-vert.... Le plus grand desquels <oVar>yeuses</oVar> tiendra rang en la forest</quote>
 <bibl>
 <author>O. DE SERRES</author>
 <biblScope>795</biblScope>
@@ -1246,7 +1245,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 </bibl>
 </cit>
 </sense>
-<note type="REM.">Il y a faute contre l'usage à ne pas prendre l'y pour consonne.  <cit><quote>L'yole aux triples flammes</quote><bibl><author>V. HUGO</author><biblScope>Orient. 4</biblScope></bibl></cit> <cit><quote>Tombasis a vers nous fait voguer son yole</quote><bibl><author>P. LEBRUN</author><biblScope>Voy. de Grèce, VIII, 5</biblScope></bibl></cit> </note>
+<note type="REM.">Il y a faute contre l'usage à ne pas prendre l'y pour consonne.  <cit><quote>L'<oVar>yole</oVar> aux triples flammes</quote><bibl><author>V. HUGO</author><biblScope>Orient. 4</biblScope></bibl></cit> <cit><quote>Tombasis a vers nous fait voguer son <oVar>yole</oVar></quote><bibl><author>P. LEBRUN</author><biblScope>Voy. de Grèce, VIII, 5</biblScope></bibl></cit> </note>
 <etym>Allem. jölle.</etym>
 </entry>
 <entry xml:id="yon">
@@ -1270,7 +1269,7 @@ Aujourd'hui ce pléonasme n'est plus admis.
 <sense>
 <dictScrap>Se dit, en général, d'une très petite embarcation employée par les bâtiments de guerre.</dictScrap>
 <cit>
-<quote>Il y a là des youyous si légers qu'on les emporterait sous son bras comme un parapluie</quote>
+<quote>Il y a là des <oVar>youyous</oVar> si légers qu'on les emporterait sous son bras comme un parapluie</quote>
 <bibl>
 <author>TH. GAUTIER</author>
 <biblScope>Monit. univ. 26 mai 1867, p. 631, 3e col.</biblScope>
