@@ -13,19 +13,16 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 public class FormParser extends XMLParser {
-	private String motInput;	// Le mot a rechercher dans le fichier de correspondances
-	private String result;		// La correpondance trouvee
+	public String motInput;	// Le mot a rechercher dans le fichier de correspondances
+	public String result;		// La correpondance trouvee
 	/**
 	 * Classe permettant de parser les Formes Anciennes et de trouver le mot du littre corrsepondant
 	 * @param input
 	 * @param output
 	 * @param consoleOutput
 	 */
-	public FormParser(String input, String motInput, PrintWriter consoleOutput) {
+	public FormParser(String input, PrintWriter consoleOutput) {
 		super(input, "", consoleOutput);
-		this.motInput = motInput.toUpperCase();
-		// Par defaut, on initialise le resultat a la valeur fournie
-		this.result   = motInput.toUpperCase(); 
 	}
 
 	public void findMot(Node currentRoot, String mot) throws Exception{
@@ -78,5 +75,17 @@ public class FormParser extends XMLParser {
 				this.findMot(lettreList.item(0), this.motInput);
 		} //if motInput != "" 
 		
+	}
+	
+	@Override
+	public void createOutput() throws Exception{
+		// Pour s'assurer que l'on ne puisse creer d'output
+		this.xmlOutput = null;
+	}
+	
+	@Override
+	public void writeOutput() throws Exception{
+		// Pour s'assurer que l'on ne puisse creer d'output
+		this.out.println(this.result);
 	}
 }
