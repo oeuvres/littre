@@ -1,737 +1,655 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ne marche à travers l'http -->
 <?xml-stylesheet type="text/xsl" href="../../diple/modules/xrem/rng_html.xsl"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0"
-	ns="http://www.tei-c.org/ns/1.0"
-	datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
-	xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
-	xml:lang="fr">
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<title>Schéma d'encodage du Littré</title>
-		<h1><i>Littré</i>, structure.</h1>
-		<p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> conçue par François Gannaz (<a href="http://francois.gannaz.free.fr/Littre/accueil.php">version 1.3</a>) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
-	</a:documentation>
-
-	<!-- ========================= DESCRIPTION <text> ========================= -->
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<p><b><i>« Le passé de la langue conduit immédiatement l'esprit vers son avenir. »</i></b><br/>(Émile Littré, Préface du <i>Dictionnaire de la langue française</i>)</p>
-		<h2>« Pour la nomenclature »</h2>
-		<p>Convaincu de la nécessité de connaître les emplois passés pour éclairer les usages présents, Émile Littré construit la nomenclature de son <i>Dictionnaire de la langue française</i> sur le socle de celle du <i>Dictionnaire de l'Académie Française</i> ; ce « corps de la langue » est donc enrichi à partir de nombreuses sources d'addition :</p>
-		<p><ul>
-			<li>le « dépouillement des auteurs classiques » d'une part, ainsi que les « auteurs du seizième siècle, du quinzième, et même [...] les auteurs antérieurs, s'il était possible d'y puiser sans réserve » ;</li>
-			<li>les « termes de métier » (à partir de la nomenclature des travaux de Furetière et Richelet)  et les termes scientifiques d'autre part, deux objets par ailleurs bien distincts : « tandis que la langue des métiers est toujours populaire, souvent archaïque, et tirée des entrailles même de notre idiome, la langue scientifique est presque toute grecque, artificielle et systématique : là l'étymologie se présente d'elle-même ».</li>
-		</ul></p>
-	</a:documentation>
-
-	<define name="text">
-		<element name="text">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Corps du document</b></a:documentation>
-			<element name="body">
-				<oneOrMore>
-				  <choice>
-  					<ref name="entry"/>
-				    <ref name="entryFree"/>
-				  </choice>
-				</oneOrMore>
-			</element>
-		</element>
-	</define>
-
-	<!-- description de <entry> -->
-
-	<define name="entry">
-		<element name="entry">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Article (entrée)</b>
-				<p>Chaque entrée est dotée d'un identifiant unique, correspondant à sa vedette. Cet identifiant permet d'assurer la liaison entre les nombreux renvois et les entrées auxquelles ils réfèrent. Il peut-être :
+<grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+  <a:documentation>Littré, schéma d’encoage TEI</a:documentation>
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> conçue par François Gannaz (<a href="http://francois.gannaz.free.fr/Littre/accueil.php">version 1.3</a>) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
+    <blockquote>« Le passé de la langue conduit immédiatement l'esprit vers son avenir. »<br/>(Émile Littré, Préface du <i>Dictionnaire de la langue française</i>)</blockquote>
+  </div>
+  <div>
+    <a:documentation>Nomenclature</a:documentation>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <p>Convaincu de la nécessité de connaître les emplois passés pour éclairer les usages présents, Émile Littré construit la nomenclature de son <i>Dictionnaire de la langue française</i> sur le socle de celle du <i>Dictionnaire de l'Académie Française</i> ; ce « corps de la langue » est donc enrichi à partir de nombreuses sources d'addition :</p>
+      <ul>
+        <li>le « dépouillement des auteurs classiques » d'une part, ainsi que les « auteurs du seizième siècle, du quinzième, et même [...] les auteurs antérieurs, s'il était possible d'y puiser sans réserve » ;</li>
+        <li>les « termes de métier » (à partir de la nomenclature des travaux de Furetière et Richelet)  et les termes scientifiques d'autre part, deux objets par ailleurs bien distincts : « tandis que la langue des métiers est toujours populaire, souvent archaïque, et tirée des entrailles même de notre idiome, la langue scientifique est presque toute grecque, artificielle et systématique : là l'étymologie se présente d'elle-même ».</li>
+      </ul>
+    </div>
+    <define name="text">
+      <element name="text">
+        <a:documentation xmlns="http://www.w3.org/1999/xhtml">Corps du document</a:documentation>
+        <element name="body">
+          <oneOrMore>
+            <choice>
+              <ref name="entry"/>
+              <ref name="entryFree"/>
+            </choice>
+          </oneOrMore>
+        </element>
+      </element>
+    </define>
+    <!-- description de <entry> -->
+    <define name="entry">
+      <element name="entry">
+        <a:documentation>Article (entrée)</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Chaque entrée est dotée d'un identifiant unique, correspondant à sa vedette. Cet identifiant permet d'assurer la liaison entre les nombreux renvois et les entrées auxquelles ils réfèrent. Il peut-être :
 					<ul>
-						<li>une forme simple, auquel cas il s'agit du lemme de ce mot, éventuellement suivi d'un point et d'un indice numérique afin de différencier deux entrées portant sur le même lemme<br/><i>exemple : @xml:id="abrégé.1" et xml:id="abrégé.2" ;</i></li>
-						<li>une forme composée – type locution – transcrite telle quelle<br/><i>exemple : @xml:id="te_deum" et @xml:id="vaque_à_tout" ;</i></li>
-					</ul>
-				</p>
-			</a:documentation>
-			<attribute name="xml:id"/>
-		  <ref name="ana"/>
-			<ref name="form"/>
-			<optional>
-				<ref name="plan"/>
-			</optional>
-			<oneOrMore>
-				<ref name="sense"/>
-			</oneOrMore>
-			<zeroOrMore>
-				<ref name="proverbe"/>
-			</zeroOrMore>
- 		  <zeroOrMore>
-		    <ref name="rem"/>
-		  </zeroOrMore>
- 		  <zeroOrMore>
-		    <ref name="nuance"/>
-		  </zeroOrMore>
-		  <optional>
-		    <ref name="histoire"/>
-		  </optional>
-		  <zeroOrMore>
-		    <!-- Il y a parfois un complément d'étymologie en supplément -->
-		    <ref name="etym"/>
-		  </zeroOrMore>
-		  <optional>
-  			<ref name="supplement"/>
-		  </optional>
-		</element>
-	</define>
-
-  <!-- Mot dérivé -->
-  <define name="entryFree">
-    <element name="entryFree">
-      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Renvoi, préfixe, suffixe, forme fléchie…</b>
-<p>Cet élément permet de distinguer les entrées courtes.</p>
-<ul>
-  <li>un préfixe, auquel cas sa forme sera suivie d'un tiret court, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="andr-" ;</i></li>
-	<li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="acé" ;</i></li>
-</ul>      
-      </a:documentation>
-			<attribute name="xml:id"/>
-			<optional>
-				<attribute name="type">
-					<choice>
-						<value>prefixe</value>
-						<value>suffixe</value>
-					</choice>
-				</attribute>
-			</optional>
-		  <ref name="ana"/>
-      <element name="form">
-        <oneOrMore>
-          <ref name="orth"/>
-        </oneOrMore>
+              <li>une forme simple, auquel cas il s'agit du lemme de ce mot, éventuellement suivi d'un point et d'un indice numérique afin de différencier deux entrées portant sur le même lemme<br/><i>exemple : @xml:id="abrégé.1" et xml:id="abrégé.2" ;</i></li>
+              <li>une forme composée – type locution – transcrite telle quelle<br/><i>exemple : @xml:id="te_deum" et @xml:id="vaque_à_tout" ;</i></li>
+            </ul>
+          </p>
+        </div>
+        <attribute name="xml:id"/>
+        <ref name="ana"/>
+        <ref name="form"/>
         <optional>
-          <ref name="pron"/>
+          <ref name="rem"/>
         </optional>
         <optional>
-          <ref name="gram"/>
+          <ref name="plan"/>
+        </optional>
+        <oneOrMore>
+          <ref name="sense"/>
+        </oneOrMore>
+        <zeroOrMore>
+          <ref name="proverbe"/>
+        </zeroOrMore>
+        <zeroOrMore>
+          <choice>
+            <ref name="rem"/>
+            <ref name="nuance"/>
+            <ref name="histoire"/>
+            <ref name="etym"/>
+          </choice>
+        </zeroOrMore>
+        <!-- Provisoire, le temps de ramener les suppléments dans le corps de l'article -->
+        <optional>
+          <ref name="supplement"/>
         </optional>
       </element>
-      <zeroOrMore>
-        <choice>
-          <ref name="xr"/>
-          <ref name="etym"/>
-          <ref name="dictScrap"/>
-          <ref name="def"/>
-          <ref name="rem"/>
-        </choice>
-      </zeroOrMore>
-    </element>
-  </define>
-
-	<!-- description de <form> -->
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>« Pour la grammaire »</h2>
-		<p>Chaque entrée est composée d'un certain nombre d'éléments significatifs, à commencer par <b>form</b>, un élément obligatoirement présent et encodant des informations relatives à l'identification de l'item traité.</p>
-	</a:documentation>
-
-	<define name="form">
-		<element name="form">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Forme de la vedette</b>
-			<p>Au minimum, ces informations se résument à la représentation graphique du mot (<b>orth</b>), éventuellement enrichie d'indications grammaticales (<b>gram</b>) ou sur la prononciation de l'item (<b>pron</b>). Ces indications, le cas échéant, peuvent être enrichies de discussions ou remarques critiques de l'auteur (<b>note</b>), notamment sur la prononciation ou des particularités grammaticales.</p>
-			</a:documentation>
-		    <oneOrMore>
-		      <!-- ex: ACHAINE ou ACHÈNE -->
-		      <oneOrMore>
-      			<ref name="orth"/>
-		      </oneOrMore>
-    			<zeroOrMore>
-    				<ref name="note"/>
-    			</zeroOrMore>
-		      <zeroOrMore>
-      			<ref name="pron"/>
-		      </zeroOrMore>
-    			<zeroOrMore>
-    				<ref name="note"/>
-    			</zeroOrMore>
-		      <optional>
-		        <ref name="gram"/>
-		      </optional>
-		    </oneOrMore>
-  			<optional>
-  				<ref name="xr"/>
-  			</optional>
-  			<zeroOrMore>
-  				<ref name="cit"/>
-  			</zeroOrMore>
-  			<optional>
-  				<ref name="note"/>
-  			</optional>
-		</element>
-	</define>
-
-	<define name="orth">
-		<element name="orth">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Graphie</b></a:documentation>
-			<text/>
-		</element>
-	</define>
-
-	<define name="pron">
-		<element name="pron">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Prononciation</b></a:documentation>
-		  <zeroOrMore>
-		    <choice>
-    			<text/>
-  				<ref name="ref"/>
-  				<ref name="cit"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<define name="gram">
-		<element name="gram">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Indication grammaticale</b></a:documentation>
-		  <optional>
-		    <attribute name="norm">
-		      <choice>
-		        <value>A</value>
-		        <value>S</value>
-		        <value>V</value>
-		      </choice>    
-		    </attribute>
-		  </optional>
-		  <zeroOrMore>
-		    <choice>
-    			<text/>
-  				<ref name="ref"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<define name="note">
-		<element name="note">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Note mixte</b></a:documentation>
-		  <zeroOrMore>
-		    <choice>
-    			<text/>
-  				<ref name="ref"/>
-  				<ref name="oVar"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<!-- description de <sense> -->
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>« Pour la signification des mots »</h2>
-		<p>« l'Académie met toujours en premier rang la signification qui est la principale dans l'usage, c'est-à-dire celle avec laquelle le mot revient le plus souvent soit dans le parler, soit dans les écrits. [...] Sans doute, en un dictionnaire qui ne donne ni l'étymologie ni l'historique des mots, ce procédé empirique a été le meilleur à suivre. [...] en plaçant de la sorte au premier rang ce que le lecteur est disposé à trouver le plus naturel comme étant le plus habituel, on lui donne une satisfaction superficielle il est vrai, mais réelle pourtant. Toutefois cet avantage est acheté au prix d'inconvénients qui le dépassent de beaucoup. En effet ce sens le plus usité, le premier qui se présente d'ordinaire à la pensée quand on prononce le mot, le premier aussi que l'Académie inscrit, est souvent, par cela même qu'il est habituel et courant dans le langage moderne, un sens fort éloigné de l'acception vraie et primitive ; il en résulte que, ce sens ayant été ainsi posé tout d'abord, il ne reste plus aucun moyen de déduire et de ranger les acceptions subséquentes. [...]</p>
-		<p>Autre a dû être la méthode d'un dictionnaire qui consigne l'historique des mots et en recherche l'étymologie. Là, tous les éléments étant inscrits, on peut reconnaître la signification primordiale des mots. L'étymologie indique le sens originel dans la langue où le mot a été puisé ; l'historique indique comment, dès les premiers temps de la langue française, ce mot a été entendu, et supplée, ce qui est souvent fort important, des intermédiaires de signification qui ont disparu. Avec cet ensemble de documents, il devenait praticable, et, j'ajouterai, indispensable de soumettre la classification à un arrangement rationnel, sans désormais rien laisser à ce fait tout accidentel de la prédominance de tel ou tel sens dans l'usage commun, et de disposer les significations diverses d'un même mot en une telle série, que l'on comprît, en les suivant, par quels degrés et par quelles vues l'esprit avait passé de l'une a l'autre. »<br/>(Préface du <i>Littré</i>)</p>
-	</a:documentation>
-
-	<define name="sense">
-		<element name="sense">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Acception</b>
-			<p>La structure des acceptions formule cette hypothèses à valider :</p>
-			<ul>
-			  <li>Une acception est toujours introduite par une glose (ou citation de définition).</li>
-			  <li>Les sous-acceptions se succèdent en série stricte, sans insertions d'autres composants entre les items.</li>
-			  <li>Les proverbes et les renvois sont toujours renvoyés en fin d'acception.</li>
-			</ul>
-			</a:documentation>
-			<optional> <!-- @n absent si <entry> ne contient qu'un seul <sense>, obligatoire sinon -->
-				<attribute name="n">
-					<data type="positiveInteger"/>
-				</attribute>
-			</optional>
-		  <ref name="ana"/>
-		  <choice>
-        <ref name="dictScrap"/>
-	      <ref name="cit"/>
-	      <ref name="xr"/>
-		  </choice>
-	    <zeroOrMore>
-  	    <choice>
-    	    <ref name="cit"/>
-          <ref name="dictScrap"/>
-  	    </choice>
-	    </zeroOrMore>
-	    <!-- Avec sous-acception -->
-      <zeroOrMore>
-        <ref name="sense2"/>
-      </zeroOrMore>		    
-		  <zeroOrMore>
-		    <choice>
-  		    <ref name="proverbe"/>
-  		    <ref name="q"/>
-          <ref name="xr"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<define name="sense2">
-		<element name="sense">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-acception</b>
-			<p>Est-ce qu'une sous-acception est toujours introduite par une glose (ou une citation de définition) ?</p>
-			</a:documentation>
-		  <ref name="ana"/>
-			<choice>
-				<ref name="cit"/>
-				<ref name="dictScrap"/>
-			</choice>
-		  <zeroOrMore>
-		    <choice>
-      		<ref name="cit"/>
-					<ref name="dictScrap"/>
-		    </choice>
-		  </zeroOrMore>
-			<zeroOrMore>
-				<choice>
-				  <ref name="xr"/>
-  		    <ref name="proverbe"/>
-				</choice>
-			</zeroOrMore>		  
-		</element>
-	</define>
-  
-	<define name="dictScrap">
-		<element name="dictScrap"> <!-- TODO supprimer <dictScrap> sans attribut -->
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Contenu mixte</b>
-				<p>« Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches : presque point d'alinéas ; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition ; les vers revêtent la forme et le caractère de la prose. »<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i>, 1865)</p>
-			</a:documentation>
-		  <ref name="ana"/>
-		  <zeroOrMore>
-		    <choice>
-  				<text/>
-  				<ref name="def"/>
-  				<ref name="q"/>
-	   			<ref name="ref"/>
-	   			<ref name="oVar"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-  <define name="def">
-    <element name="def">
-      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Définition</b>
+    </define>
+    <!-- Mot dérivé -->
+    <define name="entryFree">
+      <element name="entryFree">
+        <a:documentation>Renvoi, préfixe, suffixe, forme fléchie…</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cet élément permet de distinguer les entrées courtes.</p>
+          <ul>
+            <li>un préfixe, auquel cas sa forme sera suivie d'un tiret court, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="andr-" ;</i></li>
+            <li>un suffixe, auquel cas sa forme sera la même que celle d'un mot simple, son statut de suffixe étant précisé par l'attribut <b>@type</b><br/><i>exemple : @xml:id="acé" ;</i></li>
+          </ul>
+        </div>
+        <attribute name="xml:id"/>
+        <optional>
+          <attribute name="type">
+            <choice>
+              <value>prefixe</value>
+              <value>suffixe</value>
+            </choice>
+          </attribute>
+        </optional>
+        <ref name="ana"/>
+        <element name="form">
+          <oneOrMore>
+            <ref name="orth"/>
+          </oneOrMore>
+          <optional>
+            <ref name="pron"/>
+          </optional>
+          <optional>
+            <ref name="gram"/>
+          </optional>
+        </element>
+        <zeroOrMore>
+          <choice>
+            <ref name="xr"/>
+            <ref name="etym"/>
+            <ref name="dictScrap"/>
+            <ref name="def"/>
+            <ref name="rem"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+  <define name="ref">
+    <!-- TODO Encadrer de <xr>-->
+    <element name="ref">
+      <a:documentation xmlns="http://www.w3.org/1999/xhtml">
+        <b>Renvoi</b>
+        <p>Littré intègre à son <i>Dictionnaire de la langue française</i> de nombreux renvois entre différentes entrées, qu'il convient de structurer finement afin de mieux comprendre le squelette définitionnel des items. Cela permettrait de représenter systématiquement ce réseau voulu par l'auteur et donner ainsi au texte une vraie dimension électronique, une réelle épaisseur.<br/>Le lien entre le renvoi et sa référence est désormais assuré par la mise en place des attributs <b>@xml:id</b></p>
       </a:documentation>
-		  <zeroOrMore>
-		    <choice>
-		      <text/>
-		    </choice>
-		  </zeroOrMore>
-    </element>
-  </define>
-
-	<!-- appelé par <dictScrap> et <note type="rem"> -->
-	<define name="q">
-		<element name="q">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Exemple, Locution</b>
-				<p>Cet élément, codant un discours à détacher de celui de l'auteur, dénote principalement des exemples, éventuellement des locutions figées voire des proverbes (la frontière est parfois mince).</p>
-				<p>Le besoin de sous-structuration de ces textes permet le repérage et l'analyse de nombreuses marques chères à l'auteur, révélant un texte très structuré, notamment dans la séparation entre les locutions et leur glose.<br/><i>exemple : « se dit de », « se dit quand », « c'est-à-dire ».</i></p>
-			</a:documentation>
-		  <zeroOrMore>
-		    <choice>
-		      <text/>
-		      <ref name="oVar"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Citations</h2>
-		<p>« La citation régulière et systématique d'exemples pris aux meilleurs auteurs est une innovation qui paraît être en conformité avec certaines tendances historiques de l'esprit moderne. »<br/>(Préface du <i>Littré</i>)</p>
-	</a:documentation>
-
-	<define name="cit">
-		<element name="cit">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Citation</b></a:documentation>
-		  <ref name="ana"/>
-			<element name="quote">
-			  <zeroOrMore>
-			    <choice>
-    				<text/>
-  					<ref name="oVar"/>
-  					<ref name="note"/>
-			    </choice>
-			  </zeroOrMore>
-			</element>
-  		<element name="bibl">
-  			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Référence bibliographique</b>
-  			</a:documentation>
-  			<optional>
-  				<element name="author">
-  					<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Auteur</b>
-  					</a:documentation>
-  					<optional>
-  						<attribute name="xml:id"/> <!-- TODO supprimer cardinalité <optional> -->
-  					</optional>
-  					<text/>
-  				</element>
-  			</optional>
-  			<element name="biblScope">
-  				<text/>
-  			</element>
-  		</element>
-		  <optional>
-		    <ref name="note"/>
-		  </optional>
-		</element>
-	</define>
-
-
-  <define name="oVar">
-    <element name="oVar">
-      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Rappel de la vedette</b>
-      </a:documentation>
+      <attribute name="target"/>
+      <!-- TODO ajouter <data type="anyURI"/> -->
       <text/>
     </element>
   </define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Remarques</h2>
-		<p>« Sous ce chef, j'ai réuni quelques notions complémentaires qui n'entrent pas d'ordinaire dans les plans lexicographiques, mais qui pourtant ne me semblent pas dénuées d'intérêt et d'utilité. [...] Ces remarques, de leur nature, sont très diverses. »<br/>(Préface du <i>Littré</i>)</p>
-		<p>Ainsi, ces remarques concernent notamment des difficultés de la langue, et l'auteur s'inspire des grammairiens, tout en apportant des éléments nouveaux, afin d'éclairer l'usage tant dans l'emploi que dans l'orthographe.</p>
-		<p>Toujours suivant ce principe directeur de « combine[r] l'usage présent de la langue et son usage passé, afin de donner à l'usage présent toute la plénitude et la sûreté qu'il comporte », Littré éclaire certaines proscriptions contemporaines concernant des faits de langue pourtant attestés chez les grands auteurs classiques.</p>
-	</a:documentation>
-
-	<define name="rem">
-		<element name="note">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Remarque</b></a:documentation>
-			<attribute name="type">
-				<value>REM.</value>
-			</attribute>
-		  <ref name="ana"/>
-			<choice>
-				<oneOrMore>
-					<ref name="p"/>
-				</oneOrMore>
-				<oneOrMore>
-				  <choice>
-  					<text/>
-						<ref name="cit"/>
-						<ref name="ref"/>
-						<ref name="oVar"/>
-						<ref name="xr"/>
-          </choice>
-				</oneOrMore>
-			</choice>
-		</element>
-	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Proverbes</h2>
-		<p>« Il est enfin un dernier ordre de remarques, tantôt mises sous ce chef, tantôt incorporées dans la série des acceptions du mot. Il s'agit de l'interprétation de certaines locutions figurées ou proverbiales. »<br/>(Préface du <i>Littré</i>)</p>
-	</a:documentation>
-
-	<define name="proverbe">
-		<element name="re">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Proverbe</b></a:documentation>
-			<attribute name="type">
-				<value>PROV.</value>
-			</attribute>
-		  <zeroOrMore>
-		    <choice>
-  				<text/>
-		      <element name="form">
-		        <text/>
-		      </element>
-      		<ref name="cit"/>
-      		<ref name="ref"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Nuances</h2>
-		<p>« [...] la discussion des synonymes m'a souvent averti de prendre garde aux nuances et de ne pas recevoir comme une véritable explication le renvoi d'un terme à l'autre. »<br/>(Préface du <i>Littré</i>)</p>
-		<p>La structuration raffinée et aboutie des nuances du <i>Littré</i>, d'ores et déjà effectuée par Frédéric Glorieux, est un bon exemple du degré de balisage pouvant être atteint sur l'ensemble du texte, donnant ainsi l'occasion de se pencher sur la lecture et l'étude d'une partie signifiante et cohérente de ce dictionnaire.</p>
-	</a:documentation>
-
-	<define name="nuance">
-		<element name="re">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Nuance</b></a:documentation>
-			<attribute name="type">
-				<value>SYN.</value>
-			</attribute>
-		  <zeroOrMore>
-		    <choice>
-  				<text/>
-					<ref name="cit"/>
-					<ref name="ref"/>
-		    </choice>
-		  </zeroOrMore>
-		</element>
-	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>« Pour la partie historique »</h2>
-		<p>« Je donne le nom d'historique à une collection de phrases appartenant à l'ancienne langue. Lorsqu'un mot a été exposé complètement tel qu'il est aujourd'hui dans l'usage, lorsque les sens y ont été rangés d'après l'ordre logique, lorsque des exemples classiques, autant que faire se peut, ont été rapportés à l'appui, lorsque la prononciation a été indiquée et, au besoin, discutée, lorsque enfin des remarques grammaticales et critiques ont touché, dans les cas qui le comportent, à l'emploi du mot ou aux difficultés qu'il présente, alors s'ouvre un nouveau paragraphe pour les textes tirés de la langue d'oïl. Ainsi placé, c'est le prolongement naturel d'une série que l'on tronque quand on s'arrête à notre temps et aux temps classiques. Après avoir vu comment écrivent Corneille, Pascal, Bossuet, Voltaire, Montesquieu et nos contemporains, on pénètre en arrière et l'on voit comment ont écrit Montaigne, Amyot, Commines et Froissart, Oresme et Machaut, Joinville, Jean de Meung, Guillaume de Lorris, Villehardouin, le sire de Couci, le traducteur du livre des Psaumes, et Turold, l'auteur de la Chanson de Roland. »<br/>(Préface du <i>Littré</i>)</p>
-	</a:documentation>
-
-	<define name="histoire">
-		<element name="note">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Information historique</b></a:documentation>
-			<attribute name="type">
-				<value>HIST.</value>
-			</attribute>
-		  <oneOrMore>
-    		<element name="label">
-    			<text/>
-    		</element>
-		    <oneOrMore>
-		      <choice>
-  		      <ref name="cit"/>
-  		      <ref name="note"/>
-		      </choice>
-		    </oneOrMore>
-		  </oneOrMore>
-		</element>
-	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>« Pour l'étymologie »</h2>
-		<p>« Cette rubrique, née toujours de la volonté de l'auteur de lié passé et présent, prend corps dans « la détermination ou du moins la discussion de l’origine de chaque mot établie par la comparaison des mêmes formes dans le français, dans les patois et dans l'espagnol, l'italien, et le provençal ou langue d'oc. »<br/>(Page de garde du <i>Littré</i>)</p>
-		<p>« [...] ceux qui iront jusqu'à désirer de connaître l'étymologie entreront dans l'histoire du mot, et trouveront, au-dessous de cette histoire, l'étymologie qui très souvent en est dépendante. »<br/>(Préface du <i>Littré</i>)</p>
-	</a:documentation>
-  
-	<define name="etym">
-		<element name="etym">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Étymologie</b></a:documentation>
-		  <ref name="ana"/>
-			<zeroOrMore>
-				<choice>
-    			<text/>
-					<ref name="oVar"/>
-					<ref name="cit"/>
-					<ref name="xr"/>
-					<ref name="ref"/>
-				</choice>
-				<text/>
-			</zeroOrMore>
-		</element>
-	</define>
-
-	<!-- ========================= DESCRIPTION éléments absents de la préface ========================= -->
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Supplément</h2>
-	</a:documentation>
-
-  <define name="ana">
-    <optional>
-      <attribute name="ana">
-  			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Issu du supplément</b>
-  			</a:documentation>
-        <value>supplement</value>
-      </attribute>
-    </optional>
-  </define>
-
-	<define name="supplement"> <!-- TODO ajouter @ana="supplement" aux fils direct -->
-		<element name="re">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Sous-entrée en supplément</b>
-			</a:documentation>
-		  <optional>
-  		  <attribute name="orig"/>
-		  </optional>
-			<attribute name="ana">
-				<value>supplement</value>
-			</attribute>
-			<zeroOrMore>
-				<choice>
-  				<ref name="sense"/>
-					<ref name="cit"/>
-					<ref name="dictScrap"/> <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
-					<ref name="etym"/>
-					<ref name="histoire"/>
-					<ref name="rem"/>
-					<ref name="re"/> <!-- TODO remplacer <re> sans attribut par autre élément -->
-					<ref name="nuance"/>
-					<ref name="proverbe"/>
-				</choice>
-			</zeroOrMore>
-		</element>
-	</define>
-
-	<!-- ========================= DESCRIPTION éléments de structure ========================= -->
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Plan</h2>
-	</a:documentation>
-
-	<define name="plan">
-		<element name="note">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Plan des acceptions</b>
-			</a:documentation>
-			<attribute name="type">
-				<value>plan</value>
-			</attribute>
-			<optional>
-				<ref name="dictScrap"/> <!-- code une intro générale sur le terme dans le texte -->
-			</optional>
-  		<element name="list">
-  			<oneOrMore>
-  				<element name="item">
-  					<attribute name="n">
-  						<data type="string"/> <!-- <data type="positiveInteger"/> sauf un cas -->
-  					</attribute>
-  					<text/>
-  				</element>
-  			</oneOrMore>
-  		</element>
-		</element>
-	</define>
-
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h2>Structuration</h2>
-	</a:documentation>
-
-	<define name="p">
-	  <element name="p">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Regroupement d'informations</b>
-			</a:documentation>
-	    <zeroOrMore>
-	      <choice>
-	        <text/>
-  				<ref name="ref"/>
-  				<ref name="cit"/>
-	      </choice>
-	    </zeroOrMore>
-		</element>
-	</define>
-
-
-  <define name="ref"> <!-- TODO Encadrer de <xr>-->
-		<element name="ref">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Renvoi</b>
-			<p>Littré intègre à son <i>Dictionnaire de la langue française</i> de nombreux renvois entre différentes entrées, qu'il convient de structurer finement afin de mieux comprendre le squelette définitionnel des items. Cela permettrait de représenter systématiquement ce réseau voulu par l'auteur et donner ainsi au texte une vraie dimension électronique, une réelle épaisseur.<br/>Le lien entre le renvoi et sa référence est désormais assuré par la mise en place des attributs <b>@xml:id</b></p>
-			</a:documentation>
-			<attribute name="target"/> <!-- TODO ajouter <data type="anyURI"/> -->
-			<text/>
-		</element>
-  </define>
-  
   <define name="xr">
     <element name="xr">
-      <a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Corrélat</b>
-      <p>Contient un renvoi avec ses introducteurs</p>
-      </a:documentation>
+      <a:documentation>Corrélat (Contient un renvoi avec ses introducteurs)</a:documentation>
       <oneOrMore>
         <choice>
           <text/>
           <ref name="ref"/>
         </choice>
       </oneOrMore>
-    </element>  
+    </element>
+  </define>
+  </div>
+  <!-- description de <form> -->
+  <div>
+    <a:documentation>Morphologie</a:documentation>
+    <div xmlns="http://www.w3.org/1999/xhtml">Chaque entrée est composée d'un certain nombre d'éléments significatifs, à commencer par <b>form</b>, un élément obligatoirement présent et encodant des informations relatives à l'identification de l'item traité.</div>
+    <define name="form">
+      <element name="form">
+        <a:documentation>Forme de la vedette</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">Au minimum, ces informations se résument à la représentation graphique du mot (<a:el>orth</a:el>), éventuellement enrichie d'indications grammaticales (<a:el>gram</a:el>) ou sur la prononciation de l'item (<a:el>pron</a:el>). Ces indications, le cas échéant, peuvent être enrichies de discussions ou remarques critiques de l'auteur (<a:el>note</a:el>), notamment sur la prononciation ou des particularités grammaticales.</div>
+        <oneOrMore>
+          <!-- ex: ACHAINE ou ACHÈNE -->
+          <oneOrMore>
+            <ref name="orth"/>
+          </oneOrMore>
+          <zeroOrMore>
+            <ref name="note"/>
+          </zeroOrMore>
+          <zeroOrMore>
+            <ref name="pron"/>
+          </zeroOrMore>
+          <zeroOrMore>
+            <ref name="note"/>
+          </zeroOrMore>
+          <optional>
+            <ref name="gram"/>
+          </optional>
+        </oneOrMore>
+        <optional>
+          <ref name="xr"/>
+        </optional>
+        <zeroOrMore>
+          <ref name="cit"/>
+        </zeroOrMore>
+        <optional>
+          <ref name="note"/>
+        </optional>
+      </element>
+    </define>
+    <define name="orth">
+      <element name="orth">
+        <a:documentation>Graphie</a:documentation>
+        <text/>
+      </element>
+    </define>
+    <define name="pron">
+      <element name="pron">
+        <a:documentation>Prononciation</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="ref"/>
+            <ref name="cit"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="gram">
+      <element name="gram">
+        <a:documentation>Indication grammaticale</a:documentation>
+        <optional>
+          <attribute name="norm">
+            <choice>
+              <value>A</value>
+              <value>S</value>
+              <value>V</value>
+            </choice>
+          </attribute>
+        </optional>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="ref"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="note">
+      <element name="note">
+        <a:documentation>Note mixte</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="ref"/>
+            <ref name="oVar"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+  </div>
+  <div>
+    <a:documentation>Significations</a:documentation>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <p>« l'Académie met toujours en premier rang la signification qui est la principale dans l'usage, c'est-à-dire celle avec laquelle le mot revient le plus souvent soit dans le parler, soit dans les écrits. [...] Sans doute, en un dictionnaire qui ne donne ni l'étymologie ni l'historique des mots, ce procédé empirique a été le meilleur à suivre. [...] en plaçant de la sorte au premier rang ce que le lecteur est disposé à trouver le plus naturel comme étant le plus habituel, on lui donne une satisfaction superficielle il est vrai, mais réelle pourtant. Toutefois cet avantage est acheté au prix d'inconvénients qui le dépassent de beaucoup. En effet ce sens le plus usité, le premier qui se présente d'ordinaire à la pensée quand on prononce le mot, le premier aussi que l'Académie inscrit, est souvent, par cela même qu'il est habituel et courant dans le langage moderne, un sens fort éloigné de l'acception vraie et primitive ; il en résulte que, ce sens ayant été ainsi posé tout d'abord, il ne reste plus aucun moyen de déduire et de ranger les acceptions subséquentes. [...]</p>
+      <p>Autre a dû être la méthode d'un dictionnaire qui consigne l'historique des mots et en recherche l'étymologie. Là, tous les éléments étant inscrits, on peut reconnaître la signification primordiale des mots. L'étymologie indique le sens originel dans la langue où le mot a été puisé ; l'historique indique comment, dès les premiers temps de la langue française, ce mot a été entendu, et supplée, ce qui est souvent fort important, des intermédiaires de signification qui ont disparu. Avec cet ensemble de documents, il devenait praticable, et, j'ajouterai, indispensable de soumettre la classification à un arrangement rationnel, sans désormais rien laisser à ce fait tout accidentel de la prédominance de tel ou tel sens dans l'usage commun, et de disposer les significations diverses d'un même mot en une telle série, que l'on comprît, en les suivant, par quels degrés et par quelles vues l'esprit avait passé de l'une a l'autre. »<br/>(Préface du <i>Littré</i>)</p>
+    </div>
+    <define name="sense">
+      <element name="sense">
+        <a:documentation>Acception</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>La structure des acceptions formule cette hypothèses à valider :</p>
+          <ul>
+            <li>Une acception est toujours introduite par une glose (ou citation de définition).</li>
+            <li>Les sous-acceptions se succèdent en série stricte, sans insertions d'autres composants entre les items.</li>
+            <li>Les proverbes et les renvois sont toujours renvoyés en fin d'acception.</li>
+          </ul>
+        </div>
+        <optional>
+          <!-- @n absent si <entry> ne contient qu'un seul <sense>, obligatoire sinon -->
+          <attribute name="n">
+            <data type="positiveInteger"/>
+          </attribute>
+        </optional>
+        <ref name="ana"/>
+        <choice>
+          <ref name="dictScrap"/>
+          <ref name="cit"/>
+          <ref name="xr"/>
+        </choice>
+        <optional>
+          <ref name="rem"/>
+        </optional>
+        <zeroOrMore>
+          <choice>
+            <ref name="cit"/>
+            <ref name="dictScrap"/>
+          </choice>
+        </zeroOrMore>
+        <!-- Avec sous-acception -->
+        <zeroOrMore>
+          <ref name="sense2"/>
+        </zeroOrMore>
+        <zeroOrMore>
+          <choice>
+            <ref name="proverbe"/>
+            <ref name="q"/>
+            <ref name="xr"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="sense2">
+      <element name="sense">
+        <a:documentation>Sous-acception</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">Est-ce qu'une sous-acception est toujours introduite par une glose (ou une citation de définition) ?</div>
+        <ref name="ana"/>
+        <choice>
+          <ref name="cit"/>
+          <ref name="dictScrap"/>
+        </choice>
+        <zeroOrMore>
+          <choice>
+            <ref name="cit"/>
+            <ref name="dictScrap"/>
+          </choice>
+        </zeroOrMore>
+        <zeroOrMore>
+          <choice>
+            <ref name="xr"/>
+            <ref name="proverbe"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="dictScrap">
+      <element name="dictScrap">
+        <a:documentation>Contenu mixte</a:documentation>
+        <!-- TODO supprimer <dictScrap> sans attribut -->
+        <div xmlns="http://www.w3.org/1999/xhtml">« Nous en sommes encore à nous demander comment un homme tel que M. Littré, et comment une maison aussi habile que celle qui figure au bas du titre, ont pu condamner le lecteur à un tel imbroglio et négliger à ce point un accessoire si essentiel dans un livre de recherches : presque point d'alinéas ; certains paragraphes ont jusqu'à deux, trois, quatre et même cinq cent lignes ; les exemples n'ont rien qui les distingue du texte de la définition ; les vers revêtent la forme et le caractère de la prose. »<br/>(Pierre Larousse, Préface du <i>Grand Dictionnaire universel</i>, 1865)</div>
+        <ref name="ana"/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="def"/>
+            <ref name="q"/>
+            <ref name="ref"/>
+            <ref name="oVar"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <define name="def">
+      <element name="def">
+        <a:documentation>Définition</a:documentation>
+        <zeroOrMore>
+          <choice>
+            <text/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    <!-- appelé par <dictScrap> et <note type="rem"> -->
+    <define name="q">
+      <element name="q">
+        <a:documentation>Exemple, Locution</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Cet élément, codant un discours à détacher de celui de l'auteur, dénote principalement des exemples, éventuellement des locutions figées voire des proverbes (la frontière est parfois mince).</p>
+          <p>Le besoin de sous-structuration de ces textes permet le repérage et l'analyse de nombreuses marques chères à l'auteur, révélant un texte très structuré, notamment dans la séparation entre les locutions et leur glose.<br/><i>exemple : « se dit de », « se dit quand », « c'est-à-dire ».</i></p>
+        </div>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="oVar"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+  <define name="plan">
+    <element name="note">
+      <a:documentation xmlns="http://www.w3.org/1999/xhtml">Plan des acceptions</a:documentation>
+      <attribute name="type">
+        <value>plan</value>
+      </attribute>
+      <optional>
+        <ref name="dictScrap"/>
+        <!-- code une intro générale sur le terme dans le texte -->
+      </optional>
+      <element name="list">
+        <oneOrMore>
+          <element name="item">
+            <attribute name="n">
+              <data type="string"/>
+              <!-- <data type="positiveInteger"/> sauf un cas -->
+            </attribute>
+            <text/>
+          </element>
+        </oneOrMore>
+      </element>
+    </element>
+  </define>
+  </div>
+  <div>
+    <a:documentation>Citations</a:documentation>
+    <define name="cit">
+      <element name="cit">
+        <a:documentation>Citation</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">« La citation régulière et systématique d'exemples pris aux meilleurs auteurs est une innovation qui paraît être en conformité avec certaines tendances historiques de l'esprit moderne. »<br/>(Préface du <i>Littré</i>)</div>
+        <ref name="ana"/>
+        <element name="quote">
+          <zeroOrMore>
+            <choice>
+              <text/>
+              <ref name="oVar"/>
+              <ref name="note"/>
+            </choice>
+          </zeroOrMore>
+        </element>
+        <element name="bibl">
+          <a:documentation>Référence bibliographique</a:documentation>
+          <optional>
+            <element name="author">
+              <a:documentation>Auteur</a:documentation>
+              <optional>
+                <attribute name="xml:id"/>
+                <!-- TODO supprimer cardinalité <optional> -->
+              </optional>
+              <text/>
+            </element>
+          </optional>
+          <element name="biblScope">
+            <text/>
+          </element>
+        </element>
+        <optional>
+          <ref name="note"/>
+        </optional>
+      </element>
+    </define>
+    <define name="oVar">
+      <element name="oVar">
+        <a:documentation>Rappel de la vedette</a:documentation>
+        <text/>
+      </element>
+    </define>
+  </div>
+  <div>
+    <a:documentation>Remarques, histoire, étymologie…</a:documentation>
+  <define name="rem">
+    <element name="note">
+      <a:documentation>Remarques</a:documentation>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>« Sous ce chef, j'ai réuni quelques notions complémentaires qui n'entrent pas d'ordinaire dans les plans lexicographiques, mais qui pourtant ne me semblent pas dénuées d'intérêt et d'utilité. [...] Ces remarques, de leur nature, sont très diverses. »<br/>(Préface du <i>Littré</i>)</p>
+        <p>Ainsi, ces remarques concernent notamment des difficultés de la langue, et l'auteur s'inspire des grammairiens, tout en apportant des éléments nouveaux, afin d'éclairer l'usage tant dans l'emploi que dans l'orthographe.</p>
+        <p>Toujours suivant ce principe directeur de « combine[r] l'usage présent de la langue et son usage passé, afin de donner à l'usage présent toute la plénitude et la sûreté qu'il comporte », Littré éclaire certaines proscriptions contemporaines concernant des faits de langue pourtant attestés chez les grands auteurs classiques.</p>
+      </div>
+      <attribute name="type">
+        <value>REM.</value>
+      </attribute>
+      <ref name="ana"/>
+      <choice>
+        <oneOrMore>
+          <ref name="p"/>
+        </oneOrMore>
+        <oneOrMore>
+          <choice>
+            <text/>
+            <ref name="cit"/>
+            <ref name="ref"/>
+            <ref name="oVar"/>
+            <ref name="xr"/>
+          </choice>
+        </oneOrMore>
+      </choice>
+    </element>
+  </define>
+  <define name="p">
+    <element name="p">
+      <a:documentation>Regroupement d'informations</a:documentation>
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="ref"/>
+          <ref name="cit"/>
+        </choice>
+      </zeroOrMore>
+    </element>
   </define>
 
-	<define name="re"> <!-- TODO supprimer <re> sans attribut -->
-		<element name="re">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-			</a:documentation>
-			<zeroOrMore>
-				<choice>
-					<text/>
-					<ref name="cit"/>
-					<ref name="form"/>
-					<ref name="ref"/>
-					<ref name="sense"/>
-				</choice>
-			</zeroOrMore>
-		</element>
-	</define>
-	
-	<!-- ========================= DESCRIPTION <TEI> ========================= -->
+  <define name="proverbe">
+    <element name="re">
+      <a:documentation>Proverbe</a:documentation>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>« Il est enfin un dernier ordre de remarques, tantôt mises sous ce chef, tantôt incorporées dans la série des acceptions du mot. Il s'agit de l'interprétation de certaines locutions figurées ou proverbiales. »<br/>(Préface du <i>Littré</i>)</p>
+      </div>
+      <attribute name="type">
+        <value>PROV.</value>
+      </attribute>
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <element name="form">
+            <text/>
+          </element>
+          <ref name="cit"/>
+          <ref name="ref"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="nuance">
+    <element name="re">
+      <a:documentation>Nuance</a:documentation>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>« [...] la discussion des synonymes m'a souvent averti de prendre garde aux nuances et de ne pas recevoir comme une véritable explication le renvoi d'un terme à l'autre. »<br/>(Préface du <i>Littré</i>)</p>
+        <p>La structuration raffinée et aboutie des nuances du <i>Littré</i>, d'ores et déjà effectuée par Frédéric Glorieux, est un bon exemple du degré de balisage pouvant être atteint sur l'ensemble du texte, donnant ainsi l'occasion de se pencher sur la lecture et l'étude d'une partie signifiante et cohérente de ce dictionnaire.</p>
+      </div>
+      <attribute name="type">
+        <value>SYN.</value>
+      </attribute>
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="cit"/>
+          <ref name="ref"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="histoire">
+    <element name="note">
+      <a:documentation>Information historique</a:documentation>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>« Je donne le nom d'historique à une collection de phrases appartenant à l'ancienne langue. Lorsqu'un mot a été exposé complètement tel qu'il est aujourd'hui dans l'usage, lorsque les sens y ont été rangés d'après l'ordre logique, lorsque des exemples classiques, autant que faire se peut, ont été rapportés à l'appui, lorsque la prononciation a été indiquée et, au besoin, discutée, lorsque enfin des remarques grammaticales et critiques ont touché, dans les cas qui le comportent, à l'emploi du mot ou aux difficultés qu'il présente, alors s'ouvre un nouveau paragraphe pour les textes tirés de la langue d'oïl. Ainsi placé, c'est le prolongement naturel d'une série que l'on tronque quand on s'arrête à notre temps et aux temps classiques. Après avoir vu comment écrivent Corneille, Pascal, Bossuet, Voltaire, Montesquieu et nos contemporains, on pénètre en arrière et l'on voit comment ont écrit Montaigne, Amyot, Commines et Froissart, Oresme et Machaut, Joinville, Jean de Meung, Guillaume de Lorris, Villehardouin, le sire de Couci, le traducteur du livre des Psaumes, et Turold, l'auteur de la Chanson de Roland. »<br/>(Préface du <i>Littré</i>)</p>
+      </div>
+      <attribute name="type">
+        <value>HIST.</value>
+      </attribute>
+      <oneOrMore>
+        <element name="label">
+          <text/>
+        </element>
+        <oneOrMore>
+          <choice>
+            <ref name="cit"/>
+            <ref name="note"/>
+          </choice>
+        </oneOrMore>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="etym">
+    <element name="etym">
+      <a:documentation>Étymologie</a:documentation>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>« Cette rubrique, née toujours de la volonté de l'auteur de lié passé et présent, prend corps dans « la détermination ou du moins la discussion de l’origine de chaque mot établie par la comparaison des mêmes formes dans le français, dans les patois et dans l'espagnol, l'italien, et le provençal ou langue d'oc. »<br/>(Page de garde du <i>Littré</i>)</p>
+        <p>« [...] ceux qui iront jusqu'à désirer de connaître l'étymologie entreront dans l'histoire du mot, et trouveront, au-dessous de cette histoire, l'étymologie qui très souvent en est dépendante. »<br/>(Préface du <i>Littré</i>)</p>
+      </div>
+      <ref name="ana"/>
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="oVar"/>
+          <ref name="cit"/>
+          <ref name="xr"/>
+          <ref name="ref"/>
+        </choice>
+        <text/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="ana">
+    <optional>
+      <attribute name="ana">
+        <a:documentation xmlns="http://www.w3.org/1999/xhtml">
+          <b>Issu du supplément</b>
+        </a:documentation>
+        <value>supplement</value>
+      </attribute>
+    </optional>
+  </define>
+  <define name="supplement">
+    <!-- TODO ajouter @ana="supplement" aux fils direct -->
+    <element name="re">
+      <a:documentation xmlns="http://www.w3.org/1999/xhtml">
+        <b>Sous-entrée en supplément</b>
+      </a:documentation>
+      <optional>
+        <attribute name="orig"/>
+      </optional>
+      <attribute name="ana">
+        <value>supplement</value>
+      </attribute>
+      <zeroOrMore>
+        <choice>
+          <ref name="sense"/>
+          <ref name="cit"/>
+          <ref name="dictScrap"/>
+          <!-- TODO remplacer <dictScrap> sans attribut par autre élément -->
+          <ref name="etym"/>
+          <ref name="histoire"/>
+          <ref name="rem"/>
+          <!-- TODO remplacer <re> sans attribut par autre élément -->
+          <ref name="nuance"/>
+          <ref name="proverbe"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+        <!--
+  <define name="re">
+    <element name="re">
+      <a:documentation xmlns="http://www.w3.org/1999/xhtml"> </a:documentation>
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="cit"/>
+          <ref name="form"/>
+          <ref name="ref"/>
+          <ref name="sense"/>
+        </choice>
+      </zeroOrMore>
+    </element>
+  </define>
+  -->
 
-	<a:documentation  xmlns="http://www.w3.org/1999/xhtml">
-		<h1>Schéma de l'entête de métadonnées</h1>
-	</a:documentation>
+  </div>
 
-	<start>
-		<element name="TEI">
-			<a:documentation xmlns="http://www.w3.org/1999/xhtml"><b>Élément racine</b>
-			</a:documentation>
-			<attribute name="xml:id"/> <!-- datatype sous-entendu -->
-			<ref name="teiHeader"/>
-			<ref name="text"/>
-		</element>
-	</start>
-
-	<!-- ========================= DESCRIPTION <teiHeader> ========================= -->
-
-	<define name="teiHeader">
-		<element name="teiHeader">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Métadonnées</b></a:documentation>
-			<ref name="fileDesc"/>
-		</element>
-	</define>
-
-	<define name="fileDesc">
-		<element name="fileDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description du document</b>
-				<p>Description éditoriale du document.</p>
-			</a:documentation>
-			<ref name="titleStmt"/>
-			<ref name="publicationStmt"/>
-			<ref name="sourceDesc"/>
-		</element>
-	</define>
-  
-	<define name="titleStmt">
-		<element name="titleStmt">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Titre du document</b></a:documentation>
-			<element name="title">
-				<text/>
-			</element>
-		</element>
-	</define>
-
-	<define name="publicationStmt">
-		<element name="publicationStmt">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Mention de publication</b>
-			  <p>Contient une série d'informations relatives à la publication de ce document.</p>
-			</a:documentation>
-			<element name="date">
-				<text/>
-			</element>
-			<element name="idno">
-				<text/>
-			</element>
-			<element name="publisher">
-				<text/>
-			</element>
-			<element name="availability">
-				<attribute name="status">
-					<value>restricted</value>
-				</attribute>
-				<oneOrMore>
-					<ref name="p"/>
-				</oneOrMore>
-			</element>
-		</element>
-	</define>
-
-	<define name="sourceDesc">
-		<element name="sourceDesc">
-			<a:documentation  xmlns="http://www.w3.org/1999/xhtml"><b>Description des sources</b>
-			<p>« Décrit la source à partir de laquelle un texte électronique a été dérivé ou produit » (Principes directeurs de la TEI-P5), ici d'une part le <i>Littré</i>, d'autre part la version électronique du <i>Littré</i> réalisée par François Gannaz.</p>
-			</a:documentation>
-		  <oneOrMore>
-  		  <element name="bibl">
-          <zeroOrMore>
-    		    <choice>
-    		      <text/>
-    					<ref name="ref"/>
-    		    </choice>
-    		  </zeroOrMore>
-  		  </element>
-		  </oneOrMore>
-		</element>
-	</define>
-
+  <div>
+    <a:documentation>Structure générale et entête</a:documentation>
+    <start>
+      <element name="TEI">
+        <a:documentation>Élément racine</a:documentation>
+        <attribute name="xml:id"/>
+        <!-- datatype sous-entendu -->
+        <ref name="teiHeader"/>
+        <ref name="text"/>
+      </element>
+    </start>
+    <!-- ========================= DESCRIPTION <teiHeader> ========================= -->
+    <define name="teiHeader">
+      <element name="teiHeader">
+        <a:documentation>Métadonnées</a:documentation>
+        <element name="fileDesc">
+          <a:documentation>Description du fichier</a:documentation>
+          <element name="titleStmt">
+            <a:documentation>Titre</a:documentation>
+            <element name="title">
+              <text/>
+            </element>
+          </element>
+          <element name="publicationStmt">
+            <a:documentation>Mention de publication</a:documentation>
+            <element name="date">
+              <text/>
+            </element>
+            <element name="idno">
+              <text/>
+            </element>
+            <element name="publisher">
+              <text/>
+            </element>
+            <element name="availability">
+              <attribute name="status">
+                <value>restricted</value>
+              </attribute>
+              <oneOrMore>
+                <ref name="p"/>
+              </oneOrMore>
+            </element>
+          </element>
+          <element name="sourceDesc">
+            <a:documentation>Description des sources</a:documentation>
+            <oneOrMore>
+              <element name="bibl">
+                <zeroOrMore>
+                  <choice>
+                    <text/>
+                    <ref name="ref"/>
+                  </choice>
+                </zeroOrMore>
+              </element>
+            </oneOrMore>
+          </element>
+        </element>
+      </element>
+    </define>
+  </div>
 </grammar>
