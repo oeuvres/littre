@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><?oxygen RNGSchema="littre.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="../transform/littre_html.xsl"?>
+<?xml-model href="littre.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="littre_j">
 <teiHeader>
 <fileDesc>
