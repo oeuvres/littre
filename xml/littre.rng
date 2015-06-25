@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/xrem/rng2html.xsl"?>
 <grammar datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xmlns="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
-  <a:documentation>Littré, schéma d’encoage TEI</a:documentation>
+  <a:documentation>Littré, schéma d’encodage TEI</a:documentation>
   <div xmlns="http://www.w3.org/1999/xhtml">
     <p>Présentation de la structure informatique du <i>Dictionnaire de la langue française</i> d'Émile Littré, encodé en XML et respectant les spécifications de la <a href="http://www.tei-c.org/Guidelines/P5/">TEI-P5</a>. Ce projet a été réalisé à partir de la version électronique du <i>Littré</i> conçue par François Gannaz (<a href="http://francois.gannaz.free.fr/Littre/accueil.php">version 1.3</a>) et correspond à l'intégralité de l’édition originale de 1872 en 4 volumes, enrichie de son supplément de 1877.</p>
     <blockquote>« Le passé de la langue conduit immédiatement l'esprit vers son avenir. »<br/>(Émile Littré, Préface du <i>Dictionnaire de la langue française</i>)</blockquote>
